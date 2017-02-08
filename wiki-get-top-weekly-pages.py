@@ -1,3 +1,9 @@
+# encoding=utf8  
+import sys  
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
+
 import pageviewapi
 import requests
 import json
@@ -111,7 +117,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 	#add pageviews
 	for article in articles[:limit]:
 		print 'loading stats for', article['title']
-		raw_stats = pageviewapi.per_article(project, urllib.quote(article['title']), startdate.strftime('%Y%m%d'), enddate.strftime('%Y%m%d'), access='all-access', agent='all-agents', granularity='daily')
+		raw_stats = pageviewapi.per_article(project, urllib.quote(article['title'].encode('utf8')), startdate.strftime('%Y%m%d'), enddate.strftime('%Y%m%d'), access='all-access', agent='all-agents', granularity='daily')
 		stats = []
 		#parse raw stats
 		#for now it is optimized for the vega code, quite messy.
@@ -158,7 +164,7 @@ def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 
 #wikicode variables
 w_year = 2017
-w_week = 1
+w_week = 4
 w_limit = 25
 w_croptemplate = 'Utente:Mikima/test/Template:CSS Crop'
 w_gnews_icon = 'Google_News_Logo.png'
@@ -177,7 +183,9 @@ if out_wikicode == True:
 	query = getWeekList('it.wikipedia', w_year, w_week, w_limit, None)
 	
 	#initialize the page
-	wikicode = 'Settimana dal ' + query['startdate'] + ' al ' + query['enddate'] + '\r\r'
+	wikicode = '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+2) + '|Settimana successiva]] →\r\r'
+	
+	wikicode += 'Settimana dal ' + query['startdate'] + ' al ' + query['enddate'] + '\r\r'
 	
 	#create table
 	wikicode += '{| class="wikitable sortable"\r!Posizione\r!Articolo\r!News\r!Giornaliero\r!Visite\r!Immagine\r!Descrizione\r'
