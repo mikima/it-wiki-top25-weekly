@@ -163,9 +163,9 @@ def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 #end of functions. main code below.
 
 #wikicode variables
-w_year = 2017
-w_week = 4
-w_limit = 25
+w_year = 2015
+w_week = 3
+w_limit = 11
 w_croptemplate = 'Utente:Mikima/test/Template:CSS Crop'
 w_gnews_icon = 'Google_News_Logo.png'
 w_thumbsize = 80
@@ -180,10 +180,12 @@ out_csv = True
 if out_wikicode == True:
 	
 	#get data
-	query = getWeekList('it.wikipedia', w_year, w_week, w_limit, None)
+	query = getWeekList('it.wikipedia', w_year, w_week-1, w_limit, None)
 	
 	#initialize the page
-	wikicode = '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+2) + '|Settimana successiva]] →\r\r'
+	wikicode = '{{Utente:Mikima/Top25/Template:Anni|settimana='+str(w_week)+'}}\r\r'
+	
+	wikicode += '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week-1) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+1) + '|Settimana successiva]] →\r\r'
 	
 	wikicode += 'Settimana dal ' + query['startdate'] + ' al ' + query['enddate'] + '\r\r'
 	
@@ -245,7 +247,7 @@ if out_json == True | out_csv == True:
 	jsonobj['results'] = []
 	
 	#get data
-	query = getWeekList('it.wikipedia', w_year, w_week, w_limit)
+	query = getWeekList('it.wikipedia', w_year, w_week-1, w_limit)
 	query['week_number'] = w_week
 	jsonobj['results'].append(query)
 
