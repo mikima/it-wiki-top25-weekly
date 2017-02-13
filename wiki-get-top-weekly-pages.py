@@ -60,6 +60,29 @@ def getImage(project, title, size):
 	except:
 		return None
 
+# get text snippet for a page
+# https://www.mediawiki.org/wiki/API:Page_info_in_search_results
+# https://it.wikipedia.org/w/api.php?action=query&formatversion=2&prop=pageterms&titles=Hunger%20Games%20(film)
+def getSnippet(project, title):
+	baseurl = 'https://'+project+'.org/w/api.php'
+	params = {}
+	params['action'] = 'query'
+	params['formatversion'] = '2'
+	params['titles'] = title
+	params['prop'] = 'pageterms'
+	params['format'] = 'json'
+	
+	r = requests.get(baseurl, params = params)
+	data = r.json()
+	print 'getting snippet ' + title
+	#print json.dumps(data, indent=4, sort_keys=True)
+
+	try:
+		snippet = data['query']['pages'][0]['terms']['description'][0]
+		return snippet
+	except:
+		return ''
+
 # generic function to sum statistics of multiple days.
 #
 # project: in which language you want the page. Two-letters codes (it, en, pt, es, ...)
@@ -109,10 +132,10 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 			articles.append(obj)
 			rank = rank + 1
 	
-	#add imgs
+	#add imgs and snippet
 	for article in articles[:limit]:
-		img = getImage(project, article['title'], thumbsize)
-		article['image'] = img
+		article['image'] = getImage(project, article['title'], thumbsize)
+		article['snippet'] = getSnippet(project, article['title'])
 	
 	#add pageviews
 	for article in articles[:limit]:
@@ -163,9 +186,9 @@ def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 #end of functions. main code below.
 
 #wikicode variables
-w_year = 2015
-w_week = 3
-w_limit = 11
+w_year = 2017
+w_week = 6
+w_limit = 25
 w_croptemplate = 'Utente:Mikima/test/Template:CSS Crop'
 w_gnews_icon = 'Google_News_Logo.png'
 w_thumbsize = 80
@@ -202,9 +225,10 @@ if out_wikicode == True:
 		proj = query['project']
 		google_news = '[' + 'https://www.google.it/search?q=' + item['title'].encode('utf-8').replace("_","%20") + '&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:' + date_st.strftime("%m/%d/%Y") + ',cd_max:' + date_ed.strftime("%m/%d/%Y") + '&tbm=nws' + ' ' + item['title'].encode('utf-8').replace("_"," ") +' su Google News]'
 		wmf_tools = '[https://tools.wmflabs.org/pageviews/?project=' + proj + '.org&platform=all-access&agent=user&start=' + date_st.strftime("%Y-%m-%d") + '&end=' + date_ed.strftime("%Y-%m-%d") + '&pages=' + item['title'].encode('utf-8') + ' vedi dati]'
-		
 		w_chart = '<graph>{"width":100,"height":42,"padding":{"top":0,"left":0,"bottom":0,"right":0},"data":' + json.dumps(item['stats']) + ',"scales":[{"name":"x","type":"ordinal","range":"width","domain":{"data":"table","field":"x"}},{"name":"y","type":"linear","range":"height","domain":[0,' + str(query['maxvalue']) + '],"nice":true}],"marks":[{"type":"rect","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"x"},"width":{"scale":"x","band":true,"offset":-0.5},"y":{"scale":"y","field":"y"},"y2":{"scale":"y","value":0}},"update":{"fill":{"value":"steelblue"}},"hover":{"fill":{"value":"red"}}}}]}</graph>'
-
+		snippet = ''
+		if item['snippet'] != '':
+			snippet = "''"+item['snippet']+"'' (descrizione automatica)"
 		
 		try:
 			print item['image']['pageimage'], item['image']['width'], item['image']['height']
@@ -215,7 +239,8 @@ if out_wikicode == True:
 			#check which side is bigger
 			if item['image']['height'] > item['image']['width'] :
 				bsize = w_thumbsize
-				otop = int((item['image']['height' ] + 0.0 - bsize) / 2 )
+				hsize = int((item['image']['height']+ 0.0) / (item['image']['width'] + 0.0) * w_thumbsize)
+				otop = int((hsize - w_thumbsize)/2)
 			else:
 				
 				bsize = int((item['image']['width']+ 0.0) / (item['image']['height'] + 0.0) * w_thumbsize)
@@ -223,12 +248,12 @@ if out_wikicode == True:
 				print 'bsize: ', bsize, ' oleft: ', oleft
 			
 			#prepare code for image
-			image = '{{' + w_croptemplate + '|oLeft = ' +str(oleft)+ '|bSize = ' + str(bsize) + '|cWidth = ' + str(w_thumbsize) + '|cHeight = ' + str(w_thumbsize) + '|Image = ' + item['image']['pageimage'] + '}}'
+			image = '{{' + w_croptemplate + '|oLeft = ' +str(oleft)+ '|oTop = ' + str(otop) + '|bSize = ' + str(bsize) + '|cWidth = ' + str(w_thumbsize) + '|cHeight = ' + str(w_thumbsize) + '|Image = ' + item['image']['pageimage'] + '}}'
 		except Exception as e:
 			image = ''
 			print str(e)
 		
-		wikicode += '|-\r!'+ rank + '\r|[['+ title +']]\r|'+ google_news +'\r|'+ w_chart + '\r\r' + wmf_tools +'\r|'+ pageviews +'\r|'+ image +'\r|\r'
+		wikicode += '|-\r!'+ rank + '\r|[['+ title +']]\r|'+ google_news +'\r|'+ w_chart + '\r\r' + wmf_tools +'\r|'+ pageviews +'\r|'+ image +'\r|'+snippet+'\r'
 	
 	#close table
 	wikicode += '|}'
