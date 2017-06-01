@@ -104,13 +104,17 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 	
 	for date in daterange(startdate,enddate):
 		print date.strftime("%Y-%m-%d")
-		results = pageviewapi.top(project, date.year, date.strftime('%m'), date.strftime('%d'), access='all-access')
-		#print json.dumps(results, indent=4, sort_keys=True)
-		for item in results['items'][0]['articles']:
-			if item['article'] in data:
-				data[item['article']] += item['views']
-			else:
-				data[item['article']] = item['views']
+		try:
+			results = pageviewapi.top(project, date.year, date.strftime('%m'), date.strftime('%d'), access='all-access')
+			#print json.dumps(results, indent=4, sort_keys=True)
+			for item in results['items'][0]['articles']:
+				if item['article'] in data:
+					data[item['article']] += item['views']
+				else:
+					data[item['article']] = item['views']
+		except:
+			print('impossible to fetch ', date.strftime("%Y-%m-%d"))
+		
 	data = sorted(data.items(), key=operator.itemgetter(1), reverse=True)
 	
 	articles = []
@@ -187,7 +191,7 @@ def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 
 #wikicode variables
 w_year = 2017
-w_week = 10
+w_week = 20
 w_limit = 25
 w_croptemplate = 'Utente:Mikima/test/Template:CSS Crop'
 w_gnews_icon = 'Google_News_Logo.png'
