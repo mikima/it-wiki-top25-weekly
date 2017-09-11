@@ -33,6 +33,15 @@ def daterange(start_date, end_date):
 # Example:
 # https://it.wikipedia.org/w/api.php?action=query&titles=Silvio_Berlusconi&prop=pageimages&format=json&pithumbsize=1000
 
+# to get copyright information, we can use a second query, like this:
+# https://commons.wikimedia.org/w/api.php?action=query&titles=File:Silvio_Berlusconi_(2010)_cropped.jpg
+#&prop=imageinfo
+#&iiprop=extmetadata
+#&format=json
+
+# it should be rewrite using the V2 api:
+# https://www.mediawiki.org/wiki/API:Page_info_in_search_results
+
 def getImage(project, title, size):
 	
 	baseurl = 'https://'+project+'.org/w/api.php'
@@ -44,21 +53,42 @@ def getImage(project, title, size):
 	params['pithumbsize'] = size
 	
 	r = requests.get(baseurl, params = params)
+	#print params['titles']
 	data = r.json()
 	print 'getting image ' + title
-	#print json.dumps(data, indent=4, sort_keys=True)
 	
 	#get page id
 	pageid = data['query']['pages'].keys()[0]
+	#print json.dumps(data['query']['pages'][pageid], indent=4, sort_keys=True)
 	try:
 		img = {}
 		img['thumbnail'] = data['query']['pages'][pageid]['thumbnail']['source']
 		img['pageimage'] = data['query']['pages'][pageid]['pageimage']
 		img['height'] = data['query']['pages'][pageid]['thumbnail']['height']
 		img['width'] = data['query']['pages'][pageid]['thumbnail']['width']
+		img['pageimage'] = data['query']['pages'][pageid]['pageimage']
+		# now get the license
+		'''
+		print ' getting license'
+		print ' ', 'File:' + img['pageimage']
+		
+		baseurl2 = 'https://commons.wikimedia.org/w/api.php'
+		params2 = {}
+		params2['action'] = 'query'
+		params2['titles'] = 'File:' + img['pageimage']
+		params2['prop'] = 'imageinfo'
+		params2['format'] = 'json'
+		params2['iiprop'] = 'extmetadata'	
+		r2 = requests.get(baseurl2, params = params2)
+		
+		data2 = r2.json()
+		#print json.dumps(data2, indent=4, sort_keys=True)
+		pageid2 = data2['query']['pages'].keys()[0]
+		license = data2['query']['pages'][pageid2]['imageinfo'][0]['extmetadata']['LicenseShortName']
+		'''
+		
 		return img
-	except:
-		return None
+	except Exception,e: print str(e)
 
 # get text snippet for a page
 # https://www.mediawiki.org/wiki/API:Page_info_in_search_results
@@ -94,7 +124,7 @@ def getSnippet(project, title):
 def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 	
 	#define stopwords
-	stopwords = ['Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php']
+	stopwords = ['Progetto:','Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php']
 	
 	#set up the maxvalue var
 	
@@ -143,7 +173,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 	
 	#add pageviews
 	for article in articles[:limit]:
-		print 'loading stats for', article['title']
+		print 'loading stats for', article['title'], ' from ', startdate.strftime('%Y%m%d'), ' to ', enddate.strftime('%Y%m%d')
 		raw_stats = pageviewapi.per_article(project, urllib.quote(article['title'].encode('utf8')), startdate.strftime('%Y%m%d'), enddate.strftime('%Y%m%d'), access='all-access', agent='all-agents', granularity='daily')
 		stats = []
 		#parse raw stats
@@ -151,6 +181,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 		stats.append({})
 		stats[0]['name'] = 'table'
 		stats[0]['values'] = []
+		print json.dumps(raw_stats, indent=4, sort_keys=True) # check from here error of 6 output
 		for item in raw_stats['items']:
 			item_result = {}
 			item_result['x'] = datetime.strptime(item['timestamp'],"%Y%m%d%M").strftime("%m/%d/%Y")
@@ -160,7 +191,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 			
 			stats[0]['values'].append(item_result)
 			
-		
+		print json.dumps(stats, indent=4, sort_keys=True) # check from here error of 6 output
 		article['stats'] = stats
 	
 	results = {}
@@ -191,7 +222,7 @@ def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 
 #wikicode variables
 w_year = 2017
-w_week = 20
+w_week = 36
 w_limit = 25
 w_croptemplate = 'Utente:Mikima/test/Template:CSS Crop'
 w_gnews_icon = 'Google_News_Logo.png'
@@ -219,7 +250,6 @@ if out_wikicode == True:
 	#create table
 	wikicode += '{| class="wikitable sortable"\r!Posizione\r!Articolo\r!News\r!Giornaliero\r!Visite\r!Immagine\r!Descrizione\r'
 	for item in query['articles']:
-		#print item
 		rank = str(item['rank'])
 		title = item['title'].replace('_',' ')
 		pageviews = "{:,}".format(item['pageviews']).replace(',','.')
