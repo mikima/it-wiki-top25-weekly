@@ -124,7 +124,7 @@ def getSnippet(project, title):
 def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 	
 	#define stopwords
-	stopwords = ['Progetto:','Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php']
+	stopwords = ['Progetto:','Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php','armi_segrete',"TeleColor", "TG_Norba_24"]
 	
 	#set up the maxvalue var
 	
@@ -221,8 +221,8 @@ def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 #end of functions. main code below.
 
 #wikicode variables
-w_year = 2017
-w_week = 36
+w_year = 2018
+w_week = 20
 w_limit = 25
 w_croptemplate = 'Utente:Mikima/test/Template:CSS Crop'
 w_gnews_icon = 'Google_News_Logo.png'
