@@ -1,7 +1,7 @@
-# encoding=utf8  
-import sys  
+# encoding=utf8
+import sys
 
-reload(sys)  
+reload(sys)
 sys.setdefaultencoding('utf8')
 
 import pageviewapi
@@ -43,7 +43,7 @@ def daterange(start_date, end_date):
 # https://www.mediawiki.org/wiki/API:Page_info_in_search_results
 
 def getImage(project, title, size):
-	
+
 	baseurl = 'https://'+project+'.org/w/api.php'
 	params = {}
 	params['action'] = 'query'
@@ -51,12 +51,12 @@ def getImage(project, title, size):
 	params['prop'] = 'pageimages'
 	params['format'] = 'json'
 	params['pithumbsize'] = size
-	
+
 	r = requests.get(baseurl, params = params)
 	#print params['titles']
 	data = r.json()
 	print 'getting image ' + title
-	
+
 	#get page id
 	pageid = data['query']['pages'].keys()[0]
 	#print json.dumps(data['query']['pages'][pageid], indent=4, sort_keys=True)
@@ -71,22 +71,22 @@ def getImage(project, title, size):
 		'''
 		print ' getting license'
 		print ' ', 'File:' + img['pageimage']
-		
+
 		baseurl2 = 'https://commons.wikimedia.org/w/api.php'
 		params2 = {}
 		params2['action'] = 'query'
 		params2['titles'] = 'File:' + img['pageimage']
 		params2['prop'] = 'imageinfo'
 		params2['format'] = 'json'
-		params2['iiprop'] = 'extmetadata'	
+		params2['iiprop'] = 'extmetadata'
 		r2 = requests.get(baseurl2, params = params2)
-		
+
 		data2 = r2.json()
 		#print json.dumps(data2, indent=4, sort_keys=True)
 		pageid2 = data2['query']['pages'].keys()[0]
 		license = data2['query']['pages'][pageid2]['imageinfo'][0]['extmetadata']['LicenseShortName']
 		'''
-		
+
 		return img
 	except Exception,e: print str(e)
 
@@ -101,7 +101,7 @@ def getSnippet(project, title):
 	params['titles'] = title
 	params['prop'] = 'pageterms'
 	params['format'] = 'json'
-	
+
 	r = requests.get(baseurl, params = params)
 	data = r.json()
 	print 'getting snippet ' + title
@@ -122,16 +122,16 @@ def getSnippet(project, title):
 # thumbsize: target size of the thumbnail. Default: 1000.
 
 def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
-	
+
 	#define stopwords
 	stopwords = ['Progetto:','Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php','armi_segrete',"TeleColor", "TG_Norba_24"]
-	
+
 	#set up the maxvalue var
-	
+
 	maxvalue = 0
 
 	data = dict()
-	
+
 	for date in daterange(startdate,enddate):
 		print date.strftime("%Y-%m-%d")
 		try:
@@ -144,9 +144,9 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 					data[item['article']] = item['views']
 		except:
 			print('impossible to fetch ', date.strftime("%Y-%m-%d"))
-		
+
 	data = sorted(data.items(), key=operator.itemgetter(1), reverse=True)
-	
+
 	articles = []
 	#create an object for each article
 	rank = 1
@@ -165,12 +165,12 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 			obj['rank'] = rank
 			articles.append(obj)
 			rank = rank + 1
-	
+
 	#add imgs and snippet
 	for article in articles[:limit]:
 		article['image'] = getImage(project, article['title'], thumbsize)
 		article['snippet'] = getSnippet(project, article['title'])
-	
+
 	#add pageviews
 	for article in articles[:limit]:
 		print 'loading stats for', article['title'], ' from ', startdate.strftime('%Y%m%d'), ' to ', enddate.strftime('%Y%m%d')
@@ -188,21 +188,21 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 			item_result['y'] = item['views']
 			if int(item['views']) > maxvalue:
 				maxvalue = int(item['views'])
-			
+
 			stats[0]['values'].append(item_result)
-			
+
 		print json.dumps(stats, indent=4, sort_keys=True) # check from here error of 6 output
 		article['stats'] = stats
-	
+
 	results = {}
 	results['maxvalue'] = maxvalue
 	results['project'] = project
 	results['startdate'] = startdate.strftime("%Y-%m-%d")
 	results['enddate'] = enddate.strftime("%Y-%m-%d")
 	results['articles'] = articles[:limit]
-	
+
 	return results
-	
+
 # function to get the sum for a specific week (monday-sunday).
 #
 # project: in which language you want the page. Two-letters codes (it, en, pt, es, ...)
@@ -214,7 +214,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 	startdate = datetime.strptime(str(year)+'-'+str(week)+'-0', '%Y-%W-%w') + timedelta(days=1)
 	enddate = startdate + timedelta(days=6)
-	
+
 	results = getSum(project, startdate, enddate, limit, thumbsize)
 	return results
 
@@ -222,7 +222,7 @@ def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 
 #wikicode variables
 w_year = 2018
-w_week = 20
+w_week = 21
 w_limit = 25
 w_croptemplate = 'Utente:Mikima/test/Template:CSS Crop'
 w_gnews_icon = 'Google_News_Logo.png'
@@ -236,17 +236,17 @@ out_csv = True
 
 #save wikicode
 if out_wikicode == True:
-	
+
 	#get data
 	query = getWeekList('it.wikipedia', w_year, w_week-1, w_limit, None)
-	
+
 	#initialize the page
 	wikicode = '{{Utente:Mikima/Top25/Template:Anni|settimana='+str(w_week)+'}}\r\r'
-	
+
 	wikicode += '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week-1) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+1) + '|Settimana successiva]] →\r\r'
-	
+
 	wikicode += 'Settimana dal ' + query['startdate'] + ' al ' + query['enddate'] + '\r\r'
-	
+
 	#create table
 	wikicode += '{| class="wikitable sortable"\r!Posizione\r!Articolo\r!News\r!Giornaliero\r!Visite\r!Immagine\r!Descrizione\r'
 	for item in query['articles']:
@@ -263,48 +263,48 @@ if out_wikicode == True:
 		snippet = ''
 		if item['snippet'] != '':
 			snippet = "''"+item['snippet']+"'' (descrizione automatica)"
-		
+
 		try:
 			print item['image']['pageimage'], item['image']['width'], item['image']['height']
 			bsize = 0
 			oleft = 0
 			otop = 0
-			
+
 			#check which side is bigger
 			if item['image']['height'] > item['image']['width'] :
 				bsize = w_thumbsize
 				hsize = int((item['image']['height']+ 0.0) / (item['image']['width'] + 0.0) * w_thumbsize)
 				otop = int((hsize - w_thumbsize)/2)
 			else:
-				
+
 				bsize = int((item['image']['width']+ 0.0) / (item['image']['height'] + 0.0) * w_thumbsize)
 				oleft = int((bsize - w_thumbsize)/2)
 				print 'bsize: ', bsize, ' oleft: ', oleft
-			
+
 			#prepare code for image
 			image = '{{' + w_croptemplate + '|oLeft = ' +str(oleft)+ '|oTop = ' + str(otop) + '|bSize = ' + str(bsize) + '|cWidth = ' + str(w_thumbsize) + '|cHeight = ' + str(w_thumbsize) + '|Image = ' + item['image']['pageimage'] + '}}'
 		except Exception as e:
 			image = ''
 			print str(e)
-		
+
 		wikicode += '|-\r!'+ rank + '\r|[['+ title +']]\r|'+ google_news +'\r|'+ w_chart + '\r\r' + wmf_tools +'\r|'+ pageviews +'\r|'+ image +'\r|'+snippet+'\r'
-	
+
 	#close table
 	wikicode += '|}'
-	
+
 	#save txt
 	text_file = open(out_name + ".txt", "w")
 	text_file.write(wikicode.encode('utf8'))
 	text_file.close()
-	
+
 #save json and csv file
 
 if out_json == True | out_csv == True:
-	
+
 	#variables
 	jsonobj = {}
 	jsonobj['results'] = []
-	
+
 	#get data
 	query = getWeekList('it.wikipedia', w_year, w_week-1, w_limit)
 	query['week_number'] = w_week
@@ -324,7 +324,7 @@ if out_json == True | out_csv == True:
 		writer.writerow(['Start Date','End Date','Rank','Image','Link', 'Title', 'Google News', 'WMF tools','Pageviews'])
 
 		for item in jsonobj['results']:
-	
+
 			date_st = datetime.strptime(item['startdate'],"%Y-%m-%d")
 			date_ed = datetime.strptime(item['enddate'],"%Y-%m-%d")
 			print date_st, date_ed
@@ -337,7 +337,7 @@ if out_json == True | out_csv == True:
 					imgurl = article['image']['thumbnail']
 				except:
 					imgurl = ''
-			
+
 				google_news = 'https://www.google.it/search?q=' + article['title'].encode('utf-8').replace("_"," ") + '&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:' + date_st.strftime("%m/%d/%Y") + ',cd_max:' + date_ed.strftime("%m/%d/%Y") + '&tbm=nws'
 				wmf_tools = 'https://tools.wmflabs.org/pageviews/?project=' + proj + '.org&platform=all-access&agent=user&start=' + date_st.strftime("%Y-%m-%d") + '&end=' + date_ed.strftime("%Y-%m-%d") + '&pages=' + article['title'].encode('utf-8')
 				writer.writerow([item['startdate'],item['enddate'], article['rank'] , imgurl, link.encode('utf-8'), article['title'].encode('utf-8').replace("_"," "), google_news, wmf_tools, article['pageviews']])
