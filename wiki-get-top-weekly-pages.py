@@ -222,17 +222,17 @@ def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 
 #wikicode variables
 w_year = 2018
-w_week = 21
+w_week = 29
 w_limit = 25
-w_croptemplate = 'Utente:Mikima/test/Template:CSS Crop'
+w_croptemplate = 'Template:Ritaglio_immagine_con_CSS'
 w_gnews_icon = 'Google_News_Logo.png'
 w_thumbsize = 80
 
 #boolean variables to define the type of output
 out_name = "weekly_data"
 out_wikicode = True
-out_json = True
-out_csv = True
+out_json = False
+out_csv = False
 
 #save wikicode
 if out_wikicode == True:
@@ -244,8 +244,24 @@ if out_wikicode == True:
 	wikicode = '{{Utente:Mikima/Top25/Template:Anni|settimana='+str(w_week)+'}}\r\r'
 
 	wikicode += '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week-1) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+1) + '|Settimana successiva]] →\r\r'
-
-	wikicode += 'Settimana dal ' + query['startdate'] + ' al ' + query['enddate'] + '\r\r'
+	# create the string
+	italianMonths = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"]
+	# decode dates
+	date_st = datetime.strptime(query['startdate'],"%Y-%m-%d")
+	date_ed = datetime.strptime(query['enddate'],"%Y-%m-%d")
+	# encode dates
+	st_day = int(date_st.strftime("%e"))
+	ed_day = int(date_ed.strftime("%e"))
+	st_month = italianMonths[int(date_st.strftime("%m"))-1]
+	ed_month = italianMonths[int(date_ed.strftime("%m"))-1]
+	st_year = date_st.strftime("%Y")
+	ed_year = date_ed.strftime("%Y")
+	if ( st_month == ed_month):
+		#same month
+ 		wikicode += 'Settimana dal ' + str(st_day) + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\r\r'
+	else:
+		#different month
+		wikicode += 'Settimana dal ' + str(st_day) + ' ' + st_month + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\r\r'
 
 	#create table
 	wikicode += '{| class="wikitable sortable"\r!Posizione\r!Articolo\r!News\r!Giornaliero\r!Visite\r!Immagine\r!Descrizione\r'
