@@ -1,5 +1,5 @@
 # encoding=utf8
-import sys
+import argparse, sys
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -13,9 +13,43 @@ import locale
 import urllib
 from datetime import datetime, timedelta, date
 
+# load from arguments
 
-# Third version of the scaper.
-# will output a TXT file with the final Wikicode.
+parser=argparse.ArgumentParser()
+
+parser.add_argument('--week', '-w', help="The year you want to get, numbered", type= int)
+parser.add_argument('--year', '-y', help="The year you want to get", type= int, default= 2018)
+parser.add_argument('--limit', '-l', help="Amount of results", type= int, default= 25)
+parser.add_argument('--thumbnailSize', '-ts', help="Size of thumbnail, in pixels", type= int, default= 80)
+parser.add_argument('--outName', '-o', help="Name of the output file", type= str, default= 'weekly_data')
+parser.add_argument('--format', '-f', help="formats, separated by comma. Possible: csv, json, wikicode", type= str, default= 'wikicode');
+parser.add_argument('--stopwords', '-stop', help="stopwords, separated by comma", type= str, default= '')
+
+args=parser.parse_args()
+print args
+
+#wikicode variables
+w_year = args.year
+w_week = args.week
+w_limit = args.limit
+w_thumbsize = args.thumbnailSize
+w_croptemplate = 'Template:Ritaglio_immagine_con_CSS'
+w_gnews_icon = 'Google_News_Logo.png'
+w_stopwords = args.stopwords.split(',')
+
+print w_stopwords
+
+#boolean variables to define the type of output
+out_wikicode = False
+out_json = False
+out_csv = False
+out_name = args.outName
+if 'wikicode' in args.format:
+	out_wikicode = True
+if 'json' in args.format:
+	out_json = True
+if 'csv' in args.format:
+	out_csv = True
 
 # FUNCTIONS
 
@@ -124,8 +158,11 @@ def getSnippet(project, title):
 def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 
 	#define stopwords
-	stopwords = ['Progetto:','Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php','armi_segrete',"TeleColor", "TG_Norba_24"]
-
+	stopwords = ['Progetto:','Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php']
+	#add the custom ones
+	if w_stopwords[0] is not '':
+		stopwords = stopwords + w_stopwords
+	print stopwords
 	#set up the maxvalue var
 
 	maxvalue = 0
@@ -219,20 +256,6 @@ def getWeekList(project, year, week,limit=1000,thumbsize=1000):
 	return results
 
 #end of functions. main code below.
-
-#wikicode variables
-w_year = 2018
-w_week = 29
-w_limit = 25
-w_croptemplate = 'Template:Ritaglio_immagine_con_CSS'
-w_gnews_icon = 'Google_News_Logo.png'
-w_thumbsize = 80
-
-#boolean variables to define the type of output
-out_name = "weekly_data"
-out_wikicode = True
-out_json = False
-out_csv = False
 
 #save wikicode
 if out_wikicode == True:
