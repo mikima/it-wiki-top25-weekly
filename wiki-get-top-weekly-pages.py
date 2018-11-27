@@ -87,12 +87,15 @@ def getImage(project, title, size):
 	params['pithumbsize'] = size
 
 	r = requests.get(baseurl, params = params)
-	#print params['titles']
+
 	data = r.json()
 	print 'getting image ' + title
-
+	#get image license
 	#get page id
 	pageid = data['query']['pages'].keys()[0]
+
+	license = 'none'
+
 	#print json.dumps(data['query']['pages'][pageid], indent=4, sort_keys=True)
 	try:
 		img = {}
@@ -102,27 +105,39 @@ def getImage(project, title, size):
 		img['width'] = data['query']['pages'][pageid]['thumbnail']['width']
 		img['pageimage'] = data['query']['pages'][pageid]['pageimage']
 		# now get the license
-		'''
-		print ' getting license'
-		print ' ', 'File:' + img['pageimage']
-
-		baseurl2 = 'https://commons.wikimedia.org/w/api.php'
-		params2 = {}
-		params2['action'] = 'query'
-		params2['titles'] = 'File:' + img['pageimage']
-		params2['prop'] = 'imageinfo'
-		params2['format'] = 'json'
-		params2['iiprop'] = 'extmetadata'
-		r2 = requests.get(baseurl2, params = params2)
-
-		data2 = r2.json()
-		#print json.dumps(data2, indent=4, sort_keys=True)
-		pageid2 = data2['query']['pages'].keys()[0]
-		license = data2['query']['pages'][pageid2]['imageinfo'][0]['extmetadata']['LicenseShortName']
-		'''
+		img['license'] = getImageLicense(project, data['query']['pages'][pageid]['pageimage'])
+		print '\t',img['license']['licenseShortName']
 
 		return img
-	except Exception,e: print str(e)
+	except Exception,e: print '\t[image error]',str(e)
+
+def getImageLicense(project, title):
+	#https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File%3aBrad_Pitt_at_Incirlik2.jpg&format=json
+	#https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Lorenzo_de_Medici.jpg&format=json
+	baseurl = 'https://' + project + '.org/w/api.php'
+	params = {}
+	params['action'] = 'query'
+	params['prop'] = 'imageinfo'
+	params['iiprop'] = 'extmetadata'
+	params['titles'] = 'File:'+title
+	params['format'] = 'json'
+
+	r = requests.get(baseurl, params = params)
+	#print params['titles']
+	data = r.json()
+	print 'getting license for ' + title
+	#print r.url
+
+	#get page id
+	pageid = data['query']['pages'].keys()[0]
+
+	try:
+		results = {}
+		#results['license'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['License']['value']
+		results['licenseShortName'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['LicenseShortName']['value']
+		results['copyrighted'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['Copyrighted']['value']
+		return results
+	except Exception,e: print '\t[license error]',str(e)
 
 # get text snippet for a page
 # https://www.mediawiki.org/wiki/API:Page_info_in_search_results
@@ -144,7 +159,8 @@ def getSnippet(project, title):
 	try:
 		snippet = data['query']['pages'][0]['terms']['description'][0]
 		return snippet
-	except:
+	except Exception,e:
+		print '[snippet error]',str(e)
 		return ''
 
 # generic function to sum statistics of multiple days.
@@ -205,7 +221,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 
 	#add imgs and snippet
 	for article in articles[:limit]:
-		article['image'] = getImage(project, article['title'], thumbsize)
+		article['image'] = getImage('it.wikipedia', article['title'], thumbsize)
 		article['snippet'] = getSnippet(project, article['title'])
 
 	#add pageviews
@@ -218,7 +234,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 		stats.append({})
 		stats[0]['name'] = 'table'
 		stats[0]['values'] = []
-		print json.dumps(raw_stats, indent=4, sort_keys=True) # check from here error of 6 output
+		#print json.dumps(raw_stats, indent=4, sort_keys=True) # check from here error of 6 output
 		for item in raw_stats['items']:
 			item_result = {}
 			item_result['x'] = datetime.strptime(item['timestamp'],"%Y%m%d%M").strftime("%m/%d/%Y")
@@ -264,9 +280,9 @@ if out_wikicode == True:
 	query = getWeekList('it.wikipedia', w_year, w_week-1, w_limit, None)
 
 	#initialize the page
-	wikicode = '{{Utente:Mikima/Top25/Template:Anni|settimana='+str(w_week)+'}}\r\r'
+	wikicode = '{{Utente:Mikima/Top25/Template:Anni|settimana='+str(w_week)+'}}\n\n'
 
-	wikicode += '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week-1) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+1) + '|Settimana successiva]] →\r\r'
+	wikicode += '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week-1) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+1) + '|Settimana successiva]] →\n\n'
 	# create the string
 	italianMonths = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"]
 	# decode dates
@@ -281,13 +297,13 @@ if out_wikicode == True:
 	ed_year = date_ed.strftime("%Y")
 	if ( st_month == ed_month):
 		#same month
- 		wikicode += 'Settimana dal ' + str(st_day) + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\r\r'
+ 		wikicode += 'Settimana dal ' + str(st_day) + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\n\n'
 	else:
 		#different month
-		wikicode += 'Settimana dal ' + str(st_day) + ' ' + st_month + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\r\r'
+		wikicode += 'Settimana dal ' + str(st_day) + ' ' + st_month + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\n\n'
 
 	#create table
-	wikicode += '{| class="wikitable sortable"\r!Posizione\r!Articolo\r!News\r!Giornaliero\r!Visite\r!Immagine\r!Descrizione\r'
+	wikicode += '{| class="wikitable sortable"\n!Posizione\n!Articolo\n!News\n!Giornaliero\n!Visite\n!Immagine\n!Descrizione\n'
 	for item in query['articles']:
 		rank = str(item['rank'])
 		title = item['title'].replace('_',' ')
@@ -303,30 +319,35 @@ if out_wikicode == True:
 		if item['snippet'] != '':
 			snippet = "''"+item['snippet']+"'' (descrizione automatica)"
 
-		try:
-			print item['image']['pageimage'], item['image']['width'], item['image']['height']
-			bsize = 0
-			oleft = 0
-			otop = 0
+		image = ''
 
-			#check which side is bigger
-			if item['image']['height'] > item['image']['width'] :
-				bsize = w_thumbsize
-				hsize = int((item['image']['height']+ 0.0) / (item['image']['width'] + 0.0) * w_thumbsize)
-				otop = int((hsize - w_thumbsize)/2)
-			else:
+		if item['image'] is not None:
+			#print item['image']['license']['licenseShortName']
+			if item['image']['license']['licenseShortName'] != 'Copyrighted' and item['image']['license']['licenseShortName'] != 'Marchio':
+				print '\t license accettable:', item['image']['license']['licenseShortName']
+				try:
+					#print item['image']['pageimage'], item['image']['width'], item['image']['height']
+					bsize = 0
+					oleft = 0
+					otop = 0
 
-				bsize = int((item['image']['width']+ 0.0) / (item['image']['height'] + 0.0) * w_thumbsize)
-				oleft = int((bsize - w_thumbsize)/2)
-				print 'bsize: ', bsize, ' oleft: ', oleft
+					#check which side is bigger
+					if item['image']['height'] > item['image']['width'] :
+						bsize = w_thumbsize
+						hsize = int((item['image']['height']+ 0.0) / (item['image']['width'] + 0.0) * w_thumbsize)
+						otop = int((hsize - w_thumbsize)/2)
+					else:
 
-			#prepare code for image
-			image = '{{' + w_croptemplate + '|oLeft = ' +str(oleft)+ '|oTop = ' + str(otop) + '|bSize = ' + str(bsize) + '|cWidth = ' + str(w_thumbsize) + '|cHeight = ' + str(w_thumbsize) + '|Image = ' + item['image']['pageimage'] + '}}'
-		except Exception as e:
-			image = ''
-			print str(e)
+						bsize = int((item['image']['width']+ 0.0) / (item['image']['height'] + 0.0) * w_thumbsize)
+						oleft = int((bsize - w_thumbsize)/2)
+						#print 'bsize: ', bsize, ' oleft: ', oleft
 
-		wikicode += '|-\r!'+ rank + '\r|[['+ title +']]\r|'+ google_news +'\r|'+ w_chart + '\r\r' + wmf_tools +'\r|'+ pageviews +'\r|'+ image +'\r|'+snippet+'\r'
+					#prepare code for image
+					image = '{{' + w_croptemplate + '|oLeft = ' +str(oleft)+ '|oTop = ' + str(otop) + '|bSize = ' + str(bsize) + '|cWidth = ' + str(w_thumbsize) + '|cHeight = ' + str(w_thumbsize) + '|Image = ' + item['image']['pageimage'] + '}}'
+				except Exception as e:
+					print '\t[thumb creation error]',str(e)
+
+		wikicode += '|-\n!'+ rank + '\n|[['+ title +']]\n|'+ google_news +'\n|'+ w_chart + '\n\n' + wmf_tools +'\n|'+ pageviews +'\n|'+ image +'\n|'+snippet+'\n'
 
 	#close table
 	wikicode += '|}'
