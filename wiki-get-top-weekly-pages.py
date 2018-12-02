@@ -35,7 +35,14 @@ w_limit = args.limit
 w_thumbsize = args.thumbnailSize
 w_croptemplate = 'Template:Ritaglio_immagine_con_CSS'
 w_gnews_icon = 'Google_News_Logo.png'
-w_stopwords = args.stopwords.split(',')
+w_stopwords = []#args.stopwords.split(',')
+
+
+# add saved stopwords
+with open('assets/custom_stopwords.txt', 'r') as f:
+	reader = csv.reader(f, delimiter='\t')
+	for c in list(reader):
+		w_stopwords.append(c[0])
 
 print w_stopwords
 
@@ -163,6 +170,53 @@ def getSnippet(project, title):
 		print '[snippet error]',str(e)
 		return ''
 
+# function to set category
+def setCategory(title):
+	#results
+	result = ''
+	#load categories
+	categories = {}
+	with open('assets/categories.csv', 'r') as f:
+		reader = csv.reader(f, delimiter='\t')
+		for c in list(reader):
+			categories[c[0]] = c[1]
+
+	#load previously categorized pages
+	categorized = {}
+	with open('assets/categorized.csv', 'r') as f:
+		reader = csv.reader(f, delimiter='\t')
+		for c in list(reader):
+			categorized[c[0]] = c[1]
+	#get pages names
+
+	setNewCat = True
+	#check if the title is already categorized
+	if title in categorized:
+		text =  'found ', title, ' as ', categorized[title], ' do you want to keep it? [y/n]'
+		if(raw_input(text) == 'y'):
+			setNewCat = False
+			return categories[categorized[title]]
+
+
+	if(setNewCat):
+		#print all the possible values
+		mx = 'Choose category for ' + title + '[' + ', '.join(categories) + ']: '
+		text = ''
+		#ask for imput
+		while text not in categories:
+			text = raw_input(mx)
+			if text not in categories:
+				print '\tnot a category: ', text
+		# add the new categorization
+		categorized[title] = text
+		#save new cat
+		with open('assets/categorized.csv', mode='w') as outFile:
+			writer = csv.writer(outFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+			for c in categorized:
+				writer.writerow([c, categorized[c]])
+		#return the associate code
+		return categories[text]
+
 # generic function to sum statistics of multiple days.
 #
 # project: in which language you want the page. Two-letters codes (it, en, pt, es, ...)
@@ -176,8 +230,8 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 	#define stopwords
 	stopwords = ['Progetto:','Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php']
 	#add the custom ones
-	if w_stopwords[0] is not '':
-		stopwords = stopwords + w_stopwords
+	stopwords = stopwords + w_stopwords
+
 	print stopwords
 	#set up the maxvalue var
 
@@ -346,6 +400,10 @@ if out_wikicode == True:
 					image = '{{' + w_croptemplate + '|oLeft = ' +str(oleft)+ '|oTop = ' + str(otop) + '|bSize = ' + str(bsize) + '|cWidth = ' + str(w_thumbsize) + '|cHeight = ' + str(w_thumbsize) + '|Image = ' + item['image']['pageimage'] + '}}'
 				except Exception as e:
 					print '\t[thumb creation error]',str(e)
+
+		if image == '':
+			#since no image is available, use categories
+			image = setCategory(item['title'])
 
 		wikicode += '|-\n!'+ rank + '\n|[['+ title +']]\n|'+ google_news +'\n|'+ w_chart + '\n\n' + wmf_tools +'\n|'+ pageviews +'\n|'+ image +'\n|'+snippet+'\n'
 
