@@ -36,6 +36,7 @@ w_thumbsize = args.thumbnailSize
 w_croptemplate = 'Template:Ritaglio_immagine_con_CSS'
 w_gnews_icon = 'Google_News_Logo.png'
 w_stopwords = []#args.stopwords.split(',')
+found_stopwords = []
 
 
 # add saved stopwords
@@ -192,8 +193,8 @@ def setCategory(title):
 	setNewCat = True
 	#check if the title is already categorized
 	if title in categorized:
-		text =  'found ', title, ' as ', categorized[title], ' do you want to keep it? [y/n]'
-		if(raw_input(text) == 'y'):
+		text =  'found ' + title + ' as ' + categorized[title] + ' do you want to keep it? [y/n]'
+		if(raw_input(text) == 'y' or raw_input(text) == ''):
 			setNewCat = False
 			return categories[categorized[title]]
 
@@ -230,7 +231,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 	#define stopwords
 	stopwords = ['Progetto:','Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php']
 	#add the custom ones
-	stopwords = stopwords + w_stopwords
+	#stopwords = stopwords + w_stopwords
 
 	print stopwords
 	#set up the maxvalue var
@@ -265,6 +266,10 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 				stop = True
 				print 'stopped '+ elm[0]
 				break
+		if elm[0] in w_stopwords:
+			stop = True
+			found_stopwords.append(elm[0].replace('_',' '))
+			print '\tfound custom sw: '+elm[0]
 		if not stop:
 			obj = {}
 			obj['title'] = elm[0]
@@ -355,7 +360,7 @@ if out_wikicode == True:
 	else:
 		#different month
 		wikicode += 'Settimana dal ' + str(st_day) + ' ' + st_month + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\n\n'
-
+	# add filtered pages
 	#create table
 	wikicode += '{| class="wikitable sortable"\n!Posizione\n!Articolo\n!News\n!Giornaliero\n!Visite\n!Immagine\n!Descrizione\n'
 	for item in query['articles']:
@@ -409,6 +414,8 @@ if out_wikicode == True:
 
 	#close table
 	wikicode += '|}'
+	#add filtered
+	wikicode += 'Pagine filtrate: [[' + ']], [['.join(found_stopwords) + ']]\n\n'
 
 	#save txt
 	text_file = open(out_name + ".txt", "w")
