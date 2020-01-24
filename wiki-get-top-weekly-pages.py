@@ -18,7 +18,7 @@ from datetime import datetime, timedelta, date
 parser=argparse.ArgumentParser()
 
 parser.add_argument('--week', '-w', help="The year you want to get, numbered", type= int)
-parser.add_argument('--year', '-y', help="The year you want to get", type= int, default= 2018)
+parser.add_argument('--year', '-y', help="The year you want to get", type= int, default= 2019)
 parser.add_argument('--limit', '-l', help="Amount of results", type= int, default= 25)
 parser.add_argument('--thumbnailSize', '-ts', help="Size of thumbnail, in pixels", type= int, default= 80)
 parser.add_argument('--outName', '-o', help="Name of the output file", type= str, default= 'weekly_data')
@@ -30,7 +30,7 @@ print args
 
 #wikicode variables
 w_year = args.year
-w_week = args.week
+w_week = args.week -1
 w_limit = args.limit
 w_thumbsize = args.thumbnailSize
 w_croptemplate = 'Template:Ritaglio_immagine_con_CSS'
