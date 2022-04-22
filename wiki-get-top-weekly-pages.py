@@ -9,6 +9,10 @@ import locale
 import urllib.parse
 from datetime import datetime, timedelta, date
 
+# TODO: sistemare snippets
+# TODO: sistemare thumbnails
+# TODO: cleanup
+
 # load from arguments
 
 parser=argparse.ArgumentParser()
