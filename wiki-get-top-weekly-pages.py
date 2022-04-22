@@ -1,24 +1,20 @@
-# encoding=utf8
-import argparse, sys
-
-reload(sys)
-sys.setdefaultencoding('utf8')
-
+import argparse
+import sys
 import pageviewapi
 import requests
 import json
 import csv
 import operator
 import locale
-import urllib
+import urllib.parse
 from datetime import datetime, timedelta, date
 
 # load from arguments
 
 parser=argparse.ArgumentParser()
 
-parser.add_argument('--week', '-w', help="The year you want to get, numbered", type= int)
-parser.add_argument('--year', '-y', help="The year you want to get", type= int, default= 2019)
+parser.add_argument('--week', '-w', help="The year you want to get, numbered", type= int, default= 10)
+parser.add_argument('--year', '-y', help="The year you want to get", type= int, default= 2022)
 parser.add_argument('--limit', '-l', help="Amount of results", type= int, default= 25)
 parser.add_argument('--thumbnailSize', '-ts', help="Size of thumbnail, in pixels", type= int, default= 80)
 parser.add_argument('--outName', '-o', help="Name of the output file", type= str, default= 'weekly_data')
@@ -26,7 +22,7 @@ parser.add_argument('--format', '-f', help="formats, separated by comma. Possibl
 parser.add_argument('--stopwords', '-stop', help="stopwords, separated by comma", type= str, default= '')
 
 args=parser.parse_args()
-print args
+print(args)
 
 #wikicode variables
 w_year = args.year
@@ -45,7 +41,7 @@ with open('assets/custom_stopwords.txt', 'r') as f:
 	for c in list(reader):
 		w_stopwords.append(c[0])
 
-print w_stopwords
+print(w_stopwords)
 
 #boolean variables to define the type of output
 out_wikicode = False
@@ -97,14 +93,15 @@ def getImage(project, title, size):
 	r = requests.get(baseurl, params = params)
 
 	data = r.json()
-	print 'getting image ' + title
+	print('getting image ' + title)
 	#get image license
 	#get page id
-	pageid = data['query']['pages'].keys()[0]
+	
+	pageid = list(data['query']['pages'])[0]
 
 	license = 'none'
 
-	#print json.dumps(data['query']['pages'][pageid], indent=4, sort_keys=True)
+	#print(json.dumps(data['query']['pages'][pageid], indent=4, sort_keys=True))
 	try:
 		img = {}
 		img['thumbnail'] = data['query']['pages'][pageid]['thumbnail']['source']
@@ -114,10 +111,10 @@ def getImage(project, title, size):
 		img['pageimage'] = data['query']['pages'][pageid]['pageimage']
 		# now get the license
 		img['license'] = getImageLicense(project, data['query']['pages'][pageid]['pageimage'])
-		print '\t',img['license']['licenseShortName']
+		print('\t',img['license']['licenseShortName'])
 
 		return img
-	except Exception,e: print '\t[image error]',str(e)
+	except: print('\t[image error]')
 
 def getImageLicense(project, title):
 	#https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File%3aBrad_Pitt_at_Incirlik2.jpg&format=json
@@ -131,10 +128,10 @@ def getImageLicense(project, title):
 	params['format'] = 'json'
 
 	r = requests.get(baseurl, params = params)
-	#print params['titles']
+	#print(params['titles'])
 	data = r.json()
-	print 'getting license for ' + title
-	#print r.url
+	print('getting license for ' + title)
+	#print(r.url)
 
 	#get page id
 	pageid = data['query']['pages'].keys()[0]
@@ -145,7 +142,7 @@ def getImageLicense(project, title):
 		results['licenseShortName'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['LicenseShortName']['value']
 		results['copyrighted'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['Copyrighted']['value']
 		return results
-	except Exception,e: print '\t[license error]',str(e)
+	except: print('\t[license error]')
 
 # get text snippet for a page
 # https://www.mediawiki.org/wiki/API:Page_info_in_search_results
@@ -161,14 +158,14 @@ def getSnippet(project, title):
 
 	r = requests.get(baseurl, params = params)
 	data = r.json()
-	print 'getting snippet ' + title
-	#print json.dumps(data, indent=4, sort_keys=True)
+	print('getting snippet ' + title)
+	#print(json.dumps(data, indent=4, sort_keys=True))
 
 	try:
 		snippet = data['query']['pages'][0]['terms']['description'][0]
 		return snippet
-	except Exception,e:
-		print '[snippet error]',str(e)
+	except:
+		print('[snippet error]')
 		return ''
 
 # function to set category
@@ -194,20 +191,20 @@ def setCategory(title):
 	#check if the title is already categorized
 	if title in categorized:
 		text =  'found ' + title + ' as ' + categorized[title] + ' do you want to keep it? [y/n]'
-		if(raw_input(text) == 'y' or raw_input(text) == ''):
+		if(input(text) == 'y' or input(text) == ''):
 			setNewCat = False
 			return categories[categorized[title]]
 
 
 	if(setNewCat):
-		#print all the possible values
+		#print(all the possible values)
 		mx = 'Choose category for ' + title + '[' + ', '.join(categories) + ']: '
 		text = ''
 		#ask for imput
 		while text not in categories:
-			text = raw_input(mx)
+			text = input(mx)
 			if text not in categories:
-				print '\tnot a category: ', text
+				print('\tnot a category: ', text)
 		# add the new categorization
 		categorized[title] = text
 		#save new cat
@@ -233,7 +230,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 	#add the custom ones
 	#stopwords = stopwords + w_stopwords
 
-	print stopwords
+	print(stopwords)
 	#set up the maxvalue var
 
 	maxvalue = 0
@@ -241,10 +238,10 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 	data = dict()
 
 	for date in daterange(startdate,enddate):
-		print date.strftime("%Y-%m-%d")
+		print(date.strftime("%Y-%m-%d"))
 		try:
 			results = pageviewapi.top(project, date.year, date.strftime('%m'), date.strftime('%d'), access='all-access')
-			#print json.dumps(results, indent=4, sort_keys=True)
+			#print(json.dumps(results, indent=4, sort_keys=True))
 			for item in results['items'][0]['articles']:
 				if item['article'] in data:
 					data[item['article']] += item['views']
@@ -264,12 +261,12 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 		for stopword in stopwords:
 			if stopword in elm[0]:
 				stop = True
-				print 'stopped '+ elm[0]
+				print('stopped '+ elm[0])
 				break
 		if elm[0] in w_stopwords:
 			stop = True
 			found_stopwords.append(elm[0].replace('_',' '))
-			print '\tfound custom sw: '+elm[0]
+			print('\tfound custom sw: '+elm[0])
 		if not stop:
 			obj = {}
 			obj['title'] = elm[0]
@@ -285,15 +282,15 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 
 	#add pageviews
 	for article in articles[:limit]:
-		print 'loading stats for', article['title'], ' from ', startdate.strftime('%Y%m%d'), ' to ', enddate.strftime('%Y%m%d')
-		raw_stats = pageviewapi.per_article(project, urllib.quote(article['title'].encode('utf8')), startdate.strftime('%Y%m%d'), enddate.strftime('%Y%m%d'), access='all-access', agent='all-agents', granularity='daily')
+		print('loading stats for', article['title'], ' from ', startdate.strftime('%Y%m%d'), ' to ', enddate.strftime('%Y%m%d'))
+		raw_stats = pageviewapi.per_article(project, urllib.parse.quote(article['title']), startdate.strftime('%Y%m%d'), enddate.strftime('%Y%m%d'), access='all-access', agent='all-agents', granularity='daily')
 		stats = []
 		#parse raw stats
 		#for now it is optimized for the vega code, quite messy.
 		stats.append({})
 		stats[0]['name'] = 'table'
 		stats[0]['values'] = []
-		#print json.dumps(raw_stats, indent=4, sort_keys=True) # check from here error of 6 output
+		#print(json.dumps(raw_stats, indent=4, sort_keys=True) # check from here error of 6 output)
 		for item in raw_stats['items']:
 			item_result = {}
 			item_result['x'] = datetime.strptime(item['timestamp'],"%Y%m%d%M").strftime("%m/%d/%Y")
@@ -303,7 +300,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 
 			stats[0]['values'].append(item_result)
 
-		print json.dumps(stats, indent=4, sort_keys=True) # check from here error of 6 output
+		print(json.dumps(stats, indent=4, sort_keys=True)) # check from here error of 6 output)
 		article['stats'] = stats
 
 	results = {}
@@ -324,6 +321,7 @@ def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
 # thumbsize: target size of the thumbnail. Default: 1000.
 
 def getWeekList(project, year, week,limit=1000,thumbsize=1000):
+	print(str(year),str(week))
 	startdate = datetime.strptime(str(year)+'-'+str(week)+'-0', '%Y-%W-%w') + timedelta(days=1)
 	enddate = startdate + timedelta(days=6)
 
@@ -356,7 +354,7 @@ if out_wikicode == True:
 	ed_year = date_ed.strftime("%Y")
 	if ( st_month == ed_month):
 		#same month
- 		wikicode += 'Settimana dal ' + str(st_day) + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\n\n'
+		wikicode += 'Settimana dal ' + str(st_day) + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\n\n'
 	else:
 		#different month
 		wikicode += 'Settimana dal ' + str(st_day) + ' ' + st_month + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\n\n'
@@ -371,8 +369,9 @@ if out_wikicode == True:
 		date_st = datetime.strptime(query['startdate'],"%Y-%m-%d")
 		date_ed = datetime.strptime(query['enddate'],"%Y-%m-%d")
 		proj = query['project']
-		google_news = '[' + 'https://www.google.it/search?q=' + item['title'].encode('utf-8').replace("_","%20") + '&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:' + date_st.strftime("%m/%d/%Y") + ',cd_max:' + date_ed.strftime("%m/%d/%Y") + '&tbm=nws' + ' ' + item['title'].encode('utf-8').replace("_"," ") +' su Google News]'
-		wmf_tools = '[https://tools.wmflabs.org/pageviews/?project=' + proj + '.org&platform=all-access&agent=user&start=' + date_st.strftime("%Y-%m-%d") + '&end=' + date_ed.strftime("%Y-%m-%d") + '&pages=' + item['title'].encode('utf-8') + ' vedi dati]'
+		print(item['title'].replace("_","%20"))
+		google_news = '[' + 'https://www.google.it/search?q=' + item['title'].replace("_","%20") + '&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:' + date_st.strftime("%m/%d/%Y") + ',cd_max:' + date_ed.strftime("%m/%d/%Y") + '&tbm=nws' + ' ' + item['title'].replace("_"," ") +' su Google News]'
+		wmf_tools = '[https://tools.wmflabs.org/pageviews/?project=' + proj + '.org&platform=all-access&agent=user&start=' + date_st.strftime("%Y-%m-%d") + '&end=' + date_ed.strftime("%Y-%m-%d") + '&pages=' + item['title'] + ' vedi dati]'
 		w_chart = '<graph>{"width":100,"height":42,"padding":{"top":0,"left":0,"bottom":0,"right":0},"data":' + json.dumps(item['stats']) + ',"scales":[{"name":"x","type":"ordinal","range":"width","domain":{"data":"table","field":"x"}},{"name":"y","type":"linear","range":"height","domain":[0,' + str(query['maxvalue']) + '],"nice":true}],"marks":[{"type":"rect","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"x"},"width":{"scale":"x","band":true,"offset":-0.5},"y":{"scale":"y","field":"y"},"y2":{"scale":"y","value":0}},"update":{"fill":{"value":"steelblue"}},"hover":{"fill":{"value":"red"}}}}]}</graph>'
 		snippet = ''
 		if item['snippet'] != '':
@@ -381,11 +380,11 @@ if out_wikicode == True:
 		image = ''
 
 		if item['image'] is not None:
-			#print item['image']['license']['licenseShortName']
+			#print(item['image']['license']['licenseShortName'])
 			if item['image']['license']['licenseShortName'] != 'Copyrighted' and item['image']['license']['licenseShortName'] != 'Marchio':
-				print '\t license accettable:', item['image']['license']['licenseShortName']
+				print('\t license accettable:', item['image']['license']['licenseShortName'])
 				try:
-					#print item['image']['pageimage'], item['image']['width'], item['image']['height']
+					#print(item['image']['pageimage'], item['image']['width'], item['image']['height'])
 					bsize = 0
 					oleft = 0
 					otop = 0
@@ -399,12 +398,12 @@ if out_wikicode == True:
 
 						bsize = int((item['image']['width']+ 0.0) / (item['image']['height'] + 0.0) * w_thumbsize)
 						oleft = int((bsize - w_thumbsize)/2)
-						#print 'bsize: ', bsize, ' oleft: ', oleft
+						#print('bsize: ', bsize, ' oleft: ', oleft)
 
 					#prepare code for image
 					image = '{{' + w_croptemplate + '|oLeft = ' +str(oleft)+ '|oTop = ' + str(otop) + '|bSize = ' + str(bsize) + '|cWidth = ' + str(w_thumbsize) + '|cHeight = ' + str(w_thumbsize) + '|Image = ' + item['image']['pageimage'] + '}}'
-				except Exception as e:
-					print '\t[thumb creation error]',str(e)
+				except:
+					print('\t[thumb creation error]')
 
 		if image == '':
 			#since no image is available, use categories
@@ -419,7 +418,7 @@ if out_wikicode == True:
 
 	#save txt
 	text_file = open(out_name + ".txt", "w")
-	text_file.write(wikicode.encode('utf8'))
+	text_file.write(wikicode)
 	text_file.close()
 
 #save json and csv file
@@ -436,7 +435,7 @@ if out_json == True | out_csv == True:
 	jsonobj['results'].append(query)
 
 
-	#print json.dumps(jsonobj, indent=4, sort_keys=True)
+	#print(json.dumps(jsonobj, indent=4, sort_keys=True))
 	if out_json == True:
 		with open(out_name + '.json', 'w') as outfile:
 			json.dump(jsonobj, outfile)
@@ -452,10 +451,10 @@ if out_json == True | out_csv == True:
 
 			date_st = datetime.strptime(item['startdate'],"%Y-%m-%d")
 			date_ed = datetime.strptime(item['enddate'],"%Y-%m-%d")
-			print date_st, date_ed
+			print(date_st, date_ed)
 			proj = item['project']
 			for article in item['articles']:
-				print article
+				print(article)
 				link = "https://" + proj + ".org/wiki/" + article['title']
 				imgurl = ''
 				try:
@@ -463,6 +462,6 @@ if out_json == True | out_csv == True:
 				except:
 					imgurl = ''
 
-				google_news = 'https://www.google.it/search?q=' + article['title'].encode('utf-8').replace("_"," ") + '&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:' + date_st.strftime("%m/%d/%Y") + ',cd_max:' + date_ed.strftime("%m/%d/%Y") + '&tbm=nws'
-				wmf_tools = 'https://tools.wmflabs.org/pageviews/?project=' + proj + '.org&platform=all-access&agent=user&start=' + date_st.strftime("%Y-%m-%d") + '&end=' + date_ed.strftime("%Y-%m-%d") + '&pages=' + article['title'].encode('utf-8')
-				writer.writerow([item['startdate'],item['enddate'], article['rank'] , imgurl, link.encode('utf-8'), article['title'].encode('utf-8').replace("_"," "), google_news, wmf_tools, article['pageviews']])
+				google_news = 'https://www.google.it/search?q=' + article['title'].replace("_"," ") + '&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:' + date_st.strftime("%m/%d/%Y") + ',cd_max:' + date_ed.strftime("%m/%d/%Y") + '&tbm=nws'
+				wmf_tools = 'https://tools.wmflabs.org/pageviews/?project=' + proj + '.org&platform=all-access&agent=user&start=' + date_st.strftime("%Y-%m-%d") + '&end=' + date_ed.strftime("%Y-%m-%d") + '&pages=' + article['title']
+				writer.writerow([item['startdate'],item['enddate'], article['rank'] , imgurl, link, article['title'].replace("_"," "), google_news, wmf_tools, article['pageviews']])
