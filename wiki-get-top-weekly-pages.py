@@ -118,7 +118,7 @@ def getImage(project, title, size):
 		print('\t',img['license']['licenseShortName'])
 
 		return img
-	except: print('\t[image error]')
+	except Exception as e: print('\t[image error]: ',e)
 
 def getImageLicense(project, title):
 	#https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File%3aBrad_Pitt_at_Incirlik2.jpg&format=json
@@ -138,7 +138,7 @@ def getImageLicense(project, title):
 	#print(r.url)
 
 	#get page id
-	pageid = data['query']['pages'].keys()[0]
+	pageid = list(data['query']['pages'])[0]
 
 	try:
 		results = {}
@@ -146,7 +146,7 @@ def getImageLicense(project, title):
 		results['licenseShortName'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['LicenseShortName']['value']
 		results['copyrighted'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['Copyrighted']['value']
 		return results
-	except: print('\t[license error]')
+	except Exception as e: print('\t[license error]: ',e)
 
 # get text snippet for a page
 # https://www.mediawiki.org/wiki/API:Page_info_in_search_results
@@ -168,8 +168,8 @@ def getSnippet(project, title):
 	try:
 		snippet = data['query']['pages'][0]['terms']['description'][0]
 		return snippet
-	except:
-		print('[snippet error]')
+	except Exception as e: 
+		print('\t[snippet error]: ', e)
 		return ''
 
 # function to set category
@@ -343,7 +343,7 @@ if out_wikicode == True:
 	#initialize the page
 	wikicode = '{{Utente:Mikima/Top25/Template:Anni|settimana='+str(w_week)+'}}\n\n'
 
-	wikicode += '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week-1) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+1) + '|Settimana successiva]] →\n\n'
+	wikicode += '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+1) + '|Settimana successiva]] →\n\n'
 	# create the string
 	italianMonths = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"]
 	# decode dates
@@ -406,8 +406,8 @@ if out_wikicode == True:
 
 					#prepare code for image
 					image = '{{' + w_croptemplate + '|oLeft = ' +str(oleft)+ '|oTop = ' + str(otop) + '|bSize = ' + str(bsize) + '|cWidth = ' + str(w_thumbsize) + '|cHeight = ' + str(w_thumbsize) + '|Image = ' + item['image']['pageimage'] + '}}'
-				except:
-					print('\t[thumb creation error]')
+				except Exception as e: 
+					print('\t[thumb creation error]:',e)
 
 		if image == '':
 			#since no image is available, use categories
