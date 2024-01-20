@@ -135,18 +135,29 @@ def getImageLicense(project, title):
 	#print(params['titles'])
 	data = r.json()
 	print('getting license for ' + title)
-	#print(r.url)
+	print(r.url)
 
 	#get page id
 	pageid = list(data['query']['pages'])[0]
 
+	results = {}
+
+	# get license short name
 	try:
-		results = {}
-		#results['license'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['License']['value']
+		#print(json.dumps(data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['License'], indent=4, sort_keys=True))
 		results['licenseShortName'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['LicenseShortName']['value']
+	except Exception as e: 
+		print('\t[license error]: ',e)
+
+	# get license copyright status
+	try:
 		results['copyrighted'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['Copyrighted']['value']
 		return results
-	except Exception as e: print('\t[license error]: ',e)
+	except Exception as e: 
+		print('\t[copyright error]: ',e)
+
+	# return results
+	return results
 
 # get text snippet for a page
 # https://www.mediawiki.org/wiki/API:Page_info_in_search_results
@@ -384,7 +395,7 @@ if out_wikicode == True:
 		image = ''
 
 		if item['image'] is not None:
-			#print(item['image']['license']['licenseShortName'])
+			print('license',item['image']['license'])
 			if item['image']['license']['licenseShortName'] != 'Copyrighted' and item['image']['license']['licenseShortName'] != 'Marchio':
 				print('\t license accettable:', item['image']['license']['licenseShortName'])
 				try:
