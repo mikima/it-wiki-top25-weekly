@@ -27,7 +27,9 @@ It writes to `weekly_data.json` or `weekly_data.csv` by default; pass `-o -` to
 print to stdout instead. Each article includes a `description` pulled from the
 MediaWiki `pageterms` API.
 Image metadata (filename, thumbnail URL, and license info) is fetched from the
-MediaWiki pageimages API and Commons.
+MediaWiki pageimages API and Commons, including the Commons file page URL.
+Each article also includes `daily_views` (per-day view counts) and a
+`google_news_url` for the same date range.
 
 Optional filters:
 - `--exclude-stopwords` (or `--exclude-special-pages`) drops `Pagina_principale`, `load.php`,

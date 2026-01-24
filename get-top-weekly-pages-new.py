@@ -12,6 +12,7 @@ import sys
 from collections import defaultdict
 from datetime import date, timedelta
 from typing import Dict, Iterable, List, Optional, Tuple
+from urllib.parse import quote
 
 import requests
 
@@ -37,6 +38,17 @@ STOPWORD_TITLES = (
     "Pagina_principale",
     "load.php",
 )
+
+
+def render_progress(prefix: str, current: int, total: int, width: int = 28) -> None:
+    if total <= 0:
+        return
+    ratio = min(max(current / total, 0.0), 1.0)
+    filled = int(width * ratio)
+    bar = "#" * filled + "-" * (width - filled)
+    suffix = "\n" if current >= total else "\r"
+    message = f"{prefix} [{bar}] {current}/{total}"
+    print(message, end=suffix, file=sys.stderr, flush=True)
 
 
 def parse_args() -> argparse.Namespace:
@@ -165,6 +177,26 @@ def aggregate_weekly(daily_lists: Iterable[List[Dict[str, object]]]) -> Dict[str
     return totals
 
 
+def build_day_maps(daily_lists: Iterable[List[Dict[str, object]]]) -> List[Dict[str, int]]:
+    day_maps: List[Dict[str, int]] = []
+    for daily in daily_lists:
+        day_map: Dict[str, int] = {}
+        for entry in daily:
+            article = entry.get("article")
+            if not article:
+                continue
+            try:
+                views = int(entry.get("views", 0))
+            except (TypeError, ValueError):
+                continue
+            title = str(article)
+            day_map[title] = views
+            day_map[title.replace(" ", "_")] = views
+            day_map[title.replace("_", " ")] = views
+        day_maps.append(day_map)
+    return day_maps
+
+
 def rank_articles(totals: Dict[str, int], limit: int) -> List[Dict[str, object]]:
     ranked = sorted(totals.items(), key=lambda item: item[1], reverse=True)
     if limit:
@@ -173,6 +205,26 @@ def rank_articles(totals: Dict[str, int], limit: int) -> List[Dict[str, object]]
         {"rank": index + 1, "article": article, "views": views}
         for index, (article, views) in enumerate(ranked)
     ]
+
+
+def google_news_url(title: str, start_date: date, end_date: date) -> str:
+    query = quote(title.replace("_", " "))
+    start = start_date.strftime("%m/%d/%Y")
+    end = end_date.strftime("%m/%d/%Y")
+    return (
+        "https://www.google.it/search?q="
+        f"{query}&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:{start}"
+        f",cd_max:{end}&tbm=nws"
+    )
+
+
+def commons_file_url(filename: str) -> str:
+    if not filename:
+        return ""
+    normalized = filename.replace(" ", "_")
+    return "https://commons.wikimedia.org/wiki/File:" + quote(
+        normalized, safe="_.-()"
+    )
 
 
 def is_excluded_title(title: str) -> bool:
@@ -213,7 +265,11 @@ def fetch_descriptions(
     api_url = project_api_url(project)
 
     descriptions: Dict[str, str] = {}
+    total_batches = (len(titles) + MAX_TITLES_PER_REQUEST - 1) // MAX_TITLES_PER_REQUEST
+    batch_index = 0
     for batch in chunked(titles, MAX_TITLES_PER_REQUEST):
+        batch_index += 1
+        render_progress("Descriptions", batch_index, total_batches)
         params = {
             "action": "query",
             "format": "json",
@@ -255,7 +311,11 @@ def fetch_pageimages(
 
     api_url = project_api_url(project)
     images: Dict[str, Dict[str, str]] = {}
+    total_batches = (len(titles) + MAX_TITLES_PER_REQUEST - 1) // MAX_TITLES_PER_REQUEST
+    batch_index = 0
     for batch in chunked(titles, MAX_TITLES_PER_REQUEST):
+        batch_index += 1
+        render_progress("Page images", batch_index, total_batches)
         params = {
             "action": "query",
             "format": "json",
@@ -298,7 +358,11 @@ def fetch_image_licenses(
         return {}
 
     licenses: Dict[str, Dict[str, str]] = {}
+    total_batches = (len(filenames) + MAX_TITLES_PER_REQUEST - 1) // MAX_TITLES_PER_REQUEST
+    batch_index = 0
     for batch in chunked(filenames, MAX_TITLES_PER_REQUEST):
+        batch_index += 1
+        render_progress("Image licenses", batch_index, total_batches)
         titles = [f"File:{name}" for name in batch if name]
         if not titles:
             continue
@@ -370,14 +434,23 @@ def write_csv(rows: List[Dict[str, object]], output_path: Optional[str]) -> None
             "article",
             "views",
             "description",
+            "daily_views",
+            "google_news_url",
             "image_filename",
             "image_url",
+            "image_commons_url",
             "image_license",
             "image_copyrighted",
         ],
     )
     writer.writeheader()
-    writer.writerows(rows)
+    rows_to_write = []
+    for row in rows:
+        row_copy = dict(row)
+        if isinstance(row_copy.get("daily_views"), list):
+            row_copy["daily_views"] = json.dumps(row_copy["daily_views"])
+        rows_to_write.append(row_copy)
+    writer.writerows(rows_to_write)
 
     if close_handle:
         handle.close()
@@ -398,10 +471,13 @@ def main() -> int:
     session.headers.update({"User-Agent": args.user_agent})
 
     daily_lists: List[List[Dict[str, object]]] = []
-    for day in days:
+    total_days = len(days)
+    for index, day in enumerate(days, start=1):
+        render_progress("Daily top pages", index, total_days)
         daily_lists.append(
             fetch_daily_top(session, args.project, args.access, day, args.timeout)
         )
+    day_maps = build_day_maps(daily_lists)
 
     totals = aggregate_weekly(daily_lists)
     if args.exclude_stopwords:
@@ -412,12 +488,20 @@ def main() -> int:
     )
     for item in ranked:
         article = str(item["article"])
+        daily_views = []
+        for day, day_map in zip(days, day_maps):
+            daily_views.append(
+                {"date": day.isoformat(), "views": day_map.get(article, 0)}
+            )
+        item["daily_views"] = daily_views
+        item["google_news_url"] = google_news_url(article, start_date, end_date)
         description = descriptions.get(article)
         if description is None:
             description = descriptions.get(article.replace("_", " "), "")
         item["description"] = description
         item["image_filename"] = ""
         item["image_url"] = ""
+        item["image_commons_url"] = ""
         item["image_license"] = ""
         item["image_copyrighted"] = ""
 
@@ -437,6 +521,7 @@ def main() -> int:
         if image:
             item["image_filename"] = image.get("image_filename", "")
             item["image_url"] = image.get("image_url", "")
+            item["image_commons_url"] = commons_file_url(item["image_filename"])
             if item["image_filename"]:
                 image_filenames.append(item["image_filename"])
 
