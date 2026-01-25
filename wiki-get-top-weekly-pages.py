@@ -221,6 +221,22 @@ def google_news_url(title: str, start_date: date, end_date: date) -> str:
     )
 
 
+def pageviews_url(
+    title: str, project: str, platform: str, start_date: date, end_date: date
+) -> str:
+    if project.endswith(".org"):
+        project_param = project
+    else:
+        project_param = f"{project}.org"
+    page = quote(title.replace(" ", "_"), safe="_.-()")
+    return (
+        "https://pageviews.wmcloud.org/"
+        f"?project={project_param}&platform={platform}&agent=user&redirects=0"
+        f"&start={start_date.isoformat()}&end={end_date.isoformat()}"
+        f"&pages={page}"
+    )
+
+
 def commons_file_url(filename: str) -> str:
     if not filename:
         return ""
@@ -448,6 +464,7 @@ def write_csv(rows: List[Dict[str, object]], output_path: Optional[str]) -> None
             "description",
             "daily_views",
             "google_news_url",
+            "pageviews_url",
             "image_filename",
             "image_url",
             "image_commons_url",
@@ -507,6 +524,9 @@ def main() -> int:
             )
         item["daily_views"] = daily_views
         item["google_news_url"] = google_news_url(article, start_date, end_date)
+        item["pageviews_url"] = pageviews_url(
+            article, args.project, args.access, start_date, end_date
+        )
         description = descriptions.get(article)
         if description is None:
             description = descriptions.get(article.replace("_", " "), "")

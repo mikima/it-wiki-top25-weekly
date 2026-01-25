@@ -1,6 +1,6 @@
 # it-wiki-top25-weekly
 
-Python 3 script to extract the most viewed pages during a week. The script can output the data as CSV, JSON or as formatted wikicode.
+Python 3 scripts to extract the most viewed pages during a week and render reports.
 
 ## Setup
 
@@ -10,16 +10,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Usage
+## Fetch weekly data
 
 ```bash
-python wiki-get-top-weekly-pages.py --year 2026 --week 1 --format wikicode
-```
-
-## Usage (REST API version)
-
-```bash
-python wiki-get-top-weekly-pages.py --year 2026 --week 1 --format json --top 30
+python wiki-get-top-weekly-pages.py --format json --top 30 --year 2026 --week 1
 ```
 
 The REST API script aggregates daily top-1000 lists into a weekly ranking.
@@ -30,7 +24,19 @@ MediaWiki `pageterms` API.
 Image metadata (filename, thumbnail URL, and license info) is fetched from the
 MediaWiki pageimages API and Commons, including the Commons file page URL.
 Each article also includes `daily_views` (per-day view counts) and a
-`google_news_url` for the same date range.
+`google_news_url` plus a `pageviews_url` to inspect the week in Pageviews
+Analysis.
+
+## Render reports
+
+```bash
+python render_wikicode.py json/2026-01.json
+python render_markdown.py json/2026-01.json
+```
+
+By default, the wikicode renderer writes to `wikicode/YYYY-WW.wiki` and the
+Markdown renderer writes to `markdown/YYYY-WW.md`. The Markdown table includes
+an image column using the Commons thumbnail URL. Use `-o -` to write to stdout.
 
 Optional filters:
 
