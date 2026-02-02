@@ -221,6 +221,15 @@ def google_news_url(title: str, start_date: date, end_date: date) -> str:
     )
 
 
+def article_url(title: str, project: str) -> str:
+    if project.endswith(".org"):
+        base = f"https://{project}/wiki/"
+    else:
+        base = f"https://{project}.org/wiki/"
+    page = quote(title.replace(" ", "_"), safe="_.-()")
+    return base + page
+
+
 def pageviews_url(
     title: str, project: str, platform: str, start_date: date, end_date: date
 ) -> str:
@@ -465,6 +474,7 @@ def write_csv(rows: List[Dict[str, object]], output_path: Optional[str]) -> None
             "daily_views",
             "google_news_url",
             "pageviews_url",
+            "article_url",
             "image_filename",
             "image_url",
             "image_commons_url",
@@ -527,6 +537,7 @@ def main() -> int:
         item["pageviews_url"] = pageviews_url(
             article, args.project, args.access, start_date, end_date
         )
+        item["article_url"] = article_url(article, args.project)
         description = descriptions.get(article)
         if description is None:
             description = descriptions.get(article.replace("_", " "), "")

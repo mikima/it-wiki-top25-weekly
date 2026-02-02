@@ -5,13 +5,14 @@ import argparse
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional
+from urllib.parse import quote
 
 from render_utils import (
+    bar_chart_svg,
     escape_html_attr,
     escape_markdown,
     format_views,
     load_json,
-    sparkline,
 )
 
 
@@ -37,13 +38,22 @@ def build_rows(articles: List[Dict[str, object]]) -> List[str]:
         name = escape_markdown(title_display)
         alt_text = escape_html_attr(title_display)
         views = format_views(item.get("views", 0))
-        daily_views = [day.get("views", 0) for day in item.get("daily_views", [])]
-        trend = sparkline(daily_views)
+        daily_views = item.get("daily_views", [])
+        svg = bar_chart_svg(daily_views)
         pageviews_url = str(item.get("pageviews_url", ""))
-        if trend and pageviews_url:
-            trend_cell = f"[{trend}]({pageviews_url})"
+        if svg:
+            chart_src = "data:image/svg+xml;utf8," + quote(svg, safe="")
+            chart_img = (
+                f'<img src="{chart_src}" alt="{alt_text}" '
+                'style="max-width:200px; max-height:200px;" />'
+            )
+            trend_cell = (
+                f'<a href="{pageviews_url}">{chart_img}</a>'
+                if pageviews_url
+                else chart_img
+            )
         else:
-            trend_cell = trend
+            trend_cell = ""
         image_url = str(item.get("image_url", ""))
         image_cell = (
             f'<img src="{image_url}" alt="{alt_text}" '
@@ -51,11 +61,13 @@ def build_rows(articles: List[Dict[str, object]]) -> List[str]:
             if image_url
             else ""
         )
+        article_url = str(item.get("article_url", ""))
+        name_cell = f"[{name}]({article_url})" if article_url else name
         news_url = str(item.get("google_news_url", ""))
         news_cell = f"[Google News]({news_url})" if news_url else ""
         description = escape_markdown(item.get("description", ""))
         rows.append(
-            f"| {item.get('rank', '')} | {name} | {views} | {trend_cell} | "
+            f"| {item.get('rank', '')} | {name_cell} | {views} | {trend_cell} | "
             f"{image_cell} | {news_cell} | {description} |"
         )
     return rows

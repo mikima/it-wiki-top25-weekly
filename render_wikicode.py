@@ -73,11 +73,16 @@ def build_table_rows(articles: List[Dict[str, object]]) -> List[str]:
     for item in articles:
         title = str(item.get("article", ""))
         title_display = title.replace("_", " ")
+        article_url = str(item.get("article_url", ""))
+        if article_url:
+            article_cell = f"[{article_url} {escape_wikicode(title_display)}]"
+        else:
+            article_cell = f"[[{escape_wikicode(title_display)}]]"
         rows.extend(
             [
                 "|-",
                 f"!{item.get('rank', '')}",
-                f"|[[{escape_wikicode(title_display)}]]",
+                f"|{article_cell}",
                 f"|{escape_wikicode(title_display)}",
                 f"|{format_views(item.get('views', 0))}",
                 f"|{escape_wikicode(item.get('description', ''))}",
