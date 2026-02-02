@@ -118,6 +118,18 @@ def parse_args() -> argparse.Namespace:
         help="Output file path, use '-' for stdout",
     )
     parser.add_argument(
+        "--json-dir",
+        type=str,
+        default="docs/json",
+        help="Default output directory for JSON files when --format json is used",
+    )
+    parser.add_argument(
+        "--raw-json-dir",
+        type=str,
+        default="docs/rawjson",
+        help="Output directory for full weekly ranking JSON (before enrichment/limit)",
+    )
+    parser.add_argument(
         "--user-agent",
         type=str,
         default=DEFAULT_USER_AGENT,
@@ -432,17 +444,23 @@ def fetch_image_licenses(
 
 
 def resolve_output_path(
-    fmt: str, output: Optional[str], year: int, week: int
+    fmt: str, output: Optional[str], year: int, week: int, json_dir: str
 ) -> Optional[str]:
     if output == "-":
         return None
     if output:
         return output
     if fmt == "json":
-        output_dir = Path("json")
+        output_dir = Path(json_dir)
         output_dir.mkdir(parents=True, exist_ok=True)
         return str(output_dir / f"{year}-{week:02d}.json")
     return f"weekly_data.{fmt}"
+
+
+def resolve_raw_output_path(raw_json_dir: str, year: int, week: int) -> str:
+    output_dir = Path(raw_json_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    return str(output_dir / f"{year}-{week:02d}.json")
 
 
 def write_json(data: Dict[str, object], output_path: Optional[str]) -> None:
@@ -504,7 +522,9 @@ def main() -> int:
         print(f"Invalid year/week: {exc}", file=sys.stderr)
         return 2
 
-    output_path = resolve_output_path(args.format, args.output, args.year, args.week)
+    output_path = resolve_output_path(
+        args.format, args.output, args.year, args.week, args.json_dir
+    )
 
     session = requests.Session()
     session.headers.update({"User-Agent": args.user_agent})
@@ -521,6 +541,7 @@ def main() -> int:
     totals = aggregate_weekly(daily_lists)
     if args.exclude_stopwords:
         totals = filter_totals(totals)
+    ranked_all = rank_articles(totals, 0)
     ranked = rank_articles(totals, args.limit)
     descriptions = fetch_descriptions(
         session, args.project, [item["article"] for item in ranked], args.timeout
@@ -589,7 +610,21 @@ def main() -> int:
         "articles": ranked,
     }
 
+    raw_output_data = {
+        "project": args.project,
+        "access": args.access,
+        "year": args.year,
+        "week": args.week,
+        "start_date": start_date.isoformat(),
+        "end_date": end_date.isoformat(),
+        "days": [day.isoformat() for day in days],
+        "total_articles": len(totals),
+        "articles": ranked_all,
+    }
+
     if args.format == "json":
+        raw_output_path = resolve_raw_output_path(args.raw_json_dir, args.year, args.week)
+        write_json(raw_output_data, raw_output_path)
         write_json(output_data, output_path)
     else:
         write_csv(ranked, output_path)

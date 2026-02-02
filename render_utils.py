@@ -45,6 +45,14 @@ def escape_html_attr(value: object) -> str:
     return text
 
 
+def escape_html_text(value: object) -> str:
+    text = normalize_text(value)
+    text = text.replace("&", "&amp;")
+    text = text.replace("<", "&lt;")
+    text = text.replace(">", "&gt;")
+    return text
+
+
 def format_views(value: object) -> str:
     try:
         number = int(value)
