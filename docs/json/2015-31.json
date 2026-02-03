@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2015,
+  "week": 31,
+  "start_date": "2015-07-27",
+  "end_date": "2015-08-02",
+  "days": [
+    "2015-07-27",
+    "2015-07-28",
+    "2015-07-29",
+    "2015-07-30",
+    "2015-07-31",
+    "2015-08-01",
+    "2015-08-02"
+  ],
+  "total_articles": 2486,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Template:GeoTemplate",
+      "views": 79137,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 15638
+        },
+        {
+          "date": "2015-07-28",
+          "views": 14918
+        },
+        {
+          "date": "2015-07-29",
+          "views": 12406
+        },
+        {
+          "date": "2015-07-30",
+          "views": 13975
+        },
+        {
+          "date": "2015-07-31",
+          "views": 9866
+        },
+        {
+          "date": "2015-08-01",
+          "views": 6179
+        },
+        {
+          "date": "2015-08-02",
+          "views": 6155
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Template%3AGeoTemplate&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Template%3AGeoTemplate",
+      "article_url": "https://it.wikipedia.org/wiki/Template%3AGeoTemplate",
+      "description": "template di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Mia_Martini",
+      "views": 76751,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 1433
+        },
+        {
+          "date": "2015-07-28",
+          "views": 1710
+        },
+        {
+          "date": "2015-07-29",
+          "views": 1369
+        },
+        {
+          "date": "2015-07-30",
+          "views": 3001
+        },
+        {
+          "date": "2015-07-31",
+          "views": 54940
+        },
+        {
+          "date": "2015-08-01",
+          "views": 11201
+        },
+        {
+          "date": "2015-08-02",
+          "views": 3097
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mia%20Martini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Mia_Martini",
+      "article_url": "https://it.wikipedia.org/wiki/Mia_Martini",
+      "description": "cantautrice italiana (1947-1995)",
+      "image_filename": "Mia_Martini_(69).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Mia_Martini_%2869%29.jpg/1280px-Mia_Martini_%2869%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mia_Martini_(69).jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Tania_Cagnotto",
+      "views": 75457,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 0
+        },
+        {
+          "date": "2015-07-28",
+          "views": 24750
+        },
+        {
+          "date": "2015-07-29",
+          "views": 15664
+        },
+        {
+          "date": "2015-07-30",
+          "views": 4531
+        },
+        {
+          "date": "2015-07-31",
+          "views": 3888
+        },
+        {
+          "date": "2015-08-01",
+          "views": 10213
+        },
+        {
+          "date": "2015-08-02",
+          "views": 16411
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tania%20Cagnotto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Tania_Cagnotto",
+      "article_url": "https://it.wikipedia.org/wiki/Tania_Cagnotto",
+      "description": "tuffatrice italiana",
+      "image_filename": "Tania_Cagnotto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Tania_Cagnotto.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tania_Cagnotto.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Beatrice_Borromeo",
+      "views": 69881,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 16093
+        },
+        {
+          "date": "2015-07-28",
+          "views": 5085
+        },
+        {
+          "date": "2015-07-29",
+          "views": 2559
+        },
+        {
+          "date": "2015-07-30",
+          "views": 2273
+        },
+        {
+          "date": "2015-07-31",
+          "views": 2323
+        },
+        {
+          "date": "2015-08-01",
+          "views": 16064
+        },
+        {
+          "date": "2015-08-02",
+          "views": 25484
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Beatrice%20Borromeo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Beatrice_Borromeo",
+      "article_url": "https://it.wikipedia.org/wiki/Beatrice_Borromeo",
+      "description": "membro della Casa Principesca di Monaco",
+      "image_filename": "2017-07-08_Wedding_Ekaterina_Malysheva_und_Ernst_August_von_Hannover_(1340)b.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2017-07-08_Wedding_Ekaterina_Malysheva_und_Ernst_August_von_Hannover_%281340%29b.jpg/1200px-2017-07-08_Wedding_Ekaterina_Malysheva_und_Ernst_August_von_Hannover_%281340%29b.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2017-07-08_Wedding_Ekaterina_Malysheva_und_Ernst_August_von_Hannover_(1340)b.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Chicago_Fire_(serie_televisiva)",
+      "views": 69353,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 16740
+        },
+        {
+          "date": "2015-07-28",
+          "views": 6833
+        },
+        {
+          "date": "2015-07-29",
+          "views": 3344
+        },
+        {
+          "date": "2015-07-30",
+          "views": 25993
+        },
+        {
+          "date": "2015-07-31",
+          "views": 9725
+        },
+        {
+          "date": "2015-08-01",
+          "views": 3111
+        },
+        {
+          "date": "2015-08-02",
+          "views": 3607
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Chicago%20Fire%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Chicago_Fire_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Chicago_Fire_(serie_televisiva)",
+      "description": "serie televisiva statunitense",
+      "image_filename": "Chicago_Fire_(serie_televisiva).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b2/Chicago_Fire_%28serie_televisiva%29.png/1280px-Chicago_Fire_%28serie_televisiva%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Chicago_Fire_(serie_televisiva).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Strage_di_Bologna",
+      "views": 64707,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 1127
+        },
+        {
+          "date": "2015-07-28",
+          "views": 0
+        },
+        {
+          "date": "2015-07-29",
+          "views": 1008
+        },
+        {
+          "date": "2015-07-30",
+          "views": 1556
+        },
+        {
+          "date": "2015-07-31",
+          "views": 2827
+        },
+        {
+          "date": "2015-08-01",
+          "views": 5830
+        },
+        {
+          "date": "2015-08-02",
+          "views": 52359
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Strage%20di%20Bologna&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Strage_di_Bologna",
+      "article_url": "https://it.wikipedia.org/wiki/Strage_di_Bologna",
+      "description": "attentato terroristico neofascista compiuto a Bologna nel 1980",
+      "image_filename": "Strage_di_Bologna,_1980.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/c/c6/Strage_di_Bologna%2C_1980.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Strage_di_Bologna%2C_1980.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Vlad_Chiriche\u0219",
+      "views": 58277,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 12007
+        },
+        {
+          "date": "2015-07-28",
+          "views": 21275
+        },
+        {
+          "date": "2015-07-29",
+          "views": 13661
+        },
+        {
+          "date": "2015-07-30",
+          "views": 6153
+        },
+        {
+          "date": "2015-07-31",
+          "views": 2946
+        },
+        {
+          "date": "2015-08-01",
+          "views": 1252
+        },
+        {
+          "date": "2015-08-02",
+          "views": 983
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vlad%20Chiriche%C8%99&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Vlad_Chiriche%C8%99",
+      "article_url": "https://it.wikipedia.org/wiki/Vlad_Chiriche%C8%99",
+      "description": "calciatore rumeno (1989-)",
+      "image_filename": "Vlad_Chiriche\u0219_(5_Jun_2012).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vlad_Chiriche%C8%99_%285_Jun_2012%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vlad_Chiriche%C8%99_(5_Jun_2012).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Campionati_mondiali_di_nuoto_2015",
+      "views": 55708,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 5373
+        },
+        {
+          "date": "2015-07-28",
+          "views": 7396
+        },
+        {
+          "date": "2015-07-29",
+          "views": 6652
+        },
+        {
+          "date": "2015-07-30",
+          "views": 6918
+        },
+        {
+          "date": "2015-07-31",
+          "views": 6921
+        },
+        {
+          "date": "2015-08-01",
+          "views": 10431
+        },
+        {
+          "date": "2015-08-02",
+          "views": 12017
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionati%20mondiali%20di%20nuoto%202015&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Campionati_mondiali_di_nuoto_2015",
+      "article_url": "https://it.wikipedia.org/wiki/Campionati_mondiali_di_nuoto_2015",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Italia",
+      "views": 41491,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 5831
+        },
+        {
+          "date": "2015-07-28",
+          "views": 5942
+        },
+        {
+          "date": "2015-07-29",
+          "views": 5781
+        },
+        {
+          "date": "2015-07-30",
+          "views": 5938
+        },
+        {
+          "date": "2015-07-31",
+          "views": 5709
+        },
+        {
+          "date": "2015-08-01",
+          "views": 6240
+        },
+        {
+          "date": "2015-08-02",
+          "views": 6050
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "Grey's_Anatomy",
+      "views": 41130,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 6094
+        },
+        {
+          "date": "2015-07-28",
+          "views": 6709
+        },
+        {
+          "date": "2015-07-29",
+          "views": 5222
+        },
+        {
+          "date": "2015-07-30",
+          "views": 7338
+        },
+        {
+          "date": "2015-07-31",
+          "views": 6092
+        },
+        {
+          "date": "2015-08-01",
+          "views": 5379
+        },
+        {
+          "date": "2015-08-02",
+          "views": 4296
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "True_Detective",
+      "views": 40856,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 8359
+        },
+        {
+          "date": "2015-07-28",
+          "views": 7296
+        },
+        {
+          "date": "2015-07-29",
+          "views": 5702
+        },
+        {
+          "date": "2015-07-30",
+          "views": 4941
+        },
+        {
+          "date": "2015-07-31",
+          "views": 4570
+        },
+        {
+          "date": "2015-08-01",
+          "views": 4654
+        },
+        {
+          "date": "2015-08-02",
+          "views": 5334
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=True%20Detective&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=True_Detective",
+      "article_url": "https://it.wikipedia.org/wiki/True_Detective",
+      "description": "serie televisiva statunitense del 2014",
+      "image_filename": "True_Detective.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/ca/True_Detective.png/1274px-True_Detective.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:True_Detective.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Pretty_Little_Liars_(serie_televisiva)",
+      "views": 39428,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 4393
+        },
+        {
+          "date": "2015-07-28",
+          "views": 4460
+        },
+        {
+          "date": "2015-07-29",
+          "views": 7133
+        },
+        {
+          "date": "2015-07-30",
+          "views": 5135
+        },
+        {
+          "date": "2015-07-31",
+          "views": 4122
+        },
+        {
+          "date": "2015-08-01",
+          "views": 9192
+        },
+        {
+          "date": "2015-08-02",
+          "views": 4993
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pretty%20Little%20Liars%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Pretty_Little_Liars_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Pretty_Little_Liars_(serie_televisiva)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Il_Trono_di_Spade_(serie_televisiva)",
+      "views": 39069,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 6150
+        },
+        {
+          "date": "2015-07-28",
+          "views": 5941
+        },
+        {
+          "date": "2015-07-29",
+          "views": 5709
+        },
+        {
+          "date": "2015-07-30",
+          "views": 5803
+        },
+        {
+          "date": "2015-07-31",
+          "views": 5460
+        },
+        {
+          "date": "2015-08-01",
+          "views": 4921
+        },
+        {
+          "date": "2015-08-02",
+          "views": 5085
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Trono%20di%20Spade%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Il_Trono_di_Spade_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Trono_di_Spade_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2019)",
+      "image_filename": "Il_Trono_di_Spade.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/27/Il_Trono_di_Spade.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Trono_di_Spade.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "The_Strangers",
+      "views": 35374,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 0
+        },
+        {
+          "date": "2015-07-28",
+          "views": 29016
+        },
+        {
+          "date": "2015-07-29",
+          "views": 5328
+        },
+        {
+          "date": "2015-07-30",
+          "views": 1030
+        },
+        {
+          "date": "2015-07-31",
+          "views": 0
+        },
+        {
+          "date": "2015-08-01",
+          "views": 0
+        },
+        {
+          "date": "2015-08-02",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Strangers&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=The_Strangers",
+      "article_url": "https://it.wikipedia.org/wiki/The_Strangers",
+      "description": "film del 2008 diretto da Bryan Bertino",
+      "image_filename": "The_Strangers.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/The_Strangers.jpg/1256px-The_Strangers.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Strangers.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Stevan_Joveti\u0107",
+      "views": 34128,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 12593
+        },
+        {
+          "date": "2015-07-28",
+          "views": 7533
+        },
+        {
+          "date": "2015-07-29",
+          "views": 4075
+        },
+        {
+          "date": "2015-07-30",
+          "views": 2421
+        },
+        {
+          "date": "2015-07-31",
+          "views": 3489
+        },
+        {
+          "date": "2015-08-01",
+          "views": 2708
+        },
+        {
+          "date": "2015-08-02",
+          "views": 1309
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stevan%20Joveti%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Stevan_Joveti%C4%87",
+      "article_url": "https://it.wikipedia.org/wiki/Stevan_Joveti%C4%87",
+      "description": "calciatore montenegrino (1989-)",
+      "image_filename": "Iran_vs._Montenegro_2014-05-26_(161).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Iran_vs._Montenegro_2014-05-26_%28161%29.jpg/1280px-Iran_vs._Montenegro_2014-05-26_%28161%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iran_vs._Montenegro_2014-05-26_(161).jpg",
+      "image_license": "GFDL 1.2",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Episodi_di_Chicago_Fire_(seconda_stagione)",
+      "views": 31215,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 10646
+        },
+        {
+          "date": "2015-07-28",
+          "views": 3682
+        },
+        {
+          "date": "2015-07-29",
+          "views": 1667
+        },
+        {
+          "date": "2015-07-30",
+          "views": 9515
+        },
+        {
+          "date": "2015-07-31",
+          "views": 2982
+        },
+        {
+          "date": "2015-08-01",
+          "views": 1154
+        },
+        {
+          "date": "2015-08-02",
+          "views": 1569
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Chicago%20Fire%20%28seconda%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Episodi_di_Chicago_Fire_(seconda_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Chicago_Fire_(seconda_stagione)",
+      "description": "lista di episodi della seconda stagione",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "C'era_una_volta_(serie_televisiva)",
+      "views": 30847,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 3930
+        },
+        {
+          "date": "2015-07-28",
+          "views": 5218
+        },
+        {
+          "date": "2015-07-29",
+          "views": 5937
+        },
+        {
+          "date": "2015-07-30",
+          "views": 4806
+        },
+        {
+          "date": "2015-07-31",
+          "views": 4285
+        },
+        {
+          "date": "2015-08-01",
+          "views": 3159
+        },
+        {
+          "date": "2015-08-02",
+          "views": 3512
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=C%27era%20una%20volta%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=C%27era_una_volta_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/C%27era_una_volta_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2018)",
+      "image_filename": "Once_Upon_a_Time_(TV_series)_Logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Once_Upon_a_Time_%28TV_series%29_Logo.svg/1280px-Once_Upon_a_Time_%28TV_series%29_Logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Once_Upon_a_Time_(TV_series)_Logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Episodi_di_Chicago_Fire_(terza_stagione)",
+      "views": 30068,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 3462
+        },
+        {
+          "date": "2015-07-28",
+          "views": 1925
+        },
+        {
+          "date": "2015-07-29",
+          "views": 890
+        },
+        {
+          "date": "2015-07-30",
+          "views": 15646
+        },
+        {
+          "date": "2015-07-31",
+          "views": 5387
+        },
+        {
+          "date": "2015-08-01",
+          "views": 1388
+        },
+        {
+          "date": "2015-08-02",
+          "views": 1370
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Chicago%20Fire%20%28terza%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Episodi_di_Chicago_Fire_(terza_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Chicago_Fire_(terza_stagione)",
+      "description": "lista di episodi della terza stagione",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Pierre_Casiraghi",
+      "views": 29710,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 5789
+        },
+        {
+          "date": "2015-07-28",
+          "views": 1956
+        },
+        {
+          "date": "2015-07-29",
+          "views": 987
+        },
+        {
+          "date": "2015-07-30",
+          "views": 863
+        },
+        {
+          "date": "2015-07-31",
+          "views": 881
+        },
+        {
+          "date": "2015-08-01",
+          "views": 7501
+        },
+        {
+          "date": "2015-08-02",
+          "views": 11733
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pierre%20Casiraghi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Pierre_Casiraghi",
+      "article_url": "https://it.wikipedia.org/wiki/Pierre_Casiraghi",
+      "description": "membro della Casa Principesca di Monaco",
+      "image_filename": "Pierre_Casiraghi_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pierre_Casiraghi_2017.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pierre_Casiraghi_2017.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Il_momento_di_uccidere_(film_1996)",
+      "views": 29519,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 0
+        },
+        {
+          "date": "2015-07-28",
+          "views": 22839
+        },
+        {
+          "date": "2015-07-29",
+          "views": 5564
+        },
+        {
+          "date": "2015-07-30",
+          "views": 1116
+        },
+        {
+          "date": "2015-07-31",
+          "views": 0
+        },
+        {
+          "date": "2015-08-01",
+          "views": 0
+        },
+        {
+          "date": "2015-08-02",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20momento%20di%20uccidere%20%28film%201996%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Il_momento_di_uccidere_(film_1996)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_momento_di_uccidere_(film_1996)",
+      "description": "film del 1996 diretto da Joel Schumacher",
+      "image_filename": "IlMomentoDiUccidere.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b4/IlMomentoDiUccidere.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:IlMomentoDiUccidere.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Foo_Fighters",
+      "views": 29122,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 0
+        },
+        {
+          "date": "2015-07-28",
+          "views": 0
+        },
+        {
+          "date": "2015-07-29",
+          "views": 0
+        },
+        {
+          "date": "2015-07-30",
+          "views": 1560
+        },
+        {
+          "date": "2015-07-31",
+          "views": 10626
+        },
+        {
+          "date": "2015-08-01",
+          "views": 10569
+        },
+        {
+          "date": "2015-08-02",
+          "views": 6367
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Foo%20Fighters&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Foo_Fighters",
+      "article_url": "https://it.wikipedia.org/wiki/Foo_Fighters",
+      "description": "gruppo musicale statunitense",
+      "image_filename": "Glasto2023_(65_of_468)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Glasto2023_%2865_of_468%29_%28cropped%29.jpg/1280px-Glasto2023_%2865_of_468%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Glasto2023_(65_of_468)_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Profondo_rosso_(film_1975)",
+      "views": 28556,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 0
+        },
+        {
+          "date": "2015-07-28",
+          "views": 0
+        },
+        {
+          "date": "2015-07-29",
+          "views": 0
+        },
+        {
+          "date": "2015-07-30",
+          "views": 21276
+        },
+        {
+          "date": "2015-07-31",
+          "views": 5967
+        },
+        {
+          "date": "2015-08-01",
+          "views": 1313
+        },
+        {
+          "date": "2015-08-02",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Profondo%20rosso%20%28film%201975%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Profondo_rosso_(film_1975)",
+      "article_url": "https://it.wikipedia.org/wiki/Profondo_rosso_(film_1975)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Elseid_Hysaj",
+      "views": 28361,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 0
+        },
+        {
+          "date": "2015-07-28",
+          "views": 6980
+        },
+        {
+          "date": "2015-07-29",
+          "views": 5967
+        },
+        {
+          "date": "2015-07-30",
+          "views": 4568
+        },
+        {
+          "date": "2015-07-31",
+          "views": 5118
+        },
+        {
+          "date": "2015-08-01",
+          "views": 3424
+        },
+        {
+          "date": "2015-08-02",
+          "views": 2304
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elseid%20Hysaj&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Elseid_Hysaj",
+      "article_url": "https://it.wikipedia.org/wiki/Elseid_Hysaj",
+      "description": "calciatore albanese",
+      "image_filename": "Elseid_Hysaj.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Elseid_Hysaj.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elseid_Hysaj.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Whitney_Houston",
+      "views": 28103,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 16834
+        },
+        {
+          "date": "2015-07-28",
+          "views": 4948
+        },
+        {
+          "date": "2015-07-29",
+          "views": 1678
+        },
+        {
+          "date": "2015-07-30",
+          "views": 1173
+        },
+        {
+          "date": "2015-07-31",
+          "views": 998
+        },
+        {
+          "date": "2015-08-01",
+          "views": 971
+        },
+        {
+          "date": "2015-08-02",
+          "views": 1501
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Whitney%20Houston&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Whitney_Houston",
+      "article_url": "https://it.wikipedia.org/wiki/Whitney_Houston",
+      "description": "cantautrice, attrice, modella, produttrice discografica, produttrice cinematografica e filantropa statunitense (1963-2012)",
+      "image_filename": "Whitney_Houston_(cropped3).JPEG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Whitney_Houston_%28cropped3%29.JPEG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Whitney_Houston_(cropped3).JPEG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Juventus_Football_Club",
+      "views": 26744,
+      "daily_views": [
+        {
+          "date": "2015-07-27",
+          "views": 4148
+        },
+        {
+          "date": "2015-07-28",
+          "views": 4673
+        },
+        {
+          "date": "2015-07-29",
+          "views": 4244
+        },
+        {
+          "date": "2015-07-30",
+          "views": 3839
+        },
+        {
+          "date": "2015-07-31",
+          "views": 3373
+        },
+        {
+          "date": "2015-08-01",
+          "views": 3372
+        },
+        {
+          "date": "2015-08-02",
+          "views": 3095
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Juventus%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/27/2015,cd_max:08/02/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07-27&end=2015-08-02&pages=Juventus_Football_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Juventus_Football_Club",
+      "description": "club calcistico italiano di Torino",
+      "image_filename": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/1280px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy%2C_2020).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

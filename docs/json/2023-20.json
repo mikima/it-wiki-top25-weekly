@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2023,
+  "week": 20,
+  "start_date": "2023-05-15",
+  "end_date": "2023-05-21",
+  "days": [
+    "2023-05-15",
+    "2023-05-16",
+    "2023-05-17",
+    "2023-05-18",
+    "2023-05-19",
+    "2023-05-20",
+    "2023-05-21"
+  ],
+  "total_articles": 2757,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "UEFA_Europa_League",
+      "views": 116150,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 2660
+        },
+        {
+          "date": "2023-05-16",
+          "views": 3779
+        },
+        {
+          "date": "2023-05-17",
+          "views": 6190
+        },
+        {
+          "date": "2023-05-18",
+          "views": 66326
+        },
+        {
+          "date": "2023-05-19",
+          "views": 25253
+        },
+        {
+          "date": "2023-05-20",
+          "views": 7047
+        },
+        {
+          "date": "2023-05-21",
+          "views": 4895
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=UEFA%20Europa%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=UEFA_Europa_League",
+      "article_url": "https://it.wikipedia.org/wiki/UEFA_Europa_League",
+      "description": "competizione calcistica continentale per squadre di club organizzata dalla UEFA",
+      "image_filename": "UEFA_Europa_League_logo_(2024_version).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/UEFA_Europa_League_logo_%282024_version%29.svg/1280px-UEFA_Europa_League_logo_%282024_version%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Europa_League_logo_(2024_version).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "UEFA_Champions_League",
+      "views": 111919,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 4249
+        },
+        {
+          "date": "2023-05-16",
+          "views": 17394
+        },
+        {
+          "date": "2023-05-17",
+          "views": 43637
+        },
+        {
+          "date": "2023-05-18",
+          "views": 22230
+        },
+        {
+          "date": "2023-05-19",
+          "views": 10212
+        },
+        {
+          "date": "2023-05-20",
+          "views": 6980
+        },
+        {
+          "date": "2023-05-21",
+          "views": 7217
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=UEFA_Champions_League",
+      "article_url": "https://it.wikipedia.org/wiki/UEFA_Champions_League",
+      "description": "massima competizione calcistica UEFA per squadre di club",
+      "image_filename": "UEFA_Champions_League_logo_(2021).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/UEFA_Champions_League_logo_%282021%29.svg/1280px-UEFA_Champions_League_logo_%282021%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Champions_League_logo_(2021).svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Manchester_City_Football_Club",
+      "views": 109397,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 2737
+        },
+        {
+          "date": "2023-05-16",
+          "views": 4150
+        },
+        {
+          "date": "2023-05-17",
+          "views": 40793
+        },
+        {
+          "date": "2023-05-18",
+          "views": 25570
+        },
+        {
+          "date": "2023-05-19",
+          "views": 6827
+        },
+        {
+          "date": "2023-05-20",
+          "views": 13828
+        },
+        {
+          "date": "2023-05-21",
+          "views": 15492
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Manchester%20City%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Manchester_City_Football_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Manchester_City_Football_Club",
+      "description": "club calcistico inglese di Manchester",
+      "image_filename": "Manchester_City_stemma.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/74/Manchester_City_stemma.svg/1280px-Manchester_City_stemma.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Manchester_City_stemma.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Football_Club_Internazionale_Milano",
+      "views": 109273,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 5311
+        },
+        {
+          "date": "2023-05-16",
+          "views": 41331
+        },
+        {
+          "date": "2023-05-17",
+          "views": 23746
+        },
+        {
+          "date": "2023-05-18",
+          "views": 12590
+        },
+        {
+          "date": "2023-05-19",
+          "views": 8319
+        },
+        {
+          "date": "2023-05-20",
+          "views": 7492
+        },
+        {
+          "date": "2023-05-21",
+          "views": 10484
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Football%20Club%20Internazionale%20Milano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Football_Club_Internazionale_Milano",
+      "article_url": "https://it.wikipedia.org/wiki/Football_Club_Internazionale_Milano",
+      "description": "club calcistico italiano di Milano",
+      "image_filename": "FC_Internazionale_Milano_2021.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_Internazionale_Milano_2021.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Helmut_Berger",
+      "views": 104287,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 0
+        },
+        {
+          "date": "2023-05-16",
+          "views": 0
+        },
+        {
+          "date": "2023-05-17",
+          "views": 0
+        },
+        {
+          "date": "2023-05-18",
+          "views": 54426
+        },
+        {
+          "date": "2023-05-19",
+          "views": 35176
+        },
+        {
+          "date": "2023-05-20",
+          "views": 10858
+        },
+        {
+          "date": "2023-05-21",
+          "views": 3827
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Helmut%20Berger&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Helmut_Berger",
+      "article_url": "https://it.wikipedia.org/wiki/Helmut_Berger",
+      "description": "attore e modello austriaco (1944-2023)",
+      "image_filename": "Helmut_Berger_1972.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Helmut_Berger_1972.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Helmut_Berger_1972.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Societ\u00e0_Sportiva_Calcio_Napoli",
+      "views": 96178,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 10638
+        },
+        {
+          "date": "2023-05-16",
+          "views": 8354
+        },
+        {
+          "date": "2023-05-17",
+          "views": 11743
+        },
+        {
+          "date": "2023-05-18",
+          "views": 9850
+        },
+        {
+          "date": "2023-05-19",
+          "views": 10345
+        },
+        {
+          "date": "2023-05-20",
+          "views": 16076
+        },
+        {
+          "date": "2023-05-21",
+          "views": 29172
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Societ%C3%A0%20Sportiva%20Calcio%20Napoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Societ%C3%A0_Sportiva_Calcio_Napoli",
+      "article_url": "https://it.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
+      "description": "club calcistico italiano di Napoli",
+      "image_filename": "SSC_Napoli_2024_(deep_blue_navy).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/1280px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:SSC_Napoli_2024_(deep_blue_navy).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Pep_Guardiola",
+      "views": 95000,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 2012
+        },
+        {
+          "date": "2023-05-16",
+          "views": 3083
+        },
+        {
+          "date": "2023-05-17",
+          "views": 32284
+        },
+        {
+          "date": "2023-05-18",
+          "views": 26001
+        },
+        {
+          "date": "2023-05-19",
+          "views": 8011
+        },
+        {
+          "date": "2023-05-20",
+          "views": 10786
+        },
+        {
+          "date": "2023-05-21",
+          "views": 12823
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pep%20Guardiola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Pep_Guardiola",
+      "article_url": "https://it.wikipedia.org/wiki/Pep_Guardiola",
+      "description": "allenatore di calcio e calciatore spagnolo (1971-)",
+      "image_filename": "2023-10-04_Fu\u00dfball,_M\u00e4nner,_UEFA_Champions_League,_RB_Leipzig_-_Manchester_City_FC_1DX_2797_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2797_%28cropped%29.jpg/1097px-2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2797_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2797_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Giorgio_III_del_Regno_Unito",
+      "views": 92987,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 18213
+        },
+        {
+          "date": "2023-05-16",
+          "views": 16009
+        },
+        {
+          "date": "2023-05-17",
+          "views": 13290
+        },
+        {
+          "date": "2023-05-18",
+          "views": 11076
+        },
+        {
+          "date": "2023-05-19",
+          "views": 10333
+        },
+        {
+          "date": "2023-05-20",
+          "views": 11685
+        },
+        {
+          "date": "2023-05-21",
+          "views": 12381
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorgio%20III%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Giorgio_III_del_Regno_Unito",
+      "article_url": "https://it.wikipedia.org/wiki/Giorgio_III_del_Regno_Unito",
+      "description": "re di Gran Bretagna e Irlanda (r. 1760-1820)",
+      "image_filename": "Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/1280px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Carlotta_di_Meclemburgo-Strelitz_(1744-1818)",
+      "views": 89432,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 18305
+        },
+        {
+          "date": "2023-05-16",
+          "views": 16248
+        },
+        {
+          "date": "2023-05-17",
+          "views": 12908
+        },
+        {
+          "date": "2023-05-18",
+          "views": 10700
+        },
+        {
+          "date": "2023-05-19",
+          "views": 9718
+        },
+        {
+          "date": "2023-05-20",
+          "views": 9936
+        },
+        {
+          "date": "2023-05-21",
+          "views": 11617
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Carlotta%20di%20Meclemburgo-Strelitz%20%281744-1818%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Carlotta_di_Meclemburgo-Strelitz_(1744-1818)",
+      "article_url": "https://it.wikipedia.org/wiki/Carlotta_di_Meclemburgo-Strelitz_(1744-1818)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Eduardo_Scarpetta",
+      "views": 85093,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 0
+        },
+        {
+          "date": "2023-05-16",
+          "views": 0
+        },
+        {
+          "date": "2023-05-17",
+          "views": 0
+        },
+        {
+          "date": "2023-05-18",
+          "views": 0
+        },
+        {
+          "date": "2023-05-19",
+          "views": 0
+        },
+        {
+          "date": "2023-05-20",
+          "views": 1756
+        },
+        {
+          "date": "2023-05-21",
+          "views": 83337
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Eduardo%20Scarpetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Eduardo_Scarpetta",
+      "article_url": "https://it.wikipedia.org/wiki/Eduardo_Scarpetta",
+      "description": "commediografo italiano (1853-1925)",
+      "image_filename": "Eduardo_Scarpetta_03_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Eduardo_Scarpetta_03_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Eduardo_Scarpetta_03_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Le_otto_montagne_(film)",
+      "views": 83327,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 19610
+        },
+        {
+          "date": "2023-05-16",
+          "views": 13118
+        },
+        {
+          "date": "2023-05-17",
+          "views": 8003
+        },
+        {
+          "date": "2023-05-18",
+          "views": 6865
+        },
+        {
+          "date": "2023-05-19",
+          "views": 8419
+        },
+        {
+          "date": "2023-05-20",
+          "views": 14240
+        },
+        {
+          "date": "2023-05-21",
+          "views": 13072
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Le%20otto%20montagne%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Le_otto_montagne_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Le_otto_montagne_(film)",
+      "description": "film del 2022 diretto da Felix van Groeningen e Charlotte Vandermeersch",
+      "image_filename": "8montagne.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/34/8montagne.png/1280px-8montagne.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:8montagne.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Facebook",
+      "views": 82593,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 12577
+        },
+        {
+          "date": "2023-05-16",
+          "views": 13470
+        },
+        {
+          "date": "2023-05-17",
+          "views": 13183
+        },
+        {
+          "date": "2023-05-18",
+          "views": 12722
+        },
+        {
+          "date": "2023-05-19",
+          "views": 12387
+        },
+        {
+          "date": "2023-05-20",
+          "views": 9158
+        },
+        {
+          "date": "2023-05-21",
+          "views": 9096
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Facebook&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Facebook",
+      "article_url": "https://it.wikipedia.org/wiki/Facebook",
+      "description": "social network",
+      "image_filename": "Screen_of_Facebook_(2).PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/1280px-Screen_of_Facebook_%282%29.PNG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screen_of_Facebook_(2).PNG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 13,
+      "article": "Albo_d'oro_della_UEFA_Champions_League",
+      "views": 77077,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 2326
+        },
+        {
+          "date": "2023-05-16",
+          "views": 9995
+        },
+        {
+          "date": "2023-05-17",
+          "views": 32089
+        },
+        {
+          "date": "2023-05-18",
+          "views": 18162
+        },
+        {
+          "date": "2023-05-19",
+          "views": 6672
+        },
+        {
+          "date": "2023-05-20",
+          "views": 4319
+        },
+        {
+          "date": "2023-05-21",
+          "views": 3514
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Albo%20d%27oro%20della%20UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Albo_d%27oro_della_UEFA_Champions_League",
+      "article_url": "https://it.wikipedia.org/wiki/Albo_d%27oro_della_UEFA_Champions_League",
+      "description": "lista di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Juventus_Football_Club",
+      "views": 70621,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 6660
+        },
+        {
+          "date": "2023-05-16",
+          "views": 7477
+        },
+        {
+          "date": "2023-05-17",
+          "views": 9236
+        },
+        {
+          "date": "2023-05-18",
+          "views": 23715
+        },
+        {
+          "date": "2023-05-19",
+          "views": 11014
+        },
+        {
+          "date": "2023-05-20",
+          "views": 5929
+        },
+        {
+          "date": "2023-05-21",
+          "views": 6590
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Juventus%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Juventus_Football_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Juventus_Football_Club",
+      "description": "club calcistico italiano di Torino",
+      "image_filename": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/1280px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy%2C_2020).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Associazione_Calcio_Milan",
+      "views": 68594,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 5667
+        },
+        {
+          "date": "2023-05-16",
+          "views": 21228
+        },
+        {
+          "date": "2023-05-17",
+          "views": 12132
+        },
+        {
+          "date": "2023-05-18",
+          "views": 7347
+        },
+        {
+          "date": "2023-05-19",
+          "views": 5564
+        },
+        {
+          "date": "2023-05-20",
+          "views": 8755
+        },
+        {
+          "date": "2023-05-21",
+          "views": 7901
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Associazione%20Calcio%20Milan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Associazione_Calcio_Milan",
+      "article_url": "https://it.wikipedia.org/wiki/Associazione_Calcio_Milan",
+      "description": "club calcistico italiano di Milano",
+      "image_filename": "Logo_of_AC_Milan.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1280px-Logo_of_AC_Milan.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Fast_X",
+      "views": 68058,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 3307
+        },
+        {
+          "date": "2023-05-16",
+          "views": 3358
+        },
+        {
+          "date": "2023-05-17",
+          "views": 4463
+        },
+        {
+          "date": "2023-05-18",
+          "views": 10692
+        },
+        {
+          "date": "2023-05-19",
+          "views": 13625
+        },
+        {
+          "date": "2023-05-20",
+          "views": 16267
+        },
+        {
+          "date": "2023-05-21",
+          "views": 16346
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fast%20X&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Fast_X",
+      "article_url": "https://it.wikipedia.org/wiki/Fast_X",
+      "description": "film del 2023 diretto da Louis Leterrier",
+      "image_filename": "Fast_X_logo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fast_X_logo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fast_X_logo.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "No_Time_to_Die",
+      "views": 66669,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 37089
+        },
+        {
+          "date": "2023-05-16",
+          "views": 8625
+        },
+        {
+          "date": "2023-05-17",
+          "views": 3652
+        },
+        {
+          "date": "2023-05-18",
+          "views": 1984
+        },
+        {
+          "date": "2023-05-19",
+          "views": 1084
+        },
+        {
+          "date": "2023-05-20",
+          "views": 0
+        },
+        {
+          "date": "2023-05-21",
+          "views": 14235
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=No%20Time%20to%20Die&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=No_Time_to_Die",
+      "article_url": "https://it.wikipedia.org/wiki/No_Time_to_Die",
+      "description": "film del 2021 diretto da Cary Joji Fukunaga",
+      "image_filename": "No_Time_To_Die_01.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/No_Time_To_Die_01.svg/1280px-No_Time_To_Die_01.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:No_Time_To_Die_01.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Erling_Haaland",
+      "views": 63989,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 4487
+        },
+        {
+          "date": "2023-05-16",
+          "views": 4749
+        },
+        {
+          "date": "2023-05-17",
+          "views": 21753
+        },
+        {
+          "date": "2023-05-18",
+          "views": 12245
+        },
+        {
+          "date": "2023-05-19",
+          "views": 4393
+        },
+        {
+          "date": "2023-05-20",
+          "views": 7449
+        },
+        {
+          "date": "2023-05-21",
+          "views": 8913
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Erling%20Haaland&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Erling_Haaland",
+      "article_url": "https://it.wikipedia.org/wiki/Erling_Haaland",
+      "description": "calciatore norvegese (2000-)",
+      "image_filename": "Erling_Haaland_June_2025.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Erling_Haaland_June_2025.jpg/1280px-Erling_Haaland_June_2025.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_June_2025.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Michael_Jordan",
+      "views": 58101,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 9703
+        },
+        {
+          "date": "2023-05-16",
+          "views": 6955
+        },
+        {
+          "date": "2023-05-17",
+          "views": 5820
+        },
+        {
+          "date": "2023-05-18",
+          "views": 5347
+        },
+        {
+          "date": "2023-05-19",
+          "views": 9881
+        },
+        {
+          "date": "2023-05-20",
+          "views": 10983
+        },
+        {
+          "date": "2023-05-21",
+          "views": 9412
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michael%20Jordan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Michael_Jordan",
+      "article_url": "https://it.wikipedia.org/wiki/Michael_Jordan",
+      "description": "dirigente sportivo, imprenditore e cestista statunitense (1963-)",
+      "image_filename": "Michael_Jordan_in_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_2014.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Carlo_Ancelotti",
+      "views": 58014,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 2617
+        },
+        {
+          "date": "2023-05-16",
+          "views": 4593
+        },
+        {
+          "date": "2023-05-17",
+          "views": 25774
+        },
+        {
+          "date": "2023-05-18",
+          "views": 12369
+        },
+        {
+          "date": "2023-05-19",
+          "views": 4836
+        },
+        {
+          "date": "2023-05-20",
+          "views": 4205
+        },
+        {
+          "date": "2023-05-21",
+          "views": 3620
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Carlo%20Ancelotti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Carlo_Ancelotti",
+      "article_url": "https://it.wikipedia.org/wiki/Carlo_Ancelotti",
+      "description": "allenatore di calcio e calciatore italiano (1959-)",
+      "image_filename": "26.01.2026_-_Reuni\u00e3o_com_o_Presidente_da_Federa\u00e7\u00e3o_Internacional_de_Futebol_(FIFA),_Gianni_Infantino_-_55062589679_(Carlo_Ancelotti)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/26.01.2026_-_Reuni%C3%A3o_com_o_Presidente_da_Federa%C3%A7%C3%A3o_Internacional_de_Futebol_%28FIFA%29%2C_Gianni_Infantino_-_55062589679_%28Carlo_Ancelotti%29_%28cropped%29.jpg/1080px-26.01.2026_-_Reuni%C3%A3o_com_o_Presidente_da_Federa%C3%A7%C3%A3o_Internacional_de_Futebol_%28FIFA%29%2C_Gianni_Infantino_-_55062589679_%28Carlo_Ancelotti%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:26.01.2026_-_Reuni%C3%A3o_com_o_Presidente_da_Federa%C3%A7%C3%A3o_Internacional_de_Futebol_(FIFA)%2C_Gianni_Infantino_-_55062589679_(Carlo_Ancelotti)_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Mango_(cantante)",
+      "views": 54067,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 21687
+        },
+        {
+          "date": "2023-05-16",
+          "views": 8774
+        },
+        {
+          "date": "2023-05-17",
+          "views": 4833
+        },
+        {
+          "date": "2023-05-18",
+          "views": 3623
+        },
+        {
+          "date": "2023-05-19",
+          "views": 3600
+        },
+        {
+          "date": "2023-05-20",
+          "views": 7721
+        },
+        {
+          "date": "2023-05-21",
+          "views": 3829
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mango%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Mango_(cantante)",
+      "article_url": "https://it.wikipedia.org/wiki/Mango_(cantante)",
+      "description": "cantautore e musicista italiano (1954-2014)",
+      "image_filename": "Mango_a_Sanremo_1985.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/0/07/Mango_a_Sanremo_1985.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mango_a_Sanremo_1985.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Luchino_Visconti",
+      "views": 52723,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 0
+        },
+        {
+          "date": "2023-05-16",
+          "views": 0
+        },
+        {
+          "date": "2023-05-17",
+          "views": 0
+        },
+        {
+          "date": "2023-05-18",
+          "views": 24824
+        },
+        {
+          "date": "2023-05-19",
+          "views": 18821
+        },
+        {
+          "date": "2023-05-20",
+          "views": 6503
+        },
+        {
+          "date": "2023-05-21",
+          "views": 2575
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luchino%20Visconti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Luchino_Visconti",
+      "article_url": "https://it.wikipedia.org/wiki/Luchino_Visconti",
+      "description": "nobile, regista, sceneggiatore e partigiano italiano",
+      "image_filename": "Luchino_Visconti_1972b.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Luchino_Visconti_1972b.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luchino_Visconti_1972b.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Bernardo_Silva",
+      "views": 52178,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 0
+        },
+        {
+          "date": "2023-05-16",
+          "views": 0
+        },
+        {
+          "date": "2023-05-17",
+          "views": 29250
+        },
+        {
+          "date": "2023-05-18",
+          "views": 16228
+        },
+        {
+          "date": "2023-05-19",
+          "views": 2946
+        },
+        {
+          "date": "2023-05-20",
+          "views": 1847
+        },
+        {
+          "date": "2023-05-21",
+          "views": 1907
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bernardo%20Silva&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Bernardo_Silva",
+      "article_url": "https://it.wikipedia.org/wiki/Bernardo_Silva",
+      "description": "calciatore portoghese",
+      "image_filename": "Por-Mar_(9)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Por-Mar_%289%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Por-Mar_(9)_(cropped).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Matteo_Darmian",
+      "views": 52032,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 0
+        },
+        {
+          "date": "2023-05-16",
+          "views": 9794
+        },
+        {
+          "date": "2023-05-17",
+          "views": 27876
+        },
+        {
+          "date": "2023-05-18",
+          "views": 7851
+        },
+        {
+          "date": "2023-05-19",
+          "views": 2662
+        },
+        {
+          "date": "2023-05-20",
+          "views": 2481
+        },
+        {
+          "date": "2023-05-21",
+          "views": 1368
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matteo%20Darmian&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Matteo_Darmian",
+      "article_url": "https://it.wikipedia.org/wiki/Matteo_Darmian",
+      "description": "calciatore italiano",
+      "image_filename": "20150616_-_Portugal_-_Italie_-_Gen\u00e8ve_-_Matteo_Darmian_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Matteo_Darmian_1.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Matteo_Darmian_1.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Italia",
+      "views": 51961,
+      "daily_views": [
+        {
+          "date": "2023-05-15",
+          "views": 7138
+        },
+        {
+          "date": "2023-05-16",
+          "views": 7474
+        },
+        {
+          "date": "2023-05-17",
+          "views": 7075
+        },
+        {
+          "date": "2023-05-18",
+          "views": 7353
+        },
+        {
+          "date": "2023-05-19",
+          "views": 7123
+        },
+        {
+          "date": "2023-05-20",
+          "views": 7966
+        },
+        {
+          "date": "2023-05-21",
+          "views": 7832
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/15/2023,cd_max:05/21/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-05-15&end=2023-05-21&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

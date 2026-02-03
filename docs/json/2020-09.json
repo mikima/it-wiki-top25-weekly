@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2020,
+  "week": 9,
+  "start_date": "2020-02-24",
+  "end_date": "2020-03-01",
+  "days": [
+    "2020-02-24",
+    "2020-02-25",
+    "2020-02-26",
+    "2020-02-27",
+    "2020-02-28",
+    "2020-02-29",
+    "2020-03-01"
+  ],
+  "total_articles": 2648,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Coronavirus",
+      "views": 405311,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 124346
+        },
+        {
+          "date": "2020-02-25",
+          "views": 72560
+        },
+        {
+          "date": "2020-02-26",
+          "views": 97588
+        },
+        {
+          "date": "2020-02-27",
+          "views": 36954
+        },
+        {
+          "date": "2020-02-28",
+          "views": 26450
+        },
+        {
+          "date": "2020-02-29",
+          "views": 23695
+        },
+        {
+          "date": "2020-03-01",
+          "views": 23718
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Coronavirus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Coronavirus",
+      "article_url": "https://it.wikipedia.org/wiki/Coronavirus",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Epidemia_di_SARS-CoV-2_del_2020_in_Italia",
+      "views": 322647,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 46123
+        },
+        {
+          "date": "2020-02-25",
+          "views": 57742
+        },
+        {
+          "date": "2020-02-26",
+          "views": 59483
+        },
+        {
+          "date": "2020-02-27",
+          "views": 51213
+        },
+        {
+          "date": "2020-02-28",
+          "views": 39640
+        },
+        {
+          "date": "2020-02-29",
+          "views": 35538
+        },
+        {
+          "date": "2020-03-01",
+          "views": 32908
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20SARS-CoV-2%20del%202020%20in%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Epidemia_di_SARS-CoV-2_del_2020_in_Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_SARS-CoV-2_del_2020_in_Italia",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Epidemia_di_SARS-CoV-2_del_2019-2020",
+      "views": 296773,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 80637
+        },
+        {
+          "date": "2020-02-25",
+          "views": 57888
+        },
+        {
+          "date": "2020-02-26",
+          "views": 48889
+        },
+        {
+          "date": "2020-02-27",
+          "views": 46673
+        },
+        {
+          "date": "2020-02-28",
+          "views": 33950
+        },
+        {
+          "date": "2020-02-29",
+          "views": 19668
+        },
+        {
+          "date": "2020-03-01",
+          "views": 9068
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20SARS-CoV-2%20del%202019-2020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Epidemia_di_SARS-CoV-2_del_2019-2020",
+      "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_SARS-CoV-2_del_2019-2020",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Rai",
+      "views": 245662,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 38932
+        },
+        {
+          "date": "2020-02-25",
+          "views": 38649
+        },
+        {
+          "date": "2020-02-26",
+          "views": 34542
+        },
+        {
+          "date": "2020-02-27",
+          "views": 36265
+        },
+        {
+          "date": "2020-02-28",
+          "views": 34255
+        },
+        {
+          "date": "2020-02-29",
+          "views": 32130
+        },
+        {
+          "date": "2020-03-01",
+          "views": 30889
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Influenza_spagnola",
+      "views": 191973,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 53232
+        },
+        {
+          "date": "2020-02-25",
+          "views": 36869
+        },
+        {
+          "date": "2020-02-26",
+          "views": 28915
+        },
+        {
+          "date": "2020-02-27",
+          "views": 18444
+        },
+        {
+          "date": "2020-02-28",
+          "views": 15494
+        },
+        {
+          "date": "2020-02-29",
+          "views": 18722
+        },
+        {
+          "date": "2020-03-01",
+          "views": 20297
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Influenza%20spagnola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Influenza_spagnola",
+      "article_url": "https://it.wikipedia.org/wiki/Influenza_spagnola",
+      "description": "pandemia dal 1918 al 1920",
+      "image_filename": "Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Reconstructed_Spanish_Flu_Virus.jpg/1280px-Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "SARS-CoV-2",
+      "views": 177643,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 52274
+        },
+        {
+          "date": "2020-02-25",
+          "views": 31274
+        },
+        {
+          "date": "2020-02-26",
+          "views": 27871
+        },
+        {
+          "date": "2020-02-27",
+          "views": 22835
+        },
+        {
+          "date": "2020-02-28",
+          "views": 18474
+        },
+        {
+          "date": "2020-02-29",
+          "views": 12643
+        },
+        {
+          "date": "2020-03-01",
+          "views": 12272
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=SARS-CoV-2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=SARS-CoV-2",
+      "article_url": "https://it.wikipedia.org/wiki/SARS-CoV-2",
+      "description": "specie di virus della famiglia Coronaviridae",
+      "image_filename": "Coronavirus._SARS-CoV-2.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1280px-Coronavirus._SARS-CoV-2.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronavirus._SARS-CoV-2.png",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Pedigree",
+      "views": 153842,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 0
+        },
+        {
+          "date": "2020-02-25",
+          "views": 0
+        },
+        {
+          "date": "2020-02-26",
+          "views": 143925
+        },
+        {
+          "date": "2020-02-27",
+          "views": 8501
+        },
+        {
+          "date": "2020-02-28",
+          "views": 1416
+        },
+        {
+          "date": "2020-02-29",
+          "views": 0
+        },
+        {
+          "date": "2020-03-01",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pedigree&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Pedigree",
+      "article_url": "https://it.wikipedia.org/wiki/Pedigree",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Tommaso_Buscetta",
+      "views": 130270,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 69097
+        },
+        {
+          "date": "2020-02-25",
+          "views": 29927
+        },
+        {
+          "date": "2020-02-26",
+          "views": 7121
+        },
+        {
+          "date": "2020-02-27",
+          "views": 3715
+        },
+        {
+          "date": "2020-02-28",
+          "views": 2998
+        },
+        {
+          "date": "2020-02-29",
+          "views": 6463
+        },
+        {
+          "date": "2020-03-01",
+          "views": 10949
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tommaso%20Buscetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Tommaso_Buscetta",
+      "article_url": "https://it.wikipedia.org/wiki/Tommaso_Buscetta",
+      "description": "mafioso e collaboratore di giustizia italiano (1928-2000)",
+      "image_filename": "Buscetta_tommaso.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Buscetta_tommaso.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Buscetta_tommaso.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Vincenzo_Mollica",
+      "views": 111827,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 0
+        },
+        {
+          "date": "2020-02-25",
+          "views": 0
+        },
+        {
+          "date": "2020-02-26",
+          "views": 10548
+        },
+        {
+          "date": "2020-02-27",
+          "views": 1703
+        },
+        {
+          "date": "2020-02-28",
+          "views": 1531
+        },
+        {
+          "date": "2020-02-29",
+          "views": 6003
+        },
+        {
+          "date": "2020-03-01",
+          "views": 92042
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vincenzo%20Mollica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Vincenzo_Mollica",
+      "article_url": "https://it.wikipedia.org/wiki/Vincenzo_Mollica",
+      "description": "giornalista e scrittore italiano (1953-)",
+      "image_filename": "Vincenzo_Mollica.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vincenzo_Mollica.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vincenzo_Mollica.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Pandemia",
+      "views": 106194,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 41869
+        },
+        {
+          "date": "2020-02-25",
+          "views": 18660
+        },
+        {
+          "date": "2020-02-26",
+          "views": 14696
+        },
+        {
+          "date": "2020-02-27",
+          "views": 10020
+        },
+        {
+          "date": "2020-02-28",
+          "views": 8371
+        },
+        {
+          "date": "2020-02-29",
+          "views": 6527
+        },
+        {
+          "date": "2020-03-01",
+          "views": 6051
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pandemia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Pandemia",
+      "article_url": "https://it.wikipedia.org/wiki/Pandemia",
+      "description": "epidemia la cui diffusione interessa pi\u00f9 aree geografiche del mondo",
+      "image_filename": "1918FluVictimsStLouis.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1918FluVictimsStLouis.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:1918FluVictimsStLouis.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "L'amica_geniale_(serie_televisiva)",
+      "views": 100269,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 34563
+        },
+        {
+          "date": "2020-02-25",
+          "views": 23862
+        },
+        {
+          "date": "2020-02-26",
+          "views": 10548
+        },
+        {
+          "date": "2020-02-27",
+          "views": 7386
+        },
+        {
+          "date": "2020-02-28",
+          "views": 5830
+        },
+        {
+          "date": "2020-02-29",
+          "views": 10082
+        },
+        {
+          "date": "2020-03-01",
+          "views": 7998
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=L%27amica%20geniale%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=L%27amica_geniale_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/L%27amica_geniale_(serie_televisiva)",
+      "description": "serie televisiva italo-statunitense",
+      "image_filename": "AmicaGeniale.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/07/AmicaGeniale.jpg/1280px-AmicaGeniale.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:AmicaGeniale.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Codogno",
+      "views": 95233,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 14809
+        },
+        {
+          "date": "2020-02-25",
+          "views": 14259
+        },
+        {
+          "date": "2020-02-26",
+          "views": 16705
+        },
+        {
+          "date": "2020-02-27",
+          "views": 21095
+        },
+        {
+          "date": "2020-02-28",
+          "views": 12127
+        },
+        {
+          "date": "2020-02-29",
+          "views": 8334
+        },
+        {
+          "date": "2020-03-01",
+          "views": 7904
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Codogno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Codogno",
+      "article_url": "https://it.wikipedia.org/wiki/Codogno",
+      "description": "comune italiano",
+      "image_filename": "Flag_blue_green_3x2.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_blue_green_3x2.svg/1280px-Flag_blue_green_3x2.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_blue_green_3x2.svg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "SARS",
+      "views": 93232,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 29354
+        },
+        {
+          "date": "2020-02-25",
+          "views": 19123
+        },
+        {
+          "date": "2020-02-26",
+          "views": 13190
+        },
+        {
+          "date": "2020-02-27",
+          "views": 8880
+        },
+        {
+          "date": "2020-02-28",
+          "views": 6995
+        },
+        {
+          "date": "2020-02-29",
+          "views": 7821
+        },
+        {
+          "date": "2020-03-01",
+          "views": 7869
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=SARS&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=SARS",
+      "article_url": "https://it.wikipedia.org/wiki/SARS",
+      "description": "sindrome respiratoria acuta grave",
+      "image_filename": "Coronaviruses_004_lores.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/1280px-Coronaviruses_004_lores.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronaviruses_004_lores.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Mia_Martini",
+      "views": 86404,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 0
+        },
+        {
+          "date": "2020-02-25",
+          "views": 1209
+        },
+        {
+          "date": "2020-02-26",
+          "views": 1631
+        },
+        {
+          "date": "2020-02-27",
+          "views": 59223
+        },
+        {
+          "date": "2020-02-28",
+          "views": 15078
+        },
+        {
+          "date": "2020-02-29",
+          "views": 5712
+        },
+        {
+          "date": "2020-03-01",
+          "views": 3551
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mia%20Martini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Mia_Martini",
+      "article_url": "https://it.wikipedia.org/wiki/Mia_Martini",
+      "description": "cantautrice italiana (1947-1995)",
+      "image_filename": "Mia_Martini_(69).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Mia_Martini_%2869%29.jpg/1280px-Mia_Martini_%2869%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mia_Martini_(69).jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Albert_Einstein",
+      "views": 86381,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 0
+        },
+        {
+          "date": "2020-02-25",
+          "views": 990
+        },
+        {
+          "date": "2020-02-26",
+          "views": 68040
+        },
+        {
+          "date": "2020-02-27",
+          "views": 10897
+        },
+        {
+          "date": "2020-02-28",
+          "views": 2667
+        },
+        {
+          "date": "2020-02-29",
+          "views": 1909
+        },
+        {
+          "date": "2020-03-01",
+          "views": 1878
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Albert%20Einstein&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Albert_Einstein",
+      "article_url": "https://it.wikipedia.org/wiki/Albert_Einstein",
+      "description": "fisico svizzero-tedesco e statunitense (1879\u20131955)",
+      "image_filename": "Albert_Einstein_Head_cleaned.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/1280px-Albert_Einstein_Head_cleaned.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Peste_nera",
+      "views": 84074,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 19457
+        },
+        {
+          "date": "2020-02-25",
+          "views": 16084
+        },
+        {
+          "date": "2020-02-26",
+          "views": 13771
+        },
+        {
+          "date": "2020-02-27",
+          "views": 9838
+        },
+        {
+          "date": "2020-02-28",
+          "views": 7925
+        },
+        {
+          "date": "2020-02-29",
+          "views": 7780
+        },
+        {
+          "date": "2020-03-01",
+          "views": 9219
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Peste%20nera&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Peste_nera",
+      "article_url": "https://it.wikipedia.org/wiki/Peste_nera",
+      "description": "pandemia di peste del XIV secolo",
+      "image_filename": "Trionfo_della_morte,_gi\u00e0_a_palazzo_sclafani,_galleria_regionale_di_Palazzo_Abbatellis,_palermo_(1446)_,_affresco_staccato.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_%281446%29_%2C_affresco_staccato.jpg/1280px-Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_%281446%29_%2C_affresco_staccato.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_(1446)_%2C_affresco_staccato.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "12_anni_schiavo",
+      "views": 80914,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 0
+        },
+        {
+          "date": "2020-02-25",
+          "views": 0
+        },
+        {
+          "date": "2020-02-26",
+          "views": 1852
+        },
+        {
+          "date": "2020-02-27",
+          "views": 61722
+        },
+        {
+          "date": "2020-02-28",
+          "views": 12723
+        },
+        {
+          "date": "2020-02-29",
+          "views": 2451
+        },
+        {
+          "date": "2020-03-01",
+          "views": 2166
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=12%20anni%20schiavo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=12_anni_schiavo",
+      "article_url": "https://it.wikipedia.org/wiki/12_anni_schiavo",
+      "description": "film del 2013 diretto da Steve McQueen",
+      "image_filename": "12_Years_a_Slave.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/12_Years_a_Slave.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:12_Years_a_Slave.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "COVID-19",
+      "views": 78453,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 20599
+        },
+        {
+          "date": "2020-02-25",
+          "views": 15534
+        },
+        {
+          "date": "2020-02-26",
+          "views": 12567
+        },
+        {
+          "date": "2020-02-27",
+          "views": 9314
+        },
+        {
+          "date": "2020-02-28",
+          "views": 7410
+        },
+        {
+          "date": "2020-02-29",
+          "views": 6347
+        },
+        {
+          "date": "2020-03-01",
+          "views": 6682
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=COVID-19&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=COVID-19",
+      "article_url": "https://it.wikipedia.org/wiki/COVID-19",
+      "description": "malattia infettiva respiratoria causata dal ceppo patogeno SARS-CoV-2",
+      "image_filename": "Fphar-11-00937-g001.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fphar-11-00937-g001.jpg/1280px-Fphar-11-00937-g001.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fphar-11-00937-g001.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Virus_(biologia)",
+      "views": 72314,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 15178
+        },
+        {
+          "date": "2020-02-25",
+          "views": 12649
+        },
+        {
+          "date": "2020-02-26",
+          "views": 11671
+        },
+        {
+          "date": "2020-02-27",
+          "views": 9572
+        },
+        {
+          "date": "2020-02-28",
+          "views": 8415
+        },
+        {
+          "date": "2020-02-29",
+          "views": 7022
+        },
+        {
+          "date": "2020-03-01",
+          "views": 7807
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Virus%20%28biologia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Virus_(biologia)",
+      "article_url": "https://it.wikipedia.org/wiki/Virus_(biologia)",
+      "description": "entit\u00e0 biologica",
+      "image_filename": "Rotavirus_Reconstruction.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rotavirus_Reconstruction.jpg/1280px-Rotavirus_Reconstruction.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rotavirus_Reconstruction.jpg",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Elettra_Lamborghini",
+      "views": 70227,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 13802
+        },
+        {
+          "date": "2020-02-25",
+          "views": 10331
+        },
+        {
+          "date": "2020-02-26",
+          "views": 10491
+        },
+        {
+          "date": "2020-02-27",
+          "views": 9052
+        },
+        {
+          "date": "2020-02-28",
+          "views": 10597
+        },
+        {
+          "date": "2020-02-29",
+          "views": 8547
+        },
+        {
+          "date": "2020-03-01",
+          "views": 7407
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elettra%20Lamborghini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Elettra_Lamborghini",
+      "article_url": "https://it.wikipedia.org/wiki/Elettra_Lamborghini",
+      "description": "cantante, showgirl e conduttrice televisiva italiana (1994-)",
+      "image_filename": "Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_%28cropped%29.jpg/1280px-Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Italia",
+      "views": 68616,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 10951
+        },
+        {
+          "date": "2020-02-25",
+          "views": 10478
+        },
+        {
+          "date": "2020-02-26",
+          "views": 9474
+        },
+        {
+          "date": "2020-02-27",
+          "views": 8886
+        },
+        {
+          "date": "2020-02-28",
+          "views": 8755
+        },
+        {
+          "date": "2020-02-29",
+          "views": 9790
+        },
+        {
+          "date": "2020-03-01",
+          "views": 10282
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Attilio_Fontana_(politico)",
+      "views": 68390,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 10735
+        },
+        {
+          "date": "2020-02-25",
+          "views": 13549
+        },
+        {
+          "date": "2020-02-26",
+          "views": 10694
+        },
+        {
+          "date": "2020-02-27",
+          "views": 19258
+        },
+        {
+          "date": "2020-02-28",
+          "views": 8413
+        },
+        {
+          "date": "2020-02-29",
+          "views": 3514
+        },
+        {
+          "date": "2020-03-01",
+          "views": 2227
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Attilio%20Fontana%20%28politico%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Attilio_Fontana_(politico)",
+      "article_url": "https://it.wikipedia.org/wiki/Attilio_Fontana_(politico)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Hunters_(serie_televisiva)",
+      "views": 67360,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 10132
+        },
+        {
+          "date": "2020-02-25",
+          "views": 8730
+        },
+        {
+          "date": "2020-02-26",
+          "views": 8895
+        },
+        {
+          "date": "2020-02-27",
+          "views": 8554
+        },
+        {
+          "date": "2020-02-28",
+          "views": 7802
+        },
+        {
+          "date": "2020-02-29",
+          "views": 9431
+        },
+        {
+          "date": "2020-03-01",
+          "views": 13816
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Hunters%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Hunters_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Hunters_(serie_televisiva)",
+      "description": "serie televisiva statunitense del 2020",
+      "image_filename": "Hunters_trailer.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/e/e0/Hunters_trailer.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hunters_trailer.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Starbucks",
+      "views": 64995,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 0
+        },
+        {
+          "date": "2020-02-25",
+          "views": 0
+        },
+        {
+          "date": "2020-02-26",
+          "views": 60703
+        },
+        {
+          "date": "2020-02-27",
+          "views": 4292
+        },
+        {
+          "date": "2020-02-28",
+          "views": 0
+        },
+        {
+          "date": "2020-02-29",
+          "views": 0
+        },
+        {
+          "date": "2020-03-01",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Starbucks&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Starbucks",
+      "article_url": "https://it.wikipedia.org/wiki/Starbucks",
+      "description": "catena internazionale di caffetterie",
+      "image_filename": "Starbuckscenter.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/1280px-Starbuckscenter.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Starbuckscenter.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Ipoclorito_di_sodio",
+      "views": 64599,
+      "daily_views": [
+        {
+          "date": "2020-02-24",
+          "views": 24400
+        },
+        {
+          "date": "2020-02-25",
+          "views": 13546
+        },
+        {
+          "date": "2020-02-26",
+          "views": 7645
+        },
+        {
+          "date": "2020-02-27",
+          "views": 6054
+        },
+        {
+          "date": "2020-02-28",
+          "views": 5815
+        },
+        {
+          "date": "2020-02-29",
+          "views": 3802
+        },
+        {
+          "date": "2020-03-01",
+          "views": 3337
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ipoclorito%20di%20sodio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Ipoclorito_di_sodio",
+      "article_url": "https://it.wikipedia.org/wiki/Ipoclorito_di_sodio",
+      "description": "composto chimico",
+      "image_filename": "Sodium-hypochlorite.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sodium-hypochlorite.png/1280px-Sodium-hypochlorite.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sodium-hypochlorite.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

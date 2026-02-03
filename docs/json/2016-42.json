@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2016,
+  "week": 42,
+  "start_date": "2016-10-17",
+  "end_date": "2016-10-23",
+  "days": [
+    "2016-10-17",
+    "2016-10-18",
+    "2016-10-19",
+    "2016-10-20",
+    "2016-10-21",
+    "2016-10-22",
+    "2016-10-23"
+  ],
+  "total_articles": 2552,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "I_Medici_(serie_televisiva)",
+      "views": 463780,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 28464
+        },
+        {
+          "date": "2016-10-18",
+          "views": 236057
+        },
+        {
+          "date": "2016-10-19",
+          "views": 110052
+        },
+        {
+          "date": "2016-10-20",
+          "views": 34430
+        },
+        {
+          "date": "2016-10-21",
+          "views": 20140
+        },
+        {
+          "date": "2016-10-22",
+          "views": 16081
+        },
+        {
+          "date": "2016-10-23",
+          "views": 18556
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=I%20Medici%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=I_Medici_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/I_Medici_(serie_televisiva)",
+      "description": "serie televisiva anglo-italiana (2016-2019)",
+      "image_filename": "I_Medici_serie_TV.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/af/I_Medici_serie_TV.jpg/1280px-I_Medici_serie_TV.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:I_Medici_serie_TV.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Cosimo_de'_Medici",
+      "views": 397266,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 4039
+        },
+        {
+          "date": "2016-10-18",
+          "views": 244687
+        },
+        {
+          "date": "2016-10-19",
+          "views": 85976
+        },
+        {
+          "date": "2016-10-20",
+          "views": 25129
+        },
+        {
+          "date": "2016-10-21",
+          "views": 13328
+        },
+        {
+          "date": "2016-10-22",
+          "views": 10929
+        },
+        {
+          "date": "2016-10-23",
+          "views": 13178
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cosimo%20de%27%20Medici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Cosimo_de%27_Medici",
+      "article_url": "https://it.wikipedia.org/wiki/Cosimo_de%27_Medici",
+      "description": "politico e banchiere italiano, primo signore di Firenze (de facto) dal 1434 al 1464",
+      "image_filename": "Pontormo_-_Ritratto_di_Cosimo_il_Vecchio_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pontormo_-_Ritratto_di_Cosimo_il_Vecchio_-_Google_Art_Project.jpg/1280px-Pontormo_-_Ritratto_di_Cosimo_il_Vecchio_-_Google_Art_Project.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pontormo_-_Ritratto_di_Cosimo_il_Vecchio_-_Google_Art_Project.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Medici",
+      "views": 330317,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 10769
+        },
+        {
+          "date": "2016-10-18",
+          "views": 184177
+        },
+        {
+          "date": "2016-10-19",
+          "views": 78450
+        },
+        {
+          "date": "2016-10-20",
+          "views": 23626
+        },
+        {
+          "date": "2016-10-21",
+          "views": 12727
+        },
+        {
+          "date": "2016-10-22",
+          "views": 9535
+        },
+        {
+          "date": "2016-10-23",
+          "views": 11033
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Medici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Medici",
+      "article_url": "https://it.wikipedia.org/wiki/Medici",
+      "description": "famiglia nobile italiana",
+      "image_filename": "Coat_of_arms_of_the_House_of_de'_Medici.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Coat_of_arms_of_the_House_of_de%27_Medici.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_House_of_de%27_Medici.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Beatrice_Vio",
+      "views": 248436,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 16949
+        },
+        {
+          "date": "2016-10-18",
+          "views": 26378
+        },
+        {
+          "date": "2016-10-19",
+          "views": 86076
+        },
+        {
+          "date": "2016-10-20",
+          "views": 60474
+        },
+        {
+          "date": "2016-10-21",
+          "views": 24017
+        },
+        {
+          "date": "2016-10-22",
+          "views": 19016
+        },
+        {
+          "date": "2016-10-23",
+          "views": 15526
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Beatrice%20Vio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Beatrice_Vio",
+      "article_url": "https://it.wikipedia.org/wiki/Beatrice_Vio",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Lorenzo_de'_Medici",
+      "views": 208444,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 3587
+        },
+        {
+          "date": "2016-10-18",
+          "views": 122493
+        },
+        {
+          "date": "2016-10-19",
+          "views": 46300
+        },
+        {
+          "date": "2016-10-20",
+          "views": 14099
+        },
+        {
+          "date": "2016-10-21",
+          "views": 7708
+        },
+        {
+          "date": "2016-10-22",
+          "views": 6624
+        },
+        {
+          "date": "2016-10-23",
+          "views": 7633
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lorenzo%20de%27%20Medici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Lorenzo_de%27_Medici",
+      "article_url": "https://it.wikipedia.org/wiki/Lorenzo_de%27_Medici",
+      "description": "politico e umanista italiano, signore di Firenze (de facto) dal 1469 al 1492",
+      "image_filename": "Capella_sassetti_detail.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Capella_sassetti_detail.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Capella_sassetti_detail.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "The_Young_Pope",
+      "views": 157606,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 5250
+        },
+        {
+          "date": "2016-10-18",
+          "views": 5731
+        },
+        {
+          "date": "2016-10-19",
+          "views": 5209
+        },
+        {
+          "date": "2016-10-20",
+          "views": 9898
+        },
+        {
+          "date": "2016-10-21",
+          "views": 45358
+        },
+        {
+          "date": "2016-10-22",
+          "views": 46793
+        },
+        {
+          "date": "2016-10-23",
+          "views": 39367
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Young%20Pope&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=The_Young_Pope",
+      "article_url": "https://it.wikipedia.org/wiki/The_Young_Pope",
+      "description": "serie televisiva italo-franco-spagnola del 2016 di Paolo Sorrentino",
+      "image_filename": "YoungPopeLogo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/de/YoungPopeLogo.png/1280px-YoungPopeLogo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:YoungPopeLogo.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Giovanni_di_Bicci_de'_Medici",
+      "views": 120646,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 1367
+        },
+        {
+          "date": "2016-10-18",
+          "views": 69605
+        },
+        {
+          "date": "2016-10-19",
+          "views": 29219
+        },
+        {
+          "date": "2016-10-20",
+          "views": 8684
+        },
+        {
+          "date": "2016-10-21",
+          "views": 4364
+        },
+        {
+          "date": "2016-10-22",
+          "views": 3465
+        },
+        {
+          "date": "2016-10-23",
+          "views": 3942
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giovanni%20di%20Bicci%20de%27%20Medici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Giovanni_di_Bicci_de%27_Medici",
+      "article_url": "https://it.wikipedia.org/wiki/Giovanni_di_Bicci_de%27_Medici",
+      "description": "banchiere italiano",
+      "image_filename": "Giovanni_di_Bicci_de'_Medici.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Giovanni_di_Bicci_de%27_Medici.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giovanni_di_Bicci_de%27_Medici.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 8,
+      "article": "Antonella_Mosetti",
+      "views": 108269,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 51953
+        },
+        {
+          "date": "2016-10-18",
+          "views": 18967
+        },
+        {
+          "date": "2016-10-19",
+          "views": 9094
+        },
+        {
+          "date": "2016-10-20",
+          "views": 6361
+        },
+        {
+          "date": "2016-10-21",
+          "views": 5165
+        },
+        {
+          "date": "2016-10-22",
+          "views": 9578
+        },
+        {
+          "date": "2016-10-23",
+          "views": 7151
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Antonella%20Mosetti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Antonella_Mosetti",
+      "article_url": "https://it.wikipedia.org/wiki/Antonella_Mosetti",
+      "description": "showgirl italiana",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Piero_il_Gottoso",
+      "views": 98896,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 1182
+        },
+        {
+          "date": "2016-10-18",
+          "views": 59429
+        },
+        {
+          "date": "2016-10-19",
+          "views": 22032
+        },
+        {
+          "date": "2016-10-20",
+          "views": 6515
+        },
+        {
+          "date": "2016-10-21",
+          "views": 3614
+        },
+        {
+          "date": "2016-10-22",
+          "views": 2869
+        },
+        {
+          "date": "2016-10-23",
+          "views": 3255
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Piero%20il%20Gottoso&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Piero_il_Gottoso",
+      "article_url": "https://it.wikipedia.org/wiki/Piero_il_Gottoso",
+      "description": "politico italiano, signore di Firenze (de facto) dal 1464 al 1469",
+      "image_filename": "Piero_di_Cosimo_de'_Medici.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Piero_di_Cosimo_de%27_Medici.jpg/1280px-Piero_di_Cosimo_de%27_Medici.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_de%27_Medici.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "Valeria_Marini",
+      "views": 95834,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 44438
+        },
+        {
+          "date": "2016-10-18",
+          "views": 16564
+        },
+        {
+          "date": "2016-10-19",
+          "views": 10188
+        },
+        {
+          "date": "2016-10-20",
+          "views": 7174
+        },
+        {
+          "date": "2016-10-21",
+          "views": 6468
+        },
+        {
+          "date": "2016-10-22",
+          "views": 5741
+        },
+        {
+          "date": "2016-10-23",
+          "views": 5261
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Valeria%20Marini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Valeria_Marini",
+      "article_url": "https://it.wikipedia.org/wiki/Valeria_Marini",
+      "description": "showgirl, attrice e imprenditrice italiana (1967-)",
+      "image_filename": "Valeria_Marini_2015.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Valeria_Marini_2015.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Valeria_Marini_2015.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Saving_Mr._Banks",
+      "views": 89651,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 0
+        },
+        {
+          "date": "2016-10-18",
+          "views": 1369
+        },
+        {
+          "date": "2016-10-19",
+          "views": 69962
+        },
+        {
+          "date": "2016-10-20",
+          "views": 13618
+        },
+        {
+          "date": "2016-10-21",
+          "views": 2317
+        },
+        {
+          "date": "2016-10-22",
+          "views": 1247
+        },
+        {
+          "date": "2016-10-23",
+          "views": 1138
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Saving%20Mr.%20Banks&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Saving_Mr._Banks",
+      "article_url": "https://it.wikipedia.org/wiki/Saving_Mr._Banks",
+      "description": "film del 2013 diretto da John Lee Hancock",
+      "image_filename": "Saving_mrbanks.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f1/Saving_mrbanks.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Saving_mrbanks.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Manuel_Agnelli",
+      "views": 88434,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 11316
+        },
+        {
+          "date": "2016-10-18",
+          "views": 6544
+        },
+        {
+          "date": "2016-10-19",
+          "views": 8071
+        },
+        {
+          "date": "2016-10-20",
+          "views": 18893
+        },
+        {
+          "date": "2016-10-21",
+          "views": 21344
+        },
+        {
+          "date": "2016-10-22",
+          "views": 11953
+        },
+        {
+          "date": "2016-10-23",
+          "views": 10313
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Manuel%20Agnelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Manuel_Agnelli",
+      "article_url": "https://it.wikipedia.org/wiki/Manuel_Agnelli",
+      "description": "cantautore, musicista, produttore discografico e personaggio televisivo italiano (1966-)",
+      "image_filename": "Strategie_dell\u2019apnea_dal_Tora!_Tora!_a_X-Factor_passando_per_Sanremo_-_From_Tora!_Tora!_to_X-Factor_(33366521063).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strategie_dell%E2%80%99apnea_dal_Tora%21_Tora%21_a_X-Factor_passando_per_Sanremo_-_From_Tora%21_Tora%21_to_X-Factor_%2833366521063%29.jpg/1280px-Strategie_dell%E2%80%99apnea_dal_Tora%21_Tora%21_a_X-Factor_passando_per_Sanremo_-_From_Tora%21_Tora%21_to_X-Factor_%2833366521063%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Strategie_dell%E2%80%99apnea_dal_Tora%21_Tora%21_a_X-Factor_passando_per_Sanremo_-_From_Tora%21_Tora%21_to_X-Factor_(33366521063).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Elenoire_Casalegno",
+      "views": 86972,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 19004
+        },
+        {
+          "date": "2016-10-18",
+          "views": 13378
+        },
+        {
+          "date": "2016-10-19",
+          "views": 11749
+        },
+        {
+          "date": "2016-10-20",
+          "views": 13603
+        },
+        {
+          "date": "2016-10-21",
+          "views": 10920
+        },
+        {
+          "date": "2016-10-22",
+          "views": 7802
+        },
+        {
+          "date": "2016-10-23",
+          "views": 10516
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elenoire%20Casalegno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Elenoire_Casalegno",
+      "article_url": "https://it.wikipedia.org/wiki/Elenoire_Casalegno",
+      "description": "conduttrice televisiva italiana (1976-)",
+      "image_filename": "ELENOIRE_CASALEGNO_2023_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/ELENOIRE_CASALEGNO_2023_cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ELENOIRE_CASALEGNO_2023_cropped.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Richard_Madden",
+      "views": 85833,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 4271
+        },
+        {
+          "date": "2016-10-18",
+          "views": 41593
+        },
+        {
+          "date": "2016-10-19",
+          "views": 21735
+        },
+        {
+          "date": "2016-10-20",
+          "views": 7264
+        },
+        {
+          "date": "2016-10-21",
+          "views": 4116
+        },
+        {
+          "date": "2016-10-22",
+          "views": 3314
+        },
+        {
+          "date": "2016-10-23",
+          "views": 3540
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Richard%20Madden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Richard_Madden",
+      "article_url": "https://it.wikipedia.org/wiki/Richard_Madden",
+      "description": "attore britannico",
+      "image_filename": "Richard_Madden_(48462874707)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Richard_Madden_%2848462874707%29_%28cropped%29.jpg/1280px-Richard_Madden_%2848462874707%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Richard_Madden_(48462874707)_(cropped).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Sette_anime",
+      "views": 76504,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 51719
+        },
+        {
+          "date": "2016-10-18",
+          "views": 8302
+        },
+        {
+          "date": "2016-10-19",
+          "views": 1388
+        },
+        {
+          "date": "2016-10-20",
+          "views": 0
+        },
+        {
+          "date": "2016-10-21",
+          "views": 0
+        },
+        {
+          "date": "2016-10-22",
+          "views": 12369
+        },
+        {
+          "date": "2016-10-23",
+          "views": 2726
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sette%20anime&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Sette_anime",
+      "article_url": "https://it.wikipedia.org/wiki/Sette_anime",
+      "description": "film del 2008 diretto da Gabriele Muccino",
+      "image_filename": "Sette_Anime.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8a/Sette_Anime.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sette_Anime.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Unbundling_local_loop",
+      "views": 74362,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 0
+        },
+        {
+          "date": "2016-10-18",
+          "views": 0
+        },
+        {
+          "date": "2016-10-19",
+          "views": 0
+        },
+        {
+          "date": "2016-10-20",
+          "views": 0
+        },
+        {
+          "date": "2016-10-21",
+          "views": 0
+        },
+        {
+          "date": "2016-10-22",
+          "views": 0
+        },
+        {
+          "date": "2016-10-23",
+          "views": 74362
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Unbundling%20local%20loop&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Unbundling_local_loop",
+      "article_url": "https://it.wikipedia.org/wiki/Unbundling_local_loop",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Inferno_(film_2016)",
+      "views": 73668,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 11843
+        },
+        {
+          "date": "2016-10-18",
+          "views": 9192
+        },
+        {
+          "date": "2016-10-19",
+          "views": 10655
+        },
+        {
+          "date": "2016-10-20",
+          "views": 8562
+        },
+        {
+          "date": "2016-10-21",
+          "views": 8547
+        },
+        {
+          "date": "2016-10-22",
+          "views": 11121
+        },
+        {
+          "date": "2016-10-23",
+          "views": 13748
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Inferno%20%28film%202016%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Inferno_(film_2016)",
+      "article_url": "https://it.wikipedia.org/wiki/Inferno_(film_2016)",
+      "description": "film del 2016 diretto da Ron Howard",
+      "image_filename": "Inferno_film.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/9d/Inferno_film.png/1280px-Inferno_film.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Inferno_film.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Bob_Dylan",
+      "views": 73207,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 14753
+        },
+        {
+          "date": "2016-10-18",
+          "views": 12300
+        },
+        {
+          "date": "2016-10-19",
+          "views": 10107
+        },
+        {
+          "date": "2016-10-20",
+          "views": 9689
+        },
+        {
+          "date": "2016-10-21",
+          "views": 9272
+        },
+        {
+          "date": "2016-10-22",
+          "views": 8989
+        },
+        {
+          "date": "2016-10-23",
+          "views": 8097
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bob%20Dylan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Bob_Dylan",
+      "article_url": "https://it.wikipedia.org/wiki/Bob_Dylan",
+      "description": "cantautore e musicista statunitense",
+      "image_filename": "DylanYoungKilkenny140719v2_(50_of_52)_(52246124397)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/1280px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:DylanYoungKilkenny140719v2_(50_of_52)_(52246124397)_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Relativit\u00e0_ristretta",
+      "views": 67760,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 0
+        },
+        {
+          "date": "2016-10-18",
+          "views": 0
+        },
+        {
+          "date": "2016-10-19",
+          "views": 0
+        },
+        {
+          "date": "2016-10-20",
+          "views": 67760
+        },
+        {
+          "date": "2016-10-21",
+          "views": 0
+        },
+        {
+          "date": "2016-10-22",
+          "views": 0
+        },
+        {
+          "date": "2016-10-23",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Relativit%C3%A0%20ristretta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Relativit%C3%A0_ristretta",
+      "article_url": "https://it.wikipedia.org/wiki/Relativit%C3%A0_ristretta",
+      "description": "teoria fisica sviluppata da Albert Einstein che riformula ed estende le leggi della meccanica",
+      "image_filename": "Einstein_patentoffice.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Einstein_patentoffice.jpg/1280px-Einstein_patentoffice.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Einstein_patentoffice.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Manuel_Locatelli",
+      "views": 67434,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 1459
+        },
+        {
+          "date": "2016-10-18",
+          "views": 0
+        },
+        {
+          "date": "2016-10-19",
+          "views": 0
+        },
+        {
+          "date": "2016-10-20",
+          "views": 0
+        },
+        {
+          "date": "2016-10-21",
+          "views": 0
+        },
+        {
+          "date": "2016-10-22",
+          "views": 31704
+        },
+        {
+          "date": "2016-10-23",
+          "views": 34271
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Manuel%20Locatelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Manuel_Locatelli",
+      "article_url": "https://it.wikipedia.org/wiki/Manuel_Locatelli",
+      "description": "calciatore italiano (1998-)",
+      "image_filename": "MANUEL_LOCATELLI_-_ZENIT_vs_JUVENTUS.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/MANUEL_LOCATELLI_-_ZENIT_vs_JUVENTUS.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:MANUEL_LOCATELLI_-_ZENIT_vs_JUVENTUS.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Cupola_del_Brunelleschi",
+      "views": 67352,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 995
+        },
+        {
+          "date": "2016-10-18",
+          "views": 34876
+        },
+        {
+          "date": "2016-10-19",
+          "views": 15743
+        },
+        {
+          "date": "2016-10-20",
+          "views": 5621
+        },
+        {
+          "date": "2016-10-21",
+          "views": 3504
+        },
+        {
+          "date": "2016-10-22",
+          "views": 3075
+        },
+        {
+          "date": "2016-10-23",
+          "views": 3538
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cupola%20del%20Brunelleschi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Cupola_del_Brunelleschi",
+      "article_url": "https://it.wikipedia.org/wiki/Cupola_del_Brunelleschi",
+      "description": "opera architettonica di Filippo Brunelleschi",
+      "image_filename": "Florence_duomo_fc10.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Florence_duomo_fc10.jpg/1280px-Florence_duomo_fc10.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Florence_duomo_fc10.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Halloween",
+      "views": 55787,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 4383
+        },
+        {
+          "date": "2016-10-18",
+          "views": 5365
+        },
+        {
+          "date": "2016-10-19",
+          "views": 7288
+        },
+        {
+          "date": "2016-10-20",
+          "views": 7966
+        },
+        {
+          "date": "2016-10-21",
+          "views": 9078
+        },
+        {
+          "date": "2016-10-22",
+          "views": 9213
+        },
+        {
+          "date": "2016-10-23",
+          "views": 12494
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Halloween&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Halloween",
+      "article_url": "https://it.wikipedia.org/wiki/Halloween",
+      "description": "festa che si celebra il 31 ottobre",
+      "image_filename": "Jack-o'-Lantern_2003-10-31.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Jack-o%27-Lantern_2003-10-31.jpg/1042px-Jack-o%27-Lantern_2003-10-31.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jack-o%27-Lantern_2003-10-31.jpg",
+      "image_license": "CC BY-SA 2.5",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Obiezione_di_coscienza",
+      "views": 55328,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 0
+        },
+        {
+          "date": "2016-10-18",
+          "views": 0
+        },
+        {
+          "date": "2016-10-19",
+          "views": 1194
+        },
+        {
+          "date": "2016-10-20",
+          "views": 18439
+        },
+        {
+          "date": "2016-10-21",
+          "views": 25048
+        },
+        {
+          "date": "2016-10-22",
+          "views": 7925
+        },
+        {
+          "date": "2016-10-23",
+          "views": 2722
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Obiezione%20di%20coscienza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Obiezione_di_coscienza",
+      "article_url": "https://it.wikipedia.org/wiki/Obiezione_di_coscienza",
+      "description": "rifiuto di ottemperare a un obbligo giuridico che \u00e8 in contrasto alle proprie convinzioni",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Gianluigi_Donnarumma",
+      "views": 55049,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 2105
+        },
+        {
+          "date": "2016-10-18",
+          "views": 1843
+        },
+        {
+          "date": "2016-10-19",
+          "views": 1812
+        },
+        {
+          "date": "2016-10-20",
+          "views": 1783
+        },
+        {
+          "date": "2016-10-21",
+          "views": 3865
+        },
+        {
+          "date": "2016-10-22",
+          "views": 23007
+        },
+        {
+          "date": "2016-10-23",
+          "views": 20634
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gianluigi%20Donnarumma&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Gianluigi_Donnarumma",
+      "article_url": "https://it.wikipedia.org/wiki/Gianluigi_Donnarumma",
+      "description": "calciatore italiano (1999-)",
+      "image_filename": "Norway_Italy_-_June_2025_B_33_-_Gianluigi_Donnarumma_(close-up).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Norway_Italy_-_June_2025_B_33_-_Gianluigi_Donnarumma_%28close-up%29.jpg/1280px-Norway_Italy_-_June_2025_B_33_-_Gianluigi_Donnarumma_%28close-up%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_B_33_-_Gianluigi_Donnarumma_(close-up).jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Pablo_Escobar",
+      "views": 54592,
+      "daily_views": [
+        {
+          "date": "2016-10-17",
+          "views": 10104
+        },
+        {
+          "date": "2016-10-18",
+          "views": 7882
+        },
+        {
+          "date": "2016-10-19",
+          "views": 7081
+        },
+        {
+          "date": "2016-10-20",
+          "views": 7361
+        },
+        {
+          "date": "2016-10-21",
+          "views": 7239
+        },
+        {
+          "date": "2016-10-22",
+          "views": 6717
+        },
+        {
+          "date": "2016-10-23",
+          "views": 8208
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pablo%20Escobar&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/17/2016,cd_max:10/23/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-17&end=2016-10-23&pages=Pablo_Escobar",
+      "article_url": "https://it.wikipedia.org/wiki/Pablo_Escobar",
+      "description": "criminale, terrorista e narcotrafficante colombiano (1949\u20131993)",
+      "image_filename": "Pablo_Escobar_Mug.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pablo_Escobar_Mug.jpg/1280px-Pablo_Escobar_Mug.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pablo_Escobar_Mug.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

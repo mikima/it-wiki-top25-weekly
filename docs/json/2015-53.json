@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2015,
+  "week": 53,
+  "start_date": "2015-12-28",
+  "end_date": "2016-01-03",
+  "days": [
+    "2015-12-28",
+    "2015-12-29",
+    "2015-12-30",
+    "2015-12-31",
+    "2016-01-01",
+    "2016-01-02",
+    "2016-01-03"
+  ],
+  "total_articles": 2561,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Star_Wars:_Il_risveglio_della_Forza",
+      "views": 192501,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 41732
+        },
+        {
+          "date": "2015-12-29",
+          "views": 32445
+        },
+        {
+          "date": "2015-12-30",
+          "views": 27967
+        },
+        {
+          "date": "2015-12-31",
+          "views": 19010
+        },
+        {
+          "date": "2016-01-01",
+          "views": 21010
+        },
+        {
+          "date": "2016-01-02",
+          "views": 25167
+        },
+        {
+          "date": "2016-01-03",
+          "views": 25170
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Star%20Wars%3A%20Il%20risveglio%20della%20Forza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Star_Wars%3A_Il_risveglio_della_Forza",
+      "article_url": "https://it.wikipedia.org/wiki/Star_Wars%3A_Il_risveglio_della_Forza",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Guerre_stellari",
+      "views": 188948,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 38080
+        },
+        {
+          "date": "2015-12-29",
+          "views": 30560
+        },
+        {
+          "date": "2015-12-30",
+          "views": 26266
+        },
+        {
+          "date": "2015-12-31",
+          "views": 18475
+        },
+        {
+          "date": "2016-01-01",
+          "views": 24361
+        },
+        {
+          "date": "2016-01-02",
+          "views": 25758
+        },
+        {
+          "date": "2016-01-03",
+          "views": 25448
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guerre%20stellari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Guerre_stellari",
+      "article_url": "https://it.wikipedia.org/wiki/Guerre_stellari",
+      "description": "franchise creato da George Lucas",
+      "image_filename": "Star_Wars_Logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1280px-Star_Wars_Logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_Wars_Logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Frozen_-_Il_regno_di_ghiaccio",
+      "views": 186891,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 2740
+        },
+        {
+          "date": "2015-12-29",
+          "views": 2752
+        },
+        {
+          "date": "2015-12-30",
+          "views": 4677
+        },
+        {
+          "date": "2015-12-31",
+          "views": 3790
+        },
+        {
+          "date": "2016-01-01",
+          "views": 107245
+        },
+        {
+          "date": "2016-01-02",
+          "views": 54995
+        },
+        {
+          "date": "2016-01-03",
+          "views": 10692
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Frozen%20-%20Il%20regno%20di%20ghiaccio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Frozen_-_Il_regno_di_ghiaccio",
+      "article_url": "https://it.wikipedia.org/wiki/Frozen_-_Il_regno_di_ghiaccio",
+      "description": "film d'animazione del 2013 diretto da Chris Buck e Jennifer Lee",
+      "image_filename": "Elsa&Anna.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/71/Elsa%26Anna.png/1280px-Elsa%26Anna.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elsa%26Anna.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Checco_Zalone",
+      "views": 138904,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 5277
+        },
+        {
+          "date": "2015-12-29",
+          "views": 8525
+        },
+        {
+          "date": "2015-12-30",
+          "views": 7643
+        },
+        {
+          "date": "2015-12-31",
+          "views": 6340
+        },
+        {
+          "date": "2016-01-01",
+          "views": 17017
+        },
+        {
+          "date": "2016-01-02",
+          "views": 43476
+        },
+        {
+          "date": "2016-01-03",
+          "views": 50626
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Checco%20Zalone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Checco_Zalone",
+      "article_url": "https://it.wikipedia.org/wiki/Checco_Zalone",
+      "description": "comico, sceneggiatore, attore e imitatore italiano (1977-)",
+      "image_filename": "Checco_Zalone.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Checco_Zalone.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Checco_Zalone.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Lemmy_Kilmister",
+      "views": 133407,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 0
+        },
+        {
+          "date": "2015-12-29",
+          "views": 97418
+        },
+        {
+          "date": "2015-12-30",
+          "views": 18928
+        },
+        {
+          "date": "2015-12-31",
+          "views": 6459
+        },
+        {
+          "date": "2016-01-01",
+          "views": 4370
+        },
+        {
+          "date": "2016-01-02",
+          "views": 3588
+        },
+        {
+          "date": "2016-01-03",
+          "views": 2644
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lemmy%20Kilmister&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Lemmy_Kilmister",
+      "article_url": "https://it.wikipedia.org/wiki/Lemmy_Kilmister",
+      "description": "cantante, musicista e compositore britannico",
+      "image_filename": "Lemmy-02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lemmy-02.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lemmy-02.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Mary_Poppins_(film)",
+      "views": 88170,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 0
+        },
+        {
+          "date": "2015-12-29",
+          "views": 0
+        },
+        {
+          "date": "2015-12-30",
+          "views": 0
+        },
+        {
+          "date": "2015-12-31",
+          "views": 979
+        },
+        {
+          "date": "2016-01-01",
+          "views": 79260
+        },
+        {
+          "date": "2016-01-02",
+          "views": 5588
+        },
+        {
+          "date": "2016-01-03",
+          "views": 2343
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mary%20Poppins%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Mary_Poppins_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Mary_Poppins_(film)",
+      "description": "film del 1964 diretto da Robert Stevenson",
+      "image_filename": "Mary_Poppins.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b5/Mary_Poppins.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mary_Poppins.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Tutto_pu\u00f2_succedere_(serie_televisiva)",
+      "views": 74730,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 7477
+        },
+        {
+          "date": "2015-12-29",
+          "views": 23748
+        },
+        {
+          "date": "2015-12-30",
+          "views": 7934
+        },
+        {
+          "date": "2015-12-31",
+          "views": 4536
+        },
+        {
+          "date": "2016-01-01",
+          "views": 2386
+        },
+        {
+          "date": "2016-01-02",
+          "views": 3007
+        },
+        {
+          "date": "2016-01-03",
+          "views": 25642
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tutto%20pu%C3%B2%20succedere%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Tutto_pu%C3%B2_succedere_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Tutto_pu%C3%B2_succedere_(serie_televisiva)",
+      "description": "Serie televisiva italiana",
+      "image_filename": "Tutto_pu\u00f2_succedere_(serie_televisiva).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a3/Tutto_pu%C3%B2_succedere_%28serie_televisiva%29.jpg/1280px-Tutto_pu%C3%B2_succedere_%28serie_televisiva%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tutto_pu%C3%B2_succedere_(serie_televisiva).jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Grey's_Anatomy",
+      "views": 74203,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 18438
+        },
+        {
+          "date": "2015-12-29",
+          "views": 14964
+        },
+        {
+          "date": "2015-12-30",
+          "views": 9404
+        },
+        {
+          "date": "2015-12-31",
+          "views": 4745
+        },
+        {
+          "date": "2016-01-01",
+          "views": 7712
+        },
+        {
+          "date": "2016-01-02",
+          "views": 8669
+        },
+        {
+          "date": "2016-01-03",
+          "views": 10271
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Il_ponte_delle_spie",
+      "views": 71225,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 11795
+        },
+        {
+          "date": "2015-12-29",
+          "views": 10287
+        },
+        {
+          "date": "2015-12-30",
+          "views": 8189
+        },
+        {
+          "date": "2015-12-31",
+          "views": 4997
+        },
+        {
+          "date": "2016-01-01",
+          "views": 9731
+        },
+        {
+          "date": "2016-01-02",
+          "views": 12645
+        },
+        {
+          "date": "2016-01-03",
+          "views": 13581
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20ponte%20delle%20spie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Il_ponte_delle_spie",
+      "article_url": "https://it.wikipedia.org/wiki/Il_ponte_delle_spie",
+      "description": "film del 2015 diretto da Steven Spielberg",
+      "image_filename": "Bridge_of_Spies.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/31/Bridge_of_Spies.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bridge_of_Spies.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Sindrome_di_Asperger",
+      "views": 69184,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 16491
+        },
+        {
+          "date": "2015-12-29",
+          "views": 28771
+        },
+        {
+          "date": "2015-12-30",
+          "views": 6446
+        },
+        {
+          "date": "2015-12-31",
+          "views": 3629
+        },
+        {
+          "date": "2016-01-01",
+          "views": 3161
+        },
+        {
+          "date": "2016-01-02",
+          "views": 3803
+        },
+        {
+          "date": "2016-01-03",
+          "views": 6883
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sindrome%20di%20Asperger&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Sindrome_di_Asperger",
+      "article_url": "https://it.wikipedia.org/wiki/Sindrome_di_Asperger",
+      "description": "categoria diagnostica usata fino al 2013 per un disturbo dello spettro autistico",
+      "image_filename": "Riboflavin_penicillinamide.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Riboflavin_penicillinamide.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Riboflavin_penicillinamide.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Medicus_(romanzo)",
+      "views": 61944,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 0
+        },
+        {
+          "date": "2015-12-29",
+          "views": 0
+        },
+        {
+          "date": "2015-12-30",
+          "views": 0
+        },
+        {
+          "date": "2015-12-31",
+          "views": 0
+        },
+        {
+          "date": "2016-01-01",
+          "views": 0
+        },
+        {
+          "date": "2016-01-02",
+          "views": 52159
+        },
+        {
+          "date": "2016-01-03",
+          "views": 9785
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Medicus%20%28romanzo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Medicus_(romanzo)",
+      "article_url": "https://it.wikipedia.org/wiki/Medicus_(romanzo)",
+      "description": "romanzo scritto da Noah Gordon",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Gotham_(serie_televisiva)",
+      "views": 59885,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 4387
+        },
+        {
+          "date": "2015-12-29",
+          "views": 23829
+        },
+        {
+          "date": "2015-12-30",
+          "views": 8694
+        },
+        {
+          "date": "2015-12-31",
+          "views": 3254
+        },
+        {
+          "date": "2016-01-01",
+          "views": 5457
+        },
+        {
+          "date": "2016-01-02",
+          "views": 6615
+        },
+        {
+          "date": "2016-01-03",
+          "views": 7649
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gotham%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Gotham_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Gotham_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2014-2019)",
+      "image_filename": "Gotham_(serie_televisiva).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1c/Gotham_%28serie_televisiva%29.png/1280px-Gotham_%28serie_televisiva%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gotham_(serie_televisiva).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Mot\u00f6rhead",
+      "views": 58228,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 0
+        },
+        {
+          "date": "2015-12-29",
+          "views": 34781
+        },
+        {
+          "date": "2015-12-30",
+          "views": 11179
+        },
+        {
+          "date": "2015-12-31",
+          "views": 4320
+        },
+        {
+          "date": "2016-01-01",
+          "views": 3067
+        },
+        {
+          "date": "2016-01-02",
+          "views": 2725
+        },
+        {
+          "date": "2016-01-03",
+          "views": 2156
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mot%C3%B6rhead&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Mot%C3%B6rhead",
+      "article_url": "https://it.wikipedia.org/wiki/Mot%C3%B6rhead",
+      "description": "gruppo musicale britannico",
+      "image_filename": "Motorhead_2006.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Motorhead_2006.jpg/1280px-Motorhead_2006.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Motorhead_2006.jpg",
+      "image_license": "CC BY-SA 2.5",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Andrea_Bocelli",
+      "views": 57939,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 0
+        },
+        {
+          "date": "2015-12-29",
+          "views": 0
+        },
+        {
+          "date": "2015-12-30",
+          "views": 1102
+        },
+        {
+          "date": "2015-12-31",
+          "views": 1020
+        },
+        {
+          "date": "2016-01-01",
+          "views": 44290
+        },
+        {
+          "date": "2016-01-02",
+          "views": 8934
+        },
+        {
+          "date": "2016-01-03",
+          "views": 2593
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andrea%20Bocelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Andrea_Bocelli",
+      "article_url": "https://it.wikipedia.org/wiki/Andrea_Bocelli",
+      "description": "tenore e cantante italiano (1958-)",
+      "image_filename": "2025_Andrea_Bocelli_in_the_White_House_Oval_Office_on_October_17_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2025_Andrea_Bocelli_in_the_White_House_Oval_Office_on_October_17_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2025_Andrea_Bocelli_in_the_White_House_Oval_Office_on_October_17_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Film_con_maggiori_incassi_nella_storia_del_cinema",
+      "views": 57383,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 7025
+        },
+        {
+          "date": "2015-12-29",
+          "views": 5066
+        },
+        {
+          "date": "2015-12-30",
+          "views": 5865
+        },
+        {
+          "date": "2015-12-31",
+          "views": 4800
+        },
+        {
+          "date": "2016-01-01",
+          "views": 6938
+        },
+        {
+          "date": "2016-01-02",
+          "views": 13049
+        },
+        {
+          "date": "2016-01-03",
+          "views": 14640
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Film%20con%20maggiori%20incassi%20nella%20storia%20del%20cinema&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Film_con_maggiori_incassi_nella_storia_del_cinema",
+      "article_url": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_nella_storia_del_cinema",
+      "description": "lista di un progetto Wikipedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Renzo_Arbore",
+      "views": 52204,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 3807
+        },
+        {
+          "date": "2015-12-29",
+          "views": 0
+        },
+        {
+          "date": "2015-12-30",
+          "views": 0
+        },
+        {
+          "date": "2015-12-31",
+          "views": 28928
+        },
+        {
+          "date": "2016-01-01",
+          "views": 4821
+        },
+        {
+          "date": "2016-01-02",
+          "views": 0
+        },
+        {
+          "date": "2016-01-03",
+          "views": 14648
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Renzo%20Arbore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Renzo_Arbore",
+      "article_url": "https://it.wikipedia.org/wiki/Renzo_Arbore",
+      "description": "disc jockey, conduttore radiotelevisivo, regista e musicista italiano (1937-)",
+      "image_filename": "Renzo_Arbore_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Renzo_Arbore_2008.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Renzo_Arbore_2008.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Anno_bisestile",
+      "views": 52159,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 1614
+        },
+        {
+          "date": "2015-12-29",
+          "views": 3593
+        },
+        {
+          "date": "2015-12-30",
+          "views": 3190
+        },
+        {
+          "date": "2015-12-31",
+          "views": 9636
+        },
+        {
+          "date": "2016-01-01",
+          "views": 19411
+        },
+        {
+          "date": "2016-01-02",
+          "views": 10593
+        },
+        {
+          "date": "2016-01-03",
+          "views": 4122
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Anno%20bisestile&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Anno_bisestile",
+      "article_url": "https://it.wikipedia.org/wiki/Anno_bisestile",
+      "description": "anno di 366 giorni",
+      "image_filename": "Leap_Centuries.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Leap_Centuries.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leap_Centuries.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Julie_Andrews",
+      "views": 51980,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 1389
+        },
+        {
+          "date": "2015-12-29",
+          "views": 0
+        },
+        {
+          "date": "2015-12-30",
+          "views": 0
+        },
+        {
+          "date": "2015-12-31",
+          "views": 3078
+        },
+        {
+          "date": "2016-01-01",
+          "views": 42893
+        },
+        {
+          "date": "2016-01-02",
+          "views": 3199
+        },
+        {
+          "date": "2016-01-03",
+          "views": 1421
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Julie%20Andrews&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Julie_Andrews",
+      "article_url": "https://it.wikipedia.org/wiki/Julie_Andrews",
+      "description": "attrice, cantante e scrittrice britannica",
+      "image_filename": "Julie_Andrews_Park_Hyatt,_Sydney,_Australia_2013.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Julie_Andrews_Park_Hyatt%2C_Sydney%2C_Australia_2013.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Julie_Andrews_Park_Hyatt%2C_Sydney%2C_Australia_2013.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Tiziano_Ferro",
+      "views": 50842,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 1104
+        },
+        {
+          "date": "2015-12-29",
+          "views": 0
+        },
+        {
+          "date": "2015-12-30",
+          "views": 37165
+        },
+        {
+          "date": "2015-12-31",
+          "views": 6112
+        },
+        {
+          "date": "2016-01-01",
+          "views": 2518
+        },
+        {
+          "date": "2016-01-02",
+          "views": 2160
+        },
+        {
+          "date": "2016-01-03",
+          "views": 1783
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tiziano%20Ferro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Tiziano_Ferro",
+      "article_url": "https://it.wikipedia.org/wiki/Tiziano_Ferro",
+      "description": "cantautore, paroliere e produttore discografico italiano (1980-)",
+      "image_filename": "Tiziano_Ferro_in_Schwyz_(1)_(cropped_2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tiziano_Ferro_in_Schwyz_%281%29_%28cropped_2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tiziano_Ferro_in_Schwyz_(1)_(cropped_2).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Capodanno_a_New_York",
+      "views": 50599,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 0
+        },
+        {
+          "date": "2015-12-29",
+          "views": 0
+        },
+        {
+          "date": "2015-12-30",
+          "views": 0
+        },
+        {
+          "date": "2015-12-31",
+          "views": 1434
+        },
+        {
+          "date": "2016-01-01",
+          "views": 41791
+        },
+        {
+          "date": "2016-01-02",
+          "views": 5800
+        },
+        {
+          "date": "2016-01-03",
+          "views": 1574
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Capodanno%20a%20New%20York&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Capodanno_a_New_York",
+      "article_url": "https://it.wikipedia.org/wiki/Capodanno_a_New_York",
+      "description": "film del 2011 diretto da Garry Marshall",
+      "image_filename": "Capodanno_a_New_York.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/00/Capodanno_a_New_York.png/1280px-Capodanno_a_New_York.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Capodanno_a_New_York.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Revenant_-_Redivivo",
+      "views": 49705,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 4790
+        },
+        {
+          "date": "2015-12-29",
+          "views": 4591
+        },
+        {
+          "date": "2015-12-30",
+          "views": 6668
+        },
+        {
+          "date": "2015-12-31",
+          "views": 5287
+        },
+        {
+          "date": "2016-01-01",
+          "views": 8310
+        },
+        {
+          "date": "2016-01-02",
+          "views": 9262
+        },
+        {
+          "date": "2016-01-03",
+          "views": 10797
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Revenant%20-%20Redivivo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Revenant_-_Redivivo",
+      "article_url": "https://it.wikipedia.org/wiki/Revenant_-_Redivivo",
+      "description": "film del 2015 diretto da Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
+      "image_filename": "The_Revenant.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/71/The_Revenant.png/1280px-The_Revenant.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Revenant.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Italia",
+      "views": 48641,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 6858
+        },
+        {
+          "date": "2015-12-29",
+          "views": 6594
+        },
+        {
+          "date": "2015-12-30",
+          "views": 6350
+        },
+        {
+          "date": "2015-12-31",
+          "views": 5689
+        },
+        {
+          "date": "2016-01-01",
+          "views": 6805
+        },
+        {
+          "date": "2016-01-02",
+          "views": 7985
+        },
+        {
+          "date": "2016-01-03",
+          "views": 8360
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Gianluca_Grignani",
+      "views": 47441,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 0
+        },
+        {
+          "date": "2015-12-29",
+          "views": 0
+        },
+        {
+          "date": "2015-12-30",
+          "views": 0
+        },
+        {
+          "date": "2015-12-31",
+          "views": 9276
+        },
+        {
+          "date": "2016-01-01",
+          "views": 7511
+        },
+        {
+          "date": "2016-01-02",
+          "views": 17399
+        },
+        {
+          "date": "2016-01-03",
+          "views": 13255
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gianluca%20Grignani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Gianluca_Grignani",
+      "article_url": "https://it.wikipedia.org/wiki/Gianluca_Grignani",
+      "description": "cantautore, chitarrista e produttore discografico italiano (1972-)",
+      "image_filename": "Gianluca_Grignani_-_Fonte_Nuova_31-05-08.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gianluca_Grignani_-_Fonte_Nuova_31-05-08.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gianluca_Grignani_-_Fonte_Nuova_31-05-08.JPG",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Guerre_stellari_(film)",
+      "views": 47290,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 8997
+        },
+        {
+          "date": "2015-12-29",
+          "views": 7506
+        },
+        {
+          "date": "2015-12-30",
+          "views": 6461
+        },
+        {
+          "date": "2015-12-31",
+          "views": 4725
+        },
+        {
+          "date": "2016-01-01",
+          "views": 6302
+        },
+        {
+          "date": "2016-01-02",
+          "views": 6684
+        },
+        {
+          "date": "2016-01-03",
+          "views": 6615
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guerre%20stellari%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Guerre_stellari_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Guerre_stellari_(film)",
+      "description": "film del 1977 diretto da George Lucas",
+      "image_filename": "Star_wars_1977_us.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Star_wars_1977_us.svg/1280px-Star_wars_1977_us.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_wars_1977_us.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Kingsman_-_Secret_Service",
+      "views": 44102,
+      "daily_views": [
+        {
+          "date": "2015-12-28",
+          "views": 12027
+        },
+        {
+          "date": "2015-12-29",
+          "views": 12012
+        },
+        {
+          "date": "2015-12-30",
+          "views": 5322
+        },
+        {
+          "date": "2015-12-31",
+          "views": 2073
+        },
+        {
+          "date": "2016-01-01",
+          "views": 4934
+        },
+        {
+          "date": "2016-01-02",
+          "views": 4491
+        },
+        {
+          "date": "2016-01-03",
+          "views": 3243
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kingsman%20-%20Secret%20Service&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/28/2015,cd_max:01/03/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-28&end=2016-01-03&pages=Kingsman_-_Secret_Service",
+      "article_url": "https://it.wikipedia.org/wiki/Kingsman_-_Secret_Service",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

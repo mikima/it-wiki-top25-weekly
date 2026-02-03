@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2022,
+  "week": 10,
+  "start_date": "2022-03-07",
+  "end_date": "2022-03-13",
+  "days": [
+    "2022-03-07",
+    "2022-03-08",
+    "2022-03-09",
+    "2022-03-10",
+    "2022-03-11",
+    "2022-03-12",
+    "2022-03-13"
+  ],
+  "total_articles": 2400,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Vladimir_Putin",
+      "views": 270867,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 55903
+        },
+        {
+          "date": "2022-03-08",
+          "views": 45061
+        },
+        {
+          "date": "2022-03-09",
+          "views": 39056
+        },
+        {
+          "date": "2022-03-10",
+          "views": 34703
+        },
+        {
+          "date": "2022-03-11",
+          "views": 33487
+        },
+        {
+          "date": "2022-03-12",
+          "views": 32471
+        },
+        {
+          "date": "2022-03-13",
+          "views": 30186
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vladimir%20Putin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Vladimir_Putin",
+      "article_url": "https://it.wikipedia.org/wiki/Vladimir_Putin",
+      "description": "politico e agente segreto russo, funzionario del KGB e presidente della Federazione Russa (2000\u20132008, 2012\u2013oggi)",
+      "image_filename": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440_\u041f\u0443\u0442\u0438\u043d_(2025-09-30).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%282025-09-30%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(2025-09-30).jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Guerra_del_Donbass",
+      "views": 235033,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 45757
+        },
+        {
+          "date": "2022-03-08",
+          "views": 41637
+        },
+        {
+          "date": "2022-03-09",
+          "views": 37374
+        },
+        {
+          "date": "2022-03-10",
+          "views": 33425
+        },
+        {
+          "date": "2022-03-11",
+          "views": 27045
+        },
+        {
+          "date": "2022-03-12",
+          "views": 23907
+        },
+        {
+          "date": "2022-03-13",
+          "views": 25888
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guerra%20del%20Donbass&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Guerra_del_Donbass",
+      "article_url": "https://it.wikipedia.org/wiki/Guerra_del_Donbass",
+      "description": "conflitto armato nella regione ucraina del Donbass",
+      "image_filename": "Map_of_the_war_in_Donbass_22_02_2022.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Map_of_the_war_in_Donbass_22_02_2022.svg/1280px-Map_of_the_war_in_Donbass_22_02_2022.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Map_of_the_war_in_Donbass_22_02_2022.svg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Ucraina",
+      "views": 228229,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 45447
+        },
+        {
+          "date": "2022-03-08",
+          "views": 36760
+        },
+        {
+          "date": "2022-03-09",
+          "views": 32033
+        },
+        {
+          "date": "2022-03-10",
+          "views": 28695
+        },
+        {
+          "date": "2022-03-11",
+          "views": 29387
+        },
+        {
+          "date": "2022-03-12",
+          "views": 27226
+        },
+        {
+          "date": "2022-03-13",
+          "views": 28681
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ucraina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Ucraina",
+      "article_url": "https://it.wikipedia.org/wiki/Ucraina",
+      "description": "stato dell'Europa orientale",
+      "image_filename": "Flag_of_Ukraine.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1280px-Flag_of_Ukraine.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "NATO",
+      "views": 180592,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 33529
+        },
+        {
+          "date": "2022-03-08",
+          "views": 24343
+        },
+        {
+          "date": "2022-03-09",
+          "views": 24795
+        },
+        {
+          "date": "2022-03-10",
+          "views": 20425
+        },
+        {
+          "date": "2022-03-11",
+          "views": 22848
+        },
+        {
+          "date": "2022-03-12",
+          "views": 23700
+        },
+        {
+          "date": "2022-03-13",
+          "views": 30952
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=NATO&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=NATO",
+      "article_url": "https://it.wikipedia.org/wiki/NATO",
+      "description": "organizzazione internazionale per la collaborazione nella difesa",
+      "image_filename": "NATO_OTAN_landscape_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/1280px-NATO_OTAN_landscape_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:NATO_OTAN_landscape_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Giornata_internazionale_della_donna",
+      "views": 146284,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 24531
+        },
+        {
+          "date": "2022-03-08",
+          "views": 99648
+        },
+        {
+          "date": "2022-03-09",
+          "views": 12240
+        },
+        {
+          "date": "2022-03-10",
+          "views": 4568
+        },
+        {
+          "date": "2022-03-11",
+          "views": 2347
+        },
+        {
+          "date": "2022-03-12",
+          "views": 1467
+        },
+        {
+          "date": "2022-03-13",
+          "views": 1483
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giornata%20internazionale%20della%20donna&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Giornata_internazionale_della_donna",
+      "article_url": "https://it.wikipedia.org/wiki/Giornata_internazionale_della_donna",
+      "description": "ricorrenza annuale (8 marzo)",
+      "image_filename": "Concentraci\u00f3n_del_Sindicato_de_Estudiantes_por_la_Huelga_Feminista_8M_2019.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Concentraci%C3%B3n_del_Sindicato_de_Estudiantes_por_la_Huelga_Feminista_8M_2019.jpg/1280px-Concentraci%C3%B3n_del_Sindicato_de_Estudiantes_por_la_Huelga_Feminista_8M_2019.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Concentraci%C3%B3n_del_Sindicato_de_Estudiantes_por_la_Huelga_Feminista_8M_2019.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Volodymyr_Zelens'kyj",
+      "views": 131707,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 22439
+        },
+        {
+          "date": "2022-03-08",
+          "views": 21706
+        },
+        {
+          "date": "2022-03-09",
+          "views": 19386
+        },
+        {
+          "date": "2022-03-10",
+          "views": 15891
+        },
+        {
+          "date": "2022-03-11",
+          "views": 14958
+        },
+        {
+          "date": "2022-03-12",
+          "views": 17665
+        },
+        {
+          "date": "2022-03-13",
+          "views": 19662
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Volodymyr%20Zelens%27kyj&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Volodymyr_Zelens%27kyj",
+      "article_url": "https://it.wikipedia.org/wiki/Volodymyr_Zelens%27kyj",
+      "description": "politico e attore ucraino, 6\u00ba e attuale presidente dell'Ucraina (dal 20 maggio 2019)",
+      "image_filename": "President_Volodymyr_Zelenskyy_attends_Coaltion_of_Willing_Meeting_press_conference.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Volodymyr_Zelenskyy_attends_Coaltion_of_Willing_Meeting_press_conference.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:President_Volodymyr_Zelenskyy_attends_Coaltion_of_Willing_Meeting_press_conference.jpg",
+      "image_license": "OGL 3",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Battaglione_Azov",
+      "views": 125943,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 19020
+        },
+        {
+          "date": "2022-03-08",
+          "views": 15509
+        },
+        {
+          "date": "2022-03-09",
+          "views": 14371
+        },
+        {
+          "date": "2022-03-10",
+          "views": 25949
+        },
+        {
+          "date": "2022-03-11",
+          "views": 19999
+        },
+        {
+          "date": "2022-03-12",
+          "views": 15646
+        },
+        {
+          "date": "2022-03-13",
+          "views": 15449
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Battaglione%20Azov&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Battaglione_Azov",
+      "article_url": "https://it.wikipedia.org/wiki/Battaglione_Azov",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Russia",
+      "views": 118771,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 24112
+        },
+        {
+          "date": "2022-03-08",
+          "views": 18155
+        },
+        {
+          "date": "2022-03-09",
+          "views": 17041
+        },
+        {
+          "date": "2022-03-10",
+          "views": 15182
+        },
+        {
+          "date": "2022-03-11",
+          "views": 14492
+        },
+        {
+          "date": "2022-03-12",
+          "views": 14716
+        },
+        {
+          "date": "2022-03-13",
+          "views": 15073
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Russia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Russia",
+      "article_url": "https://it.wikipedia.org/wiki/Russia",
+      "description": "stato euroasiatico",
+      "image_filename": "Flag_of_Russia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Amanda_Lear",
+      "views": 107004,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 0
+        },
+        {
+          "date": "2022-03-08",
+          "views": 0
+        },
+        {
+          "date": "2022-03-09",
+          "views": 0
+        },
+        {
+          "date": "2022-03-10",
+          "views": 0
+        },
+        {
+          "date": "2022-03-11",
+          "views": 0
+        },
+        {
+          "date": "2022-03-12",
+          "views": 0
+        },
+        {
+          "date": "2022-03-13",
+          "views": 107004
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Amanda%20Lear&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Amanda_Lear",
+      "article_url": "https://it.wikipedia.org/wiki/Amanda_Lear",
+      "description": "cantante, attrice, conduttrice televisiva e modella francese naturalizzata britannica",
+      "image_filename": "Amanda_Lear_2010_a.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Amanda_Lear_2010_a.jpg/1280px-Amanda_Lear_2010_a.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amanda_Lear_2010_a.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Crisi_russo-ucraina",
+      "views": 104606,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 26257
+        },
+        {
+          "date": "2022-03-08",
+          "views": 20168
+        },
+        {
+          "date": "2022-03-09",
+          "views": 14486
+        },
+        {
+          "date": "2022-03-10",
+          "views": 12650
+        },
+        {
+          "date": "2022-03-11",
+          "views": 10844
+        },
+        {
+          "date": "2022-03-12",
+          "views": 10029
+        },
+        {
+          "date": "2022-03-13",
+          "views": 10172
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Crisi%20russo-ucraina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Crisi_russo-ucraina",
+      "article_url": "https://it.wikipedia.org/wiki/Crisi_russo-ucraina",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "The_Batman_(film)",
+      "views": 97110,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 20004
+        },
+        {
+          "date": "2022-03-08",
+          "views": 13584
+        },
+        {
+          "date": "2022-03-09",
+          "views": 12634
+        },
+        {
+          "date": "2022-03-10",
+          "views": 11277
+        },
+        {
+          "date": "2022-03-11",
+          "views": 10919
+        },
+        {
+          "date": "2022-03-12",
+          "views": 13719
+        },
+        {
+          "date": "2022-03-13",
+          "views": 14973
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Batman%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=The_Batman_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Batman_(film)",
+      "description": "film del 2022 diretto da Matt Reeves",
+      "image_filename": "The_Batman_(film).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c4/The_Batman_%28film%29.png/1280px-The_Batman_%28film%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Batman_(film).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Disastro_di_\u010cernobyl'",
+      "views": 92158,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 21992
+        },
+        {
+          "date": "2022-03-08",
+          "views": 13118
+        },
+        {
+          "date": "2022-03-09",
+          "views": 22448
+        },
+        {
+          "date": "2022-03-10",
+          "views": 13052
+        },
+        {
+          "date": "2022-03-11",
+          "views": 8328
+        },
+        {
+          "date": "2022-03-12",
+          "views": 6557
+        },
+        {
+          "date": "2022-03-13",
+          "views": 6663
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Disastro%20di%20%C4%8Cernobyl%27&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Disastro_di_%C4%8Cernobyl%27",
+      "article_url": "https://it.wikipedia.org/wiki/Disastro_di_%C4%8Cernobyl%27",
+      "description": "incidente nucleare",
+      "image_filename": "IAEA_02790015_(5613115146).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/1280px-IAEA_02790015_%285613115146%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:IAEA_02790015_(5613115146).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Karim_Benzema",
+      "views": 85446,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 0
+        },
+        {
+          "date": "2022-03-08",
+          "views": 0
+        },
+        {
+          "date": "2022-03-09",
+          "views": 27832
+        },
+        {
+          "date": "2022-03-10",
+          "views": 37218
+        },
+        {
+          "date": "2022-03-11",
+          "views": 9776
+        },
+        {
+          "date": "2022-03-12",
+          "views": 6393
+        },
+        {
+          "date": "2022-03-13",
+          "views": 4227
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Karim%20Benzema&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Karim_Benzema",
+      "article_url": "https://it.wikipedia.org/wiki/Karim_Benzema",
+      "description": "calciatore francese (1987-)",
+      "image_filename": "Karim_Benzema_Pick.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Karim_Benzema_Pick.jpg/1157px-Karim_Benzema_Pick.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Karim_Benzema_Pick.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Unione_Sovietica",
+      "views": 82508,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 16864
+        },
+        {
+          "date": "2022-03-08",
+          "views": 12807
+        },
+        {
+          "date": "2022-03-09",
+          "views": 11874
+        },
+        {
+          "date": "2022-03-10",
+          "views": 10328
+        },
+        {
+          "date": "2022-03-11",
+          "views": 10039
+        },
+        {
+          "date": "2022-03-12",
+          "views": 10078
+        },
+        {
+          "date": "2022-03-13",
+          "views": 10518
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Unione%20Sovietica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Unione_Sovietica",
+      "article_url": "https://it.wikipedia.org/wiki/Unione_Sovietica",
+      "description": "stato federale formato dall'unione di repubbliche socialiste sovietiche (1922-1991)",
+      "image_filename": "Flag_of_the_Soviet_Union.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/1280px-Flag_of_the_Soviet_Union.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Soviet_Union.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Corrado_Guzzanti",
+      "views": 75042,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 16058
+        },
+        {
+          "date": "2022-03-08",
+          "views": 13125
+        },
+        {
+          "date": "2022-03-09",
+          "views": 11307
+        },
+        {
+          "date": "2022-03-10",
+          "views": 9084
+        },
+        {
+          "date": "2022-03-11",
+          "views": 8421
+        },
+        {
+          "date": "2022-03-12",
+          "views": 8517
+        },
+        {
+          "date": "2022-03-13",
+          "views": 8530
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Corrado%20Guzzanti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Corrado_Guzzanti",
+      "article_url": "https://it.wikipedia.org/wiki/Corrado_Guzzanti",
+      "description": "comico, attore, regista e sceneggiatore italiano (1965-)",
+      "image_filename": "CorradoGuzzanti.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/CorradoGuzzanti.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:CorradoGuzzanti.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Bomba_a_vuoto",
+      "views": 73728,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 1918
+        },
+        {
+          "date": "2022-03-08",
+          "views": 2858
+        },
+        {
+          "date": "2022-03-09",
+          "views": 8896
+        },
+        {
+          "date": "2022-03-10",
+          "views": 32541
+        },
+        {
+          "date": "2022-03-11",
+          "views": 19353
+        },
+        {
+          "date": "2022-03-12",
+          "views": 4648
+        },
+        {
+          "date": "2022-03-13",
+          "views": 3514
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bomba%20a%20vuoto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Bomba_a_vuoto",
+      "article_url": "https://it.wikipedia.org/wiki/Bomba_a_vuoto",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Oligarchi_russi",
+      "views": 73598,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 8445
+        },
+        {
+          "date": "2022-03-08",
+          "views": 5925
+        },
+        {
+          "date": "2022-03-09",
+          "views": 5753
+        },
+        {
+          "date": "2022-03-10",
+          "views": 9460
+        },
+        {
+          "date": "2022-03-11",
+          "views": 8560
+        },
+        {
+          "date": "2022-03-12",
+          "views": 21640
+        },
+        {
+          "date": "2022-03-13",
+          "views": 13815
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Oligarchi%20russi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Oligarchi_russi",
+      "article_url": "https://it.wikipedia.org/wiki/Oligarchi_russi",
+      "description": "magnati degli affari delle ex repubbliche sovietiche che hanno rapidamente accumulato eccezionali ricchezze durante l'era della privatizzazione russa",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Storia_dell'Ucraina",
+      "views": 73171,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 14227
+        },
+        {
+          "date": "2022-03-08",
+          "views": 11713
+        },
+        {
+          "date": "2022-03-09",
+          "views": 10760
+        },
+        {
+          "date": "2022-03-10",
+          "views": 9085
+        },
+        {
+          "date": "2022-03-11",
+          "views": 8836
+        },
+        {
+          "date": "2022-03-12",
+          "views": 9136
+        },
+        {
+          "date": "2022-03-13",
+          "views": 9414
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Storia%20dell%27Ucraina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Storia_dell%27Ucraina",
+      "article_url": "https://it.wikipedia.org/wiki/Storia_dell%27Ucraina",
+      "description": "studio e narrazione del passato dell'Ucraina",
+      "image_filename": "Ukrania_quae_et_Terra_Cosaccorum_cum_vicinis_Walachiae,_Moldoviae,_Johann_Baptiste_Homann_(Nuremberg,_1720).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ukrania_quae_et_Terra_Cosaccorum_cum_vicinis_Walachiae%2C_Moldoviae%2C_Johann_Baptiste_Homann_%28Nuremberg%2C_1720%29.jpg/1280px-Ukrania_quae_et_Terra_Cosaccorum_cum_vicinis_Walachiae%2C_Moldoviae%2C_Johann_Baptiste_Homann_%28Nuremberg%2C_1720%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ukrania_quae_et_Terra_Cosaccorum_cum_vicinis_Walachiae%2C_Moldoviae%2C_Johann_Baptiste_Homann_(Nuremberg%2C_1720).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Cristiano_Ronaldo",
+      "views": 70663,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 5188
+        },
+        {
+          "date": "2022-03-08",
+          "views": 5270
+        },
+        {
+          "date": "2022-03-09",
+          "views": 7370
+        },
+        {
+          "date": "2022-03-10",
+          "views": 7249
+        },
+        {
+          "date": "2022-03-11",
+          "views": 4579
+        },
+        {
+          "date": "2022-03-12",
+          "views": 19513
+        },
+        {
+          "date": "2022-03-13",
+          "views": 21494
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Cristiano_Ronaldo",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "description": "calciatore portoghese (1985-)",
+      "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Strage_di_Odessa",
+      "views": 69512,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 14745
+        },
+        {
+          "date": "2022-03-08",
+          "views": 10268
+        },
+        {
+          "date": "2022-03-09",
+          "views": 9160
+        },
+        {
+          "date": "2022-03-10",
+          "views": 9201
+        },
+        {
+          "date": "2022-03-11",
+          "views": 7742
+        },
+        {
+          "date": "2022-03-12",
+          "views": 8423
+        },
+        {
+          "date": "2022-03-13",
+          "views": 9973
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Strage%20di%20Odessa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Strage_di_Odessa",
+      "article_url": "https://it.wikipedia.org/wiki/Strage_di_Odessa",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "William_Hurt",
+      "views": 68421,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 1827
+        },
+        {
+          "date": "2022-03-08",
+          "views": 0
+        },
+        {
+          "date": "2022-03-09",
+          "views": 0
+        },
+        {
+          "date": "2022-03-10",
+          "views": 0
+        },
+        {
+          "date": "2022-03-11",
+          "views": 0
+        },
+        {
+          "date": "2022-03-12",
+          "views": 0
+        },
+        {
+          "date": "2022-03-13",
+          "views": 66594
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=William%20Hurt&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=William_Hurt",
+      "article_url": "https://it.wikipedia.org/wiki/William_Hurt",
+      "description": "attore statunitense (1950-2022)",
+      "image_filename": "History_of_Violence_002_(7271227040).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/History_of_Violence_002_%287271227040%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:History_of_Violence_002_(7271227040).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Maccio_Capatonda",
+      "views": 66712,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 12892
+        },
+        {
+          "date": "2022-03-08",
+          "views": 11656
+        },
+        {
+          "date": "2022-03-09",
+          "views": 8790
+        },
+        {
+          "date": "2022-03-10",
+          "views": 7965
+        },
+        {
+          "date": "2022-03-11",
+          "views": 9839
+        },
+        {
+          "date": "2022-03-12",
+          "views": 8282
+        },
+        {
+          "date": "2022-03-13",
+          "views": 7288
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Maccio%20Capatonda&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Maccio_Capatonda",
+      "article_url": "https://it.wikipedia.org/wiki/Maccio_Capatonda",
+      "description": "comico, attore, sceneggiatore, regista e youtuber italiano (1978-)",
+      "image_filename": "Marcello_Macchia,_Giffoni_Film_Festival_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Marcello_Macchia%2C_Giffoni_Film_Festival_2010.jpg/1268px-Marcello_Macchia%2C_Giffoni_Film_Festival_2010.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marcello_Macchia%2C_Giffoni_Film_Festival_2010.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Virginia_Raffaele",
+      "views": 64623,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 14374
+        },
+        {
+          "date": "2022-03-08",
+          "views": 11489
+        },
+        {
+          "date": "2022-03-09",
+          "views": 9080
+        },
+        {
+          "date": "2022-03-10",
+          "views": 8038
+        },
+        {
+          "date": "2022-03-11",
+          "views": 7185
+        },
+        {
+          "date": "2022-03-12",
+          "views": 7286
+        },
+        {
+          "date": "2022-03-13",
+          "views": 7171
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Virginia%20Raffaele&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Virginia_Raffaele",
+      "article_url": "https://it.wikipedia.org/wiki/Virginia_Raffaele",
+      "description": "comica, imitatrice e attrice italiana",
+      "image_filename": "Virginia_Raffaele_Funweek.it_2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Virginia_Raffaele_Funweek.it_2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Virginia_Raffaele_Funweek.it_2024.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Unione_europea",
+      "views": 63472,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 11654
+        },
+        {
+          "date": "2022-03-08",
+          "views": 9008
+        },
+        {
+          "date": "2022-03-09",
+          "views": 8704
+        },
+        {
+          "date": "2022-03-10",
+          "views": 8559
+        },
+        {
+          "date": "2022-03-11",
+          "views": 8880
+        },
+        {
+          "date": "2022-03-12",
+          "views": 7825
+        },
+        {
+          "date": "2022-03-13",
+          "views": 8842
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Unione%20europea&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Unione_europea",
+      "article_url": "https://it.wikipedia.org/wiki/Unione_europea",
+      "description": "entit\u00e0 politica di carattere sovranazionale e intergovernativo che riunisce 27 Stati europei",
+      "image_filename": "Flag_of_Europe.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/1280px-Flag_of_Europe.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Europe.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Italia",
+      "views": 63418,
+      "daily_views": [
+        {
+          "date": "2022-03-07",
+          "views": 10109
+        },
+        {
+          "date": "2022-03-08",
+          "views": 9255
+        },
+        {
+          "date": "2022-03-09",
+          "views": 8847
+        },
+        {
+          "date": "2022-03-10",
+          "views": 8157
+        },
+        {
+          "date": "2022-03-11",
+          "views": 8476
+        },
+        {
+          "date": "2022-03-12",
+          "views": 8889
+        },
+        {
+          "date": "2022-03-13",
+          "views": 9685
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/07/2022,cd_max:03/13/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-03-07&end=2022-03-13&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

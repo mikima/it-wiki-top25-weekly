@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2015,
+  "week": 43,
+  "start_date": "2015-10-19",
+  "end_date": "2015-10-25",
+  "days": [
+    "2015-10-19",
+    "2015-10-20",
+    "2015-10-21",
+    "2015-10-22",
+    "2015-10-23",
+    "2015-10-24",
+    "2015-10-25"
+  ],
+  "total_articles": 2405,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Ritorno_al_futuro",
+      "views": 297772,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 9230
+        },
+        {
+          "date": "2015-10-20",
+          "views": 15220
+        },
+        {
+          "date": "2015-10-21",
+          "views": 80389
+        },
+        {
+          "date": "2015-10-22",
+          "views": 127648
+        },
+        {
+          "date": "2015-10-23",
+          "views": 36235
+        },
+        {
+          "date": "2015-10-24",
+          "views": 18475
+        },
+        {
+          "date": "2015-10-25",
+          "views": 10575
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ritorno%20al%20futuro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Ritorno_al_futuro",
+      "article_url": "https://it.wikipedia.org/wiki/Ritorno_al_futuro",
+      "description": "film del 1985 diretto da Robert Zemeckis",
+      "image_filename": "Marty_e_DocEmmet.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Marty_e_DocEmmet.png/1024px-Marty_e_DocEmmet.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marty_e_DocEmmet.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Maria_Grazia_Capulli",
+      "views": 273477,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 0
+        },
+        {
+          "date": "2015-10-20",
+          "views": 0
+        },
+        {
+          "date": "2015-10-21",
+          "views": 194314
+        },
+        {
+          "date": "2015-10-22",
+          "views": 49331
+        },
+        {
+          "date": "2015-10-23",
+          "views": 16581
+        },
+        {
+          "date": "2015-10-24",
+          "views": 8100
+        },
+        {
+          "date": "2015-10-25",
+          "views": 5151
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Maria%20Grazia%20Capulli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Maria_Grazia_Capulli",
+      "article_url": "https://it.wikipedia.org/wiki/Maria_Grazia_Capulli",
+      "description": "giornalista, scrittrice e conduttrice televisiva italiana",
+      "image_filename": "Maria_Grazia_Capulli.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Maria_Grazia_Capulli.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maria_Grazia_Capulli.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Michael_J._Fox",
+      "views": 221134,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 5759
+        },
+        {
+          "date": "2015-10-20",
+          "views": 6967
+        },
+        {
+          "date": "2015-10-21",
+          "views": 41003
+        },
+        {
+          "date": "2015-10-22",
+          "views": 96885
+        },
+        {
+          "date": "2015-10-23",
+          "views": 34907
+        },
+        {
+          "date": "2015-10-24",
+          "views": 17647
+        },
+        {
+          "date": "2015-10-25",
+          "views": 17966
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michael%20J.%20Fox&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Michael_J._Fox",
+      "article_url": "https://it.wikipedia.org/wiki/Michael_J._Fox",
+      "description": "attore, attivista e produttore cinematografico canadese naturalizzato statunitense (1961-)",
+      "image_filename": "Michael_J_Fox_2020.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Michael_J_Fox_2020.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_J_Fox_2020.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Suburra_(film)",
+      "views": 107239,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 20451
+        },
+        {
+          "date": "2015-10-20",
+          "views": 16000
+        },
+        {
+          "date": "2015-10-21",
+          "views": 14361
+        },
+        {
+          "date": "2015-10-22",
+          "views": 12505
+        },
+        {
+          "date": "2015-10-23",
+          "views": 12742
+        },
+        {
+          "date": "2015-10-24",
+          "views": 14780
+        },
+        {
+          "date": "2015-10-25",
+          "views": 16400
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Suburra%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Suburra_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Suburra_(film)",
+      "description": "film del 2015 diretto da Stefano Sollima",
+      "image_filename": "SuburraFilm.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fa/SuburraFilm.jpg/1280px-SuburraFilm.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:SuburraFilm.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Giacomo_Leopardi",
+      "views": 100049,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 32925
+        },
+        {
+          "date": "2015-10-20",
+          "views": 26397
+        },
+        {
+          "date": "2015-10-21",
+          "views": 11822
+        },
+        {
+          "date": "2015-10-22",
+          "views": 5910
+        },
+        {
+          "date": "2015-10-23",
+          "views": 4527
+        },
+        {
+          "date": "2015-10-24",
+          "views": 7089
+        },
+        {
+          "date": "2015-10-25",
+          "views": 11379
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giacomo%20Leopardi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Giacomo_Leopardi",
+      "article_url": "https://it.wikipedia.org/wiki/Giacomo_Leopardi",
+      "description": "poeta, filosofo, scrittore e filologo italiano (1798-1837)",
+      "image_filename": "Giacomo_Leopardi_Morelli.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Giacomo_Leopardi_Morelli.jpg/1161px-Giacomo_Leopardi_Morelli.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giacomo_Leopardi_Morelli.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Christopher_Lloyd",
+      "views": 95317,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 2179
+        },
+        {
+          "date": "2015-10-20",
+          "views": 3275
+        },
+        {
+          "date": "2015-10-21",
+          "views": 17615
+        },
+        {
+          "date": "2015-10-22",
+          "views": 40184
+        },
+        {
+          "date": "2015-10-23",
+          "views": 15151
+        },
+        {
+          "date": "2015-10-24",
+          "views": 11960
+        },
+        {
+          "date": "2015-10-25",
+          "views": 4953
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Christopher%20Lloyd&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Christopher_Lloyd",
+      "article_url": "https://it.wikipedia.org/wiki/Christopher_Lloyd",
+      "description": "attore statunitense (1938-)",
+      "image_filename": "ChristopherLloyd2022.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChristopherLloyd2022.jpg/1280px-ChristopherLloyd2022.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ChristopherLloyd2022.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Ritorno_al_futuro_-_Parte_II",
+      "views": 84643,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 2929
+        },
+        {
+          "date": "2015-10-20",
+          "views": 5635
+        },
+        {
+          "date": "2015-10-21",
+          "views": 22811
+        },
+        {
+          "date": "2015-10-22",
+          "views": 37066
+        },
+        {
+          "date": "2015-10-23",
+          "views": 10183
+        },
+        {
+          "date": "2015-10-24",
+          "views": 3498
+        },
+        {
+          "date": "2015-10-25",
+          "views": 2521
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ritorno%20al%20futuro%20-%20Parte%20II&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Ritorno_al_futuro_-_Parte_II",
+      "article_url": "https://it.wikipedia.org/wiki/Ritorno_al_futuro_-_Parte_II",
+      "description": "film del 1989 diretto da Robert Zemeckis",
+      "image_filename": "Ritorno_al_futuro_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/71/Ritorno_al_futuro_2.jpg/1280px-Ritorno_al_futuro_2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ritorno_al_futuro_2.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Ritorno_al_futuro_(trilogia)",
+      "views": 82638,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 2970
+        },
+        {
+          "date": "2015-10-20",
+          "views": 5247
+        },
+        {
+          "date": "2015-10-21",
+          "views": 23201
+        },
+        {
+          "date": "2015-10-22",
+          "views": 33914
+        },
+        {
+          "date": "2015-10-23",
+          "views": 9491
+        },
+        {
+          "date": "2015-10-24",
+          "views": 4752
+        },
+        {
+          "date": "2015-10-25",
+          "views": 3063
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ritorno%20al%20futuro%20%28trilogia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Ritorno_al_futuro_(trilogia)",
+      "article_url": "https://it.wikipedia.org/wiki/Ritorno_al_futuro_(trilogia)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "The_Help_(film)",
+      "views": 75092,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 0
+        },
+        {
+          "date": "2015-10-20",
+          "views": 1083
+        },
+        {
+          "date": "2015-10-21",
+          "views": 52788
+        },
+        {
+          "date": "2015-10-22",
+          "views": 15675
+        },
+        {
+          "date": "2015-10-23",
+          "views": 2846
+        },
+        {
+          "date": "2015-10-24",
+          "views": 1447
+        },
+        {
+          "date": "2015-10-25",
+          "views": 1253
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Help%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=The_Help_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Help_(film)",
+      "description": "film del 2011 diretto da Tate Taylor",
+      "image_filename": "The_Help_film.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/36/The_Help_film.JPG/1280px-The_Help_film.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Help_film.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Halloween",
+      "views": 64262,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 7201
+        },
+        {
+          "date": "2015-10-20",
+          "views": 7664
+        },
+        {
+          "date": "2015-10-21",
+          "views": 8143
+        },
+        {
+          "date": "2015-10-22",
+          "views": 9003
+        },
+        {
+          "date": "2015-10-23",
+          "views": 9255
+        },
+        {
+          "date": "2015-10-24",
+          "views": 9801
+        },
+        {
+          "date": "2015-10-25",
+          "views": 13195
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Halloween&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Halloween",
+      "article_url": "https://it.wikipedia.org/wiki/Halloween",
+      "description": "festa che si celebra il 31 ottobre",
+      "image_filename": "Jack-o'-Lantern_2003-10-31.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Jack-o%27-Lantern_2003-10-31.jpg/1042px-Jack-o%27-Lantern_2003-10-31.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jack-o%27-Lantern_2003-10-31.jpg",
+      "image_license": "CC BY-SA 2.5",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Star_Wars:_Il_risveglio_della_Forza",
+      "views": 63004,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 6514
+        },
+        {
+          "date": "2015-10-20",
+          "views": 24338
+        },
+        {
+          "date": "2015-10-21",
+          "views": 11124
+        },
+        {
+          "date": "2015-10-22",
+          "views": 7113
+        },
+        {
+          "date": "2015-10-23",
+          "views": 5112
+        },
+        {
+          "date": "2015-10-24",
+          "views": 4540
+        },
+        {
+          "date": "2015-10-25",
+          "views": 4263
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Star%20Wars%3A%20Il%20risveglio%20della%20Forza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Star_Wars%3A_Il_risveglio_della_Forza",
+      "article_url": "https://it.wikipedia.org/wiki/Star_Wars%3A_Il_risveglio_della_Forza",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Valentino_Rossi",
+      "views": 59432,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 4233
+        },
+        {
+          "date": "2015-10-20",
+          "views": 2682
+        },
+        {
+          "date": "2015-10-21",
+          "views": 2487
+        },
+        {
+          "date": "2015-10-22",
+          "views": 3436
+        },
+        {
+          "date": "2015-10-23",
+          "views": 5226
+        },
+        {
+          "date": "2015-10-24",
+          "views": 6459
+        },
+        {
+          "date": "2015-10-25",
+          "views": 34909
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Valentino%20Rossi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Valentino_Rossi",
+      "article_url": "https://it.wikipedia.org/wiki/Valentino_Rossi",
+      "description": "pilota motociclistico, pilota automobilistico e dirigente sportivo italiano (1979-)",
+      "image_filename": "Valentino_Rossi_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Valentino_Rossi_2017.jpg/1280px-Valentino_Rossi_2017.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Valentino_Rossi_2017.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "The_Walking_Dead_(serie_televisiva)",
+      "views": 58560,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 13819
+        },
+        {
+          "date": "2015-10-20",
+          "views": 11825
+        },
+        {
+          "date": "2015-10-21",
+          "views": 7813
+        },
+        {
+          "date": "2015-10-22",
+          "views": 6649
+        },
+        {
+          "date": "2015-10-23",
+          "views": 5876
+        },
+        {
+          "date": "2015-10-24",
+          "views": 5879
+        },
+        {
+          "date": "2015-10-25",
+          "views": 6699
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Walking%20Dead%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=The_Walking_Dead_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Walking_Dead_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2010-2022)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Transgender",
+      "views": 57011,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 7412
+        },
+        {
+          "date": "2015-10-20",
+          "views": 6856
+        },
+        {
+          "date": "2015-10-21",
+          "views": 7216
+        },
+        {
+          "date": "2015-10-22",
+          "views": 6788
+        },
+        {
+          "date": "2015-10-23",
+          "views": 8850
+        },
+        {
+          "date": "2015-10-24",
+          "views": 8874
+        },
+        {
+          "date": "2015-10-25",
+          "views": 11015
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Transgender&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Transgender",
+      "article_url": "https://it.wikipedia.org/wiki/Transgender",
+      "description": "identit\u00e0 o espressione di genere che non corrisponde al sesso determinato alla nascita",
+      "image_filename": "Transgender_Pride_flag.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/1280px-Transgender_Pride_flag.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Transgender_Pride_flag.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Biancaneve_e_il_cacciatore",
+      "views": 56283,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 999
+        },
+        {
+          "date": "2015-10-20",
+          "views": 44054
+        },
+        {
+          "date": "2015-10-21",
+          "views": 9513
+        },
+        {
+          "date": "2015-10-22",
+          "views": 1717
+        },
+        {
+          "date": "2015-10-23",
+          "views": 0
+        },
+        {
+          "date": "2015-10-24",
+          "views": 0
+        },
+        {
+          "date": "2015-10-25",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Biancaneve%20e%20il%20cacciatore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Biancaneve_e_il_cacciatore",
+      "article_url": "https://it.wikipedia.org/wiki/Biancaneve_e_il_cacciatore",
+      "description": "film del 2012 diretto da Rupert Sanders",
+      "image_filename": "Snow_White_&_the_Huntsman.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/4/48/Snow_White_%26_the_Huntsman.png/1279px-Snow_White_%26_the_Huntsman.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Snow_White_%26_the_Huntsman.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Ora_legale",
+      "views": 53666,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 2113
+        },
+        {
+          "date": "2015-10-20",
+          "views": 2378
+        },
+        {
+          "date": "2015-10-21",
+          "views": 2512
+        },
+        {
+          "date": "2015-10-22",
+          "views": 3033
+        },
+        {
+          "date": "2015-10-23",
+          "views": 6165
+        },
+        {
+          "date": "2015-10-24",
+          "views": 18528
+        },
+        {
+          "date": "2015-10-25",
+          "views": 18937
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ora%20legale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Ora_legale",
+      "article_url": "https://it.wikipedia.org/wiki/Ora_legale",
+      "description": "convenzione di avanzare di un'ora le lancette degli orologi durante il periodo estivo",
+      "image_filename": "DaylightSaving-World-Subdivisions.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/DaylightSaving-World-Subdivisions.png/1280px-DaylightSaving-World-Subdivisions.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:DaylightSaving-World-Subdivisions.png",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Grey's_Anatomy",
+      "views": 53536,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 11003
+        },
+        {
+          "date": "2015-10-20",
+          "views": 8885
+        },
+        {
+          "date": "2015-10-21",
+          "views": 6360
+        },
+        {
+          "date": "2015-10-22",
+          "views": 8865
+        },
+        {
+          "date": "2015-10-23",
+          "views": 7690
+        },
+        {
+          "date": "2015-10-24",
+          "views": 5025
+        },
+        {
+          "date": "2015-10-25",
+          "views": 5708
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Motomondiale_2015",
+      "views": 52926,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 3296
+        },
+        {
+          "date": "2015-10-20",
+          "views": 1227
+        },
+        {
+          "date": "2015-10-21",
+          "views": 1096
+        },
+        {
+          "date": "2015-10-22",
+          "views": 1257
+        },
+        {
+          "date": "2015-10-23",
+          "views": 1663
+        },
+        {
+          "date": "2015-10-24",
+          "views": 2828
+        },
+        {
+          "date": "2015-10-25",
+          "views": 41559
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Motomondiale%202015&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Motomondiale_2015",
+      "article_url": "https://it.wikipedia.org/wiki/Motomondiale_2015",
+      "description": "edizione del motomondiale",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Template:GeoTemplate",
+      "views": 51748,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 6203
+        },
+        {
+          "date": "2015-10-20",
+          "views": 5879
+        },
+        {
+          "date": "2015-10-21",
+          "views": 5869
+        },
+        {
+          "date": "2015-10-22",
+          "views": 6613
+        },
+        {
+          "date": "2015-10-23",
+          "views": 9023
+        },
+        {
+          "date": "2015-10-24",
+          "views": 9369
+        },
+        {
+          "date": "2015-10-25",
+          "views": 8792
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Template%3AGeoTemplate&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Template%3AGeoTemplate",
+      "article_url": "https://it.wikipedia.org/wiki/Template%3AGeoTemplate",
+      "description": "template di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Crimson_Peak",
+      "views": 50652,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 5043
+        },
+        {
+          "date": "2015-10-20",
+          "views": 4135
+        },
+        {
+          "date": "2015-10-21",
+          "views": 4173
+        },
+        {
+          "date": "2015-10-22",
+          "views": 6470
+        },
+        {
+          "date": "2015-10-23",
+          "views": 7745
+        },
+        {
+          "date": "2015-10-24",
+          "views": 11855
+        },
+        {
+          "date": "2015-10-25",
+          "views": 11231
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Crimson%20Peak&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Crimson_Peak",
+      "article_url": "https://it.wikipedia.org/wiki/Crimson_Peak",
+      "description": "film del 2015 diretto da Guillermo del Toro",
+      "image_filename": "Crimson_Peak.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/c/c2/Crimson_Peak.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Crimson_Peak.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "The_Walk_(film)",
+      "views": 48000,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 7236
+        },
+        {
+          "date": "2015-10-20",
+          "views": 4935
+        },
+        {
+          "date": "2015-10-21",
+          "views": 4125
+        },
+        {
+          "date": "2015-10-22",
+          "views": 8831
+        },
+        {
+          "date": "2015-10-23",
+          "views": 6432
+        },
+        {
+          "date": "2015-10-24",
+          "views": 8891
+        },
+        {
+          "date": "2015-10-25",
+          "views": 7550
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Walk%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=The_Walk_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Walk_(film)",
+      "description": "film del 2015 diretto da Robert Zemeckis",
+      "image_filename": "Th\u0435_Walk_(film).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Th%D0%B5_Walk_%28film%29.png/1280px-Th%D0%B5_Walk_%28film%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Th%D0%B5_Walk_(film).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Guerre_stellari",
+      "views": 47558,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 3770
+        },
+        {
+          "date": "2015-10-20",
+          "views": 12884
+        },
+        {
+          "date": "2015-10-21",
+          "views": 8465
+        },
+        {
+          "date": "2015-10-22",
+          "views": 6279
+        },
+        {
+          "date": "2015-10-23",
+          "views": 5201
+        },
+        {
+          "date": "2015-10-24",
+          "views": 5335
+        },
+        {
+          "date": "2015-10-25",
+          "views": 5624
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guerre%20stellari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Guerre_stellari",
+      "article_url": "https://it.wikipedia.org/wiki/Guerre_stellari",
+      "description": "franchise creato da George Lucas",
+      "image_filename": "Star_Wars_Logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1280px-Star_Wars_Logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_Wars_Logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Plinio_Fernando",
+      "views": 45013,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 0
+        },
+        {
+          "date": "2015-10-20",
+          "views": 0
+        },
+        {
+          "date": "2015-10-21",
+          "views": 0
+        },
+        {
+          "date": "2015-10-22",
+          "views": 0
+        },
+        {
+          "date": "2015-10-23",
+          "views": 16684
+        },
+        {
+          "date": "2015-10-24",
+          "views": 21959
+        },
+        {
+          "date": "2015-10-25",
+          "views": 6370
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Plinio%20Fernando&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Plinio_Fernando",
+      "article_url": "https://it.wikipedia.org/wiki/Plinio_Fernando",
+      "description": "attore e scultore italiano (1947-)",
+      "image_filename": "Plinio_Fernando_(1975).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/4/4c/Plinio_Fernando_%281975%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Plinio_Fernando_(1975).jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Italia",
+      "views": 43840,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 6739
+        },
+        {
+          "date": "2015-10-20",
+          "views": 6481
+        },
+        {
+          "date": "2015-10-21",
+          "views": 6216
+        },
+        {
+          "date": "2015-10-22",
+          "views": 6289
+        },
+        {
+          "date": "2015-10-23",
+          "views": 5688
+        },
+        {
+          "date": "2015-10-24",
+          "views": 5786
+        },
+        {
+          "date": "2015-10-25",
+          "views": 6641
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "The_Vampire_Diaries",
+      "views": 43322,
+      "daily_views": [
+        {
+          "date": "2015-10-19",
+          "views": 5624
+        },
+        {
+          "date": "2015-10-20",
+          "views": 9605
+        },
+        {
+          "date": "2015-10-21",
+          "views": 6375
+        },
+        {
+          "date": "2015-10-22",
+          "views": 5586
+        },
+        {
+          "date": "2015-10-23",
+          "views": 5997
+        },
+        {
+          "date": "2015-10-24",
+          "views": 4217
+        },
+        {
+          "date": "2015-10-25",
+          "views": 5918
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Vampire%20Diaries&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/19/2015,cd_max:10/25/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-10-19&end=2015-10-25&pages=The_Vampire_Diaries",
+      "article_url": "https://it.wikipedia.org/wiki/The_Vampire_Diaries",
+      "description": "serie televisiva statunitense (2009-2017)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

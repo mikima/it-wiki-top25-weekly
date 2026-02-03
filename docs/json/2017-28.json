@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2017,
+  "week": 28,
+  "start_date": "2017-07-10",
+  "end_date": "2017-07-16",
+  "days": [
+    "2017-07-10",
+    "2017-07-11",
+    "2017-07-12",
+    "2017-07-13",
+    "2017-07-14",
+    "2017-07-15",
+    "2017-07-16"
+  ],
+  "total_articles": 2568,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Leonardo_Bonucci",
+      "views": 422261,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 0
+        },
+        {
+          "date": "2017-07-11",
+          "views": 0
+        },
+        {
+          "date": "2017-07-12",
+          "views": 18355
+        },
+        {
+          "date": "2017-07-13",
+          "views": 84839
+        },
+        {
+          "date": "2017-07-14",
+          "views": 201387
+        },
+        {
+          "date": "2017-07-15",
+          "views": 79847
+        },
+        {
+          "date": "2017-07-16",
+          "views": 37833
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Leonardo%20Bonucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Leonardo_Bonucci",
+      "article_url": "https://it.wikipedia.org/wiki/Leonardo_Bonucci",
+      "description": "allenatore di calcio e calciatore italiano (1987-)",
+      "image_filename": "20150616_-_Portugal_-_Italie_-_Gen\u00e8ve_-_Leonardo_Bonucci.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Leonardo_Bonucci.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Leonardo_Bonucci.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Douglas_Costa",
+      "views": 148330,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 14656
+        },
+        {
+          "date": "2017-07-11",
+          "views": 61996
+        },
+        {
+          "date": "2017-07-12",
+          "views": 44278
+        },
+        {
+          "date": "2017-07-13",
+          "views": 12165
+        },
+        {
+          "date": "2017-07-14",
+          "views": 6965
+        },
+        {
+          "date": "2017-07-15",
+          "views": 4479
+        },
+        {
+          "date": "2017-07-16",
+          "views": 3791
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Douglas%20Costa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Douglas_Costa",
+      "article_url": "https://it.wikipedia.org/wiki/Douglas_Costa",
+      "description": "calciatore brasiliano (1990-)",
+      "image_filename": "20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Douglas_Costa_(BRA)_850_1486_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Douglas_Costa_%28BRA%29_850_1486_%28cropped%29.jpg/1280px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Douglas_Costa_%28BRA%29_850_1486_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Douglas_Costa_(BRA)_850_1486_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Roger_Federer",
+      "views": 136590,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 5907
+        },
+        {
+          "date": "2017-07-11",
+          "views": 5094
+        },
+        {
+          "date": "2017-07-12",
+          "views": 10219
+        },
+        {
+          "date": "2017-07-13",
+          "views": 7625
+        },
+        {
+          "date": "2017-07-14",
+          "views": 13734
+        },
+        {
+          "date": "2017-07-15",
+          "views": 10465
+        },
+        {
+          "date": "2017-07-16",
+          "views": 83546
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Roger%20Federer&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Roger_Federer",
+      "article_url": "https://it.wikipedia.org/wiki/Roger_Federer",
+      "description": "tennista svizzero (1981\u2013)",
+      "image_filename": "Roger_Federer_(18405413060).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Roger_Federer_%2818405413060%29.jpg/1280px-Roger_Federer_%2818405413060%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roger_Federer_(18405413060).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Il_Trono_di_Spade_(serie_televisiva)",
+      "views": 120760,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 12674
+        },
+        {
+          "date": "2017-07-11",
+          "views": 12852
+        },
+        {
+          "date": "2017-07-12",
+          "views": 13625
+        },
+        {
+          "date": "2017-07-13",
+          "views": 16945
+        },
+        {
+          "date": "2017-07-14",
+          "views": 15852
+        },
+        {
+          "date": "2017-07-15",
+          "views": 17305
+        },
+        {
+          "date": "2017-07-16",
+          "views": 31507
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Trono%20di%20Spade%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Il_Trono_di_Spade_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Trono_di_Spade_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2019)",
+      "image_filename": "Il_Trono_di_Spade.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/27/Il_Trono_di_Spade.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Trono_di_Spade.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Tyrannosaurus_rex",
+      "views": 100604,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 0
+        },
+        {
+          "date": "2017-07-11",
+          "views": 0
+        },
+        {
+          "date": "2017-07-12",
+          "views": 0
+        },
+        {
+          "date": "2017-07-13",
+          "views": 100604
+        },
+        {
+          "date": "2017-07-14",
+          "views": 0
+        },
+        {
+          "date": "2017-07-15",
+          "views": 0
+        },
+        {
+          "date": "2017-07-16",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tyrannosaurus%20rex&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Tyrannosaurus_rex",
+      "article_url": "https://it.wikipedia.org/wiki/Tyrannosaurus_rex",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Canis_lupus",
+      "views": 84364,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 14329
+        },
+        {
+          "date": "2017-07-11",
+          "views": 12341
+        },
+        {
+          "date": "2017-07-12",
+          "views": 12170
+        },
+        {
+          "date": "2017-07-13",
+          "views": 13403
+        },
+        {
+          "date": "2017-07-14",
+          "views": 15449
+        },
+        {
+          "date": "2017-07-15",
+          "views": 10433
+        },
+        {
+          "date": "2017-07-16",
+          "views": 6239
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Canis%20lupus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Canis_lupus",
+      "article_url": "https://it.wikipedia.org/wiki/Canis_lupus",
+      "description": "specie di animali della famiglia Canidae",
+      "image_filename": "European_grey_wolf_in_Prague_zoo_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/European_grey_wolf_in_Prague_zoo_2.jpg/1280px-European_grey_wolf_in_Prague_zoo_2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:European_grey_wolf_in_Prague_zoo_2.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Antonio_Donnarumma",
+      "views": 74746,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 11606
+        },
+        {
+          "date": "2017-07-11",
+          "views": 14864
+        },
+        {
+          "date": "2017-07-12",
+          "views": 25019
+        },
+        {
+          "date": "2017-07-13",
+          "views": 9158
+        },
+        {
+          "date": "2017-07-14",
+          "views": 6878
+        },
+        {
+          "date": "2017-07-15",
+          "views": 3998
+        },
+        {
+          "date": "2017-07-16",
+          "views": 3223
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Antonio%20Donnarumma&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Antonio_Donnarumma",
+      "article_url": "https://it.wikipedia.org/wiki/Antonio_Donnarumma",
+      "description": "calciatore italiano (1990-)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Apes_Revolution_-_Il_pianeta_delle_scimmie",
+      "views": 67790,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 2765
+        },
+        {
+          "date": "2017-07-11",
+          "views": 38560
+        },
+        {
+          "date": "2017-07-12",
+          "views": 9698
+        },
+        {
+          "date": "2017-07-13",
+          "views": 4798
+        },
+        {
+          "date": "2017-07-14",
+          "views": 4004
+        },
+        {
+          "date": "2017-07-15",
+          "views": 3960
+        },
+        {
+          "date": "2017-07-16",
+          "views": 4005
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Apes%20Revolution%20-%20Il%20pianeta%20delle%20scimmie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Apes_Revolution_-_Il_pianeta_delle_scimmie",
+      "article_url": "https://it.wikipedia.org/wiki/Apes_Revolution_-_Il_pianeta_delle_scimmie",
+      "description": "film del 2014 diretto da Matt Reeves",
+      "image_filename": "Il_pianeta_delle_scimmie_-_Revolution.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/31/Il_pianeta_delle_scimmie_-_Revolution.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_pianeta_delle_scimmie_-_Revolution.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Il_pianeta_delle_scimmie",
+      "views": 65624,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 4382
+        },
+        {
+          "date": "2017-07-11",
+          "views": 23015
+        },
+        {
+          "date": "2017-07-12",
+          "views": 9924
+        },
+        {
+          "date": "2017-07-13",
+          "views": 7372
+        },
+        {
+          "date": "2017-07-14",
+          "views": 6620
+        },
+        {
+          "date": "2017-07-15",
+          "views": 7034
+        },
+        {
+          "date": "2017-07-16",
+          "views": 7277
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20pianeta%20delle%20scimmie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Il_pianeta_delle_scimmie",
+      "article_url": "https://it.wikipedia.org/wiki/Il_pianeta_delle_scimmie",
+      "description": "media franchise basato sul romanzo omonimo di Pierre Boulle",
+      "image_filename": "Planet_of_the_Apes_(logo).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Planet_of_the_Apes_%28logo%29.svg/1280px-Planet_of_the_Apes_%28logo%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Planet_of_the_Apes_(logo).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "Associazione_Calcio_Milan",
+      "views": 65213,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 4693
+        },
+        {
+          "date": "2017-07-11",
+          "views": 5652
+        },
+        {
+          "date": "2017-07-12",
+          "views": 5704
+        },
+        {
+          "date": "2017-07-13",
+          "views": 7691
+        },
+        {
+          "date": "2017-07-14",
+          "views": 17262
+        },
+        {
+          "date": "2017-07-15",
+          "views": 12804
+        },
+        {
+          "date": "2017-07-16",
+          "views": 11407
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Associazione%20Calcio%20Milan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Associazione_Calcio_Milan",
+      "article_url": "https://it.wikipedia.org/wiki/Associazione_Calcio_Milan",
+      "description": "club calcistico italiano di Milano",
+      "image_filename": "Logo_of_AC_Milan.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1280px-Logo_of_AC_Milan.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Youth_-_La_giovinezza",
+      "views": 62182,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 0
+        },
+        {
+          "date": "2017-07-11",
+          "views": 0
+        },
+        {
+          "date": "2017-07-12",
+          "views": 0
+        },
+        {
+          "date": "2017-07-13",
+          "views": 1304
+        },
+        {
+          "date": "2017-07-14",
+          "views": 51208
+        },
+        {
+          "date": "2017-07-15",
+          "views": 7773
+        },
+        {
+          "date": "2017-07-16",
+          "views": 1897
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Youth%20-%20La%20giovinezza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Youth_-_La_giovinezza",
+      "article_url": "https://it.wikipedia.org/wiki/Youth_-_La_giovinezza",
+      "description": "film del 2015 diretto da Paolo Sorrentino",
+      "image_filename": "LaGiovinezzaFilm.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8a/LaGiovinezzaFilm.png/1280px-LaGiovinezzaFilm.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:LaGiovinezzaFilm.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Spider-Man:_Homecoming",
+      "views": 58095,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 11252
+        },
+        {
+          "date": "2017-07-11",
+          "views": 9443
+        },
+        {
+          "date": "2017-07-12",
+          "views": 8961
+        },
+        {
+          "date": "2017-07-13",
+          "views": 7391
+        },
+        {
+          "date": "2017-07-14",
+          "views": 6325
+        },
+        {
+          "date": "2017-07-15",
+          "views": 7388
+        },
+        {
+          "date": "2017-07-16",
+          "views": 7335
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Spider-Man%3A%20Homecoming&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Spider-Man%3A_Homecoming",
+      "article_url": "https://it.wikipedia.org/wiki/Spider-Man%3A_Homecoming",
+      "description": "film del 2017 diretto da Jon Watts",
+      "image_filename": "SpiderManHolland.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b6/SpiderManHolland.png/1280px-SpiderManHolland.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:SpiderManHolland.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Papessa_Giovanna",
+      "views": 55841,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 0
+        },
+        {
+          "date": "2017-07-11",
+          "views": 0
+        },
+        {
+          "date": "2017-07-12",
+          "views": 954
+        },
+        {
+          "date": "2017-07-13",
+          "views": 1346
+        },
+        {
+          "date": "2017-07-14",
+          "views": 1504
+        },
+        {
+          "date": "2017-07-15",
+          "views": 2678
+        },
+        {
+          "date": "2017-07-16",
+          "views": 49359
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Papessa%20Giovanna&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Papessa_Giovanna",
+      "article_url": "https://it.wikipedia.org/wiki/Papessa_Giovanna",
+      "description": "figura leggendaria di papa donna",
+      "image_filename": "Bonifacio_Bembo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bonifacio_Bembo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bonifacio_Bembo.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Still_Alice",
+      "views": 55692,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 42129
+        },
+        {
+          "date": "2017-07-11",
+          "views": 10822
+        },
+        {
+          "date": "2017-07-12",
+          "views": 1881
+        },
+        {
+          "date": "2017-07-13",
+          "views": 860
+        },
+        {
+          "date": "2017-07-14",
+          "views": 0
+        },
+        {
+          "date": "2017-07-15",
+          "views": 0
+        },
+        {
+          "date": "2017-07-16",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Still%20Alice&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Still_Alice",
+      "article_url": "https://it.wikipedia.org/wiki/Still_Alice",
+      "description": "film del 2014 diretto da Wash Westmoreland e Richard Glatzer",
+      "image_filename": "Still_Alice_(film).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/7/77/Still_Alice_%28film%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Still_Alice_(film).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "La_papessa_(film)",
+      "views": 54873,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 0
+        },
+        {
+          "date": "2017-07-11",
+          "views": 0
+        },
+        {
+          "date": "2017-07-12",
+          "views": 0
+        },
+        {
+          "date": "2017-07-13",
+          "views": 1097
+        },
+        {
+          "date": "2017-07-14",
+          "views": 1241
+        },
+        {
+          "date": "2017-07-15",
+          "views": 2206
+        },
+        {
+          "date": "2017-07-16",
+          "views": 50329
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20papessa%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=La_papessa_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/La_papessa_(film)",
+      "description": "film del 2009 diretto da S\u00f6nke Wortmann",
+      "image_filename": "La_Papessa.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/27/La_Papessa.JPG/1024px-La_Papessa.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_Papessa.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Lucas_Biglia",
+      "views": 53486,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 3773
+        },
+        {
+          "date": "2017-07-11",
+          "views": 2894
+        },
+        {
+          "date": "2017-07-12",
+          "views": 1730
+        },
+        {
+          "date": "2017-07-13",
+          "views": 8121
+        },
+        {
+          "date": "2017-07-14",
+          "views": 15814
+        },
+        {
+          "date": "2017-07-15",
+          "views": 9616
+        },
+        {
+          "date": "2017-07-16",
+          "views": 11538
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lucas%20Biglia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Lucas_Biglia",
+      "article_url": "https://it.wikipedia.org/wiki/Lucas_Biglia",
+      "description": "calciatore argentino (1986-)",
+      "image_filename": "Lucas_Biglia.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Lucas_Biglia.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lucas_Biglia.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "I_Love_Radio_Rock",
+      "views": 51665,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 1409
+        },
+        {
+          "date": "2017-07-11",
+          "views": 2023
+        },
+        {
+          "date": "2017-07-12",
+          "views": 39238
+        },
+        {
+          "date": "2017-07-13",
+          "views": 7684
+        },
+        {
+          "date": "2017-07-14",
+          "views": 1311
+        },
+        {
+          "date": "2017-07-15",
+          "views": 0
+        },
+        {
+          "date": "2017-07-16",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=I%20Love%20Radio%20Rock&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=I_Love_Radio_Rock",
+      "article_url": "https://it.wikipedia.org/wiki/I_Love_Radio_Rock",
+      "description": "film del 2009 diretto da Richard Curtis",
+      "image_filename": "ILoveRadioRock-2009.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/5/51/ILoveRadioRock-2009.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ILoveRadioRock-2009.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Conor_McGregor",
+      "views": 51442,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 2276
+        },
+        {
+          "date": "2017-07-11",
+          "views": 3534
+        },
+        {
+          "date": "2017-07-12",
+          "views": 10613
+        },
+        {
+          "date": "2017-07-13",
+          "views": 11085
+        },
+        {
+          "date": "2017-07-14",
+          "views": 10093
+        },
+        {
+          "date": "2017-07-15",
+          "views": 8050
+        },
+        {
+          "date": "2017-07-16",
+          "views": 5791
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Conor%20McGregor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Conor_McGregor",
+      "article_url": "https://it.wikipedia.org/wiki/Conor_McGregor",
+      "description": "artista marziale misto e pugile irlandese",
+      "image_filename": "Conor_McGregor_2025.jpeg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Conor_McGregor_2025.jpeg/1280px-Conor_McGregor_2025.jpeg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Conor_McGregor_2025.jpeg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "The_War_-_Il_pianeta_delle_scimmie",
+      "views": 48562,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 2478
+        },
+        {
+          "date": "2017-07-11",
+          "views": 12432
+        },
+        {
+          "date": "2017-07-12",
+          "views": 6496
+        },
+        {
+          "date": "2017-07-13",
+          "views": 6566
+        },
+        {
+          "date": "2017-07-14",
+          "views": 6768
+        },
+        {
+          "date": "2017-07-15",
+          "views": 7024
+        },
+        {
+          "date": "2017-07-16",
+          "views": 6798
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20War%20-%20Il%20pianeta%20delle%20scimmie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=The_War_-_Il_pianeta_delle_scimmie",
+      "article_url": "https://it.wikipedia.org/wiki/The_War_-_Il_pianeta_delle_scimmie",
+      "description": "film del 2017 diretto da Matt Reeves",
+      "image_filename": "War_for_the_Planet_of_the_Apes.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/33/War_for_the_Planet_of_the_Apes.jpg/1280px-War_for_the_Planet_of_the_Apes.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:War_for_the_Planet_of_the_Apes.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Charles_Manson",
+      "views": 45794,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 1105
+        },
+        {
+          "date": "2017-07-11",
+          "views": 1774
+        },
+        {
+          "date": "2017-07-12",
+          "views": 19752
+        },
+        {
+          "date": "2017-07-13",
+          "views": 12080
+        },
+        {
+          "date": "2017-07-14",
+          "views": 3901
+        },
+        {
+          "date": "2017-07-15",
+          "views": 3114
+        },
+        {
+          "date": "2017-07-16",
+          "views": 4068
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Charles%20Manson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Charles_Manson",
+      "article_url": "https://it.wikipedia.org/wiki/Charles_Manson",
+      "description": "criminale statunitense (1934-2017)",
+      "image_filename": "MansonB33920_8-14-17_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MansonB33920_8-14-17_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:MansonB33920_8-14-17_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 21,
+      "article": "Italia",
+      "views": 42333,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 6269
+        },
+        {
+          "date": "2017-07-11",
+          "views": 5925
+        },
+        {
+          "date": "2017-07-12",
+          "views": 5838
+        },
+        {
+          "date": "2017-07-13",
+          "views": 5830
+        },
+        {
+          "date": "2017-07-14",
+          "views": 5906
+        },
+        {
+          "date": "2017-07-15",
+          "views": 5874
+        },
+        {
+          "date": "2017-07-16",
+          "views": 6691
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Torneo_di_Wimbledon",
+      "views": 41681,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 4257
+        },
+        {
+          "date": "2017-07-11",
+          "views": 2892
+        },
+        {
+          "date": "2017-07-12",
+          "views": 3501
+        },
+        {
+          "date": "2017-07-13",
+          "views": 2990
+        },
+        {
+          "date": "2017-07-14",
+          "views": 3813
+        },
+        {
+          "date": "2017-07-15",
+          "views": 4230
+        },
+        {
+          "date": "2017-07-16",
+          "views": 19998
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Torneo%20di%20Wimbledon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Torneo_di_Wimbledon",
+      "article_url": "https://it.wikipedia.org/wiki/Torneo_di_Wimbledon",
+      "description": "torneo di tennis",
+      "image_filename": "Wimbledon.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b9/Wimbledon.svg/1280px-Wimbledon.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Wimbledon.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Antonio_Cassano",
+      "views": 41139,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 14995
+        },
+        {
+          "date": "2017-07-11",
+          "views": 11201
+        },
+        {
+          "date": "2017-07-12",
+          "views": 6496
+        },
+        {
+          "date": "2017-07-13",
+          "views": 3036
+        },
+        {
+          "date": "2017-07-14",
+          "views": 1872
+        },
+        {
+          "date": "2017-07-15",
+          "views": 1797
+        },
+        {
+          "date": "2017-07-16",
+          "views": 1742
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Antonio%20Cassano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Antonio_Cassano",
+      "article_url": "https://it.wikipedia.org/wiki/Antonio_Cassano",
+      "description": "calciatore italiano (1982-)",
+      "image_filename": "Antonio_Cassano_Euro_2012_vs_England.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Antonio_Cassano_Euro_2012_vs_England.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Antonio_Cassano_Euro_2012_vs_England.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Garbi\u00f1e_Muguruza",
+      "views": 41115,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 1265
+        },
+        {
+          "date": "2017-07-11",
+          "views": 1909
+        },
+        {
+          "date": "2017-07-12",
+          "views": 0
+        },
+        {
+          "date": "2017-07-13",
+          "views": 5608
+        },
+        {
+          "date": "2017-07-14",
+          "views": 1585
+        },
+        {
+          "date": "2017-07-15",
+          "views": 21749
+        },
+        {
+          "date": "2017-07-16",
+          "views": 8999
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Garbi%C3%B1e%20Muguruza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Garbi%C3%B1e_Muguruza",
+      "article_url": "https://it.wikipedia.org/wiki/Garbi%C3%B1e_Muguruza",
+      "description": "ex tennista spagnola",
+      "image_filename": "Garbine_Muguruza_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Garbine_Muguruza_2016.jpg/1280px-Garbine_Muguruza_2016.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Garbine_Muguruza_2016.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Nemanja_Mati\u0107",
+      "views": 40712,
+      "daily_views": [
+        {
+          "date": "2017-07-10",
+          "views": 902
+        },
+        {
+          "date": "2017-07-11",
+          "views": 7418
+        },
+        {
+          "date": "2017-07-12",
+          "views": 0
+        },
+        {
+          "date": "2017-07-13",
+          "views": 5238
+        },
+        {
+          "date": "2017-07-14",
+          "views": 10177
+        },
+        {
+          "date": "2017-07-15",
+          "views": 9313
+        },
+        {
+          "date": "2017-07-16",
+          "views": 7664
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nemanja%20Mati%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/10/2017,cd_max:07/16/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-07-10&end=2017-07-16&pages=Nemanja_Mati%C4%87",
+      "article_url": "https://it.wikipedia.org/wiki/Nemanja_Mati%C4%87",
+      "description": "calciatore serbo (1988-)",
+      "image_filename": "Nemanja_Mati\u0107_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nemanja_Mati%C4%87_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nemanja_Mati%C4%87_2018.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

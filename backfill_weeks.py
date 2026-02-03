@@ -5,6 +5,7 @@ import argparse
 import subprocess
 import sys
 from datetime import date, timedelta
+from pathlib import Path
 from typing import Optional
 
 
@@ -44,6 +45,17 @@ def parse_args() -> argparse.Namespace:
         type=str,
         default=sys.executable,
         help="Python executable used to run the weekly script",
+    )
+    parser.add_argument(
+        "--json-dir",
+        type=str,
+        default="docs/json",
+        help="Directory checked for existing weekly JSON output files",
+    )
+    parser.add_argument(
+        "--force-rewrite",
+        action="store_true",
+        help="Run all weeks even if output JSON already exists",
     )
     parser.add_argument(
         "--dry-run",
@@ -94,9 +106,17 @@ def main() -> int:
 
     failures = 0
     total = 0
+    skipped = 0
 
     while current.isocalendar().year >= args.min_year:
         year, week, _ = current.isocalendar()
+        output_path = Path(args.json_dir) / f"{year}-{week:02d}.json"
+        if output_path.exists() and not args.force_rewrite:
+            skipped += 1
+            print(f"[skip] {year}-W{week:02d}: found {output_path}")
+            current = current - timedelta(days=7)
+            continue
+
         cmd = build_command(args.python, year, week, args.top)
         total += 1
         print(f"[{total}] {year}-W{week:02d}: {' '.join(cmd)}")
@@ -118,7 +138,7 @@ def main() -> int:
         print(f"Completed with {failures} failures.", file=sys.stderr)
         return 1
 
-    print("Completed successfully.")
+    print(f"Completed successfully. Executed: {total}, skipped: {skipped}.")
     return 0
 
 

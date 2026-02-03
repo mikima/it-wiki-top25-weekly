@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2019,
+  "week": 2,
+  "start_date": "2019-01-07",
+  "end_date": "2019-01-13",
+  "days": [
+    "2019-01-07",
+    "2019-01-08",
+    "2019-01-09",
+    "2019-01-10",
+    "2019-01-11",
+    "2019-01-12",
+    "2019-01-13"
+  ],
+  "total_articles": 2650,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Fabrizio_De_Andr\u00e9",
+      "views": 475458,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 3551
+        },
+        {
+          "date": "2019-01-08",
+          "views": 6770
+        },
+        {
+          "date": "2019-01-09",
+          "views": 15509
+        },
+        {
+          "date": "2019-01-10",
+          "views": 123922
+        },
+        {
+          "date": "2019-01-11",
+          "views": 99897
+        },
+        {
+          "date": "2019-01-12",
+          "views": 168769
+        },
+        {
+          "date": "2019-01-13",
+          "views": 57040
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fabrizio%20De%20Andr%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Fabrizio_De_Andr%C3%A9",
+      "article_url": "https://it.wikipedia.org/wiki/Fabrizio_De_Andr%C3%A9",
+      "description": "cantautore italiano (1940-1999)",
+      "image_filename": "De_Andr\u00e9_backstage.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/9f/De_Andr%C3%A9_backstage.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:De_Andr%C3%A9_backstage.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Cesare_Battisti_(1954)",
+      "views": 467807,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 0
+        },
+        {
+          "date": "2019-01-08",
+          "views": 0
+        },
+        {
+          "date": "2019-01-09",
+          "views": 0
+        },
+        {
+          "date": "2019-01-10",
+          "views": 0
+        },
+        {
+          "date": "2019-01-11",
+          "views": 0
+        },
+        {
+          "date": "2019-01-12",
+          "views": 0
+        },
+        {
+          "date": "2019-01-13",
+          "views": 467807
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cesare%20Battisti%20%281954%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Cesare_Battisti_(1954)",
+      "article_url": "https://it.wikipedia.org/wiki/Cesare_Battisti_(1954)",
+      "description": "ex terrorista e scrittore italiano",
+      "image_filename": "Battisti_Nov_2009.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Battisti_Nov_2009.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Battisti_Nov_2009.jpg",
+      "image_license": "CC BY 3.0 br",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "TG_Norba_24",
+      "views": 308512,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 43661
+        },
+        {
+          "date": "2019-01-08",
+          "views": 48910
+        },
+        {
+          "date": "2019-01-09",
+          "views": 25528
+        },
+        {
+          "date": "2019-01-10",
+          "views": 41593
+        },
+        {
+          "date": "2019-01-11",
+          "views": 28988
+        },
+        {
+          "date": "2019-01-12",
+          "views": 56959
+        },
+        {
+          "date": "2019-01-13",
+          "views": 62873
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=TG_Norba_24",
+      "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Tg_norba24.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "RMS_Titanic",
+      "views": 285870,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 64479
+        },
+        {
+          "date": "2019-01-08",
+          "views": 150414
+        },
+        {
+          "date": "2019-01-09",
+          "views": 41469
+        },
+        {
+          "date": "2019-01-10",
+          "views": 12115
+        },
+        {
+          "date": "2019-01-11",
+          "views": 6896
+        },
+        {
+          "date": "2019-01-12",
+          "views": 5497
+        },
+        {
+          "date": "2019-01-13",
+          "views": 5000
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=RMS%20Titanic&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=RMS_Titanic",
+      "article_url": "https://it.wikipedia.org/wiki/RMS_Titanic",
+      "description": "transatlantico britannico, naufragato il 15 aprile del 1912 a causa di uno scontro con un iceberg",
+      "image_filename": "RMS_Titanic_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1280px-RMS_Titanic_3.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Mata_Hari",
+      "views": 195501,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 0
+        },
+        {
+          "date": "2019-01-08",
+          "views": 0
+        },
+        {
+          "date": "2019-01-09",
+          "views": 0
+        },
+        {
+          "date": "2019-01-10",
+          "views": 0
+        },
+        {
+          "date": "2019-01-11",
+          "views": 181693
+        },
+        {
+          "date": "2019-01-12",
+          "views": 10891
+        },
+        {
+          "date": "2019-01-13",
+          "views": 2917
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mata%20Hari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Mata_Hari",
+      "article_url": "https://it.wikipedia.org/wiki/Mata_Hari",
+      "description": "danzatrice e agente segreta olandese",
+      "image_filename": "Mata-Hari_1910.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mata-Hari_1910.jpg/1280px-Mata-Hari_1910.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mata-Hari_1910.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Freddie_Mercury",
+      "views": 193577,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 42714
+        },
+        {
+          "date": "2019-01-08",
+          "views": 26753
+        },
+        {
+          "date": "2019-01-09",
+          "views": 25167
+        },
+        {
+          "date": "2019-01-10",
+          "views": 21975
+        },
+        {
+          "date": "2019-01-11",
+          "views": 19645
+        },
+        {
+          "date": "2019-01-12",
+          "views": 25901
+        },
+        {
+          "date": "2019-01-13",
+          "views": 31422
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Freddie%20Mercury&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Freddie_Mercury",
+      "article_url": "https://it.wikipedia.org/wiki/Freddie_Mercury",
+      "description": "cantautore e compositore britannico (1946-1991)",
+      "image_filename": "Freddie_Mercury_a_Sanremo_1984_(colori).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/9b/Freddie_Mercury_a_Sanremo_1984_%28colori%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_a_Sanremo_1984_(colori).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Titanic_(film_1997)",
+      "views": 178476,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 62044
+        },
+        {
+          "date": "2019-01-08",
+          "views": 74772
+        },
+        {
+          "date": "2019-01-09",
+          "views": 22869
+        },
+        {
+          "date": "2019-01-10",
+          "views": 6577
+        },
+        {
+          "date": "2019-01-11",
+          "views": 4101
+        },
+        {
+          "date": "2019-01-12",
+          "views": 4122
+        },
+        {
+          "date": "2019-01-13",
+          "views": 3991
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Titanic%20%28film%201997%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Titanic_(film_1997)",
+      "article_url": "https://it.wikipedia.org/wiki/Titanic_(film_1997)",
+      "description": "film del 1997 diretto da James Cameron",
+      "image_filename": "TitanicFilm.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/53/TitanicFilm.jpg/1280px-TitanicFilm.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:TitanicFilm.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Iris_(rete_televisiva)",
+      "views": 155524,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 17326
+        },
+        {
+          "date": "2019-01-08",
+          "views": 19587
+        },
+        {
+          "date": "2019-01-09",
+          "views": 27969
+        },
+        {
+          "date": "2019-01-10",
+          "views": 22474
+        },
+        {
+          "date": "2019-01-11",
+          "views": 19406
+        },
+        {
+          "date": "2019-01-12",
+          "views": 27763
+        },
+        {
+          "date": "2019-01-13",
+          "views": 20999
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Iris_(rete_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Iris_-_Logo_2013.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Paperinik",
+      "views": 143985,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 0
+        },
+        {
+          "date": "2019-01-08",
+          "views": 0
+        },
+        {
+          "date": "2019-01-09",
+          "views": 0
+        },
+        {
+          "date": "2019-01-10",
+          "views": 0
+        },
+        {
+          "date": "2019-01-11",
+          "views": 136307
+        },
+        {
+          "date": "2019-01-12",
+          "views": 7678
+        },
+        {
+          "date": "2019-01-13",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Paperinik&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Paperinik",
+      "article_url": "https://it.wikipedia.org/wiki/Paperinik",
+      "description": "supereroe dei fumetti Disney",
+      "image_filename": "Cover_Paperinik_1.jpeg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/d/de/Cover_Paperinik_1.jpeg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cover_Paperinik_1.jpeg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Lion_-_La_strada_verso_casa",
+      "views": 134026,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 1234
+        },
+        {
+          "date": "2019-01-08",
+          "views": 1817
+        },
+        {
+          "date": "2019-01-09",
+          "views": 90248
+        },
+        {
+          "date": "2019-01-10",
+          "views": 27641
+        },
+        {
+          "date": "2019-01-11",
+          "views": 5917
+        },
+        {
+          "date": "2019-01-12",
+          "views": 3565
+        },
+        {
+          "date": "2019-01-13",
+          "views": 3604
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lion%20-%20La%20strada%20verso%20casa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Lion_-_La_strada_verso_casa",
+      "article_url": "https://it.wikipedia.org/wiki/Lion_-_La_strada_verso_casa",
+      "description": "film del 2016 diretto da Garth Davis",
+      "image_filename": "Lion_film_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/3b/Lion_film_2016.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lion_film_2016.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Chris_Kyle",
+      "views": 130787,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 0
+        },
+        {
+          "date": "2019-01-08",
+          "views": 8977
+        },
+        {
+          "date": "2019-01-09",
+          "views": 8312
+        },
+        {
+          "date": "2019-01-10",
+          "views": 85692
+        },
+        {
+          "date": "2019-01-11",
+          "views": 20704
+        },
+        {
+          "date": "2019-01-12",
+          "views": 4682
+        },
+        {
+          "date": "2019-01-13",
+          "views": 2420
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Chris%20Kyle&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Chris_Kyle",
+      "article_url": "https://it.wikipedia.org/wiki/Chris_Kyle",
+      "description": "militare statunitense",
+      "image_filename": "Chris_Kyle_January_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Chris_Kyle_January_2012.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Chris_Kyle_January_2012.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Rami_Malek",
+      "views": 123640,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 50873
+        },
+        {
+          "date": "2019-01-08",
+          "views": 22648
+        },
+        {
+          "date": "2019-01-09",
+          "views": 12090
+        },
+        {
+          "date": "2019-01-10",
+          "views": 11284
+        },
+        {
+          "date": "2019-01-11",
+          "views": 8262
+        },
+        {
+          "date": "2019-01-12",
+          "views": 8531
+        },
+        {
+          "date": "2019-01-13",
+          "views": 9952
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rami%20Malek&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Rami_Malek",
+      "article_url": "https://it.wikipedia.org/wiki/Rami_Malek",
+      "description": "attore statunitense",
+      "image_filename": "Rami_Malek_SAG_Awards_2019.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Rami_Malek_SAG_Awards_2019.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rami_Malek_SAG_Awards_2019.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Leonardo_DiCaprio",
+      "views": 119554,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 39246
+        },
+        {
+          "date": "2019-01-08",
+          "views": 36608
+        },
+        {
+          "date": "2019-01-09",
+          "views": 16890
+        },
+        {
+          "date": "2019-01-10",
+          "views": 7545
+        },
+        {
+          "date": "2019-01-11",
+          "views": 6446
+        },
+        {
+          "date": "2019-01-12",
+          "views": 6226
+        },
+        {
+          "date": "2019-01-13",
+          "views": 6593
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Leonardo%20DiCaprio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Leonardo_DiCaprio",
+      "article_url": "https://it.wikipedia.org/wiki/Leonardo_DiCaprio",
+      "description": "attore e produttore cinematografico statunitense",
+      "image_filename": "Leonardo_DiCaprio_-_BFI_Southbank.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leonardo_DiCaprio_-_BFI_Southbank.jpg/1006px-Leonardo_DiCaprio_-_BFI_Southbank.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio_-_BFI_Southbank.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "RSI_LA1",
+      "views": 109863,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 16179
+        },
+        {
+          "date": "2019-01-08",
+          "views": 13809
+        },
+        {
+          "date": "2019-01-09",
+          "views": 15801
+        },
+        {
+          "date": "2019-01-10",
+          "views": 14400
+        },
+        {
+          "date": "2019-01-11",
+          "views": 10718
+        },
+        {
+          "date": "2019-01-12",
+          "views": 17039
+        },
+        {
+          "date": "2019-01-13",
+          "views": 21917
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=RSI%20LA1&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=RSI_LA1",
+      "article_url": "https://it.wikipedia.org/wiki/RSI_LA1",
+      "description": "rete televisiva della Svizzera italiana",
+      "image_filename": "RSI_La_1_2012.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_1_2012.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Jason_Momoa",
+      "views": 100201,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 15364
+        },
+        {
+          "date": "2019-01-08",
+          "views": 11601
+        },
+        {
+          "date": "2019-01-09",
+          "views": 13990
+        },
+        {
+          "date": "2019-01-10",
+          "views": 14077
+        },
+        {
+          "date": "2019-01-11",
+          "views": 12295
+        },
+        {
+          "date": "2019-01-12",
+          "views": 15881
+        },
+        {
+          "date": "2019-01-13",
+          "views": 16993
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jason%20Momoa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Jason_Momoa",
+      "article_url": "https://it.wikipedia.org/wiki/Jason_Momoa",
+      "description": "attore e modello statunitense",
+      "image_filename": "Jason_Momoa_by_Gage_Skidmore.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jason_Momoa_by_Gage_Skidmore.jpg/1280px-Jason_Momoa_by_Gage_Skidmore.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jason_Momoa_by_Gage_Skidmore.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "RSI_LA2",
+      "views": 96088,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 15352
+        },
+        {
+          "date": "2019-01-08",
+          "views": 13725
+        },
+        {
+          "date": "2019-01-09",
+          "views": 15712
+        },
+        {
+          "date": "2019-01-10",
+          "views": 13543
+        },
+        {
+          "date": "2019-01-11",
+          "views": 9987
+        },
+        {
+          "date": "2019-01-12",
+          "views": 12953
+        },
+        {
+          "date": "2019-01-13",
+          "views": 14816
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=RSI%20LA2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=RSI_LA2",
+      "article_url": "https://it.wikipedia.org/wiki/RSI_LA2",
+      "description": "rete televisiva della Svizzera italiana",
+      "image_filename": "RSI_La_2_2012.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_2_2012.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "Bohemian_Rhapsody_(film)",
+      "views": 93387,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 25669
+        },
+        {
+          "date": "2019-01-08",
+          "views": 13688
+        },
+        {
+          "date": "2019-01-09",
+          "views": 11665
+        },
+        {
+          "date": "2019-01-10",
+          "views": 9686
+        },
+        {
+          "date": "2019-01-11",
+          "views": 8333
+        },
+        {
+          "date": "2019-01-12",
+          "views": 11150
+        },
+        {
+          "date": "2019-01-13",
+          "views": 13196
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bohemian%20Rhapsody%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Bohemian_Rhapsody_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Bohemian_Rhapsody_(film)",
+      "description": "film del 2018 diretto da Bryan Singer",
+      "image_filename": "Bohemian_Rhapsody_Teaser_Poster_-_2018_CinemaCon.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bohemian_Rhapsody_Teaser_Poster_-_2018_CinemaCon.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bohemian_Rhapsody_Teaser_Poster_-_2018_CinemaCon.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Kayden_Boche",
+      "views": 91744,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 13817
+        },
+        {
+          "date": "2019-01-08",
+          "views": 13809
+        },
+        {
+          "date": "2019-01-09",
+          "views": 13797
+        },
+        {
+          "date": "2019-01-10",
+          "views": 8501
+        },
+        {
+          "date": "2019-01-11",
+          "views": 13806
+        },
+        {
+          "date": "2019-01-12",
+          "views": 13814
+        },
+        {
+          "date": "2019-01-13",
+          "views": 14200
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kayden%20Boche&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Kayden_Boche",
+      "article_url": "https://it.wikipedia.org/wiki/Kayden_Boche",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "American_Sniper",
+      "views": 89889,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 0
+        },
+        {
+          "date": "2019-01-08",
+          "views": 5207
+        },
+        {
+          "date": "2019-01-09",
+          "views": 4647
+        },
+        {
+          "date": "2019-01-10",
+          "views": 63097
+        },
+        {
+          "date": "2019-01-11",
+          "views": 14715
+        },
+        {
+          "date": "2019-01-12",
+          "views": 2223
+        },
+        {
+          "date": "2019-01-13",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=American%20Sniper&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=American_Sniper",
+      "article_url": "https://it.wikipedia.org/wiki/American_Sniper",
+      "description": "film del 2014 diretto da Clint Eastwood",
+      "image_filename": "American_Sniper.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d5/American_Sniper.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:American_Sniper.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Queen",
+      "views": 87641,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 21812
+        },
+        {
+          "date": "2019-01-08",
+          "views": 12904
+        },
+        {
+          "date": "2019-01-09",
+          "views": 11638
+        },
+        {
+          "date": "2019-01-10",
+          "views": 9534
+        },
+        {
+          "date": "2019-01-11",
+          "views": 8163
+        },
+        {
+          "date": "2019-01-12",
+          "views": 10433
+        },
+        {
+          "date": "2019-01-13",
+          "views": 13157
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Queen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Queen",
+      "article_url": "https://it.wikipedia.org/wiki/Queen",
+      "description": "gruppo musicale britannico",
+      "image_filename": "Queen_A_Night_At_The_Opera_(1975_Elektra_publicity_photo_02).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg/1280px-Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_A_Night_At_The_Opera_(1975_Elektra_publicity_photo_02).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 21,
+      "article": "Canale_5",
+      "views": 85272,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 10259
+        },
+        {
+          "date": "2019-01-08",
+          "views": 11032
+        },
+        {
+          "date": "2019-01-09",
+          "views": 13272
+        },
+        {
+          "date": "2019-01-10",
+          "views": 10353
+        },
+        {
+          "date": "2019-01-11",
+          "views": 8074
+        },
+        {
+          "date": "2019-01-12",
+          "views": 16693
+        },
+        {
+          "date": "2019-01-13",
+          "views": 15589
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Canale%205&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Canale_5",
+      "article_url": "https://it.wikipedia.org/wiki/Canale_5",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Canale_5_-_2018_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1280px-Canale_5_-_2018_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Canale_5_-_2018_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "La_Compagnia_del_Cigno",
+      "views": 81579,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 4044
+        },
+        {
+          "date": "2019-01-08",
+          "views": 50151
+        },
+        {
+          "date": "2019-01-09",
+          "views": 14049
+        },
+        {
+          "date": "2019-01-10",
+          "views": 4132
+        },
+        {
+          "date": "2019-01-11",
+          "views": 3046
+        },
+        {
+          "date": "2019-01-12",
+          "views": 3320
+        },
+        {
+          "date": "2019-01-13",
+          "views": 2837
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20Compagnia%20del%20Cigno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=La_Compagnia_del_Cigno",
+      "article_url": "https://it.wikipedia.org/wiki/La_Compagnia_del_Cigno",
+      "description": "serie televisiva italiana",
+      "image_filename": "CompagniaDelCigno.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8c/CompagniaDelCigno.jpg/1280px-CompagniaDelCigno.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:CompagniaDelCigno.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Dori_Ghezzi",
+      "views": 80465,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 0
+        },
+        {
+          "date": "2019-01-08",
+          "views": 0
+        },
+        {
+          "date": "2019-01-09",
+          "views": 0
+        },
+        {
+          "date": "2019-01-10",
+          "views": 10095
+        },
+        {
+          "date": "2019-01-11",
+          "views": 10912
+        },
+        {
+          "date": "2019-01-12",
+          "views": 43582
+        },
+        {
+          "date": "2019-01-13",
+          "views": 15876
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Dori%20Ghezzi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Dori_Ghezzi",
+      "article_url": "https://it.wikipedia.org/wiki/Dori_Ghezzi",
+      "description": "cantante italiana (1946-)",
+      "image_filename": "Dori_Ghezzi_2011.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dori_Ghezzi_2011.jpg/1280px-Dori_Ghezzi_2011.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dori_Ghezzi_2011.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Giulio_Andreotti",
+      "views": 75564,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 1344
+        },
+        {
+          "date": "2019-01-08",
+          "views": 1451
+        },
+        {
+          "date": "2019-01-09",
+          "views": 2347
+        },
+        {
+          "date": "2019-01-10",
+          "views": 1803
+        },
+        {
+          "date": "2019-01-11",
+          "views": 3253
+        },
+        {
+          "date": "2019-01-12",
+          "views": 2052
+        },
+        {
+          "date": "2019-01-13",
+          "views": 63314
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giulio%20Andreotti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Giulio_Andreotti",
+      "article_url": "https://it.wikipedia.org/wiki/Giulio_Andreotti",
+      "description": "politico italiano (1919-2013)",
+      "image_filename": "Giulio_Andreotti.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Giulio_Andreotti.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giulio_Andreotti.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Che_Dio_ci_aiuti",
+      "views": 75033,
+      "daily_views": [
+        {
+          "date": "2019-01-07",
+          "views": 2506
+        },
+        {
+          "date": "2019-01-08",
+          "views": 2262
+        },
+        {
+          "date": "2019-01-09",
+          "views": 3041
+        },
+        {
+          "date": "2019-01-10",
+          "views": 37886
+        },
+        {
+          "date": "2019-01-11",
+          "views": 13450
+        },
+        {
+          "date": "2019-01-12",
+          "views": 4845
+        },
+        {
+          "date": "2019-01-13",
+          "views": 11043
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Che%20Dio%20ci%20aiuti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Che_Dio_ci_aiuti",
+      "article_url": "https://it.wikipedia.org/wiki/Che_Dio_ci_aiuti",
+      "description": "serie televisiva italiana del 2011",
+      "image_filename": "Che_Dio_ci_Aiuti_8.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3c/Che_Dio_ci_Aiuti_8.png/1280px-Che_Dio_ci_Aiuti_8.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Che_Dio_ci_Aiuti_8.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

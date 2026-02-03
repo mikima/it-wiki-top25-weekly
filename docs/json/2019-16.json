@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2019,
+  "week": 16,
+  "start_date": "2019-04-15",
+  "end_date": "2019-04-21",
+  "days": [
+    "2019-04-15",
+    "2019-04-16",
+    "2019-04-17",
+    "2019-04-18",
+    "2019-04-19",
+    "2019-04-20",
+    "2019-04-21"
+  ],
+  "total_articles": 2662,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Cattedrale_di_Notre-Dame",
+      "views": 1244913,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 698532
+        },
+        {
+          "date": "2019-04-16",
+          "views": 410650
+        },
+        {
+          "date": "2019-04-17",
+          "views": 69353
+        },
+        {
+          "date": "2019-04-18",
+          "views": 28539
+        },
+        {
+          "date": "2019-04-19",
+          "views": 16941
+        },
+        {
+          "date": "2019-04-20",
+          "views": 11079
+        },
+        {
+          "date": "2019-04-21",
+          "views": 9819
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cattedrale%20di%20Notre-Dame&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Cattedrale_di_Notre-Dame",
+      "article_url": "https://it.wikipedia.org/wiki/Cattedrale_di_Notre-Dame",
+      "description": "cattedrale cattolica dell'arcidiocesi di Parigi",
+      "image_filename": "Notre-Dame_de_Paris_2013-07-24.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Notre-Dame_de_Paris_2013-07-24.jpg/1280px-Notre-Dame_de_Paris_2013-07-24.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "TG_Norba_24",
+      "views": 602139,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 128683
+        },
+        {
+          "date": "2019-04-16",
+          "views": 122044
+        },
+        {
+          "date": "2019-04-17",
+          "views": 103731
+        },
+        {
+          "date": "2019-04-18",
+          "views": 82366
+        },
+        {
+          "date": "2019-04-19",
+          "views": 71217
+        },
+        {
+          "date": "2019-04-20",
+          "views": 56601
+        },
+        {
+          "date": "2019-04-21",
+          "views": 37497
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=TG_Norba_24",
+      "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Tg_norba24.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Canale_5",
+      "views": 484965,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 61032
+        },
+        {
+          "date": "2019-04-16",
+          "views": 70978
+        },
+        {
+          "date": "2019-04-17",
+          "views": 65354
+        },
+        {
+          "date": "2019-04-18",
+          "views": 81964
+        },
+        {
+          "date": "2019-04-19",
+          "views": 72429
+        },
+        {
+          "date": "2019-04-20",
+          "views": 88815
+        },
+        {
+          "date": "2019-04-21",
+          "views": 44393
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Canale%205&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Canale_5",
+      "article_url": "https://it.wikipedia.org/wiki/Canale_5",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Canale_5_-_2018_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1280px-Canale_5_-_2018_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Canale_5_-_2018_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "RSI_LA1",
+      "views": 387409,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 39166
+        },
+        {
+          "date": "2019-04-16",
+          "views": 44218
+        },
+        {
+          "date": "2019-04-17",
+          "views": 42753
+        },
+        {
+          "date": "2019-04-18",
+          "views": 68754
+        },
+        {
+          "date": "2019-04-19",
+          "views": 75064
+        },
+        {
+          "date": "2019-04-20",
+          "views": 75104
+        },
+        {
+          "date": "2019-04-21",
+          "views": 42350
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=RSI%20LA1&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=RSI_LA1",
+      "article_url": "https://it.wikipedia.org/wiki/RSI_LA1",
+      "description": "rete televisiva della Svizzera italiana",
+      "image_filename": "RSI_La_1_2012.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_1_2012.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "RSI_LA2",
+      "views": 366461,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 38163
+        },
+        {
+          "date": "2019-04-16",
+          "views": 43800
+        },
+        {
+          "date": "2019-04-17",
+          "views": 42068
+        },
+        {
+          "date": "2019-04-18",
+          "views": 60277
+        },
+        {
+          "date": "2019-04-19",
+          "views": 66314
+        },
+        {
+          "date": "2019-04-20",
+          "views": 73108
+        },
+        {
+          "date": "2019-04-21",
+          "views": 42731
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=RSI%20LA2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=RSI_LA2",
+      "article_url": "https://it.wikipedia.org/wiki/RSI_LA2",
+      "description": "rete televisiva della Svizzera italiana",
+      "image_filename": "RSI_La_2_2012.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_2_2012.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Il_Trono_di_Spade_(serie_televisiva)",
+      "views": 251098,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 87133
+        },
+        {
+          "date": "2019-04-16",
+          "views": 43548
+        },
+        {
+          "date": "2019-04-17",
+          "views": 27045
+        },
+        {
+          "date": "2019-04-18",
+          "views": 22896
+        },
+        {
+          "date": "2019-04-19",
+          "views": 19518
+        },
+        {
+          "date": "2019-04-20",
+          "views": 18993
+        },
+        {
+          "date": "2019-04-21",
+          "views": 31965
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Trono%20di%20Spade%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Il_Trono_di_Spade_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Trono_di_Spade_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2019)",
+      "image_filename": "Il_Trono_di_Spade.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/27/Il_Trono_di_Spade.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Trono_di_Spade.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Sky_Atlantic_(Italia)",
+      "views": 141785,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 4716
+        },
+        {
+          "date": "2019-04-16",
+          "views": 16740
+        },
+        {
+          "date": "2019-04-17",
+          "views": 19923
+        },
+        {
+          "date": "2019-04-18",
+          "views": 21572
+        },
+        {
+          "date": "2019-04-19",
+          "views": 27888
+        },
+        {
+          "date": "2019-04-20",
+          "views": 37080
+        },
+        {
+          "date": "2019-04-21",
+          "views": 13866
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sky%20Atlantic%20%28Italia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Sky_Atlantic_(Italia)",
+      "article_url": "https://it.wikipedia.org/wiki/Sky_Atlantic_(Italia)",
+      "description": "canale televisivo italiano",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Fabio_Fognini",
+      "views": 136450,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 0
+        },
+        {
+          "date": "2019-04-16",
+          "views": 0
+        },
+        {
+          "date": "2019-04-17",
+          "views": 0
+        },
+        {
+          "date": "2019-04-18",
+          "views": 2570
+        },
+        {
+          "date": "2019-04-19",
+          "views": 6634
+        },
+        {
+          "date": "2019-04-20",
+          "views": 27960
+        },
+        {
+          "date": "2019-04-21",
+          "views": 99286
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fabio%20Fognini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Fabio_Fognini",
+      "article_url": "https://it.wikipedia.org/wiki/Fabio_Fognini",
+      "description": "tennista italiano (1987-)",
+      "image_filename": "Fabio_Fognini_(15803357184).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fabio_Fognini_%2815803357184%29.jpg/1280px-Fabio_Fognini_%2815803357184%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fabio_Fognini_(15803357184).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Episodi_de_Il_Trono_di_Spade_(ottava_stagione)",
+      "views": 132882,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 58141
+        },
+        {
+          "date": "2019-04-16",
+          "views": 23170
+        },
+        {
+          "date": "2019-04-17",
+          "views": 11946
+        },
+        {
+          "date": "2019-04-18",
+          "views": 9120
+        },
+        {
+          "date": "2019-04-19",
+          "views": 8170
+        },
+        {
+          "date": "2019-04-20",
+          "views": 8726
+        },
+        {
+          "date": "2019-04-21",
+          "views": 13609
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20Il%20Trono%20di%20Spade%20%28ottava%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Episodi_de_Il_Trono_di_Spade_(ottava_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_Il_Trono_di_Spade_(ottava_stagione)",
+      "description": "stagione televisiva",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Greta_Thunberg",
+      "views": 130286,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 3105
+        },
+        {
+          "date": "2019-04-16",
+          "views": 5582
+        },
+        {
+          "date": "2019-04-17",
+          "views": 13310
+        },
+        {
+          "date": "2019-04-18",
+          "views": 24551
+        },
+        {
+          "date": "2019-04-19",
+          "views": 38900
+        },
+        {
+          "date": "2019-04-20",
+          "views": 25439
+        },
+        {
+          "date": "2019-04-21",
+          "views": 19399
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Greta%20Thunberg&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Greta_Thunberg",
+      "article_url": "https://it.wikipedia.org/wiki/Greta_Thunberg",
+      "description": "attivista svedese (2003-)",
+      "image_filename": "Greta_Thunberg_in_November_in_Stockholm_(cropped)(2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Greta_Thunberg_in_November_in_Stockholm_%28cropped%29%282%29.jpg/1280px-Greta_Thunberg_in_November_in_Stockholm_%28cropped%29%282%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Greta_Thunberg_in_November_in_Stockholm_(cropped)(2).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Iris_(rete_televisiva)",
+      "views": 115466,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 16947
+        },
+        {
+          "date": "2019-04-16",
+          "views": 20463
+        },
+        {
+          "date": "2019-04-17",
+          "views": 13678
+        },
+        {
+          "date": "2019-04-18",
+          "views": 16124
+        },
+        {
+          "date": "2019-04-19",
+          "views": 13160
+        },
+        {
+          "date": "2019-04-20",
+          "views": 19639
+        },
+        {
+          "date": "2019-04-21",
+          "views": 15455
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Iris_(rete_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Iris_-_Logo_2013.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Notre-Dame_de_Paris",
+      "views": 113577,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 61933
+        },
+        {
+          "date": "2019-04-16",
+          "views": 36190
+        },
+        {
+          "date": "2019-04-17",
+          "views": 6422
+        },
+        {
+          "date": "2019-04-18",
+          "views": 3537
+        },
+        {
+          "date": "2019-04-19",
+          "views": 2428
+        },
+        {
+          "date": "2019-04-20",
+          "views": 1488
+        },
+        {
+          "date": "2019-04-21",
+          "views": 1579
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Notre-Dame%20de%20Paris&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Notre-Dame_de_Paris",
+      "article_url": "https://it.wikipedia.org/wiki/Notre-Dame_de_Paris",
+      "description": "pagina di disambiguazione di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Kayden_Boche",
+      "views": 109867,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 15760
+        },
+        {
+          "date": "2019-04-16",
+          "views": 15688
+        },
+        {
+          "date": "2019-04-17",
+          "views": 15675
+        },
+        {
+          "date": "2019-04-18",
+          "views": 15677
+        },
+        {
+          "date": "2019-04-19",
+          "views": 15685
+        },
+        {
+          "date": "2019-04-20",
+          "views": 15686
+        },
+        {
+          "date": "2019-04-21",
+          "views": 15696
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kayden%20Boche&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Kayden_Boche",
+      "article_url": "https://it.wikipedia.org/wiki/Kayden_Boche",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Sindrome_di_Asperger",
+      "views": 100135,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 3087
+        },
+        {
+          "date": "2019-04-16",
+          "views": 4304
+        },
+        {
+          "date": "2019-04-17",
+          "views": 8259
+        },
+        {
+          "date": "2019-04-18",
+          "views": 22671
+        },
+        {
+          "date": "2019-04-19",
+          "views": 29283
+        },
+        {
+          "date": "2019-04-20",
+          "views": 17910
+        },
+        {
+          "date": "2019-04-21",
+          "views": 14621
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sindrome%20di%20Asperger&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Sindrome_di_Asperger",
+      "article_url": "https://it.wikipedia.org/wiki/Sindrome_di_Asperger",
+      "description": "categoria diagnostica usata fino al 2013 per un disturbo dello spettro autistico",
+      "image_filename": "Riboflavin_penicillinamide.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Riboflavin_penicillinamide.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Riboflavin_penicillinamide.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Rai_Movie",
+      "views": 97853,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 9836
+        },
+        {
+          "date": "2019-04-16",
+          "views": 17967
+        },
+        {
+          "date": "2019-04-17",
+          "views": 15396
+        },
+        {
+          "date": "2019-04-18",
+          "views": 17762
+        },
+        {
+          "date": "2019-04-19",
+          "views": 19885
+        },
+        {
+          "date": "2019-04-20",
+          "views": 11855
+        },
+        {
+          "date": "2019-04-21",
+          "views": 5152
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai%20Movie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Rai_Movie",
+      "article_url": "https://it.wikipedia.org/wiki/Rai_Movie",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Rai_Movie_-_Logo_2017.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rai_Movie_-_Logo_2017.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Juventus_Football_Club",
+      "views": 97381,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 3507
+        },
+        {
+          "date": "2019-04-16",
+          "views": 12919
+        },
+        {
+          "date": "2019-04-17",
+          "views": 20965
+        },
+        {
+          "date": "2019-04-18",
+          "views": 9029
+        },
+        {
+          "date": "2019-04-19",
+          "views": 5792
+        },
+        {
+          "date": "2019-04-20",
+          "views": 26429
+        },
+        {
+          "date": "2019-04-21",
+          "views": 18740
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Juventus%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Juventus_Football_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Juventus_Football_Club",
+      "description": "club calcistico italiano di Torino",
+      "image_filename": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/1280px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy%2C_2020).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "TeleColor",
+      "views": 94639,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 10583
+        },
+        {
+          "date": "2019-04-16",
+          "views": 20836
+        },
+        {
+          "date": "2019-04-17",
+          "views": 19309
+        },
+        {
+          "date": "2019-04-18",
+          "views": 11175
+        },
+        {
+          "date": "2019-04-19",
+          "views": 15693
+        },
+        {
+          "date": "2019-04-20",
+          "views": 4086
+        },
+        {
+          "date": "2019-04-21",
+          "views": 12957
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=TeleColor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=TeleColor",
+      "article_url": "https://it.wikipedia.org/wiki/TeleColor",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Amsterdamsche_Football_Club_Ajax",
+      "views": 90621,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 2109
+        },
+        {
+          "date": "2019-04-16",
+          "views": 28724
+        },
+        {
+          "date": "2019-04-17",
+          "views": 36915
+        },
+        {
+          "date": "2019-04-18",
+          "views": 11088
+        },
+        {
+          "date": "2019-04-19",
+          "views": 4883
+        },
+        {
+          "date": "2019-04-20",
+          "views": 3911
+        },
+        {
+          "date": "2019-04-21",
+          "views": 2991
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Amsterdamsche%20Football%20Club%20Ajax&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Amsterdamsche_Football_Club_Ajax",
+      "article_url": "https://it.wikipedia.org/wiki/Amsterdamsche_Football_Club_Ajax",
+      "description": "club calcistico olandese di Amsterdam",
+      "image_filename": "Logo_AFC_Ajax_(1928-1991,_2025-).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_AFC_Ajax_(1928-1991%2C_2025-).png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Cristiano_Ronaldo",
+      "views": 80957,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 4532
+        },
+        {
+          "date": "2019-04-16",
+          "views": 15434
+        },
+        {
+          "date": "2019-04-17",
+          "views": 18533
+        },
+        {
+          "date": "2019-04-18",
+          "views": 9296
+        },
+        {
+          "date": "2019-04-19",
+          "views": 6243
+        },
+        {
+          "date": "2019-04-20",
+          "views": 14205
+        },
+        {
+          "date": "2019-04-21",
+          "views": 12714
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Cristiano_Ronaldo",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "description": "calciatore portoghese (1985-)",
+      "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Sri_Lanka",
+      "views": 78735,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 0
+        },
+        {
+          "date": "2019-04-16",
+          "views": 0
+        },
+        {
+          "date": "2019-04-17",
+          "views": 0
+        },
+        {
+          "date": "2019-04-18",
+          "views": 0
+        },
+        {
+          "date": "2019-04-19",
+          "views": 0
+        },
+        {
+          "date": "2019-04-20",
+          "views": 0
+        },
+        {
+          "date": "2019-04-21",
+          "views": 78735
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sri%20Lanka&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Sri_Lanka",
+      "article_url": "https://it.wikipedia.org/wiki/Sri_Lanka",
+      "description": "repubblica insulare dell'Asia meridionale",
+      "image_filename": "Flag_of_Sri_Lanka.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1280px-Flag_of_Sri_Lanka.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Sri_Lanka.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 21,
+      "article": "Pasqua",
+      "views": 75815,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 3939
+        },
+        {
+          "date": "2019-04-16",
+          "views": 3995
+        },
+        {
+          "date": "2019-04-17",
+          "views": 4153
+        },
+        {
+          "date": "2019-04-18",
+          "views": 5982
+        },
+        {
+          "date": "2019-04-19",
+          "views": 10421
+        },
+        {
+          "date": "2019-04-20",
+          "views": 16295
+        },
+        {
+          "date": "2019-04-21",
+          "views": 31030
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pasqua&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Pasqua",
+      "article_url": "https://it.wikipedia.org/wiki/Pasqua",
+      "description": "festivit\u00e0 del cristianesimo",
+      "image_filename": "Resurrezione_Piero_della_Francesca_post_restauro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Resurrezione_Piero_della_Francesca_post_restauro.jpg/1016px-Resurrezione_Piero_della_Francesca_post_restauro.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Resurrezione_Piero_della_Francesca_post_restauro.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Fox_Sports",
+      "views": 75535,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 14624
+        },
+        {
+          "date": "2019-04-16",
+          "views": 13306
+        },
+        {
+          "date": "2019-04-17",
+          "views": 1944
+        },
+        {
+          "date": "2019-04-18",
+          "views": 2290
+        },
+        {
+          "date": "2019-04-19",
+          "views": 5177
+        },
+        {
+          "date": "2019-04-20",
+          "views": 20086
+        },
+        {
+          "date": "2019-04-21",
+          "views": 18108
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fox%20Sports&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Fox_Sports",
+      "article_url": "https://it.wikipedia.org/wiki/Fox_Sports",
+      "description": "divisione del gruppo televisivo statunitense Fox Broadcasting Company",
+      "image_filename": "FOX_Sports_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FOX_Sports_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Albo_d'oro_della_UEFA_Champions_League",
+      "views": 74953,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 1378
+        },
+        {
+          "date": "2019-04-16",
+          "views": 11408
+        },
+        {
+          "date": "2019-04-17",
+          "views": 29418
+        },
+        {
+          "date": "2019-04-18",
+          "views": 13475
+        },
+        {
+          "date": "2019-04-19",
+          "views": 6635
+        },
+        {
+          "date": "2019-04-20",
+          "views": 6964
+        },
+        {
+          "date": "2019-04-21",
+          "views": 5675
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Albo%20d%27oro%20della%20UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Albo_d%27oro_della_UEFA_Champions_League",
+      "article_url": "https://it.wikipedia.org/wiki/Albo_d%27oro_della_UEFA_Champions_League",
+      "description": "lista di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Notre-Dame_de_Paris_(romanzo)",
+      "views": 65648,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 18051
+        },
+        {
+          "date": "2019-04-16",
+          "views": 31644
+        },
+        {
+          "date": "2019-04-17",
+          "views": 8057
+        },
+        {
+          "date": "2019-04-18",
+          "views": 3394
+        },
+        {
+          "date": "2019-04-19",
+          "views": 1845
+        },
+        {
+          "date": "2019-04-20",
+          "views": 1365
+        },
+        {
+          "date": "2019-04-21",
+          "views": 1292
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Notre-Dame%20de%20Paris%20%28romanzo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=Notre-Dame_de_Paris_(romanzo)",
+      "article_url": "https://it.wikipedia.org/wiki/Notre-Dame_de_Paris_(romanzo)",
+      "description": "romanzo scritto da Victor Hugo",
+      "image_filename": "Notre_Dame_de_Paris_Victor_Hugo_Manuscrit_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Notre_Dame_de_Paris_Victor_Hugo_Manuscrit_1.jpg/1280px-Notre_Dame_de_Paris_Victor_Hugo_Manuscrit_1.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_Paris_Victor_Hugo_Manuscrit_1.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "UEFA_Champions_League",
+      "views": 62186,
+      "daily_views": [
+        {
+          "date": "2019-04-15",
+          "views": 1985
+        },
+        {
+          "date": "2019-04-16",
+          "views": 11810
+        },
+        {
+          "date": "2019-04-17",
+          "views": 22257
+        },
+        {
+          "date": "2019-04-18",
+          "views": 10183
+        },
+        {
+          "date": "2019-04-19",
+          "views": 5130
+        },
+        {
+          "date": "2019-04-20",
+          "views": 5942
+        },
+        {
+          "date": "2019-04-21",
+          "views": 4879
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/15/2019,cd_max:04/21/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-04-15&end=2019-04-21&pages=UEFA_Champions_League",
+      "article_url": "https://it.wikipedia.org/wiki/UEFA_Champions_League",
+      "description": "massima competizione calcistica UEFA per squadre di club",
+      "image_filename": "UEFA_Champions_League_logo_(2021).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/UEFA_Champions_League_logo_%282021%29.svg/1280px-UEFA_Champions_League_logo_%282021%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Champions_League_logo_(2021).svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

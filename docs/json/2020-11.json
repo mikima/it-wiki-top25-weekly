@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2020,
+  "week": 11,
+  "start_date": "2020-03-09",
+  "end_date": "2020-03-15",
+  "days": [
+    "2020-03-09",
+    "2020-03-10",
+    "2020-03-11",
+    "2020-03-12",
+    "2020-03-13",
+    "2020-03-14",
+    "2020-03-15"
+  ],
+  "total_articles": 2441,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Pandemia",
+      "views": 869668,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 68213
+        },
+        {
+          "date": "2020-03-10",
+          "views": 54201
+        },
+        {
+          "date": "2020-03-11",
+          "views": 562177
+        },
+        {
+          "date": "2020-03-12",
+          "views": 111522
+        },
+        {
+          "date": "2020-03-13",
+          "views": 34339
+        },
+        {
+          "date": "2020-03-14",
+          "views": 22269
+        },
+        {
+          "date": "2020-03-15",
+          "views": 16947
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pandemia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Pandemia",
+      "article_url": "https://it.wikipedia.org/wiki/Pandemia",
+      "description": "epidemia la cui diffusione interessa pi\u00f9 aree geografiche del mondo",
+      "image_filename": "1918FluVictimsStLouis.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1918FluVictimsStLouis.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:1918FluVictimsStLouis.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Influenza_spagnola",
+      "views": 415367,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 41351
+        },
+        {
+          "date": "2020-03-10",
+          "views": 33758
+        },
+        {
+          "date": "2020-03-11",
+          "views": 63808
+        },
+        {
+          "date": "2020-03-12",
+          "views": 73716
+        },
+        {
+          "date": "2020-03-13",
+          "views": 78156
+        },
+        {
+          "date": "2020-03-14",
+          "views": 64116
+        },
+        {
+          "date": "2020-03-15",
+          "views": 60462
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Influenza%20spagnola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Influenza_spagnola",
+      "article_url": "https://it.wikipedia.org/wiki/Influenza_spagnola",
+      "description": "pandemia dal 1918 al 1920",
+      "image_filename": "Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Reconstructed_Spanish_Flu_Virus.jpg/1280px-Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Coronavirus",
+      "views": 285777,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 50289
+        },
+        {
+          "date": "2020-03-10",
+          "views": 47341
+        },
+        {
+          "date": "2020-03-11",
+          "views": 53201
+        },
+        {
+          "date": "2020-03-12",
+          "views": 46948
+        },
+        {
+          "date": "2020-03-13",
+          "views": 38010
+        },
+        {
+          "date": "2020-03-14",
+          "views": 25688
+        },
+        {
+          "date": "2020-03-15",
+          "views": 24300
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Coronavirus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Coronavirus",
+      "article_url": "https://it.wikipedia.org/wiki/Coronavirus",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Giuseppe_Conte",
+      "views": 257775,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 25328
+        },
+        {
+          "date": "2020-03-10",
+          "views": 18131
+        },
+        {
+          "date": "2020-03-11",
+          "views": 39469
+        },
+        {
+          "date": "2020-03-12",
+          "views": 31750
+        },
+        {
+          "date": "2020-03-13",
+          "views": 39185
+        },
+        {
+          "date": "2020-03-14",
+          "views": 53095
+        },
+        {
+          "date": "2020-03-15",
+          "views": 50817
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giuseppe%20Conte&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Giuseppe_Conte",
+      "article_url": "https://it.wikipedia.org/wiki/Giuseppe_Conte",
+      "description": "politico e avvocato italiano (1964-)",
+      "image_filename": "Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Giuseppe_Conte_-_Quirinale_2022_%28cropped2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Pandemia_di_COVID-19_del_2020_in_Italia",
+      "views": 232780,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 0
+        },
+        {
+          "date": "2020-03-10",
+          "views": 0
+        },
+        {
+          "date": "2020-03-11",
+          "views": 0
+        },
+        {
+          "date": "2020-03-12",
+          "views": 54338
+        },
+        {
+          "date": "2020-03-13",
+          "views": 63647
+        },
+        {
+          "date": "2020-03-14",
+          "views": 61298
+        },
+        {
+          "date": "2020-03-15",
+          "views": 53497
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pandemia%20di%20COVID-19%20del%202020%20in%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Pandemia_di_COVID-19_del_2020_in_Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Pandemia_di_COVID-19_del_2020_in_Italia",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "COVID-19",
+      "views": 212266,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 33894
+        },
+        {
+          "date": "2020-03-10",
+          "views": 35621
+        },
+        {
+          "date": "2020-03-11",
+          "views": 31799
+        },
+        {
+          "date": "2020-03-12",
+          "views": 34503
+        },
+        {
+          "date": "2020-03-13",
+          "views": 25797
+        },
+        {
+          "date": "2020-03-14",
+          "views": 22180
+        },
+        {
+          "date": "2020-03-15",
+          "views": 28472
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=COVID-19&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=COVID-19",
+      "article_url": "https://it.wikipedia.org/wiki/COVID-19",
+      "description": "malattia infettiva respiratoria causata dal ceppo patogeno SARS-CoV-2",
+      "image_filename": "Fphar-11-00937-g001.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fphar-11-00937-g001.jpg/1280px-Fphar-11-00937-g001.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fphar-11-00937-g001.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Epidemia_di_COVID-19_del_2020_in_Italia",
+      "views": 195555,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 52643
+        },
+        {
+          "date": "2020-03-10",
+          "views": 44641
+        },
+        {
+          "date": "2020-03-11",
+          "views": 54784
+        },
+        {
+          "date": "2020-03-12",
+          "views": 17333
+        },
+        {
+          "date": "2020-03-13",
+          "views": 9692
+        },
+        {
+          "date": "2020-03-14",
+          "views": 7116
+        },
+        {
+          "date": "2020-03-15",
+          "views": 9346
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20COVID-19%20del%202020%20in%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Epidemia_di_COVID-19_del_2020_in_Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_COVID-19_del_2020_in_Italia",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Rai",
+      "views": 193107,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 28968
+        },
+        {
+          "date": "2020-03-10",
+          "views": 25593
+        },
+        {
+          "date": "2020-03-11",
+          "views": 23378
+        },
+        {
+          "date": "2020-03-12",
+          "views": 27903
+        },
+        {
+          "date": "2020-03-13",
+          "views": 28725
+        },
+        {
+          "date": "2020-03-14",
+          "views": 29531
+        },
+        {
+          "date": "2020-03-15",
+          "views": 29009
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Peste_nera",
+      "views": 190575,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 19600
+        },
+        {
+          "date": "2020-03-10",
+          "views": 17539
+        },
+        {
+          "date": "2020-03-11",
+          "views": 21978
+        },
+        {
+          "date": "2020-03-12",
+          "views": 31251
+        },
+        {
+          "date": "2020-03-13",
+          "views": 40385
+        },
+        {
+          "date": "2020-03-14",
+          "views": 30701
+        },
+        {
+          "date": "2020-03-15",
+          "views": 29121
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Peste%20nera&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Peste_nera",
+      "article_url": "https://it.wikipedia.org/wiki/Peste_nera",
+      "description": "pandemia di peste del XIV secolo",
+      "image_filename": "Trionfo_della_morte,_gi\u00e0_a_palazzo_sclafani,_galleria_regionale_di_Palazzo_Abbatellis,_palermo_(1446)_,_affresco_staccato.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_%281446%29_%2C_affresco_staccato.jpg/1280px-Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_%281446%29_%2C_affresco_staccato.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_(1446)_%2C_affresco_staccato.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "Epidemia_di_COVID-19_del_2019-2020",
+      "views": 186543,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 68874
+        },
+        {
+          "date": "2020-03-10",
+          "views": 53395
+        },
+        {
+          "date": "2020-03-11",
+          "views": 51968
+        },
+        {
+          "date": "2020-03-12",
+          "views": 12306
+        },
+        {
+          "date": "2020-03-13",
+          "views": 0
+        },
+        {
+          "date": "2020-03-14",
+          "views": 0
+        },
+        {
+          "date": "2020-03-15",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20COVID-19%20del%202019-2020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Epidemia_di_COVID-19_del_2019-2020",
+      "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_COVID-19_del_2019-2020",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Alessandro_Manzoni",
+      "views": 184837,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 38697
+        },
+        {
+          "date": "2020-03-10",
+          "views": 24027
+        },
+        {
+          "date": "2020-03-11",
+          "views": 40477
+        },
+        {
+          "date": "2020-03-12",
+          "views": 27559
+        },
+        {
+          "date": "2020-03-13",
+          "views": 25122
+        },
+        {
+          "date": "2020-03-14",
+          "views": 14410
+        },
+        {
+          "date": "2020-03-15",
+          "views": 14545
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alessandro%20Manzoni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Alessandro_Manzoni",
+      "article_url": "https://it.wikipedia.org/wiki/Alessandro_Manzoni",
+      "description": "scrittore e poeta italiano (1785-1873)",
+      "image_filename": "Ritratto_di_Alessandro_Manzoni_by_Francesco_Hayez.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ritratto_di_Alessandro_Manzoni_by_Francesco_Hayez.jpg/1280px-Ritratto_di_Alessandro_Manzoni_by_Francesco_Hayez.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ritratto_di_Alessandro_Manzoni_by_Francesco_Hayez.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "\u00c9lite_(serie_televisiva)",
+      "views": 181579,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 4065
+        },
+        {
+          "date": "2020-03-10",
+          "views": 5493
+        },
+        {
+          "date": "2020-03-11",
+          "views": 6020
+        },
+        {
+          "date": "2020-03-12",
+          "views": 10885
+        },
+        {
+          "date": "2020-03-13",
+          "views": 49007
+        },
+        {
+          "date": "2020-03-14",
+          "views": 56067
+        },
+        {
+          "date": "2020-03-15",
+          "views": 50042
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=%C3%89lite%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=%C3%89lite_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/%C3%89lite_(serie_televisiva)",
+      "description": "serie televisiva spagnola (2018-2024)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Tocilizumab",
+      "views": 181160,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 19242
+        },
+        {
+          "date": "2020-03-10",
+          "views": 9992
+        },
+        {
+          "date": "2020-03-11",
+          "views": 52500
+        },
+        {
+          "date": "2020-03-12",
+          "views": 43440
+        },
+        {
+          "date": "2020-03-13",
+          "views": 21257
+        },
+        {
+          "date": "2020-03-14",
+          "views": 19031
+        },
+        {
+          "date": "2020-03-15",
+          "views": 15698
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tocilizumab&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Tocilizumab",
+      "article_url": "https://it.wikipedia.org/wiki/Tocilizumab",
+      "description": "Anticorpo monoclonale",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "SARS-CoV-2",
+      "views": 167952,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 31196
+        },
+        {
+          "date": "2020-03-10",
+          "views": 26908
+        },
+        {
+          "date": "2020-03-11",
+          "views": 33242
+        },
+        {
+          "date": "2020-03-12",
+          "views": 26353
+        },
+        {
+          "date": "2020-03-13",
+          "views": 18725
+        },
+        {
+          "date": "2020-03-14",
+          "views": 15190
+        },
+        {
+          "date": "2020-03-15",
+          "views": 16338
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=SARS-CoV-2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=SARS-CoV-2",
+      "article_url": "https://it.wikipedia.org/wiki/SARS-CoV-2",
+      "description": "specie di virus della famiglia Coronaviridae",
+      "image_filename": "Coronavirus._SARS-CoV-2.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1280px-Coronavirus._SARS-CoV-2.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronavirus._SARS-CoV-2.png",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Giacomo_Leopardi",
+      "views": 167886,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 35948
+        },
+        {
+          "date": "2020-03-10",
+          "views": 20880
+        },
+        {
+          "date": "2020-03-11",
+          "views": 37173
+        },
+        {
+          "date": "2020-03-12",
+          "views": 24775
+        },
+        {
+          "date": "2020-03-13",
+          "views": 22518
+        },
+        {
+          "date": "2020-03-14",
+          "views": 13188
+        },
+        {
+          "date": "2020-03-15",
+          "views": 13404
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giacomo%20Leopardi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Giacomo_Leopardi",
+      "article_url": "https://it.wikipedia.org/wiki/Giacomo_Leopardi",
+      "description": "poeta, filosofo, scrittore e filologo italiano (1798-1837)",
+      "image_filename": "Giacomo_Leopardi_Morelli.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Giacomo_Leopardi_Morelli.jpg/1161px-Giacomo_Leopardi_Morelli.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giacomo_Leopardi_Morelli.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Epidemia_di_COVID-19_del_2019-2020_nel_mondo",
+      "views": 167011,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 82958
+        },
+        {
+          "date": "2020-03-10",
+          "views": 23753
+        },
+        {
+          "date": "2020-03-11",
+          "views": 33803
+        },
+        {
+          "date": "2020-03-12",
+          "views": 12092
+        },
+        {
+          "date": "2020-03-13",
+          "views": 6608
+        },
+        {
+          "date": "2020-03-14",
+          "views": 6180
+        },
+        {
+          "date": "2020-03-15",
+          "views": 1617
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20COVID-19%20del%202019-2020%20nel%20mondo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Epidemia_di_COVID-19_del_2019-2020_nel_mondo",
+      "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_COVID-19_del_2019-2020_nel_mondo",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Peste",
+      "views": 166719,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 14177
+        },
+        {
+          "date": "2020-03-10",
+          "views": 13244
+        },
+        {
+          "date": "2020-03-11",
+          "views": 14328
+        },
+        {
+          "date": "2020-03-12",
+          "views": 28561
+        },
+        {
+          "date": "2020-03-13",
+          "views": 45462
+        },
+        {
+          "date": "2020-03-14",
+          "views": 29748
+        },
+        {
+          "date": "2020-03-15",
+          "views": 21199
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Peste&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Peste",
+      "article_url": "https://it.wikipedia.org/wiki/Peste",
+      "description": "malattia infettiva",
+      "image_filename": "Yersinia_pestis.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yersinia_pestis.jpg/1280px-Yersinia_pestis.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Yersinia_pestis.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Immunit\u00e0_di_gregge",
+      "views": 144395,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 1858
+        },
+        {
+          "date": "2020-03-10",
+          "views": 9570
+        },
+        {
+          "date": "2020-03-11",
+          "views": 7878
+        },
+        {
+          "date": "2020-03-12",
+          "views": 5378
+        },
+        {
+          "date": "2020-03-13",
+          "views": 33203
+        },
+        {
+          "date": "2020-03-14",
+          "views": 50305
+        },
+        {
+          "date": "2020-03-15",
+          "views": 36203
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Immunit%C3%A0%20di%20gregge&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Immunit%C3%A0_di_gregge",
+      "article_url": "https://it.wikipedia.org/wiki/Immunit%C3%A0_di_gregge",
+      "description": "protezione indiretta di una popolazione per le malattie trasmissibili",
+      "image_filename": "Herd_immunity.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Herd_immunity.svg/1280px-Herd_immunity.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Herd_immunity.svg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Pandemia_di_COVID-19_del_2019-2020",
+      "views": 140404,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 0
+        },
+        {
+          "date": "2020-03-10",
+          "views": 0
+        },
+        {
+          "date": "2020-03-11",
+          "views": 2601
+        },
+        {
+          "date": "2020-03-12",
+          "views": 36859
+        },
+        {
+          "date": "2020-03-13",
+          "views": 32965
+        },
+        {
+          "date": "2020-03-14",
+          "views": 29268
+        },
+        {
+          "date": "2020-03-15",
+          "views": 38711
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pandemia%20di%20COVID-19%20del%202019-2020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Pandemia_di_COVID-19_del_2019-2020",
+      "article_url": "https://it.wikipedia.org/wiki/Pandemia_di_COVID-19_del_2019-2020",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Guido_Bertolaso",
+      "views": 117656,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 20058
+        },
+        {
+          "date": "2020-03-10",
+          "views": 15335
+        },
+        {
+          "date": "2020-03-11",
+          "views": 7328
+        },
+        {
+          "date": "2020-03-12",
+          "views": 3042
+        },
+        {
+          "date": "2020-03-13",
+          "views": 0
+        },
+        {
+          "date": "2020-03-14",
+          "views": 25262
+        },
+        {
+          "date": "2020-03-15",
+          "views": 46631
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guido%20Bertolaso&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Guido_Bertolaso",
+      "article_url": "https://it.wikipedia.org/wiki/Guido_Bertolaso",
+      "description": "funzionario e medico italiano",
+      "image_filename": "Guido_Bertolaso_crop.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Guido_Bertolaso_crop.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Guido_Bertolaso_crop.jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Virus_(biologia)",
+      "views": 117423,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 16169
+        },
+        {
+          "date": "2020-03-10",
+          "views": 16391
+        },
+        {
+          "date": "2020-03-11",
+          "views": 17627
+        },
+        {
+          "date": "2020-03-12",
+          "views": 17510
+        },
+        {
+          "date": "2020-03-13",
+          "views": 15895
+        },
+        {
+          "date": "2020-03-14",
+          "views": 15574
+        },
+        {
+          "date": "2020-03-15",
+          "views": 18257
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Virus%20%28biologia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Virus_(biologia)",
+      "article_url": "https://it.wikipedia.org/wiki/Virus_(biologia)",
+      "description": "entit\u00e0 biologica",
+      "image_filename": "Rotavirus_Reconstruction.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rotavirus_Reconstruction.jpg/1280px-Rotavirus_Reconstruction.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rotavirus_Reconstruction.jpg",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Italia",
+      "views": 110183,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 13685
+        },
+        {
+          "date": "2020-03-10",
+          "views": 14732
+        },
+        {
+          "date": "2020-03-11",
+          "views": 15663
+        },
+        {
+          "date": "2020-03-12",
+          "views": 15166
+        },
+        {
+          "date": "2020-03-13",
+          "views": 15618
+        },
+        {
+          "date": "2020-03-14",
+          "views": 16606
+        },
+        {
+          "date": "2020-03-15",
+          "views": 18713
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "SARS",
+      "views": 109516,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 18373
+        },
+        {
+          "date": "2020-03-10",
+          "views": 14040
+        },
+        {
+          "date": "2020-03-11",
+          "views": 17118
+        },
+        {
+          "date": "2020-03-12",
+          "views": 17641
+        },
+        {
+          "date": "2020-03-13",
+          "views": 13507
+        },
+        {
+          "date": "2020-03-14",
+          "views": 13675
+        },
+        {
+          "date": "2020-03-15",
+          "views": 15162
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=SARS&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=SARS",
+      "article_url": "https://it.wikipedia.org/wiki/SARS",
+      "description": "sindrome respiratoria acuta grave",
+      "image_filename": "Coronaviruses_004_lores.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/1280px-Coronaviruses_004_lores.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronaviruses_004_lores.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Riverdale_(serie_televisiva)",
+      "views": 108102,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 12248
+        },
+        {
+          "date": "2020-03-10",
+          "views": 14059
+        },
+        {
+          "date": "2020-03-11",
+          "views": 14841
+        },
+        {
+          "date": "2020-03-12",
+          "views": 18237
+        },
+        {
+          "date": "2020-03-13",
+          "views": 15637
+        },
+        {
+          "date": "2020-03-14",
+          "views": 16040
+        },
+        {
+          "date": "2020-03-15",
+          "views": 17040
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Riverdale%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Riverdale_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Riverdale_(serie_televisiva)",
+      "description": "serie televisiva statunitense del 2017",
+      "image_filename": "Riverdale.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1b/Riverdale.jpg/1280px-Riverdale.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Riverdale.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Pandemia_influenzale_del_2009",
+      "views": 96540,
+      "daily_views": [
+        {
+          "date": "2020-03-09",
+          "views": 9233
+        },
+        {
+          "date": "2020-03-10",
+          "views": 7049
+        },
+        {
+          "date": "2020-03-11",
+          "views": 29314
+        },
+        {
+          "date": "2020-03-12",
+          "views": 22065
+        },
+        {
+          "date": "2020-03-13",
+          "views": 11664
+        },
+        {
+          "date": "2020-03-14",
+          "views": 8585
+        },
+        {
+          "date": "2020-03-15",
+          "views": 8630
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pandemia%20influenzale%20del%202009&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/09/2020,cd_max:03/15/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-09&end=2020-03-15&pages=Pandemia_influenzale_del_2009",
+      "article_url": "https://it.wikipedia.org/wiki/Pandemia_influenzale_del_2009",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

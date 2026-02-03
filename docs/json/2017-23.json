@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2017,
+  "week": 23,
+  "start_date": "2017-06-05",
+  "end_date": "2017-06-11",
+  "days": [
+    "2017-06-05",
+    "2017-06-06",
+    "2017-06-07",
+    "2017-06-08",
+    "2017-06-09",
+    "2017-06-10",
+    "2017-06-11"
+  ],
+  "total_articles": 2556,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Salvatore_Riina",
+      "views": 325030,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 50330
+        },
+        {
+          "date": "2017-06-06",
+          "views": 117052
+        },
+        {
+          "date": "2017-06-07",
+          "views": 76091
+        },
+        {
+          "date": "2017-06-08",
+          "views": 36057
+        },
+        {
+          "date": "2017-06-09",
+          "views": 18593
+        },
+        {
+          "date": "2017-06-10",
+          "views": 16315
+        },
+        {
+          "date": "2017-06-11",
+          "views": 10592
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Salvatore%20Riina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Salvatore_Riina",
+      "article_url": "https://it.wikipedia.org/wiki/Salvatore_Riina",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Benevento_Calcio",
+      "views": 104688,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 3958
+        },
+        {
+          "date": "2017-06-06",
+          "views": 2342
+        },
+        {
+          "date": "2017-06-07",
+          "views": 2526
+        },
+        {
+          "date": "2017-06-08",
+          "views": 43948
+        },
+        {
+          "date": "2017-06-09",
+          "views": 39285
+        },
+        {
+          "date": "2017-06-10",
+          "views": 8599
+        },
+        {
+          "date": "2017-06-11",
+          "views": 4030
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Benevento%20Calcio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Benevento_Calcio",
+      "article_url": "https://it.wikipedia.org/wiki/Benevento_Calcio",
+      "description": "club calcistico italiano di Benevento",
+      "image_filename": "Benevento_Calcio.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/31/Benevento_Calcio.svg/1280px-Benevento_Calcio.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Benevento_Calcio.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Cristiano_Ronaldo",
+      "views": 96371,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 30881
+        },
+        {
+          "date": "2017-06-06",
+          "views": 15268
+        },
+        {
+          "date": "2017-06-07",
+          "views": 13843
+        },
+        {
+          "date": "2017-06-08",
+          "views": 9266
+        },
+        {
+          "date": "2017-06-09",
+          "views": 8722
+        },
+        {
+          "date": "2017-06-10",
+          "views": 7664
+        },
+        {
+          "date": "2017-06-11",
+          "views": 10727
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Cristiano_Ronaldo",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "description": "calciatore portoghese (1985-)",
+      "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Ariana_Grande",
+      "views": 96236,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 57518
+        },
+        {
+          "date": "2017-06-06",
+          "views": 16066
+        },
+        {
+          "date": "2017-06-07",
+          "views": 7150
+        },
+        {
+          "date": "2017-06-08",
+          "views": 4786
+        },
+        {
+          "date": "2017-06-09",
+          "views": 3954
+        },
+        {
+          "date": "2017-06-10",
+          "views": 3696
+        },
+        {
+          "date": "2017-06-11",
+          "views": 3066
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ariana%20Grande&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Ariana_Grande",
+      "article_url": "https://it.wikipedia.org/wiki/Ariana_Grande",
+      "description": "cantautrice e attrice statunitense",
+      "image_filename": "Ariana_Grande_promoting_Wicked_(2024).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ariana_Grande_promoting_Wicked_(2024).jpg",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Omicidio_di_Giuseppe_Di_Matteo",
+      "views": 93414,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 3250
+        },
+        {
+          "date": "2017-06-06",
+          "views": 24731
+        },
+        {
+          "date": "2017-06-07",
+          "views": 34969
+        },
+        {
+          "date": "2017-06-08",
+          "views": 18288
+        },
+        {
+          "date": "2017-06-09",
+          "views": 6701
+        },
+        {
+          "date": "2017-06-10",
+          "views": 3389
+        },
+        {
+          "date": "2017-06-11",
+          "views": 2086
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Omicidio%20di%20Giuseppe%20Di%20Matteo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Omicidio_di_Giuseppe_Di_Matteo",
+      "article_url": "https://it.wikipedia.org/wiki/Omicidio_di_Giuseppe_Di_Matteo",
+      "description": "vittima di mafia nel 1996",
+      "image_filename": "Di-matteo-cavallo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/e/ee/Di-matteo-cavallo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Di-matteo-cavallo.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Andr\u00e9_Silva",
+      "views": 89642,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 2398
+        },
+        {
+          "date": "2017-06-06",
+          "views": 0
+        },
+        {
+          "date": "2017-06-07",
+          "views": 2941
+        },
+        {
+          "date": "2017-06-08",
+          "views": 3212
+        },
+        {
+          "date": "2017-06-09",
+          "views": 6543
+        },
+        {
+          "date": "2017-06-10",
+          "views": 5282
+        },
+        {
+          "date": "2017-06-11",
+          "views": 69266
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andr%C3%A9%20Silva&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Andr%C3%A9_Silva",
+      "article_url": "https://it.wikipedia.org/wiki/Andr%C3%A9_Silva",
+      "description": "calciatore portoghese (1995-)",
+      "image_filename": "Andr\u00e9_Silva_2021.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Andr%C3%A9_Silva_2021.jpg/1280px-Andr%C3%A9_Silva_2021.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Silva_2021.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Liechtenstein",
+      "views": 78536,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 0
+        },
+        {
+          "date": "2017-06-06",
+          "views": 0
+        },
+        {
+          "date": "2017-06-07",
+          "views": 1350
+        },
+        {
+          "date": "2017-06-08",
+          "views": 1080
+        },
+        {
+          "date": "2017-06-09",
+          "views": 1091
+        },
+        {
+          "date": "2017-06-10",
+          "views": 1737
+        },
+        {
+          "date": "2017-06-11",
+          "views": 73278
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Liechtenstein&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Liechtenstein",
+      "article_url": "https://it.wikipedia.org/wiki/Liechtenstein",
+      "description": "Stato dell'Europa centrale",
+      "image_filename": "Flag_of_Liechtenstein.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1280px-Flag_of_Liechtenstein.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 8,
+      "article": "Albo_d'oro_della_UEFA_Champions_League",
+      "views": 77752,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 33533
+        },
+        {
+          "date": "2017-06-06",
+          "views": 16191
+        },
+        {
+          "date": "2017-06-07",
+          "views": 9943
+        },
+        {
+          "date": "2017-06-08",
+          "views": 6756
+        },
+        {
+          "date": "2017-06-09",
+          "views": 4474
+        },
+        {
+          "date": "2017-06-10",
+          "views": 3849
+        },
+        {
+          "date": "2017-06-11",
+          "views": 3006
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Albo%20d%27oro%20della%20UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Albo_d%27oro_della_UEFA_Champions_League",
+      "article_url": "https://it.wikipedia.org/wiki/Albo_d%27oro_della_UEFA_Champions_League",
+      "description": "lista di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Micropalo",
+      "views": 76240,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 0
+        },
+        {
+          "date": "2017-06-06",
+          "views": 0
+        },
+        {
+          "date": "2017-06-07",
+          "views": 0
+        },
+        {
+          "date": "2017-06-08",
+          "views": 0
+        },
+        {
+          "date": "2017-06-09",
+          "views": 76240
+        },
+        {
+          "date": "2017-06-10",
+          "views": 0
+        },
+        {
+          "date": "2017-06-11",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Micropalo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Micropalo",
+      "article_url": "https://it.wikipedia.org/wiki/Micropalo",
+      "description": "palo di fondazione",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Qualificazioni_al_campionato_mondiale_di_calcio_2018_-_UEFA",
+      "views": 75510,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 3082
+        },
+        {
+          "date": "2017-06-06",
+          "views": 2563
+        },
+        {
+          "date": "2017-06-07",
+          "views": 5840
+        },
+        {
+          "date": "2017-06-08",
+          "views": 4609
+        },
+        {
+          "date": "2017-06-09",
+          "views": 7061
+        },
+        {
+          "date": "2017-06-10",
+          "views": 10952
+        },
+        {
+          "date": "2017-06-11",
+          "views": 41403
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Qualificazioni%20al%20campionato%20mondiale%20di%20calcio%202018%20-%20UEFA&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Qualificazioni_al_campionato_mondiale_di_calcio_2018_-_UEFA",
+      "article_url": "https://it.wikipedia.org/wiki/Qualificazioni_al_campionato_mondiale_di_calcio_2018_-_UEFA",
+      "description": "Prima fase eliminatoria dei mondiali in Russia 2018",
+      "image_filename": "Logo_UEFA_European_Qualifiers_(2015).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a6/Logo_UEFA_European_Qualifiers_%282015%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_UEFA_European_Qualifiers_(2015).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Benevento",
+      "views": 71561,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 2438
+        },
+        {
+          "date": "2017-06-06",
+          "views": 1500
+        },
+        {
+          "date": "2017-06-07",
+          "views": 1594
+        },
+        {
+          "date": "2017-06-08",
+          "views": 26754
+        },
+        {
+          "date": "2017-06-09",
+          "views": 31218
+        },
+        {
+          "date": "2017-06-10",
+          "views": 5559
+        },
+        {
+          "date": "2017-06-11",
+          "views": 2498
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Benevento&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Benevento",
+      "article_url": "https://it.wikipedia.org/wiki/Benevento",
+      "description": "comune italiano, capoluogo dell'omonima provincia in Campania",
+      "image_filename": "Benevento-Bandiera_(Variante).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Benevento-Bandiera_%28Variante%29.svg/1280px-Benevento-Bandiera_%28Variante%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Benevento-Bandiera_(Variante).svg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Pirati_dei_Caraibi",
+      "views": 65604,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 12255
+        },
+        {
+          "date": "2017-06-06",
+          "views": 10148
+        },
+        {
+          "date": "2017-06-07",
+          "views": 9344
+        },
+        {
+          "date": "2017-06-08",
+          "views": 8297
+        },
+        {
+          "date": "2017-06-09",
+          "views": 7550
+        },
+        {
+          "date": "2017-06-10",
+          "views": 8533
+        },
+        {
+          "date": "2017-06-11",
+          "views": 9477
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pirati%20dei%20Caraibi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Pirati_dei_Caraibi",
+      "article_url": "https://it.wikipedia.org/wiki/Pirati_dei_Caraibi",
+      "description": "serie di film",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Vanessa_Incontrada",
+      "views": 63581,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 22981
+        },
+        {
+          "date": "2017-06-06",
+          "views": 21893
+        },
+        {
+          "date": "2017-06-07",
+          "views": 6097
+        },
+        {
+          "date": "2017-06-08",
+          "views": 5177
+        },
+        {
+          "date": "2017-06-09",
+          "views": 3996
+        },
+        {
+          "date": "2017-06-10",
+          "views": 2176
+        },
+        {
+          "date": "2017-06-11",
+          "views": 1261
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vanessa%20Incontrada&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Vanessa_Incontrada",
+      "article_url": "https://it.wikipedia.org/wiki/Vanessa_Incontrada",
+      "description": "attrice, conduttrice televisiva e modella italo-spagnola (1978-)",
+      "image_filename": "Carlo_Conti,_Vanessa_Incontrada_(edited).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Carlo_Conti%2C_Vanessa_Incontrada_%28edited%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carlo_Conti%2C_Vanessa_Incontrada_(edited).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Prisoners_(film_2013)",
+      "views": 63387,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 0
+        },
+        {
+          "date": "2017-06-06",
+          "views": 0
+        },
+        {
+          "date": "2017-06-07",
+          "views": 0
+        },
+        {
+          "date": "2017-06-08",
+          "views": 48617
+        },
+        {
+          "date": "2017-06-09",
+          "views": 11766
+        },
+        {
+          "date": "2017-06-10",
+          "views": 1876
+        },
+        {
+          "date": "2017-06-11",
+          "views": 1128
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Prisoners%20%28film%202013%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Prisoners_(film_2013)",
+      "article_url": "https://it.wikipedia.org/wiki/Prisoners_(film_2013)",
+      "description": "film del 2013 diretto da Denis Villeneuve",
+      "image_filename": "Prisoners_(2013)_Hugh_Jackman.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/Prisoners_%282013%29_Hugh_Jackman.png/1280px-Prisoners_%282013%29_Hugh_Jackman.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prisoners_(2013)_Hugh_Jackman.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Qatar",
+      "views": 62742,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 34002
+        },
+        {
+          "date": "2017-06-06",
+          "views": 13388
+        },
+        {
+          "date": "2017-06-07",
+          "views": 6487
+        },
+        {
+          "date": "2017-06-08",
+          "views": 2928
+        },
+        {
+          "date": "2017-06-09",
+          "views": 2293
+        },
+        {
+          "date": "2017-06-10",
+          "views": 2037
+        },
+        {
+          "date": "2017-06-11",
+          "views": 1607
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Qatar&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Qatar",
+      "article_url": "https://it.wikipedia.org/wiki/Qatar",
+      "description": "emirato della penisola arabica",
+      "image_filename": "QAT_orthographic.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/QAT_orthographic.svg/1280px-QAT_orthographic.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:QAT_orthographic.svg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "1993_(serie_televisiva)",
+      "views": 62215,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 5310
+        },
+        {
+          "date": "2017-06-06",
+          "views": 14243
+        },
+        {
+          "date": "2017-06-07",
+          "views": 14624
+        },
+        {
+          "date": "2017-06-08",
+          "views": 8700
+        },
+        {
+          "date": "2017-06-09",
+          "views": 6107
+        },
+        {
+          "date": "2017-06-10",
+          "views": 6469
+        },
+        {
+          "date": "2017-06-11",
+          "views": 6762
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=1993%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=1993_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/1993_(serie_televisiva)",
+      "description": "serie televisiva italiana",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Pirati_dei_Caraibi_-_La_vendetta_di_Salazar",
+      "views": 58774,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 11014
+        },
+        {
+          "date": "2017-06-06",
+          "views": 9463
+        },
+        {
+          "date": "2017-06-07",
+          "views": 9015
+        },
+        {
+          "date": "2017-06-08",
+          "views": 7450
+        },
+        {
+          "date": "2017-06-09",
+          "views": 6695
+        },
+        {
+          "date": "2017-06-10",
+          "views": 7450
+        },
+        {
+          "date": "2017-06-11",
+          "views": 7687
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pirati%20dei%20Caraibi%20-%20La%20vendetta%20di%20Salazar&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Pirati_dei_Caraibi_-_La_vendetta_di_Salazar",
+      "article_url": "https://it.wikipedia.org/wiki/Pirati_dei_Caraibi_-_La_vendetta_di_Salazar",
+      "description": "film del 2017 diretto da Joachim R\u00f8nning ed Espen Sandberg",
+      "image_filename": "PiratesoftheCaribbean5.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/af/PiratesoftheCaribbean5.png/1280px-PiratesoftheCaribbean5.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:PiratesoftheCaribbean5.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Come_l'acqua_per_gli_elefanti",
+      "views": 56646,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 47210
+        },
+        {
+          "date": "2017-06-06",
+          "views": 8271
+        },
+        {
+          "date": "2017-06-07",
+          "views": 1165
+        },
+        {
+          "date": "2017-06-08",
+          "views": 0
+        },
+        {
+          "date": "2017-06-09",
+          "views": 0
+        },
+        {
+          "date": "2017-06-10",
+          "views": 0
+        },
+        {
+          "date": "2017-06-11",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Come%20l%27acqua%20per%20gli%20elefanti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Come_l%27acqua_per_gli_elefanti",
+      "article_url": "https://it.wikipedia.org/wiki/Come_l%27acqua_per_gli_elefanti",
+      "description": "film del 2011 diretto da Francis Lawrence",
+      "image_filename": "Water_For_Elephants_-_Logo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Water_For_Elephants_-_Logo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Water_For_Elephants_-_Logo.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Cheik_Tiot\u00e9",
+      "views": 54409,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 36087
+        },
+        {
+          "date": "2017-06-06",
+          "views": 13255
+        },
+        {
+          "date": "2017-06-07",
+          "views": 3576
+        },
+        {
+          "date": "2017-06-08",
+          "views": 1491
+        },
+        {
+          "date": "2017-06-09",
+          "views": 0
+        },
+        {
+          "date": "2017-06-10",
+          "views": 0
+        },
+        {
+          "date": "2017-06-11",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cheik%20Tiot%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Cheik_Tiot%C3%A9",
+      "article_url": "https://it.wikipedia.org/wiki/Cheik_Tiot%C3%A9",
+      "description": "calciatore ivoriano",
+      "image_filename": "Cheick_Ismael_Tiote_9030.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Cheick_Ismael_Tiote_9030.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cheick_Ismael_Tiote_9030.JPG",
+      "image_license": "CC BY-SA 3.0 at",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Juventus_Football_Club",
+      "views": 54293,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 19096
+        },
+        {
+          "date": "2017-06-06",
+          "views": 10048
+        },
+        {
+          "date": "2017-06-07",
+          "views": 7636
+        },
+        {
+          "date": "2017-06-08",
+          "views": 5296
+        },
+        {
+          "date": "2017-06-09",
+          "views": 4405
+        },
+        {
+          "date": "2017-06-10",
+          "views": 3864
+        },
+        {
+          "date": "2017-06-11",
+          "views": 3948
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Juventus%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Juventus_Football_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Juventus_Football_Club",
+      "description": "club calcistico italiano di Torino",
+      "image_filename": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/1280px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy%2C_2020).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 21,
+      "article": "Ricardo_Rodr\u00edguez_(calciatore)",
+      "views": 54203,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 5096
+        },
+        {
+          "date": "2017-06-06",
+          "views": 16436
+        },
+        {
+          "date": "2017-06-07",
+          "views": 13710
+        },
+        {
+          "date": "2017-06-08",
+          "views": 10290
+        },
+        {
+          "date": "2017-06-09",
+          "views": 5025
+        },
+        {
+          "date": "2017-06-10",
+          "views": 2138
+        },
+        {
+          "date": "2017-06-11",
+          "views": 1508
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ricardo%20Rodr%C3%ADguez%20%28calciatore%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Ricardo_Rodr%C3%ADguez_(calciatore)",
+      "article_url": "https://it.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(calciatore)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Focus_-_Niente_\u00e8_come_sembra",
+      "views": 52473,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 0
+        },
+        {
+          "date": "2017-06-06",
+          "views": 44578
+        },
+        {
+          "date": "2017-06-07",
+          "views": 6772
+        },
+        {
+          "date": "2017-06-08",
+          "views": 1123
+        },
+        {
+          "date": "2017-06-09",
+          "views": 0
+        },
+        {
+          "date": "2017-06-10",
+          "views": 0
+        },
+        {
+          "date": "2017-06-11",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Focus%20-%20Niente%20%C3%A8%20come%20sembra&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Focus_-_Niente_%C3%A8_come_sembra",
+      "article_url": "https://it.wikipedia.org/wiki/Focus_-_Niente_%C3%A8_come_sembra",
+      "description": "film del 2015 diretto da Glenn Ficarra e John Requa",
+      "image_filename": "Focusscena.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/35/Focusscena.png/1280px-Focusscena.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Focusscena.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Tredici_(serie_televisiva)",
+      "views": 49322,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 8361
+        },
+        {
+          "date": "2017-06-06",
+          "views": 7770
+        },
+        {
+          "date": "2017-06-07",
+          "views": 6972
+        },
+        {
+          "date": "2017-06-08",
+          "views": 6963
+        },
+        {
+          "date": "2017-06-09",
+          "views": 6375
+        },
+        {
+          "date": "2017-06-10",
+          "views": 6122
+        },
+        {
+          "date": "2017-06-11",
+          "views": 6759
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tredici%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Tredici_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Tredici_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2017-2020)",
+      "image_filename": "Tredici_serie_TV.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/e/e3/Tredici_serie_TV.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tredici_serie_TV.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "UEFA_Champions_League",
+      "views": 48492,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 19974
+        },
+        {
+          "date": "2017-06-06",
+          "views": 9601
+        },
+        {
+          "date": "2017-06-07",
+          "views": 6512
+        },
+        {
+          "date": "2017-06-08",
+          "views": 4346
+        },
+        {
+          "date": "2017-06-09",
+          "views": 3104
+        },
+        {
+          "date": "2017-06-10",
+          "views": 2623
+        },
+        {
+          "date": "2017-06-11",
+          "views": 2332
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=UEFA_Champions_League",
+      "article_url": "https://it.wikipedia.org/wiki/UEFA_Champions_League",
+      "description": "massima competizione calcistica UEFA per squadre di club",
+      "image_filename": "UEFA_Champions_League_logo_(2021).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/UEFA_Champions_League_logo_%282021%29.svg/1280px-UEFA_Champions_League_logo_%282021%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Champions_League_logo_(2021).svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Max_Biaggi",
+      "views": 47942,
+      "daily_views": [
+        {
+          "date": "2017-06-05",
+          "views": 0
+        },
+        {
+          "date": "2017-06-06",
+          "views": 0
+        },
+        {
+          "date": "2017-06-07",
+          "views": 0
+        },
+        {
+          "date": "2017-06-08",
+          "views": 0
+        },
+        {
+          "date": "2017-06-09",
+          "views": 26257
+        },
+        {
+          "date": "2017-06-10",
+          "views": 14376
+        },
+        {
+          "date": "2017-06-11",
+          "views": 7309
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Max%20Biaggi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/05/2017,cd_max:06/11/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-06-05&end=2017-06-11&pages=Max_Biaggi",
+      "article_url": "https://it.wikipedia.org/wiki/Max_Biaggi",
+      "description": "pilota motociclistico italiano (1971-)",
+      "image_filename": "Max_Biaggi_-_2007.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Max_Biaggi_-_2007.JPG/1280px-Max_Biaggi_-_2007.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Max_Biaggi_-_2007.JPG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

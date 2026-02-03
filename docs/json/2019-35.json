@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2019,
+  "week": 35,
+  "start_date": "2019-08-26",
+  "end_date": "2019-09-01",
+  "days": [
+    "2019-08-26",
+    "2019-08-27",
+    "2019-08-28",
+    "2019-08-29",
+    "2019-08-30",
+    "2019-08-31",
+    "2019-09-01"
+  ],
+  "total_articles": 2766,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Canale_5",
+      "views": 232919,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 13082
+        },
+        {
+          "date": "2019-08-27",
+          "views": 35559
+        },
+        {
+          "date": "2019-08-28",
+          "views": 57433
+        },
+        {
+          "date": "2019-08-29",
+          "views": 37779
+        },
+        {
+          "date": "2019-08-30",
+          "views": 40065
+        },
+        {
+          "date": "2019-08-31",
+          "views": 21123
+        },
+        {
+          "date": "2019-09-01",
+          "views": 27878
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Canale%205&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Canale_5",
+      "article_url": "https://it.wikipedia.org/wiki/Canale_5",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Canale_5_-_2018_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1280px-Canale_5_-_2018_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Canale_5_-_2018_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Il_re_leone_(film_2019)",
+      "views": 207322,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 36072
+        },
+        {
+          "date": "2019-08-27",
+          "views": 36474
+        },
+        {
+          "date": "2019-08-28",
+          "views": 36204
+        },
+        {
+          "date": "2019-08-29",
+          "views": 28430
+        },
+        {
+          "date": "2019-08-30",
+          "views": 23322
+        },
+        {
+          "date": "2019-08-31",
+          "views": 22597
+        },
+        {
+          "date": "2019-09-01",
+          "views": 24223
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20re%20leone%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Il_re_leone_(film_2019)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_re_leone_(film_2019)",
+      "description": "film del 2019 diretto da Jon Favreau",
+      "image_filename": "TheLionKingMovie2019.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f4/TheLionKingMovie2019.png/1280px-TheLionKingMovie2019.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:TheLionKingMovie2019.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Giuseppe_Conte",
+      "views": 148545,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 12928
+        },
+        {
+          "date": "2019-08-27",
+          "views": 17604
+        },
+        {
+          "date": "2019-08-28",
+          "views": 29719
+        },
+        {
+          "date": "2019-08-29",
+          "views": 47192
+        },
+        {
+          "date": "2019-08-30",
+          "views": 17670
+        },
+        {
+          "date": "2019-08-31",
+          "views": 10624
+        },
+        {
+          "date": "2019-09-01",
+          "views": 12808
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giuseppe%20Conte&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Giuseppe_Conte",
+      "article_url": "https://it.wikipedia.org/wiki/Giuseppe_Conte",
+      "description": "politico e avvocato italiano (1964-)",
+      "image_filename": "Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Giuseppe_Conte_-_Quirinale_2022_%28cropped2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Alexis_S\u00e1nchez",
+      "views": 141741,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 3859
+        },
+        {
+          "date": "2019-08-27",
+          "views": 16294
+        },
+        {
+          "date": "2019-08-28",
+          "views": 58643
+        },
+        {
+          "date": "2019-08-29",
+          "views": 33440
+        },
+        {
+          "date": "2019-08-30",
+          "views": 16183
+        },
+        {
+          "date": "2019-08-31",
+          "views": 8033
+        },
+        {
+          "date": "2019-09-01",
+          "views": 5289
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alexis%20S%C3%A1nchez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Alexis_S%C3%A1nchez",
+      "article_url": "https://it.wikipedia.org/wiki/Alexis_S%C3%A1nchez",
+      "description": "calciatore cileno (1988-)",
+      "image_filename": "Alexis_S\u00e1nchez_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Alexis_S%C3%A1nchez_2017.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alexis_S%C3%A1nchez_2017.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "TG_Norba_24",
+      "views": 122182,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 27407
+        },
+        {
+          "date": "2019-08-27",
+          "views": 17448
+        },
+        {
+          "date": "2019-08-28",
+          "views": 10321
+        },
+        {
+          "date": "2019-08-29",
+          "views": 11720
+        },
+        {
+          "date": "2019-08-30",
+          "views": 10805
+        },
+        {
+          "date": "2019-08-31",
+          "views": 11341
+        },
+        {
+          "date": "2019-09-01",
+          "views": 33140
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=TG_Norba_24",
+      "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Tg_norba24.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Ante_Rebi\u0107",
+      "views": 122055,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 0
+        },
+        {
+          "date": "2019-08-27",
+          "views": 0
+        },
+        {
+          "date": "2019-08-28",
+          "views": 0
+        },
+        {
+          "date": "2019-08-29",
+          "views": 0
+        },
+        {
+          "date": "2019-08-30",
+          "views": 3767
+        },
+        {
+          "date": "2019-08-31",
+          "views": 11332
+        },
+        {
+          "date": "2019-09-01",
+          "views": 106956
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ante%20Rebi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Ante_Rebi%C4%87",
+      "article_url": "https://it.wikipedia.org/wiki/Ante_Rebi%C4%87",
+      "description": "calciatore croato (1993-)",
+      "image_filename": "Ante_Rebic_playing_for_Be\u015fikta\u015f_-_2_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ante_Rebic_playing_for_Be%C5%9Fikta%C5%9F_-_2_%28cropped%29.jpg/1280px-Ante_Rebic_playing_for_Be%C5%9Fikta%C5%9F_-_2_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ante_Rebic_playing_for_Be%C5%9Fikta%C5%9F_-_2_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Chris_Smalling",
+      "views": 109612,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 0
+        },
+        {
+          "date": "2019-08-27",
+          "views": 0
+        },
+        {
+          "date": "2019-08-28",
+          "views": 0
+        },
+        {
+          "date": "2019-08-29",
+          "views": 75153
+        },
+        {
+          "date": "2019-08-30",
+          "views": 20264
+        },
+        {
+          "date": "2019-08-31",
+          "views": 9732
+        },
+        {
+          "date": "2019-09-01",
+          "views": 4463
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Chris%20Smalling&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Chris_Smalling",
+      "article_url": "https://it.wikipedia.org/wiki/Chris_Smalling",
+      "description": "calciatore inglese (1989-)",
+      "image_filename": "CSKA-MU_2017_(15).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/CSKA-MU_2017_%2815%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:CSKA-MU_2017_(15).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Rai",
+      "views": 102515,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 14698
+        },
+        {
+          "date": "2019-08-27",
+          "views": 14394
+        },
+        {
+          "date": "2019-08-28",
+          "views": 14405
+        },
+        {
+          "date": "2019-08-29",
+          "views": 14394
+        },
+        {
+          "date": "2019-08-30",
+          "views": 14850
+        },
+        {
+          "date": "2019-08-31",
+          "views": 14648
+        },
+        {
+          "date": "2019-09-01",
+          "views": 15126
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Ces\u00e1ria_\u00c9vora",
+      "views": 99400,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 0
+        },
+        {
+          "date": "2019-08-27",
+          "views": 96860
+        },
+        {
+          "date": "2019-08-28",
+          "views": 2540
+        },
+        {
+          "date": "2019-08-29",
+          "views": 0
+        },
+        {
+          "date": "2019-08-30",
+          "views": 0
+        },
+        {
+          "date": "2019-08-31",
+          "views": 0
+        },
+        {
+          "date": "2019-09-01",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ces%C3%A1ria%20%C3%89vora&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Ces%C3%A1ria_%C3%89vora",
+      "article_url": "https://it.wikipedia.org/wiki/Ces%C3%A1ria_%C3%89vora",
+      "description": "cantante capoverdiana (1941-2011)",
+      "image_filename": "Cesaria_Evora_Home.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cesaria_Evora_Home.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cesaria_Evora_Home.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Franco_Columbu",
+      "views": 98062,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 0
+        },
+        {
+          "date": "2019-08-27",
+          "views": 0
+        },
+        {
+          "date": "2019-08-28",
+          "views": 0
+        },
+        {
+          "date": "2019-08-29",
+          "views": 0
+        },
+        {
+          "date": "2019-08-30",
+          "views": 36385
+        },
+        {
+          "date": "2019-08-31",
+          "views": 41384
+        },
+        {
+          "date": "2019-09-01",
+          "views": 20293
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Franco%20Columbu&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Franco_Columbu",
+      "article_url": "https://it.wikipedia.org/wiki/Franco_Columbu",
+      "description": "culturista, attore, powerlifter, sollevatore e strongman italiano (1941-2019)",
+      "image_filename": "Franco_Columbu_Sardegna_anni_70.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Franco_Columbu_Sardegna_anni_70.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Franco_Columbu_Sardegna_anni_70.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Luis_Enrique",
+      "views": 97485,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 0
+        },
+        {
+          "date": "2019-08-27",
+          "views": 0
+        },
+        {
+          "date": "2019-08-28",
+          "views": 0
+        },
+        {
+          "date": "2019-08-29",
+          "views": 32631
+        },
+        {
+          "date": "2019-08-30",
+          "views": 52439
+        },
+        {
+          "date": "2019-08-31",
+          "views": 9202
+        },
+        {
+          "date": "2019-09-01",
+          "views": 3213
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luis%20Enrique&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Luis_Enrique",
+      "article_url": "https://it.wikipedia.org/wiki/Luis_Enrique",
+      "description": "allenatore di calcio e calciatore spagnolo (1970-)",
+      "image_filename": "Luis_Enrique_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Luis_Enrique_2014.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luis_Enrique_2014.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Monica_Vitti",
+      "views": 97253,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 6033
+        },
+        {
+          "date": "2019-08-27",
+          "views": 68125
+        },
+        {
+          "date": "2019-08-28",
+          "views": 7360
+        },
+        {
+          "date": "2019-08-29",
+          "views": 1986
+        },
+        {
+          "date": "2019-08-30",
+          "views": 0
+        },
+        {
+          "date": "2019-08-31",
+          "views": 6754
+        },
+        {
+          "date": "2019-09-01",
+          "views": 6995
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Monica%20Vitti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Monica_Vitti",
+      "article_url": "https://it.wikipedia.org/wiki/Monica_Vitti",
+      "description": "attrice italiana (1931-2022)",
+      "image_filename": "Monica_Vitti.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Monica_Vitti.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Monica_Vitti.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Tredici_(serie_televisiva)",
+      "views": 96536,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 18856
+        },
+        {
+          "date": "2019-08-27",
+          "views": 16881
+        },
+        {
+          "date": "2019-08-28",
+          "views": 15755
+        },
+        {
+          "date": "2019-08-29",
+          "views": 12956
+        },
+        {
+          "date": "2019-08-30",
+          "views": 11216
+        },
+        {
+          "date": "2019-08-31",
+          "views": 9985
+        },
+        {
+          "date": "2019-09-01",
+          "views": 10887
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tredici%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Tredici_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Tredici_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2017-2020)",
+      "image_filename": "Tredici_serie_TV.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/e/e3/Tredici_serie_TV.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tredici_serie_TV.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "La_casa_di_carta",
+      "views": 93743,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 13027
+        },
+        {
+          "date": "2019-08-27",
+          "views": 13118
+        },
+        {
+          "date": "2019-08-28",
+          "views": 15379
+        },
+        {
+          "date": "2019-08-29",
+          "views": 14192
+        },
+        {
+          "date": "2019-08-30",
+          "views": 12527
+        },
+        {
+          "date": "2019-08-31",
+          "views": 11894
+        },
+        {
+          "date": "2019-09-01",
+          "views": 13606
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=La_casa_di_carta",
+      "article_url": "https://it.wikipedia.org/wiki/La_casa_di_carta",
+      "description": "serie televisiva spagnola (2017-2021)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "RSI_LA1",
+      "views": 90416,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 9392
+        },
+        {
+          "date": "2019-08-27",
+          "views": 11207
+        },
+        {
+          "date": "2019-08-28",
+          "views": 12441
+        },
+        {
+          "date": "2019-08-29",
+          "views": 6944
+        },
+        {
+          "date": "2019-08-30",
+          "views": 15389
+        },
+        {
+          "date": "2019-08-31",
+          "views": 18112
+        },
+        {
+          "date": "2019-09-01",
+          "views": 16931
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=RSI%20LA1&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=RSI_LA1",
+      "article_url": "https://it.wikipedia.org/wiki/RSI_LA1",
+      "description": "rete televisiva della Svizzera italiana",
+      "image_filename": "RSI_La_1_2012.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_1_2012.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "RSI_LA2",
+      "views": 88197,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 9015
+        },
+        {
+          "date": "2019-08-27",
+          "views": 10145
+        },
+        {
+          "date": "2019-08-28",
+          "views": 12138
+        },
+        {
+          "date": "2019-08-29",
+          "views": 6668
+        },
+        {
+          "date": "2019-08-30",
+          "views": 14777
+        },
+        {
+          "date": "2019-08-31",
+          "views": 18355
+        },
+        {
+          "date": "2019-09-01",
+          "views": 17099
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=RSI%20LA2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=RSI_LA2",
+      "article_url": "https://it.wikipedia.org/wiki/RSI_LA2",
+      "description": "rete televisiva della Svizzera italiana",
+      "image_filename": "RSI_La_2_2012.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_2_2012.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "Fernando_Llorente",
+      "views": 87706,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 3703
+        },
+        {
+          "date": "2019-08-27",
+          "views": 4753
+        },
+        {
+          "date": "2019-08-28",
+          "views": 8133
+        },
+        {
+          "date": "2019-08-29",
+          "views": 3909
+        },
+        {
+          "date": "2019-08-30",
+          "views": 39177
+        },
+        {
+          "date": "2019-08-31",
+          "views": 22624
+        },
+        {
+          "date": "2019-09-01",
+          "views": 5407
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fernando%20Llorente&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Fernando_Llorente",
+      "article_url": "https://it.wikipedia.org/wiki/Fernando_Llorente",
+      "description": "calciatore spagnolo (1985-)",
+      "image_filename": "Fernando_Llorente_contra_el_H\u00e9rcules_en_el_estadio_Jos\u00e9_Rico_P\u00e9rez_(american_shot).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fernando_Llorente_contra_el_H%C3%A9rcules_en_el_estadio_Jos%C3%A9_Rico_P%C3%A9rez_%28american_shot%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fernando_Llorente_contra_el_H%C3%A9rcules_en_el_estadio_Jos%C3%A9_Rico_P%C3%A9rez_(american_shot).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Iris_(rete_televisiva)",
+      "views": 82618,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 8820
+        },
+        {
+          "date": "2019-08-27",
+          "views": 8478
+        },
+        {
+          "date": "2019-08-28",
+          "views": 14170
+        },
+        {
+          "date": "2019-08-29",
+          "views": 9750
+        },
+        {
+          "date": "2019-08-30",
+          "views": 10405
+        },
+        {
+          "date": "2019-08-31",
+          "views": 14655
+        },
+        {
+          "date": "2019-09-01",
+          "views": 16340
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Iris_(rete_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Iris_-_Logo_2013.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Il_re_leone",
+      "views": 78368,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 13044
+        },
+        {
+          "date": "2019-08-27",
+          "views": 13101
+        },
+        {
+          "date": "2019-08-28",
+          "views": 13566
+        },
+        {
+          "date": "2019-08-29",
+          "views": 10754
+        },
+        {
+          "date": "2019-08-30",
+          "views": 9432
+        },
+        {
+          "date": "2019-08-31",
+          "views": 9211
+        },
+        {
+          "date": "2019-09-01",
+          "views": 9260
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20re%20leone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Il_re_leone",
+      "article_url": "https://it.wikipedia.org/wiki/Il_re_leone",
+      "description": "film d'animazione del 1994 diretto da Roger Allers e Rob Minkoff",
+      "image_filename": "Il_Re_Leone.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/Il_Re_Leone.png/1280px-Il_Re_Leone.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Re_Leone.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Romelu_Lukaku",
+      "views": 76662,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 20669
+        },
+        {
+          "date": "2019-08-27",
+          "views": 18718
+        },
+        {
+          "date": "2019-08-28",
+          "views": 9069
+        },
+        {
+          "date": "2019-08-29",
+          "views": 6134
+        },
+        {
+          "date": "2019-08-30",
+          "views": 5057
+        },
+        {
+          "date": "2019-08-31",
+          "views": 4544
+        },
+        {
+          "date": "2019-09-01",
+          "views": 12471
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Romelu%20Lukaku&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Romelu_Lukaku",
+      "article_url": "https://it.wikipedia.org/wiki/Romelu_Lukaku",
+      "description": "calciatore belga (1993-)",
+      "image_filename": "Romelu_Lukaku_2021.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Romelu_Lukaku_2021.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Romelu_Lukaku_2021.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Alessandra_Mastronardi",
+      "views": 74483,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 0
+        },
+        {
+          "date": "2019-08-27",
+          "views": 11245
+        },
+        {
+          "date": "2019-08-28",
+          "views": 22886
+        },
+        {
+          "date": "2019-08-29",
+          "views": 17227
+        },
+        {
+          "date": "2019-08-30",
+          "views": 9842
+        },
+        {
+          "date": "2019-08-31",
+          "views": 7581
+        },
+        {
+          "date": "2019-09-01",
+          "views": 5702
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alessandra%20Mastronardi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Alessandra_Mastronardi",
+      "article_url": "https://it.wikipedia.org/wiki/Alessandra_Mastronardi",
+      "description": "attrice italiana (1986-)",
+      "image_filename": "Alessandra-Mastronardi-LAllieva-Spettacolo-Italiano-Alberto-Fuschi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alessandra-Mastronardi-LAllieva-Spettacolo-Italiano-Alberto-Fuschi.jpg/1280px-Alessandra-Mastronardi-LAllieva-Spettacolo-Italiano-Alberto-Fuschi.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alessandra-Mastronardi-LAllieva-Spettacolo-Italiano-Alberto-Fuschi.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Elezioni_politiche_italiane_del_2018",
+      "views": 73769,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 8329
+        },
+        {
+          "date": "2019-08-27",
+          "views": 11549
+        },
+        {
+          "date": "2019-08-28",
+          "views": 18557
+        },
+        {
+          "date": "2019-08-29",
+          "views": 17276
+        },
+        {
+          "date": "2019-08-30",
+          "views": 9476
+        },
+        {
+          "date": "2019-08-31",
+          "views": 4977
+        },
+        {
+          "date": "2019-09-01",
+          "views": 3605
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elezioni%20politiche%20italiane%20del%202018&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Elezioni_politiche_italiane_del_2018",
+      "article_url": "https://it.wikipedia.org/wiki/Elezioni_politiche_italiane_del_2018",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Matteo_Salvini",
+      "views": 73399,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 7817
+        },
+        {
+          "date": "2019-08-27",
+          "views": 9008
+        },
+        {
+          "date": "2019-08-28",
+          "views": 13430
+        },
+        {
+          "date": "2019-08-29",
+          "views": 16170
+        },
+        {
+          "date": "2019-08-30",
+          "views": 11645
+        },
+        {
+          "date": "2019-08-31",
+          "views": 8653
+        },
+        {
+          "date": "2019-09-01",
+          "views": 6676
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matteo%20Salvini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Matteo_Salvini",
+      "article_url": "https://it.wikipedia.org/wiki/Matteo_Salvini",
+      "description": "politico italiano (1973-)",
+      "image_filename": "Matteo_Salvini,_2025.12.04_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg/1280px-Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Salvini%2C_2025.12.04_(cropped).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Cristiano_Biraghi",
+      "views": 70244,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 2058
+        },
+        {
+          "date": "2019-08-27",
+          "views": 10988
+        },
+        {
+          "date": "2019-08-28",
+          "views": 23824
+        },
+        {
+          "date": "2019-08-29",
+          "views": 20816
+        },
+        {
+          "date": "2019-08-30",
+          "views": 8748
+        },
+        {
+          "date": "2019-08-31",
+          "views": 2175
+        },
+        {
+          "date": "2019-09-01",
+          "views": 1635
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Biraghi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Cristiano_Biraghi",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Biraghi",
+      "description": "calciatore italiano (1992-)",
+      "image_filename": "Cristiano_Biraghi_Fiorentina_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Cristiano_Biraghi_Fiorentina_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Biraghi_Fiorentina_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Joker_(film_2019)",
+      "views": 65027,
+      "daily_views": [
+        {
+          "date": "2019-08-26",
+          "views": 1228
+        },
+        {
+          "date": "2019-08-27",
+          "views": 1439
+        },
+        {
+          "date": "2019-08-28",
+          "views": 7961
+        },
+        {
+          "date": "2019-08-29",
+          "views": 11075
+        },
+        {
+          "date": "2019-08-30",
+          "views": 8688
+        },
+        {
+          "date": "2019-08-31",
+          "views": 15472
+        },
+        {
+          "date": "2019-09-01",
+          "views": 19164
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Joker%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/26/2019,cd_max:09/01/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-26&end=2019-09-01&pages=Joker_(film_2019)",
+      "article_url": "https://it.wikipedia.org/wiki/Joker_(film_2019)",
+      "description": "film del 2019 diretto da Todd Phillips",
+      "image_filename": "Joker_(film_2019).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f2/Joker_%28film_2019%29.png/1280px-Joker_%28film_2019%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joker_(film_2019).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

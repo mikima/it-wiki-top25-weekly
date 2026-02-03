@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2019,
+  "week": 45,
+  "start_date": "2019-11-04",
+  "end_date": "2019-11-10",
+  "days": [
+    "2019-11-04",
+    "2019-11-05",
+    "2019-11-06",
+    "2019-11-07",
+    "2019-11-08",
+    "2019-11-09",
+    "2019-11-10"
+  ],
+  "total_articles": 2592,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Giorgia_Meloni",
+      "views": 374328,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 3185
+        },
+        {
+          "date": "2019-11-05",
+          "views": 6361
+        },
+        {
+          "date": "2019-11-06",
+          "views": 104871
+        },
+        {
+          "date": "2019-11-07",
+          "views": 179623
+        },
+        {
+          "date": "2019-11-08",
+          "views": 47900
+        },
+        {
+          "date": "2019-11-09",
+          "views": 19795
+        },
+        {
+          "date": "2019-11-10",
+          "views": 12593
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorgia%20Meloni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Giorgia_Meloni",
+      "article_url": "https://it.wikipedia.org/wiki/Giorgia_Meloni",
+      "description": "politica italiana, Presidente del Consiglio dei ministri della Repubblica Italiana",
+      "image_filename": "Giorgia_Meloni_Official_2024_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
+      "image_license": "CC BY 3.0 it",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Muro_di_Berlino",
+      "views": 328279,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 11344
+        },
+        {
+          "date": "2019-11-05",
+          "views": 15444
+        },
+        {
+          "date": "2019-11-06",
+          "views": 21611
+        },
+        {
+          "date": "2019-11-07",
+          "views": 15823
+        },
+        {
+          "date": "2019-11-08",
+          "views": 48366
+        },
+        {
+          "date": "2019-11-09",
+          "views": 155194
+        },
+        {
+          "date": "2019-11-10",
+          "views": 60497
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Muro%20di%20Berlino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Muro_di_Berlino",
+      "article_url": "https://it.wikipedia.org/wiki/Muro_di_Berlino",
+      "description": "fortificazione militare costruita dalla Germania Est per circondare Berlino Ovest",
+      "image_filename": "Berlin_Wall_1961-11-20.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Berlin_Wall_1961-11-20.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Berlin_Wall_1961-11-20.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Rai",
+      "views": 217842,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 29423
+        },
+        {
+          "date": "2019-11-05",
+          "views": 32315
+        },
+        {
+          "date": "2019-11-06",
+          "views": 33033
+        },
+        {
+          "date": "2019-11-07",
+          "views": 29626
+        },
+        {
+          "date": "2019-11-08",
+          "views": 32400
+        },
+        {
+          "date": "2019-11-09",
+          "views": 32369
+        },
+        {
+          "date": "2019-11-10",
+          "views": 28676
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Ittiosi_Arlecchino",
+      "views": 179560,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 0
+        },
+        {
+          "date": "2019-11-05",
+          "views": 0
+        },
+        {
+          "date": "2019-11-06",
+          "views": 65634
+        },
+        {
+          "date": "2019-11-07",
+          "views": 59126
+        },
+        {
+          "date": "2019-11-08",
+          "views": 26083
+        },
+        {
+          "date": "2019-11-09",
+          "views": 18189
+        },
+        {
+          "date": "2019-11-10",
+          "views": 10528
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ittiosi%20Arlecchino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Ittiosi_Arlecchino",
+      "article_url": "https://it.wikipedia.org/wiki/Ittiosi_Arlecchino",
+      "description": "grave disfunzione congenita della pelle e la pi\u00f9 grave forma di ittiosi",
+      "image_filename": "Harlequin_fetus.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Harlequin_fetus.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Harlequin_fetus.JPG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Fred_Bongusto",
+      "views": 136516,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 0
+        },
+        {
+          "date": "2019-11-05",
+          "views": 0
+        },
+        {
+          "date": "2019-11-06",
+          "views": 0
+        },
+        {
+          "date": "2019-11-07",
+          "views": 0
+        },
+        {
+          "date": "2019-11-08",
+          "views": 106045
+        },
+        {
+          "date": "2019-11-09",
+          "views": 21794
+        },
+        {
+          "date": "2019-11-10",
+          "views": 8677
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fred%20Bongusto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Fred_Bongusto",
+      "article_url": "https://it.wikipedia.org/wiki/Fred_Bongusto",
+      "description": "cantante e compositore italiano (1935-2019)",
+      "image_filename": "Fred_Bongusto_1975.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Fred_Bongusto_1975.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fred_Bongusto_1975.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Chico_Forti",
+      "views": 131713,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 0
+        },
+        {
+          "date": "2019-11-05",
+          "views": 86433
+        },
+        {
+          "date": "2019-11-06",
+          "views": 23457
+        },
+        {
+          "date": "2019-11-07",
+          "views": 7515
+        },
+        {
+          "date": "2019-11-08",
+          "views": 3661
+        },
+        {
+          "date": "2019-11-09",
+          "views": 7424
+        },
+        {
+          "date": "2019-11-10",
+          "views": 3223
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Chico%20Forti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Chico_Forti",
+      "article_url": "https://it.wikipedia.org/wiki/Chico_Forti",
+      "description": "assassino, velista e produttore televisivo italiano (1959-)",
+      "image_filename": "Enrico_Forti.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Enrico_Forti.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Enrico_Forti.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Liliana_Segre",
+      "views": 130782,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 10585
+        },
+        {
+          "date": "2019-11-05",
+          "views": 9303
+        },
+        {
+          "date": "2019-11-06",
+          "views": 5385
+        },
+        {
+          "date": "2019-11-07",
+          "views": 37528
+        },
+        {
+          "date": "2019-11-08",
+          "views": 32788
+        },
+        {
+          "date": "2019-11-09",
+          "views": 19192
+        },
+        {
+          "date": "2019-11-10",
+          "views": 16001
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Liliana%20Segre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Liliana_Segre",
+      "article_url": "https://it.wikipedia.org/wiki/Liliana_Segre",
+      "description": "antifascista e politica italiana, superstite dell'Olocausto e testimone attiva della Shoah (1930-)",
+      "image_filename": "Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Liliana_Segre_%28XVIII_Legislatura_Senato%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
+      "image_license": "CC BY 1.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "La_La_Land_(film)",
+      "views": 114401,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 1597
+        },
+        {
+          "date": "2019-11-05",
+          "views": 1584
+        },
+        {
+          "date": "2019-11-06",
+          "views": 81888
+        },
+        {
+          "date": "2019-11-07",
+          "views": 19939
+        },
+        {
+          "date": "2019-11-08",
+          "views": 4574
+        },
+        {
+          "date": "2019-11-09",
+          "views": 2669
+        },
+        {
+          "date": "2019-11-10",
+          "views": 2150
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20La%20Land%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=La_La_Land_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/La_La_Land_(film)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Jannik_Sinner",
+      "views": 94357,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 1427
+        },
+        {
+          "date": "2019-11-05",
+          "views": 4381
+        },
+        {
+          "date": "2019-11-06",
+          "views": 6515
+        },
+        {
+          "date": "2019-11-07",
+          "views": 6626
+        },
+        {
+          "date": "2019-11-08",
+          "views": 9225
+        },
+        {
+          "date": "2019-11-09",
+          "views": 30876
+        },
+        {
+          "date": "2019-11-10",
+          "views": 35307
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Jannik_Sinner",
+      "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
+      "description": "tennista italiano (2001-)",
+      "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "ArcelorMittal",
+      "views": 91528,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 8936
+        },
+        {
+          "date": "2019-11-05",
+          "views": 15954
+        },
+        {
+          "date": "2019-11-06",
+          "views": 16483
+        },
+        {
+          "date": "2019-11-07",
+          "views": 19566
+        },
+        {
+          "date": "2019-11-08",
+          "views": 14936
+        },
+        {
+          "date": "2019-11-09",
+          "views": 8819
+        },
+        {
+          "date": "2019-11-10",
+          "views": 6834
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=ArcelorMittal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=ArcelorMittal",
+      "article_url": "https://it.wikipedia.org/wiki/ArcelorMittal",
+      "description": "azienda leader nel settore dell'acciaio",
+      "image_filename": "Luxembourg_Arcelor_Mittal.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luxembourg_Arcelor_Mittal.jpg/1280px-Luxembourg_Arcelor_Mittal.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luxembourg_Arcelor_Mittal.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "ArcelorMittal_Italia",
+      "views": 86088,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 8701
+        },
+        {
+          "date": "2019-11-05",
+          "views": 17085
+        },
+        {
+          "date": "2019-11-06",
+          "views": 14321
+        },
+        {
+          "date": "2019-11-07",
+          "views": 15194
+        },
+        {
+          "date": "2019-11-08",
+          "views": 15150
+        },
+        {
+          "date": "2019-11-09",
+          "views": 9006
+        },
+        {
+          "date": "2019-11-10",
+          "views": 6631
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=ArcelorMittal%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=ArcelorMittal_Italia",
+      "article_url": "https://it.wikipedia.org/wiki/ArcelorMittal_Italia",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Caterina_II_di_Russia",
+      "views": 85947,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 15990
+        },
+        {
+          "date": "2019-11-05",
+          "views": 9904
+        },
+        {
+          "date": "2019-11-06",
+          "views": 8851
+        },
+        {
+          "date": "2019-11-07",
+          "views": 7427
+        },
+        {
+          "date": "2019-11-08",
+          "views": 14879
+        },
+        {
+          "date": "2019-11-09",
+          "views": 15822
+        },
+        {
+          "date": "2019-11-10",
+          "views": 13074
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Caterina%20II%20di%20Russia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Caterina_II_di_Russia",
+      "article_url": "https://it.wikipedia.org/wiki/Caterina_II_di_Russia",
+      "description": "imperatrice di Russia (r. 1762-1796)",
+      "image_filename": "Catherine_II_by_V.Eriksen_(1778-9,_David_Coll.,_Denmark).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Catherine_II_by_V.Eriksen_%281778-9%2C_David_Coll.%2C_Denmark%29.jpg/1280px-Catherine_II_by_V.Eriksen_%281778-9%2C_David_Coll.%2C_Denmark%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Catherine_II_by_V.Eriksen_(1778-9%2C_David_Coll.%2C_Denmark).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 13,
+      "article": "Enrico_V_d'Inghilterra",
+      "views": 82935,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 18967
+        },
+        {
+          "date": "2019-11-05",
+          "views": 13516
+        },
+        {
+          "date": "2019-11-06",
+          "views": 11131
+        },
+        {
+          "date": "2019-11-07",
+          "views": 8801
+        },
+        {
+          "date": "2019-11-08",
+          "views": 8296
+        },
+        {
+          "date": "2019-11-09",
+          "views": 10378
+        },
+        {
+          "date": "2019-11-10",
+          "views": 11846
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Enrico%20V%20d%27Inghilterra&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Enrico_V_d%27Inghilterra",
+      "article_url": "https://it.wikipedia.org/wiki/Enrico_V_d%27Inghilterra",
+      "description": "re d'Inghilterra (r. 1413-1422)",
+      "image_filename": "King_Henry_V_from_NPG.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/King_Henry_V_from_NPG.jpg/1280px-King_Henry_V_from_NPG.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:King_Henry_V_from_NPG.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Giornata_dell'Unit\u00e0_Nazionale_e_delle_Forze_Armate",
+      "views": 78967,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 61516
+        },
+        {
+          "date": "2019-11-05",
+          "views": 7463
+        },
+        {
+          "date": "2019-11-06",
+          "views": 3391
+        },
+        {
+          "date": "2019-11-07",
+          "views": 1992
+        },
+        {
+          "date": "2019-11-08",
+          "views": 1297
+        },
+        {
+          "date": "2019-11-09",
+          "views": 1416
+        },
+        {
+          "date": "2019-11-10",
+          "views": 1892
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giornata%20dell%27Unit%C3%A0%20Nazionale%20e%20delle%20Forze%20Armate&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Giornata_dell%27Unit%C3%A0_Nazionale_e_delle_Forze_Armate",
+      "article_url": "https://it.wikipedia.org/wiki/Giornata_dell%27Unit%C3%A0_Nazionale_e_delle_Forze_Armate",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Mormonismo",
+      "views": 66160,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 0
+        },
+        {
+          "date": "2019-11-05",
+          "views": 29850
+        },
+        {
+          "date": "2019-11-06",
+          "views": 22344
+        },
+        {
+          "date": "2019-11-07",
+          "views": 5980
+        },
+        {
+          "date": "2019-11-08",
+          "views": 5078
+        },
+        {
+          "date": "2019-11-09",
+          "views": 1626
+        },
+        {
+          "date": "2019-11-10",
+          "views": 1282
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mormonismo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Mormonismo",
+      "article_url": "https://it.wikipedia.org/wiki/Mormonismo",
+      "description": "movimento religioso di origini statunitensi",
+      "image_filename": "Joseph_Smith,_Jr._portrait_owned_by_Joseph_Smith_III.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Joseph_Smith%2C_Jr._portrait_owned_by_Joseph_Smith_III.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joseph_Smith%2C_Jr._portrait_owned_by_Joseph_Smith_III.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "The_Irishman_(film_2019)",
+      "views": 57095,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 12958
+        },
+        {
+          "date": "2019-11-05",
+          "views": 11981
+        },
+        {
+          "date": "2019-11-06",
+          "views": 9879
+        },
+        {
+          "date": "2019-11-07",
+          "views": 6526
+        },
+        {
+          "date": "2019-11-08",
+          "views": 4959
+        },
+        {
+          "date": "2019-11-09",
+          "views": 5376
+        },
+        {
+          "date": "2019-11-10",
+          "views": 5416
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Irishman%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=The_Irishman_(film_2019)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Irishman_(film_2019)",
+      "description": "film del 2019 diretto da Martin Scorsese",
+      "image_filename": "Martin_Scorsese_-_The_Irishman.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/22/Martin_Scorsese_-_The_Irishman.png/1280px-Martin_Scorsese_-_The_Irishman.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Martin_Scorsese_-_The_Irishman.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Il_collegio",
+      "views": 55516,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 4332
+        },
+        {
+          "date": "2019-11-05",
+          "views": 15887
+        },
+        {
+          "date": "2019-11-06",
+          "views": 13952
+        },
+        {
+          "date": "2019-11-07",
+          "views": 6937
+        },
+        {
+          "date": "2019-11-08",
+          "views": 5234
+        },
+        {
+          "date": "2019-11-09",
+          "views": 5036
+        },
+        {
+          "date": "2019-11-10",
+          "views": 4138
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20collegio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Il_collegio",
+      "article_url": "https://it.wikipedia.org/wiki/Il_collegio",
+      "description": "programma televisivo italiano",
+      "image_filename": "Il_Collegio.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Il_Collegio.png/1280px-Il_Collegio.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Collegio.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Joker_(film_2019)",
+      "views": 54252,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 10053
+        },
+        {
+          "date": "2019-11-05",
+          "views": 6830
+        },
+        {
+          "date": "2019-11-06",
+          "views": 6741
+        },
+        {
+          "date": "2019-11-07",
+          "views": 5950
+        },
+        {
+          "date": "2019-11-08",
+          "views": 6073
+        },
+        {
+          "date": "2019-11-09",
+          "views": 8873
+        },
+        {
+          "date": "2019-11-10",
+          "views": 9732
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Joker%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Joker_(film_2019)",
+      "article_url": "https://it.wikipedia.org/wiki/Joker_(film_2019)",
+      "description": "film del 2019 diretto da Todd Phillips",
+      "image_filename": "Joker_(film_2019).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f2/Joker_%28film_2019%29.png/1280px-Joker_%28film_2019%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joker_(film_2019).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Peaky_Blinders",
+      "views": 54019,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 9304
+        },
+        {
+          "date": "2019-11-05",
+          "views": 8025
+        },
+        {
+          "date": "2019-11-06",
+          "views": 7060
+        },
+        {
+          "date": "2019-11-07",
+          "views": 6675
+        },
+        {
+          "date": "2019-11-08",
+          "views": 7588
+        },
+        {
+          "date": "2019-11-09",
+          "views": 7240
+        },
+        {
+          "date": "2019-11-10",
+          "views": 8127
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Peaky%20Blinders&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Peaky_Blinders",
+      "article_url": "https://it.wikipedia.org/wiki/Peaky_Blinders",
+      "description": "pagina di disambiguazione di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "The_End_of_the_F***ing_World",
+      "views": 53911,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 1888
+        },
+        {
+          "date": "2019-11-05",
+          "views": 10357
+        },
+        {
+          "date": "2019-11-06",
+          "views": 10309
+        },
+        {
+          "date": "2019-11-07",
+          "views": 8669
+        },
+        {
+          "date": "2019-11-08",
+          "views": 7376
+        },
+        {
+          "date": "2019-11-09",
+          "views": 7343
+        },
+        {
+          "date": "2019-11-10",
+          "views": 7969
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20End%20of%20the%20F%2A%2A%2Aing%20World&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=The_End_of_the_F%2A%2A%2Aing_World",
+      "article_url": "https://it.wikipedia.org/wiki/The_End_of_the_F%2A%2A%2Aing_World",
+      "description": "serie televisiva britannica (2017-2019)",
+      "image_filename": "The_End_of_the_F***ING_WORLD_text_logo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_End_of_the_F%2A%2A%2AING_WORLD_text_logo.png/1280px-The_End_of_the_F%2A%2A%2AING_WORLD_text_logo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_End_of_the_F%2A%2A%2AING_WORLD_text_logo.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 21,
+      "article": "Death_Stranding",
+      "views": 53728,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 2727
+        },
+        {
+          "date": "2019-11-05",
+          "views": 2737
+        },
+        {
+          "date": "2019-11-06",
+          "views": 2547
+        },
+        {
+          "date": "2019-11-07",
+          "views": 7639
+        },
+        {
+          "date": "2019-11-08",
+          "views": 13791
+        },
+        {
+          "date": "2019-11-09",
+          "views": 13159
+        },
+        {
+          "date": "2019-11-10",
+          "views": 11128
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Death%20Stranding&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Death_Stranding",
+      "article_url": "https://it.wikipedia.org/wiki/Death_Stranding",
+      "description": "videogioco d'azione del 2019, sviluppato da Kojima Productions",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Italia",
+      "views": 51801,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 7531
+        },
+        {
+          "date": "2019-11-05",
+          "views": 7273
+        },
+        {
+          "date": "2019-11-06",
+          "views": 7503
+        },
+        {
+          "date": "2019-11-07",
+          "views": 6989
+        },
+        {
+          "date": "2019-11-08",
+          "views": 6975
+        },
+        {
+          "date": "2019-11-09",
+          "views": 7089
+        },
+        {
+          "date": "2019-11-10",
+          "views": 8441
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Marracash",
+      "views": 51261,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 5151
+        },
+        {
+          "date": "2019-11-05",
+          "views": 4462
+        },
+        {
+          "date": "2019-11-06",
+          "views": 7621
+        },
+        {
+          "date": "2019-11-07",
+          "views": 13882
+        },
+        {
+          "date": "2019-11-08",
+          "views": 8345
+        },
+        {
+          "date": "2019-11-09",
+          "views": 5937
+        },
+        {
+          "date": "2019-11-10",
+          "views": 5863
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Marracash&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Marracash",
+      "article_url": "https://it.wikipedia.org/wiki/Marracash",
+      "description": "rapper italiano (1979-)",
+      "image_filename": "MarraMan.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MarraMan.jpg/1280px-MarraMan.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:MarraMan.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Mario_Balotelli",
+      "views": 50331,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 14712
+        },
+        {
+          "date": "2019-11-05",
+          "views": 14830
+        },
+        {
+          "date": "2019-11-06",
+          "views": 7149
+        },
+        {
+          "date": "2019-11-07",
+          "views": 3597
+        },
+        {
+          "date": "2019-11-08",
+          "views": 3193
+        },
+        {
+          "date": "2019-11-09",
+          "views": 4189
+        },
+        {
+          "date": "2019-11-10",
+          "views": 2661
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mario%20Balotelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Mario_Balotelli",
+      "article_url": "https://it.wikipedia.org/wiki/Mario_Balotelli",
+      "description": "calciatore italiano (1990-)",
+      "image_filename": "Mario_Balotelli_Euro_2012_vs_England_02.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mario_Balotelli_Euro_2012_vs_England_02.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mario_Balotelli_Euro_2012_vs_England_02.JPG",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Uovo_dello_zarevi\u010d",
+      "views": 46557,
+      "daily_views": [
+        {
+          "date": "2019-11-04",
+          "views": 7581
+        },
+        {
+          "date": "2019-11-05",
+          "views": 9222
+        },
+        {
+          "date": "2019-11-06",
+          "views": 5918
+        },
+        {
+          "date": "2019-11-07",
+          "views": 7583
+        },
+        {
+          "date": "2019-11-08",
+          "views": 10817
+        },
+        {
+          "date": "2019-11-09",
+          "views": 5436
+        },
+        {
+          "date": "2019-11-10",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Uovo%20dello%20zarevi%C4%8D&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Uovo_dello_zarevi%C4%8D",
+      "article_url": "https://it.wikipedia.org/wiki/Uovo_dello_zarevi%C4%8D",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

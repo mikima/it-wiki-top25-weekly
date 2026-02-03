@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2025,
+  "week": 11,
+  "start_date": "2025-03-10",
+  "end_date": "2025-03-16",
+  "days": [
+    "2025-03-10",
+    "2025-03-11",
+    "2025-03-12",
+    "2025-03-13",
+    "2025-03-14",
+    "2025-03-15",
+    "2025-03-16"
+  ],
+  "total_articles": 2732,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Delitto_di_Garlasco",
+      "views": 278396,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 0
+        },
+        {
+          "date": "2025-03-11",
+          "views": 68680
+        },
+        {
+          "date": "2025-03-12",
+          "views": 75500
+        },
+        {
+          "date": "2025-03-13",
+          "views": 49154
+        },
+        {
+          "date": "2025-03-14",
+          "views": 39976
+        },
+        {
+          "date": "2025-03-15",
+          "views": 23839
+        },
+        {
+          "date": "2025-03-16",
+          "views": 21247
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Delitto%20di%20Garlasco&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Delitto_di_Garlasco",
+      "article_url": "https://it.wikipedia.org/wiki/Delitto_di_Garlasco",
+      "description": "caso di omicidio avvenuto a Garlasco nel 2007",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Il_Gattopardo",
+      "views": 157380,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 33752
+        },
+        {
+          "date": "2025-03-11",
+          "views": 26119
+        },
+        {
+          "date": "2025-03-12",
+          "views": 22638
+        },
+        {
+          "date": "2025-03-13",
+          "views": 18043
+        },
+        {
+          "date": "2025-03-14",
+          "views": 16854
+        },
+        {
+          "date": "2025-03-15",
+          "views": 19449
+        },
+        {
+          "date": "2025-03-16",
+          "views": 20525
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Gattopardo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Il_Gattopardo",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Gattopardo",
+      "description": "romanzo scritto da Giuseppe Tomasi di Lampedusa",
+      "image_filename": "Incipit_Gattopardo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Incipit_Gattopardo.jpg/1280px-Incipit_Gattopardo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Incipit_Gattopardo.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Pietro_Genuardi",
+      "views": 118199,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 0
+        },
+        {
+          "date": "2025-03-11",
+          "views": 0
+        },
+        {
+          "date": "2025-03-12",
+          "views": 0
+        },
+        {
+          "date": "2025-03-13",
+          "views": 0
+        },
+        {
+          "date": "2025-03-14",
+          "views": 80448
+        },
+        {
+          "date": "2025-03-15",
+          "views": 28380
+        },
+        {
+          "date": "2025-03-16",
+          "views": 9371
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pietro%20Genuardi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Pietro_Genuardi",
+      "article_url": "https://it.wikipedia.org/wiki/Pietro_Genuardi",
+      "description": "attore italiano (1962-2025)",
+      "image_filename": "Pietro_Genuardi.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pietro_Genuardi.JPG/1280px-Pietro_Genuardi.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pietro_Genuardi.JPG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Andrea_Kimi_Antonelli",
+      "views": 108402,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 2804
+        },
+        {
+          "date": "2025-03-11",
+          "views": 3955
+        },
+        {
+          "date": "2025-03-12",
+          "views": 3293
+        },
+        {
+          "date": "2025-03-13",
+          "views": 3822
+        },
+        {
+          "date": "2025-03-14",
+          "views": 5507
+        },
+        {
+          "date": "2025-03-15",
+          "views": 14706
+        },
+        {
+          "date": "2025-03-16",
+          "views": 74315
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andrea%20Kimi%20Antonelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Andrea_Kimi_Antonelli",
+      "article_url": "https://it.wikipedia.org/wiki/Andrea_Kimi_Antonelli",
+      "description": "pilota automobilistico italiano (2006-)",
+      "image_filename": "Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin,_TX_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Oriana_Fallaci",
+      "views": 98268,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 4112
+        },
+        {
+          "date": "2025-03-11",
+          "views": 50439
+        },
+        {
+          "date": "2025-03-12",
+          "views": 20570
+        },
+        {
+          "date": "2025-03-13",
+          "views": 8277
+        },
+        {
+          "date": "2025-03-14",
+          "views": 5447
+        },
+        {
+          "date": "2025-03-15",
+          "views": 5064
+        },
+        {
+          "date": "2025-03-16",
+          "views": 4359
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Oriana%20Fallaci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Oriana_Fallaci",
+      "article_url": "https://it.wikipedia.org/wiki/Oriana_Fallaci",
+      "description": "giornalista e scrittrice italiana (1929-2006)",
+      "image_filename": "Oriana_Fallaci_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/35/Oriana_Fallaci_2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Oriana_Fallaci_2.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Mare_fuori",
+      "views": 97350,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 2598
+        },
+        {
+          "date": "2025-03-11",
+          "views": 5332
+        },
+        {
+          "date": "2025-03-12",
+          "views": 26446
+        },
+        {
+          "date": "2025-03-13",
+          "views": 22035
+        },
+        {
+          "date": "2025-03-14",
+          "views": 15382
+        },
+        {
+          "date": "2025-03-15",
+          "views": 13159
+        },
+        {
+          "date": "2025-03-16",
+          "views": 12398
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mare%20fuori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Mare_fuori",
+      "article_url": "https://it.wikipedia.org/wiki/Mare_fuori",
+      "description": "serie televisiva italiana del 2020",
+      "image_filename": "Mare_fuori.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d5/Mare_fuori.png/1280px-Mare_fuori.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mare_fuori.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Il_Gattopardo_(serie_televisiva)",
+      "views": 81993,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 16855
+        },
+        {
+          "date": "2025-03-11",
+          "views": 13462
+        },
+        {
+          "date": "2025-03-12",
+          "views": 11906
+        },
+        {
+          "date": "2025-03-13",
+          "views": 9453
+        },
+        {
+          "date": "2025-03-14",
+          "views": 8870
+        },
+        {
+          "date": "2025-03-15",
+          "views": 10007
+        },
+        {
+          "date": "2025-03-16",
+          "views": 11440
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Gattopardo%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Il_Gattopardo_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Gattopardo_(serie_televisiva)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Elio_Corno",
+      "views": 81422,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 51707
+        },
+        {
+          "date": "2025-03-11",
+          "views": 12860
+        },
+        {
+          "date": "2025-03-12",
+          "views": 6134
+        },
+        {
+          "date": "2025-03-13",
+          "views": 2775
+        },
+        {
+          "date": "2025-03-14",
+          "views": 2190
+        },
+        {
+          "date": "2025-03-15",
+          "views": 2217
+        },
+        {
+          "date": "2025-03-16",
+          "views": 3539
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elio%20Corno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Elio_Corno",
+      "article_url": "https://it.wikipedia.org/wiki/Elio_Corno",
+      "description": "giornalista e opinionista italiano (1946-2025)",
+      "image_filename": "Elio_Corno_(cropped).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Elio_Corno_%28cropped%29.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elio_Corno_(cropped).JPG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Campi_Flegrei",
+      "views": 79894,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 0
+        },
+        {
+          "date": "2025-03-11",
+          "views": 0
+        },
+        {
+          "date": "2025-03-12",
+          "views": 0
+        },
+        {
+          "date": "2025-03-13",
+          "views": 29740
+        },
+        {
+          "date": "2025-03-14",
+          "views": 18488
+        },
+        {
+          "date": "2025-03-15",
+          "views": 18848
+        },
+        {
+          "date": "2025-03-16",
+          "views": 12818
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campi%20Flegrei&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Campi_Flegrei",
+      "article_url": "https://it.wikipedia.org/wiki/Campi_Flegrei",
+      "description": "area geografica di natura vulcanica",
+      "image_filename": "Panorama_con_Cratere_degli_Astroni.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Panorama_con_Cratere_degli_Astroni.jpg/1280px-Panorama_con_Cratere_degli_Astroni.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Panorama_con_Cratere_degli_Astroni.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Mickey_17",
+      "views": 72011,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 10547
+        },
+        {
+          "date": "2025-03-11",
+          "views": 9007
+        },
+        {
+          "date": "2025-03-12",
+          "views": 9691
+        },
+        {
+          "date": "2025-03-13",
+          "views": 8218
+        },
+        {
+          "date": "2025-03-14",
+          "views": 9529
+        },
+        {
+          "date": "2025-03-15",
+          "views": 13949
+        },
+        {
+          "date": "2025-03-16",
+          "views": 11070
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mickey%2017&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Mickey_17",
+      "article_url": "https://it.wikipedia.org/wiki/Mickey_17",
+      "description": "film del 2025 diretto da Bong Joon-ho",
+      "image_filename": "Mickey_17_Bong_Joon_ho.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/9e/Mickey_17_Bong_Joon_ho.jpg/1280px-Mickey_17_Bong_Joon_ho.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mickey_17_Bong_Joon_ho.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Follemente",
+      "views": 70041,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 9525
+        },
+        {
+          "date": "2025-03-11",
+          "views": 7231
+        },
+        {
+          "date": "2025-03-12",
+          "views": 7581
+        },
+        {
+          "date": "2025-03-13",
+          "views": 6226
+        },
+        {
+          "date": "2025-03-14",
+          "views": 7622
+        },
+        {
+          "date": "2025-03-15",
+          "views": 16415
+        },
+        {
+          "date": "2025-03-16",
+          "views": 15441
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Follemente&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Follemente",
+      "article_url": "https://it.wikipedia.org/wiki/Follemente",
+      "description": "film del 2025 diretto da Paolo Genovese",
+      "image_filename": "Follemente.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/5a/Follemente.jpg/1280px-Follemente.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Follemente.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Episodi_di_Mare_fuori_(quinta_stagione)",
+      "views": 64161,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 0
+        },
+        {
+          "date": "2025-03-11",
+          "views": 0
+        },
+        {
+          "date": "2025-03-12",
+          "views": 0
+        },
+        {
+          "date": "2025-03-13",
+          "views": 13153
+        },
+        {
+          "date": "2025-03-14",
+          "views": 17815
+        },
+        {
+          "date": "2025-03-15",
+          "views": 17701
+        },
+        {
+          "date": "2025-03-16",
+          "views": 15492
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Mare%20fuori%20%28quinta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Episodi_di_Mare_fuori_(quinta_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Mare_fuori_(quinta_stagione)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Anora",
+      "views": 61797,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 10620
+        },
+        {
+          "date": "2025-03-11",
+          "views": 8076
+        },
+        {
+          "date": "2025-03-12",
+          "views": 7372
+        },
+        {
+          "date": "2025-03-13",
+          "views": 6370
+        },
+        {
+          "date": "2025-03-14",
+          "views": 6815
+        },
+        {
+          "date": "2025-03-15",
+          "views": 11287
+        },
+        {
+          "date": "2025-03-16",
+          "views": 11257
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Anora&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Anora",
+      "article_url": "https://it.wikipedia.org/wiki/Anora",
+      "description": "film del 2024 diretto da Sean Baker",
+      "image_filename": "Anora_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anora_logo.svg/1280px-Anora_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anora_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Dele_Alli",
+      "views": 59371,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 0
+        },
+        {
+          "date": "2025-03-11",
+          "views": 0
+        },
+        {
+          "date": "2025-03-12",
+          "views": 0
+        },
+        {
+          "date": "2025-03-13",
+          "views": 0
+        },
+        {
+          "date": "2025-03-14",
+          "views": 0
+        },
+        {
+          "date": "2025-03-15",
+          "views": 32853
+        },
+        {
+          "date": "2025-03-16",
+          "views": 26518
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Dele%20Alli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Dele_Alli",
+      "article_url": "https://it.wikipedia.org/wiki/Dele_Alli",
+      "description": "calciatore inglese (1996-)",
+      "image_filename": "2020-03-10_Dele_Alli_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2020-03-10_Dele_Alli_%28cropped%29.jpg/1280px-2020-03-10_Dele_Alli_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2020-03-10_Dele_Alli_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Il_Gattopardo_(film)",
+      "views": 58804,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 12098
+        },
+        {
+          "date": "2025-03-11",
+          "views": 9431
+        },
+        {
+          "date": "2025-03-12",
+          "views": 8425
+        },
+        {
+          "date": "2025-03-13",
+          "views": 7119
+        },
+        {
+          "date": "2025-03-14",
+          "views": 6545
+        },
+        {
+          "date": "2025-03-15",
+          "views": 7270
+        },
+        {
+          "date": "2025-03-16",
+          "views": 7916
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Gattopardo%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Il_Gattopardo_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Gattopardo_(film)",
+      "description": "film del 1963 diretto da Luchino Visconti",
+      "image_filename": "Fotogramma_ballo_Il_Gattopardo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Fotogramma_ballo_Il_Gattopardo.png/1280px-Fotogramma_ballo_Il_Gattopardo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fotogramma_ballo_Il_Gattopardo.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Rai",
+      "views": 58681,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 8020
+        },
+        {
+          "date": "2025-03-11",
+          "views": 8066
+        },
+        {
+          "date": "2025-03-12",
+          "views": 8863
+        },
+        {
+          "date": "2025-03-13",
+          "views": 9358
+        },
+        {
+          "date": "2025-03-14",
+          "views": 8786
+        },
+        {
+          "date": "2025-03-15",
+          "views": 8370
+        },
+        {
+          "date": "2025-03-16",
+          "views": 7218
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "Groenlandia",
+      "views": 57634,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 6601
+        },
+        {
+          "date": "2025-03-11",
+          "views": 9359
+        },
+        {
+          "date": "2025-03-12",
+          "views": 23848
+        },
+        {
+          "date": "2025-03-13",
+          "views": 9012
+        },
+        {
+          "date": "2025-03-14",
+          "views": 4371
+        },
+        {
+          "date": "2025-03-15",
+          "views": 2349
+        },
+        {
+          "date": "2025-03-16",
+          "views": 2094
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Groenlandia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Groenlandia",
+      "article_url": "https://it.wikipedia.org/wiki/Groenlandia",
+      "description": "isola atlantica del Regno di Danimarca",
+      "image_filename": "Flag_of_Greenland.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/1280px-Flag_of_Greenland.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Greenland.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Kim_Rossi_Stuart",
+      "views": 57423,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 10187
+        },
+        {
+          "date": "2025-03-11",
+          "views": 10039
+        },
+        {
+          "date": "2025-03-12",
+          "views": 7986
+        },
+        {
+          "date": "2025-03-13",
+          "views": 6196
+        },
+        {
+          "date": "2025-03-14",
+          "views": 6183
+        },
+        {
+          "date": "2025-03-15",
+          "views": 6955
+        },
+        {
+          "date": "2025-03-16",
+          "views": 9877
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kim%20Rossi%20Stuart&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Kim_Rossi_Stuart",
+      "article_url": "https://it.wikipedia.org/wiki/Kim_Rossi_Stuart",
+      "description": "attore, regista e sceneggiatore italiano (1969-)",
+      "image_filename": "Kim_Rossi_Stuart_FCI_Tokyo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kim_Rossi_Stuart_FCI_Tokyo.jpg/1024px-Kim_Rossi_Stuart_FCI_Tokyo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kim_Rossi_Stuart_FCI_Tokyo.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Belcanto_(serie_televisiva)",
+      "views": 56753,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 24728
+        },
+        {
+          "date": "2025-03-11",
+          "views": 13181
+        },
+        {
+          "date": "2025-03-12",
+          "views": 5692
+        },
+        {
+          "date": "2025-03-13",
+          "views": 3682
+        },
+        {
+          "date": "2025-03-14",
+          "views": 2865
+        },
+        {
+          "date": "2025-03-15",
+          "views": 2985
+        },
+        {
+          "date": "2025-03-16",
+          "views": 3620
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Belcanto%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Belcanto_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Belcanto_(serie_televisiva)",
+      "description": "serie televisiva italiana del 2025",
+      "image_filename": "Belcanto_(serie_televisiva).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/4/40/Belcanto_%28serie_televisiva%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Belcanto_(serie_televisiva).jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Episodi_di_Mare_fuori_(quarta_stagione)",
+      "views": 52236,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 914
+        },
+        {
+          "date": "2025-03-11",
+          "views": 2495
+        },
+        {
+          "date": "2025-03-12",
+          "views": 17300
+        },
+        {
+          "date": "2025-03-13",
+          "views": 10965
+        },
+        {
+          "date": "2025-03-14",
+          "views": 7534
+        },
+        {
+          "date": "2025-03-15",
+          "views": 6822
+        },
+        {
+          "date": "2025-03-16",
+          "views": 6206
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Mare%20fuori%20%28quarta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Episodi_di_Mare_fuori_(quarta_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Mare_fuori_(quarta_stagione)",
+      "description": "lista di episodi della quarta stagione",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Elon_Musk",
+      "views": 50881,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 10449
+        },
+        {
+          "date": "2025-03-11",
+          "views": 9885
+        },
+        {
+          "date": "2025-03-12",
+          "views": 7803
+        },
+        {
+          "date": "2025-03-13",
+          "views": 5013
+        },
+        {
+          "date": "2025-03-14",
+          "views": 4390
+        },
+        {
+          "date": "2025-03-15",
+          "views": 6162
+        },
+        {
+          "date": "2025-03-16",
+          "views": 7179
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elon%20Musk&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Elon_Musk",
+      "article_url": "https://it.wikipedia.org/wiki/Elon_Musk",
+      "description": "imprenditore e politico sudafricano, con cittadinanza canadese, naturalizzato statunitense (1971\u2013)",
+      "image_filename": "Elon_Musk_-_54820081119_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/1280px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_-_54820081119_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Saul_Nanni",
+      "views": 49321,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 9164
+        },
+        {
+          "date": "2025-03-11",
+          "views": 7050
+        },
+        {
+          "date": "2025-03-12",
+          "views": 6904
+        },
+        {
+          "date": "2025-03-13",
+          "views": 7057
+        },
+        {
+          "date": "2025-03-14",
+          "views": 6321
+        },
+        {
+          "date": "2025-03-15",
+          "views": 6481
+        },
+        {
+          "date": "2025-03-16",
+          "views": 6344
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Saul%20Nanni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Saul_Nanni",
+      "article_url": "https://it.wikipedia.org/wiki/Saul_Nanni",
+      "description": "attore italiano (1999-)",
+      "image_filename": "Saul_Nanni_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Saul_Nanni_at_82nd_Venice_International_Film_Festival-4_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Saul_Nanni_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Gino_Paoli",
+      "views": 48847,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 27379
+        },
+        {
+          "date": "2025-03-11",
+          "views": 12852
+        },
+        {
+          "date": "2025-03-12",
+          "views": 4491
+        },
+        {
+          "date": "2025-03-13",
+          "views": 1718
+        },
+        {
+          "date": "2025-03-14",
+          "views": 1225
+        },
+        {
+          "date": "2025-03-15",
+          "views": 1182
+        },
+        {
+          "date": "2025-03-16",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gino%20Paoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Gino_Paoli",
+      "article_url": "https://it.wikipedia.org/wiki/Gino_Paoli",
+      "description": "cantautore, musicista ed ex politico italiano (1934-)",
+      "image_filename": "Gino_Paoli_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gino_Paoli_cropped.jpg/1083px-Gino_Paoli_cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gino_Paoli_cropped.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Giuliano_Simeone",
+      "views": 48321,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 0
+        },
+        {
+          "date": "2025-03-11",
+          "views": 0
+        },
+        {
+          "date": "2025-03-12",
+          "views": 38465
+        },
+        {
+          "date": "2025-03-13",
+          "views": 7037
+        },
+        {
+          "date": "2025-03-14",
+          "views": 1019
+        },
+        {
+          "date": "2025-03-15",
+          "views": 0
+        },
+        {
+          "date": "2025-03-16",
+          "views": 1800
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giuliano%20Simeone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=Giuliano_Simeone",
+      "article_url": "https://it.wikipedia.org/wiki/Giuliano_Simeone",
+      "description": "calciatore argentino (2002-)",
+      "image_filename": "Giuliano_Simeone,_FC_Salzburg_vs._Atletico_Madrid_(2025-01-29_UEFA_Championsleague)_53_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Giuliano_Simeone%2C_FC_Salzburg_vs._Atletico_Madrid_%282025-01-29_UEFA_Championsleague%29_53_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuliano_Simeone%2C_FC_Salzburg_vs._Atletico_Madrid_(2025-01-29_UEFA_Championsleague)_53_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "La_citt\u00e0_proibita_(film_2025)",
+      "views": 47403,
+      "daily_views": [
+        {
+          "date": "2025-03-10",
+          "views": 2581
+        },
+        {
+          "date": "2025-03-11",
+          "views": 3410
+        },
+        {
+          "date": "2025-03-12",
+          "views": 4207
+        },
+        {
+          "date": "2025-03-13",
+          "views": 6176
+        },
+        {
+          "date": "2025-03-14",
+          "views": 8764
+        },
+        {
+          "date": "2025-03-15",
+          "views": 12123
+        },
+        {
+          "date": "2025-03-16",
+          "views": 10142
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20citt%C3%A0%20proibita%20%28film%202025%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/10/2025,cd_max:03/16/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-03-10&end=2025-03-16&pages=La_citt%C3%A0_proibita_(film_2025)",
+      "article_url": "https://it.wikipedia.org/wiki/La_citt%C3%A0_proibita_(film_2025)",
+      "description": "film del 2025 diretto da Gabriele Mainetti",
+      "image_filename": "La_citt\u00e0_proibita_(film_2025).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d3/La_citt%C3%A0_proibita_%28film_2025%29.png/1280px-La_citt%C3%A0_proibita_%28film_2025%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_citt%C3%A0_proibita_(film_2025).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

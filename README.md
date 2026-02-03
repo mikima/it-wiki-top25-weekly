@@ -60,6 +60,8 @@ Opzioni utili:
 - `--start-year` e `--start-week` per partire da una settimana specifica
 - `--top 25` per cambiare il limite articoli
 - `--dry-run` per vedere i comandi senza eseguirli
+- salta automaticamente le settimane già presenti in `docs/json`
+- `--force-rewrite` per rieseguire anche le settimane già presenti
 
 By default, the wikicode renderer writes to `wikicode/YYYY-WW.wiki` and the
 Markdown renderer writes to `markdown/YYYY-WW.md`. The Markdown table includes

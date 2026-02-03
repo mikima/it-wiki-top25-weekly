@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2022,
+  "week": 51,
+  "start_date": "2022-12-19",
+  "end_date": "2022-12-25",
+  "days": [
+    "2022-12-19",
+    "2022-12-20",
+    "2022-12-21",
+    "2022-12-22",
+    "2022-12-23",
+    "2022-12-24",
+    "2022-12-25"
+  ],
+  "total_articles": 2727,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Lionel_Messi",
+      "views": 349482,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 176440
+        },
+        {
+          "date": "2022-12-20",
+          "views": 64838
+        },
+        {
+          "date": "2022-12-21",
+          "views": 36122
+        },
+        {
+          "date": "2022-12-22",
+          "views": 23662
+        },
+        {
+          "date": "2022-12-23",
+          "views": 18075
+        },
+        {
+          "date": "2022-12-24",
+          "views": 16013
+        },
+        {
+          "date": "2022-12-25",
+          "views": 14332
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lionel%20Messi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Lionel_Messi",
+      "article_url": "https://it.wikipedia.org/wiki/Lionel_Messi",
+      "description": "calciatore argentino (1987-)",
+      "image_filename": "Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg/1280px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Gianluca_Vialli",
+      "views": 234171,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 14118
+        },
+        {
+          "date": "2022-12-20",
+          "views": 113914
+        },
+        {
+          "date": "2022-12-21",
+          "views": 49067
+        },
+        {
+          "date": "2022-12-22",
+          "views": 22487
+        },
+        {
+          "date": "2022-12-23",
+          "views": 15442
+        },
+        {
+          "date": "2022-12-24",
+          "views": 10636
+        },
+        {
+          "date": "2022-12-25",
+          "views": 8507
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gianluca%20Vialli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Gianluca_Vialli",
+      "article_url": "https://it.wikipedia.org/wiki/Gianluca_Vialli",
+      "description": "calciatore, allenatore di calcio e dirigente sportivo italiano (1964-2023)",
+      "image_filename": "Gianluca_Vialli_-_Italia_'90.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/76/Gianluca_Vialli_-_Italia_%2790.jpg/1249px-Gianluca_Vialli_-_Italia_%2790.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gianluca_Vialli_-_Italia_%2790.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Kylian_Mbapp\u00e9",
+      "views": 167329,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 77758
+        },
+        {
+          "date": "2022-12-20",
+          "views": 33304
+        },
+        {
+          "date": "2022-12-21",
+          "views": 21403
+        },
+        {
+          "date": "2022-12-22",
+          "views": 12773
+        },
+        {
+          "date": "2022-12-23",
+          "views": 8546
+        },
+        {
+          "date": "2022-12-24",
+          "views": 6849
+        },
+        {
+          "date": "2022-12-25",
+          "views": 6696
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kylian%20Mbapp%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Kylian_Mbapp%C3%A9",
+      "article_url": "https://it.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+      "description": "calciatore francese (1998-)",
+      "image_filename": "Picture_with_Mbapp\u00e9_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Picture_with_Mbapp%C3%A9_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Picture_with_Mbapp%C3%A9_(cropped).jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Campionato_mondiale_di_calcio",
+      "views": 161498,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 81338
+        },
+        {
+          "date": "2022-12-20",
+          "views": 29364
+        },
+        {
+          "date": "2022-12-21",
+          "views": 15947
+        },
+        {
+          "date": "2022-12-22",
+          "views": 11428
+        },
+        {
+          "date": "2022-12-23",
+          "views": 8618
+        },
+        {
+          "date": "2022-12-24",
+          "views": 7846
+        },
+        {
+          "date": "2022-12-25",
+          "views": 6957
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Campionato_mondiale_di_calcio",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio",
+      "description": "torneo calcistico per squadre nazionali maschili",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Franco_Frattini",
+      "views": 144243,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 0
+        },
+        {
+          "date": "2022-12-20",
+          "views": 0
+        },
+        {
+          "date": "2022-12-21",
+          "views": 0
+        },
+        {
+          "date": "2022-12-22",
+          "views": 0
+        },
+        {
+          "date": "2022-12-23",
+          "views": 0
+        },
+        {
+          "date": "2022-12-24",
+          "views": 40105
+        },
+        {
+          "date": "2022-12-25",
+          "views": 104138
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Franco%20Frattini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Franco_Frattini",
+      "article_url": "https://it.wikipedia.org/wiki/Franco_Frattini",
+      "description": "politico e magistrato italiano (1957-2022)",
+      "image_filename": "Franco_Frattini_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Franco_Frattini_2012.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Franco_Frattini_2012.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Il_Grinch_(film_2000)",
+      "views": 140905,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 10586
+        },
+        {
+          "date": "2022-12-20",
+          "views": 8710
+        },
+        {
+          "date": "2022-12-21",
+          "views": 6215
+        },
+        {
+          "date": "2022-12-22",
+          "views": 13046
+        },
+        {
+          "date": "2022-12-23",
+          "views": 18032
+        },
+        {
+          "date": "2022-12-24",
+          "views": 37150
+        },
+        {
+          "date": "2022-12-25",
+          "views": 47166
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Grinch%20%28film%202000%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Il_Grinch_(film_2000)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Grinch_(film_2000)",
+      "description": "film del 2000 diretto da Ron Howard",
+      "image_filename": "Il_Grinch.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f8/Il_Grinch.jpg/1280px-Il_Grinch.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Grinch.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Sini\u0161a_Mihajlovi\u0107",
+      "views": 139217,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 62201
+        },
+        {
+          "date": "2022-12-20",
+          "views": 34979
+        },
+        {
+          "date": "2022-12-21",
+          "views": 15400
+        },
+        {
+          "date": "2022-12-22",
+          "views": 9078
+        },
+        {
+          "date": "2022-12-23",
+          "views": 6800
+        },
+        {
+          "date": "2022-12-24",
+          "views": 5563
+        },
+        {
+          "date": "2022-12-25",
+          "views": 5196
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sini%C5%A1a%20Mihajlovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Sini%C5%A1a_Mihajlovi%C4%87",
+      "article_url": "https://it.wikipedia.org/wiki/Sini%C5%A1a_Mihajlovi%C4%87",
+      "description": "calciatore e allenatore di calcio serbo con cittadinanza italiana (1969-2022)",
+      "image_filename": "Sinisa_Mihajlovic,_Sampdoria_1994-95.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Sinisa_Mihajlovic%2C_Sampdoria_1994-95.jpg/1084px-Sinisa_Mihajlovic%2C_Sampdoria_1994-95.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sinisa_Mihajlovic%2C_Sampdoria_1994-95.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Avatar_(film_2009)",
+      "views": 129710,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 19667
+        },
+        {
+          "date": "2022-12-20",
+          "views": 23207
+        },
+        {
+          "date": "2022-12-21",
+          "views": 19061
+        },
+        {
+          "date": "2022-12-22",
+          "views": 16339
+        },
+        {
+          "date": "2022-12-23",
+          "views": 13315
+        },
+        {
+          "date": "2022-12-24",
+          "views": 15360
+        },
+        {
+          "date": "2022-12-25",
+          "views": 22761
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Avatar%20%28film%202009%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Avatar_(film_2009)",
+      "article_url": "https://it.wikipedia.org/wiki/Avatar_(film_2009)",
+      "description": "film del 2009 diretto da James Cameron",
+      "image_filename": "Avatar_film_2009.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f7/Avatar_film_2009.JPG/1280px-Avatar_film_2009.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Avatar_film_2009.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Diego_Armando_Maradona",
+      "views": 127408,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 48346
+        },
+        {
+          "date": "2022-12-20",
+          "views": 22876
+        },
+        {
+          "date": "2022-12-21",
+          "views": 16542
+        },
+        {
+          "date": "2022-12-22",
+          "views": 12382
+        },
+        {
+          "date": "2022-12-23",
+          "views": 9480
+        },
+        {
+          "date": "2022-12-24",
+          "views": 9036
+        },
+        {
+          "date": "2022-12-25",
+          "views": 8746
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Diego%20Armando%20Maradona&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Diego_Armando_Maradona",
+      "article_url": "https://it.wikipedia.org/wiki/Diego_Armando_Maradona",
+      "description": "calciatore, allenatore di calcio e dirigente sportivo argentino (1960-2020)",
+      "image_filename": "Maradona_gol_Napoli_1987-1988.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Maradona_gol_Napoli_1987-1988.jpg/1280px-Maradona_gol_Napoli_1987-1988.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maradona_gol_Napoli_1987-1988.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Emiliano_Mart\u00ednez",
+      "views": 121873,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 56821
+        },
+        {
+          "date": "2022-12-20",
+          "views": 22510
+        },
+        {
+          "date": "2022-12-21",
+          "views": 15606
+        },
+        {
+          "date": "2022-12-22",
+          "views": 9044
+        },
+        {
+          "date": "2022-12-23",
+          "views": 7632
+        },
+        {
+          "date": "2022-12-24",
+          "views": 6109
+        },
+        {
+          "date": "2022-12-25",
+          "views": 4151
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Emiliano%20Mart%C3%ADnez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Emiliano_Mart%C3%ADnez",
+      "article_url": "https://it.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez",
+      "description": "calciatore argentino (1992-)",
+      "image_filename": "Argentina_1-1_Ecuador_-_Copa_Am\u00e9rica_2024_-_Emiliano_Mart\u00ednez.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Argentina_1-1_Ecuador_-_Copa_Am%C3%A9rica_2024_-_Emiliano_Mart%C3%ADnez.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Argentina_1-1_Ecuador_-_Copa_Am%C3%A9rica_2024_-_Emiliano_Mart%C3%ADnez.jpg",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Avatar_-_La_via_dell'acqua",
+      "views": 115812,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 22380
+        },
+        {
+          "date": "2022-12-20",
+          "views": 18290
+        },
+        {
+          "date": "2022-12-21",
+          "views": 16582
+        },
+        {
+          "date": "2022-12-22",
+          "views": 15282
+        },
+        {
+          "date": "2022-12-23",
+          "views": 14612
+        },
+        {
+          "date": "2022-12-24",
+          "views": 13251
+        },
+        {
+          "date": "2022-12-25",
+          "views": 15415
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Avatar%20-%20La%20via%20dell%27acqua&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Avatar_-_La_via_dell%27acqua",
+      "article_url": "https://it.wikipedia.org/wiki/Avatar_-_La_via_dell%27acqua",
+      "description": "film del 2022 diretto da James Cameron",
+      "image_filename": "Avatar_-_La_via_dell'acqua.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e1/Avatar_-_La_via_dell%27acqua.png/1280px-Avatar_-_La_via_dell%27acqua.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Avatar_-_La_via_dell%27acqua.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Ines_Rau",
+      "views": 103982,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 28539
+        },
+        {
+          "date": "2022-12-20",
+          "views": 25344
+        },
+        {
+          "date": "2022-12-21",
+          "views": 24411
+        },
+        {
+          "date": "2022-12-22",
+          "views": 14598
+        },
+        {
+          "date": "2022-12-23",
+          "views": 5833
+        },
+        {
+          "date": "2022-12-24",
+          "views": 2971
+        },
+        {
+          "date": "2022-12-25",
+          "views": 2286
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ines%20Rau&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Ines_Rau",
+      "article_url": "https://it.wikipedia.org/wiki/Ines_Rau",
+      "description": "modella francese (1990-)",
+      "image_filename": "In\u00e8s_Rau.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/In%C3%A8s_Rau.jpg/1044px-In%C3%A8s_Rau.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:In%C3%A8s_Rau.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Pel\u00e9",
+      "views": 99205,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 12874
+        },
+        {
+          "date": "2022-12-20",
+          "views": 8256
+        },
+        {
+          "date": "2022-12-21",
+          "views": 10958
+        },
+        {
+          "date": "2022-12-22",
+          "views": 17962
+        },
+        {
+          "date": "2022-12-23",
+          "views": 9705
+        },
+        {
+          "date": "2022-12-24",
+          "views": 21083
+        },
+        {
+          "date": "2022-12-25",
+          "views": 18367
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pel%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Pel%C3%A9",
+      "article_url": "https://it.wikipedia.org/wiki/Pel%C3%A9",
+      "description": "calciatore e dirigente sportivo brasiliano (1940-2022)",
+      "image_filename": "Pele_con_brasil_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pele_con_brasil_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Lionel_Scaloni",
+      "views": 94632,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 47595
+        },
+        {
+          "date": "2022-12-20",
+          "views": 22426
+        },
+        {
+          "date": "2022-12-21",
+          "views": 10561
+        },
+        {
+          "date": "2022-12-22",
+          "views": 5542
+        },
+        {
+          "date": "2022-12-23",
+          "views": 3424
+        },
+        {
+          "date": "2022-12-24",
+          "views": 2791
+        },
+        {
+          "date": "2022-12-25",
+          "views": 2293
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lionel%20Scaloni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Lionel_Scaloni",
+      "article_url": "https://it.wikipedia.org/wiki/Lionel_Scaloni",
+      "description": "allenatore di calcio e calciatore argentino (1978-)",
+      "image_filename": "Lionel_Scaloni_-_2022.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lionel_Scaloni_-_2022.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lionel_Scaloni_-_2022.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Campionato_mondiale_di_calcio_2022",
+      "views": 89207,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 44676
+        },
+        {
+          "date": "2022-12-20",
+          "views": 15430
+        },
+        {
+          "date": "2022-12-21",
+          "views": 9183
+        },
+        {
+          "date": "2022-12-22",
+          "views": 6338
+        },
+        {
+          "date": "2022-12-23",
+          "views": 5220
+        },
+        {
+          "date": "2022-12-24",
+          "views": 4590
+        },
+        {
+          "date": "2022-12-25",
+          "views": 3770
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202022&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Campionato_mondiale_di_calcio_2022",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2022",
+      "description": "22\u00aa edizione del campionato mondiale di calcio FIFA",
+      "image_filename": "Campionato_mondiale_di_calcio_2022_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/Campionato_mondiale_di_calcio_2022_logo.svg/1280px-Campionato_mondiale_di_calcio_2022_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Campionato_mondiale_di_calcio_2022_logo.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Nazionale_di_calcio_dell'Argentina",
+      "views": 85122,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 42707
+        },
+        {
+          "date": "2022-12-20",
+          "views": 16022
+        },
+        {
+          "date": "2022-12-21",
+          "views": 9265
+        },
+        {
+          "date": "2022-12-22",
+          "views": 5586
+        },
+        {
+          "date": "2022-12-23",
+          "views": 4619
+        },
+        {
+          "date": "2022-12-24",
+          "views": 3809
+        },
+        {
+          "date": "2022-12-25",
+          "views": 3114
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nazionale%20di%20calcio%20dell%27Argentina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Nazionale_di_calcio_dell%27Argentina",
+      "article_url": "https://it.wikipedia.org/wiki/Nazionale_di_calcio_dell%27Argentina",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Il_Volo_(gruppo_musicale_anni_2010)",
+      "views": 84087,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 0
+        },
+        {
+          "date": "2022-12-20",
+          "views": 0
+        },
+        {
+          "date": "2022-12-21",
+          "views": 0
+        },
+        {
+          "date": "2022-12-22",
+          "views": 0
+        },
+        {
+          "date": "2022-12-23",
+          "views": 0
+        },
+        {
+          "date": "2022-12-24",
+          "views": 54313
+        },
+        {
+          "date": "2022-12-25",
+          "views": 29774
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Volo%20%28gruppo%20musicale%20anni%202010%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Il_Volo_(gruppo_musicale_anni_2010)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Volo_(gruppo_musicale_anni_2010)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Ken_Miles",
+      "views": 82190,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 57472
+        },
+        {
+          "date": "2022-12-20",
+          "views": 16283
+        },
+        {
+          "date": "2022-12-21",
+          "views": 3201
+        },
+        {
+          "date": "2022-12-22",
+          "views": 1767
+        },
+        {
+          "date": "2022-12-23",
+          "views": 1242
+        },
+        {
+          "date": "2022-12-24",
+          "views": 1110
+        },
+        {
+          "date": "2022-12-25",
+          "views": 1115
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ken%20Miles&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Ken_Miles",
+      "article_url": "https://it.wikipedia.org/wiki/Ken_Miles",
+      "description": "pilota automobilistico anglo-statunitense (1918-1966)",
+      "image_filename": "Dolphin_Mk_2_with_ken_MIles.tif",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dolphin_Mk_2_with_ken_MIles.tif/lossy-page1-1000px-Dolphin_Mk_2_with_ken_MIles.tif.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dolphin_Mk_2_with_ken_MIles.tif",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Cristiano_Ronaldo",
+      "views": 81748,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 23122
+        },
+        {
+          "date": "2022-12-20",
+          "views": 13316
+        },
+        {
+          "date": "2022-12-21",
+          "views": 10316
+        },
+        {
+          "date": "2022-12-22",
+          "views": 10421
+        },
+        {
+          "date": "2022-12-23",
+          "views": 9054
+        },
+        {
+          "date": "2022-12-24",
+          "views": 7881
+        },
+        {
+          "date": "2022-12-25",
+          "views": 7638
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Cristiano_Ronaldo",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "description": "calciatore portoghese (1985-)",
+      "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Campionato_mondiale_di_calcio_2026",
+      "views": 80627,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 35503
+        },
+        {
+          "date": "2022-12-20",
+          "views": 13754
+        },
+        {
+          "date": "2022-12-21",
+          "views": 8305
+        },
+        {
+          "date": "2022-12-22",
+          "views": 7704
+        },
+        {
+          "date": "2022-12-23",
+          "views": 5748
+        },
+        {
+          "date": "2022-12-24",
+          "views": 4882
+        },
+        {
+          "date": "2022-12-25",
+          "views": 4731
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202026&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Campionato_mondiale_di_calcio_2026",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2026",
+      "description": "23\u00aa edizione del campionato mondiale di calcio FIFA",
+      "image_filename": "Campionato_mondiale_di_calcio_2026.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/e/e6/Campionato_mondiale_di_calcio_2026.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Campionato_mondiale_di_calcio_2026.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Glass_Onion_-_Knives_Out",
+      "views": 79766,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 999
+        },
+        {
+          "date": "2022-12-20",
+          "views": 1024
+        },
+        {
+          "date": "2022-12-21",
+          "views": 1218
+        },
+        {
+          "date": "2022-12-22",
+          "views": 2837
+        },
+        {
+          "date": "2022-12-23",
+          "views": 19064
+        },
+        {
+          "date": "2022-12-24",
+          "views": 22785
+        },
+        {
+          "date": "2022-12-25",
+          "views": 31839
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Glass%20Onion%20-%20Knives%20Out&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Glass_Onion_-_Knives_Out",
+      "article_url": "https://it.wikipedia.org/wiki/Glass_Onion_-_Knives_Out",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Salt_Bae",
+      "views": 79578,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 3046
+        },
+        {
+          "date": "2022-12-20",
+          "views": 7037
+        },
+        {
+          "date": "2022-12-21",
+          "views": 13642
+        },
+        {
+          "date": "2022-12-22",
+          "views": 18481
+        },
+        {
+          "date": "2022-12-23",
+          "views": 20036
+        },
+        {
+          "date": "2022-12-24",
+          "views": 11161
+        },
+        {
+          "date": "2022-12-25",
+          "views": 6175
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Salt%20Bae&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Salt_Bae",
+      "article_url": "https://it.wikipedia.org/wiki/Salt_Bae",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Fabi\u00e1n_O'Neill",
+      "views": 78570,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 0
+        },
+        {
+          "date": "2022-12-20",
+          "views": 0
+        },
+        {
+          "date": "2022-12-21",
+          "views": 0
+        },
+        {
+          "date": "2022-12-22",
+          "views": 0
+        },
+        {
+          "date": "2022-12-23",
+          "views": 0
+        },
+        {
+          "date": "2022-12-24",
+          "views": 2451
+        },
+        {
+          "date": "2022-12-25",
+          "views": 76119
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fabi%C3%A1n%20O%27Neill&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Fabi%C3%A1n_O%27Neill",
+      "article_url": "https://it.wikipedia.org/wiki/Fabi%C3%A1n_O%27Neill",
+      "description": "calciatore uruguaiano (1973-2022)",
+      "image_filename": "Fabi\u00e1n_O'Neill_-_Cagliari_Calcio_1999-2000.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/b/bd/Fabi%C3%A1n_O%27Neill_-_Cagliari_Calcio_1999-2000.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fabi%C3%A1n_O%27Neill_-_Cagliari_Calcio_1999-2000.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Filumena_Marturano",
+      "views": 76577,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 2064
+        },
+        {
+          "date": "2022-12-20",
+          "views": 43852
+        },
+        {
+          "date": "2022-12-21",
+          "views": 16437
+        },
+        {
+          "date": "2022-12-22",
+          "views": 7133
+        },
+        {
+          "date": "2022-12-23",
+          "views": 3410
+        },
+        {
+          "date": "2022-12-24",
+          "views": 1751
+        },
+        {
+          "date": "2022-12-25",
+          "views": 1930
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Filumena%20Marturano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Filumena_Marturano",
+      "article_url": "https://it.wikipedia.org/wiki/Filumena_Marturano",
+      "description": "commedia di Eduardo De Filippo",
+      "image_filename": "Filumena.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/3f/Filumena.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Filumena.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Mercoled\u00ec_(serie_televisiva)",
+      "views": 75325,
+      "daily_views": [
+        {
+          "date": "2022-12-19",
+          "views": 13103
+        },
+        {
+          "date": "2022-12-20",
+          "views": 11970
+        },
+        {
+          "date": "2022-12-21",
+          "views": 10801
+        },
+        {
+          "date": "2022-12-22",
+          "views": 9729
+        },
+        {
+          "date": "2022-12-23",
+          "views": 9425
+        },
+        {
+          "date": "2022-12-24",
+          "views": 8959
+        },
+        {
+          "date": "2022-12-25",
+          "views": 11338
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mercoled%C3%AC%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/19/2022,cd_max:12/25/2022&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-19&end=2022-12-25&pages=Mercoled%C3%AC_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Mercoled%C3%AC_(serie_televisiva)",
+      "description": "serie televisiva statunitense del 2022",
+      "image_filename": "Mercoledi-logo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mercoledi-logo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mercoledi-logo.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2018,
+  "week": 11,
+  "start_date": "2018-03-12",
+  "end_date": "2018-03-18",
+  "days": [
+    "2018-03-12",
+    "2018-03-13",
+    "2018-03-14",
+    "2018-03-15",
+    "2018-03-16",
+    "2018-03-17",
+    "2018-03-18"
+  ],
+  "total_articles": 2638,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Stephen_Hawking",
+      "views": 949042,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 1198
+        },
+        {
+          "date": "2018-03-13",
+          "views": 1271
+        },
+        {
+          "date": "2018-03-14",
+          "views": 681267
+        },
+        {
+          "date": "2018-03-15",
+          "views": 169353
+        },
+        {
+          "date": "2018-03-16",
+          "views": 44477
+        },
+        {
+          "date": "2018-03-17",
+          "views": 28720
+        },
+        {
+          "date": "2018-03-18",
+          "views": 22756
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stephen%20Hawking&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Stephen_Hawking",
+      "article_url": "https://it.wikipedia.org/wiki/Stephen_Hawking",
+      "description": "matematico, fisico, astrofisico, cosmologo, divulgatore scientifico e accademico britannico (1942-2018)",
+      "image_filename": "Hawking.PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hawking.PNG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hawking.PNG",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Aldo_Moro",
+      "views": 238839,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 14919
+        },
+        {
+          "date": "2018-03-13",
+          "views": 8356
+        },
+        {
+          "date": "2018-03-14",
+          "views": 16503
+        },
+        {
+          "date": "2018-03-15",
+          "views": 22644
+        },
+        {
+          "date": "2018-03-16",
+          "views": 117050
+        },
+        {
+          "date": "2018-03-17",
+          "views": 36470
+        },
+        {
+          "date": "2018-03-18",
+          "views": 22897
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Aldo%20Moro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Aldo_Moro",
+      "article_url": "https://it.wikipedia.org/wiki/Aldo_Moro",
+      "description": "politico e giurista italiano (1916-1978)",
+      "image_filename": "Aldo_Moro_1976_(cropped).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Aldo_Moro_1976_%28cropped%29.png/1035px-Aldo_Moro_1976_%28cropped%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Aldo_Moro_1976_(cropped).png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Interstellar",
+      "views": 149769,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 2672
+        },
+        {
+          "date": "2018-03-13",
+          "views": 2917
+        },
+        {
+          "date": "2018-03-14",
+          "views": 2934
+        },
+        {
+          "date": "2018-03-15",
+          "views": 95988
+        },
+        {
+          "date": "2018-03-16",
+          "views": 34419
+        },
+        {
+          "date": "2018-03-17",
+          "views": 6332
+        },
+        {
+          "date": "2018-03-18",
+          "views": 4507
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Interstellar&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Interstellar",
+      "article_url": "https://it.wikipedia.org/wiki/Interstellar",
+      "description": "film del 2014 diretto da Christopher Nolan",
+      "image_filename": "Interstellar-logo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Interstellar-logo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Interstellar-logo.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Caso_Moro",
+      "views": 125162,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 9033
+        },
+        {
+          "date": "2018-03-13",
+          "views": 6179
+        },
+        {
+          "date": "2018-03-14",
+          "views": 11024
+        },
+        {
+          "date": "2018-03-15",
+          "views": 14030
+        },
+        {
+          "date": "2018-03-16",
+          "views": 49067
+        },
+        {
+          "date": "2018-03-17",
+          "views": 21930
+        },
+        {
+          "date": "2018-03-18",
+          "views": 13899
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Caso%20Moro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Caso_Moro",
+      "article_url": "https://it.wikipedia.org/wiki/Caso_Moro",
+      "description": "sequestro e uccisione di Aldo Moro da parte delle Brigate Rosse (16 marzo - 9 maggio 1978)",
+      "image_filename": "Aldo_Moro_br.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Aldo_Moro_br.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Aldo_Moro_br.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "La_teoria_del_tutto",
+      "views": 124508,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 0
+        },
+        {
+          "date": "2018-03-13",
+          "views": 0
+        },
+        {
+          "date": "2018-03-14",
+          "views": 86530
+        },
+        {
+          "date": "2018-03-15",
+          "views": 24087
+        },
+        {
+          "date": "2018-03-16",
+          "views": 6135
+        },
+        {
+          "date": "2018-03-17",
+          "views": 4115
+        },
+        {
+          "date": "2018-03-18",
+          "views": 3641
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20teoria%20del%20tutto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=La_teoria_del_tutto",
+      "article_url": "https://it.wikipedia.org/wiki/La_teoria_del_tutto",
+      "description": "film del 2014 diretto da James Marsh",
+      "image_filename": "La_teoria_del_tutto_film.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/f/fe/La_teoria_del_tutto_film.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_teoria_del_tutto_film.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Giorno_del_pi_greco",
+      "views": 107638,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 0
+        },
+        {
+          "date": "2018-03-13",
+          "views": 7015
+        },
+        {
+          "date": "2018-03-14",
+          "views": 96482
+        },
+        {
+          "date": "2018-03-15",
+          "views": 4141
+        },
+        {
+          "date": "2018-03-16",
+          "views": 0
+        },
+        {
+          "date": "2018-03-17",
+          "views": 0
+        },
+        {
+          "date": "2018-03-18",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorno%20del%20pi%20greco&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Giorno_del_pi_greco",
+      "article_url": "https://it.wikipedia.org/wiki/Giorno_del_pi_greco",
+      "description": "ricorrenza dedicata alla costante \u03c0",
+      "image_filename": "Pi_pie2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Pi_pie2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pi_pie2.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Brigate_Rosse",
+      "views": 105412,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 10057
+        },
+        {
+          "date": "2018-03-13",
+          "views": 5655
+        },
+        {
+          "date": "2018-03-14",
+          "views": 9685
+        },
+        {
+          "date": "2018-03-15",
+          "views": 9751
+        },
+        {
+          "date": "2018-03-16",
+          "views": 38495
+        },
+        {
+          "date": "2018-03-17",
+          "views": 18984
+        },
+        {
+          "date": "2018-03-18",
+          "views": 12785
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Brigate%20Rosse&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Brigate_Rosse",
+      "article_url": "https://it.wikipedia.org/wiki/Brigate_Rosse",
+      "description": "organizzazione terroristica paramilitare italiana di matrice comunista",
+      "image_filename": "Flag_of_the_Brigate_Rosse_white.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_the_Brigate_Rosse_white.svg/1280px-Flag_of_the_Brigate_Rosse_white.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Brigate_Rosse_white.svg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Adriana_Faranda",
+      "views": 98579,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 5261
+        },
+        {
+          "date": "2018-03-13",
+          "views": 7349
+        },
+        {
+          "date": "2018-03-14",
+          "views": 13074
+        },
+        {
+          "date": "2018-03-15",
+          "views": 5511
+        },
+        {
+          "date": "2018-03-16",
+          "views": 35854
+        },
+        {
+          "date": "2018-03-17",
+          "views": 21398
+        },
+        {
+          "date": "2018-03-18",
+          "views": 10132
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Adriana%20Faranda&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Adriana_Faranda",
+      "article_url": "https://it.wikipedia.org/wiki/Adriana_Faranda",
+      "description": "brigatista italiana (1950-)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Mario_Moretti",
+      "views": 94944,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 16251
+        },
+        {
+          "date": "2018-03-13",
+          "views": 7005
+        },
+        {
+          "date": "2018-03-14",
+          "views": 11316
+        },
+        {
+          "date": "2018-03-15",
+          "views": 6310
+        },
+        {
+          "date": "2018-03-16",
+          "views": 25207
+        },
+        {
+          "date": "2018-03-17",
+          "views": 18128
+        },
+        {
+          "date": "2018-03-18",
+          "views": 10727
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mario%20Moretti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Mario_Moretti",
+      "article_url": "https://it.wikipedia.org/wiki/Mario_Moretti",
+      "description": "terrorista e brigatista italiano (1946-)",
+      "image_filename": "Mario_Moretti_Brigate_Rosse.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/96/Mario_Moretti_Brigate_Rosse.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mario_Moretti_Brigate_Rosse.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "La_forma_dell'acqua_-_The_Shape_of_Water",
+      "views": 93871,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 15896
+        },
+        {
+          "date": "2018-03-13",
+          "views": 11173
+        },
+        {
+          "date": "2018-03-14",
+          "views": 10120
+        },
+        {
+          "date": "2018-03-15",
+          "views": 8866
+        },
+        {
+          "date": "2018-03-16",
+          "views": 9452
+        },
+        {
+          "date": "2018-03-17",
+          "views": 17748
+        },
+        {
+          "date": "2018-03-18",
+          "views": 20616
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20forma%20dell%27acqua%20-%20The%20Shape%20of%20Water&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=La_forma_dell%27acqua_-_The_Shape_of_Water",
+      "article_url": "https://it.wikipedia.org/wiki/La_forma_dell%27acqua_-_The_Shape_of_Water",
+      "description": "film del 2017 diretto da Guillermo del Toro",
+      "image_filename": "The_Shape_of_Water.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/5/53/The_Shape_of_Water.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Shape_of_Water.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Iris_(rete_televisiva)",
+      "views": 87610,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 11233
+        },
+        {
+          "date": "2018-03-13",
+          "views": 12077
+        },
+        {
+          "date": "2018-03-14",
+          "views": 12662
+        },
+        {
+          "date": "2018-03-15",
+          "views": 10918
+        },
+        {
+          "date": "2018-03-16",
+          "views": 12112
+        },
+        {
+          "date": "2018-03-17",
+          "views": 14059
+        },
+        {
+          "date": "2018-03-18",
+          "views": 14549
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Iris_(rete_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Iris_-_Logo_2013.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Le_armi_segrete",
+      "views": 84905,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 0
+        },
+        {
+          "date": "2018-03-13",
+          "views": 0
+        },
+        {
+          "date": "2018-03-14",
+          "views": 0
+        },
+        {
+          "date": "2018-03-15",
+          "views": 0
+        },
+        {
+          "date": "2018-03-16",
+          "views": 0
+        },
+        {
+          "date": "2018-03-17",
+          "views": 5286
+        },
+        {
+          "date": "2018-03-18",
+          "views": 79619
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Le%20armi%20segrete&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Le_armi_segrete",
+      "article_url": "https://it.wikipedia.org/wiki/Le_armi_segrete",
+      "description": "raccolta di racconti di Julio Cort\u00e1zar",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Barbara_Balzerani",
+      "views": 84653,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 2665
+        },
+        {
+          "date": "2018-03-13",
+          "views": 4221
+        },
+        {
+          "date": "2018-03-14",
+          "views": 6473
+        },
+        {
+          "date": "2018-03-15",
+          "views": 3818
+        },
+        {
+          "date": "2018-03-16",
+          "views": 14316
+        },
+        {
+          "date": "2018-03-17",
+          "views": 30858
+        },
+        {
+          "date": "2018-03-18",
+          "views": 22302
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Barbara%20Balzerani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Barbara_Balzerani",
+      "article_url": "https://it.wikipedia.org/wiki/Barbara_Balzerani",
+      "description": "terrorista e scrittrice italiana (1949-2024)",
+      "image_filename": "Barbara_balzerani.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/a/af/Barbara_balzerani.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Barbara_balzerani.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Numero_di_Erd\u0151s-Bacon",
+      "views": 71350,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 0
+        },
+        {
+          "date": "2018-03-13",
+          "views": 0
+        },
+        {
+          "date": "2018-03-14",
+          "views": 52301
+        },
+        {
+          "date": "2018-03-15",
+          "views": 12231
+        },
+        {
+          "date": "2018-03-16",
+          "views": 3258
+        },
+        {
+          "date": "2018-03-17",
+          "views": 2088
+        },
+        {
+          "date": "2018-03-18",
+          "views": 1472
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Numero%20di%20Erd%C5%91s-Bacon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Numero_di_Erd%C5%91s-Bacon",
+      "article_url": "https://it.wikipedia.org/wiki/Numero_di_Erd%C5%91s-Bacon",
+      "description": "misura della distanza tra persone in una rete sociale",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Alessia_Mancini",
+      "views": 70816,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 29470
+        },
+        {
+          "date": "2018-03-13",
+          "views": 18020
+        },
+        {
+          "date": "2018-03-14",
+          "views": 9179
+        },
+        {
+          "date": "2018-03-15",
+          "views": 4361
+        },
+        {
+          "date": "2018-03-16",
+          "views": 2822
+        },
+        {
+          "date": "2018-03-17",
+          "views": 3222
+        },
+        {
+          "date": "2018-03-18",
+          "views": 3742
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alessia%20Mancini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Alessia_Mancini",
+      "article_url": "https://it.wikipedia.org/wiki/Alessia_Mancini",
+      "description": "conduttrice televisiva e showgirl italiana (1978-)",
+      "image_filename": "Alessia_Mancini.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/32/Alessia_Mancini.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alessia_Mancini.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Jane_Wilde_Hawking",
+      "views": 69547,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 0
+        },
+        {
+          "date": "2018-03-13",
+          "views": 0
+        },
+        {
+          "date": "2018-03-14",
+          "views": 49344
+        },
+        {
+          "date": "2018-03-15",
+          "views": 13650
+        },
+        {
+          "date": "2018-03-16",
+          "views": 2954
+        },
+        {
+          "date": "2018-03-17",
+          "views": 1913
+        },
+        {
+          "date": "2018-03-18",
+          "views": 1686
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jane%20Wilde%20Hawking&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Jane_Wilde_Hawking",
+      "article_url": "https://it.wikipedia.org/wiki/Jane_Wilde_Hawking",
+      "description": "scrittrice e educatrice britannica",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Matteo_Salvini",
+      "views": 66379,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 7651
+        },
+        {
+          "date": "2018-03-13",
+          "views": 7584
+        },
+        {
+          "date": "2018-03-14",
+          "views": 6587
+        },
+        {
+          "date": "2018-03-15",
+          "views": 13344
+        },
+        {
+          "date": "2018-03-16",
+          "views": 9136
+        },
+        {
+          "date": "2018-03-17",
+          "views": 8657
+        },
+        {
+          "date": "2018-03-18",
+          "views": 13420
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matteo%20Salvini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Matteo_Salvini",
+      "article_url": "https://it.wikipedia.org/wiki/Matteo_Salvini",
+      "description": "politico italiano (1973-)",
+      "image_filename": "Matteo_Salvini,_2025.12.04_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg/1280px-Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Salvini%2C_2025.12.04_(cropped).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Annientamento_(film)",
+      "views": 62764,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 12176
+        },
+        {
+          "date": "2018-03-13",
+          "views": 11655
+        },
+        {
+          "date": "2018-03-14",
+          "views": 8916
+        },
+        {
+          "date": "2018-03-15",
+          "views": 6961
+        },
+        {
+          "date": "2018-03-16",
+          "views": 6203
+        },
+        {
+          "date": "2018-03-17",
+          "views": 7399
+        },
+        {
+          "date": "2018-03-18",
+          "views": 9454
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Annientamento%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Annientamento_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Annientamento_(film)",
+      "description": "film del 2018 diretto da Alex Garland",
+      "image_filename": "Annientamento.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/23/Annientamento.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Annientamento.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Valerio_Morucci",
+      "views": 62031,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 9050
+        },
+        {
+          "date": "2018-03-13",
+          "views": 4115
+        },
+        {
+          "date": "2018-03-14",
+          "views": 14311
+        },
+        {
+          "date": "2018-03-15",
+          "views": 4896
+        },
+        {
+          "date": "2018-03-16",
+          "views": 14842
+        },
+        {
+          "date": "2018-03-17",
+          "views": 9307
+        },
+        {
+          "date": "2018-03-18",
+          "views": 5510
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Valerio%20Morucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Valerio_Morucci",
+      "article_url": "https://it.wikipedia.org/wiki/Valerio_Morucci",
+      "description": "brigatista italiano (1949-)",
+      "image_filename": "Valerio_Morucci_Processo_Moro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/d/dd/Valerio_Morucci_Processo_Moro.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Valerio_Morucci_Processo_Moro.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Delitto_di_Avetrana",
+      "views": 60337,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 19096
+        },
+        {
+          "date": "2018-03-13",
+          "views": 6581
+        },
+        {
+          "date": "2018-03-14",
+          "views": 2831
+        },
+        {
+          "date": "2018-03-15",
+          "views": 1966
+        },
+        {
+          "date": "2018-03-16",
+          "views": 3020
+        },
+        {
+          "date": "2018-03-17",
+          "views": 2099
+        },
+        {
+          "date": "2018-03-18",
+          "views": 24744
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Delitto%20di%20Avetrana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Delitto_di_Avetrana",
+      "article_url": "https://it.wikipedia.org/wiki/Delitto_di_Avetrana",
+      "description": "caso di omicidio avvenuto ad Avetrana nel 2010",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Pi_greco",
+      "views": 59719,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 2066
+        },
+        {
+          "date": "2018-03-13",
+          "views": 5141
+        },
+        {
+          "date": "2018-03-14",
+          "views": 39808
+        },
+        {
+          "date": "2018-03-15",
+          "views": 6348
+        },
+        {
+          "date": "2018-03-16",
+          "views": 2490
+        },
+        {
+          "date": "2018-03-17",
+          "views": 1773
+        },
+        {
+          "date": "2018-03-18",
+          "views": 2093
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pi%20greco&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Pi_greco",
+      "article_url": "https://it.wikipedia.org/wiki/Pi_greco",
+      "description": "costante matematica",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Flavio_Montrucchio",
+      "views": 59403,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 30758
+        },
+        {
+          "date": "2018-03-13",
+          "views": 15425
+        },
+        {
+          "date": "2018-03-14",
+          "views": 6133
+        },
+        {
+          "date": "2018-03-15",
+          "views": 2438
+        },
+        {
+          "date": "2018-03-16",
+          "views": 1232
+        },
+        {
+          "date": "2018-03-17",
+          "views": 1596
+        },
+        {
+          "date": "2018-03-18",
+          "views": 1821
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Flavio%20Montrucchio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Flavio_Montrucchio",
+      "article_url": "https://it.wikipedia.org/wiki/Flavio_Montrucchio",
+      "description": "conduttore televisivo e attore italiano (1975-)",
+      "image_filename": "Flavio_Montrucchio_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flavio_Montrucchio_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flavio_Montrucchio_(cropped).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Prospero_Gallinari",
+      "views": 57559,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 13312
+        },
+        {
+          "date": "2018-03-13",
+          "views": 4053
+        },
+        {
+          "date": "2018-03-14",
+          "views": 14805
+        },
+        {
+          "date": "2018-03-15",
+          "views": 5137
+        },
+        {
+          "date": "2018-03-16",
+          "views": 9297
+        },
+        {
+          "date": "2018-03-17",
+          "views": 6469
+        },
+        {
+          "date": "2018-03-18",
+          "views": 4486
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Prospero%20Gallinari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Prospero_Gallinari",
+      "article_url": "https://it.wikipedia.org/wiki/Prospero_Gallinari",
+      "description": "brigatista italiano (1951-2013)",
+      "image_filename": "Gallinari.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/8/80/Gallinari.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gallinari.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Vinny_Paz",
+      "views": 56917,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 0
+        },
+        {
+          "date": "2018-03-13",
+          "views": 0
+        },
+        {
+          "date": "2018-03-14",
+          "views": 0
+        },
+        {
+          "date": "2018-03-15",
+          "views": 0
+        },
+        {
+          "date": "2018-03-16",
+          "views": 24712
+        },
+        {
+          "date": "2018-03-17",
+          "views": 21936
+        },
+        {
+          "date": "2018-03-18",
+          "views": 10269
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vinny%20Paz&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Vinny_Paz",
+      "article_url": "https://it.wikipedia.org/wiki/Vinny_Paz",
+      "description": "pugile statunitense",
+      "image_filename": "VinnyPaz1994.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/VinnyPaz1994.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:VinnyPaz1994.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Italia",
+      "views": 56496,
+      "daily_views": [
+        {
+          "date": "2018-03-12",
+          "views": 7698
+        },
+        {
+          "date": "2018-03-13",
+          "views": 7642
+        },
+        {
+          "date": "2018-03-14",
+          "views": 7731
+        },
+        {
+          "date": "2018-03-15",
+          "views": 7829
+        },
+        {
+          "date": "2018-03-16",
+          "views": 7260
+        },
+        {
+          "date": "2018-03-17",
+          "views": 8491
+        },
+        {
+          "date": "2018-03-18",
+          "views": 9845
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

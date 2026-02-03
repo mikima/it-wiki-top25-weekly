@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2018,
+  "week": 24,
+  "start_date": "2018-06-11",
+  "end_date": "2018-06-17",
+  "days": [
+    "2018-06-11",
+    "2018-06-12",
+    "2018-06-13",
+    "2018-06-14",
+    "2018-06-15",
+    "2018-06-16",
+    "2018-06-17"
+  ],
+  "total_articles": 2917,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "TeleColor",
+      "views": 283575,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 49295
+        },
+        {
+          "date": "2018-06-12",
+          "views": 41307
+        },
+        {
+          "date": "2018-06-13",
+          "views": 14558
+        },
+        {
+          "date": "2018-06-14",
+          "views": 24874
+        },
+        {
+          "date": "2018-06-15",
+          "views": 29629
+        },
+        {
+          "date": "2018-06-16",
+          "views": 45052
+        },
+        {
+          "date": "2018-06-17",
+          "views": 78860
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=TeleColor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=TeleColor",
+      "article_url": "https://it.wikipedia.org/wiki/TeleColor",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Campionato_mondiale_di_calcio_2018",
+      "views": 267642,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 16265
+        },
+        {
+          "date": "2018-06-12",
+          "views": 18555
+        },
+        {
+          "date": "2018-06-13",
+          "views": 28804
+        },
+        {
+          "date": "2018-06-14",
+          "views": 53183
+        },
+        {
+          "date": "2018-06-15",
+          "views": 49747
+        },
+        {
+          "date": "2018-06-16",
+          "views": 50027
+        },
+        {
+          "date": "2018-06-17",
+          "views": 51061
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202018&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Campionato_mondiale_di_calcio_2018",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2018",
+      "description": "21\u00aa edizione del campionato mondiale di calcio FIFA",
+      "image_filename": "FIFA_World_Cup_Russia_2018_Logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/26/FIFA_World_Cup_Russia_2018_Logo.svg/1280px-FIFA_World_Cup_Russia_2018_Logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_Russia_2018_Logo.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Campionato_mondiale_di_calcio",
+      "views": 201914,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 11911
+        },
+        {
+          "date": "2018-06-12",
+          "views": 14078
+        },
+        {
+          "date": "2018-06-13",
+          "views": 19332
+        },
+        {
+          "date": "2018-06-14",
+          "views": 31380
+        },
+        {
+          "date": "2018-06-15",
+          "views": 39640
+        },
+        {
+          "date": "2018-06-16",
+          "views": 34525
+        },
+        {
+          "date": "2018-06-17",
+          "views": 51048
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Campionato_mondiale_di_calcio",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio",
+      "description": "torneo calcistico per squadre nazionali maschili",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "TG_Norba_24",
+      "views": 194945,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 11642
+        },
+        {
+          "date": "2018-06-12",
+          "views": 23061
+        },
+        {
+          "date": "2018-06-13",
+          "views": 24729
+        },
+        {
+          "date": "2018-06-14",
+          "views": 36653
+        },
+        {
+          "date": "2018-06-15",
+          "views": 39457
+        },
+        {
+          "date": "2018-06-16",
+          "views": 30794
+        },
+        {
+          "date": "2018-06-17",
+          "views": 28609
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=TG_Norba_24",
+      "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Tg_norba24.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Cristiano_Ronaldo",
+      "views": 154072,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 5000
+        },
+        {
+          "date": "2018-06-12",
+          "views": 5395
+        },
+        {
+          "date": "2018-06-13",
+          "views": 4843
+        },
+        {
+          "date": "2018-06-14",
+          "views": 6781
+        },
+        {
+          "date": "2018-06-15",
+          "views": 62596
+        },
+        {
+          "date": "2018-06-16",
+          "views": 46687
+        },
+        {
+          "date": "2018-06-17",
+          "views": 22770
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Cristiano_Ronaldo",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "description": "calciatore portoghese (1985-)",
+      "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Irama",
+      "views": 138538,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 69050
+        },
+        {
+          "date": "2018-06-12",
+          "views": 40246
+        },
+        {
+          "date": "2018-06-13",
+          "views": 10384
+        },
+        {
+          "date": "2018-06-14",
+          "views": 5455
+        },
+        {
+          "date": "2018-06-15",
+          "views": 4524
+        },
+        {
+          "date": "2018-06-16",
+          "views": 4649
+        },
+        {
+          "date": "2018-06-17",
+          "views": 4230
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Irama&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Irama",
+      "article_url": "https://it.wikipedia.org/wiki/Irama",
+      "description": "cantautore e rapper italiano (1995-)",
+      "image_filename": "Irama_(Feb_2024)_(cropped).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Irama_%28Feb_2024%29_%28cropped%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Irama_(Feb_2024)_(cropped).png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Giorgio_Almirante",
+      "views": 131620,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 0
+        },
+        {
+          "date": "2018-06-12",
+          "views": 0
+        },
+        {
+          "date": "2018-06-13",
+          "views": 0
+        },
+        {
+          "date": "2018-06-14",
+          "views": 26451
+        },
+        {
+          "date": "2018-06-15",
+          "views": 69235
+        },
+        {
+          "date": "2018-06-16",
+          "views": 24858
+        },
+        {
+          "date": "2018-06-17",
+          "views": 11076
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorgio%20Almirante&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Giorgio_Almirante",
+      "article_url": "https://it.wikipedia.org/wiki/Giorgio_Almirante",
+      "description": "politico e leader del Movimento Sociale Italiano (1914-1988)",
+      "image_filename": "Giorgio_Almirante_MEP_(1)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Giorgio_Almirante_MEP_%281%29_%28cropped%29.jpg/1280px-Giorgio_Almirante_MEP_%281%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giorgio_Almirante_MEP_(1)_(cropped).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Campionato_mondiale_di_calcio_2014",
+      "views": 107247,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 5961
+        },
+        {
+          "date": "2018-06-12",
+          "views": 8135
+        },
+        {
+          "date": "2018-06-13",
+          "views": 9557
+        },
+        {
+          "date": "2018-06-14",
+          "views": 16358
+        },
+        {
+          "date": "2018-06-15",
+          "views": 19935
+        },
+        {
+          "date": "2018-06-16",
+          "views": 17002
+        },
+        {
+          "date": "2018-06-17",
+          "views": 30299
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202014&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Campionato_mondiale_di_calcio_2014",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2014",
+      "description": "20\u00aa edizione del campionato mondiale di calcio FIFA",
+      "image_filename": "Brazil_2014.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d2/Brazil_2014.svg/1280px-Brazil_2014.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brazil_2014.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Julen_Lopetegui",
+      "views": 87166,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 0
+        },
+        {
+          "date": "2018-06-12",
+          "views": 36424
+        },
+        {
+          "date": "2018-06-13",
+          "views": 32355
+        },
+        {
+          "date": "2018-06-14",
+          "views": 9392
+        },
+        {
+          "date": "2018-06-15",
+          "views": 7596
+        },
+        {
+          "date": "2018-06-16",
+          "views": 1399
+        },
+        {
+          "date": "2018-06-17",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Julen%20Lopetegui&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Julen_Lopetegui",
+      "article_url": "https://it.wikipedia.org/wiki/Julen_Lopetegui",
+      "description": "allenatore di calcio e calciatore spagnolo (1966-)",
+      "image_filename": "Julen_Lopetegui_2017_(head_shot).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Julen_Lopetegui_2017_%28head_shot%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Julen_Lopetegui_2017_(head_shot).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Matteo_Salvini",
+      "views": 82591,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 13631
+        },
+        {
+          "date": "2018-06-12",
+          "views": 16045
+        },
+        {
+          "date": "2018-06-13",
+          "views": 14862
+        },
+        {
+          "date": "2018-06-14",
+          "views": 10790
+        },
+        {
+          "date": "2018-06-15",
+          "views": 8631
+        },
+        {
+          "date": "2018-06-16",
+          "views": 8202
+        },
+        {
+          "date": "2018-06-17",
+          "views": 10430
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matteo%20Salvini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Matteo_Salvini",
+      "article_url": "https://it.wikipedia.org/wiki/Matteo_Salvini",
+      "description": "politico italiano (1973-)",
+      "image_filename": "Matteo_Salvini,_2025.12.04_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg/1280px-Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Salvini%2C_2025.12.04_(cropped).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Campionato_mondiale_di_calcio_2022",
+      "views": 78578,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 3211
+        },
+        {
+          "date": "2018-06-12",
+          "views": 3518
+        },
+        {
+          "date": "2018-06-13",
+          "views": 14430
+        },
+        {
+          "date": "2018-06-14",
+          "views": 17598
+        },
+        {
+          "date": "2018-06-15",
+          "views": 12076
+        },
+        {
+          "date": "2018-06-16",
+          "views": 12076
+        },
+        {
+          "date": "2018-06-17",
+          "views": 15669
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202022&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Campionato_mondiale_di_calcio_2022",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2022",
+      "description": "22\u00aa edizione del campionato mondiale di calcio FIFA",
+      "image_filename": "Campionato_mondiale_di_calcio_2022_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/Campionato_mondiale_di_calcio_2022_logo.svg/1280px-Campionato_mondiale_di_calcio_2022_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Campionato_mondiale_di_calcio_2022_logo.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Malta",
+      "views": 77191,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 37365
+        },
+        {
+          "date": "2018-06-12",
+          "views": 16998
+        },
+        {
+          "date": "2018-06-13",
+          "views": 7924
+        },
+        {
+          "date": "2018-06-14",
+          "views": 5112
+        },
+        {
+          "date": "2018-06-15",
+          "views": 3160
+        },
+        {
+          "date": "2018-06-16",
+          "views": 3426
+        },
+        {
+          "date": "2018-06-17",
+          "views": 3206
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Malta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Malta",
+      "article_url": "https://it.wikipedia.org/wiki/Malta",
+      "description": "stato insulare europeo nel Mediterraneo",
+      "image_filename": "Flag_of_Malta.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1280px-Flag_of_Malta.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Malta.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 13,
+      "article": "Islanda",
+      "views": 76711,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 1376
+        },
+        {
+          "date": "2018-06-12",
+          "views": 1570
+        },
+        {
+          "date": "2018-06-13",
+          "views": 1752
+        },
+        {
+          "date": "2018-06-14",
+          "views": 4045
+        },
+        {
+          "date": "2018-06-15",
+          "views": 2815
+        },
+        {
+          "date": "2018-06-16",
+          "views": 49510
+        },
+        {
+          "date": "2018-06-17",
+          "views": 15643
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Islanda&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Islanda",
+      "article_url": "https://it.wikipedia.org/wiki/Islanda",
+      "description": "stato dell'Europa nord-occidentale",
+      "image_filename": "Flag_of_Iceland.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Iceland.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Italia",
+      "views": 73960,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 9930
+        },
+        {
+          "date": "2018-06-12",
+          "views": 9157
+        },
+        {
+          "date": "2018-06-13",
+          "views": 10184
+        },
+        {
+          "date": "2018-06-14",
+          "views": 14342
+        },
+        {
+          "date": "2018-06-15",
+          "views": 8029
+        },
+        {
+          "date": "2018-06-16",
+          "views": 12110
+        },
+        {
+          "date": "2018-06-17",
+          "views": 10208
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "La_casa_di_carta",
+      "views": 70558,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 11162
+        },
+        {
+          "date": "2018-06-12",
+          "views": 11058
+        },
+        {
+          "date": "2018-06-13",
+          "views": 10841
+        },
+        {
+          "date": "2018-06-14",
+          "views": 10464
+        },
+        {
+          "date": "2018-06-15",
+          "views": 9034
+        },
+        {
+          "date": "2018-06-16",
+          "views": 8364
+        },
+        {
+          "date": "2018-06-17",
+          "views": 9635
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=La_casa_di_carta",
+      "article_url": "https://it.wikipedia.org/wiki/La_casa_di_carta",
+      "description": "serie televisiva spagnola (2017-2021)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Lionel_Messi",
+      "views": 70115,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 2898
+        },
+        {
+          "date": "2018-06-12",
+          "views": 3249
+        },
+        {
+          "date": "2018-06-13",
+          "views": 3352
+        },
+        {
+          "date": "2018-06-14",
+          "views": 4515
+        },
+        {
+          "date": "2018-06-15",
+          "views": 11111
+        },
+        {
+          "date": "2018-06-16",
+          "views": 31665
+        },
+        {
+          "date": "2018-06-17",
+          "views": 13325
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lionel%20Messi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Lionel_Messi",
+      "article_url": "https://it.wikipedia.org/wiki/Lionel_Messi",
+      "description": "calciatore argentino (1987-)",
+      "image_filename": "Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg/1280px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Nazionale_di_calcio_dell'Italia",
+      "views": 69026,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 5086
+        },
+        {
+          "date": "2018-06-12",
+          "views": 5364
+        },
+        {
+          "date": "2018-06-13",
+          "views": 6520
+        },
+        {
+          "date": "2018-06-14",
+          "views": 12918
+        },
+        {
+          "date": "2018-06-15",
+          "views": 12485
+        },
+        {
+          "date": "2018-06-16",
+          "views": 11930
+        },
+        {
+          "date": "2018-06-17",
+          "views": 14723
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nazionale%20di%20calcio%20dell%27Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Nazionale_di_calcio_dell%27Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Nazionale_di_calcio_dell%27Italia",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Giuseppe_Conte",
+      "views": 63302,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 17794
+        },
+        {
+          "date": "2018-06-12",
+          "views": 10389
+        },
+        {
+          "date": "2018-06-13",
+          "views": 8412
+        },
+        {
+          "date": "2018-06-14",
+          "views": 9598
+        },
+        {
+          "date": "2018-06-15",
+          "views": 8414
+        },
+        {
+          "date": "2018-06-16",
+          "views": 5108
+        },
+        {
+          "date": "2018-06-17",
+          "views": 3587
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giuseppe%20Conte&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Giuseppe_Conte",
+      "article_url": "https://it.wikipedia.org/wiki/Giuseppe_Conte",
+      "description": "politico e avvocato italiano (1964-)",
+      "image_filename": "Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Giuseppe_Conte_-_Quirinale_2022_%28cropped2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Andrea_Pazienza",
+      "views": 62828,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 0
+        },
+        {
+          "date": "2018-06-12",
+          "views": 1138
+        },
+        {
+          "date": "2018-06-13",
+          "views": 0
+        },
+        {
+          "date": "2018-06-14",
+          "views": 0
+        },
+        {
+          "date": "2018-06-15",
+          "views": 16909
+        },
+        {
+          "date": "2018-06-16",
+          "views": 35669
+        },
+        {
+          "date": "2018-06-17",
+          "views": 9112
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andrea%20Pazienza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Andrea_Pazienza",
+      "article_url": "https://it.wikipedia.org/wiki/Andrea_Pazienza",
+      "description": "fumettista e pittore italiano (1956-1988)",
+      "image_filename": "AndreaPazienza.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/8/88/AndreaPazienza.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:AndreaPazienza.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Le_armi_segrete",
+      "views": 57703,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 47478
+        },
+        {
+          "date": "2018-06-12",
+          "views": 0
+        },
+        {
+          "date": "2018-06-13",
+          "views": 0
+        },
+        {
+          "date": "2018-06-14",
+          "views": 0
+        },
+        {
+          "date": "2018-06-15",
+          "views": 0
+        },
+        {
+          "date": "2018-06-16",
+          "views": 0
+        },
+        {
+          "date": "2018-06-17",
+          "views": 10225
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Le%20armi%20segrete&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Le_armi_segrete",
+      "article_url": "https://it.wikipedia.org/wiki/Le_armi_segrete",
+      "description": "raccolta di racconti di Julio Cort\u00e1zar",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Campionato_mondiale_di_calcio_2010",
+      "views": 56592,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 5122
+        },
+        {
+          "date": "2018-06-12",
+          "views": 5156
+        },
+        {
+          "date": "2018-06-13",
+          "views": 5710
+        },
+        {
+          "date": "2018-06-14",
+          "views": 9418
+        },
+        {
+          "date": "2018-06-15",
+          "views": 9718
+        },
+        {
+          "date": "2018-06-16",
+          "views": 8491
+        },
+        {
+          "date": "2018-06-17",
+          "views": 12977
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202010&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Campionato_mondiale_di_calcio_2010",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2010",
+      "description": "19\u00aa edizione del campionato mondiale di calcio FIFA",
+      "image_filename": "FIFA_World_Cup_2010_Logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/4/4f/FIFA_World_Cup_2010_Logo.svg/1280px-FIFA_World_Cup_2010_Logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Logo.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Campionato_europeo_di_calcio_2020",
+      "views": 54952,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 2283
+        },
+        {
+          "date": "2018-06-12",
+          "views": 2604
+        },
+        {
+          "date": "2018-06-13",
+          "views": 5678
+        },
+        {
+          "date": "2018-06-14",
+          "views": 10480
+        },
+        {
+          "date": "2018-06-15",
+          "views": 10301
+        },
+        {
+          "date": "2018-06-16",
+          "views": 10861
+        },
+        {
+          "date": "2018-06-17",
+          "views": 12745
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20europeo%20di%20calcio%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Campionato_europeo_di_calcio_2020",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_europeo_di_calcio_2020",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "George_Soros",
+      "views": 54361,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 5875
+        },
+        {
+          "date": "2018-06-12",
+          "views": 7216
+        },
+        {
+          "date": "2018-06-13",
+          "views": 17437
+        },
+        {
+          "date": "2018-06-14",
+          "views": 10566
+        },
+        {
+          "date": "2018-06-15",
+          "views": 5342
+        },
+        {
+          "date": "2018-06-16",
+          "views": 4297
+        },
+        {
+          "date": "2018-06-17",
+          "views": 3628
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=George%20Soros&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=George_Soros",
+      "article_url": "https://it.wikipedia.org/wiki/George_Soros",
+      "description": "imprenditore e attivista statunitense",
+      "image_filename": "George_Soros_-_Festival_Economia_2018_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/George_Soros_-_Festival_Economia_2018_1.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:George_Soros_-_Festival_Economia_2018_1.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Antonio_di_Padova",
+      "views": 54089,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 2396
+        },
+        {
+          "date": "2018-06-12",
+          "views": 7703
+        },
+        {
+          "date": "2018-06-13",
+          "views": 33927
+        },
+        {
+          "date": "2018-06-14",
+          "views": 5267
+        },
+        {
+          "date": "2018-06-15",
+          "views": 2014
+        },
+        {
+          "date": "2018-06-16",
+          "views": 1481
+        },
+        {
+          "date": "2018-06-17",
+          "views": 1301
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Antonio%20di%20Padova&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Antonio_di_Padova",
+      "article_url": "https://it.wikipedia.org/wiki/Antonio_di_Padova",
+      "description": "religioso e presbitero portoghese appartenente all'ordine francescano, santo e dottore della Chiesa cattolica (1195-1231)",
+      "image_filename": "Guercino_Antonio_Bambino.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Guercino_Antonio_Bambino.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Guercino_Antonio_Bambino.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Jurassic_World_-_Il_regno_distrutto",
+      "views": 53955,
+      "daily_views": [
+        {
+          "date": "2018-06-11",
+          "views": 10300
+        },
+        {
+          "date": "2018-06-12",
+          "views": 8788
+        },
+        {
+          "date": "2018-06-13",
+          "views": 10333
+        },
+        {
+          "date": "2018-06-14",
+          "views": 7057
+        },
+        {
+          "date": "2018-06-15",
+          "views": 5525
+        },
+        {
+          "date": "2018-06-16",
+          "views": 5830
+        },
+        {
+          "date": "2018-06-17",
+          "views": 6122
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jurassic%20World%20-%20Il%20regno%20distrutto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/11/2018,cd_max:06/17/2018&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-11&end=2018-06-17&pages=Jurassic_World_-_Il_regno_distrutto",
+      "article_url": "https://it.wikipedia.org/wiki/Jurassic_World_-_Il_regno_distrutto",
+      "description": "film del 2018 diretto da Juan Antonio Bayona",
+      "image_filename": "Jurassic_World_-_Il_regno_distrutto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f8/Jurassic_World_-_Il_regno_distrutto.jpg/1229px-Jurassic_World_-_Il_regno_distrutto.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jurassic_World_-_Il_regno_distrutto.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}
