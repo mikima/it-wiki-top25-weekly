@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2017,
+  "week": 4,
+  "start_date": "2017-01-23",
+  "end_date": "2017-01-29",
+  "days": [
+    "2017-01-23",
+    "2017-01-24",
+    "2017-01-25",
+    "2017-01-26",
+    "2017-01-27",
+    "2017-01-28",
+    "2017-01-29"
+  ],
+  "total_articles": 2498,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Giorno_della_Memoria",
+      "views": 219960,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 13103
+        },
+        {
+          "date": "2017-01-24",
+          "views": 18487
+        },
+        {
+          "date": "2017-01-25",
+          "views": 24559
+        },
+        {
+          "date": "2017-01-26",
+          "views": 48464
+        },
+        {
+          "date": "2017-01-27",
+          "views": 86248
+        },
+        {
+          "date": "2017-01-28",
+          "views": 16280
+        },
+        {
+          "date": "2017-01-29",
+          "views": 12819
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorno%20della%20Memoria&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Giorno_della_Memoria",
+      "article_url": "https://it.wikipedia.org/wiki/Giorno_della_Memoria",
+      "description": "giornata internazionale per la commemorazione delle vittime dell'Olocausto",
+      "image_filename": "Auschwitz_I_entrance_snow.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Auschwitz_I_entrance_snow.jpg/1280px-Auschwitz_I_entrance_snow.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_entrance_snow.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Roger_Federer",
+      "views": 205538,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 2979
+        },
+        {
+          "date": "2017-01-24",
+          "views": 4928
+        },
+        {
+          "date": "2017-01-25",
+          "views": 3809
+        },
+        {
+          "date": "2017-01-26",
+          "views": 18071
+        },
+        {
+          "date": "2017-01-27",
+          "views": 18093
+        },
+        {
+          "date": "2017-01-28",
+          "views": 13405
+        },
+        {
+          "date": "2017-01-29",
+          "views": 144253
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Roger%20Federer&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Roger_Federer",
+      "article_url": "https://it.wikipedia.org/wiki/Roger_Federer",
+      "description": "tennista svizzero (1981\u2013)",
+      "image_filename": "Roger_Federer_(18405413060).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Roger_Federer_%2818405413060%29.jpg/1280px-Roger_Federer_%2818405413060%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roger_Federer_(18405413060).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Donald_Trump",
+      "views": 149221,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 33225
+        },
+        {
+          "date": "2017-01-24",
+          "views": 25922
+        },
+        {
+          "date": "2017-01-25",
+          "views": 20967
+        },
+        {
+          "date": "2017-01-26",
+          "views": 16686
+        },
+        {
+          "date": "2017-01-27",
+          "views": 15135
+        },
+        {
+          "date": "2017-01-28",
+          "views": 16803
+        },
+        {
+          "date": "2017-01-29",
+          "views": 20483
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Donald_Trump",
+      "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
+      "description": "politico e imprenditore statunitense, 45\u00ba e 47\u00ba presidente degli Stati Uniti d'America",
+      "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Storia_di_una_ladra_di_libri",
+      "views": 149044,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 1944
+        },
+        {
+          "date": "2017-01-24",
+          "views": 4303
+        },
+        {
+          "date": "2017-01-25",
+          "views": 97152
+        },
+        {
+          "date": "2017-01-26",
+          "views": 26950
+        },
+        {
+          "date": "2017-01-27",
+          "views": 9413
+        },
+        {
+          "date": "2017-01-28",
+          "views": 4603
+        },
+        {
+          "date": "2017-01-29",
+          "views": 4679
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Storia%20di%20una%20ladra%20di%20libri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Storia_di_una_ladra_di_libri",
+      "article_url": "https://it.wikipedia.org/wiki/Storia_di_una_ladra_di_libri",
+      "description": "film del 2013 diretto da Brian Percival",
+      "image_filename": "Ladradilibri.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6f/Ladradilibri.JPG/1280px-Ladradilibri.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ladradilibri.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "La_La_Land_(film)",
+      "views": 144509,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 4950
+        },
+        {
+          "date": "2017-01-24",
+          "views": 22427
+        },
+        {
+          "date": "2017-01-25",
+          "views": 18372
+        },
+        {
+          "date": "2017-01-26",
+          "views": 17195
+        },
+        {
+          "date": "2017-01-27",
+          "views": 20257
+        },
+        {
+          "date": "2017-01-28",
+          "views": 28896
+        },
+        {
+          "date": "2017-01-29",
+          "views": 32412
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20La%20Land%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=La_La_Land_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/La_La_Land_(film)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Olocausto",
+      "views": 140784,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 9334
+        },
+        {
+          "date": "2017-01-24",
+          "views": 11728
+        },
+        {
+          "date": "2017-01-25",
+          "views": 15599
+        },
+        {
+          "date": "2017-01-26",
+          "views": 25966
+        },
+        {
+          "date": "2017-01-27",
+          "views": 47988
+        },
+        {
+          "date": "2017-01-28",
+          "views": 16949
+        },
+        {
+          "date": "2017-01-29",
+          "views": 13220
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Olocausto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Olocausto",
+      "article_url": "https://it.wikipedia.org/wiki/Olocausto",
+      "description": "genocidio perpetrato dalla Germania nazista e dai suoi alleati ai danni degli ebrei d'Europa e di altre minoranze",
+      "image_filename": "PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg/1280px-PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg",
+      "image_license": "CC BY 2.5",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Rafael_Nadal",
+      "views": 124949,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 2655
+        },
+        {
+          "date": "2017-01-24",
+          "views": 1645
+        },
+        {
+          "date": "2017-01-25",
+          "views": 4191
+        },
+        {
+          "date": "2017-01-26",
+          "views": 6893
+        },
+        {
+          "date": "2017-01-27",
+          "views": 19987
+        },
+        {
+          "date": "2017-01-28",
+          "views": 10978
+        },
+        {
+          "date": "2017-01-29",
+          "views": 78600
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rafael%20Nadal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Rafael_Nadal",
+      "article_url": "https://it.wikipedia.org/wiki/Rafael_Nadal",
+      "description": "tennista spagnolo (1986-)",
+      "image_filename": "Rafael_Nadal_en_2024_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rafael_Nadal_en_2024_%28cropped%29.jpg/1006px-Rafael_Nadal_en_2024_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rafael_Nadal_en_2024_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "John_Hurt",
+      "views": 116930,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 0
+        },
+        {
+          "date": "2017-01-24",
+          "views": 0
+        },
+        {
+          "date": "2017-01-25",
+          "views": 0
+        },
+        {
+          "date": "2017-01-26",
+          "views": 0
+        },
+        {
+          "date": "2017-01-27",
+          "views": 0
+        },
+        {
+          "date": "2017-01-28",
+          "views": 98877
+        },
+        {
+          "date": "2017-01-29",
+          "views": 18053
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=John%20Hurt&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=John_Hurt",
+      "article_url": "https://it.wikipedia.org/wiki/John_Hurt",
+      "description": "attore britannico (1940-2017)",
+      "image_filename": "John_Hurt_by_Walterlan_Papetti.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/John_Hurt_by_Walterlan_Papetti.jpg/1280px-John_Hurt_by_Walterlan_Papetti.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:John_Hurt_by_Walterlan_Papetti.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Split_(film_2016_Shyamalan)",
+      "views": 103837,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 4125
+        },
+        {
+          "date": "2017-01-24",
+          "views": 4218
+        },
+        {
+          "date": "2017-01-25",
+          "views": 5145
+        },
+        {
+          "date": "2017-01-26",
+          "views": 11629
+        },
+        {
+          "date": "2017-01-27",
+          "views": 21097
+        },
+        {
+          "date": "2017-01-28",
+          "views": 26610
+        },
+        {
+          "date": "2017-01-29",
+          "views": 31013
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Split%20%28film%202016%20Shyamalan%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Split_(film_2016_Shyamalan)",
+      "article_url": "https://it.wikipedia.org/wiki/Split_(film_2016_Shyamalan)",
+      "description": "film del 2016 diretto da M. Night Shyamalan",
+      "image_filename": "Split_film_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/Split_film_2017.jpg/1232px-Split_film_2017.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Split_film_2017.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Campo_di_concentramento_di_Auschwitz",
+      "views": 101803,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 4648
+        },
+        {
+          "date": "2017-01-24",
+          "views": 6912
+        },
+        {
+          "date": "2017-01-25",
+          "views": 7880
+        },
+        {
+          "date": "2017-01-26",
+          "views": 12222
+        },
+        {
+          "date": "2017-01-27",
+          "views": 43310
+        },
+        {
+          "date": "2017-01-28",
+          "views": 15690
+        },
+        {
+          "date": "2017-01-29",
+          "views": 11141
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campo%20di%20concentramento%20di%20Auschwitz&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Campo_di_concentramento_di_Auschwitz",
+      "article_url": "https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Auschwitz",
+      "description": "campo di concentramento nazista",
+      "image_filename": "Brzezinka,_Auschwitz-Birkenau.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Brzezinka%2C_Auschwitz-Birkenau.jpg/1280px-Brzezinka%2C_Auschwitz-Birkenau.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brzezinka%2C_Auschwitz-Birkenau.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Luigi_Tenco",
+      "views": 99726,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 0
+        },
+        {
+          "date": "2017-01-24",
+          "views": 1845
+        },
+        {
+          "date": "2017-01-25",
+          "views": 9035
+        },
+        {
+          "date": "2017-01-26",
+          "views": 15675
+        },
+        {
+          "date": "2017-01-27",
+          "views": 14602
+        },
+        {
+          "date": "2017-01-28",
+          "views": 4246
+        },
+        {
+          "date": "2017-01-29",
+          "views": 54323
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luigi%20Tenco&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Luigi_Tenco",
+      "article_url": "https://it.wikipedia.org/wiki/Luigi_Tenco",
+      "description": "cantautore, poeta, compositore e polistrumentista italiano (1938-1967)",
+      "image_filename": "Tenco_Sanremo_1967.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tenco_Sanremo_1967.jpg/1200px-Tenco_Sanremo_1967.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tenco_Sanremo_1967.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Schindler's_List_-_La_lista_di_Schindler",
+      "views": 95010,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 1677
+        },
+        {
+          "date": "2017-01-24",
+          "views": 1994
+        },
+        {
+          "date": "2017-01-25",
+          "views": 2380
+        },
+        {
+          "date": "2017-01-26",
+          "views": 4394
+        },
+        {
+          "date": "2017-01-27",
+          "views": 61406
+        },
+        {
+          "date": "2017-01-28",
+          "views": 17299
+        },
+        {
+          "date": "2017-01-29",
+          "views": 5860
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Schindler%27s%20List%20-%20La%20lista%20di%20Schindler&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Schindler%27s_List_-_La_lista_di_Schindler",
+      "article_url": "https://it.wikipedia.org/wiki/Schindler%27s_List_-_La_lista_di_Schindler",
+      "description": "film del 1993 diretto da Steven Spielberg",
+      "image_filename": "Schindler's_List_01.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/4/46/Schindler%27s_List_01.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Schindler%27s_List_01.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Shutter_Island",
+      "views": 86640,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 0
+        },
+        {
+          "date": "2017-01-24",
+          "views": 0
+        },
+        {
+          "date": "2017-01-25",
+          "views": 0
+        },
+        {
+          "date": "2017-01-26",
+          "views": 0
+        },
+        {
+          "date": "2017-01-27",
+          "views": 0
+        },
+        {
+          "date": "2017-01-28",
+          "views": 1331
+        },
+        {
+          "date": "2017-01-29",
+          "views": 85309
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Shutter%20Island&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Shutter_Island",
+      "article_url": "https://it.wikipedia.org/wiki/Shutter_Island",
+      "description": "film del 2010 diretto da Martin Scorsese",
+      "image_filename": "Shutter_Island.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/09/Shutter_Island.jpg/1256px-Shutter_Island.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Shutter_Island.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Oskar_Schindler",
+      "views": 83989,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 0
+        },
+        {
+          "date": "2017-01-24",
+          "views": 0
+        },
+        {
+          "date": "2017-01-25",
+          "views": 1185
+        },
+        {
+          "date": "2017-01-26",
+          "views": 2001
+        },
+        {
+          "date": "2017-01-27",
+          "views": 55299
+        },
+        {
+          "date": "2017-01-28",
+          "views": 20087
+        },
+        {
+          "date": "2017-01-29",
+          "views": 5417
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Oskar%20Schindler&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Oskar_Schindler",
+      "article_url": "https://it.wikipedia.org/wiki/Oskar_Schindler",
+      "description": "imprenditore tedesco (1908-1974)",
+      "image_filename": "Schindler,_Oskar.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Schindler%2C_Oskar.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Schindler%2C_Oskar.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Arrival_(film)",
+      "views": 82204,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 12191
+        },
+        {
+          "date": "2017-01-24",
+          "views": 13461
+        },
+        {
+          "date": "2017-01-25",
+          "views": 11957
+        },
+        {
+          "date": "2017-01-26",
+          "views": 10082
+        },
+        {
+          "date": "2017-01-27",
+          "views": 9046
+        },
+        {
+          "date": "2017-01-28",
+          "views": 12426
+        },
+        {
+          "date": "2017-01-29",
+          "views": 13041
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Arrival%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Arrival_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Arrival_(film)",
+      "description": "film del 2016 diretto da Denis Villeneuve",
+      "image_filename": "Arrival_film.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/33/Arrival_film.jpg/1230px-Arrival_film.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Arrival_film.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Melania_Trump",
+      "views": 80907,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 20087
+        },
+        {
+          "date": "2017-01-24",
+          "views": 17100
+        },
+        {
+          "date": "2017-01-25",
+          "views": 12377
+        },
+        {
+          "date": "2017-01-26",
+          "views": 8208
+        },
+        {
+          "date": "2017-01-27",
+          "views": 7918
+        },
+        {
+          "date": "2017-01-28",
+          "views": 7387
+        },
+        {
+          "date": "2017-01-29",
+          "views": 7830
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Melania%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Melania_Trump",
+      "article_url": "https://it.wikipedia.org/wiki/Melania_Trump",
+      "description": "modella slovena naturalizzata statunitense, First Lady degli Stati Uniti d'America",
+      "image_filename": "Melania_Trump\u2019s_Official_White_House_Portrait_(2025)_(3x4_cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%283x4_cropped%29.jpg/1280px-Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%283x4_cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Melania_Trump%E2%80%99s_Official_White_House_Portrait_(2025)_(3x4_cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "Premi_Oscar_2017",
+      "views": 79791,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 1736
+        },
+        {
+          "date": "2017-01-24",
+          "views": 33037
+        },
+        {
+          "date": "2017-01-25",
+          "views": 15816
+        },
+        {
+          "date": "2017-01-26",
+          "views": 8463
+        },
+        {
+          "date": "2017-01-27",
+          "views": 6393
+        },
+        {
+          "date": "2017-01-28",
+          "views": 6683
+        },
+        {
+          "date": "2017-01-29",
+          "views": 7663
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Premi%20Oscar%202017&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Premi_Oscar_2017",
+      "article_url": "https://it.wikipedia.org/wiki/Premi_Oscar_2017",
+      "description": "89\u00aa edizione della cerimonia degli Oscar",
+      "image_filename": "JimmyKimmelHWOFJan2013.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/JimmyKimmelHWOFJan2013.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:JimmyKimmelHWOFJan2013.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Dalida",
+      "views": 78397,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 0
+        },
+        {
+          "date": "2017-01-24",
+          "views": 3339
+        },
+        {
+          "date": "2017-01-25",
+          "views": 3667
+        },
+        {
+          "date": "2017-01-26",
+          "views": 4318
+        },
+        {
+          "date": "2017-01-27",
+          "views": 2977
+        },
+        {
+          "date": "2017-01-28",
+          "views": 1191
+        },
+        {
+          "date": "2017-01-29",
+          "views": 62905
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Dalida&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Dalida",
+      "article_url": "https://it.wikipedia.org/wiki/Dalida",
+      "description": "cantante e attrice italiana naturalizzata francese (1933-1987)",
+      "image_filename": "Dalida_1961.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dalida_1961.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dalida_1961.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Gigi_Proietti",
+      "views": 69192,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 3195
+        },
+        {
+          "date": "2017-01-24",
+          "views": 1561
+        },
+        {
+          "date": "2017-01-25",
+          "views": 1105
+        },
+        {
+          "date": "2017-01-26",
+          "views": 1168
+        },
+        {
+          "date": "2017-01-27",
+          "views": 1583
+        },
+        {
+          "date": "2017-01-28",
+          "views": 48476
+        },
+        {
+          "date": "2017-01-29",
+          "views": 12104
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gigi%20Proietti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Gigi_Proietti",
+      "article_url": "https://it.wikipedia.org/wiki/Gigi_Proietti",
+      "description": "attore, doppiatore e conduttore televisivo italiano (1940-2020)",
+      "image_filename": "Gigi_proietti_autografo1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gigi_proietti_autografo1.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gigi_proietti_autografo1.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Gerard_Deulofeu",
+      "views": 68401,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 19694
+        },
+        {
+          "date": "2017-01-24",
+          "views": 11433
+        },
+        {
+          "date": "2017-01-25",
+          "views": 17415
+        },
+        {
+          "date": "2017-01-26",
+          "views": 8624
+        },
+        {
+          "date": "2017-01-27",
+          "views": 4160
+        },
+        {
+          "date": "2017-01-28",
+          "views": 2887
+        },
+        {
+          "date": "2017-01-29",
+          "views": 4188
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gerard%20Deulofeu&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Gerard_Deulofeu",
+      "article_url": "https://it.wikipedia.org/wiki/Gerard_Deulofeu",
+      "description": "calciatore spagnolo (1994-)",
+      "image_filename": "Deulofeu_Wikipedia_Udinese_(cropped).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Deulofeu_Wikipedia_Udinese_%28cropped%29.JPG/1280px-Deulofeu_Wikipedia_Udinese_%28cropped%29.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Deulofeu_Wikipedia_Udinese_(cropped).JPG",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Lucas_Ocampos",
+      "views": 68077,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 13717
+        },
+        {
+          "date": "2017-01-24",
+          "views": 11004
+        },
+        {
+          "date": "2017-01-25",
+          "views": 6835
+        },
+        {
+          "date": "2017-01-26",
+          "views": 9660
+        },
+        {
+          "date": "2017-01-27",
+          "views": 15701
+        },
+        {
+          "date": "2017-01-28",
+          "views": 6771
+        },
+        {
+          "date": "2017-01-29",
+          "views": 4389
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lucas%20Ocampos&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Lucas_Ocampos",
+      "article_url": "https://it.wikipedia.org/wiki/Lucas_Ocampos",
+      "description": "calciatore argentino (1994-)",
+      "image_filename": "Lucas_Ocampos_2020.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lucas_Ocampos_2020.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lucas_Ocampos_2020.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Bernard_Madoff",
+      "views": 67743,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 0
+        },
+        {
+          "date": "2017-01-24",
+          "views": 2270
+        },
+        {
+          "date": "2017-01-25",
+          "views": 2068
+        },
+        {
+          "date": "2017-01-26",
+          "views": 2442
+        },
+        {
+          "date": "2017-01-27",
+          "views": 2990
+        },
+        {
+          "date": "2017-01-28",
+          "views": 25336
+        },
+        {
+          "date": "2017-01-29",
+          "views": 32637
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bernard%20Madoff&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Bernard_Madoff",
+      "article_url": "https://it.wikipedia.org/wiki/Bernard_Madoff",
+      "description": "banchiere e truffatore statunitense (1938-2021)",
+      "image_filename": "BernardMadoff.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BernardMadoff.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:BernardMadoff.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Adolf_Hitler",
+      "views": 62129,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 4039
+        },
+        {
+          "date": "2017-01-24",
+          "views": 5868
+        },
+        {
+          "date": "2017-01-25",
+          "views": 7291
+        },
+        {
+          "date": "2017-01-26",
+          "views": 8369
+        },
+        {
+          "date": "2017-01-27",
+          "views": 18466
+        },
+        {
+          "date": "2017-01-28",
+          "views": 10265
+        },
+        {
+          "date": "2017-01-29",
+          "views": 7831
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Adolf%20Hitler&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Adolf_Hitler",
+      "article_url": "https://it.wikipedia.org/wiki/Adolf_Hitler",
+      "description": "politico austriaco-tedesco (1889\u20131945)",
+      "image_filename": "Hitler_portrait_crop.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/1280px-Hitler_portrait_crop.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hitler_portrait_crop.jpg",
+      "image_license": "CC BY-SA 3.0 de",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Grey's_Anatomy",
+      "views": 59184,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 8307
+        },
+        {
+          "date": "2017-01-24",
+          "views": 10238
+        },
+        {
+          "date": "2017-01-25",
+          "views": 8608
+        },
+        {
+          "date": "2017-01-26",
+          "views": 8837
+        },
+        {
+          "date": "2017-01-27",
+          "views": 9469
+        },
+        {
+          "date": "2017-01-28",
+          "views": 6637
+        },
+        {
+          "date": "2017-01-29",
+          "views": 7088
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Cl\u00e9ment_Grenier",
+      "views": 57281,
+      "daily_views": [
+        {
+          "date": "2017-01-23",
+          "views": 0
+        },
+        {
+          "date": "2017-01-24",
+          "views": 0
+        },
+        {
+          "date": "2017-01-25",
+          "views": 0
+        },
+        {
+          "date": "2017-01-26",
+          "views": 0
+        },
+        {
+          "date": "2017-01-27",
+          "views": 40826
+        },
+        {
+          "date": "2017-01-28",
+          "views": 12839
+        },
+        {
+          "date": "2017-01-29",
+          "views": 3616
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cl%C3%A9ment%20Grenier&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/23/2017,cd_max:01/29/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-01-23&end=2017-01-29&pages=Cl%C3%A9ment_Grenier",
+      "article_url": "https://it.wikipedia.org/wiki/Cl%C3%A9ment_Grenier",
+      "description": "calciatore francese (1991-)",
+      "image_filename": "Cl\u00e9ment_Grenier.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cl%C3%A9ment_Grenier.jpg/1280px-Cl%C3%A9ment_Grenier.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cl%C3%A9ment_Grenier.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

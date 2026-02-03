@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2020,
+  "week": 6,
+  "start_date": "2020-02-03",
+  "end_date": "2020-02-09",
+  "days": [
+    "2020-02-03",
+    "2020-02-04",
+    "2020-02-05",
+    "2020-02-06",
+    "2020-02-07",
+    "2020-02-08",
+    "2020-02-09"
+  ],
+  "total_articles": 2500,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Rai",
+      "views": 1353231,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 24029
+        },
+        {
+          "date": "2020-02-04",
+          "views": 35836
+        },
+        {
+          "date": "2020-02-05",
+          "views": 167365
+        },
+        {
+          "date": "2020-02-06",
+          "views": 224444
+        },
+        {
+          "date": "2020-02-07",
+          "views": 213830
+        },
+        {
+          "date": "2020-02-08",
+          "views": 361449
+        },
+        {
+          "date": "2020-02-09",
+          "views": 326278
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Diodato_(cantante)",
+      "views": 828717,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 1585
+        },
+        {
+          "date": "2020-02-04",
+          "views": 34279
+        },
+        {
+          "date": "2020-02-05",
+          "views": 24708
+        },
+        {
+          "date": "2020-02-06",
+          "views": 16683
+        },
+        {
+          "date": "2020-02-07",
+          "views": 24642
+        },
+        {
+          "date": "2020-02-08",
+          "views": 174738
+        },
+        {
+          "date": "2020-02-09",
+          "views": 552082
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Diodato%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Diodato_(cantante)",
+      "article_url": "https://it.wikipedia.org/wiki/Diodato_(cantante)",
+      "description": "cantautore italiano (1981-)",
+      "image_filename": "Diodato_RadioBruno_Festival_di_Sanremo_2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Diodato_RadioBruno_Festival_di_Sanremo_2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diodato_RadioBruno_Festival_di_Sanremo_2024.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Achille_Lauro_(rapper)",
+      "views": 749419,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 1937
+        },
+        {
+          "date": "2020-02-04",
+          "views": 77270
+        },
+        {
+          "date": "2020-02-05",
+          "views": 129987
+        },
+        {
+          "date": "2020-02-06",
+          "views": 52121
+        },
+        {
+          "date": "2020-02-07",
+          "views": 94143
+        },
+        {
+          "date": "2020-02-08",
+          "views": 180191
+        },
+        {
+          "date": "2020-02-09",
+          "views": 213770
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Achille%20Lauro%20%28rapper%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Achille_Lauro_(rapper)",
+      "article_url": "https://it.wikipedia.org/wiki/Achille_Lauro_(rapper)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Festival_di_Sanremo_2020",
+      "views": 671679,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 30136
+        },
+        {
+          "date": "2020-02-04",
+          "views": 113705
+        },
+        {
+          "date": "2020-02-05",
+          "views": 97816
+        },
+        {
+          "date": "2020-02-06",
+          "views": 90143
+        },
+        {
+          "date": "2020-02-07",
+          "views": 83941
+        },
+        {
+          "date": "2020-02-08",
+          "views": 98897
+        },
+        {
+          "date": "2020-02-09",
+          "views": 157041
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Festival_di_Sanremo_2020",
+      "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo_2020",
+      "description": "70\u00ba Festival della canzone italiana",
+      "image_filename": "Festival_di_Sanremo_2020_logo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a9/Festival_di_Sanremo_2020_logo.jpg/1280px-Festival_di_Sanremo_2020_logo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_2020_logo.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Rula_Jebreal",
+      "views": 651954,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 3173
+        },
+        {
+          "date": "2020-02-04",
+          "views": 262661
+        },
+        {
+          "date": "2020-02-05",
+          "views": 277272
+        },
+        {
+          "date": "2020-02-06",
+          "views": 47855
+        },
+        {
+          "date": "2020-02-07",
+          "views": 16188
+        },
+        {
+          "date": "2020-02-08",
+          "views": 15503
+        },
+        {
+          "date": "2020-02-09",
+          "views": 29302
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rula%20Jebreal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Rula_Jebreal",
+      "article_url": "https://it.wikipedia.org/wiki/Rula_Jebreal",
+      "description": "giornalista e scrittrice palestinese con cittadinanza israeliana e italiana",
+      "image_filename": "Rula_Jebreal,_portrait_by_Fabrizio_Ferri.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rula_Jebreal%2C_portrait_by_Fabrizio_Ferri.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rula_Jebreal%2C_portrait_by_Fabrizio_Ferri.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Bugo",
+      "views": 535337,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 0
+        },
+        {
+          "date": "2020-02-04",
+          "views": 26927
+        },
+        {
+          "date": "2020-02-05",
+          "views": 18799
+        },
+        {
+          "date": "2020-02-06",
+          "views": 5476
+        },
+        {
+          "date": "2020-02-07",
+          "views": 17253
+        },
+        {
+          "date": "2020-02-08",
+          "views": 309988
+        },
+        {
+          "date": "2020-02-09",
+          "views": 156894
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bugo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Bugo",
+      "article_url": "https://it.wikipedia.org/wiki/Bugo",
+      "description": "cantautore e musicista italiano (1973-)",
+      "image_filename": "Bugo_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bugo_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bugo_2018.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Cantico_dei_cantici",
+      "views": 533289,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 0
+        },
+        {
+          "date": "2020-02-04",
+          "views": 0
+        },
+        {
+          "date": "2020-02-05",
+          "views": 0
+        },
+        {
+          "date": "2020-02-06",
+          "views": 303409
+        },
+        {
+          "date": "2020-02-07",
+          "views": 165438
+        },
+        {
+          "date": "2020-02-08",
+          "views": 35699
+        },
+        {
+          "date": "2020-02-09",
+          "views": 28743
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cantico%20dei%20cantici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Cantico_dei_cantici",
+      "article_url": "https://it.wikipedia.org/wiki/Cantico_dei_cantici",
+      "description": "libro dell'Antico Testamento della Bibbia",
+      "image_filename": "Song_of_songs_Rothschild_mahzor.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Song_of_songs_Rothschild_mahzor.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Song_of_songs_Rothschild_mahzor.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 8,
+      "article": "Elettra_Lamborghini",
+      "views": 492660,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 4507
+        },
+        {
+          "date": "2020-02-04",
+          "views": 18062
+        },
+        {
+          "date": "2020-02-05",
+          "views": 104878
+        },
+        {
+          "date": "2020-02-06",
+          "views": 87152
+        },
+        {
+          "date": "2020-02-07",
+          "views": 67773
+        },
+        {
+          "date": "2020-02-08",
+          "views": 86466
+        },
+        {
+          "date": "2020-02-09",
+          "views": 123822
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elettra%20Lamborghini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Elettra_Lamborghini",
+      "article_url": "https://it.wikipedia.org/wiki/Elettra_Lamborghini",
+      "description": "cantante, showgirl e conduttrice televisiva italiana (1994-)",
+      "image_filename": "Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_%28cropped%29.jpg/1280px-Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Festival_di_Sanremo",
+      "views": 413826,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 21549
+        },
+        {
+          "date": "2020-02-04",
+          "views": 54493
+        },
+        {
+          "date": "2020-02-05",
+          "views": 55922
+        },
+        {
+          "date": "2020-02-06",
+          "views": 55585
+        },
+        {
+          "date": "2020-02-07",
+          "views": 51006
+        },
+        {
+          "date": "2020-02-08",
+          "views": 75311
+        },
+        {
+          "date": "2020-02-09",
+          "views": 99960
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Festival_di_Sanremo",
+      "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo",
+      "description": "festival musicale della canzone italiana",
+      "image_filename": "Festival_di_Sanremo_16_febbraio_2013.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Festival_di_Sanremo_16_febbraio_2013.JPG/1280px-Festival_di_Sanremo_16_febbraio_2013.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_16_febbraio_2013.JPG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "Amadeus_(conduttore_televisivo)",
+      "views": 386564,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 11302
+        },
+        {
+          "date": "2020-02-04",
+          "views": 65349
+        },
+        {
+          "date": "2020-02-05",
+          "views": 65775
+        },
+        {
+          "date": "2020-02-06",
+          "views": 44712
+        },
+        {
+          "date": "2020-02-07",
+          "views": 52140
+        },
+        {
+          "date": "2020-02-08",
+          "views": 73110
+        },
+        {
+          "date": "2020-02-09",
+          "views": 74176
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Amadeus%20%28conduttore%20televisivo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Amadeus_(conduttore_televisivo)",
+      "article_url": "https://it.wikipedia.org/wiki/Amadeus_(conduttore_televisivo)",
+      "description": "conduttore televisivo, conduttore radiofonico, showman e disc jockey italiano (1962-)",
+      "image_filename": "Amadeus_2023.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Amadeus_2023.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amadeus_2023.jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Ricchi_e_Poveri",
+      "views": 331515,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 1822
+        },
+        {
+          "date": "2020-02-04",
+          "views": 3655
+        },
+        {
+          "date": "2020-02-05",
+          "views": 198991
+        },
+        {
+          "date": "2020-02-06",
+          "views": 79273
+        },
+        {
+          "date": "2020-02-07",
+          "views": 14343
+        },
+        {
+          "date": "2020-02-08",
+          "views": 11923
+        },
+        {
+          "date": "2020-02-09",
+          "views": 21508
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ricchi%20e%20Poveri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Ricchi_e_Poveri",
+      "article_url": "https://it.wikipedia.org/wiki/Ricchi_e_Poveri",
+      "description": "gruppo musicale italiano",
+      "image_filename": "71_Ricchi_e_Poveri.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/71_Ricchi_e_Poveri.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:71_Ricchi_e_Poveri.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Pinguini_Tattici_Nucleari",
+      "views": 329120,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 2531
+        },
+        {
+          "date": "2020-02-04",
+          "views": 7189
+        },
+        {
+          "date": "2020-02-05",
+          "views": 33390
+        },
+        {
+          "date": "2020-02-06",
+          "views": 36205
+        },
+        {
+          "date": "2020-02-07",
+          "views": 51901
+        },
+        {
+          "date": "2020-02-08",
+          "views": 73543
+        },
+        {
+          "date": "2020-02-09",
+          "views": 124361
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pinguini%20Tattici%20Nucleari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Pinguini_Tattici_Nucleari",
+      "article_url": "https://it.wikipedia.org/wiki/Pinguini_Tattici_Nucleari",
+      "description": "gruppo musicale italiano",
+      "image_filename": "Pinguini_Tattici_Nucleari_in_Assago_Forum,_2022-07-04_(1).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pinguini_Tattici_Nucleari_in_Assago_Forum%2C_2022-07-04_%281%29.jpg/1280px-Pinguini_Tattici_Nucleari_in_Assago_Forum%2C_2022-07-04_%281%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pinguini_Tattici_Nucleari_in_Assago_Forum%2C_2022-07-04_(1).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Elodie_(cantante)",
+      "views": 326979,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 2784
+        },
+        {
+          "date": "2020-02-04",
+          "views": 40722
+        },
+        {
+          "date": "2020-02-05",
+          "views": 31772
+        },
+        {
+          "date": "2020-02-06",
+          "views": 62733
+        },
+        {
+          "date": "2020-02-07",
+          "views": 55474
+        },
+        {
+          "date": "2020-02-08",
+          "views": 93371
+        },
+        {
+          "date": "2020-02-09",
+          "views": 40123
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elodie%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Elodie_(cantante)",
+      "article_url": "https://it.wikipedia.org/wiki/Elodie_(cantante)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Diletta_Leotta",
+      "views": 271246,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 2810
+        },
+        {
+          "date": "2020-02-04",
+          "views": 108780
+        },
+        {
+          "date": "2020-02-05",
+          "views": 54441
+        },
+        {
+          "date": "2020-02-06",
+          "views": 18053
+        },
+        {
+          "date": "2020-02-07",
+          "views": 8441
+        },
+        {
+          "date": "2020-02-08",
+          "views": 40843
+        },
+        {
+          "date": "2020-02-09",
+          "views": 37878
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Diletta%20Leotta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Diletta_Leotta",
+      "article_url": "https://it.wikipedia.org/wiki/Diletta_Leotta",
+      "description": "conduttrice televisiva e conduttrice radiofonica italiana (1991-)",
+      "image_filename": "Diletta_Leotta_2019.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Diletta_Leotta_2019.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diletta_Leotta_2019.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Andromeda_(mitologia)",
+      "views": 260003,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 0
+        },
+        {
+          "date": "2020-02-04",
+          "views": 30597
+        },
+        {
+          "date": "2020-02-05",
+          "views": 36112
+        },
+        {
+          "date": "2020-02-06",
+          "views": 14705
+        },
+        {
+          "date": "2020-02-07",
+          "views": 54236
+        },
+        {
+          "date": "2020-02-08",
+          "views": 93484
+        },
+        {
+          "date": "2020-02-09",
+          "views": 30869
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andromeda%20%28mitologia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Andromeda_(mitologia)",
+      "article_url": "https://it.wikipedia.org/wiki/Andromeda_(mitologia)",
+      "description": "personaggio della mitologia greca, principessa d'Etiopia",
+      "image_filename": "Paul_Gustave_Dore_Andromeda.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Paul_Gustave_Dore_Andromeda.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paul_Gustave_Dore_Andromeda.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Sabrina_Salerno",
+      "views": 238773,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 1670
+        },
+        {
+          "date": "2020-02-04",
+          "views": 5226
+        },
+        {
+          "date": "2020-02-05",
+          "views": 76034
+        },
+        {
+          "date": "2020-02-06",
+          "views": 42729
+        },
+        {
+          "date": "2020-02-07",
+          "views": 10861
+        },
+        {
+          "date": "2020-02-08",
+          "views": 48802
+        },
+        {
+          "date": "2020-02-09",
+          "views": 53451
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sabrina%20Salerno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Sabrina_Salerno",
+      "article_url": "https://it.wikipedia.org/wiki/Sabrina_Salerno",
+      "description": "cantante, showgirl e attrice italiana (1968-)",
+      "image_filename": "Sabrina_Salerno_30_October_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sabrina_Salerno_30_October_2010.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sabrina_Salerno_30_October_2010.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Lewis_Capaldi",
+      "views": 234331,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 0
+        },
+        {
+          "date": "2020-02-04",
+          "views": 0
+        },
+        {
+          "date": "2020-02-05",
+          "views": 1294
+        },
+        {
+          "date": "2020-02-06",
+          "views": 197760
+        },
+        {
+          "date": "2020-02-07",
+          "views": 26489
+        },
+        {
+          "date": "2020-02-08",
+          "views": 5498
+        },
+        {
+          "date": "2020-02-09",
+          "views": 3290
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lewis%20Capaldi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Lewis_Capaldi",
+      "article_url": "https://it.wikipedia.org/wiki/Lewis_Capaldi",
+      "description": "cantautore e polistrumentista britannico (1996-)",
+      "image_filename": "Glasto2023_(176_of_468)_(53008945661)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Glasto2023_%28176_of_468%29_%2853008945661%29_%28cropped%29.jpg/1280px-Glasto2023_%28176_of_468%29_%2853008945661%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Glasto2023_(176_of_468)_(53008945661)_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Tiziano_Ferro",
+      "views": 228819,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 0
+        },
+        {
+          "date": "2020-02-04",
+          "views": 34564
+        },
+        {
+          "date": "2020-02-05",
+          "views": 33748
+        },
+        {
+          "date": "2020-02-06",
+          "views": 22597
+        },
+        {
+          "date": "2020-02-07",
+          "views": 41661
+        },
+        {
+          "date": "2020-02-08",
+          "views": 79622
+        },
+        {
+          "date": "2020-02-09",
+          "views": 16627
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tiziano%20Ferro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Tiziano_Ferro",
+      "article_url": "https://it.wikipedia.org/wiki/Tiziano_Ferro",
+      "description": "cantautore, paroliere e produttore discografico italiano (1980-)",
+      "image_filename": "Tiziano_Ferro_in_Schwyz_(1)_(cropped_2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tiziano_Ferro_in_Schwyz_%281%29_%28cropped_2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tiziano_Ferro_in_Schwyz_(1)_(cropped_2).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Francesco_Gabbani",
+      "views": 212426,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 0
+        },
+        {
+          "date": "2020-02-04",
+          "views": 2912
+        },
+        {
+          "date": "2020-02-05",
+          "views": 8019
+        },
+        {
+          "date": "2020-02-06",
+          "views": 17076
+        },
+        {
+          "date": "2020-02-07",
+          "views": 38984
+        },
+        {
+          "date": "2020-02-08",
+          "views": 56352
+        },
+        {
+          "date": "2020-02-09",
+          "views": 89083
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Francesco%20Gabbani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Francesco_Gabbani",
+      "article_url": "https://it.wikipedia.org/wiki/Francesco_Gabbani",
+      "description": "cantautore e polistrumentista italiano (1982-)",
+      "image_filename": "Francesco_Gabbani_di_Sanremo_2020IMG_2331_(cropped).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Francesco_Gabbani_di_Sanremo_2020IMG_2331_%28cropped%29.JPG/1280px-Francesco_Gabbani_di_Sanremo_2020IMG_2331_%28cropped%29.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesco_Gabbani_di_Sanremo_2020IMG_2331_(cropped).JPG",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Vincenzo_Mollica",
+      "views": 210849,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 2332
+        },
+        {
+          "date": "2020-02-04",
+          "views": 14482
+        },
+        {
+          "date": "2020-02-05",
+          "views": 10498
+        },
+        {
+          "date": "2020-02-06",
+          "views": 16989
+        },
+        {
+          "date": "2020-02-07",
+          "views": 60870
+        },
+        {
+          "date": "2020-02-08",
+          "views": 74436
+        },
+        {
+          "date": "2020-02-09",
+          "views": 31242
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vincenzo%20Mollica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Vincenzo_Mollica",
+      "article_url": "https://it.wikipedia.org/wiki/Vincenzo_Mollica",
+      "description": "giornalista e scrittore italiano (1953-)",
+      "image_filename": "Vincenzo_Mollica.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vincenzo_Mollica.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vincenzo_Mollica.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Fiorello",
+      "views": 204066,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 3781
+        },
+        {
+          "date": "2020-02-04",
+          "views": 14767
+        },
+        {
+          "date": "2020-02-05",
+          "views": 43505
+        },
+        {
+          "date": "2020-02-06",
+          "views": 13194
+        },
+        {
+          "date": "2020-02-07",
+          "views": 35301
+        },
+        {
+          "date": "2020-02-08",
+          "views": 41543
+        },
+        {
+          "date": "2020-02-09",
+          "views": 51975
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fiorello&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Fiorello",
+      "article_url": "https://it.wikipedia.org/wiki/Fiorello",
+      "description": "showman, comico, cabarettista, imitatore, cantante, conduttore radiofonico, conduttore televisivo e attore italiano (1960-)",
+      "image_filename": "Fiorello_byRobertoVicario_(cropped).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Fiorello_byRobertoVicario_%28cropped%29.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fiorello_byRobertoVicario_(cropped).JPG",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Rita_Pavone",
+      "views": 202791,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 2176
+        },
+        {
+          "date": "2020-02-04",
+          "views": 82426
+        },
+        {
+          "date": "2020-02-05",
+          "views": 27326
+        },
+        {
+          "date": "2020-02-06",
+          "views": 8529
+        },
+        {
+          "date": "2020-02-07",
+          "views": 10502
+        },
+        {
+          "date": "2020-02-08",
+          "views": 44067
+        },
+        {
+          "date": "2020-02-09",
+          "views": 27765
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rita%20Pavone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Rita_Pavone",
+      "article_url": "https://it.wikipedia.org/wiki/Rita_Pavone",
+      "description": "cantante, attrice e showgirl italiana (1945-)",
+      "image_filename": "Rita_Pavone_1965b.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rita_Pavone_1965b.jpg/1280px-Rita_Pavone_1965b.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rita_Pavone_1965b.jpg",
+      "image_license": "CC BY-SA 3.0 nl",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Piero_Pel\u00f9",
+      "views": 198931,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 1462
+        },
+        {
+          "date": "2020-02-04",
+          "views": 2755
+        },
+        {
+          "date": "2020-02-05",
+          "views": 37731
+        },
+        {
+          "date": "2020-02-06",
+          "views": 9866
+        },
+        {
+          "date": "2020-02-07",
+          "views": 27471
+        },
+        {
+          "date": "2020-02-08",
+          "views": 71133
+        },
+        {
+          "date": "2020-02-09",
+          "views": 48513
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Piero%20Pel%C3%B9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Piero_Pel%C3%B9",
+      "article_url": "https://it.wikipedia.org/wiki/Piero_Pel%C3%B9",
+      "description": "cantautore italiano (1962-)",
+      "image_filename": "Piero_Pel\u00f9_Funweek.it_2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Piero_Pel%C3%B9_Funweek.it_2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Piero_Pel%C3%B9_Funweek.it_2024.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Irene_Grandi",
+      "views": 195577,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 0
+        },
+        {
+          "date": "2020-02-04",
+          "views": 64360
+        },
+        {
+          "date": "2020-02-05",
+          "views": 13746
+        },
+        {
+          "date": "2020-02-06",
+          "views": 5086
+        },
+        {
+          "date": "2020-02-07",
+          "views": 20388
+        },
+        {
+          "date": "2020-02-08",
+          "views": 67800
+        },
+        {
+          "date": "2020-02-09",
+          "views": 24197
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Irene%20Grandi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Irene_Grandi",
+      "article_url": "https://it.wikipedia.org/wiki/Irene_Grandi",
+      "description": "cantautrice italiana (1969-)",
+      "image_filename": "Irene_Grandi_di_Sanremo_-_2020IMG_1849_(head_shot).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Irene_Grandi_di_Sanremo_-_2020IMG_1849_%28head_shot%29.JPG/1200px-Irene_Grandi_di_Sanremo_-_2020IMG_1849_%28head_shot%29.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Irene_Grandi_di_Sanremo_-_2020IMG_1849_(head_shot).JPG",
+      "image_license": "GFDL",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Levante_(cantante)",
+      "views": 195179,
+      "daily_views": [
+        {
+          "date": "2020-02-03",
+          "views": 0
+        },
+        {
+          "date": "2020-02-04",
+          "views": 3662
+        },
+        {
+          "date": "2020-02-05",
+          "views": 30214
+        },
+        {
+          "date": "2020-02-06",
+          "views": 27516
+        },
+        {
+          "date": "2020-02-07",
+          "views": 10866
+        },
+        {
+          "date": "2020-02-08",
+          "views": 52226
+        },
+        {
+          "date": "2020-02-09",
+          "views": 70695
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Levante%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Levante_(cantante)",
+      "article_url": "https://it.wikipedia.org/wiki/Levante_(cantante)",
+      "description": "cantautrice italiana (1987-)",
+      "image_filename": "Levante_Radio_Bruno_2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Levante_Radio_Bruno_2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Levante_Radio_Bruno_2024.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

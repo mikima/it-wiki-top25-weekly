@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2016,
+  "week": 21,
+  "start_date": "2016-05-23",
+  "end_date": "2016-05-29",
+  "days": [
+    "2016-05-23",
+    "2016-05-24",
+    "2016-05-25",
+    "2016-05-26",
+    "2016-05-27",
+    "2016-05-28",
+    "2016-05-29"
+  ],
+  "total_articles": 2536,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Boris_Giuliano",
+      "views": 329775,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 160244
+        },
+        {
+          "date": "2016-05-24",
+          "views": 125511
+        },
+        {
+          "date": "2016-05-25",
+          "views": 27810
+        },
+        {
+          "date": "2016-05-26",
+          "views": 7048
+        },
+        {
+          "date": "2016-05-27",
+          "views": 3820
+        },
+        {
+          "date": "2016-05-28",
+          "views": 2580
+        },
+        {
+          "date": "2016-05-29",
+          "views": 2762
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Boris%20Giuliano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Boris_Giuliano",
+      "article_url": "https://it.wikipedia.org/wiki/Boris_Giuliano",
+      "description": "poliziotto, funzionario e investigatore italiano (1930-1979)",
+      "image_filename": "Borisgiuliano.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/6/6a/Borisgiuliano.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Borisgiuliano.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Gomorra_-_La_serie",
+      "views": 183660,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 19553
+        },
+        {
+          "date": "2016-05-24",
+          "views": 39982
+        },
+        {
+          "date": "2016-05-25",
+          "views": 42786
+        },
+        {
+          "date": "2016-05-26",
+          "views": 26081
+        },
+        {
+          "date": "2016-05-27",
+          "views": 18879
+        },
+        {
+          "date": "2016-05-28",
+          "views": 15417
+        },
+        {
+          "date": "2016-05-29",
+          "views": 20962
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gomorra%20-%20La%20serie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Gomorra_-_La_serie",
+      "article_url": "https://it.wikipedia.org/wiki/Gomorra_-_La_serie",
+      "description": "serie televisiva italiana (2014-2021)",
+      "image_filename": "Gomorra_La_serie.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/8/85/Gomorra_La_serie.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gomorra_La_serie.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Giorgio_Albertazzi",
+      "views": 126709,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 0
+        },
+        {
+          "date": "2016-05-24",
+          "views": 0
+        },
+        {
+          "date": "2016-05-25",
+          "views": 0
+        },
+        {
+          "date": "2016-05-26",
+          "views": 0
+        },
+        {
+          "date": "2016-05-27",
+          "views": 0
+        },
+        {
+          "date": "2016-05-28",
+          "views": 85055
+        },
+        {
+          "date": "2016-05-29",
+          "views": 41654
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorgio%20Albertazzi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Giorgio_Albertazzi",
+      "article_url": "https://it.wikipedia.org/wiki/Giorgio_Albertazzi",
+      "description": "attore italiano (1923-2016)",
+      "image_filename": "Giorgio_Albertazzi_(2)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Giorgio_Albertazzi_%282%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giorgio_Albertazzi_(2)_(cropped).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Il_Trono_di_Spade_(serie_televisiva)",
+      "views": 125008,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 30266
+        },
+        {
+          "date": "2016-05-24",
+          "views": 25159
+        },
+        {
+          "date": "2016-05-25",
+          "views": 16678
+        },
+        {
+          "date": "2016-05-26",
+          "views": 13775
+        },
+        {
+          "date": "2016-05-27",
+          "views": 11447
+        },
+        {
+          "date": "2016-05-28",
+          "views": 10597
+        },
+        {
+          "date": "2016-05-29",
+          "views": 17086
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Trono%20di%20Spade%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Il_Trono_di_Spade_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Trono_di_Spade_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2019)",
+      "image_filename": "Il_Trono_di_Spade.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/27/Il_Trono_di_Spade.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Trono_di_Spade.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Campionato_europeo_di_calcio_2016",
+      "views": 107384,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 13231
+        },
+        {
+          "date": "2016-05-24",
+          "views": 13780
+        },
+        {
+          "date": "2016-05-25",
+          "views": 12836
+        },
+        {
+          "date": "2016-05-26",
+          "views": 12253
+        },
+        {
+          "date": "2016-05-27",
+          "views": 12537
+        },
+        {
+          "date": "2016-05-28",
+          "views": 15530
+        },
+        {
+          "date": "2016-05-29",
+          "views": 27217
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20europeo%20di%20calcio%202016&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Campionato_europeo_di_calcio_2016",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_europeo_di_calcio_2016",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Vincenzo_Nibali",
+      "views": 102933,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 2089
+        },
+        {
+          "date": "2016-05-24",
+          "views": 5119
+        },
+        {
+          "date": "2016-05-25",
+          "views": 3392
+        },
+        {
+          "date": "2016-05-26",
+          "views": 2143
+        },
+        {
+          "date": "2016-05-27",
+          "views": 8931
+        },
+        {
+          "date": "2016-05-28",
+          "views": 39858
+        },
+        {
+          "date": "2016-05-29",
+          "views": 41401
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vincenzo%20Nibali&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Vincenzo_Nibali",
+      "article_url": "https://it.wikipedia.org/wiki/Vincenzo_Nibali",
+      "description": "ciclista su strada italiano",
+      "image_filename": "Tour_de_France_2014,_nibali_(14683101148).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tour_de_France_2014%2C_nibali_%2814683101148%29.jpg/1050px-Tour_de_France_2014%2C_nibali_%2814683101148%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tour_de_France_2014%2C_nibali_(14683101148).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "X-Men_-_Apocalisse",
+      "views": 99090,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 26579
+        },
+        {
+          "date": "2016-05-24",
+          "views": 19146
+        },
+        {
+          "date": "2016-05-25",
+          "views": 13123
+        },
+        {
+          "date": "2016-05-26",
+          "views": 10203
+        },
+        {
+          "date": "2016-05-27",
+          "views": 8796
+        },
+        {
+          "date": "2016-05-28",
+          "views": 8968
+        },
+        {
+          "date": "2016-05-29",
+          "views": 12275
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=X-Men%20-%20Apocalisse&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=X-Men_-_Apocalisse",
+      "article_url": "https://it.wikipedia.org/wiki/X-Men_-_Apocalisse",
+      "description": "film del 2016 diretto da Bryan Singer",
+      "image_filename": "ApocalypseRises.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/27/ApocalypseRises.png/1280px-ApocalypseRises.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ApocalypseRises.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Daniel_Alves",
+      "views": 97893,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 0
+        },
+        {
+          "date": "2016-05-24",
+          "views": 0
+        },
+        {
+          "date": "2016-05-25",
+          "views": 39713
+        },
+        {
+          "date": "2016-05-26",
+          "views": 34713
+        },
+        {
+          "date": "2016-05-27",
+          "views": 10220
+        },
+        {
+          "date": "2016-05-28",
+          "views": 5196
+        },
+        {
+          "date": "2016-05-29",
+          "views": 8051
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Daniel%20Alves&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Daniel_Alves",
+      "article_url": "https://it.wikipedia.org/wiki/Daniel_Alves",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "X-Men_(serie_cinematografica)",
+      "views": 97064,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 33810
+        },
+        {
+          "date": "2016-05-24",
+          "views": 17897
+        },
+        {
+          "date": "2016-05-25",
+          "views": 11227
+        },
+        {
+          "date": "2016-05-26",
+          "views": 8565
+        },
+        {
+          "date": "2016-05-27",
+          "views": 7245
+        },
+        {
+          "date": "2016-05-28",
+          "views": 7328
+        },
+        {
+          "date": "2016-05-29",
+          "views": 10992
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=X-Men%20%28serie%20cinematografica%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=X-Men_(serie_cinematografica)",
+      "article_url": "https://it.wikipedia.org/wiki/X-Men_(serie_cinematografica)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "X-Men_-_Giorni_di_un_futuro_passato",
+      "views": 95647,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 62379
+        },
+        {
+          "date": "2016-05-24",
+          "views": 15616
+        },
+        {
+          "date": "2016-05-25",
+          "views": 5078
+        },
+        {
+          "date": "2016-05-26",
+          "views": 3560
+        },
+        {
+          "date": "2016-05-27",
+          "views": 2812
+        },
+        {
+          "date": "2016-05-28",
+          "views": 2685
+        },
+        {
+          "date": "2016-05-29",
+          "views": 3517
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=X-Men%20-%20Giorni%20di%20un%20futuro%20passato&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=X-Men_-_Giorni_di_un_futuro_passato",
+      "article_url": "https://it.wikipedia.org/wiki/X-Men_-_Giorni_di_un_futuro_passato",
+      "description": "film del 2014 diretto da Bryan Singer",
+      "image_filename": "XMenDaysofFuturePast.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/57/XMenDaysofFuturePast.jpg/1024px-XMenDaysofFuturePast.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:XMenDaysofFuturePast.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Pel\u00e9",
+      "views": 88314,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 4111
+        },
+        {
+          "date": "2016-05-24",
+          "views": 5258
+        },
+        {
+          "date": "2016-05-25",
+          "views": 7174
+        },
+        {
+          "date": "2016-05-26",
+          "views": 32067
+        },
+        {
+          "date": "2016-05-27",
+          "views": 10890
+        },
+        {
+          "date": "2016-05-28",
+          "views": 10419
+        },
+        {
+          "date": "2016-05-29",
+          "views": 18395
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pel%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Pel%C3%A9",
+      "article_url": "https://it.wikipedia.org/wiki/Pel%C3%A9",
+      "description": "calciatore e dirigente sportivo brasiliano (1940-2022)",
+      "image_filename": "Pele_con_brasil_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pele_con_brasil_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "The_Butler_-_Un_maggiordomo_alla_Casa_Bianca",
+      "views": 87291,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 0
+        },
+        {
+          "date": "2016-05-24",
+          "views": 0
+        },
+        {
+          "date": "2016-05-25",
+          "views": 0
+        },
+        {
+          "date": "2016-05-26",
+          "views": 0
+        },
+        {
+          "date": "2016-05-27",
+          "views": 73372
+        },
+        {
+          "date": "2016-05-28",
+          "views": 11219
+        },
+        {
+          "date": "2016-05-29",
+          "views": 2700
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Butler%20-%20Un%20maggiordomo%20alla%20Casa%20Bianca&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=The_Butler_-_Un_maggiordomo_alla_Casa_Bianca",
+      "article_url": "https://it.wikipedia.org/wiki/The_Butler_-_Un_maggiordomo_alla_Casa_Bianca",
+      "description": "film drammatico del 2013",
+      "image_filename": "TheButlerMaggiordomoAllaCasaBianca.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/TheButlerMaggiordomoAllaCasaBianca.jpg/1280px-TheButlerMaggiordomoAllaCasaBianca.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:TheButlerMaggiordomoAllaCasaBianca.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Albo_d'oro_della_UEFA_Champions_League",
+      "views": 86058,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 2851
+        },
+        {
+          "date": "2016-05-24",
+          "views": 2440
+        },
+        {
+          "date": "2016-05-25",
+          "views": 2745
+        },
+        {
+          "date": "2016-05-26",
+          "views": 3142
+        },
+        {
+          "date": "2016-05-27",
+          "views": 4844
+        },
+        {
+          "date": "2016-05-28",
+          "views": 46320
+        },
+        {
+          "date": "2016-05-29",
+          "views": 23716
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Albo%20d%27oro%20della%20UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Albo_d%27oro_della_UEFA_Champions_League",
+      "article_url": "https://it.wikipedia.org/wiki/Albo_d%27oro_della_UEFA_Champions_League",
+      "description": "lista di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Giovanni_Falcone",
+      "views": 81871,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 51361
+        },
+        {
+          "date": "2016-05-24",
+          "views": 14433
+        },
+        {
+          "date": "2016-05-25",
+          "views": 5763
+        },
+        {
+          "date": "2016-05-26",
+          "views": 3548
+        },
+        {
+          "date": "2016-05-27",
+          "views": 2677
+        },
+        {
+          "date": "2016-05-28",
+          "views": 1952
+        },
+        {
+          "date": "2016-05-29",
+          "views": 2137
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giovanni%20Falcone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Giovanni_Falcone",
+      "article_url": "https://it.wikipedia.org/wiki/Giovanni_Falcone",
+      "description": "magistrato italiano (1939-1992)",
+      "image_filename": "Giovanni_Falcone_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Giovanni_Falcone_2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Falcone_2.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Educazione",
+      "views": 77913,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 0
+        },
+        {
+          "date": "2016-05-24",
+          "views": 77913
+        },
+        {
+          "date": "2016-05-25",
+          "views": 0
+        },
+        {
+          "date": "2016-05-26",
+          "views": 0
+        },
+        {
+          "date": "2016-05-27",
+          "views": 0
+        },
+        {
+          "date": "2016-05-28",
+          "views": 0
+        },
+        {
+          "date": "2016-05-29",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Educazione&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Educazione",
+      "article_url": "https://it.wikipedia.org/wiki/Educazione",
+      "description": "processo e attivit\u00e0 volta allo sviluppo e alla formazione di conoscenze e facolt\u00e0 mentali, sociali e comportamentali in un individuo",
+      "image_filename": "Finnish_adult_education_centre.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Finnish_adult_education_centre.jpg/1280px-Finnish_adult_education_centre.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Finnish_adult_education_centre.jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Cristiano_Ronaldo",
+      "views": 75705,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 2828
+        },
+        {
+          "date": "2016-05-24",
+          "views": 2644
+        },
+        {
+          "date": "2016-05-25",
+          "views": 3405
+        },
+        {
+          "date": "2016-05-26",
+          "views": 2958
+        },
+        {
+          "date": "2016-05-27",
+          "views": 3226
+        },
+        {
+          "date": "2016-05-28",
+          "views": 33473
+        },
+        {
+          "date": "2016-05-29",
+          "views": 27171
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Cristiano_Ronaldo",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "description": "calciatore portoghese (1985-)",
+      "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "UEFA_Champions_League",
+      "views": 73703,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 2838
+        },
+        {
+          "date": "2016-05-24",
+          "views": 2459
+        },
+        {
+          "date": "2016-05-25",
+          "views": 2586
+        },
+        {
+          "date": "2016-05-26",
+          "views": 3300
+        },
+        {
+          "date": "2016-05-27",
+          "views": 4508
+        },
+        {
+          "date": "2016-05-28",
+          "views": 37373
+        },
+        {
+          "date": "2016-05-29",
+          "views": 20639
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=UEFA_Champions_League",
+      "article_url": "https://it.wikipedia.org/wiki/UEFA_Champions_League",
+      "description": "massima competizione calcistica UEFA per squadre di club",
+      "image_filename": "UEFA_Champions_League_logo_(2021).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/UEFA_Champions_League_logo_%282021%29.svg/1280px-UEFA_Champions_League_logo_%282021%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Champions_League_logo_(2021).svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Leoluca_Bagarella",
+      "views": 67204,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 20789
+        },
+        {
+          "date": "2016-05-24",
+          "views": 31159
+        },
+        {
+          "date": "2016-05-25",
+          "views": 9074
+        },
+        {
+          "date": "2016-05-26",
+          "views": 2495
+        },
+        {
+          "date": "2016-05-27",
+          "views": 1475
+        },
+        {
+          "date": "2016-05-28",
+          "views": 971
+        },
+        {
+          "date": "2016-05-29",
+          "views": 1241
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Leoluca%20Bagarella&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Leoluca_Bagarella",
+      "article_url": "https://it.wikipedia.org/wiki/Leoluca_Bagarella",
+      "description": "mafioso italiano (1942-)",
+      "image_filename": "Leoluca_Bagarella_2002.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a1/Leoluca_Bagarella_2002.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leoluca_Bagarella_2002.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Episodi_de_Il_Trono_di_Spade_(sesta_stagione)",
+      "views": 64765,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 18146
+        },
+        {
+          "date": "2016-05-24",
+          "views": 14289
+        },
+        {
+          "date": "2016-05-25",
+          "views": 8139
+        },
+        {
+          "date": "2016-05-26",
+          "views": 6289
+        },
+        {
+          "date": "2016-05-27",
+          "views": 5087
+        },
+        {
+          "date": "2016-05-28",
+          "views": 4718
+        },
+        {
+          "date": "2016-05-29",
+          "views": 8097
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20Il%20Trono%20di%20Spade%20%28sesta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Episodi_de_Il_Trono_di_Spade_(sesta_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_Il_Trono_di_Spade_(sesta_stagione)",
+      "description": "stagione televisiva",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Giro_d'Italia",
+      "views": 63819,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 2774
+        },
+        {
+          "date": "2016-05-24",
+          "views": 4338
+        },
+        {
+          "date": "2016-05-25",
+          "views": 3734
+        },
+        {
+          "date": "2016-05-26",
+          "views": 3996
+        },
+        {
+          "date": "2016-05-27",
+          "views": 7060
+        },
+        {
+          "date": "2016-05-28",
+          "views": 19018
+        },
+        {
+          "date": "2016-05-29",
+          "views": 22899
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giro%20d%27Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Giro_d%27Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Giro_d%27Italia",
+      "description": "corsa ciclistica a tappe",
+      "image_filename": "Giro_d'Italia_-_Logo_2018.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Giro_d%27Italia_-_Logo_2018.svg/1280px-Giro_d%27Italia_-_Logo_2018.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giro_d%27Italia_-_Logo_2018.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 21,
+      "article": "Strage_di_Capaci",
+      "views": 62070,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 44551
+        },
+        {
+          "date": "2016-05-24",
+          "views": 9271
+        },
+        {
+          "date": "2016-05-25",
+          "views": 3268
+        },
+        {
+          "date": "2016-05-26",
+          "views": 1969
+        },
+        {
+          "date": "2016-05-27",
+          "views": 1866
+        },
+        {
+          "date": "2016-05-28",
+          "views": 1145
+        },
+        {
+          "date": "2016-05-29",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Strage%20di%20Capaci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Strage_di_Capaci",
+      "article_url": "https://it.wikipedia.org/wiki/Strage_di_Capaci",
+      "description": "attentato mafioso compiuto a Capaci (PA) il 23 maggio 1992",
+      "image_filename": "Strage_di_capaci.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/4/4d/Strage_di_capaci.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Strage_di_capaci.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Corpus_Domini",
+      "views": 60183,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 2121
+        },
+        {
+          "date": "2016-05-24",
+          "views": 2398
+        },
+        {
+          "date": "2016-05-25",
+          "views": 4435
+        },
+        {
+          "date": "2016-05-26",
+          "views": 14414
+        },
+        {
+          "date": "2016-05-27",
+          "views": 5302
+        },
+        {
+          "date": "2016-05-28",
+          "views": 7548
+        },
+        {
+          "date": "2016-05-29",
+          "views": 23965
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Corpus%20Domini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Corpus_Domini",
+      "article_url": "https://it.wikipedia.org/wiki/Corpus_Domini",
+      "description": "solennit\u00e0 della Chiesa Cattolica",
+      "image_filename": "Fronleichnam_in_Rom.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fronleichnam_in_Rom.jpg/1280px-Fronleichnam_in_Rom.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fronleichnam_in_Rom.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Mauro_De_Mauro",
+      "views": 56017,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 37116
+        },
+        {
+          "date": "2016-05-24",
+          "views": 13901
+        },
+        {
+          "date": "2016-05-25",
+          "views": 3724
+        },
+        {
+          "date": "2016-05-26",
+          "views": 1276
+        },
+        {
+          "date": "2016-05-27",
+          "views": 0
+        },
+        {
+          "date": "2016-05-28",
+          "views": 0
+        },
+        {
+          "date": "2016-05-29",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mauro%20De%20Mauro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Mauro_De_Mauro",
+      "article_url": "https://it.wikipedia.org/wiki/Mauro_De_Mauro",
+      "description": "giornalista italiano",
+      "image_filename": "Mauro_de_mauro_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mauro_de_mauro_2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mauro_de_mauro_2.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Italia",
+      "views": 55491,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 10387
+        },
+        {
+          "date": "2016-05-24",
+          "views": 7823
+        },
+        {
+          "date": "2016-05-25",
+          "views": 7380
+        },
+        {
+          "date": "2016-05-26",
+          "views": 7271
+        },
+        {
+          "date": "2016-05-27",
+          "views": 7172
+        },
+        {
+          "date": "2016-05-28",
+          "views": 7226
+        },
+        {
+          "date": "2016-05-29",
+          "views": 8232
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Javier_Mascherano",
+      "views": 54677,
+      "daily_views": [
+        {
+          "date": "2016-05-23",
+          "views": 0
+        },
+        {
+          "date": "2016-05-24",
+          "views": 0
+        },
+        {
+          "date": "2016-05-25",
+          "views": 29899
+        },
+        {
+          "date": "2016-05-26",
+          "views": 13201
+        },
+        {
+          "date": "2016-05-27",
+          "views": 6237
+        },
+        {
+          "date": "2016-05-28",
+          "views": 3410
+        },
+        {
+          "date": "2016-05-29",
+          "views": 1930
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Javier%20Mascherano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/23/2016,cd_max:05/29/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-05-23&end=2016-05-29&pages=Javier_Mascherano",
+      "article_url": "https://it.wikipedia.org/wiki/Javier_Mascherano",
+      "description": "allenatore di calcio e calciatore argentino (1984-)",
+      "image_filename": "Javier_Mascherano_NE_Revolution_Inter_Miami_7.9.25-040_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Javier_Mascherano_NE_Revolution_Inter_Miami_7.9.25-040_%28cropped%29.jpg/1280px-Javier_Mascherano_NE_Revolution_Inter_Miami_7.9.25-040_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Javier_Mascherano_NE_Revolution_Inter_Miami_7.9.25-040_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

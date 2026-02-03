@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2016,
+  "week": 1,
+  "start_date": "2016-01-04",
+  "end_date": "2016-01-10",
+  "days": [
+    "2016-01-04",
+    "2016-01-05",
+    "2016-01-06",
+    "2016-01-07",
+    "2016-01-08",
+    "2016-01-09",
+    "2016-01-10"
+  ],
+  "total_articles": 2493,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Checco_Zalone",
+      "views": 257958,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 54203
+        },
+        {
+          "date": "2016-01-05",
+          "views": 38658
+        },
+        {
+          "date": "2016-01-06",
+          "views": 33577
+        },
+        {
+          "date": "2016-01-07",
+          "views": 27676
+        },
+        {
+          "date": "2016-01-08",
+          "views": 24435
+        },
+        {
+          "date": "2016-01-09",
+          "views": 28542
+        },
+        {
+          "date": "2016-01-10",
+          "views": 50867
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Checco%20Zalone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Checco_Zalone",
+      "article_url": "https://it.wikipedia.org/wiki/Checco_Zalone",
+      "description": "comico, sceneggiatore, attore e imitatore italiano (1977-)",
+      "image_filename": "Checco_Zalone.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Checco_Zalone.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Checco_Zalone.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Quo_vado?",
+      "views": 128484,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 27217
+        },
+        {
+          "date": "2016-01-05",
+          "views": 20866
+        },
+        {
+          "date": "2016-01-06",
+          "views": 17735
+        },
+        {
+          "date": "2016-01-07",
+          "views": 16358
+        },
+        {
+          "date": "2016-01-08",
+          "views": 12361
+        },
+        {
+          "date": "2016-01-09",
+          "views": 14532
+        },
+        {
+          "date": "2016-01-10",
+          "views": 19415
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Quo%20vado%3F&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Quo_vado%3F",
+      "article_url": "https://it.wikipedia.org/wiki/Quo_vado%3F",
+      "description": "film del 2016 diretto da Gennaro Nunziante",
+      "image_filename": "Quo_vado.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3e/Quo_vado.png/1280px-Quo_vado.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Quo_vado.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Alan_Turing",
+      "views": 120260,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 41508
+        },
+        {
+          "date": "2016-01-05",
+          "views": 32659
+        },
+        {
+          "date": "2016-01-06",
+          "views": 15166
+        },
+        {
+          "date": "2016-01-07",
+          "views": 7782
+        },
+        {
+          "date": "2016-01-08",
+          "views": 5993
+        },
+        {
+          "date": "2016-01-09",
+          "views": 5393
+        },
+        {
+          "date": "2016-01-10",
+          "views": 11759
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alan%20Turing&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Alan_Turing",
+      "article_url": "https://it.wikipedia.org/wiki/Alan_Turing",
+      "description": "matematico, logico e crittografo britannico, pioniere dell'informatica",
+      "image_filename": "Alan_Turing_(1912-1954)_in_1936_at_Princeton_University.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Alan_Turing_%281912-1954%29_in_1936_at_Princeton_University.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alan_Turing_(1912-1954)_in_1936_at_Princeton_University.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Epifania",
+      "views": 118769,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 10314
+        },
+        {
+          "date": "2016-01-05",
+          "views": 32823
+        },
+        {
+          "date": "2016-01-06",
+          "views": 61743
+        },
+        {
+          "date": "2016-01-07",
+          "views": 7435
+        },
+        {
+          "date": "2016-01-08",
+          "views": 2934
+        },
+        {
+          "date": "2016-01-09",
+          "views": 1914
+        },
+        {
+          "date": "2016-01-10",
+          "views": 1606
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Epifania&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Epifania",
+      "article_url": "https://it.wikipedia.org/wiki/Epifania",
+      "description": "festa cristiana",
+      "image_filename": "Epifan\u00eda_Gentile_02.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Epifan%C3%ADa_Gentile_02.JPG/1280px-Epifan%C3%ADa_Gentile_02.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Epifan%C3%ADa_Gentile_02.JPG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Silvana_Pampanini",
+      "views": 115293,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 0
+        },
+        {
+          "date": "2016-01-05",
+          "views": 0
+        },
+        {
+          "date": "2016-01-06",
+          "views": 61930
+        },
+        {
+          "date": "2016-01-07",
+          "views": 32401
+        },
+        {
+          "date": "2016-01-08",
+          "views": 14288
+        },
+        {
+          "date": "2016-01-09",
+          "views": 3939
+        },
+        {
+          "date": "2016-01-10",
+          "views": 2735
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Silvana%20Pampanini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Silvana_Pampanini",
+      "article_url": "https://it.wikipedia.org/wiki/Silvana_Pampanini",
+      "description": "attrice italiana (1925-2016)",
+      "image_filename": "Photo_A_portrait_of_the_italian_actress_Silvana_Pampanini_1959_-_Touring_Club_Italiano_04_1685_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Photo_A_portrait_of_the_italian_actress_Silvana_Pampanini_1959_-_Touring_Club_Italiano_04_1685_%28cropped%29.jpg/1280px-Photo_A_portrait_of_the_italian_actress_Silvana_Pampanini_1959_-_Touring_Club_Italiano_04_1685_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Photo_A_portrait_of_the_italian_actress_Silvana_Pampanini_1959_-_Touring_Club_Italiano_04_1685_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Star_Wars:_Il_risveglio_della_Forza",
+      "views": 113331,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 22194
+        },
+        {
+          "date": "2016-01-05",
+          "views": 19006
+        },
+        {
+          "date": "2016-01-06",
+          "views": 16919
+        },
+        {
+          "date": "2016-01-07",
+          "views": 15116
+        },
+        {
+          "date": "2016-01-08",
+          "views": 13105
+        },
+        {
+          "date": "2016-01-09",
+          "views": 12859
+        },
+        {
+          "date": "2016-01-10",
+          "views": 14132
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Star%20Wars%3A%20Il%20risveglio%20della%20Forza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Star_Wars%3A_Il_risveglio_della_Forza",
+      "article_url": "https://it.wikipedia.org/wiki/Star_Wars%3A_Il_risveglio_della_Forza",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Guerre_stellari",
+      "views": 110766,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 20991
+        },
+        {
+          "date": "2016-01-05",
+          "views": 17312
+        },
+        {
+          "date": "2016-01-06",
+          "views": 16712
+        },
+        {
+          "date": "2016-01-07",
+          "views": 13791
+        },
+        {
+          "date": "2016-01-08",
+          "views": 12938
+        },
+        {
+          "date": "2016-01-09",
+          "views": 13896
+        },
+        {
+          "date": "2016-01-10",
+          "views": 15126
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guerre%20stellari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Guerre_stellari",
+      "article_url": "https://it.wikipedia.org/wiki/Guerre_stellari",
+      "description": "franchise creato da George Lucas",
+      "image_filename": "Star_Wars_Logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1280px-Star_Wars_Logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_Wars_Logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 8,
+      "article": "Macbeth",
+      "views": 98007,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 7292
+        },
+        {
+          "date": "2016-01-05",
+          "views": 13164
+        },
+        {
+          "date": "2016-01-06",
+          "views": 16926
+        },
+        {
+          "date": "2016-01-07",
+          "views": 12260
+        },
+        {
+          "date": "2016-01-08",
+          "views": 13561
+        },
+        {
+          "date": "2016-01-09",
+          "views": 16883
+        },
+        {
+          "date": "2016-01-10",
+          "views": 17921
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Macbeth&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Macbeth",
+      "article_url": "https://it.wikipedia.org/wiki/Macbeth",
+      "description": "tragedia di William Shakespeare",
+      "image_filename": "Lady_Macbeth_Cattermole.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lady_Macbeth_Cattermole.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lady_Macbeth_Cattermole.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Bomba_all'idrogeno",
+      "views": 88046,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 0
+        },
+        {
+          "date": "2016-01-05",
+          "views": 0
+        },
+        {
+          "date": "2016-01-06",
+          "views": 50243
+        },
+        {
+          "date": "2016-01-07",
+          "views": 26125
+        },
+        {
+          "date": "2016-01-08",
+          "views": 6230
+        },
+        {
+          "date": "2016-01-09",
+          "views": 2878
+        },
+        {
+          "date": "2016-01-10",
+          "views": 2570
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bomba%20all%27idrogeno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Bomba_all%27idrogeno",
+      "article_url": "https://it.wikipedia.org/wiki/Bomba_all%27idrogeno",
+      "description": "arma di distruzione di massa",
+      "image_filename": "Palomares_Bomb_Casings.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Palomares_Bomb_Casings.jpg/1258px-Palomares_Bomb_Casings.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Palomares_Bomb_Casings.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "La_grande_scommessa",
+      "views": 87078,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 3868
+        },
+        {
+          "date": "2016-01-05",
+          "views": 5402
+        },
+        {
+          "date": "2016-01-06",
+          "views": 5486
+        },
+        {
+          "date": "2016-01-07",
+          "views": 10484
+        },
+        {
+          "date": "2016-01-08",
+          "views": 13383
+        },
+        {
+          "date": "2016-01-09",
+          "views": 22432
+        },
+        {
+          "date": "2016-01-10",
+          "views": 26023
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20grande%20scommessa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=La_grande_scommessa",
+      "article_url": "https://it.wikipedia.org/wiki/La_grande_scommessa",
+      "description": "film del 2015 diretto da Adam McKay",
+      "image_filename": "The_Big_Short_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Big_Short_logo.svg/1280px-The_Big_Short_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Big_Short_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Don_Matteo",
+      "views": 83517,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 1954
+        },
+        {
+          "date": "2016-01-05",
+          "views": 1907
+        },
+        {
+          "date": "2016-01-06",
+          "views": 2466
+        },
+        {
+          "date": "2016-01-07",
+          "views": 49899
+        },
+        {
+          "date": "2016-01-08",
+          "views": 18353
+        },
+        {
+          "date": "2016-01-09",
+          "views": 5301
+        },
+        {
+          "date": "2016-01-10",
+          "views": 3637
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Don%20Matteo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Don_Matteo",
+      "article_url": "https://it.wikipedia.org/wiki/Don_Matteo",
+      "description": "serie televisiva italiana del 2000",
+      "image_filename": "Logo_Don_Matteo_14.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Don_Matteo_14.svg/1280px-Logo_Don_Matteo_14.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Don_Matteo_14.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Film_con_maggiori_incassi_nella_storia_del_cinema",
+      "views": 82910,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 16324
+        },
+        {
+          "date": "2016-01-05",
+          "views": 12680
+        },
+        {
+          "date": "2016-01-06",
+          "views": 11478
+        },
+        {
+          "date": "2016-01-07",
+          "views": 11895
+        },
+        {
+          "date": "2016-01-08",
+          "views": 9944
+        },
+        {
+          "date": "2016-01-09",
+          "views": 9068
+        },
+        {
+          "date": "2016-01-10",
+          "views": 11521
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Film%20con%20maggiori%20incassi%20nella%20storia%20del%20cinema&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Film_con_maggiori_incassi_nella_storia_del_cinema",
+      "article_url": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_nella_storia_del_cinema",
+      "description": "lista di un progetto Wikipedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Befana",
+      "views": 80951,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 7936
+        },
+        {
+          "date": "2016-01-05",
+          "views": 25872
+        },
+        {
+          "date": "2016-01-06",
+          "views": 37453
+        },
+        {
+          "date": "2016-01-07",
+          "views": 6078
+        },
+        {
+          "date": "2016-01-08",
+          "views": 2287
+        },
+        {
+          "date": "2016-01-09",
+          "views": 1325
+        },
+        {
+          "date": "2016-01-10",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Befana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Befana",
+      "article_url": "https://it.wikipedia.org/wiki/Befana",
+      "description": "figura folcloristica italiana legata all'Epifania",
+      "image_filename": "Befana1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Befana1.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Befana1.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Revenant_-_Redivivo",
+      "views": 80337,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 10870
+        },
+        {
+          "date": "2016-01-05",
+          "views": 10222
+        },
+        {
+          "date": "2016-01-06",
+          "views": 11399
+        },
+        {
+          "date": "2016-01-07",
+          "views": 10503
+        },
+        {
+          "date": "2016-01-08",
+          "views": 10154
+        },
+        {
+          "date": "2016-01-09",
+          "views": 12463
+        },
+        {
+          "date": "2016-01-10",
+          "views": 14726
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Revenant%20-%20Redivivo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Revenant_-_Redivivo",
+      "article_url": "https://it.wikipedia.org/wiki/Revenant_-_Redivivo",
+      "description": "film del 2015 diretto da Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
+      "image_filename": "The_Revenant.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/71/The_Revenant.png/1280px-The_Revenant.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Revenant.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Grey's_Anatomy",
+      "views": 77626,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 13319
+        },
+        {
+          "date": "2016-01-05",
+          "views": 12111
+        },
+        {
+          "date": "2016-01-06",
+          "views": 9755
+        },
+        {
+          "date": "2016-01-07",
+          "views": 13283
+        },
+        {
+          "date": "2016-01-08",
+          "views": 11152
+        },
+        {
+          "date": "2016-01-09",
+          "views": 8385
+        },
+        {
+          "date": "2016-01-10",
+          "views": 9621
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Gli_Aristogatti",
+      "views": 72691,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 0
+        },
+        {
+          "date": "2016-01-05",
+          "views": 0
+        },
+        {
+          "date": "2016-01-06",
+          "views": 61783
+        },
+        {
+          "date": "2016-01-07",
+          "views": 7569
+        },
+        {
+          "date": "2016-01-08",
+          "views": 1990
+        },
+        {
+          "date": "2016-01-09",
+          "views": 1349
+        },
+        {
+          "date": "2016-01-10",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gli%20Aristogatti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Gli_Aristogatti",
+      "article_url": "https://it.wikipedia.org/wiki/Gli_Aristogatti",
+      "description": "film d'animazione del 1970 diretto da Wolfgang Reitherman",
+      "image_filename": "Gli_Aristogatti.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Gli_Aristogatti.png/1280px-Gli_Aristogatti.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gli_Aristogatti.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Gotham_(serie_televisiva)",
+      "views": 70451,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 8118
+        },
+        {
+          "date": "2016-01-05",
+          "views": 25536
+        },
+        {
+          "date": "2016-01-06",
+          "views": 11009
+        },
+        {
+          "date": "2016-01-07",
+          "views": 7814
+        },
+        {
+          "date": "2016-01-08",
+          "views": 6507
+        },
+        {
+          "date": "2016-01-09",
+          "views": 5232
+        },
+        {
+          "date": "2016-01-10",
+          "views": 6235
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gotham%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Gotham_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Gotham_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2014-2019)",
+      "image_filename": "Gotham_(serie_televisiva).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1c/Gotham_%28serie_televisiva%29.png/1280px-Gotham_%28serie_televisiva%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gotham_(serie_televisiva).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Laura_Morante",
+      "views": 64997,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 1955
+        },
+        {
+          "date": "2016-01-05",
+          "views": 11900
+        },
+        {
+          "date": "2016-01-06",
+          "views": 26721
+        },
+        {
+          "date": "2016-01-07",
+          "views": 7654
+        },
+        {
+          "date": "2016-01-08",
+          "views": 5792
+        },
+        {
+          "date": "2016-01-09",
+          "views": 6303
+        },
+        {
+          "date": "2016-01-10",
+          "views": 4672
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Laura%20Morante&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Laura_Morante",
+      "article_url": "https://it.wikipedia.org/wiki/Laura_Morante",
+      "description": "attrice, doppiatrice e regista italiana",
+      "image_filename": "Laura_Morante_Cannes_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Laura_Morante_Cannes_2017.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Laura_Morante_Cannes_2017.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Corea_del_Nord",
+      "views": 64987,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 0
+        },
+        {
+          "date": "2016-01-05",
+          "views": 0
+        },
+        {
+          "date": "2016-01-06",
+          "views": 25517
+        },
+        {
+          "date": "2016-01-07",
+          "views": 20738
+        },
+        {
+          "date": "2016-01-08",
+          "views": 8788
+        },
+        {
+          "date": "2016-01-09",
+          "views": 5415
+        },
+        {
+          "date": "2016-01-10",
+          "views": 4529
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Corea%20del%20Nord&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Corea_del_Nord",
+      "article_url": "https://it.wikipedia.org/wiki/Corea_del_Nord",
+      "description": "stato dell'Asia orientale",
+      "image_filename": "Flag_of_North_Korea.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1280px-Flag_of_North_Korea.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Korea.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "The_Imitation_Game",
+      "views": 63996,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 21889
+        },
+        {
+          "date": "2016-01-05",
+          "views": 15782
+        },
+        {
+          "date": "2016-01-06",
+          "views": 7819
+        },
+        {
+          "date": "2016-01-07",
+          "views": 4883
+        },
+        {
+          "date": "2016-01-08",
+          "views": 3960
+        },
+        {
+          "date": "2016-01-09",
+          "views": 3484
+        },
+        {
+          "date": "2016-01-10",
+          "views": 6179
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Imitation%20Game&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=The_Imitation_Game",
+      "article_url": "https://it.wikipedia.org/wiki/The_Imitation_Game",
+      "description": "film del 2014 diretto da Morten Tyldum",
+      "image_filename": "The_Imitation_Game.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a1/The_Imitation_Game.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Imitation_Game.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Il_ponte_delle_spie",
+      "views": 63045,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 10583
+        },
+        {
+          "date": "2016-01-05",
+          "views": 9104
+        },
+        {
+          "date": "2016-01-06",
+          "views": 10022
+        },
+        {
+          "date": "2016-01-07",
+          "views": 6973
+        },
+        {
+          "date": "2016-01-08",
+          "views": 6729
+        },
+        {
+          "date": "2016-01-09",
+          "views": 9572
+        },
+        {
+          "date": "2016-01-10",
+          "views": 10062
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20ponte%20delle%20spie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Il_ponte_delle_spie",
+      "article_url": "https://it.wikipedia.org/wiki/Il_ponte_delle_spie",
+      "description": "film del 2015 diretto da Steven Spielberg",
+      "image_filename": "Bridge_of_Spies.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/31/Bridge_of_Spies.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bridge_of_Spies.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Luciano_Pavarotti",
+      "views": 59659,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 0
+        },
+        {
+          "date": "2016-01-05",
+          "views": 1443
+        },
+        {
+          "date": "2016-01-06",
+          "views": 0
+        },
+        {
+          "date": "2016-01-07",
+          "views": 0
+        },
+        {
+          "date": "2016-01-08",
+          "views": 46699
+        },
+        {
+          "date": "2016-01-09",
+          "views": 8984
+        },
+        {
+          "date": "2016-01-10",
+          "views": 2533
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luciano%20Pavarotti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Luciano_Pavarotti",
+      "article_url": "https://it.wikipedia.org/wiki/Luciano_Pavarotti",
+      "description": "tenore italiano (1935-2007)",
+      "image_filename": "Luciano_Pavarotti_2004.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Luciano_Pavarotti_2004.jpg/1029px-Luciano_Pavarotti_2004.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luciano_Pavarotti_2004.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Italia",
+      "views": 59538,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 8516
+        },
+        {
+          "date": "2016-01-05",
+          "views": 8289
+        },
+        {
+          "date": "2016-01-06",
+          "views": 9947
+        },
+        {
+          "date": "2016-01-07",
+          "views": 8629
+        },
+        {
+          "date": "2016-01-08",
+          "views": 7892
+        },
+        {
+          "date": "2016-01-09",
+          "views": 7572
+        },
+        {
+          "date": "2016-01-10",
+          "views": 8693
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Gianni_Bella",
+      "views": 58490,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 0
+        },
+        {
+          "date": "2016-01-05",
+          "views": 43971
+        },
+        {
+          "date": "2016-01-06",
+          "views": 12409
+        },
+        {
+          "date": "2016-01-07",
+          "views": 2110
+        },
+        {
+          "date": "2016-01-08",
+          "views": 0
+        },
+        {
+          "date": "2016-01-09",
+          "views": 0
+        },
+        {
+          "date": "2016-01-10",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gianni%20Bella&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Gianni_Bella",
+      "article_url": "https://it.wikipedia.org/wiki/Gianni_Bella",
+      "description": "cantautore italiano (1947-)",
+      "image_filename": "Gianni_Bella_crop.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Gianni_Bella_crop.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gianni_Bella_crop.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Riccardo_Muti",
+      "views": 58358,
+      "daily_views": [
+        {
+          "date": "2016-01-04",
+          "views": 0
+        },
+        {
+          "date": "2016-01-05",
+          "views": 0
+        },
+        {
+          "date": "2016-01-06",
+          "views": 0
+        },
+        {
+          "date": "2016-01-07",
+          "views": 0
+        },
+        {
+          "date": "2016-01-08",
+          "views": 1417
+        },
+        {
+          "date": "2016-01-09",
+          "views": 0
+        },
+        {
+          "date": "2016-01-10",
+          "views": 56941
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Riccardo%20Muti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Riccardo_Muti",
+      "article_url": "https://it.wikipedia.org/wiki/Riccardo_Muti",
+      "description": "direttore d'orchestra italiano (1941-)",
+      "image_filename": "Embajador_Wayne_asiste_a_la_clase_magistral_impartida_por_el_Maestro_Riccardo_Muti_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Embajador_Wayne_asiste_a_la_clase_magistral_impartida_por_el_Maestro_Riccardo_Muti_%28cropped%29.jpg/1280px-Embajador_Wayne_asiste_a_la_clase_magistral_impartida_por_el_Maestro_Riccardo_Muti_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Embajador_Wayne_asiste_a_la_clase_magistral_impartida_por_el_Maestro_Riccardo_Muti_(cropped).jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

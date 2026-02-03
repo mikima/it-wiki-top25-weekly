@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2016,
+  "week": 17,
+  "start_date": "2016-04-25",
+  "end_date": "2016-05-01",
+  "days": [
+    "2016-04-25",
+    "2016-04-26",
+    "2016-04-27",
+    "2016-04-28",
+    "2016-04-29",
+    "2016-04-30",
+    "2016-05-01"
+  ],
+  "total_articles": 2579,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Claude_Shannon",
+      "views": 401723,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 0
+        },
+        {
+          "date": "2016-04-26",
+          "views": 0
+        },
+        {
+          "date": "2016-04-27",
+          "views": 0
+        },
+        {
+          "date": "2016-04-28",
+          "views": 0
+        },
+        {
+          "date": "2016-04-29",
+          "views": 37581
+        },
+        {
+          "date": "2016-04-30",
+          "views": 356708
+        },
+        {
+          "date": "2016-05-01",
+          "views": 7434
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Claude%20Shannon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Claude_Shannon",
+      "article_url": "https://it.wikipedia.org/wiki/Claude_Shannon",
+      "description": "matematico e ingegnere statunitense",
+      "image_filename": "ClaudeShannon_MFO3807.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ClaudeShannon_MFO3807.jpg",
+      "image_license": "CC BY-SA 2.0 de",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Anniversario_della_liberazione_d'Italia",
+      "views": 234955,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 168196
+        },
+        {
+          "date": "2016-04-26",
+          "views": 34865
+        },
+        {
+          "date": "2016-04-27",
+          "views": 14468
+        },
+        {
+          "date": "2016-04-28",
+          "views": 7821
+        },
+        {
+          "date": "2016-04-29",
+          "views": 4096
+        },
+        {
+          "date": "2016-04-30",
+          "views": 2578
+        },
+        {
+          "date": "2016-05-01",
+          "views": 2931
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Anniversario%20della%20liberazione%20d%27Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Anniversario_della_liberazione_d%27Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Anniversario_della_liberazione_d%27Italia",
+      "description": "festa nazionale italiana (25 aprile)",
+      "image_filename": "Emblem_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Emblem_of_Italy.svg/1280px-Emblem_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Emblem_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Il_Trono_di_Spade_(serie_televisiva)",
+      "views": 164263,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 42948
+        },
+        {
+          "date": "2016-04-26",
+          "views": 32501
+        },
+        {
+          "date": "2016-04-27",
+          "views": 20670
+        },
+        {
+          "date": "2016-04-28",
+          "views": 19422
+        },
+        {
+          "date": "2016-04-29",
+          "views": 14461
+        },
+        {
+          "date": "2016-04-30",
+          "views": 14428
+        },
+        {
+          "date": "2016-05-01",
+          "views": 19833
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Trono%20di%20Spade%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Il_Trono_di_Spade_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Trono_di_Spade_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2019)",
+      "image_filename": "Il_Trono_di_Spade.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/27/Il_Trono_di_Spade.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Trono_di_Spade.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Leicester_City_Football_Club",
+      "views": 137826,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 21496
+        },
+        {
+          "date": "2016-04-26",
+          "views": 25231
+        },
+        {
+          "date": "2016-04-27",
+          "views": 14308
+        },
+        {
+          "date": "2016-04-28",
+          "views": 10140
+        },
+        {
+          "date": "2016-04-29",
+          "views": 14602
+        },
+        {
+          "date": "2016-04-30",
+          "views": 13695
+        },
+        {
+          "date": "2016-05-01",
+          "views": 38354
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Leicester%20City%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Leicester_City_Football_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Leicester_City_Football_Club",
+      "description": "club calcistico inglese di Leicester",
+      "image_filename": "Leicester_City_Logo_(2009).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a3/Leicester_City_Logo_%282009%29.svg/1280px-Leicester_City_Logo_%282009%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leicester_City_Logo_(2009).svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Festa_del_lavoro",
+      "views": 125550,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 2852
+        },
+        {
+          "date": "2016-04-26",
+          "views": 2589
+        },
+        {
+          "date": "2016-04-27",
+          "views": 2575
+        },
+        {
+          "date": "2016-04-28",
+          "views": 2902
+        },
+        {
+          "date": "2016-04-29",
+          "views": 4387
+        },
+        {
+          "date": "2016-04-30",
+          "views": 15235
+        },
+        {
+          "date": "2016-05-01",
+          "views": 95010
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Festa%20del%20lavoro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Festa_del_lavoro",
+      "article_url": "https://it.wikipedia.org/wiki/Festa_del_lavoro",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Disastro_di_\u010cernobyl'",
+      "views": 106880,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 16449
+        },
+        {
+          "date": "2016-04-26",
+          "views": 48804
+        },
+        {
+          "date": "2016-04-27",
+          "views": 16745
+        },
+        {
+          "date": "2016-04-28",
+          "views": 8821
+        },
+        {
+          "date": "2016-04-29",
+          "views": 5233
+        },
+        {
+          "date": "2016-04-30",
+          "views": 4891
+        },
+        {
+          "date": "2016-05-01",
+          "views": 5937
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Disastro%20di%20%C4%8Cernobyl%27&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Disastro_di_%C4%8Cernobyl%27",
+      "article_url": "https://it.wikipedia.org/wiki/Disastro_di_%C4%8Cernobyl%27",
+      "description": "incidente nucleare",
+      "image_filename": "IAEA_02790015_(5613115146).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/1280px-IAEA_02790015_%285613115146%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:IAEA_02790015_(5613115146).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Leicester",
+      "views": 98037,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 12422
+        },
+        {
+          "date": "2016-04-26",
+          "views": 13309
+        },
+        {
+          "date": "2016-04-27",
+          "views": 7467
+        },
+        {
+          "date": "2016-04-28",
+          "views": 5618
+        },
+        {
+          "date": "2016-04-29",
+          "views": 10228
+        },
+        {
+          "date": "2016-04-30",
+          "views": 11002
+        },
+        {
+          "date": "2016-05-01",
+          "views": 37991
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Leicester&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Leicester",
+      "article_url": "https://it.wikipedia.org/wiki/Leicester",
+      "description": "citt\u00e0 del Regno Unito in Inghilterra",
+      "image_filename": "Aerial-Leicester_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Aerial-Leicester_2017.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Aerial-Leicester_2017.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Il_miglio_verde_(film)",
+      "views": 92210,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 64774
+        },
+        {
+          "date": "2016-04-26",
+          "views": 18120
+        },
+        {
+          "date": "2016-04-27",
+          "views": 3659
+        },
+        {
+          "date": "2016-04-28",
+          "views": 1764
+        },
+        {
+          "date": "2016-04-29",
+          "views": 1243
+        },
+        {
+          "date": "2016-04-30",
+          "views": 1210
+        },
+        {
+          "date": "2016-05-01",
+          "views": 1440
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20miglio%20verde%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Il_miglio_verde_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_miglio_verde_(film)",
+      "description": "film del 1999 diretto da Frank Darabont",
+      "image_filename": "Miglioverde.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/0/0a/Miglioverde.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Miglioverde.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Juventus_Football_Club",
+      "views": 86592,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 35917
+        },
+        {
+          "date": "2016-04-26",
+          "views": 19482
+        },
+        {
+          "date": "2016-04-27",
+          "views": 8746
+        },
+        {
+          "date": "2016-04-28",
+          "views": 6167
+        },
+        {
+          "date": "2016-04-29",
+          "views": 4940
+        },
+        {
+          "date": "2016-04-30",
+          "views": 4247
+        },
+        {
+          "date": "2016-05-01",
+          "views": 7093
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Juventus%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Juventus_Football_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Juventus_Football_Club",
+      "description": "club calcistico italiano di Torino",
+      "image_filename": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/1280px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy%2C_2020).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "25_aprile",
+      "views": 86039,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 66175
+        },
+        {
+          "date": "2016-04-26",
+          "views": 11430
+        },
+        {
+          "date": "2016-04-27",
+          "views": 4612
+        },
+        {
+          "date": "2016-04-28",
+          "views": 2429
+        },
+        {
+          "date": "2016-04-29",
+          "views": 1393
+        },
+        {
+          "date": "2016-04-30",
+          "views": 0
+        },
+        {
+          "date": "2016-05-01",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=25%20aprile&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=25_aprile",
+      "article_url": "https://it.wikipedia.org/wiki/25_aprile",
+      "description": "data",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Pirati_dei_Caraibi",
+      "views": 83571,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 2336
+        },
+        {
+          "date": "2016-04-26",
+          "views": 20064
+        },
+        {
+          "date": "2016-04-27",
+          "views": 35719
+        },
+        {
+          "date": "2016-04-28",
+          "views": 11855
+        },
+        {
+          "date": "2016-04-29",
+          "views": 4904
+        },
+        {
+          "date": "2016-04-30",
+          "views": 4042
+        },
+        {
+          "date": "2016-05-01",
+          "views": 4651
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pirati%20dei%20Caraibi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Pirati_dei_Caraibi",
+      "article_url": "https://it.wikipedia.org/wiki/Pirati_dei_Caraibi",
+      "description": "serie di film",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Festa_della_mamma",
+      "views": 80098,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 3955
+        },
+        {
+          "date": "2016-04-26",
+          "views": 16686
+        },
+        {
+          "date": "2016-04-27",
+          "views": 9900
+        },
+        {
+          "date": "2016-04-28",
+          "views": 10445
+        },
+        {
+          "date": "2016-04-29",
+          "views": 11857
+        },
+        {
+          "date": "2016-04-30",
+          "views": 9947
+        },
+        {
+          "date": "2016-05-01",
+          "views": 17308
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Festa%20della%20mamma&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Festa_della_mamma",
+      "article_url": "https://it.wikipedia.org/wiki/Festa_della_mamma",
+      "description": "ricorrenza in cui si festeggia la maternit\u00e0",
+      "image_filename": "Northern_Pacific_Railway_Mother's_Day_card_1915.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Northern_Pacific_Railway_Mother%27s_Day_card_1915.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Northern_Pacific_Railway_Mother%27s_Day_card_1915.JPG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 13,
+      "article": "Prince",
+      "views": 78246,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 18587
+        },
+        {
+          "date": "2016-04-26",
+          "views": 14159
+        },
+        {
+          "date": "2016-04-27",
+          "views": 9759
+        },
+        {
+          "date": "2016-04-28",
+          "views": 15597
+        },
+        {
+          "date": "2016-04-29",
+          "views": 8991
+        },
+        {
+          "date": "2016-04-30",
+          "views": 5841
+        },
+        {
+          "date": "2016-05-01",
+          "views": 5312
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Prince&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Prince",
+      "article_url": "https://it.wikipedia.org/wiki/Prince",
+      "description": "cantante, polistrumentista e compositore statunitense (1958-2016)",
+      "image_filename": "Prince_1981_(crop).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Prince_1981_%28crop%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prince_1981_(crop).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Claudio_Ranieri",
+      "views": 68121,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 8065
+        },
+        {
+          "date": "2016-04-26",
+          "views": 10903
+        },
+        {
+          "date": "2016-04-27",
+          "views": 6692
+        },
+        {
+          "date": "2016-04-28",
+          "views": 4486
+        },
+        {
+          "date": "2016-04-29",
+          "views": 8048
+        },
+        {
+          "date": "2016-04-30",
+          "views": 7227
+        },
+        {
+          "date": "2016-05-01",
+          "views": 22700
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Claudio%20Ranieri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Claudio_Ranieri",
+      "article_url": "https://it.wikipedia.org/wiki/Claudio_Ranieri",
+      "description": "dirigente sportivo, allenatore di calcio e calciatore italiano (1951-)",
+      "image_filename": "Claudio_Ranieri_Inter_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Claudio_Ranieri_Inter_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Claudio_Ranieri_Inter_(cropped).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Episodi_de_Il_Trono_di_Spade_(sesta_stagione)",
+      "views": 63774,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 18472
+        },
+        {
+          "date": "2016-04-26",
+          "views": 13766
+        },
+        {
+          "date": "2016-04-27",
+          "views": 7515
+        },
+        {
+          "date": "2016-04-28",
+          "views": 6202
+        },
+        {
+          "date": "2016-04-29",
+          "views": 4733
+        },
+        {
+          "date": "2016-04-30",
+          "views": 5097
+        },
+        {
+          "date": "2016-05-01",
+          "views": 7989
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20Il%20Trono%20di%20Spade%20%28sesta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Episodi_de_Il_Trono_di_Spade_(sesta_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_Il_Trono_di_Spade_(sesta_stagione)",
+      "description": "stagione televisiva",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Grey's_Anatomy",
+      "views": 60533,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 7554
+        },
+        {
+          "date": "2016-04-26",
+          "views": 11568
+        },
+        {
+          "date": "2016-04-27",
+          "views": 8496
+        },
+        {
+          "date": "2016-04-28",
+          "views": 9052
+        },
+        {
+          "date": "2016-04-29",
+          "views": 9519
+        },
+        {
+          "date": "2016-04-30",
+          "views": 6663
+        },
+        {
+          "date": "2016-05-01",
+          "views": 7681
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Bruce_Lee",
+      "views": 60068,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 0
+        },
+        {
+          "date": "2016-04-26",
+          "views": 0
+        },
+        {
+          "date": "2016-04-27",
+          "views": 0
+        },
+        {
+          "date": "2016-04-28",
+          "views": 0
+        },
+        {
+          "date": "2016-04-29",
+          "views": 0
+        },
+        {
+          "date": "2016-04-30",
+          "views": 1101
+        },
+        {
+          "date": "2016-05-01",
+          "views": 58967
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bruce%20Lee&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Bruce_Lee",
+      "article_url": "https://it.wikipedia.org/wiki/Bruce_Lee",
+      "description": "artista marziale, attore, regista, sceneggiatore e produttore cinematografico cinese con cittadinanza statunitense (1940-1973)",
+      "image_filename": "Bruce_Lee_1973.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bruce_Lee_1973.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Roger_Moore",
+      "views": 55177,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 0
+        },
+        {
+          "date": "2016-04-26",
+          "views": 0
+        },
+        {
+          "date": "2016-04-27",
+          "views": 0
+        },
+        {
+          "date": "2016-04-28",
+          "views": 0
+        },
+        {
+          "date": "2016-04-29",
+          "views": 44696
+        },
+        {
+          "date": "2016-04-30",
+          "views": 7241
+        },
+        {
+          "date": "2016-05-01",
+          "views": 3240
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Roger%20Moore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Roger_Moore",
+      "article_url": "https://it.wikipedia.org/wiki/Roger_Moore",
+      "description": "attore britannico (1927-2017)",
+      "image_filename": "Sir_Roger_Moore_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sir_Roger_Moore_3.jpg/1280px-Sir_Roger_Moore_3.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sir_Roger_Moore_3.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Italia",
+      "views": 54804,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 9327
+        },
+        {
+          "date": "2016-04-26",
+          "views": 7697
+        },
+        {
+          "date": "2016-04-27",
+          "views": 7891
+        },
+        {
+          "date": "2016-04-28",
+          "views": 7733
+        },
+        {
+          "date": "2016-04-29",
+          "views": 6819
+        },
+        {
+          "date": "2016-04-30",
+          "views": 6752
+        },
+        {
+          "date": "2016-05-01",
+          "views": 8585
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Captain_America:_Civil_War",
+      "views": 54231,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 5633
+        },
+        {
+          "date": "2016-04-26",
+          "views": 7214
+        },
+        {
+          "date": "2016-04-27",
+          "views": 7856
+        },
+        {
+          "date": "2016-04-28",
+          "views": 8027
+        },
+        {
+          "date": "2016-04-29",
+          "views": 7267
+        },
+        {
+          "date": "2016-04-30",
+          "views": 7564
+        },
+        {
+          "date": "2016-05-01",
+          "views": 10670
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Captain%20America%3A%20Civil%20War&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Captain_America%3A_Civil_War",
+      "article_url": "https://it.wikipedia.org/wiki/Captain_America%3A_Civil_War",
+      "description": "film del 2016 diretto da Anthony e Joe Russo",
+      "image_filename": "Captain_America_Civil_War.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Captain_America_Civil_War.png/1280px-Captain_America_Civil_War.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Captain_America_Civil_War.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Gloria_Guida",
+      "views": 53838,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 0
+        },
+        {
+          "date": "2016-04-26",
+          "views": 0
+        },
+        {
+          "date": "2016-04-27",
+          "views": 0
+        },
+        {
+          "date": "2016-04-28",
+          "views": 2796
+        },
+        {
+          "date": "2016-04-29",
+          "views": 41517
+        },
+        {
+          "date": "2016-04-30",
+          "views": 7307
+        },
+        {
+          "date": "2016-05-01",
+          "views": 2218
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gloria%20Guida&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Gloria_Guida",
+      "article_url": "https://it.wikipedia.org/wiki/Gloria_Guida",
+      "description": "attrice italiana (1955-)",
+      "image_filename": "Gloria_Guida_La_minorenne.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Gloria_Guida_La_minorenne.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gloria_Guida_La_minorenne.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Jamie_Vardy",
+      "views": 47484,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 7742
+        },
+        {
+          "date": "2016-04-26",
+          "views": 9335
+        },
+        {
+          "date": "2016-04-27",
+          "views": 7219
+        },
+        {
+          "date": "2016-04-28",
+          "views": 4866
+        },
+        {
+          "date": "2016-04-29",
+          "views": 3896
+        },
+        {
+          "date": "2016-04-30",
+          "views": 4180
+        },
+        {
+          "date": "2016-05-01",
+          "views": 10246
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jamie%20Vardy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Jamie_Vardy",
+      "article_url": "https://it.wikipedia.org/wiki/Jamie_Vardy",
+      "description": "calciatore inglese (1987-)",
+      "image_filename": "Jamie_Vardy_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jamie_Vardy_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jamie_Vardy_2018.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Persecuzione_dei_cristiani_nell'Impero_romano",
+      "views": 46631,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 0
+        },
+        {
+          "date": "2016-04-26",
+          "views": 0
+        },
+        {
+          "date": "2016-04-27",
+          "views": 0
+        },
+        {
+          "date": "2016-04-28",
+          "views": 0
+        },
+        {
+          "date": "2016-04-29",
+          "views": 0
+        },
+        {
+          "date": "2016-04-30",
+          "views": 0
+        },
+        {
+          "date": "2016-05-01",
+          "views": 46631
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Persecuzione%20dei%20cristiani%20nell%27Impero%20romano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Persecuzione_dei_cristiani_nell%27Impero_romano",
+      "article_url": "https://it.wikipedia.org/wiki/Persecuzione_dei_cristiani_nell%27Impero_romano",
+      "description": "fenomeno oppressivo all'interno dell'impero romano",
+      "image_filename": "Martyrsinscription.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Martyrsinscription.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Martyrsinscription.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Vanessa_Incontrada",
+      "views": 44576,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 2266
+        },
+        {
+          "date": "2016-04-26",
+          "views": 2954
+        },
+        {
+          "date": "2016-04-27",
+          "views": 1447
+        },
+        {
+          "date": "2016-04-28",
+          "views": 15155
+        },
+        {
+          "date": "2016-04-29",
+          "views": 4282
+        },
+        {
+          "date": "2016-04-30",
+          "views": 3357
+        },
+        {
+          "date": "2016-05-01",
+          "views": 15115
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vanessa%20Incontrada&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Vanessa_Incontrada",
+      "article_url": "https://it.wikipedia.org/wiki/Vanessa_Incontrada",
+      "description": "attrice, conduttrice televisiva e modella italo-spagnola (1978-)",
+      "image_filename": "Carlo_Conti,_Vanessa_Incontrada_(edited).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Carlo_Conti%2C_Vanessa_Incontrada_%28edited%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carlo_Conti%2C_Vanessa_Incontrada_(edited).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Benito_Mussolini",
+      "views": 43715,
+      "daily_views": [
+        {
+          "date": "2016-04-25",
+          "views": 11120
+        },
+        {
+          "date": "2016-04-26",
+          "views": 4934
+        },
+        {
+          "date": "2016-04-27",
+          "views": 4194
+        },
+        {
+          "date": "2016-04-28",
+          "views": 10832
+        },
+        {
+          "date": "2016-04-29",
+          "views": 4586
+        },
+        {
+          "date": "2016-04-30",
+          "views": 3136
+        },
+        {
+          "date": "2016-05-01",
+          "views": 4913
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Benito%20Mussolini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/25/2016,cd_max:05/01/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-04-25&end=2016-05-01&pages=Benito_Mussolini",
+      "article_url": "https://it.wikipedia.org/wiki/Benito_Mussolini",
+      "description": "politico e giornalista italiano (1883\u20131945), presidente del Consiglio dei ministri del Regno d'Italia, fondatore del Partito Nazionale Fascista",
+      "image_filename": "Mussolini_mezzobusto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mussolini_mezzobusto.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

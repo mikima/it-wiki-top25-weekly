@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2024,
+  "week": 34,
+  "start_date": "2024-08-19",
+  "end_date": "2024-08-25",
+  "days": [
+    "2024-08-19",
+    "2024-08-20",
+    "2024-08-21",
+    "2024-08-22",
+    "2024-08-23",
+    "2024-08-24",
+    "2024-08-25"
+  ],
+  "total_articles": 2749,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Alain_Delon",
+      "views": 263031,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 129228
+        },
+        {
+          "date": "2024-08-20",
+          "views": 47488
+        },
+        {
+          "date": "2024-08-21",
+          "views": 30329
+        },
+        {
+          "date": "2024-08-22",
+          "views": 19509
+        },
+        {
+          "date": "2024-08-23",
+          "views": 12772
+        },
+        {
+          "date": "2024-08-24",
+          "views": 13193
+        },
+        {
+          "date": "2024-08-25",
+          "views": 10512
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alain%20Delon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Alain_Delon",
+      "article_url": "https://it.wikipedia.org/wiki/Alain_Delon",
+      "description": "attore, produttore cinematografico e cantante francese (1935-2024)",
+      "image_filename": "Alain_Delon_1959_Rome.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Alain_Delon_1959_Rome.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alain_Delon_1959_Rome.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Romy_Schneider",
+      "views": 135386,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 67155
+        },
+        {
+          "date": "2024-08-20",
+          "views": 25480
+        },
+        {
+          "date": "2024-08-21",
+          "views": 15184
+        },
+        {
+          "date": "2024-08-22",
+          "views": 9219
+        },
+        {
+          "date": "2024-08-23",
+          "views": 6542
+        },
+        {
+          "date": "2024-08-24",
+          "views": 5807
+        },
+        {
+          "date": "2024-08-25",
+          "views": 5999
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Romy%20Schneider&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Romy_Schneider",
+      "article_url": "https://it.wikipedia.org/wiki/Romy_Schneider",
+      "description": "attrice tedesca naturalizzata francese (1938-1982)",
+      "image_filename": "Romy_Schneider_1973.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Romy_Schneider_1973.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Romy_Schneider_1973.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Omicidio_di_Elisa_Claps",
+      "views": 127066,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 19434
+        },
+        {
+          "date": "2024-08-20",
+          "views": 18412
+        },
+        {
+          "date": "2024-08-21",
+          "views": 19771
+        },
+        {
+          "date": "2024-08-22",
+          "views": 18348
+        },
+        {
+          "date": "2024-08-23",
+          "views": 17058
+        },
+        {
+          "date": "2024-08-24",
+          "views": 15713
+        },
+        {
+          "date": "2024-08-25",
+          "views": 18330
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Omicidio%20di%20Elisa%20Claps&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Omicidio_di_Elisa_Claps",
+      "article_url": "https://it.wikipedia.org/wiki/Omicidio_di_Elisa_Claps",
+      "description": "caso di cronaca nera avvenuto a Potenza nel 1993",
+      "image_filename": "Elisa_Claps_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Elisa_Claps_1.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elisa_Claps_1.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Loxosceles_rufescens",
+      "views": 88720,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 12636
+        },
+        {
+          "date": "2024-08-20",
+          "views": 13276
+        },
+        {
+          "date": "2024-08-21",
+          "views": 16163
+        },
+        {
+          "date": "2024-08-22",
+          "views": 14413
+        },
+        {
+          "date": "2024-08-23",
+          "views": 11481
+        },
+        {
+          "date": "2024-08-24",
+          "views": 11265
+        },
+        {
+          "date": "2024-08-25",
+          "views": 9486
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Loxosceles%20rufescens&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Loxosceles_rufescens",
+      "article_url": "https://it.wikipedia.org/wiki/Loxosceles_rufescens",
+      "description": "specie di aracnide",
+      "image_filename": "Loxosceles_rufescens_20130710a.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Loxosceles_rufescens_20130710a.jpg/1280px-Loxosceles_rufescens_20130710a.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Loxosceles_rufescens_20130710a.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Vi_presento_Joe_Black",
+      "views": 88512,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 67116
+        },
+        {
+          "date": "2024-08-20",
+          "views": 14361
+        },
+        {
+          "date": "2024-08-21",
+          "views": 2518
+        },
+        {
+          "date": "2024-08-22",
+          "views": 1434
+        },
+        {
+          "date": "2024-08-23",
+          "views": 1095
+        },
+        {
+          "date": "2024-08-24",
+          "views": 946
+        },
+        {
+          "date": "2024-08-25",
+          "views": 1042
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vi%20presento%20Joe%20Black&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Vi_presento_Joe_Black",
+      "article_url": "https://it.wikipedia.org/wiki/Vi_presento_Joe_Black",
+      "description": "film del 1998 diretto da Martin Brest",
+      "image_filename": "ViPresentoJoeBlack.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/32/ViPresentoJoeBlack.png/1017px-ViPresentoJoeBlack.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ViPresentoJoeBlack.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Jannik_Sinner",
+      "views": 84962,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 21440
+        },
+        {
+          "date": "2024-08-20",
+          "views": 38110
+        },
+        {
+          "date": "2024-08-21",
+          "views": 8143
+        },
+        {
+          "date": "2024-08-22",
+          "views": 5607
+        },
+        {
+          "date": "2024-08-23",
+          "views": 4404
+        },
+        {
+          "date": "2024-08-24",
+          "views": 4054
+        },
+        {
+          "date": "2024-08-25",
+          "views": 3204
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Jannik_Sinner",
+      "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
+      "description": "tennista italiano (2001-)",
+      "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Marco_Brescianini",
+      "views": 79090,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 45497
+        },
+        {
+          "date": "2024-08-20",
+          "views": 20064
+        },
+        {
+          "date": "2024-08-21",
+          "views": 5329
+        },
+        {
+          "date": "2024-08-22",
+          "views": 2461
+        },
+        {
+          "date": "2024-08-23",
+          "views": 2011
+        },
+        {
+          "date": "2024-08-24",
+          "views": 1494
+        },
+        {
+          "date": "2024-08-25",
+          "views": 2234
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Marco%20Brescianini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Marco_Brescianini",
+      "article_url": "https://it.wikipedia.org/wiki/Marco_Brescianini",
+      "description": "calciatore italiano (2000-)",
+      "image_filename": "AC_Monza_2022_Serie_A_celebration_32_(Brescianini).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/AC_Monza_2022_Serie_A_celebration_32_%28Brescianini%29.jpg/1059px-AC_Monza_2022_Serie_A_celebration_32_%28Brescianini%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:AC_Monza_2022_Serie_A_celebration_32_(Brescianini).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Nicol\u00e1s_Gonz\u00e1lez",
+      "views": 76799,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 2035
+        },
+        {
+          "date": "2024-08-20",
+          "views": 4421
+        },
+        {
+          "date": "2024-08-21",
+          "views": 5923
+        },
+        {
+          "date": "2024-08-22",
+          "views": 4359
+        },
+        {
+          "date": "2024-08-23",
+          "views": 2966
+        },
+        {
+          "date": "2024-08-24",
+          "views": 28479
+        },
+        {
+          "date": "2024-08-25",
+          "views": 28616
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nicol%C3%A1s%20Gonz%C3%A1lez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Nicol%C3%A1s_Gonz%C3%A1lez",
+      "article_url": "https://it.wikipedia.org/wiki/Nicol%C3%A1s_Gonz%C3%A1lez",
+      "description": "pagina di disambiguazione di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Paulo_Dybala",
+      "views": 76221,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 4617
+        },
+        {
+          "date": "2024-08-20",
+          "views": 4519
+        },
+        {
+          "date": "2024-08-21",
+          "views": 11060
+        },
+        {
+          "date": "2024-08-22",
+          "views": 25566
+        },
+        {
+          "date": "2024-08-23",
+          "views": 18555
+        },
+        {
+          "date": "2024-08-24",
+          "views": 6201
+        },
+        {
+          "date": "2024-08-25",
+          "views": 5703
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Paulo%20Dybala&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Paulo_Dybala",
+      "article_url": "https://it.wikipedia.org/wiki/Paulo_Dybala",
+      "description": "calciatore argentino (1993-)",
+      "image_filename": "2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg/1280px-2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Societ\u00e0_Sportiva_Calcio_Napoli",
+      "views": 73282,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 14011
+        },
+        {
+          "date": "2024-08-20",
+          "views": 5191
+        },
+        {
+          "date": "2024-08-21",
+          "views": 3963
+        },
+        {
+          "date": "2024-08-22",
+          "views": 3949
+        },
+        {
+          "date": "2024-08-23",
+          "views": 5370
+        },
+        {
+          "date": "2024-08-24",
+          "views": 16959
+        },
+        {
+          "date": "2024-08-25",
+          "views": 23839
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Societ%C3%A0%20Sportiva%20Calcio%20Napoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Societ%C3%A0_Sportiva_Calcio_Napoli",
+      "article_url": "https://it.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
+      "description": "club calcistico italiano di Napoli",
+      "image_filename": "SSC_Napoli_2024_(deep_blue_navy).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/1280px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:SSC_Napoli_2024_(deep_blue_navy).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Sven-G\u00f6ran_Eriksson",
+      "views": 67668,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 0
+        },
+        {
+          "date": "2024-08-20",
+          "views": 0
+        },
+        {
+          "date": "2024-08-21",
+          "views": 25608
+        },
+        {
+          "date": "2024-08-22",
+          "views": 24750
+        },
+        {
+          "date": "2024-08-23",
+          "views": 12045
+        },
+        {
+          "date": "2024-08-24",
+          "views": 3484
+        },
+        {
+          "date": "2024-08-25",
+          "views": 1781
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sven-G%C3%B6ran%20Eriksson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Sven-G%C3%B6ran_Eriksson",
+      "article_url": "https://it.wikipedia.org/wiki/Sven-G%C3%B6ran_Eriksson",
+      "description": "allenatore di calcio e dirigente sportivo svedese (1948-2024)",
+      "image_filename": "Sven-Goran_Eriksson_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sven-Goran_Eriksson_2012.jpg/1280px-Sven-Goran_Eriksson_2012.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sven-Goran_Eriksson_2012.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Il_maratoneta",
+      "views": 66157,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 0
+        },
+        {
+          "date": "2024-08-20",
+          "views": 56665
+        },
+        {
+          "date": "2024-08-21",
+          "views": 8225
+        },
+        {
+          "date": "2024-08-22",
+          "views": 1267
+        },
+        {
+          "date": "2024-08-23",
+          "views": 0
+        },
+        {
+          "date": "2024-08-24",
+          "views": 0
+        },
+        {
+          "date": "2024-08-25",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20maratoneta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Il_maratoneta",
+      "article_url": "https://it.wikipedia.org/wiki/Il_maratoneta",
+      "description": "film del 1976 diretto da John Schlesinger",
+      "image_filename": "Il_maratoneta.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/2b/Il_maratoneta.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_maratoneta.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Anna_Marchesini",
+      "views": 65091,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 0
+        },
+        {
+          "date": "2024-08-20",
+          "views": 0
+        },
+        {
+          "date": "2024-08-21",
+          "views": 58310
+        },
+        {
+          "date": "2024-08-22",
+          "views": 5462
+        },
+        {
+          "date": "2024-08-23",
+          "views": 1319
+        },
+        {
+          "date": "2024-08-24",
+          "views": 0
+        },
+        {
+          "date": "2024-08-25",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Anna%20Marchesini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Anna_Marchesini",
+      "article_url": "https://it.wikipedia.org/wiki/Anna_Marchesini",
+      "description": "attrice teatrale, comica, doppiatrice e scrittrice italiana (1953-2016)",
+      "image_filename": "Anna_Marchesini_2000.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f2/Anna_Marchesini_2000.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anna_Marchesini_2000.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Romelu_Lukaku",
+      "views": 65060,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 3629
+        },
+        {
+          "date": "2024-08-20",
+          "views": 2830
+        },
+        {
+          "date": "2024-08-21",
+          "views": 3303
+        },
+        {
+          "date": "2024-08-22",
+          "views": 4135
+        },
+        {
+          "date": "2024-08-23",
+          "views": 17728
+        },
+        {
+          "date": "2024-08-24",
+          "views": 21877
+        },
+        {
+          "date": "2024-08-25",
+          "views": 11558
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Romelu%20Lukaku&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Romelu_Lukaku",
+      "article_url": "https://it.wikipedia.org/wiki/Romelu_Lukaku",
+      "description": "calciatore belga (1993-)",
+      "image_filename": "Romelu_Lukaku_2021.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Romelu_Lukaku_2021.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Romelu_Lukaku_2021.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "David_Neres",
+      "views": 64781,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 11144
+        },
+        {
+          "date": "2024-08-20",
+          "views": 6957
+        },
+        {
+          "date": "2024-08-21",
+          "views": 20991
+        },
+        {
+          "date": "2024-08-22",
+          "views": 8976
+        },
+        {
+          "date": "2024-08-23",
+          "views": 5165
+        },
+        {
+          "date": "2024-08-24",
+          "views": 3845
+        },
+        {
+          "date": "2024-08-25",
+          "views": 7703
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=David%20Neres&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=David_Neres",
+      "article_url": "https://it.wikipedia.org/wiki/David_Neres",
+      "description": "calciatore brasiliano (1997-)",
+      "image_filename": "Club_Brugge_x_SL_Benfica_07.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Club_Brugge_x_SL_Benfica_07.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Club_Brugge_x_SL_Benfica_07.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Francisco_Concei\u00e7\u00e3o",
+      "views": 62615,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 0
+        },
+        {
+          "date": "2024-08-20",
+          "views": 0
+        },
+        {
+          "date": "2024-08-21",
+          "views": 0
+        },
+        {
+          "date": "2024-08-22",
+          "views": 0
+        },
+        {
+          "date": "2024-08-23",
+          "views": 6475
+        },
+        {
+          "date": "2024-08-24",
+          "views": 36474
+        },
+        {
+          "date": "2024-08-25",
+          "views": 19666
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Francisco%20Concei%C3%A7%C3%A3o&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Francisco_Concei%C3%A7%C3%A3o",
+      "article_url": "https://it.wikipedia.org/wiki/Francisco_Concei%C3%A7%C3%A3o",
+      "description": "calciatore portoghese (2002-)",
+      "image_filename": "GAE_-_Ajax_-_52788521318_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GAE_-_Ajax_-_52788521318_%28cropped%29.jpg/1280px-GAE_-_Ajax_-_52788521318_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:GAE_-_Ajax_-_52788521318_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Kamala_Harris",
+      "views": 61302,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 3784
+        },
+        {
+          "date": "2024-08-20",
+          "views": 6125
+        },
+        {
+          "date": "2024-08-21",
+          "views": 9226
+        },
+        {
+          "date": "2024-08-22",
+          "views": 7344
+        },
+        {
+          "date": "2024-08-23",
+          "views": 23822
+        },
+        {
+          "date": "2024-08-24",
+          "views": 7441
+        },
+        {
+          "date": "2024-08-25",
+          "views": 3560
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kamala%20Harris&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Kamala_Harris",
+      "article_url": "https://it.wikipedia.org/wiki/Kamala_Harris",
+      "description": "procuratrice e politica statunitense",
+      "image_filename": "Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/1280px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Scientology",
+      "views": 59367,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 2212
+        },
+        {
+          "date": "2024-08-20",
+          "views": 14187
+        },
+        {
+          "date": "2024-08-21",
+          "views": 12842
+        },
+        {
+          "date": "2024-08-22",
+          "views": 10357
+        },
+        {
+          "date": "2024-08-23",
+          "views": 10193
+        },
+        {
+          "date": "2024-08-24",
+          "views": 4535
+        },
+        {
+          "date": "2024-08-25",
+          "views": 5041
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Scientology&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Scientology",
+      "article_url": "https://it.wikipedia.org/wiki/Scientology",
+      "description": "organizzazione religiosa",
+      "image_filename": "Scientology_symbol.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Scientology_symbol.svg/1280px-Scientology_symbol.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Scientology_symbol.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Alien:_Romulus",
+      "views": 58741,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 10945
+        },
+        {
+          "date": "2024-08-20",
+          "views": 9277
+        },
+        {
+          "date": "2024-08-21",
+          "views": 8595
+        },
+        {
+          "date": "2024-08-22",
+          "views": 8901
+        },
+        {
+          "date": "2024-08-23",
+          "views": 7583
+        },
+        {
+          "date": "2024-08-24",
+          "views": 6817
+        },
+        {
+          "date": "2024-08-25",
+          "views": 6623
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alien%3A%20Romulus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Alien%3A_Romulus",
+      "article_url": "https://it.wikipedia.org/wiki/Alien%3A_Romulus",
+      "description": "film del 2024 diretto da Fede \u00c1lvarez",
+      "image_filename": "AlienRomulus.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/59/AlienRomulus.png/1139px-AlienRomulus.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:AlienRomulus.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Pierre_Kalulu",
+      "views": 57807,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 5959
+        },
+        {
+          "date": "2024-08-20",
+          "views": 9419
+        },
+        {
+          "date": "2024-08-21",
+          "views": 25382
+        },
+        {
+          "date": "2024-08-22",
+          "views": 10779
+        },
+        {
+          "date": "2024-08-23",
+          "views": 2784
+        },
+        {
+          "date": "2024-08-24",
+          "views": 1870
+        },
+        {
+          "date": "2024-08-25",
+          "views": 1614
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pierre%20Kalulu&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Pierre_Kalulu",
+      "article_url": "https://it.wikipedia.org/wiki/Pierre_Kalulu",
+      "description": "calciatore francese (2000-)",
+      "image_filename": "PierreKalulu2022.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/PierreKalulu2022.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:PierreKalulu2022.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Sophia_Loren",
+      "views": 55091,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 2585
+        },
+        {
+          "date": "2024-08-20",
+          "views": 1683
+        },
+        {
+          "date": "2024-08-21",
+          "views": 1495
+        },
+        {
+          "date": "2024-08-22",
+          "views": 1740
+        },
+        {
+          "date": "2024-08-23",
+          "views": 38404
+        },
+        {
+          "date": "2024-08-24",
+          "views": 6891
+        },
+        {
+          "date": "2024-08-25",
+          "views": 2293
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sophia%20Loren&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Sophia_Loren",
+      "article_url": "https://it.wikipedia.org/wiki/Sophia_Loren",
+      "description": "attrice italiana (1934-)",
+      "image_filename": "Sophia_Loren_-_1959.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sophia_Loren_-_1959.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sophia_Loren_-_1959.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Gerardina_Trovato",
+      "views": 51881,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 17068
+        },
+        {
+          "date": "2024-08-20",
+          "views": 11392
+        },
+        {
+          "date": "2024-08-21",
+          "views": 6604
+        },
+        {
+          "date": "2024-08-22",
+          "views": 4996
+        },
+        {
+          "date": "2024-08-23",
+          "views": 4261
+        },
+        {
+          "date": "2024-08-24",
+          "views": 4260
+        },
+        {
+          "date": "2024-08-25",
+          "views": 3300
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gerardina%20Trovato&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Gerardina_Trovato",
+      "article_url": "https://it.wikipedia.org/wiki/Gerardina_Trovato",
+      "description": "cantautrice italiana (1967-)",
+      "image_filename": "Gerardina_Trovato_2000.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/6/64/Gerardina_Trovato_2000.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gerardina_Trovato_2000.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Nico_(cantante)",
+      "views": 50364,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 18759
+        },
+        {
+          "date": "2024-08-20",
+          "views": 12282
+        },
+        {
+          "date": "2024-08-21",
+          "views": 5702
+        },
+        {
+          "date": "2024-08-22",
+          "views": 3580
+        },
+        {
+          "date": "2024-08-23",
+          "views": 3435
+        },
+        {
+          "date": "2024-08-24",
+          "views": 3891
+        },
+        {
+          "date": "2024-08-25",
+          "views": 2715
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nico%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Nico_(cantante)",
+      "article_url": "https://it.wikipedia.org/wiki/Nico_(cantante)",
+      "description": "cantautrice, attrice e modella tedesca (1938-1988)",
+      "image_filename": "Nico_at_Lampeter_University_-_November_1985_(1).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nico_at_Lampeter_University_-_November_1985_%281%29.jpg/1280px-Nico_at_Lampeter_University_-_November_1985_%281%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nico_at_Lampeter_University_-_November_1985_(1).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Lost_(serie_televisiva)",
+      "views": 49830,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 6841
+        },
+        {
+          "date": "2024-08-20",
+          "views": 6763
+        },
+        {
+          "date": "2024-08-21",
+          "views": 6780
+        },
+        {
+          "date": "2024-08-22",
+          "views": 7235
+        },
+        {
+          "date": "2024-08-23",
+          "views": 6867
+        },
+        {
+          "date": "2024-08-24",
+          "views": 6999
+        },
+        {
+          "date": "2024-08-25",
+          "views": 8345
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lost%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Lost_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Lost_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2004-2010)",
+      "image_filename": "Lost_main_title.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lost_main_title.svg/1280px-Lost_main_title.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lost_main_title.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Clostebol",
+      "views": 49595,
+      "daily_views": [
+        {
+          "date": "2024-08-19",
+          "views": 0
+        },
+        {
+          "date": "2024-08-20",
+          "views": 16574
+        },
+        {
+          "date": "2024-08-21",
+          "views": 14430
+        },
+        {
+          "date": "2024-08-22",
+          "views": 7758
+        },
+        {
+          "date": "2024-08-23",
+          "views": 4685
+        },
+        {
+          "date": "2024-08-24",
+          "views": 3265
+        },
+        {
+          "date": "2024-08-25",
+          "views": 2883
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Clostebol&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/19/2024,cd_max:08/25/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-08-19&end=2024-08-25&pages=Clostebol",
+      "article_url": "https://it.wikipedia.org/wiki/Clostebol",
+      "description": "farmaco",
+      "image_filename": "Clostebol_Structural_Formula_V1.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Clostebol_Structural_Formula_V1.svg/1280px-Clostebol_Structural_Formula_V1.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Clostebol_Structural_Formula_V1.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2015,
+  "week": 52,
+  "start_date": "2015-12-21",
+  "end_date": "2015-12-27",
+  "days": [
+    "2015-12-21",
+    "2015-12-22",
+    "2015-12-23",
+    "2015-12-24",
+    "2015-12-25",
+    "2015-12-26",
+    "2015-12-27"
+  ],
+  "total_articles": 2517,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Star_Wars:_Il_risveglio_della_Forza",
+      "views": 280963,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 53334
+        },
+        {
+          "date": "2015-12-22",
+          "views": 41977
+        },
+        {
+          "date": "2015-12-23",
+          "views": 37396
+        },
+        {
+          "date": "2015-12-24",
+          "views": 27931
+        },
+        {
+          "date": "2015-12-25",
+          "views": 28350
+        },
+        {
+          "date": "2015-12-26",
+          "views": 43678
+        },
+        {
+          "date": "2015-12-27",
+          "views": 48297
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Star%20Wars%3A%20Il%20risveglio%20della%20Forza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Star_Wars%3A_Il_risveglio_della_Forza",
+      "article_url": "https://it.wikipedia.org/wiki/Star_Wars%3A_Il_risveglio_della_Forza",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 2,
+      "article": "Guerre_stellari",
+      "views": 250427,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 42818
+        },
+        {
+          "date": "2015-12-22",
+          "views": 34367
+        },
+        {
+          "date": "2015-12-23",
+          "views": 31107
+        },
+        {
+          "date": "2015-12-24",
+          "views": 25220
+        },
+        {
+          "date": "2015-12-25",
+          "views": 30205
+        },
+        {
+          "date": "2015-12-26",
+          "views": 42735
+        },
+        {
+          "date": "2015-12-27",
+          "views": 43975
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guerre%20stellari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Guerre_stellari",
+      "article_url": "https://it.wikipedia.org/wiki/Guerre_stellari",
+      "description": "franchise creato da George Lucas",
+      "image_filename": "Star_Wars_Logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1280px-Star_Wars_Logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_Wars_Logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Solstizio",
+      "views": 75930,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 21128
+        },
+        {
+          "date": "2015-12-22",
+          "views": 45986
+        },
+        {
+          "date": "2015-12-23",
+          "views": 3093
+        },
+        {
+          "date": "2015-12-24",
+          "views": 1931
+        },
+        {
+          "date": "2015-12-25",
+          "views": 2295
+        },
+        {
+          "date": "2015-12-26",
+          "views": 1497
+        },
+        {
+          "date": "2015-12-27",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Solstizio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Solstizio",
+      "article_url": "https://it.wikipedia.org/wiki/Solstizio",
+      "description": "momento in cui il Sole raggiunge, nel suo moto apparente lungo l'eclittica, il punto di declinazione massima o minima",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Una_poltrona_per_due",
+      "views": 75098,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 2199
+        },
+        {
+          "date": "2015-12-22",
+          "views": 2182
+        },
+        {
+          "date": "2015-12-23",
+          "views": 3987
+        },
+        {
+          "date": "2015-12-24",
+          "views": 48294
+        },
+        {
+          "date": "2015-12-25",
+          "views": 12202
+        },
+        {
+          "date": "2015-12-26",
+          "views": 4068
+        },
+        {
+          "date": "2015-12-27",
+          "views": 2166
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Una%20poltrona%20per%20due&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Una_poltrona_per_due",
+      "article_url": "https://it.wikipedia.org/wiki/Una_poltrona_per_due",
+      "description": "film del 1983 diretto da John Landis",
+      "image_filename": "Una_poltrona_per_due.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/2f/Una_poltrona_per_due.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Una_poltrona_per_due.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Sindrome_di_Asperger",
+      "views": 65861,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 2997
+        },
+        {
+          "date": "2015-12-22",
+          "views": 2249
+        },
+        {
+          "date": "2015-12-23",
+          "views": 1865
+        },
+        {
+          "date": "2015-12-24",
+          "views": 1328
+        },
+        {
+          "date": "2015-12-25",
+          "views": 1576
+        },
+        {
+          "date": "2015-12-26",
+          "views": 2068
+        },
+        {
+          "date": "2015-12-27",
+          "views": 53778
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sindrome%20di%20Asperger&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Sindrome_di_Asperger",
+      "article_url": "https://it.wikipedia.org/wiki/Sindrome_di_Asperger",
+      "description": "categoria diagnostica usata fino al 2013 per un disturbo dello spettro autistico",
+      "image_filename": "Riboflavin_penicillinamide.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Riboflavin_penicillinamide.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Riboflavin_penicillinamide.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Via_col_vento",
+      "views": 65617,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 933
+        },
+        {
+          "date": "2015-12-22",
+          "views": 900
+        },
+        {
+          "date": "2015-12-23",
+          "views": 1148
+        },
+        {
+          "date": "2015-12-24",
+          "views": 1734
+        },
+        {
+          "date": "2015-12-25",
+          "views": 42052
+        },
+        {
+          "date": "2015-12-26",
+          "views": 15425
+        },
+        {
+          "date": "2015-12-27",
+          "views": 3425
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Via%20col%20vento&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Via_col_vento",
+      "article_url": "https://it.wikipedia.org/wiki/Via_col_vento",
+      "description": "film del 1939 diretto da Victor Fleming",
+      "image_filename": "Poster_-_Gone_With_the_Wind_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Poster_-_Gone_With_the_Wind_01.jpg/1280px-Poster_-_Gone_With_the_Wind_01.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Poster_-_Gone_With_the_Wind_01.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Babbo_Natale",
+      "views": 60482,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 5745
+        },
+        {
+          "date": "2015-12-22",
+          "views": 6412
+        },
+        {
+          "date": "2015-12-23",
+          "views": 7883
+        },
+        {
+          "date": "2015-12-24",
+          "views": 14514
+        },
+        {
+          "date": "2015-12-25",
+          "views": 13855
+        },
+        {
+          "date": "2015-12-26",
+          "views": 8382
+        },
+        {
+          "date": "2015-12-27",
+          "views": 3691
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Babbo%20Natale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Babbo_Natale",
+      "article_url": "https://it.wikipedia.org/wiki/Babbo_Natale",
+      "description": "personaggio natalizio della civilt\u00e0 occidentale",
+      "image_filename": "Santa_Claus_Italia.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Santa_Claus_Italia.jpg/1280px-Santa_Claus_Italia.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Santa_Claus_Italia.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Guerre_stellari_(film)",
+      "views": 60399,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 10118
+        },
+        {
+          "date": "2015-12-22",
+          "views": 8299
+        },
+        {
+          "date": "2015-12-23",
+          "views": 7392
+        },
+        {
+          "date": "2015-12-24",
+          "views": 6174
+        },
+        {
+          "date": "2015-12-25",
+          "views": 7514
+        },
+        {
+          "date": "2015-12-26",
+          "views": 10545
+        },
+        {
+          "date": "2015-12-27",
+          "views": 10357
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guerre%20stellari%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Guerre_stellari_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Guerre_stellari_(film)",
+      "description": "film del 1977 diretto da George Lucas",
+      "image_filename": "Star_wars_1977_us.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Star_wars_1977_us.svg/1280px-Star_wars_1977_us.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_wars_1977_us.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Il_ponte_delle_spie",
+      "views": 59496,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 5579
+        },
+        {
+          "date": "2015-12-22",
+          "views": 5480
+        },
+        {
+          "date": "2015-12-23",
+          "views": 5434
+        },
+        {
+          "date": "2015-12-24",
+          "views": 4496
+        },
+        {
+          "date": "2015-12-25",
+          "views": 9166
+        },
+        {
+          "date": "2015-12-26",
+          "views": 15340
+        },
+        {
+          "date": "2015-12-27",
+          "views": 14001
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20ponte%20delle%20spie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Il_ponte_delle_spie",
+      "article_url": "https://it.wikipedia.org/wiki/Il_ponte_delle_spie",
+      "description": "film del 2015 diretto da Steven Spielberg",
+      "image_filename": "Bridge_of_Spies.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/31/Bridge_of_Spies.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bridge_of_Spies.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Il_ciclone_(film)",
+      "views": 59377,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 0
+        },
+        {
+          "date": "2015-12-22",
+          "views": 957
+        },
+        {
+          "date": "2015-12-23",
+          "views": 860
+        },
+        {
+          "date": "2015-12-24",
+          "views": 1362
+        },
+        {
+          "date": "2015-12-25",
+          "views": 47623
+        },
+        {
+          "date": "2015-12-26",
+          "views": 6684
+        },
+        {
+          "date": "2015-12-27",
+          "views": 1891
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20ciclone%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Il_ciclone_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_ciclone_(film)",
+      "description": "film del 1996 diretto da Leonardo Pieraccioni",
+      "image_filename": "Il_ciclone.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/91/Il_ciclone.png/1280px-Il_ciclone.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_ciclone.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Daisy_Ridley",
+      "views": 58663,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 11806
+        },
+        {
+          "date": "2015-12-22",
+          "views": 8392
+        },
+        {
+          "date": "2015-12-23",
+          "views": 7825
+        },
+        {
+          "date": "2015-12-24",
+          "views": 6286
+        },
+        {
+          "date": "2015-12-25",
+          "views": 5247
+        },
+        {
+          "date": "2015-12-26",
+          "views": 8727
+        },
+        {
+          "date": "2015-12-27",
+          "views": 10380
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Daisy%20Ridley&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Daisy_Ridley",
+      "article_url": "https://it.wikipedia.org/wiki/Daisy_Ridley",
+      "description": "attrice britannica",
+      "image_filename": "Daisy_Ridley_Our_Movie_Guide_2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Daisy_Ridley_Our_Movie_Guide_2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Daisy_Ridley_Our_Movie_Guide_2024.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Grey's_Anatomy",
+      "views": 58158,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 17834
+        },
+        {
+          "date": "2015-12-22",
+          "views": 11745
+        },
+        {
+          "date": "2015-12-23",
+          "views": 7101
+        },
+        {
+          "date": "2015-12-24",
+          "views": 4542
+        },
+        {
+          "date": "2015-12-25",
+          "views": 4598
+        },
+        {
+          "date": "2015-12-26",
+          "views": 5553
+        },
+        {
+          "date": "2015-12-27",
+          "views": 6785
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Variante_di_Valico",
+      "views": 57186,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 1867
+        },
+        {
+          "date": "2015-12-22",
+          "views": 1959
+        },
+        {
+          "date": "2015-12-23",
+          "views": 35502
+        },
+        {
+          "date": "2015-12-24",
+          "views": 11237
+        },
+        {
+          "date": "2015-12-25",
+          "views": 3521
+        },
+        {
+          "date": "2015-12-26",
+          "views": 3100
+        },
+        {
+          "date": "2015-12-27",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Variante%20di%20Valico&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Variante_di_Valico",
+      "article_url": "https://it.wikipedia.org/wiki/Variante_di_Valico",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Natale",
+      "views": 54789,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 5605
+        },
+        {
+          "date": "2015-12-22",
+          "views": 5973
+        },
+        {
+          "date": "2015-12-23",
+          "views": 7455
+        },
+        {
+          "date": "2015-12-24",
+          "views": 14707
+        },
+        {
+          "date": "2015-12-25",
+          "views": 13531
+        },
+        {
+          "date": "2015-12-26",
+          "views": 5014
+        },
+        {
+          "date": "2015-12-27",
+          "views": 2504
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Natale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Natale",
+      "article_url": "https://it.wikipedia.org/wiki/Natale",
+      "description": "festivit\u00e0 cristiana che celebra la nascita di Ges\u00f9, festeggiata il 25 dicembre",
+      "image_filename": "Worship_of_the_shepherds_by_bronzino.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Worship_of_the_shepherds_by_bronzino.jpg/1280px-Worship_of_the_shepherds_by_bronzino.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Worship_of_the_shepherds_by_bronzino.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "La_storia_infinita_(film)",
+      "views": 50107,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 933
+        },
+        {
+          "date": "2015-12-22",
+          "views": 27673
+        },
+        {
+          "date": "2015-12-23",
+          "views": 14424
+        },
+        {
+          "date": "2015-12-24",
+          "views": 2686
+        },
+        {
+          "date": "2015-12-25",
+          "views": 1750
+        },
+        {
+          "date": "2015-12-26",
+          "views": 1166
+        },
+        {
+          "date": "2015-12-27",
+          "views": 1475
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20storia%20infinita%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=La_storia_infinita_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/La_storia_infinita_(film)",
+      "description": "film del 1984 diretto da Wolfgang Petersen",
+      "image_filename": "La_st\u043eria_infinita_(film).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0b/La_st%D0%BEria_infinita_%28film%29.png/1280px-La_st%D0%BEria_infinita_%28film%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_st%D0%BEria_infinita_(film).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Adele_(cantante)",
+      "views": 50054,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 3735
+        },
+        {
+          "date": "2015-12-22",
+          "views": 4413
+        },
+        {
+          "date": "2015-12-23",
+          "views": 3372
+        },
+        {
+          "date": "2015-12-24",
+          "views": 3363
+        },
+        {
+          "date": "2015-12-25",
+          "views": 23507
+        },
+        {
+          "date": "2015-12-26",
+          "views": 7094
+        },
+        {
+          "date": "2015-12-27",
+          "views": 4570
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Adele%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Adele_(cantante)",
+      "article_url": "https://it.wikipedia.org/wiki/Adele_(cantante)",
+      "description": "cantautrice e produttrice discografica britannica",
+      "image_filename": "Adele_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/1280px-Adele_2016.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Adele_2016.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Dart_Fener",
+      "views": 49839,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 8679
+        },
+        {
+          "date": "2015-12-22",
+          "views": 7204
+        },
+        {
+          "date": "2015-12-23",
+          "views": 6317
+        },
+        {
+          "date": "2015-12-24",
+          "views": 5613
+        },
+        {
+          "date": "2015-12-25",
+          "views": 5993
+        },
+        {
+          "date": "2015-12-26",
+          "views": 7556
+        },
+        {
+          "date": "2015-12-27",
+          "views": 8477
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Dart%20Fener&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Dart_Fener",
+      "article_url": "https://it.wikipedia.org/wiki/Dart_Fener",
+      "description": "personaggio dell'universo di Guerre stellari",
+      "image_filename": "Dartfener.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/0/08/Dartfener.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dartfener.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Adam_Driver",
+      "views": 48557,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 9889
+        },
+        {
+          "date": "2015-12-22",
+          "views": 7931
+        },
+        {
+          "date": "2015-12-23",
+          "views": 7027
+        },
+        {
+          "date": "2015-12-24",
+          "views": 5202
+        },
+        {
+          "date": "2015-12-25",
+          "views": 4091
+        },
+        {
+          "date": "2015-12-26",
+          "views": 6288
+        },
+        {
+          "date": "2015-12-27",
+          "views": 8129
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Adam%20Driver&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Adam_Driver",
+      "article_url": "https://it.wikipedia.org/wiki/Adam_Driver",
+      "description": "attore statunitense (1983-)",
+      "image_filename": "Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_(27163437599)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_%2827163437599%29_%28cropped%29.jpg/1280px-Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_%2827163437599%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_(27163437599)_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Star_Wars:_Episodio_I_-_La_minaccia_fantasma",
+      "views": 46009,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 7549
+        },
+        {
+          "date": "2015-12-22",
+          "views": 6230
+        },
+        {
+          "date": "2015-12-23",
+          "views": 5804
+        },
+        {
+          "date": "2015-12-24",
+          "views": 4860
+        },
+        {
+          "date": "2015-12-25",
+          "views": 5710
+        },
+        {
+          "date": "2015-12-26",
+          "views": 7781
+        },
+        {
+          "date": "2015-12-27",
+          "views": 8075
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Star%20Wars%3A%20Episodio%20I%20-%20La%20minaccia%20fantasma&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Star_Wars%3A_Episodio_I_-_La_minaccia_fantasma",
+      "article_url": "https://it.wikipedia.org/wiki/Star_Wars%3A_Episodio_I_-_La_minaccia_fantasma",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Gotham_(serie_televisiva)",
+      "views": 45256,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 4106
+        },
+        {
+          "date": "2015-12-22",
+          "views": 21216
+        },
+        {
+          "date": "2015-12-23",
+          "views": 6677
+        },
+        {
+          "date": "2015-12-24",
+          "views": 3123
+        },
+        {
+          "date": "2015-12-25",
+          "views": 2823
+        },
+        {
+          "date": "2015-12-26",
+          "views": 3316
+        },
+        {
+          "date": "2015-12-27",
+          "views": 3995
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gotham%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Gotham_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Gotham_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2014-2019)",
+      "image_filename": "Gotham_(serie_televisiva).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1c/Gotham_%28serie_televisiva%29.png/1280px-Gotham_%28serie_televisiva%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gotham_(serie_televisiva).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Mark_Hamill",
+      "views": 44025,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 7813
+        },
+        {
+          "date": "2015-12-22",
+          "views": 6322
+        },
+        {
+          "date": "2015-12-23",
+          "views": 5725
+        },
+        {
+          "date": "2015-12-24",
+          "views": 4598
+        },
+        {
+          "date": "2015-12-25",
+          "views": 4587
+        },
+        {
+          "date": "2015-12-26",
+          "views": 6918
+        },
+        {
+          "date": "2015-12-27",
+          "views": 8062
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mark%20Hamill&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Mark_Hamill",
+      "article_url": "https://it.wikipedia.org/wiki/Mark_Hamill",
+      "description": "attore e doppiatore statunitense (1951-)",
+      "image_filename": "Mark_Hamill_by_Gage_Skidmore_4.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mark_Hamill_by_Gage_Skidmore_4.jpg/1280px-Mark_Hamill_by_Gage_Skidmore_4.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mark_Hamill_by_Gage_Skidmore_4.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Cammino_di_Santiago_di_Compostela",
+      "views": 41970,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 17894
+        },
+        {
+          "date": "2015-12-22",
+          "views": 4585
+        },
+        {
+          "date": "2015-12-23",
+          "views": 1722
+        },
+        {
+          "date": "2015-12-24",
+          "views": 5028
+        },
+        {
+          "date": "2015-12-25",
+          "views": 6647
+        },
+        {
+          "date": "2015-12-26",
+          "views": 3675
+        },
+        {
+          "date": "2015-12-27",
+          "views": 2419
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cammino%20di%20Santiago%20di%20Compostela&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Cammino_di_Santiago_di_Compostela",
+      "article_url": "https://it.wikipedia.org/wiki/Cammino_di_Santiago_di_Compostela",
+      "description": "rete di cammini in Europa",
+      "image_filename": "Catedral_de_Santiago_de_Compostela_agosto_2018_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Catedral_de_Santiago_de_Compostela_agosto_2018_%28cropped%29.jpg/1280px-Catedral_de_Santiago_de_Compostela_agosto_2018_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Catedral_de_Santiago_de_Compostela_agosto_2018_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Carrie_Fisher",
+      "views": 41715,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 7609
+        },
+        {
+          "date": "2015-12-22",
+          "views": 5542
+        },
+        {
+          "date": "2015-12-23",
+          "views": 4855
+        },
+        {
+          "date": "2015-12-24",
+          "views": 4631
+        },
+        {
+          "date": "2015-12-25",
+          "views": 4713
+        },
+        {
+          "date": "2015-12-26",
+          "views": 6631
+        },
+        {
+          "date": "2015-12-27",
+          "views": 7734
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Carrie%20Fisher&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Carrie_Fisher",
+      "article_url": "https://it.wikipedia.org/wiki/Carrie_Fisher",
+      "description": "attrice, cabarettista, sceneggiatrice e scrittrice statunitense (1956-2016)",
+      "image_filename": "Carrie_Fisher_2013.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Carrie_Fisher_2013.jpg/1280px-Carrie_Fisher_2013.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carrie_Fisher_2013.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Bel\u00e9n_Rodr\u00edguez",
+      "views": 40155,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 0
+        },
+        {
+          "date": "2015-12-22",
+          "views": 11013
+        },
+        {
+          "date": "2015-12-23",
+          "views": 9598
+        },
+        {
+          "date": "2015-12-24",
+          "views": 5430
+        },
+        {
+          "date": "2015-12-25",
+          "views": 4594
+        },
+        {
+          "date": "2015-12-26",
+          "views": 4658
+        },
+        {
+          "date": "2015-12-27",
+          "views": 4862
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bel%C3%A9n%20Rodr%C3%ADguez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Bel%C3%A9n_Rodr%C3%ADguez",
+      "article_url": "https://it.wikipedia.org/wiki/Bel%C3%A9n_Rodr%C3%ADguez",
+      "description": "modella, conduttrice televisiva, showgirl, attrice e cantante italo-argentina (1984-)",
+      "image_filename": "Bel\u00e9n_Rodr\u00edguez_Celebrity_Hunted_4_2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bel%C3%A9n_Rodr%C3%ADguez_Celebrity_Hunted_4_2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bel%C3%A9n_Rodr%C3%ADguez_Celebrity_Hunted_4_2024.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Italia",
+      "views": 39152,
+      "daily_views": [
+        {
+          "date": "2015-12-21",
+          "views": 5662
+        },
+        {
+          "date": "2015-12-22",
+          "views": 5182
+        },
+        {
+          "date": "2015-12-23",
+          "views": 4945
+        },
+        {
+          "date": "2015-12-24",
+          "views": 4711
+        },
+        {
+          "date": "2015-12-25",
+          "views": 5343
+        },
+        {
+          "date": "2015-12-26",
+          "views": 6672
+        },
+        {
+          "date": "2015-12-27",
+          "views": 6637
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/21/2015,cd_max:12/27/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-21&end=2015-12-27&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

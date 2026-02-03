@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2024,
+  "week": 45,
+  "start_date": "2024-11-04",
+  "end_date": "2024-11-10",
+  "days": [
+    "2024-11-04",
+    "2024-11-05",
+    "2024-11-06",
+    "2024-11-07",
+    "2024-11-08",
+    "2024-11-09",
+    "2024-11-10"
+  ],
+  "total_articles": 2721,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Donald_Trump",
+      "views": 367131,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 9670
+        },
+        {
+          "date": "2024-11-05",
+          "views": 22625
+        },
+        {
+          "date": "2024-11-06",
+          "views": 206052
+        },
+        {
+          "date": "2024-11-07",
+          "views": 61540
+        },
+        {
+          "date": "2024-11-08",
+          "views": 30301
+        },
+        {
+          "date": "2024-11-09",
+          "views": 19674
+        },
+        {
+          "date": "2024-11-10",
+          "views": 17269
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Donald_Trump",
+      "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
+      "description": "politico e imprenditore statunitense, 45\u00ba e 47\u00ba presidente degli Stati Uniti d'America",
+      "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Elon_Musk",
+      "views": 216584,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 4250
+        },
+        {
+          "date": "2024-11-05",
+          "views": 5483
+        },
+        {
+          "date": "2024-11-06",
+          "views": 61499
+        },
+        {
+          "date": "2024-11-07",
+          "views": 53064
+        },
+        {
+          "date": "2024-11-08",
+          "views": 43930
+        },
+        {
+          "date": "2024-11-09",
+          "views": 28605
+        },
+        {
+          "date": "2024-11-10",
+          "views": 19753
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elon%20Musk&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elon_Musk",
+      "article_url": "https://it.wikipedia.org/wiki/Elon_Musk",
+      "description": "imprenditore e politico sudafricano, con cittadinanza canadese, naturalizzato statunitense (1971\u2013)",
+      "image_filename": "Elon_Musk_-_54820081119_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/1280px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_-_54820081119_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Delitto_di_Avetrana",
+      "views": 211696,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 44383
+        },
+        {
+          "date": "2024-11-05",
+          "views": 34963
+        },
+        {
+          "date": "2024-11-06",
+          "views": 27903
+        },
+        {
+          "date": "2024-11-07",
+          "views": 24207
+        },
+        {
+          "date": "2024-11-08",
+          "views": 23343
+        },
+        {
+          "date": "2024-11-09",
+          "views": 25411
+        },
+        {
+          "date": "2024-11-10",
+          "views": 31486
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Delitto%20di%20Avetrana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Delitto_di_Avetrana",
+      "article_url": "https://it.wikipedia.org/wiki/Delitto_di_Avetrana",
+      "description": "caso di omicidio avvenuto ad Avetrana nel 2010",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Elezioni_presidenziali_negli_Stati_Uniti_d'America_del_2024",
+      "views": 203586,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 23592
+        },
+        {
+          "date": "2024-11-05",
+          "views": 42030
+        },
+        {
+          "date": "2024-11-06",
+          "views": 83115
+        },
+        {
+          "date": "2024-11-07",
+          "views": 22313
+        },
+        {
+          "date": "2024-11-08",
+          "views": 12484
+        },
+        {
+          "date": "2024-11-09",
+          "views": 8925
+        },
+        {
+          "date": "2024-11-10",
+          "views": 11127
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2024",
+      "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2024",
+      "description": "60\u00aa elezione presidenziale degli Stati Uniti d'America",
+      "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Kamala_Harris",
+      "views": 146666,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 14649
+        },
+        {
+          "date": "2024-11-05",
+          "views": 39285
+        },
+        {
+          "date": "2024-11-06",
+          "views": 62464
+        },
+        {
+          "date": "2024-11-07",
+          "views": 16292
+        },
+        {
+          "date": "2024-11-08",
+          "views": 6588
+        },
+        {
+          "date": "2024-11-09",
+          "views": 4027
+        },
+        {
+          "date": "2024-11-10",
+          "views": 3361
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kamala%20Harris&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Kamala_Harris",
+      "article_url": "https://it.wikipedia.org/wiki/Kamala_Harris",
+      "description": "procuratrice e politica statunitense",
+      "image_filename": "Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/1280px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Parthenope_(film)",
+      "views": 128169,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 21254
+        },
+        {
+          "date": "2024-11-05",
+          "views": 19333
+        },
+        {
+          "date": "2024-11-06",
+          "views": 16796
+        },
+        {
+          "date": "2024-11-07",
+          "views": 15049
+        },
+        {
+          "date": "2024-11-08",
+          "views": 15180
+        },
+        {
+          "date": "2024-11-09",
+          "views": 19183
+        },
+        {
+          "date": "2024-11-10",
+          "views": 21374
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Parthenope%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Parthenope_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Parthenope_(film)",
+      "description": "film del 2024 diretto da Paolo Sorrentino",
+      "image_filename": "Parthenope2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/eb/Parthenope2024.png/1280px-Parthenope2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Parthenope2024.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Elezioni_presidenziali_negli_Stati_Uniti_d'America_del_2020",
+      "views": 126210,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 6948
+        },
+        {
+          "date": "2024-11-05",
+          "views": 15323
+        },
+        {
+          "date": "2024-11-06",
+          "views": 67163
+        },
+        {
+          "date": "2024-11-07",
+          "views": 15672
+        },
+        {
+          "date": "2024-11-08",
+          "views": 7428
+        },
+        {
+          "date": "2024-11-09",
+          "views": 6303
+        },
+        {
+          "date": "2024-11-10",
+          "views": 7373
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2020",
+      "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2020",
+      "description": "59\u00aa elezione presidenziale degli Stati Uniti d'America",
+      "image_filename": "Joe_Biden_presidential_portrait_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Joe_Biden_presidential_portrait_%28cropped%29.jpg/1280px-Joe_Biden_presidential_portrait_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 8,
+      "article": "883_(gruppo_musicale)",
+      "views": 110799,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 23726
+        },
+        {
+          "date": "2024-11-05",
+          "views": 18632
+        },
+        {
+          "date": "2024-11-06",
+          "views": 13672
+        },
+        {
+          "date": "2024-11-07",
+          "views": 12807
+        },
+        {
+          "date": "2024-11-08",
+          "views": 12392
+        },
+        {
+          "date": "2024-11-09",
+          "views": 14401
+        },
+        {
+          "date": "2024-11-10",
+          "views": 15169
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=883%20%28gruppo%20musicale%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=883_(gruppo_musicale)",
+      "article_url": "https://it.wikipedia.org/wiki/883_(gruppo_musicale)",
+      "description": "gruppo musicale italiano",
+      "image_filename": "Pezzali_Repetto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/93/Pezzali_Repetto.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzali_Repetto.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Presidenti_degli_Stati_Uniti_d'America",
+      "views": 101401,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 4082
+        },
+        {
+          "date": "2024-11-05",
+          "views": 9598
+        },
+        {
+          "date": "2024-11-06",
+          "views": 54821
+        },
+        {
+          "date": "2024-11-07",
+          "views": 16204
+        },
+        {
+          "date": "2024-11-08",
+          "views": 7211
+        },
+        {
+          "date": "2024-11-09",
+          "views": 4927
+        },
+        {
+          "date": "2024-11-10",
+          "views": 4558
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Presidenti%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Presidenti_degli_Stati_Uniti_d%27America",
+      "article_url": "https://it.wikipedia.org/wiki/Presidenti_degli_Stati_Uniti_d%27America",
+      "description": "lista di un progetto Wikimedia",
+      "image_filename": "Flag_of_the_President_of_the_United_States.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_the_President_of_the_United_States.svg/1280px-Flag_of_the_President_of_the_United_States.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_the_United_States.svg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Qui_non_\u00e8_Hollywood",
+      "views": 97341,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 17473
+        },
+        {
+          "date": "2024-11-05",
+          "views": 15201
+        },
+        {
+          "date": "2024-11-06",
+          "views": 13942
+        },
+        {
+          "date": "2024-11-07",
+          "views": 11135
+        },
+        {
+          "date": "2024-11-08",
+          "views": 11170
+        },
+        {
+          "date": "2024-11-09",
+          "views": 13974
+        },
+        {
+          "date": "2024-11-10",
+          "views": 14446
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Qui%20non%20%C3%A8%20Hollywood&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Qui_non_%C3%A8_Hollywood",
+      "article_url": "https://it.wikipedia.org/wiki/Qui_non_%C3%A8_Hollywood",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Melania_Trump",
+      "views": 96649,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 1237
+        },
+        {
+          "date": "2024-11-05",
+          "views": 4494
+        },
+        {
+          "date": "2024-11-06",
+          "views": 43338
+        },
+        {
+          "date": "2024-11-07",
+          "views": 24480
+        },
+        {
+          "date": "2024-11-08",
+          "views": 11457
+        },
+        {
+          "date": "2024-11-09",
+          "views": 6410
+        },
+        {
+          "date": "2024-11-10",
+          "views": 5233
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Melania%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Melania_Trump",
+      "article_url": "https://it.wikipedia.org/wiki/Melania_Trump",
+      "description": "modella slovena naturalizzata statunitense, First Lady degli Stati Uniti d'America",
+      "image_filename": "Melania_Trump\u2019s_Official_White_House_Portrait_(2025)_(3x4_cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%283x4_cropped%29.jpg/1280px-Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%283x4_cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Melania_Trump%E2%80%99s_Official_White_House_Portrait_(2025)_(3x4_cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Elezioni_presidenziali_negli_Stati_Uniti_d'America_del_2016",
+      "views": 85183,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 5091
+        },
+        {
+          "date": "2024-11-05",
+          "views": 10624
+        },
+        {
+          "date": "2024-11-06",
+          "views": 45620
+        },
+        {
+          "date": "2024-11-07",
+          "views": 10327
+        },
+        {
+          "date": "2024-11-08",
+          "views": 5062
+        },
+        {
+          "date": "2024-11-09",
+          "views": 4114
+        },
+        {
+          "date": "2024-11-10",
+          "views": 4345
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202016&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2016",
+      "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2016",
+      "description": "58\u00aa elezione presidenziale degli Stati Uniti d'America",
+      "image_filename": "Donald_Trump_official_portrait_(3x4a).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/1280px-Donald_Trump_official_portrait_%283x4a%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait_(3x4a).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 13,
+      "article": "Mauro_Repetto",
+      "views": 83658,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 17883
+        },
+        {
+          "date": "2024-11-05",
+          "views": 14469
+        },
+        {
+          "date": "2024-11-06",
+          "views": 10593
+        },
+        {
+          "date": "2024-11-07",
+          "views": 9615
+        },
+        {
+          "date": "2024-11-08",
+          "views": 9788
+        },
+        {
+          "date": "2024-11-09",
+          "views": 10506
+        },
+        {
+          "date": "2024-11-10",
+          "views": 10804
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mauro%20Repetto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Mauro_Repetto",
+      "article_url": "https://it.wikipedia.org/wiki/Mauro_Repetto",
+      "description": "compositore e musicista italiano naturalizzato francese (1968-)",
+      "image_filename": "Pezzali_Repetto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/93/Pezzali_Repetto.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzali_Repetto.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Quincy_Jones",
+      "views": 77369,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 51756
+        },
+        {
+          "date": "2024-11-05",
+          "views": 14662
+        },
+        {
+          "date": "2024-11-06",
+          "views": 3432
+        },
+        {
+          "date": "2024-11-07",
+          "views": 2310
+        },
+        {
+          "date": "2024-11-08",
+          "views": 2022
+        },
+        {
+          "date": "2024-11-09",
+          "views": 1875
+        },
+        {
+          "date": "2024-11-10",
+          "views": 1312
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Quincy%20Jones&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Quincy_Jones",
+      "article_url": "https://it.wikipedia.org/wiki/Quincy_Jones",
+      "description": "arrangiatore, direttore d'orchestra, produttore discografico, compositore, trombettista e attivista statunitense (1933-2024)",
+      "image_filename": "Quincy_jones_1980_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Quincy_jones_1980_%28cropped%29.jpg/1004px-Quincy_jones_1980_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Quincy_jones_1980_(cropped).jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Joe_Biden",
+      "views": 76081,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 3071
+        },
+        {
+          "date": "2024-11-05",
+          "views": 7253
+        },
+        {
+          "date": "2024-11-06",
+          "views": 39190
+        },
+        {
+          "date": "2024-11-07",
+          "views": 12418
+        },
+        {
+          "date": "2024-11-08",
+          "views": 6002
+        },
+        {
+          "date": "2024-11-09",
+          "views": 4355
+        },
+        {
+          "date": "2024-11-10",
+          "views": 3792
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Joe%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Joe_Biden",
+      "article_url": "https://it.wikipedia.org/wiki/Joe_Biden",
+      "description": "politico statunitense (1942\u2013), 46\u00ba presidente degli Stati Uniti d'America (2021\u20132025)",
+      "image_filename": "Joe_Biden_presidential_portrait.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1280px-Joe_Biden_presidential_portrait.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Max_Pezzali",
+      "views": 75943,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 14958
+        },
+        {
+          "date": "2024-11-05",
+          "views": 12086
+        },
+        {
+          "date": "2024-11-06",
+          "views": 9366
+        },
+        {
+          "date": "2024-11-07",
+          "views": 9276
+        },
+        {
+          "date": "2024-11-08",
+          "views": 9283
+        },
+        {
+          "date": "2024-11-09",
+          "views": 10351
+        },
+        {
+          "date": "2024-11-10",
+          "views": 10623
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Max%20Pezzali&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Max_Pezzali",
+      "article_url": "https://it.wikipedia.org/wiki/Max_Pezzali",
+      "description": "cantautore e compositore italiano (1967-)",
+      "image_filename": "Max_Pezzali_at_Cartoomics_2013-1_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Max_Pezzali_at_Cartoomics_2013-1_%28cropped%29.jpg/1280px-Max_Pezzali_at_Cartoomics_2013-1_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Max_Pezzali_at_Cartoomics_2013-1_(cropped).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Lidia_Po\u00ebt",
+      "views": 74639,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 12711
+        },
+        {
+          "date": "2024-11-05",
+          "views": 11479
+        },
+        {
+          "date": "2024-11-06",
+          "views": 9835
+        },
+        {
+          "date": "2024-11-07",
+          "views": 9400
+        },
+        {
+          "date": "2024-11-08",
+          "views": 9269
+        },
+        {
+          "date": "2024-11-09",
+          "views": 9957
+        },
+        {
+          "date": "2024-11-10",
+          "views": 11988
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lidia%20Po%C3%ABt&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Lidia_Po%C3%ABt",
+      "article_url": "https://it.wikipedia.org/wiki/Lidia_Po%C3%ABt",
+      "description": "avvocata italiana (1855-1949)",
+      "image_filename": "Lidia-po\u00ebt.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8d/Lidia-po%C3%ABt.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lidia-po%C3%ABt.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Hanno_ucciso_l'Uomo_Ragno_-_La_leggendaria_storia_degli_883",
+      "views": 74419,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 14090
+        },
+        {
+          "date": "2024-11-05",
+          "views": 11607
+        },
+        {
+          "date": "2024-11-06",
+          "views": 9879
+        },
+        {
+          "date": "2024-11-07",
+          "views": 9039
+        },
+        {
+          "date": "2024-11-08",
+          "views": 9383
+        },
+        {
+          "date": "2024-11-09",
+          "views": 10048
+        },
+        {
+          "date": "2024-11-10",
+          "views": 10373
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Hanno%20ucciso%20l%27Uomo%20Ragno%20-%20La%20leggendaria%20storia%20degli%20883&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883",
+      "article_url": "https://it.wikipedia.org/wiki/Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883",
+      "description": "serie televisiva italiana del 2024",
+      "image_filename": "Hanno_ucciso_l'Uomo_Ragno_-_La_leggendaria_storia_degli_883.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883.png/1280px-Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "The_Substance",
+      "views": 74099,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 13692
+        },
+        {
+          "date": "2024-11-05",
+          "views": 10514
+        },
+        {
+          "date": "2024-11-06",
+          "views": 10298
+        },
+        {
+          "date": "2024-11-07",
+          "views": 8946
+        },
+        {
+          "date": "2024-11-08",
+          "views": 8036
+        },
+        {
+          "date": "2024-11-09",
+          "views": 12217
+        },
+        {
+          "date": "2024-11-10",
+          "views": 10396
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Substance&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=The_Substance",
+      "article_url": "https://it.wikipedia.org/wiki/The_Substance",
+      "description": "film del 2024 diretto da Coralie Fargeat",
+      "image_filename": "TheSubstance2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/ee/TheSubstance2024.png/1280px-TheSubstance2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:TheSubstance2024.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Il_ragazzo_dai_pantaloni_rosa",
+      "views": 70767,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 12268
+        },
+        {
+          "date": "2024-11-05",
+          "views": 7142
+        },
+        {
+          "date": "2024-11-06",
+          "views": 8200
+        },
+        {
+          "date": "2024-11-07",
+          "views": 10826
+        },
+        {
+          "date": "2024-11-08",
+          "views": 13300
+        },
+        {
+          "date": "2024-11-09",
+          "views": 8112
+        },
+        {
+          "date": "2024-11-10",
+          "views": 10919
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20ragazzo%20dai%20pantaloni%20rosa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Il_ragazzo_dai_pantaloni_rosa",
+      "article_url": "https://it.wikipedia.org/wiki/Il_ragazzo_dai_pantaloni_rosa",
+      "description": "film del 2024 diretto da Margherita Ferri",
+      "image_filename": "PinkTrousersBoy.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c7/PinkTrousersBoy.png/1280px-PinkTrousersBoy.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:PinkTrousersBoy.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Nicola_Zalewski",
+      "views": 68996,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 943
+        },
+        {
+          "date": "2024-11-05",
+          "views": 0
+        },
+        {
+          "date": "2024-11-06",
+          "views": 0
+        },
+        {
+          "date": "2024-11-07",
+          "views": 0
+        },
+        {
+          "date": "2024-11-08",
+          "views": 27095
+        },
+        {
+          "date": "2024-11-09",
+          "views": 25976
+        },
+        {
+          "date": "2024-11-10",
+          "views": 14982
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nicola%20Zalewski&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Nicola_Zalewski",
+      "article_url": "https://it.wikipedia.org/wiki/Nicola_Zalewski",
+      "description": "calciatore polacco",
+      "image_filename": "FC_Salzburg_gegen_AS_Roma_(UEFA_Euroleague_play-off,_2023-02-16)_14_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/FC_Salzburg_gegen_AS_Roma_%28UEFA_Euroleague_play-off%2C_2023-02-16%29_14_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_AS_Roma_(UEFA_Euroleague_play-off%2C_2023-02-16)_14_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Elezioni_negli_Stati_Uniti_d'America_del_2024",
+      "views": 68991,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 11471
+        },
+        {
+          "date": "2024-11-05",
+          "views": 16927
+        },
+        {
+          "date": "2024-11-06",
+          "views": 25941
+        },
+        {
+          "date": "2024-11-07",
+          "views": 6112
+        },
+        {
+          "date": "2024-11-08",
+          "views": 3218
+        },
+        {
+          "date": "2024-11-09",
+          "views": 2411
+        },
+        {
+          "date": "2024-11-10",
+          "views": 2911
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elezioni%20negli%20Stati%20Uniti%20d%27America%20del%202024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_negli_Stati_Uniti_d%27America_del_2024",
+      "article_url": "https://it.wikipedia.org/wiki/Elezioni_negli_Stati_Uniti_d%27America_del_2024",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Elezioni_presidenziali_negli_Stati_Uniti_d'America",
+      "views": 68943,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 6422
+        },
+        {
+          "date": "2024-11-05",
+          "views": 17570
+        },
+        {
+          "date": "2024-11-06",
+          "views": 30325
+        },
+        {
+          "date": "2024-11-07",
+          "views": 7205
+        },
+        {
+          "date": "2024-11-08",
+          "views": 2962
+        },
+        {
+          "date": "2024-11-09",
+          "views": 2156
+        },
+        {
+          "date": "2024-11-10",
+          "views": 2303
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America",
+      "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America",
+      "description": "procedura elettorale negli Stati Uniti d'America",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Presidente_degli_Stati_Uniti_d'America",
+      "views": 66617,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 2335
+        },
+        {
+          "date": "2024-11-05",
+          "views": 5559
+        },
+        {
+          "date": "2024-11-06",
+          "views": 39650
+        },
+        {
+          "date": "2024-11-07",
+          "views": 9412
+        },
+        {
+          "date": "2024-11-08",
+          "views": 4300
+        },
+        {
+          "date": "2024-11-09",
+          "views": 2916
+        },
+        {
+          "date": "2024-11-10",
+          "views": 2445
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Presidente%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Presidente_degli_Stati_Uniti_d%27America",
+      "article_url": "https://it.wikipedia.org/wiki/Presidente_degli_Stati_Uniti_d%27America",
+      "description": "capo di Stato e di governo degli Stati Uniti d'America",
+      "image_filename": "Seal_of_the_President_of_the_United_States.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/1280px-Seal_of_the_President_of_the_United_States.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_President_of_the_United_States.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Viktor_Gy\u00f6keres",
+      "views": 65311,
+      "daily_views": [
+        {
+          "date": "2024-11-04",
+          "views": 2162
+        },
+        {
+          "date": "2024-11-05",
+          "views": 16991
+        },
+        {
+          "date": "2024-11-06",
+          "views": 25820
+        },
+        {
+          "date": "2024-11-07",
+          "views": 9493
+        },
+        {
+          "date": "2024-11-08",
+          "views": 4118
+        },
+        {
+          "date": "2024-11-09",
+          "views": 4034
+        },
+        {
+          "date": "2024-11-10",
+          "views": 2693
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Viktor%20Gy%C3%B6keres&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Viktor_Gy%C3%B6keres",
+      "article_url": "https://it.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
+      "description": "calciatore svedese (1998-)",
+      "image_filename": "Viktor_Gy\u00f6keres_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Viktor_Gy%C3%B6keres_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Viktor_Gy%C3%B6keres_2018.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

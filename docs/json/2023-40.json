@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2023,
+  "week": 40,
+  "start_date": "2023-10-02",
+  "end_date": "2023-10-08",
+  "days": [
+    "2023-10-02",
+    "2023-10-03",
+    "2023-10-04",
+    "2023-10-05",
+    "2023-10-06",
+    "2023-10-07",
+    "2023-10-08"
+  ],
+  "total_articles": 2734,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Hamas",
+      "views": 204880,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 0
+        },
+        {
+          "date": "2023-10-03",
+          "views": 0
+        },
+        {
+          "date": "2023-10-04",
+          "views": 0
+        },
+        {
+          "date": "2023-10-05",
+          "views": 0
+        },
+        {
+          "date": "2023-10-06",
+          "views": 0
+        },
+        {
+          "date": "2023-10-07",
+          "views": 84016
+        },
+        {
+          "date": "2023-10-08",
+          "views": 120864
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Hamas&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Hamas",
+      "article_url": "https://it.wikipedia.org/wiki/Hamas",
+      "description": "organizzazione politica e militare islamista palestinese",
+      "image_filename": "Flag_of_al-Qassam_Brigades.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_al-Qassam_Brigades.svg/1280px-Flag_of_al-Qassam_Brigades.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_al-Qassam_Brigades.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Striscia_di_Gaza",
+      "views": 199395,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 0
+        },
+        {
+          "date": "2023-10-03",
+          "views": 0
+        },
+        {
+          "date": "2023-10-04",
+          "views": 0
+        },
+        {
+          "date": "2023-10-05",
+          "views": 0
+        },
+        {
+          "date": "2023-10-06",
+          "views": 0
+        },
+        {
+          "date": "2023-10-07",
+          "views": 64701
+        },
+        {
+          "date": "2023-10-08",
+          "views": 134694
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Striscia%20di%20Gaza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Striscia_di_Gaza",
+      "article_url": "https://it.wikipedia.org/wiki/Striscia_di_Gaza",
+      "description": "territorio appartenente alla Palestina",
+      "image_filename": "Flag_of_Palestine.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1280px-Flag_of_Palestine.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Disastro_del_Vajont",
+      "views": 170057,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 3240
+        },
+        {
+          "date": "2023-10-03",
+          "views": 5083
+        },
+        {
+          "date": "2023-10-04",
+          "views": 67740
+        },
+        {
+          "date": "2023-10-05",
+          "views": 20509
+        },
+        {
+          "date": "2023-10-06",
+          "views": 11461
+        },
+        {
+          "date": "2023-10-07",
+          "views": 15169
+        },
+        {
+          "date": "2023-10-08",
+          "views": 46855
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Disastro%20del%20Vajont&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Disastro_del_Vajont",
+      "article_url": "https://it.wikipedia.org/wiki/Disastro_del_Vajont",
+      "description": "disastro ambientale",
+      "image_filename": "Vajont1963_5.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Vajont1963_5.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vajont1963_5.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Jannik_Sinner",
+      "views": 169050,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 7930
+        },
+        {
+          "date": "2023-10-03",
+          "views": 30826
+        },
+        {
+          "date": "2023-10-04",
+          "views": 72086
+        },
+        {
+          "date": "2023-10-05",
+          "views": 22355
+        },
+        {
+          "date": "2023-10-06",
+          "views": 8680
+        },
+        {
+          "date": "2023-10-07",
+          "views": 13256
+        },
+        {
+          "date": "2023-10-08",
+          "views": 13917
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Jannik_Sinner",
+      "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
+      "description": "tennista italiano (2001-)",
+      "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Israele",
+      "views": 141509,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 0
+        },
+        {
+          "date": "2023-10-03",
+          "views": 0
+        },
+        {
+          "date": "2023-10-04",
+          "views": 0
+        },
+        {
+          "date": "2023-10-05",
+          "views": 0
+        },
+        {
+          "date": "2023-10-06",
+          "views": 0
+        },
+        {
+          "date": "2023-10-07",
+          "views": 48722
+        },
+        {
+          "date": "2023-10-08",
+          "views": 92787
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Israele&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Israele",
+      "article_url": "https://it.wikipedia.org/wiki/Israele",
+      "description": "stato sovrano dell'Asia occidentale",
+      "image_filename": "Flag_of_Israel.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1280px-Flag_of_Israel.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Israel.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Societ\u00e0_Sportiva_Calcio_Napoli",
+      "views": 134916,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 13992
+        },
+        {
+          "date": "2023-10-03",
+          "views": 29761
+        },
+        {
+          "date": "2023-10-04",
+          "views": 12731
+        },
+        {
+          "date": "2023-10-05",
+          "views": 8417
+        },
+        {
+          "date": "2023-10-06",
+          "views": 7485
+        },
+        {
+          "date": "2023-10-07",
+          "views": 25042
+        },
+        {
+          "date": "2023-10-08",
+          "views": 37488
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Societ%C3%A0%20Sportiva%20Calcio%20Napoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Societ%C3%A0_Sportiva_Calcio_Napoli",
+      "article_url": "https://it.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
+      "description": "club calcistico italiano di Napoli",
+      "image_filename": "SSC_Napoli_2024_(deep_blue_navy).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/1280px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:SSC_Napoli_2024_(deep_blue_navy).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Campi_Flegrei",
+      "views": 131116,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 19559
+        },
+        {
+          "date": "2023-10-03",
+          "views": 48028
+        },
+        {
+          "date": "2023-10-04",
+          "views": 22594
+        },
+        {
+          "date": "2023-10-05",
+          "views": 15030
+        },
+        {
+          "date": "2023-10-06",
+          "views": 12278
+        },
+        {
+          "date": "2023-10-07",
+          "views": 7472
+        },
+        {
+          "date": "2023-10-08",
+          "views": 6155
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campi%20Flegrei&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Campi_Flegrei",
+      "article_url": "https://it.wikipedia.org/wiki/Campi_Flegrei",
+      "description": "area geografica di natura vulcanica",
+      "image_filename": "Panorama_con_Cratere_degli_Astroni.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Panorama_con_Cratere_degli_Astroni.jpg/1280px-Panorama_con_Cratere_degli_Astroni.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Panorama_con_Cratere_degli_Astroni.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Stato_di_Palestina",
+      "views": 129241,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 0
+        },
+        {
+          "date": "2023-10-03",
+          "views": 0
+        },
+        {
+          "date": "2023-10-04",
+          "views": 0
+        },
+        {
+          "date": "2023-10-05",
+          "views": 0
+        },
+        {
+          "date": "2023-10-06",
+          "views": 0
+        },
+        {
+          "date": "2023-10-07",
+          "views": 43452
+        },
+        {
+          "date": "2023-10-08",
+          "views": 85789
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stato%20di%20Palestina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Stato_di_Palestina",
+      "article_url": "https://it.wikipedia.org/wiki/Stato_di_Palestina",
+      "description": "Stato dell'Asia occidentale",
+      "image_filename": "Flag_of_Palestine.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1280px-Flag_of_Palestine.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Conflitto_israelo-palestinese",
+      "views": 117593,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 0
+        },
+        {
+          "date": "2023-10-03",
+          "views": 0
+        },
+        {
+          "date": "2023-10-04",
+          "views": 0
+        },
+        {
+          "date": "2023-10-05",
+          "views": 0
+        },
+        {
+          "date": "2023-10-06",
+          "views": 0
+        },
+        {
+          "date": "2023-10-07",
+          "views": 35280
+        },
+        {
+          "date": "2023-10-08",
+          "views": 82313
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Conflitto%20israelo-palestinese&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Conflitto_israelo-palestinese",
+      "article_url": "https://it.wikipedia.org/wiki/Conflitto_israelo-palestinese",
+      "description": "conflitto politico-militare tra israeliani e palestinesi, parte della questione arabo-israeliana",
+      "image_filename": "Occupied_Palestinian_Territories.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/1280px-Occupied_Palestinian_Territories.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Occupied_Palestinian_Territories.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Facebook",
+      "views": 117264,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 16566
+        },
+        {
+          "date": "2023-10-03",
+          "views": 17362
+        },
+        {
+          "date": "2023-10-04",
+          "views": 16654
+        },
+        {
+          "date": "2023-10-05",
+          "views": 16685
+        },
+        {
+          "date": "2023-10-06",
+          "views": 16568
+        },
+        {
+          "date": "2023-10-07",
+          "views": 16967
+        },
+        {
+          "date": "2023-10-08",
+          "views": 16462
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Facebook&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Facebook",
+      "article_url": "https://it.wikipedia.org/wiki/Facebook",
+      "description": "social network",
+      "image_filename": "Screen_of_Facebook_(2).PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/1280px-Screen_of_Facebook_%282%29.PNG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screen_of_Facebook_(2).PNG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Jude_Bellingham",
+      "views": 92138,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 2350
+        },
+        {
+          "date": "2023-10-03",
+          "views": 31812
+        },
+        {
+          "date": "2023-10-04",
+          "views": 29006
+        },
+        {
+          "date": "2023-10-05",
+          "views": 7784
+        },
+        {
+          "date": "2023-10-06",
+          "views": 3814
+        },
+        {
+          "date": "2023-10-07",
+          "views": 9904
+        },
+        {
+          "date": "2023-10-08",
+          "views": 7468
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jude%20Bellingham&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Jude_Bellingham",
+      "article_url": "https://it.wikipedia.org/wiki/Jude_Bellingham",
+      "description": "calciatore inglese (2003-)",
+      "image_filename": "25th_Laureus_World_Sports_Awards_-_240422_205212_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/25th_Laureus_World_Sports_Awards_-_240422_205212_%28cropped%29.jpg/1280px-25th_Laureus_World_Sports_Awards_-_240422_205212_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_240422_205212_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Fedez",
+      "views": 80902,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 14459
+        },
+        {
+          "date": "2023-10-03",
+          "views": 21037
+        },
+        {
+          "date": "2023-10-04",
+          "views": 15698
+        },
+        {
+          "date": "2023-10-05",
+          "views": 12630
+        },
+        {
+          "date": "2023-10-06",
+          "views": 8178
+        },
+        {
+          "date": "2023-10-07",
+          "views": 5998
+        },
+        {
+          "date": "2023-10-08",
+          "views": 2902
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fedez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Fedez",
+      "article_url": "https://it.wikipedia.org/wiki/Fedez",
+      "description": "rapper italiano (1989-)",
+      "image_filename": "Fedez_crop,_Grugliasco_(TO),_2015-07-18.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fedez_crop%2C_Grugliasco_%28TO%29%2C_2015-07-18.jpg/1280px-Fedez_crop%2C_Grugliasco_%28TO%29%2C_2015-07-18.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fedez_crop%2C_Grugliasco_(TO)%2C_2015-07-18.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "David_Beckham",
+      "views": 79903,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 889
+        },
+        {
+          "date": "2023-10-03",
+          "views": 1169
+        },
+        {
+          "date": "2023-10-04",
+          "views": 6363
+        },
+        {
+          "date": "2023-10-05",
+          "views": 13216
+        },
+        {
+          "date": "2023-10-06",
+          "views": 16987
+        },
+        {
+          "date": "2023-10-07",
+          "views": 19775
+        },
+        {
+          "date": "2023-10-08",
+          "views": 21504
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=David%20Beckham&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=David_Beckham",
+      "article_url": "https://it.wikipedia.org/wiki/David_Beckham",
+      "description": "dirigente sportivo, imprenditore e calciatore inglese",
+      "image_filename": "Beckswimbledon.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Beckswimbledon.jpg/1280px-Beckswimbledon.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Beckswimbledon.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Francesca_Fagnani",
+      "views": 69241,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 7037
+        },
+        {
+          "date": "2023-10-03",
+          "views": 17888
+        },
+        {
+          "date": "2023-10-04",
+          "views": 17717
+        },
+        {
+          "date": "2023-10-05",
+          "views": 9678
+        },
+        {
+          "date": "2023-10-06",
+          "views": 7048
+        },
+        {
+          "date": "2023-10-07",
+          "views": 5657
+        },
+        {
+          "date": "2023-10-08",
+          "views": 4216
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Francesca%20Fagnani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Francesca_Fagnani",
+      "article_url": "https://it.wikipedia.org/wiki/Francesca_Fagnani",
+      "description": "giornalista e conduttrice televisiva italiana (1976-)",
+      "image_filename": "Francesca_Fagnani_nel_2023.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Francesca_Fagnani_nel_2023.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesca_Fagnani_nel_2023.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Amanda_Lear",
+      "views": 65363,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 0
+        },
+        {
+          "date": "2023-10-03",
+          "views": 0
+        },
+        {
+          "date": "2023-10-04",
+          "views": 861
+        },
+        {
+          "date": "2023-10-05",
+          "views": 29272
+        },
+        {
+          "date": "2023-10-06",
+          "views": 7498
+        },
+        {
+          "date": "2023-10-07",
+          "views": 2462
+        },
+        {
+          "date": "2023-10-08",
+          "views": 25270
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Amanda%20Lear&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Amanda_Lear",
+      "article_url": "https://it.wikipedia.org/wiki/Amanda_Lear",
+      "description": "cantante, attrice, conduttrice televisiva e modella francese naturalizzata britannica",
+      "image_filename": "Amanda_Lear_2010_a.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Amanda_Lear_2010_a.jpg/1280px-Amanda_Lear_2010_a.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amanda_Lear_2010_a.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Beatrice_Luzzi",
+      "views": 64735,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 6426
+        },
+        {
+          "date": "2023-10-03",
+          "views": 3429
+        },
+        {
+          "date": "2023-10-04",
+          "views": 3161
+        },
+        {
+          "date": "2023-10-05",
+          "views": 20745
+        },
+        {
+          "date": "2023-10-06",
+          "views": 13265
+        },
+        {
+          "date": "2023-10-07",
+          "views": 8518
+        },
+        {
+          "date": "2023-10-08",
+          "views": 9191
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Beatrice%20Luzzi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Beatrice_Luzzi",
+      "article_url": "https://it.wikipedia.org/wiki/Beatrice_Luzzi",
+      "description": "attrice e autrice televisiva italiana (1970-)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Diga_del_Vajont",
+      "views": 64630,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 1168
+        },
+        {
+          "date": "2023-10-03",
+          "views": 1597
+        },
+        {
+          "date": "2023-10-04",
+          "views": 28584
+        },
+        {
+          "date": "2023-10-05",
+          "views": 7407
+        },
+        {
+          "date": "2023-10-06",
+          "views": 3703
+        },
+        {
+          "date": "2023-10-07",
+          "views": 4684
+        },
+        {
+          "date": "2023-10-08",
+          "views": 17487
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Diga%20del%20Vajont&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Diga_del_Vajont",
+      "article_url": "https://it.wikipedia.org/wiki/Diga_del_Vajont",
+      "description": "diga nella provincia di Pordenone",
+      "image_filename": "Diga_del_Vajont_.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Diga_del_Vajont_.jpg/1280px-Diga_del_Vajont_.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diga_del_Vajont_.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Palestina",
+      "views": 64169,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 0
+        },
+        {
+          "date": "2023-10-03",
+          "views": 0
+        },
+        {
+          "date": "2023-10-04",
+          "views": 0
+        },
+        {
+          "date": "2023-10-05",
+          "views": 0
+        },
+        {
+          "date": "2023-10-06",
+          "views": 0
+        },
+        {
+          "date": "2023-10-07",
+          "views": 19765
+        },
+        {
+          "date": "2023-10-08",
+          "views": 44404
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Palestina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Palestina",
+      "article_url": "https://it.wikipedia.org/wiki/Palestina",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Vajont_(film)",
+      "views": 61760,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 0
+        },
+        {
+          "date": "2023-10-03",
+          "views": 0
+        },
+        {
+          "date": "2023-10-04",
+          "views": 36000
+        },
+        {
+          "date": "2023-10-05",
+          "views": 7572
+        },
+        {
+          "date": "2023-10-06",
+          "views": 1898
+        },
+        {
+          "date": "2023-10-07",
+          "views": 1723
+        },
+        {
+          "date": "2023-10-08",
+          "views": 14567
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vajont%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Vajont_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Vajont_(film)",
+      "description": "film del 2001 diretto da Renzo Martinelli",
+      "image_filename": "Vajont_-_La_diga_del_disonore.PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/c/c2/Vajont_-_La_diga_del_disonore.PNG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vajont_-_La_diga_del_disonore.PNG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Francesco_d'Assisi",
+      "views": 60358,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 3774
+        },
+        {
+          "date": "2023-10-03",
+          "views": 10907
+        },
+        {
+          "date": "2023-10-04",
+          "views": 31412
+        },
+        {
+          "date": "2023-10-05",
+          "views": 6642
+        },
+        {
+          "date": "2023-10-06",
+          "views": 2948
+        },
+        {
+          "date": "2023-10-07",
+          "views": 2349
+        },
+        {
+          "date": "2023-10-08",
+          "views": 2326
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Francesco%20d%27Assisi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Francesco_d%27Assisi",
+      "article_url": "https://it.wikipedia.org/wiki/Francesco_d%27Assisi",
+      "description": "religioso, santo e poeta italiano (1181/2-1226)",
+      "image_filename": "Luca_Giordano_-_San_Francisco_de_Asis.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Luca_Giordano_-_San_Francisco_de_Asis.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luca_Giordano_-_San_Francisco_de_Asis.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 21,
+      "article": "Nicola_Pietrangeli",
+      "views": 59645,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 1607
+        },
+        {
+          "date": "2023-10-03",
+          "views": 2955
+        },
+        {
+          "date": "2023-10-04",
+          "views": 18950
+        },
+        {
+          "date": "2023-10-05",
+          "views": 21357
+        },
+        {
+          "date": "2023-10-06",
+          "views": 8657
+        },
+        {
+          "date": "2023-10-07",
+          "views": 3882
+        },
+        {
+          "date": "2023-10-08",
+          "views": 2237
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nicola%20Pietrangeli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Nicola_Pietrangeli",
+      "article_url": "https://it.wikipedia.org/wiki/Nicola_Pietrangeli",
+      "description": "tennista italiano (1933-2025)",
+      "image_filename": "Nicola_Pietrangeli_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nicola_Pietrangeli_cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nicola_Pietrangeli_cropped.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Jon_Fosse",
+      "views": 55308,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 0
+        },
+        {
+          "date": "2023-10-03",
+          "views": 0
+        },
+        {
+          "date": "2023-10-04",
+          "views": 0
+        },
+        {
+          "date": "2023-10-05",
+          "views": 39114
+        },
+        {
+          "date": "2023-10-06",
+          "views": 10540
+        },
+        {
+          "date": "2023-10-07",
+          "views": 3611
+        },
+        {
+          "date": "2023-10-08",
+          "views": 2043
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jon%20Fosse&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Jon_Fosse",
+      "article_url": "https://it.wikipedia.org/wiki/Jon_Fosse",
+      "description": "scrittore e drammaturgo norvegese",
+      "image_filename": "Writer_Jon_Fosse_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Writer_Jon_Fosse_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Writer_Jon_Fosse_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Rai",
+      "views": 54870,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 6749
+        },
+        {
+          "date": "2023-10-03",
+          "views": 7295
+        },
+        {
+          "date": "2023-10-04",
+          "views": 8456
+        },
+        {
+          "date": "2023-10-05",
+          "views": 8745
+        },
+        {
+          "date": "2023-10-06",
+          "views": 8069
+        },
+        {
+          "date": "2023-10-07",
+          "views": 7941
+        },
+        {
+          "date": "2023-10-08",
+          "views": 7615
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Associazione_Calcio_Milan",
+      "views": 45144,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 3284
+        },
+        {
+          "date": "2023-10-03",
+          "views": 4127
+        },
+        {
+          "date": "2023-10-04",
+          "views": 9629
+        },
+        {
+          "date": "2023-10-05",
+          "views": 4210
+        },
+        {
+          "date": "2023-10-06",
+          "views": 3201
+        },
+        {
+          "date": "2023-10-07",
+          "views": 13799
+        },
+        {
+          "date": "2023-10-08",
+          "views": 6894
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Associazione%20Calcio%20Milan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Associazione_Calcio_Milan",
+      "article_url": "https://it.wikipedia.org/wiki/Associazione_Calcio_Milan",
+      "description": "club calcistico italiano di Milano",
+      "image_filename": "Logo_of_AC_Milan.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1280px-Logo_of_AC_Milan.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Lupin_(serie_televisiva_2021)",
+      "views": 42838,
+      "daily_views": [
+        {
+          "date": "2023-10-02",
+          "views": 1109
+        },
+        {
+          "date": "2023-10-03",
+          "views": 1239
+        },
+        {
+          "date": "2023-10-04",
+          "views": 2213
+        },
+        {
+          "date": "2023-10-05",
+          "views": 9230
+        },
+        {
+          "date": "2023-10-06",
+          "views": 9641
+        },
+        {
+          "date": "2023-10-07",
+          "views": 8799
+        },
+        {
+          "date": "2023-10-08",
+          "views": 10607
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lupin%20%28serie%20televisiva%202021%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Lupin_(serie_televisiva_2021)",
+      "article_url": "https://it.wikipedia.org/wiki/Lupin_(serie_televisiva_2021)",
+      "description": "serie televisiva francese del 2021",
+      "image_filename": "Lupin_logo_serieTV.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/91/Lupin_logo_serieTV.jpg/1080px-Lupin_logo_serieTV.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lupin_logo_serieTV.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

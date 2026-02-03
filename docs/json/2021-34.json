@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2021,
+  "week": 34,
+  "start_date": "2021-08-23",
+  "end_date": "2021-08-29",
+  "days": [
+    "2021-08-23",
+    "2021-08-24",
+    "2021-08-25",
+    "2021-08-26",
+    "2021-08-27",
+    "2021-08-28",
+    "2021-08-29"
+  ],
+  "total_articles": 2712,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Cristiano_Ronaldo",
+      "views": 392499,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 6842
+        },
+        {
+          "date": "2021-08-24",
+          "views": 8331
+        },
+        {
+          "date": "2021-08-25",
+          "views": 10431
+        },
+        {
+          "date": "2021-08-26",
+          "views": 37339
+        },
+        {
+          "date": "2021-08-27",
+          "views": 192104
+        },
+        {
+          "date": "2021-08-28",
+          "views": 90752
+        },
+        {
+          "date": "2021-08-29",
+          "views": 46700
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Cristiano_Ronaldo",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "description": "calciatore portoghese (1985-)",
+      "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Beatrice_Vio",
+      "views": 341966,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 4699
+        },
+        {
+          "date": "2021-08-24",
+          "views": 10465
+        },
+        {
+          "date": "2021-08-25",
+          "views": 15741
+        },
+        {
+          "date": "2021-08-26",
+          "views": 7868
+        },
+        {
+          "date": "2021-08-27",
+          "views": 4589
+        },
+        {
+          "date": "2021-08-28",
+          "views": 177529
+        },
+        {
+          "date": "2021-08-29",
+          "views": 121075
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Beatrice%20Vio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Beatrice_Vio",
+      "article_url": "https://it.wikipedia.org/wiki/Beatrice_Vio",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Joaqu\u00edn_Correa",
+      "views": 250004,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 12463
+        },
+        {
+          "date": "2021-08-24",
+          "views": 38136
+        },
+        {
+          "date": "2021-08-25",
+          "views": 61443
+        },
+        {
+          "date": "2021-08-26",
+          "views": 36578
+        },
+        {
+          "date": "2021-08-27",
+          "views": 50850
+        },
+        {
+          "date": "2021-08-28",
+          "views": 41406
+        },
+        {
+          "date": "2021-08-29",
+          "views": 9128
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Joaqu%C3%ADn%20Correa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Joaqu%C3%ADn_Correa",
+      "article_url": "https://it.wikipedia.org/wiki/Joaqu%C3%ADn_Correa",
+      "description": "calciatore argentino (1994-)",
+      "image_filename": "Joaqu\u00edn_Correa_2020.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Joaqu%C3%ADn_Correa_2020.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Correa_2020.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Ted_Bundy",
+      "views": 170314,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 1418
+        },
+        {
+          "date": "2021-08-24",
+          "views": 125863
+        },
+        {
+          "date": "2021-08-25",
+          "views": 28657
+        },
+        {
+          "date": "2021-08-26",
+          "views": 5892
+        },
+        {
+          "date": "2021-08-27",
+          "views": 3457
+        },
+        {
+          "date": "2021-08-28",
+          "views": 2690
+        },
+        {
+          "date": "2021-08-29",
+          "views": 2337
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ted%20Bundy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Ted_Bundy",
+      "article_url": "https://it.wikipedia.org/wiki/Ted_Bundy",
+      "description": "serial killer statunitense (1946-1989)",
+      "image_filename": "Ted_Bundy_headshot.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ted_Bundy_headshot.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ted_Bundy_headshot.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Afghanistan",
+      "views": 165263,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 26608
+        },
+        {
+          "date": "2021-08-24",
+          "views": 24054
+        },
+        {
+          "date": "2021-08-25",
+          "views": 21231
+        },
+        {
+          "date": "2021-08-26",
+          "views": 32528
+        },
+        {
+          "date": "2021-08-27",
+          "views": 27604
+        },
+        {
+          "date": "2021-08-28",
+          "views": 17901
+        },
+        {
+          "date": "2021-08-29",
+          "views": 15337
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Afghanistan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Afghanistan",
+      "article_url": "https://it.wikipedia.org/wiki/Afghanistan",
+      "description": "stato dell'Asia meridionale",
+      "image_filename": "Flag_of_Afghanistan_and_Flag_of_the_Taliban.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Afghanistan_and_Flag_of_the_Taliban.svg/1280px-Flag_of_Afghanistan_and_Flag_of_the_Taliban.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Afghanistan_and_Flag_of_the_Taliban.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Moise_Kean",
+      "views": 138663,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 1099
+        },
+        {
+          "date": "2021-08-24",
+          "views": 1372
+        },
+        {
+          "date": "2021-08-25",
+          "views": 2015
+        },
+        {
+          "date": "2021-08-26",
+          "views": 10545
+        },
+        {
+          "date": "2021-08-27",
+          "views": 37242
+        },
+        {
+          "date": "2021-08-28",
+          "views": 65262
+        },
+        {
+          "date": "2021-08-29",
+          "views": 21128
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Moise%20Kean&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Moise_Kean",
+      "article_url": "https://it.wikipedia.org/wiki/Moise_Kean",
+      "description": "calciatore italiano (2000-)",
+      "image_filename": "FC_Zenit_Saint_Petersburg_vs._Juventus,_20_October_2021_64_-_Moise_Kean_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_Saint_Petersburg_vs._Juventus%2C_20_October_2021_64_-_Moise_Kean_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_Zenit_Saint_Petersburg_vs._Juventus%2C_20_October_2021_64_-_Moise_Kean_(cropped).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "The_Rolling_Stones",
+      "views": 128145,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 44527
+        },
+        {
+          "date": "2021-08-25",
+          "views": 49370
+        },
+        {
+          "date": "2021-08-26",
+          "views": 17363
+        },
+        {
+          "date": "2021-08-27",
+          "views": 7055
+        },
+        {
+          "date": "2021-08-28",
+          "views": 6104
+        },
+        {
+          "date": "2021-08-29",
+          "views": 3726
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Rolling%20Stones&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=The_Rolling_Stones",
+      "article_url": "https://it.wikipedia.org/wiki/The_Rolling_Stones",
+      "description": "gruppo musicale britannico",
+      "image_filename": "Rolling_Stones_post-show_bow_London_2018_(41437870405).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rolling_Stones_post-show_bow_London_2018_%2841437870405%29.jpg/1280px-Rolling_Stones_post-show_bow_London_2018_%2841437870405%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rolling_Stones_post-show_bow_London_2018_(41437870405).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Charlie_Watts",
+      "views": 119204,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 58588
+        },
+        {
+          "date": "2021-08-25",
+          "views": 41972
+        },
+        {
+          "date": "2021-08-26",
+          "views": 9573
+        },
+        {
+          "date": "2021-08-27",
+          "views": 3661
+        },
+        {
+          "date": "2021-08-28",
+          "views": 3327
+        },
+        {
+          "date": "2021-08-29",
+          "views": 2083
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Charlie%20Watts&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Charlie_Watts",
+      "article_url": "https://it.wikipedia.org/wiki/Charlie_Watts",
+      "description": "batterista britannico (1941-2021)",
+      "image_filename": "Charlie_Watts_Berlinale_2008_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Charlie_Watts_Berlinale_2008_cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Charlie_Watts_Berlinale_2008_cropped.jpg",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Mr._Krab",
+      "views": 106713,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 84725
+        },
+        {
+          "date": "2021-08-24",
+          "views": 19278
+        },
+        {
+          "date": "2021-08-25",
+          "views": 1358
+        },
+        {
+          "date": "2021-08-26",
+          "views": 0
+        },
+        {
+          "date": "2021-08-27",
+          "views": 1352
+        },
+        {
+          "date": "2021-08-28",
+          "views": 0
+        },
+        {
+          "date": "2021-08-29",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mr.%20Krab&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Mr._Krab",
+      "article_url": "https://it.wikipedia.org/wiki/Mr._Krab",
+      "description": "personaggio immaginario di SpongeBob SquarePants",
+      "image_filename": "Mr_Krabs_character.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mr_Krabs_character.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mr_Krabs_character.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Talebani",
+      "views": 104753,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 17447
+        },
+        {
+          "date": "2021-08-24",
+          "views": 16517
+        },
+        {
+          "date": "2021-08-25",
+          "views": 14806
+        },
+        {
+          "date": "2021-08-26",
+          "views": 21857
+        },
+        {
+          "date": "2021-08-27",
+          "views": 16719
+        },
+        {
+          "date": "2021-08-28",
+          "views": 8849
+        },
+        {
+          "date": "2021-08-29",
+          "views": 8558
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Talebani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Talebani",
+      "article_url": "https://it.wikipedia.org/wiki/Talebani",
+      "description": "organizzazione politica e militare afghana, a ideologia fondamentalista islamica",
+      "image_filename": "Flag_of_the_Taliban.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/1280px-Flag_of_the_Taliban.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Taliban.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Pietro_Pellegri",
+      "views": 87564,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 20342
+        },
+        {
+          "date": "2021-08-24",
+          "views": 18135
+        },
+        {
+          "date": "2021-08-25",
+          "views": 29304
+        },
+        {
+          "date": "2021-08-26",
+          "views": 11032
+        },
+        {
+          "date": "2021-08-27",
+          "views": 4898
+        },
+        {
+          "date": "2021-08-28",
+          "views": 2016
+        },
+        {
+          "date": "2021-08-29",
+          "views": 1837
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pietro%20Pellegri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Pietro_Pellegri",
+      "article_url": "https://it.wikipedia.org/wiki/Pietro_Pellegri",
+      "description": "calciatore italiano (2001-)",
+      "image_filename": "RB_Salzburg_gegen_AS_Monaco_(Testspiel,_3._Juli_2021)_48_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/RB_Salzburg_gegen_AS_Monaco_%28Testspiel%2C_3._Juli_2021%29_48_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RB_Salzburg_gegen_AS_Monaco_(Testspiel%2C_3._Juli_2021)_48_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Categorie_degli_sport_per_disabili",
+      "views": 85162,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 0
+        },
+        {
+          "date": "2021-08-25",
+          "views": 19136
+        },
+        {
+          "date": "2021-08-26",
+          "views": 18771
+        },
+        {
+          "date": "2021-08-27",
+          "views": 14659
+        },
+        {
+          "date": "2021-08-28",
+          "views": 13489
+        },
+        {
+          "date": "2021-08-29",
+          "views": 19107
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Categorie%20degli%20sport%20per%20disabili&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Categorie_degli_sport_per_disabili",
+      "article_url": "https://it.wikipedia.org/wiki/Categorie_degli_sport_per_disabili",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "UEFA_Europa_Conference_League",
+      "views": 84222,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 1768
+        },
+        {
+          "date": "2021-08-24",
+          "views": 2319
+        },
+        {
+          "date": "2021-08-25",
+          "views": 4512
+        },
+        {
+          "date": "2021-08-26",
+          "views": 26431
+        },
+        {
+          "date": "2021-08-27",
+          "views": 37600
+        },
+        {
+          "date": "2021-08-28",
+          "views": 7733
+        },
+        {
+          "date": "2021-08-29",
+          "views": 3859
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=UEFA%20Europa%20Conference%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=UEFA_Europa_Conference_League",
+      "article_url": "https://it.wikipedia.org/wiki/UEFA_Europa_Conference_League",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "The_Walking_Dead_(serie_televisiva)",
+      "views": 75990,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 15410
+        },
+        {
+          "date": "2021-08-24",
+          "views": 13130
+        },
+        {
+          "date": "2021-08-25",
+          "views": 10744
+        },
+        {
+          "date": "2021-08-26",
+          "views": 9040
+        },
+        {
+          "date": "2021-08-27",
+          "views": 8509
+        },
+        {
+          "date": "2021-08-28",
+          "views": 9141
+        },
+        {
+          "date": "2021-08-29",
+          "views": 10016
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Walking%20Dead%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=The_Walking_Dead_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Walking_Dead_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2010-2022)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Italia",
+      "views": 69562,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 9556
+        },
+        {
+          "date": "2021-08-24",
+          "views": 10295
+        },
+        {
+          "date": "2021-08-25",
+          "views": 9747
+        },
+        {
+          "date": "2021-08-26",
+          "views": 9912
+        },
+        {
+          "date": "2021-08-27",
+          "views": 10247
+        },
+        {
+          "date": "2021-08-28",
+          "views": 9794
+        },
+        {
+          "date": "2021-08-29",
+          "views": 10011
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Nine_Perfect_Strangers",
+      "views": 66210,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 11123
+        },
+        {
+          "date": "2021-08-24",
+          "views": 10441
+        },
+        {
+          "date": "2021-08-25",
+          "views": 9979
+        },
+        {
+          "date": "2021-08-26",
+          "views": 8887
+        },
+        {
+          "date": "2021-08-27",
+          "views": 7753
+        },
+        {
+          "date": "2021-08-28",
+          "views": 8573
+        },
+        {
+          "date": "2021-08-29",
+          "views": 9454
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nine%20Perfect%20Strangers&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Nine_Perfect_Strangers",
+      "article_url": "https://it.wikipedia.org/wiki/Nine_Perfect_Strangers",
+      "description": "serie televisiva statunitense del 2021",
+      "image_filename": "Nine_Perfect_Strangers.PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Nine_Perfect_Strangers.PNG/1032px-Nine_Perfect_Strangers.PNG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nine_Perfect_Strangers.PNG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Veronica_Yoko_Plebani",
+      "views": 65173,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 1993
+        },
+        {
+          "date": "2021-08-25",
+          "views": 0
+        },
+        {
+          "date": "2021-08-26",
+          "views": 0
+        },
+        {
+          "date": "2021-08-27",
+          "views": 7590
+        },
+        {
+          "date": "2021-08-28",
+          "views": 40420
+        },
+        {
+          "date": "2021-08-29",
+          "views": 15170
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Veronica%20Yoko%20Plebani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Veronica_Yoko_Plebani",
+      "article_url": "https://it.wikipedia.org/wiki/Veronica_Yoko_Plebani",
+      "description": "canoista, snowboarder e triatleta italiana (1996-)",
+      "image_filename": "Veronica-Yoko-tokyo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Veronica-Yoko-tokyo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Veronica-Yoko-tokyo.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Carlotta_Gilli",
+      "views": 64347,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 0
+        },
+        {
+          "date": "2021-08-25",
+          "views": 27650
+        },
+        {
+          "date": "2021-08-26",
+          "views": 12820
+        },
+        {
+          "date": "2021-08-27",
+          "views": 13239
+        },
+        {
+          "date": "2021-08-28",
+          "views": 3857
+        },
+        {
+          "date": "2021-08-29",
+          "views": 6781
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Carlotta%20Gilli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Carlotta_Gilli",
+      "article_url": "https://it.wikipedia.org/wiki/Carlotta_Gilli",
+      "description": "nuotatrice italiana",
+      "image_filename": "Gillitokyo2020.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gillitokyo2020.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gillitokyo2020.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Windstorm_5_-_Uniti_per_sempre",
+      "views": 62735,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 0
+        },
+        {
+          "date": "2021-08-25",
+          "views": 0
+        },
+        {
+          "date": "2021-08-26",
+          "views": 61103
+        },
+        {
+          "date": "2021-08-27",
+          "views": 1632
+        },
+        {
+          "date": "2021-08-28",
+          "views": 0
+        },
+        {
+          "date": "2021-08-29",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Windstorm%205%20-%20Uniti%20per%20sempre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Windstorm_5_-_Uniti_per_sempre",
+      "article_url": "https://it.wikipedia.org/wiki/Windstorm_5_-_Uniti_per_sempre",
+      "description": "film tedesco del 2021 diretto da Lea Schmidbauer",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Spider-Man:_No_Way_Home",
+      "views": 58632,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 22215
+        },
+        {
+          "date": "2021-08-25",
+          "views": 12690
+        },
+        {
+          "date": "2021-08-26",
+          "views": 8198
+        },
+        {
+          "date": "2021-08-27",
+          "views": 6038
+        },
+        {
+          "date": "2021-08-28",
+          "views": 4922
+        },
+        {
+          "date": "2021-08-29",
+          "views": 4569
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Spider-Man%3A%20No%20Way%20Home&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Spider-Man%3A_No_Way_Home",
+      "article_url": "https://it.wikipedia.org/wiki/Spider-Man%3A_No_Way_Home",
+      "description": "film del 2021 diretto da Jon Watts",
+      "image_filename": "Spider-Man.NoWayHome.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a2/Spider-Man.NoWayHome.png/1280px-Spider-Man.NoWayHome.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Spider-Man.NoWayHome.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Serenity_-_L'isola_dell'inganno",
+      "views": 58378,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 0
+        },
+        {
+          "date": "2021-08-25",
+          "views": 0
+        },
+        {
+          "date": "2021-08-26",
+          "views": 1079
+        },
+        {
+          "date": "2021-08-27",
+          "views": 47267
+        },
+        {
+          "date": "2021-08-28",
+          "views": 8747
+        },
+        {
+          "date": "2021-08-29",
+          "views": 1285
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Serenity%20-%20L%27isola%20dell%27inganno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Serenity_-_L%27isola_dell%27inganno",
+      "article_url": "https://it.wikipedia.org/wiki/Serenity_-_L%27isola_dell%27inganno",
+      "description": "film del 2019 diretto da Steven Knight",
+      "image_filename": "Serenity_film_2019.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Serenity_film_2019.jpg/1280px-Serenity_film_2019.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Serenity_film_2019.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Associazione_Calcio_ChievoVerona",
+      "views": 57131,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 21009
+        },
+        {
+          "date": "2021-08-24",
+          "views": 15180
+        },
+        {
+          "date": "2021-08-25",
+          "views": 6348
+        },
+        {
+          "date": "2021-08-26",
+          "views": 3564
+        },
+        {
+          "date": "2021-08-27",
+          "views": 3575
+        },
+        {
+          "date": "2021-08-28",
+          "views": 3363
+        },
+        {
+          "date": "2021-08-29",
+          "views": 4092
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Associazione%20Calcio%20ChievoVerona&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Associazione_Calcio_ChievoVerona",
+      "article_url": "https://it.wikipedia.org/wiki/Associazione_Calcio_ChievoVerona",
+      "description": "club calcistico italiano di Verona",
+      "image_filename": "Chievoverona2024.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/59/Chievoverona2024.svg/1280px-Chievoverona2024.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Chievoverona2024.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Romain_Faivre",
+      "views": 56831,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 0
+        },
+        {
+          "date": "2021-08-25",
+          "views": 11348
+        },
+        {
+          "date": "2021-08-26",
+          "views": 9956
+        },
+        {
+          "date": "2021-08-27",
+          "views": 18034
+        },
+        {
+          "date": "2021-08-28",
+          "views": 9147
+        },
+        {
+          "date": "2021-08-29",
+          "views": 8346
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Romain%20Faivre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Romain_Faivre",
+      "article_url": "https://it.wikipedia.org/wiki/Romain_Faivre",
+      "description": "calciatore francese",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "UEFA_Champions_League_2021-2022",
+      "views": 56473,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 3030
+        },
+        {
+          "date": "2021-08-24",
+          "views": 5144
+        },
+        {
+          "date": "2021-08-25",
+          "views": 8608
+        },
+        {
+          "date": "2021-08-26",
+          "views": 19952
+        },
+        {
+          "date": "2021-08-27",
+          "views": 13495
+        },
+        {
+          "date": "2021-08-28",
+          "views": 4228
+        },
+        {
+          "date": "2021-08-29",
+          "views": 2016
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=UEFA%20Champions%20League%202021-2022&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=UEFA_Champions_League_2021-2022",
+      "article_url": "https://it.wikipedia.org/wiki/UEFA_Champions_League_2021-2022",
+      "description": "67\u00aa edizione della massima competizione UEFA per club",
+      "image_filename": "Ofrenda_de_la_Liga_y_la_Champions-57-L.Mill\u00e1n_(52109310843).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ofrenda_de_la_Liga_y_la_Champions-57-L.Mill%C3%A1n_%2852109310843%29.jpg/1280px-Ofrenda_de_la_Liga_y_la_Champions-57-L.Mill%C3%A1n_%2852109310843%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ofrenda_de_la_Liga_y_la_Champions-57-L.Mill%C3%A1n_(52109310843).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Fotbal_Club_Sheriff_Tiraspol",
+      "views": 55303,
+      "daily_views": [
+        {
+          "date": "2021-08-23",
+          "views": 0
+        },
+        {
+          "date": "2021-08-24",
+          "views": 1134
+        },
+        {
+          "date": "2021-08-25",
+          "views": 8158
+        },
+        {
+          "date": "2021-08-26",
+          "views": 32077
+        },
+        {
+          "date": "2021-08-27",
+          "views": 10003
+        },
+        {
+          "date": "2021-08-28",
+          "views": 2451
+        },
+        {
+          "date": "2021-08-29",
+          "views": 1480
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fotbal%20Club%20Sheriff%20Tiraspol&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/23/2021,cd_max:08/29/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-08-23&end=2021-08-29&pages=Fotbal_Club_Sheriff_Tiraspol",
+      "article_url": "https://it.wikipedia.org/wiki/Fotbal_Club_Sheriff_Tiraspol",
+      "description": "societ\u00e0 calcistica moldava con sede nella citt\u00e0 di Tiraspol",
+      "image_filename": "Logo_FC_Sheriff_Tiraspol.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/01/Logo_FC_Sheriff_Tiraspol.png/1280px-Logo_FC_Sheriff_Tiraspol.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_FC_Sheriff_Tiraspol.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2023,
+  "week": 27,
+  "start_date": "2023-07-03",
+  "end_date": "2023-07-09",
+  "days": [
+    "2023-07-03",
+    "2023-07-04",
+    "2023-07-05",
+    "2023-07-06",
+    "2023-07-07",
+    "2023-07-08",
+    "2023-07-09"
+  ],
+  "total_articles": 2674,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Marcello_Dell'Utri",
+      "views": 179005,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 0
+        },
+        {
+          "date": "2023-07-04",
+          "views": 0
+        },
+        {
+          "date": "2023-07-05",
+          "views": 0
+        },
+        {
+          "date": "2023-07-06",
+          "views": 109170
+        },
+        {
+          "date": "2023-07-07",
+          "views": 46404
+        },
+        {
+          "date": "2023-07-08",
+          "views": 14853
+        },
+        {
+          "date": "2023-07-09",
+          "views": 8578
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Marcello%20Dell%27Utri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Marcello_Dell%27Utri",
+      "article_url": "https://it.wikipedia.org/wiki/Marcello_Dell%27Utri",
+      "description": "politico, dirigente d'azienda e pregiudicato italiano (1941-)",
+      "image_filename": "Marcello_Dell'Utri_datisenato_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Marcello_Dell%27Utri_datisenato_2008.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marcello_Dell%27Utri_datisenato_2008.jpg",
+      "image_license": "CC BY 3.0 it",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Torneo_di_Wimbledon",
+      "views": 157300,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 13994
+        },
+        {
+          "date": "2023-07-04",
+          "views": 17189
+        },
+        {
+          "date": "2023-07-05",
+          "views": 24500
+        },
+        {
+          "date": "2023-07-06",
+          "views": 20514
+        },
+        {
+          "date": "2023-07-07",
+          "views": 23022
+        },
+        {
+          "date": "2023-07-08",
+          "views": 26740
+        },
+        {
+          "date": "2023-07-09",
+          "views": 31341
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Torneo%20di%20Wimbledon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Torneo_di_Wimbledon",
+      "article_url": "https://it.wikipedia.org/wiki/Torneo_di_Wimbledon",
+      "description": "torneo di tennis",
+      "image_filename": "Wimbledon.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b9/Wimbledon.svg/1280px-Wimbledon.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Wimbledon.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Christian_Pulisic",
+      "views": 116702,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 4011
+        },
+        {
+          "date": "2023-07-04",
+          "views": 3628
+        },
+        {
+          "date": "2023-07-05",
+          "views": 6978
+        },
+        {
+          "date": "2023-07-06",
+          "views": 18007
+        },
+        {
+          "date": "2023-07-07",
+          "views": 47806
+        },
+        {
+          "date": "2023-07-08",
+          "views": 26106
+        },
+        {
+          "date": "2023-07-09",
+          "views": 10166
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Christian%20Pulisic&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Christian_Pulisic",
+      "article_url": "https://it.wikipedia.org/wiki/Christian_Pulisic",
+      "description": "calciatore statunitense (1998-)",
+      "image_filename": "USMNT_vs._Trinidad_and_Tobago_(48125059622)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/USMNT_vs._Trinidad_and_Tobago_%2848125059622%29_%28cropped%29.jpg/1225px-USMNT_vs._Trinidad_and_Tobago_%2848125059622%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:USMNT_vs._Trinidad_and_Tobago_(48125059622)_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Marta_Fascina",
+      "views": 95630,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 1002
+        },
+        {
+          "date": "2023-07-04",
+          "views": 912
+        },
+        {
+          "date": "2023-07-05",
+          "views": 2229
+        },
+        {
+          "date": "2023-07-06",
+          "views": 44188
+        },
+        {
+          "date": "2023-07-07",
+          "views": 26856
+        },
+        {
+          "date": "2023-07-08",
+          "views": 12701
+        },
+        {
+          "date": "2023-07-09",
+          "views": 7742
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Marta%20Fascina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Marta_Fascina",
+      "article_url": "https://it.wikipedia.org/wiki/Marta_Fascina",
+      "description": "politica italiana (1990-)",
+      "image_filename": "Marta_Antonia_Fascina_daticamera_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Marta_Antonia_Fascina_daticamera_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marta_Antonia_Fascina_daticamera_2018.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Davide_Frattesi",
+      "views": 90095,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 3238
+        },
+        {
+          "date": "2023-07-04",
+          "views": 21655
+        },
+        {
+          "date": "2023-07-05",
+          "views": 29568
+        },
+        {
+          "date": "2023-07-06",
+          "views": 19043
+        },
+        {
+          "date": "2023-07-07",
+          "views": 9621
+        },
+        {
+          "date": "2023-07-08",
+          "views": 4393
+        },
+        {
+          "date": "2023-07-09",
+          "views": 2577
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Davide%20Frattesi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Davide_Frattesi",
+      "article_url": "https://it.wikipedia.org/wiki/Davide_Frattesi",
+      "description": "calciatore italiano (1999-)",
+      "image_filename": "FC_Salzburg_gegen_Inter_Mailand_(UEFA_Championsleague_2023-11-08)_14_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_14_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_Inter_Mailand_(UEFA_Championsleague_2023-11-08)_14_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Luis_Su\u00e1rez_(calciatore_1935)",
+      "views": 87004,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 0
+        },
+        {
+          "date": "2023-07-04",
+          "views": 0
+        },
+        {
+          "date": "2023-07-05",
+          "views": 0
+        },
+        {
+          "date": "2023-07-06",
+          "views": 0
+        },
+        {
+          "date": "2023-07-07",
+          "views": 0
+        },
+        {
+          "date": "2023-07-08",
+          "views": 0
+        },
+        {
+          "date": "2023-07-09",
+          "views": 87004
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luis%20Su%C3%A1rez%20%28calciatore%201935%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Luis_Su%C3%A1rez_(calciatore_1935)",
+      "article_url": "https://it.wikipedia.org/wiki/Luis_Su%C3%A1rez_(calciatore_1935)",
+      "description": "calciatore e allenatore di calcio spagnolo (1935-2023)",
+      "image_filename": "Luis_Su\u00e1rez_Miramontes.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Luis_Su%C3%A1rez_Miramontes.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luis_Su%C3%A1rez_Miramontes.JPG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Daniela_Santanch\u00e8",
+      "views": 86532,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 8226
+        },
+        {
+          "date": "2023-07-04",
+          "views": 7692
+        },
+        {
+          "date": "2023-07-05",
+          "views": 24161
+        },
+        {
+          "date": "2023-07-06",
+          "views": 24757
+        },
+        {
+          "date": "2023-07-07",
+          "views": 11403
+        },
+        {
+          "date": "2023-07-08",
+          "views": 5500
+        },
+        {
+          "date": "2023-07-09",
+          "views": 4793
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Daniela%20Santanch%C3%A8&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Daniela_Santanch%C3%A8",
+      "article_url": "https://it.wikipedia.org/wiki/Daniela_Santanch%C3%A8",
+      "description": "politica e imprenditrice italiana (1961-)",
+      "image_filename": "Daniela_Santanch\u00e8_2024_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Daniela_Santanch%C3%A8_2024_%28cropped%29.jpg/1280px-Daniela_Santanch%C3%A8_2024_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Daniela_Santanch%C3%A8_2024_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Matteo_Berrettini",
+      "views": 78895,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 1961
+        },
+        {
+          "date": "2023-07-04",
+          "views": 6252
+        },
+        {
+          "date": "2023-07-05",
+          "views": 7048
+        },
+        {
+          "date": "2023-07-06",
+          "views": 6065
+        },
+        {
+          "date": "2023-07-07",
+          "views": 9210
+        },
+        {
+          "date": "2023-07-08",
+          "views": 28289
+        },
+        {
+          "date": "2023-07-09",
+          "views": 20070
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matteo%20Berrettini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Matteo_Berrettini",
+      "article_url": "https://it.wikipedia.org/wiki/Matteo_Berrettini",
+      "description": "tennista italiano (1996-)",
+      "image_filename": "Matteo_Berrettini_at_2025_Miami_Open_01_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29.jpg/1280px-Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_01_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Ivan_Graziani",
+      "views": 69095,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 59454
+        },
+        {
+          "date": "2023-07-04",
+          "views": 7037
+        },
+        {
+          "date": "2023-07-05",
+          "views": 1677
+        },
+        {
+          "date": "2023-07-06",
+          "views": 927
+        },
+        {
+          "date": "2023-07-07",
+          "views": 0
+        },
+        {
+          "date": "2023-07-08",
+          "views": 0
+        },
+        {
+          "date": "2023-07-09",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ivan%20Graziani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Ivan_Graziani",
+      "article_url": "https://it.wikipedia.org/wiki/Ivan_Graziani",
+      "description": "cantautore e chitarrista italiano (1945-1997)",
+      "image_filename": "Ivan_Graziani_nel_1981_a_Cervo_Ligure.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a7/Ivan_Graziani_nel_1981_a_Cervo_Ligure.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ivan_Graziani_nel_1981_a_Cervo_Ligure.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "Facebook",
+      "views": 67947,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 10798
+        },
+        {
+          "date": "2023-07-04",
+          "views": 10927
+        },
+        {
+          "date": "2023-07-05",
+          "views": 11212
+        },
+        {
+          "date": "2023-07-06",
+          "views": 9739
+        },
+        {
+          "date": "2023-07-07",
+          "views": 8917
+        },
+        {
+          "date": "2023-07-08",
+          "views": 8242
+        },
+        {
+          "date": "2023-07-09",
+          "views": 8112
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Facebook&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Facebook",
+      "article_url": "https://it.wikipedia.org/wiki/Facebook",
+      "description": "social network",
+      "image_filename": "Screen_of_Facebook_(2).PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/1280px-Screen_of_Facebook_%282%29.PNG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screen_of_Facebook_(2).PNG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Jannik_Sinner",
+      "views": 63676,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 2906
+        },
+        {
+          "date": "2023-07-04",
+          "views": 3129
+        },
+        {
+          "date": "2023-07-05",
+          "views": 9324
+        },
+        {
+          "date": "2023-07-06",
+          "views": 4789
+        },
+        {
+          "date": "2023-07-07",
+          "views": 9922
+        },
+        {
+          "date": "2023-07-08",
+          "views": 6252
+        },
+        {
+          "date": "2023-07-09",
+          "views": 27354
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Jannik_Sinner",
+      "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
+      "description": "tennista italiano (2001-)",
+      "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Ada_D'Adamo",
+      "views": 61562,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 0
+        },
+        {
+          "date": "2023-07-04",
+          "views": 0
+        },
+        {
+          "date": "2023-07-05",
+          "views": 0
+        },
+        {
+          "date": "2023-07-06",
+          "views": 7399
+        },
+        {
+          "date": "2023-07-07",
+          "views": 34557
+        },
+        {
+          "date": "2023-07-08",
+          "views": 14026
+        },
+        {
+          "date": "2023-07-09",
+          "views": 5580
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ada%20D%27Adamo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Ada_D%27Adamo",
+      "article_url": "https://it.wikipedia.org/wiki/Ada_D%27Adamo",
+      "description": "scrittrice e saggista italiana (1967-2023)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Silvio_Berlusconi",
+      "views": 60386,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 3825
+        },
+        {
+          "date": "2023-07-04",
+          "views": 3882
+        },
+        {
+          "date": "2023-07-05",
+          "views": 6015
+        },
+        {
+          "date": "2023-07-06",
+          "views": 19597
+        },
+        {
+          "date": "2023-07-07",
+          "views": 12592
+        },
+        {
+          "date": "2023-07-08",
+          "views": 7724
+        },
+        {
+          "date": "2023-07-09",
+          "views": 6751
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Silvio%20Berlusconi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Silvio_Berlusconi",
+      "article_url": "https://it.wikipedia.org/wiki/Silvio_Berlusconi",
+      "description": "imprenditore e politico italiano (1936\u20132023)",
+      "image_filename": "Silvio_Berlusconi_(2010)_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Silvio_Berlusconi_%282010%29_cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Silvio_Berlusconi_(2010)_cropped.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Myrta_Merlino",
+      "views": 57216,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 4170
+        },
+        {
+          "date": "2023-07-04",
+          "views": 2533
+        },
+        {
+          "date": "2023-07-05",
+          "views": 14218
+        },
+        {
+          "date": "2023-07-06",
+          "views": 15171
+        },
+        {
+          "date": "2023-07-07",
+          "views": 7936
+        },
+        {
+          "date": "2023-07-08",
+          "views": 7163
+        },
+        {
+          "date": "2023-07-09",
+          "views": 6025
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Myrta%20Merlino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Myrta_Merlino",
+      "article_url": "https://it.wikipedia.org/wiki/Myrta_Merlino",
+      "description": "giornalista, conduttrice televisiva e autrice televisiva italiana",
+      "image_filename": "Myrta_Merlino.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Myrta_Merlino.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Myrta_Merlino.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Arnaldo_Forlani",
+      "views": 55758,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 0
+        },
+        {
+          "date": "2023-07-04",
+          "views": 0
+        },
+        {
+          "date": "2023-07-05",
+          "views": 0
+        },
+        {
+          "date": "2023-07-06",
+          "views": 11687
+        },
+        {
+          "date": "2023-07-07",
+          "views": 33008
+        },
+        {
+          "date": "2023-07-08",
+          "views": 8157
+        },
+        {
+          "date": "2023-07-09",
+          "views": 2906
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Arnaldo%20Forlani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Arnaldo_Forlani",
+      "article_url": "https://it.wikipedia.org/wiki/Arnaldo_Forlani",
+      "description": "politico italiano (1925-2023)",
+      "image_filename": "Arnaldo_Forlani_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Arnaldo_Forlani_2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Arnaldo_Forlani_2.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Cristiano_Giuntoli",
+      "views": 55168,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 4928
+        },
+        {
+          "date": "2023-07-04",
+          "views": 7510
+        },
+        {
+          "date": "2023-07-05",
+          "views": 5980
+        },
+        {
+          "date": "2023-07-06",
+          "views": 3896
+        },
+        {
+          "date": "2023-07-07",
+          "views": 21094
+        },
+        {
+          "date": "2023-07-08",
+          "views": 8647
+        },
+        {
+          "date": "2023-07-09",
+          "views": 3113
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Giuntoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Cristiano_Giuntoli",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Giuntoli",
+      "description": "dirigente sportivo e calciatore italiano (1972-)",
+      "image_filename": "Cristiano_Giuntoli_-_Savona_1907_Foot-Ball_Club_2000-01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f8/Cristiano_Giuntoli_-_Savona_1907_Foot-Ball_Club_2000-01.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Giuntoli_-_Savona_1907_Foot-Ball_Club_2000-01.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Toto_Cutugno",
+      "views": 54249,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 1066
+        },
+        {
+          "date": "2023-07-04",
+          "views": 0
+        },
+        {
+          "date": "2023-07-05",
+          "views": 0
+        },
+        {
+          "date": "2023-07-06",
+          "views": 35295
+        },
+        {
+          "date": "2023-07-07",
+          "views": 11627
+        },
+        {
+          "date": "2023-07-08",
+          "views": 4764
+        },
+        {
+          "date": "2023-07-09",
+          "views": 1497
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Toto%20Cutugno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Toto_Cutugno",
+      "article_url": "https://it.wikipedia.org/wiki/Toto_Cutugno",
+      "description": "cantautore, compositore, paroliere e conduttore televisivo italiano (1943-2021)",
+      "image_filename": "Toto_cutugno.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Toto_cutugno.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Toto_cutugno.png",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Italia",
+      "views": 50694,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 7765
+        },
+        {
+          "date": "2023-07-04",
+          "views": 7618
+        },
+        {
+          "date": "2023-07-05",
+          "views": 7052
+        },
+        {
+          "date": "2023-07-06",
+          "views": 7240
+        },
+        {
+          "date": "2023-07-07",
+          "views": 7080
+        },
+        {
+          "date": "2023-07-08",
+          "views": 6848
+        },
+        {
+          "date": "2023-07-09",
+          "views": 7091
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Luka_Romero",
+      "views": 48538,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 1037
+        },
+        {
+          "date": "2023-07-04",
+          "views": 1700
+        },
+        {
+          "date": "2023-07-05",
+          "views": 7684
+        },
+        {
+          "date": "2023-07-06",
+          "views": 21885
+        },
+        {
+          "date": "2023-07-07",
+          "views": 10917
+        },
+        {
+          "date": "2023-07-08",
+          "views": 3214
+        },
+        {
+          "date": "2023-07-09",
+          "views": 2101
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luka%20Romero&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Luka_Romero",
+      "article_url": "https://it.wikipedia.org/wiki/Luka_Romero",
+      "description": "calciatore argentino (2004-)",
+      "image_filename": "Luka_Romero_-_2023_(cropped).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Luka_Romero_-_2023_%28cropped%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luka_Romero_-_2023_(cropped).png",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Pier_Silvio_Berlusconi",
+      "views": 48104,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 977
+        },
+        {
+          "date": "2023-07-04",
+          "views": 1350
+        },
+        {
+          "date": "2023-07-05",
+          "views": 4813
+        },
+        {
+          "date": "2023-07-06",
+          "views": 16030
+        },
+        {
+          "date": "2023-07-07",
+          "views": 10867
+        },
+        {
+          "date": "2023-07-08",
+          "views": 6000
+        },
+        {
+          "date": "2023-07-09",
+          "views": 8067
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pier%20Silvio%20Berlusconi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Pier_Silvio_Berlusconi",
+      "article_url": "https://it.wikipedia.org/wiki/Pier_Silvio_Berlusconi",
+      "description": "imprenditore e dirigente d'azienda italiano (1969-)",
+      "image_filename": "Pier_Silvio_Berlusconi_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pier_Silvio_Berlusconi_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pier_Silvio_Berlusconi_(cropped).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Raffaella_Carr\u00e0",
+      "views": 47044,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 0
+        },
+        {
+          "date": "2023-07-04",
+          "views": 1858
+        },
+        {
+          "date": "2023-07-05",
+          "views": 28326
+        },
+        {
+          "date": "2023-07-06",
+          "views": 6147
+        },
+        {
+          "date": "2023-07-07",
+          "views": 2926
+        },
+        {
+          "date": "2023-07-08",
+          "views": 2111
+        },
+        {
+          "date": "2023-07-09",
+          "views": 5676
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Raffaella%20Carr%C3%A0&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Raffaella_Carr%C3%A0",
+      "article_url": "https://it.wikipedia.org/wiki/Raffaella_Carr%C3%A0",
+      "description": "soubrette, cantante, ballerina, attrice, conduttrice televisiva, autrice televisiva e conduttrice radiofonica italiana (1943-2021)",
+      "image_filename": "Raffaella-carra-2-1384f6-1024.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Raffaella-carra-2-1384f6-1024.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Raffaella-carra-2-1384f6-1024.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Indiana_Jones_e_il_quadrante_del_destino",
+      "views": 46763,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 8469
+        },
+        {
+          "date": "2023-07-04",
+          "views": 5895
+        },
+        {
+          "date": "2023-07-05",
+          "views": 6147
+        },
+        {
+          "date": "2023-07-06",
+          "views": 5425
+        },
+        {
+          "date": "2023-07-07",
+          "views": 5026
+        },
+        {
+          "date": "2023-07-08",
+          "views": 8790
+        },
+        {
+          "date": "2023-07-09",
+          "views": 7011
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Indiana%20Jones%20e%20il%20quadrante%20del%20destino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Indiana_Jones_e_il_quadrante_del_destino",
+      "article_url": "https://it.wikipedia.org/wiki/Indiana_Jones_e_il_quadrante_del_destino",
+      "description": "film del 2023 diretto da James Mangold",
+      "image_filename": "Indiana_Jones_5.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Indiana_Jones_5.png/1280px-Indiana_Jones_5.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Indiana_Jones_5.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Annalisa_(cantante)",
+      "views": 46627,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 8403
+        },
+        {
+          "date": "2023-07-04",
+          "views": 14280
+        },
+        {
+          "date": "2023-07-05",
+          "views": 7415
+        },
+        {
+          "date": "2023-07-06",
+          "views": 4652
+        },
+        {
+          "date": "2023-07-07",
+          "views": 3872
+        },
+        {
+          "date": "2023-07-08",
+          "views": 4021
+        },
+        {
+          "date": "2023-07-09",
+          "views": 3984
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Annalisa%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Annalisa_(cantante)",
+      "article_url": "https://it.wikipedia.org/wiki/Annalisa_(cantante)",
+      "description": "cantautrice italiana (1985-)",
+      "image_filename": "Logo_Annalisa.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_Annalisa.svg/1280px-Logo_Annalisa.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Annalisa.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "The_Witcher_(serie_televisiva)",
+      "views": 44575,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 8592
+        },
+        {
+          "date": "2023-07-04",
+          "views": 7784
+        },
+        {
+          "date": "2023-07-05",
+          "views": 6680
+        },
+        {
+          "date": "2023-07-06",
+          "views": 5868
+        },
+        {
+          "date": "2023-07-07",
+          "views": 4788
+        },
+        {
+          "date": "2023-07-08",
+          "views": 4950
+        },
+        {
+          "date": "2023-07-09",
+          "views": 5913
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Witcher%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=The_Witcher_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Witcher_(serie_televisiva)",
+      "description": "serie televisiva polacco-statunitense del 2019",
+      "image_filename": "The_Witcher_serie_TV.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8a/The_Witcher_serie_TV.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Witcher_serie_TV.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Ignazio_La_Russa",
+      "views": 43402,
+      "daily_views": [
+        {
+          "date": "2023-07-03",
+          "views": 0
+        },
+        {
+          "date": "2023-07-04",
+          "views": 0
+        },
+        {
+          "date": "2023-07-05",
+          "views": 0
+        },
+        {
+          "date": "2023-07-06",
+          "views": 0
+        },
+        {
+          "date": "2023-07-07",
+          "views": 16846
+        },
+        {
+          "date": "2023-07-08",
+          "views": 15895
+        },
+        {
+          "date": "2023-07-09",
+          "views": 10661
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ignazio%20La%20Russa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/03/2023,cd_max:07/09/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-07-03&end=2023-07-09&pages=Ignazio_La_Russa",
+      "article_url": "https://it.wikipedia.org/wiki/Ignazio_La_Russa",
+      "description": "politico italiano (1947-)",
+      "image_filename": "Ignazio_La_Russa_at_Salone_Nautico_Venezia_2025_(3x4_cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Ignazio_La_Russa_at_Salone_Nautico_Venezia_2025_%283x4_cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ignazio_La_Russa_at_Salone_Nautico_Venezia_2025_(3x4_cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

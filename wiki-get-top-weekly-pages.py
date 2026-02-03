@@ -1,468 +1,636 @@
-# encoding=utf8
-import argparse, sys
+#!/usr/bin/env python3
+"""
+Aggregate weekly top pageviews using the Wikimedia REST API.
+"""
 
-reload(sys)
-sys.setdefaultencoding('utf8')
+from __future__ import annotations
 
-import pageviewapi
-import requests
-import json
+import argparse
 import csv
-import operator
-import locale
-import urllib
-from datetime import datetime, timedelta, date
-
-# load from arguments
-
-parser=argparse.ArgumentParser()
-
-parser.add_argument('--week', '-w', help="The year you want to get, numbered", type= int)
-parser.add_argument('--year', '-y', help="The year you want to get", type= int, default= 2019)
-parser.add_argument('--limit', '-l', help="Amount of results", type= int, default= 25)
-parser.add_argument('--thumbnailSize', '-ts', help="Size of thumbnail, in pixels", type= int, default= 80)
-parser.add_argument('--outName', '-o', help="Name of the output file", type= str, default= 'weekly_data')
-parser.add_argument('--format', '-f', help="formats, separated by comma. Possible: csv, json, wikicode", type= str, default= 'wikicode');
-parser.add_argument('--stopwords', '-stop', help="stopwords, separated by comma", type= str, default= '')
-
-args=parser.parse_args()
-print args
-
-#wikicode variables
-w_year = args.year
-w_week = args.week -1
-w_limit = args.limit
-w_thumbsize = args.thumbnailSize
-w_croptemplate = 'Template:Ritaglio_immagine_con_CSS'
-w_gnews_icon = 'Google_News_Logo.png'
-w_stopwords = []#args.stopwords.split(',')
-found_stopwords = []
-
-
-# add saved stopwords
-with open('assets/custom_stopwords.txt', 'r') as f:
-	reader = csv.reader(f, delimiter='\t')
-	for c in list(reader):
-		w_stopwords.append(c[0])
-
-print w_stopwords
-
-#boolean variables to define the type of output
-out_wikicode = False
-out_json = False
-out_csv = False
-out_name = args.outName
-if 'wikicode' in args.format:
-	out_wikicode = True
-if 'json' in args.format:
-	out_json = True
-if 'csv' in args.format:
-	out_csv = True
-
-# FUNCTIONS
-
-# get date range function
-
-def daterange(start_date, end_date):
-	for n in range(int ((end_date - start_date).days + 1)):
-		yield start_date + timedelta(n)
-
-# get thumbnail image given the article name and the project.
-# project: in which language you want the page. Two-letters codes (it, en, pt, es, ...)
-# title: page title. Put the name with spaces or undescores.
-# size: target size of the thumbnail.
-#
-# Example:
-# https://it.wikipedia.org/w/api.php?action=query&titles=Silvio_Berlusconi&prop=pageimages&format=json&pithumbsize=1000
-
-# to get copyright information, we can use a second query, like this:
-# https://commons.wikimedia.org/w/api.php?action=query&titles=File:Silvio_Berlusconi_(2010)_cropped.jpg
-#&prop=imageinfo
-#&iiprop=extmetadata
-#&format=json
-
-# it should be rewrite using the V2 api:
-# https://www.mediawiki.org/wiki/API:Page_info_in_search_results
-
-def getImage(project, title, size):
-
-	baseurl = 'https://'+project+'.org/w/api.php'
-	params = {}
-	params['action'] = 'query'
-	params['titles'] = title
-	params['prop'] = 'pageimages'
-	params['format'] = 'json'
-	params['pithumbsize'] = size
-
-	r = requests.get(baseurl, params = params)
-
-	data = r.json()
-	print 'getting image ' + title
-	#get image license
-	#get page id
-	pageid = data['query']['pages'].keys()[0]
-
-	license = 'none'
-
-	#print json.dumps(data['query']['pages'][pageid], indent=4, sort_keys=True)
-	try:
-		img = {}
-		img['thumbnail'] = data['query']['pages'][pageid]['thumbnail']['source']
-		img['pageimage'] = data['query']['pages'][pageid]['pageimage']
-		img['height'] = data['query']['pages'][pageid]['thumbnail']['height']
-		img['width'] = data['query']['pages'][pageid]['thumbnail']['width']
-		img['pageimage'] = data['query']['pages'][pageid]['pageimage']
-		# now get the license
-		img['license'] = getImageLicense(project, data['query']['pages'][pageid]['pageimage'])
-		print '\t',img['license']['licenseShortName']
-
-		return img
-	except Exception,e: print '\t[image error]',str(e)
-
-def getImageLicense(project, title):
-	#https://en.wikipedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File%3aBrad_Pitt_at_Incirlik2.jpg&format=json
-	#https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Lorenzo_de_Medici.jpg&format=json
-	baseurl = 'https://' + project + '.org/w/api.php'
-	params = {}
-	params['action'] = 'query'
-	params['prop'] = 'imageinfo'
-	params['iiprop'] = 'extmetadata'
-	params['titles'] = 'File:'+title
-	params['format'] = 'json'
-
-	r = requests.get(baseurl, params = params)
-	#print params['titles']
-	data = r.json()
-	print 'getting license for ' + title
-	#print r.url
-
-	#get page id
-	pageid = data['query']['pages'].keys()[0]
-
-	try:
-		results = {}
-		#results['license'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['License']['value']
-		results['licenseShortName'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['LicenseShortName']['value']
-		results['copyrighted'] = data['query']['pages'][pageid]['imageinfo'][0]['extmetadata']['Copyrighted']['value']
-		return results
-	except Exception,e: print '\t[license error]',str(e)
-
-# get text snippet for a page
-# https://www.mediawiki.org/wiki/API:Page_info_in_search_results
-# https://it.wikipedia.org/w/api.php?action=query&formatversion=2&prop=pageterms&titles=Hunger%20Games%20(film)
-def getSnippet(project, title):
-	baseurl = 'https://'+project+'.org/w/api.php'
-	params = {}
-	params['action'] = 'query'
-	params['formatversion'] = '2'
-	params['titles'] = title
-	params['prop'] = 'pageterms'
-	params['format'] = 'json'
-
-	r = requests.get(baseurl, params = params)
-	data = r.json()
-	print 'getting snippet ' + title
-	#print json.dumps(data, indent=4, sort_keys=True)
-
-	try:
-		snippet = data['query']['pages'][0]['terms']['description'][0]
-		return snippet
-	except Exception,e:
-		print '[snippet error]',str(e)
-		return ''
-
-# function to set category
-def setCategory(title):
-	#results
-	result = ''
-	#load categories
-	categories = {}
-	with open('assets/categories.csv', 'r') as f:
-		reader = csv.reader(f, delimiter='\t')
-		for c in list(reader):
-			categories[c[0]] = c[1]
-
-	#load previously categorized pages
-	categorized = {}
-	with open('assets/categorized.csv', 'r') as f:
-		reader = csv.reader(f, delimiter='\t')
-		for c in list(reader):
-			categorized[c[0]] = c[1]
-	#get pages names
-
-	setNewCat = True
-	#check if the title is already categorized
-	if title in categorized:
-		text =  'found ' + title + ' as ' + categorized[title] + ' do you want to keep it? [y/n]'
-		if(raw_input(text) == 'y' or raw_input(text) == ''):
-			setNewCat = False
-			return categories[categorized[title]]
-
-
-	if(setNewCat):
-		#print all the possible values
-		mx = 'Choose category for ' + title + '[' + ', '.join(categories) + ']: '
-		text = ''
-		#ask for imput
-		while text not in categories:
-			text = raw_input(mx)
-			if text not in categories:
-				print '\tnot a category: ', text
-		# add the new categorization
-		categorized[title] = text
-		#save new cat
-		with open('assets/categorized.csv', mode='w') as outFile:
-			writer = csv.writer(outFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-			for c in categorized:
-				writer.writerow([c, categorized[c]])
-		#return the associate code
-		return categories[text]
-
-# generic function to sum statistics of multiple days.
-#
-# project: in which language you want the page. Two-letters codes (it, en, pt, es, ...)
-# startdate: starting date, as datetime object.
-# enddate: ending date, as datetime object.
-# limit: maximum amount of pages you want to get. Max: 1000. Default: 1000.
-# thumbsize: target size of the thumbnail. Default: 1000.
-
-def getSum(project,startdate,enddate,limit=1000, thumbsize=1000):
-
-	#define stopwords
-	stopwords = ['Progetto:','Pagina_principale','Wikipedia:','Aiuto:','Speciale:','Special:','File:','Categoria:','load.php']
-	#add the custom ones
-	#stopwords = stopwords + w_stopwords
-
-	print stopwords
-	#set up the maxvalue var
-
-	maxvalue = 0
-
-	data = dict()
-
-	for date in daterange(startdate,enddate):
-		print date.strftime("%Y-%m-%d")
-		try:
-			results = pageviewapi.top(project, date.year, date.strftime('%m'), date.strftime('%d'), access='all-access')
-			#print json.dumps(results, indent=4, sort_keys=True)
-			for item in results['items'][0]['articles']:
-				if item['article'] in data:
-					data[item['article']] += item['views']
-				else:
-					data[item['article']] = item['views']
-		except:
-			print('impossible to fetch ', date.strftime("%Y-%m-%d"))
-
-	data = sorted(data.items(), key=operator.itemgetter(1), reverse=True)
-
-	articles = []
-	#create an object for each article
-	rank = 1
-	for elm in data:
-		#chech stopwords
-		stop = False
-		for stopword in stopwords:
-			if stopword in elm[0]:
-				stop = True
-				print 'stopped '+ elm[0]
-				break
-		if elm[0] in w_stopwords:
-			stop = True
-			found_stopwords.append(elm[0].replace('_',' '))
-			print '\tfound custom sw: '+elm[0]
-		if not stop:
-			obj = {}
-			obj['title'] = elm[0]
-			obj['pageviews'] = elm[1]
-			obj['rank'] = rank
-			articles.append(obj)
-			rank = rank + 1
-
-	#add imgs and snippet
-	for article in articles[:limit]:
-		article['image'] = getImage('it.wikipedia', article['title'], thumbsize)
-		article['snippet'] = getSnippet(project, article['title'])
-
-	#add pageviews
-	for article in articles[:limit]:
-		print 'loading stats for', article['title'], ' from ', startdate.strftime('%Y%m%d'), ' to ', enddate.strftime('%Y%m%d')
-		raw_stats = pageviewapi.per_article(project, urllib.quote(article['title'].encode('utf8')), startdate.strftime('%Y%m%d'), enddate.strftime('%Y%m%d'), access='all-access', agent='all-agents', granularity='daily')
-		stats = []
-		#parse raw stats
-		#for now it is optimized for the vega code, quite messy.
-		stats.append({})
-		stats[0]['name'] = 'table'
-		stats[0]['values'] = []
-		#print json.dumps(raw_stats, indent=4, sort_keys=True) # check from here error of 6 output
-		for item in raw_stats['items']:
-			item_result = {}
-			item_result['x'] = datetime.strptime(item['timestamp'],"%Y%m%d%M").strftime("%m/%d/%Y")
-			item_result['y'] = item['views']
-			if int(item['views']) > maxvalue:
-				maxvalue = int(item['views'])
-
-			stats[0]['values'].append(item_result)
-
-		print json.dumps(stats, indent=4, sort_keys=True) # check from here error of 6 output
-		article['stats'] = stats
-
-	results = {}
-	results['maxvalue'] = maxvalue
-	results['project'] = project
-	results['startdate'] = startdate.strftime("%Y-%m-%d")
-	results['enddate'] = enddate.strftime("%Y-%m-%d")
-	results['articles'] = articles[:limit]
-
-	return results
-
-# function to get the sum for a specific week (monday-sunday).
-#
-# project: in which language you want the page. Two-letters codes (it, en, pt, es, ...)
-# year: target year, as four-digit number.
-# week: week number (from 0 to 51).
-# limit: maximum amount of pages you want to get. Max: 1000. Default: 1000.
-# thumbsize: target size of the thumbnail. Default: 1000.
-
-def getWeekList(project, year, week,limit=1000,thumbsize=1000):
-	startdate = datetime.strptime(str(year)+'-'+str(week)+'-0', '%Y-%W-%w') + timedelta(days=1)
-	enddate = startdate + timedelta(days=6)
-
-	results = getSum(project, startdate, enddate, limit, thumbsize)
-	return results
-
-#end of functions. main code below.
-
-#save wikicode
-if out_wikicode == True:
-
-	#get data
-	query = getWeekList('it.wikipedia', w_year, w_week-1, w_limit, None)
-
-	#initialize the page
-	wikicode = '{{Utente:Mikima/Top25/Template:Anni|settimana='+str(w_week)+'}}\n\n'
-
-	wikicode += '← [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week-1) + '|Settimana precedente]] – [[Utente:Mikima/Top25/' + str(w_year) + '-' + str(w_week+1) + '|Settimana successiva]] →\n\n'
-	# create the string
-	italianMonths = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"]
-	# decode dates
-	date_st = datetime.strptime(query['startdate'],"%Y-%m-%d")
-	date_ed = datetime.strptime(query['enddate'],"%Y-%m-%d")
-	# encode dates
-	st_day = int(date_st.strftime("%e"))
-	ed_day = int(date_ed.strftime("%e"))
-	st_month = italianMonths[int(date_st.strftime("%m"))-1]
-	ed_month = italianMonths[int(date_ed.strftime("%m"))-1]
-	st_year = date_st.strftime("%Y")
-	ed_year = date_ed.strftime("%Y")
-	if ( st_month == ed_month):
-		#same month
- 		wikicode += 'Settimana dal ' + str(st_day) + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\n\n'
-	else:
-		#different month
-		wikicode += 'Settimana dal ' + str(st_day) + ' ' + st_month + ' al ' + str(ed_day) + ' ' + ed_month + ' ' + ed_year + '\n\n'
-	# add filtered pages
-	#create table
-	wikicode += '{| class="wikitable sortable"\n!Posizione\n!Articolo\n!News\n!Giornaliero\n!Visite\n!Immagine\n!Descrizione\n'
-	for item in query['articles']:
-		rank = str(item['rank'])
-		title = item['title'].replace('_',' ')
-		pageviews = "{:,}".format(item['pageviews']).replace(',','.')
-		image = ''
-		date_st = datetime.strptime(query['startdate'],"%Y-%m-%d")
-		date_ed = datetime.strptime(query['enddate'],"%Y-%m-%d")
-		proj = query['project']
-		google_news = '[' + 'https://www.google.it/search?q=' + item['title'].encode('utf-8').replace("_","%20") + '&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:' + date_st.strftime("%m/%d/%Y") + ',cd_max:' + date_ed.strftime("%m/%d/%Y") + '&tbm=nws' + ' ' + item['title'].encode('utf-8').replace("_"," ") +' su Google News]'
-		wmf_tools = '[https://tools.wmflabs.org/pageviews/?project=' + proj + '.org&platform=all-access&agent=user&start=' + date_st.strftime("%Y-%m-%d") + '&end=' + date_ed.strftime("%Y-%m-%d") + '&pages=' + item['title'].encode('utf-8') + ' vedi dati]'
-		w_chart = '<graph>{"width":100,"height":42,"padding":{"top":0,"left":0,"bottom":0,"right":0},"data":' + json.dumps(item['stats']) + ',"scales":[{"name":"x","type":"ordinal","range":"width","domain":{"data":"table","field":"x"}},{"name":"y","type":"linear","range":"height","domain":[0,' + str(query['maxvalue']) + '],"nice":true}],"marks":[{"type":"rect","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"x"},"width":{"scale":"x","band":true,"offset":-0.5},"y":{"scale":"y","field":"y"},"y2":{"scale":"y","value":0}},"update":{"fill":{"value":"steelblue"}},"hover":{"fill":{"value":"red"}}}}]}</graph>'
-		snippet = ''
-		if item['snippet'] != '':
-			snippet = "''"+item['snippet']+"'' (descrizione automatica)"
-
-		image = ''
-
-		if item['image'] is not None:
-			#print item['image']['license']['licenseShortName']
-			if item['image']['license']['licenseShortName'] != 'Copyrighted' and item['image']['license']['licenseShortName'] != 'Marchio':
-				print '\t license accettable:', item['image']['license']['licenseShortName']
-				try:
-					#print item['image']['pageimage'], item['image']['width'], item['image']['height']
-					bsize = 0
-					oleft = 0
-					otop = 0
-
-					#check which side is bigger
-					if item['image']['height'] > item['image']['width'] :
-						bsize = w_thumbsize
-						hsize = int((item['image']['height']+ 0.0) / (item['image']['width'] + 0.0) * w_thumbsize)
-						otop = int((hsize - w_thumbsize)/2)
-					else:
-
-						bsize = int((item['image']['width']+ 0.0) / (item['image']['height'] + 0.0) * w_thumbsize)
-						oleft = int((bsize - w_thumbsize)/2)
-						#print 'bsize: ', bsize, ' oleft: ', oleft
-
-					#prepare code for image
-					image = '{{' + w_croptemplate + '|oLeft = ' +str(oleft)+ '|oTop = ' + str(otop) + '|bSize = ' + str(bsize) + '|cWidth = ' + str(w_thumbsize) + '|cHeight = ' + str(w_thumbsize) + '|Image = ' + item['image']['pageimage'] + '}}'
-				except Exception as e:
-					print '\t[thumb creation error]',str(e)
-
-		if image == '':
-			#since no image is available, use categories
-			image = setCategory(item['title'])
-
-		wikicode += '|-\n!'+ rank + '\n|[['+ title +']]\n|'+ google_news +'\n|'+ w_chart + '\n\n' + wmf_tools +'\n|'+ pageviews +'\n|'+ image +'\n|'+snippet+'\n'
-
-	#close table
-	wikicode += '|}'
-	#add filtered
-	wikicode += 'Pagine filtrate: [[' + ']], [['.join(found_stopwords) + ']]\n\n'
-
-	#save txt
-	text_file = open(out_name + ".txt", "w")
-	text_file.write(wikicode.encode('utf8'))
-	text_file.close()
-
-#save json and csv file
-
-if out_json == True | out_csv == True:
-
-	#variables
-	jsonobj = {}
-	jsonobj['results'] = []
-
-	#get data
-	query = getWeekList('it.wikipedia', w_year, w_week-1, w_limit)
-	query['week_number'] = w_week
-	jsonobj['results'].append(query)
-
-
-	#print json.dumps(jsonobj, indent=4, sort_keys=True)
-	if out_json == True:
-		with open(out_name + '.json', 'w') as outfile:
-			json.dump(jsonobj, outfile)
-
-	# Save CSV
-	if out_csv == True:
-		#create csv file
-		ofile  = open(out_name + '.csv', "wb")
-		writer = csv.writer(ofile, delimiter='\t', quotechar='"')
-		writer.writerow(['Start Date','End Date','Rank','Image','Link', 'Title', 'Google News', 'WMF tools','Pageviews'])
-
-		for item in jsonobj['results']:
-
-			date_st = datetime.strptime(item['startdate'],"%Y-%m-%d")
-			date_ed = datetime.strptime(item['enddate'],"%Y-%m-%d")
-			print date_st, date_ed
-			proj = item['project']
-			for article in item['articles']:
-				print article
-				link = "https://" + proj + ".org/wiki/" + article['title']
-				imgurl = ''
-				try:
-					imgurl = article['image']['thumbnail']
-				except:
-					imgurl = ''
-
-				google_news = 'https://www.google.it/search?q=' + article['title'].encode('utf-8').replace("_"," ") + '&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:' + date_st.strftime("%m/%d/%Y") + ',cd_max:' + date_ed.strftime("%m/%d/%Y") + '&tbm=nws'
-				wmf_tools = 'https://tools.wmflabs.org/pageviews/?project=' + proj + '.org&platform=all-access&agent=user&start=' + date_st.strftime("%Y-%m-%d") + '&end=' + date_ed.strftime("%Y-%m-%d") + '&pages=' + article['title'].encode('utf-8')
-				writer.writerow([item['startdate'],item['enddate'], article['rank'] , imgurl, link.encode('utf-8'), article['title'].encode('utf-8').replace("_"," "), google_news, wmf_tools, article['pageviews']])
+import json
+import sys
+from collections import defaultdict
+from datetime import date, timedelta
+from pathlib import Path
+from typing import Dict, Iterable, List, Optional, Tuple
+from urllib.parse import quote
+
+import requests
+
+API_BASE = "https://wikimedia.org/api/rest_v1/metrics/pageviews/top"
+DEFAULT_PROJECT = "it.wikipedia"
+DEFAULT_ACCESS = "all-access"
+DEFAULT_USER_AGENT = (
+    "it-wiki-top25-weekly/2.0 "
+    "(https://github.com/michelemauri/it-wiki-top25-weekly)"
+)
+COMMONS_API_URL = "https://commons.wikimedia.org/w/api.php"
+MAX_TITLES_PER_REQUEST = 50
+STOPWORD_PREFIXES = (
+    "Progetto:",
+    "Wikipedia:",
+    "Aiuto:",
+    "Speciale:",
+    "Special:",
+    "File:",
+    "Categoria:",
+)
+STOPWORD_TITLES = (
+    "Pagina_principale",
+    "load.php",
+)
+
+
+def render_progress(prefix: str, current: int, total: int, width: int = 28) -> None:
+    if total <= 0:
+        return
+    ratio = min(max(current / total, 0.0), 1.0)
+    filled = int(width * ratio)
+    bar = "#" * filled + "-" * (width - filled)
+    suffix = "\n" if current >= total else "\r"
+    message = f"{prefix} [{bar}] {current}/{total}"
+    print(message, end=suffix, file=sys.stderr, flush=True)
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description=(
+            "Aggregate daily top pageviews into a weekly ranking using the "
+            "Wikimedia REST API."
+        )
+    )
+    parser.add_argument("--year", type=int, required=True, help="ISO year")
+    parser.add_argument("--week", type=int, required=True, help="ISO week number (1-53)")
+    parser.add_argument(
+        "--project",
+        type=str,
+        default=DEFAULT_PROJECT,
+        help="Wikimedia project, e.g. it.wikipedia",
+    )
+    parser.add_argument(
+        "--access",
+        type=str,
+        default=DEFAULT_ACCESS,
+        help="Access type (all-access, desktop, mobile-app, mobile-web)",
+    )
+    parser.add_argument(
+        "--limit",
+        "--top",
+        "-l",
+        type=int,
+        default=1000,
+        help="Limit the number of ranked articles in the output (e.g. top 30)",
+    )
+    parser.add_argument(
+        "--exclude-special-pages",
+        action="store_true",
+        dest="exclude_stopwords",
+        help="Exclude stopwords like Pagina_principale or Speciale:",
+    )
+    parser.add_argument(
+        "--exclude-stopwords",
+        action="store_true",
+        dest="exclude_stopwords",
+        help=(
+            "Exclude stopwords: Pagina_principale, load.php, and titles starting "
+            "with Progetto:, Wikipedia:, Aiuto:, Speciale:, Special:, File:, "
+            "Categoria:"
+        ),
+    )
+    parser.add_argument(
+        "--format",
+        type=str,
+        choices=("json", "csv"),
+        default="json",
+        help="Output format",
+    )
+    parser.add_argument(
+        "--thumbsize",
+        type=int,
+        default=1000,
+        help="Thumbnail size in pixels for pageimages",
+    )
+    parser.add_argument(
+        "--output",
+        "-o",
+        type=str,
+        default=None,
+        help="Output file path, use '-' for stdout",
+    )
+    parser.add_argument(
+        "--json-dir",
+        type=str,
+        default="docs/json",
+        help="Default output directory for JSON files when --format json is used",
+    )
+    parser.add_argument(
+        "--raw-json-dir",
+        type=str,
+        default="docs/rawjson",
+        help="Output directory for full weekly ranking JSON (before enrichment/limit)",
+    )
+    parser.add_argument(
+        "--user-agent",
+        type=str,
+        default=DEFAULT_USER_AGENT,
+        help="User-Agent header for API requests",
+    )
+    parser.add_argument(
+        "--timeout",
+        type=float,
+        default=30.0,
+        help="Request timeout in seconds",
+    )
+    return parser.parse_args()
+
+
+def week_dates(year: int, week: int) -> Tuple[date, date, List[date]]:
+    start = date.fromisocalendar(year, week, 1)
+    days = [start + timedelta(days=offset) for offset in range(7)]
+    end = days[-1]
+    return start, end, days
+
+
+def fetch_daily_top(
+    session: requests.Session,
+    project: str,
+    access: str,
+    day: date,
+    timeout: float,
+) -> List[Dict[str, object]]:
+    url = f"{API_BASE}/{project}/{access}/{day:%Y/%m/%d}"
+    try:
+        response = session.get(url, timeout=timeout)
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        raise RuntimeError(f"Request failed for {day.isoformat()}: {exc}") from exc
+
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        raise RuntimeError(f"Invalid JSON for {day.isoformat()}") from exc
+
+    items = payload.get("items")
+    if not items or "articles" not in items[0]:
+        raise RuntimeError(f"Unexpected response for {day.isoformat()}")
+
+    return items[0]["articles"]
+
+
+def aggregate_weekly(daily_lists: Iterable[List[Dict[str, object]]]) -> Dict[str, int]:
+    totals: Dict[str, int] = defaultdict(int)
+    for daily in daily_lists:
+        for entry in daily:
+            article = entry.get("article")
+            if not article:
+                continue
+            try:
+                views = int(entry.get("views", 0))
+            except (TypeError, ValueError):
+                continue
+            totals[str(article)] += views
+    return totals
+
+
+def build_day_maps(daily_lists: Iterable[List[Dict[str, object]]]) -> List[Dict[str, int]]:
+    day_maps: List[Dict[str, int]] = []
+    for daily in daily_lists:
+        day_map: Dict[str, int] = {}
+        for entry in daily:
+            article = entry.get("article")
+            if not article:
+                continue
+            try:
+                views = int(entry.get("views", 0))
+            except (TypeError, ValueError):
+                continue
+            title = str(article)
+            day_map[title] = views
+            day_map[title.replace(" ", "_")] = views
+            day_map[title.replace("_", " ")] = views
+        day_maps.append(day_map)
+    return day_maps
+
+
+def rank_articles(totals: Dict[str, int], limit: int) -> List[Dict[str, object]]:
+    ranked = sorted(totals.items(), key=lambda item: item[1], reverse=True)
+    if limit:
+        ranked = ranked[:limit]
+    return [
+        {"rank": index + 1, "article": article, "views": views}
+        for index, (article, views) in enumerate(ranked)
+    ]
+
+
+def google_news_url(title: str, start_date: date, end_date: date) -> str:
+    query = quote(title.replace("_", " "))
+    start = start_date.strftime("%m/%d/%Y")
+    end = end_date.strftime("%m/%d/%Y")
+    return (
+        "https://www.google.it/search?q="
+        f"{query}&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:{start}"
+        f",cd_max:{end}&tbm=nws"
+    )
+
+
+def article_url(title: str, project: str) -> str:
+    if project.endswith(".org"):
+        base = f"https://{project}/wiki/"
+    else:
+        base = f"https://{project}.org/wiki/"
+    page = quote(title.replace(" ", "_"), safe="_.-()")
+    return base + page
+
+
+def pageviews_url(
+    title: str, project: str, platform: str, start_date: date, end_date: date
+) -> str:
+    if project.endswith(".org"):
+        project_param = project
+    else:
+        project_param = f"{project}.org"
+    page = quote(title.replace(" ", "_"), safe="_.-()")
+    return (
+        "https://pageviews.wmcloud.org/"
+        f"?project={project_param}&platform={platform}&agent=user&redirects=0"
+        f"&start={start_date.isoformat()}&end={end_date.isoformat()}"
+        f"&pages={page}"
+    )
+
+
+def commons_file_url(filename: str) -> str:
+    if not filename:
+        return ""
+    normalized = filename.replace(" ", "_")
+    return "https://commons.wikimedia.org/wiki/File:" + quote(
+        normalized, safe="_.-()"
+    )
+
+
+def is_excluded_title(title: str) -> bool:
+    normalized = title.replace(" ", "_")
+    if normalized in STOPWORD_TITLES:
+        return True
+    return normalized.startswith(STOPWORD_PREFIXES)
+
+
+def filter_totals(totals: Dict[str, int]) -> Dict[str, int]:
+    return {
+        title: views
+        for title, views in totals.items()
+        if not is_excluded_title(title)
+    }
+
+
+def chunked(values: List[str], size: int) -> Iterable[List[str]]:
+    for offset in range(0, len(values), size):
+        yield values[offset : offset + size]
+
+
+def project_api_url(project: str) -> str:
+    if project.endswith(".org"):
+        return f"https://{project}/w/api.php"
+    return f"https://{project}.org/w/api.php"
+
+
+def fetch_descriptions(
+    session: requests.Session,
+    project: str,
+    titles: List[str],
+    timeout: float,
+) -> Dict[str, str]:
+    if not titles:
+        return {}
+
+    api_url = project_api_url(project)
+
+    descriptions: Dict[str, str] = {}
+    total_batches = (len(titles) + MAX_TITLES_PER_REQUEST - 1) // MAX_TITLES_PER_REQUEST
+    batch_index = 0
+    for batch in chunked(titles, MAX_TITLES_PER_REQUEST):
+        batch_index += 1
+        render_progress("Descriptions", batch_index, total_batches)
+        params = {
+            "action": "query",
+            "format": "json",
+            "formatversion": "2",
+            "prop": "pageterms",
+            "titles": "|".join(batch),
+        }
+        try:
+            response = session.get(api_url, params=params, timeout=timeout)
+            response.raise_for_status()
+        except requests.RequestException as exc:
+            raise RuntimeError(f"Description request failed: {exc}") from exc
+
+        payload = response.json()
+        pages = payload.get("query", {}).get("pages", [])
+        for page in pages:
+            title = page.get("title")
+            if not title:
+                continue
+            description = ""
+            terms = page.get("terms", {})
+            if "description" in terms and terms["description"]:
+                description = str(terms["description"][0])
+            descriptions[title] = description
+            descriptions[title.replace(" ", "_")] = description
+
+    return descriptions
+
+
+def fetch_pageimages(
+    session: requests.Session,
+    project: str,
+    titles: List[str],
+    thumbsize: int,
+    timeout: float,
+) -> Dict[str, Dict[str, str]]:
+    if not titles:
+        return {}
+
+    api_url = project_api_url(project)
+    images: Dict[str, Dict[str, str]] = {}
+    total_batches = (len(titles) + MAX_TITLES_PER_REQUEST - 1) // MAX_TITLES_PER_REQUEST
+    batch_index = 0
+    for batch in chunked(titles, MAX_TITLES_PER_REQUEST):
+        batch_index += 1
+        render_progress("Page images", batch_index, total_batches)
+        params = {
+            "action": "query",
+            "format": "json",
+            "prop": "pageimages",
+            "piprop": "thumbnail|name",
+            "pithumbsize": str(thumbsize),
+            "titles": "|".join(batch),
+        }
+        try:
+            response = session.get(api_url, params=params, timeout=timeout)
+            response.raise_for_status()
+        except requests.RequestException as exc:
+            raise RuntimeError(f"Pageimage request failed: {exc}") from exc
+
+        payload = response.json()
+        pages = payload.get("query", {}).get("pages", {})
+        for page in pages.values():
+            title = page.get("title")
+            if not title:
+                continue
+            pageimage = page.get("pageimage", "")
+            thumbnail = page.get("thumbnail", {})
+            source = thumbnail.get("source", "")
+            record = {
+                "image_filename": str(pageimage) if pageimage else "",
+                "image_url": str(source) if source else "",
+            }
+            images[title] = record
+            images[title.replace(" ", "_")] = record
+
+    return images
+
+
+def fetch_image_licenses(
+    session: requests.Session,
+    filenames: List[str],
+    timeout: float,
+) -> Dict[str, Dict[str, str]]:
+    if not filenames:
+        return {}
+
+    licenses: Dict[str, Dict[str, str]] = {}
+    total_batches = (len(filenames) + MAX_TITLES_PER_REQUEST - 1) // MAX_TITLES_PER_REQUEST
+    batch_index = 0
+    for batch in chunked(filenames, MAX_TITLES_PER_REQUEST):
+        batch_index += 1
+        render_progress("Image licenses", batch_index, total_batches)
+        titles = [f"File:{name}" for name in batch if name]
+        if not titles:
+            continue
+        params = {
+            "action": "query",
+            "format": "json",
+            "prop": "imageinfo",
+            "iiprop": "extmetadata",
+            "titles": "|".join(titles),
+        }
+        try:
+            response = session.get(COMMONS_API_URL, params=params, timeout=timeout)
+            response.raise_for_status()
+        except requests.RequestException as exc:
+            raise RuntimeError(f"License request failed: {exc}") from exc
+
+        payload = response.json()
+        pages = payload.get("query", {}).get("pages", {})
+        for page in pages.values():
+            title = page.get("title", "")
+            if not title.startswith("File:"):
+                continue
+            filename = title.replace("File:", "", 1)
+            imageinfo = page.get("imageinfo", [])
+            if not imageinfo:
+                continue
+            metadata = imageinfo[0].get("extmetadata", {})
+            license_short = metadata.get("LicenseShortName", {}).get("value", "")
+            copyrighted = metadata.get("Copyrighted", {}).get("value", "")
+            license_data = {
+                "image_license": str(license_short),
+                "image_copyrighted": str(copyrighted),
+            }
+            licenses[filename] = license_data
+            licenses[filename.replace(" ", "_")] = license_data
+            licenses[filename.replace("_", " ")] = license_data
+
+    return licenses
+
+
+def resolve_output_path(
+    fmt: str, output: Optional[str], year: int, week: int, json_dir: str
+) -> Optional[str]:
+    if output == "-":
+        return None
+    if output:
+        return output
+    if fmt == "json":
+        output_dir = Path(json_dir)
+        output_dir.mkdir(parents=True, exist_ok=True)
+        return str(output_dir / f"{year}-{week:02d}.json")
+    return f"weekly_data.{fmt}"
+
+
+def resolve_raw_output_path(raw_json_dir: str, year: int, week: int) -> str:
+    output_dir = Path(raw_json_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    return str(output_dir / f"{year}-{week:02d}.json")
+
+
+def write_json(data: Dict[str, object], output_path: Optional[str]) -> None:
+    if output_path:
+        with open(output_path, "w", encoding="utf-8") as handle:
+            json.dump(data, handle, indent=2)
+            handle.write("\n")
+        return
+
+    json.dump(data, sys.stdout, indent=2)
+    sys.stdout.write("\n")
+
+
+def write_csv(rows: List[Dict[str, object]], output_path: Optional[str]) -> None:
+    if output_path:
+        handle = open(output_path, "w", encoding="utf-8", newline="")
+        close_handle = True
+    else:
+        handle = sys.stdout
+        close_handle = False
+
+    writer = csv.DictWriter(
+        handle,
+        fieldnames=[
+            "rank",
+            "article",
+            "views",
+            "description",
+            "daily_views",
+            "google_news_url",
+            "pageviews_url",
+            "article_url",
+            "image_filename",
+            "image_url",
+            "image_commons_url",
+            "image_license",
+            "image_copyrighted",
+        ],
+    )
+    writer.writeheader()
+    rows_to_write = []
+    for row in rows:
+        row_copy = dict(row)
+        if isinstance(row_copy.get("daily_views"), list):
+            row_copy["daily_views"] = json.dumps(row_copy["daily_views"])
+        rows_to_write.append(row_copy)
+    writer.writerows(rows_to_write)
+
+    if close_handle:
+        handle.close()
+
+
+def main() -> int:
+    args = parse_args()
+
+    try:
+        start_date, end_date, days = week_dates(args.year, args.week)
+    except ValueError as exc:
+        print(f"Invalid year/week: {exc}", file=sys.stderr)
+        return 2
+
+    output_path = resolve_output_path(
+        args.format, args.output, args.year, args.week, args.json_dir
+    )
+
+    session = requests.Session()
+    session.headers.update({"User-Agent": args.user_agent})
+
+    daily_lists: List[List[Dict[str, object]]] = []
+    total_days = len(days)
+    for index, day in enumerate(days, start=1):
+        render_progress("Daily top pages", index, total_days)
+        daily_lists.append(
+            fetch_daily_top(session, args.project, args.access, day, args.timeout)
+        )
+    day_maps = build_day_maps(daily_lists)
+
+    totals = aggregate_weekly(daily_lists)
+    if args.exclude_stopwords:
+        totals = filter_totals(totals)
+    ranked_all = rank_articles(totals, 0)
+    ranked = rank_articles(totals, args.limit)
+    descriptions = fetch_descriptions(
+        session, args.project, [item["article"] for item in ranked], args.timeout
+    )
+    for item in ranked:
+        article = str(item["article"])
+        daily_views = []
+        for day, day_map in zip(days, day_maps):
+            daily_views.append(
+                {"date": day.isoformat(), "views": day_map.get(article, 0)}
+            )
+        item["daily_views"] = daily_views
+        item["google_news_url"] = google_news_url(article, start_date, end_date)
+        item["pageviews_url"] = pageviews_url(
+            article, args.project, args.access, start_date, end_date
+        )
+        item["article_url"] = article_url(article, args.project)
+        description = descriptions.get(article)
+        if description is None:
+            description = descriptions.get(article.replace("_", " "), "")
+        item["description"] = description
+        item["image_filename"] = ""
+        item["image_url"] = ""
+        item["image_commons_url"] = ""
+        item["image_license"] = ""
+        item["image_copyrighted"] = ""
+
+    pageimages = fetch_pageimages(
+        session,
+        args.project,
+        [item["article"] for item in ranked],
+        args.thumbsize,
+        args.timeout,
+    )
+    image_filenames = []
+    for item in ranked:
+        article = str(item["article"])
+        image = pageimages.get(article)
+        if image is None:
+            image = pageimages.get(article.replace("_", " "), {})
+        if image:
+            item["image_filename"] = image.get("image_filename", "")
+            item["image_url"] = image.get("image_url", "")
+            item["image_commons_url"] = commons_file_url(item["image_filename"])
+            if item["image_filename"]:
+                image_filenames.append(item["image_filename"])
+
+    licenses = fetch_image_licenses(session, image_filenames, args.timeout)
+    for item in ranked:
+        filename = item.get("image_filename", "")
+        if not filename:
+            continue
+        license_info = licenses.get(filename, {})
+        item["image_license"] = license_info.get("image_license", "")
+        item["image_copyrighted"] = license_info.get("image_copyrighted", "")
+
+    output_data = {
+        "project": args.project,
+        "access": args.access,
+        "year": args.year,
+        "week": args.week,
+        "start_date": start_date.isoformat(),
+        "end_date": end_date.isoformat(),
+        "days": [day.isoformat() for day in days],
+        "total_articles": len(totals),
+        "articles": ranked,
+    }
+
+    raw_output_data = {
+        "project": args.project,
+        "access": args.access,
+        "year": args.year,
+        "week": args.week,
+        "start_date": start_date.isoformat(),
+        "end_date": end_date.isoformat(),
+        "days": [day.isoformat() for day in days],
+        "total_articles": len(totals),
+        "articles": ranked_all,
+    }
+
+    if args.format == "json":
+        raw_output_path = resolve_raw_output_path(args.raw_json_dir, args.year, args.week)
+        write_json(raw_output_data, raw_output_path)
+        write_json(output_data, output_path)
+    else:
+        write_csv(ranked, output_path)
+
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

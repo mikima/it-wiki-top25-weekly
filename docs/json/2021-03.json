@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2021,
+  "week": 3,
+  "start_date": "2021-01-18",
+  "end_date": "2021-01-24",
+  "days": [
+    "2021-01-18",
+    "2021-01-19",
+    "2021-01-20",
+    "2021-01-21",
+    "2021-01-22",
+    "2021-01-23",
+    "2021-01-24"
+  ],
+  "total_articles": 2716,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Joe_Biden",
+      "views": 247658,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 5110
+        },
+        {
+          "date": "2021-01-19",
+          "views": 7944
+        },
+        {
+          "date": "2021-01-20",
+          "views": 118681
+        },
+        {
+          "date": "2021-01-21",
+          "views": 63732
+        },
+        {
+          "date": "2021-01-22",
+          "views": 24849
+        },
+        {
+          "date": "2021-01-23",
+          "views": 15754
+        },
+        {
+          "date": "2021-01-24",
+          "views": 11588
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Joe%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Joe_Biden",
+      "article_url": "https://it.wikipedia.org/wiki/Joe_Biden",
+      "description": "politico statunitense (1942\u2013), 46\u00ba presidente degli Stati Uniti d'America (2021\u20132025)",
+      "image_filename": "Joe_Biden_presidential_portrait.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1280px-Joe_Biden_presidential_portrait.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Lello_Ciampolillo",
+      "views": 234629,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 0
+        },
+        {
+          "date": "2021-01-19",
+          "views": 117963
+        },
+        {
+          "date": "2021-01-20",
+          "views": 68890
+        },
+        {
+          "date": "2021-01-21",
+          "views": 23605
+        },
+        {
+          "date": "2021-01-22",
+          "views": 11926
+        },
+        {
+          "date": "2021-01-23",
+          "views": 6769
+        },
+        {
+          "date": "2021-01-24",
+          "views": 5476
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lello%20Ciampolillo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Lello_Ciampolillo",
+      "article_url": "https://it.wikipedia.org/wiki/Lello_Ciampolillo",
+      "description": "politico italiano",
+      "image_filename": "Lello_Ciampolillo_datisenato_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Lello_Ciampolillo_datisenato_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lello_Ciampolillo_datisenato_2018.jpg",
+      "image_license": "CC BY 3.0 it",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Mario_Mand\u017euki\u0107",
+      "views": 190852,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 53458
+        },
+        {
+          "date": "2021-01-19",
+          "views": 64266
+        },
+        {
+          "date": "2021-01-20",
+          "views": 22024
+        },
+        {
+          "date": "2021-01-21",
+          "views": 17350
+        },
+        {
+          "date": "2021-01-22",
+          "views": 12005
+        },
+        {
+          "date": "2021-01-23",
+          "views": 14397
+        },
+        {
+          "date": "2021-01-24",
+          "views": 7352
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mario%20Mand%C5%BEuki%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Mario_Mand%C5%BEuki%C4%87",
+      "article_url": "https://it.wikipedia.org/wiki/Mario_Mand%C5%BEuki%C4%87",
+      "description": "calciatore croato",
+      "image_filename": "Mario_Mand\u017euki\u0107_in_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mario_Mand%C5%BEuki%C4%87_in_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mario_Mand%C5%BEuki%C4%87_in_2018.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Mina_Settembre",
+      "views": 168624,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 76208
+        },
+        {
+          "date": "2021-01-19",
+          "views": 31955
+        },
+        {
+          "date": "2021-01-20",
+          "views": 11538
+        },
+        {
+          "date": "2021-01-21",
+          "views": 5854
+        },
+        {
+          "date": "2021-01-22",
+          "views": 3033
+        },
+        {
+          "date": "2021-01-23",
+          "views": 5060
+        },
+        {
+          "date": "2021-01-24",
+          "views": 34976
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mina%20Settembre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Mina_Settembre",
+      "article_url": "https://it.wikipedia.org/wiki/Mina_Settembre",
+      "description": "serie televisiva italiana del 2021",
+      "image_filename": "Mina_Settembre.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a9/Mina_Settembre.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mina_Settembre.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Kamala_Harris",
+      "views": 150983,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 2132
+        },
+        {
+          "date": "2021-01-19",
+          "views": 2457
+        },
+        {
+          "date": "2021-01-20",
+          "views": 63055
+        },
+        {
+          "date": "2021-01-21",
+          "views": 46897
+        },
+        {
+          "date": "2021-01-22",
+          "views": 16921
+        },
+        {
+          "date": "2021-01-23",
+          "views": 10839
+        },
+        {
+          "date": "2021-01-24",
+          "views": 8682
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kamala%20Harris&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Kamala_Harris",
+      "article_url": "https://it.wikipedia.org/wiki/Kamala_Harris",
+      "description": "procuratrice e politica statunitense",
+      "image_filename": "Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/1280px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Fate_-_The_Winx_Saga",
+      "views": 139983,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 0
+        },
+        {
+          "date": "2021-01-19",
+          "views": 2933
+        },
+        {
+          "date": "2021-01-20",
+          "views": 2612
+        },
+        {
+          "date": "2021-01-21",
+          "views": 3129
+        },
+        {
+          "date": "2021-01-22",
+          "views": 38672
+        },
+        {
+          "date": "2021-01-23",
+          "views": 46487
+        },
+        {
+          "date": "2021-01-24",
+          "views": 46150
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fate%20-%20The%20Winx%20Saga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Fate_-_The_Winx_Saga",
+      "article_url": "https://it.wikipedia.org/wiki/Fate_-_The_Winx_Saga",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Can_Yaman",
+      "views": 135623,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 3040
+        },
+        {
+          "date": "2021-01-19",
+          "views": 3670
+        },
+        {
+          "date": "2021-01-20",
+          "views": 2923
+        },
+        {
+          "date": "2021-01-21",
+          "views": 4881
+        },
+        {
+          "date": "2021-01-22",
+          "views": 3607
+        },
+        {
+          "date": "2021-01-23",
+          "views": 91716
+        },
+        {
+          "date": "2021-01-24",
+          "views": 25786
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Can%20Yaman&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Can_Yaman",
+      "article_url": "https://it.wikipedia.org/wiki/Can_Yaman",
+      "description": "attore e modello turco (1989-)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Liliana_Segre",
+      "views": 127955,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 12454
+        },
+        {
+          "date": "2021-01-19",
+          "views": 44401
+        },
+        {
+          "date": "2021-01-20",
+          "views": 25209
+        },
+        {
+          "date": "2021-01-21",
+          "views": 12553
+        },
+        {
+          "date": "2021-01-22",
+          "views": 8686
+        },
+        {
+          "date": "2021-01-23",
+          "views": 9989
+        },
+        {
+          "date": "2021-01-24",
+          "views": 14663
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Liliana%20Segre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Liliana_Segre",
+      "article_url": "https://it.wikipedia.org/wiki/Liliana_Segre",
+      "description": "antifascista e politica italiana, superstite dell'Olocausto e testimone attiva della Shoah (1930-)",
+      "image_filename": "Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Liliana_Segre_%28XVIII_Legislatura_Senato%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
+      "image_license": "CC BY 1.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Mariarosaria_Rossi",
+      "views": 127951,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 0
+        },
+        {
+          "date": "2021-01-19",
+          "views": 43878
+        },
+        {
+          "date": "2021-01-20",
+          "views": 47691
+        },
+        {
+          "date": "2021-01-21",
+          "views": 20380
+        },
+        {
+          "date": "2021-01-22",
+          "views": 6754
+        },
+        {
+          "date": "2021-01-23",
+          "views": 5441
+        },
+        {
+          "date": "2021-01-24",
+          "views": 3807
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mariarosaria%20Rossi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Mariarosaria_Rossi",
+      "article_url": "https://it.wikipedia.org/wiki/Mariarosaria_Rossi",
+      "description": "politica italiana",
+      "image_filename": "Mariarosaria_Rossi_datisenato_2013.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mariarosaria_Rossi_datisenato_2013.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mariarosaria_Rossi_datisenato_2013.jpg",
+      "image_license": "CC BY 3.0 it",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Giuseppe_Conte",
+      "views": 122482,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 27522
+        },
+        {
+          "date": "2021-01-19",
+          "views": 40822
+        },
+        {
+          "date": "2021-01-20",
+          "views": 19826
+        },
+        {
+          "date": "2021-01-21",
+          "views": 10896
+        },
+        {
+          "date": "2021-01-22",
+          "views": 9307
+        },
+        {
+          "date": "2021-01-23",
+          "views": 7614
+        },
+        {
+          "date": "2021-01-24",
+          "views": 6495
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giuseppe%20Conte&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Giuseppe_Conte",
+      "article_url": "https://it.wikipedia.org/wiki/Giuseppe_Conte",
+      "description": "politico e avvocato italiano (1964-)",
+      "image_filename": "Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Giuseppe_Conte_-_Quirinale_2022_%28cropped2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Supercoppa_italiana",
+      "views": 118291,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 5194
+        },
+        {
+          "date": "2021-01-19",
+          "views": 9682
+        },
+        {
+          "date": "2021-01-20",
+          "views": 64706
+        },
+        {
+          "date": "2021-01-21",
+          "views": 30359
+        },
+        {
+          "date": "2021-01-22",
+          "views": 4385
+        },
+        {
+          "date": "2021-01-23",
+          "views": 2164
+        },
+        {
+          "date": "2021-01-24",
+          "views": 1801
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Supercoppa%20italiana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Supercoppa_italiana",
+      "article_url": "https://it.wikipedia.org/wiki/Supercoppa_italiana",
+      "description": "Competizione calcistica",
+      "image_filename": "Logo_EA_SPORTS_FC_SuperCup_2024-2025.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_EA_SPORTS_FC_SuperCup_2024-2025.jpg/1024px-Logo_EA_SPORTS_FC_SuperCup_2024-2025.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_EA_SPORTS_FC_SuperCup_2024-2025.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Senato_della_Repubblica",
+      "views": 116324,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 17128
+        },
+        {
+          "date": "2021-01-19",
+          "views": 73618
+        },
+        {
+          "date": "2021-01-20",
+          "views": 14784
+        },
+        {
+          "date": "2021-01-21",
+          "views": 4238
+        },
+        {
+          "date": "2021-01-22",
+          "views": 2807
+        },
+        {
+          "date": "2021-01-23",
+          "views": 1903
+        },
+        {
+          "date": "2021-01-24",
+          "views": 1846
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Senato%20della%20Repubblica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Senato_della_Repubblica",
+      "article_url": "https://it.wikipedia.org/wiki/Senato_della_Repubblica",
+      "description": "ramo del Parlamento della Repubblica Italiana",
+      "image_filename": "Senato_della_Repubblica_LOGO_(Italia).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Senato_della_Repubblica_LOGO_%28Italia%29.svg/1280px-Senato_della_Repubblica_LOGO_%28Italia%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Senato_della_Repubblica_LOGO_(Italia).svg",
+      "image_license": "CC BY 3.0 it",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Renata_Polverini",
+      "views": 107442,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 40437
+        },
+        {
+          "date": "2021-01-19",
+          "views": 46156
+        },
+        {
+          "date": "2021-01-20",
+          "views": 13586
+        },
+        {
+          "date": "2021-01-21",
+          "views": 3554
+        },
+        {
+          "date": "2021-01-22",
+          "views": 2057
+        },
+        {
+          "date": "2021-01-23",
+          "views": 1652
+        },
+        {
+          "date": "2021-01-24",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Renata%20Polverini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Renata_Polverini",
+      "article_url": "https://it.wikipedia.org/wiki/Renata_Polverini",
+      "description": "sindacalista e politica italiana",
+      "image_filename": "Renata_Polverini_daticamera_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Renata_Polverini_daticamera_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Renata_Polverini_daticamera_2018.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Bridgerton",
+      "views": 103739,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 16153
+        },
+        {
+          "date": "2021-01-19",
+          "views": 13847
+        },
+        {
+          "date": "2021-01-20",
+          "views": 13628
+        },
+        {
+          "date": "2021-01-21",
+          "views": 14610
+        },
+        {
+          "date": "2021-01-22",
+          "views": 15191
+        },
+        {
+          "date": "2021-01-23",
+          "views": 14052
+        },
+        {
+          "date": "2021-01-24",
+          "views": 16258
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bridgerton&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Bridgerton",
+      "article_url": "https://it.wikipedia.org/wiki/Bridgerton",
+      "description": "serie televisiva statunitense del 2020",
+      "image_filename": "Bridgerton.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Bridgerton.png/1280px-Bridgerton.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bridgerton.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Aleksandr_Kokorin",
+      "views": 102617,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 0
+        },
+        {
+          "date": "2021-01-19",
+          "views": 1854
+        },
+        {
+          "date": "2021-01-20",
+          "views": 30014
+        },
+        {
+          "date": "2021-01-21",
+          "views": 39825
+        },
+        {
+          "date": "2021-01-22",
+          "views": 18510
+        },
+        {
+          "date": "2021-01-23",
+          "views": 7503
+        },
+        {
+          "date": "2021-01-24",
+          "views": 4911
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Aleksandr%20Kokorin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Aleksandr_Kokorin",
+      "article_url": "https://it.wikipedia.org/wiki/Aleksandr_Kokorin",
+      "description": "calciatore russo (1991-)",
+      "image_filename": "Zenit-Slavia_Pr_(5).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Zenit-Slavia_Pr_%285%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zenit-Slavia_Pr_(5).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Blue_Monday_(data)",
+      "views": 102167,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 82894
+        },
+        {
+          "date": "2021-01-19",
+          "views": 16607
+        },
+        {
+          "date": "2021-01-20",
+          "views": 2666
+        },
+        {
+          "date": "2021-01-21",
+          "views": 0
+        },
+        {
+          "date": "2021-01-22",
+          "views": 0
+        },
+        {
+          "date": "2021-01-23",
+          "views": 0
+        },
+        {
+          "date": "2021-01-24",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Blue%20Monday%20%28data%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Blue_Monday_(data)",
+      "article_url": "https://it.wikipedia.org/wiki/Blue_Monday_(data)",
+      "description": "giorno pi\u00f9 deprimente dell'anno per gli abitanti dell'emisfero boreale (nord).",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Zlatan_Ibrahimovi\u0107",
+      "views": 101463,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 19773
+        },
+        {
+          "date": "2021-01-19",
+          "views": 22085
+        },
+        {
+          "date": "2021-01-20",
+          "views": 8657
+        },
+        {
+          "date": "2021-01-21",
+          "views": 6674
+        },
+        {
+          "date": "2021-01-22",
+          "views": 5893
+        },
+        {
+          "date": "2021-01-23",
+          "views": 12075
+        },
+        {
+          "date": "2021-01-24",
+          "views": 26306
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Zlatan%20Ibrahimovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Zlatan_Ibrahimovi%C4%87",
+      "article_url": "https://it.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87",
+      "description": "dirigente sportivo e calciatore svedese (1981-)",
+      "image_filename": "Zlatan_Ibrahimovi\u0107_June_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Lady_Gaga",
+      "views": 100841,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 0
+        },
+        {
+          "date": "2021-01-19",
+          "views": 1462
+        },
+        {
+          "date": "2021-01-20",
+          "views": 40400
+        },
+        {
+          "date": "2021-01-21",
+          "views": 28779
+        },
+        {
+          "date": "2021-01-22",
+          "views": 12286
+        },
+        {
+          "date": "2021-01-23",
+          "views": 9167
+        },
+        {
+          "date": "2021-01-24",
+          "views": 8747
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lady%20Gaga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Lady_Gaga",
+      "article_url": "https://it.wikipedia.org/wiki/Lady_Gaga",
+      "description": "cantautrice, compositrice, attrice e attivista statunitense (1986-)",
+      "image_filename": "Lady_Gaga_at_the_White_House_in_2023_(3).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lady_Gaga_at_the_White_House_in_2023_%283%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lady_Gaga_at_the_White_House_in_2023_(3).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Jill_Biden",
+      "views": 99378,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 0
+        },
+        {
+          "date": "2021-01-19",
+          "views": 2063
+        },
+        {
+          "date": "2021-01-20",
+          "views": 45589
+        },
+        {
+          "date": "2021-01-21",
+          "views": 29489
+        },
+        {
+          "date": "2021-01-22",
+          "views": 11942
+        },
+        {
+          "date": "2021-01-23",
+          "views": 5857
+        },
+        {
+          "date": "2021-01-24",
+          "views": 4438
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jill%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Jill_Biden",
+      "article_url": "https://it.wikipedia.org/wiki/Jill_Biden",
+      "description": "insegnante, scrittrice e filantropa statunitense",
+      "image_filename": "First_Lady_Jill_Biden_official_portrait.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/First_Lady_Jill_Biden_official_portrait.jpg/1280px-First_Lady_Jill_Biden_official_portrait.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:First_Lady_Jill_Biden_official_portrait.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Fikayo_Tomori",
+      "views": 95974,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 13161
+        },
+        {
+          "date": "2021-01-19",
+          "views": 12254
+        },
+        {
+          "date": "2021-01-20",
+          "views": 12171
+        },
+        {
+          "date": "2021-01-21",
+          "views": 10793
+        },
+        {
+          "date": "2021-01-22",
+          "views": 31913
+        },
+        {
+          "date": "2021-01-23",
+          "views": 12509
+        },
+        {
+          "date": "2021-01-24",
+          "views": 3173
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fikayo%20Tomori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Fikayo_Tomori",
+      "article_url": "https://it.wikipedia.org/wiki/Fikayo_Tomori",
+      "description": "calciatore inglese",
+      "image_filename": "FC_Salzburg_vs._AC_Mailand_(UEFA_Championsleague_2022-09-06)_42.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_42.jpg/1280px-FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_42.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_vs._AC_Mailand_(UEFA_Championsleague_2022-09-06)_42.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Matilda_De_Angelis",
+      "views": 92818,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 8469
+        },
+        {
+          "date": "2021-01-19",
+          "views": 6645
+        },
+        {
+          "date": "2021-01-20",
+          "views": 7712
+        },
+        {
+          "date": "2021-01-21",
+          "views": 5159
+        },
+        {
+          "date": "2021-01-22",
+          "views": 5295
+        },
+        {
+          "date": "2021-01-23",
+          "views": 22101
+        },
+        {
+          "date": "2021-01-24",
+          "views": 37437
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matilda%20De%20Angelis&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Matilda_De_Angelis",
+      "article_url": "https://it.wikipedia.org/wiki/Matilda_De_Angelis",
+      "description": "attrice italiana (1995-)",
+      "image_filename": "Matilda_De_Angelis-7948.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matilda_De_Angelis-7948.jpg/1280px-Matilda_De_Angelis-7948.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matilda_De_Angelis-7948.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Donald_Trump",
+      "views": 91822,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 4246
+        },
+        {
+          "date": "2021-01-19",
+          "views": 7980
+        },
+        {
+          "date": "2021-01-20",
+          "views": 35667
+        },
+        {
+          "date": "2021-01-21",
+          "views": 20519
+        },
+        {
+          "date": "2021-01-22",
+          "views": 9726
+        },
+        {
+          "date": "2021-01-23",
+          "views": 8138
+        },
+        {
+          "date": "2021-01-24",
+          "views": 5546
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Donald_Trump",
+      "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
+      "description": "politico e imprenditore statunitense, 45\u00ba e 47\u00ba presidente degli Stati Uniti d'America",
+      "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Winx_Club",
+      "views": 90949,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 0
+        },
+        {
+          "date": "2021-01-19",
+          "views": 2040
+        },
+        {
+          "date": "2021-01-20",
+          "views": 1997
+        },
+        {
+          "date": "2021-01-21",
+          "views": 1686
+        },
+        {
+          "date": "2021-01-22",
+          "views": 23162
+        },
+        {
+          "date": "2021-01-23",
+          "views": 29910
+        },
+        {
+          "date": "2021-01-24",
+          "views": 32154
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Winx%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Winx_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Winx_Club",
+      "description": "serie TV d'animazione italiana del 2004",
+      "image_filename": "Winx_Club_Logo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/4/4f/Winx_Club_Logo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Winx_Club_Logo.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Rai",
+      "views": 88335,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 12879
+        },
+        {
+          "date": "2021-01-19",
+          "views": 13119
+        },
+        {
+          "date": "2021-01-20",
+          "views": 13363
+        },
+        {
+          "date": "2021-01-21",
+          "views": 12502
+        },
+        {
+          "date": "2021-01-22",
+          "views": 13152
+        },
+        {
+          "date": "2021-01-23",
+          "views": 11242
+        },
+        {
+          "date": "2021-01-24",
+          "views": 12078
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Presidenti_degli_Stati_Uniti_d'America",
+      "views": 85262,
+      "daily_views": [
+        {
+          "date": "2021-01-18",
+          "views": 3717
+        },
+        {
+          "date": "2021-01-19",
+          "views": 5113
+        },
+        {
+          "date": "2021-01-20",
+          "views": 37235
+        },
+        {
+          "date": "2021-01-21",
+          "views": 19110
+        },
+        {
+          "date": "2021-01-22",
+          "views": 7646
+        },
+        {
+          "date": "2021-01-23",
+          "views": 7036
+        },
+        {
+          "date": "2021-01-24",
+          "views": 5405
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Presidenti%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Presidenti_degli_Stati_Uniti_d%27America",
+      "article_url": "https://it.wikipedia.org/wiki/Presidenti_degli_Stati_Uniti_d%27America",
+      "description": "lista di un progetto Wikimedia",
+      "image_filename": "Flag_of_the_President_of_the_United_States.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_the_President_of_the_United_States.svg/1280px-Flag_of_the_President_of_the_United_States.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_the_United_States.svg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

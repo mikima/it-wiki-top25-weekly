@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2025,
+  "week": 3,
+  "start_date": "2025-01-13",
+  "end_date": "2025-01-19",
+  "days": [
+    "2025-01-13",
+    "2025-01-14",
+    "2025-01-15",
+    "2025-01-16",
+    "2025-01-17",
+    "2025-01-18",
+    "2025-01-19"
+  ],
+  "total_articles": 2617,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "David_Lynch",
+      "views": 413175,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 0
+        },
+        {
+          "date": "2025-01-14",
+          "views": 0
+        },
+        {
+          "date": "2025-01-15",
+          "views": 0
+        },
+        {
+          "date": "2025-01-16",
+          "views": 223135
+        },
+        {
+          "date": "2025-01-17",
+          "views": 135021
+        },
+        {
+          "date": "2025-01-18",
+          "views": 35445
+        },
+        {
+          "date": "2025-01-19",
+          "views": 19574
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=David%20Lynch&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=David_Lynch",
+      "article_url": "https://it.wikipedia.org/wiki/David_Lynch",
+      "description": "regista, sceneggiatore, attore, musicista, produttore cinematografico e pittore statunitense (1946-2025)",
+      "image_filename": "David_Lynch_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/David_Lynch_2016.jpg/1280px-David_Lynch_2016.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:David_Lynch_2016.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Il_conte_di_Montecristo",
+      "views": 217233,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 126785
+        },
+        {
+          "date": "2025-01-14",
+          "views": 42765
+        },
+        {
+          "date": "2025-01-15",
+          "views": 14633
+        },
+        {
+          "date": "2025-01-16",
+          "views": 9437
+        },
+        {
+          "date": "2025-01-17",
+          "views": 7639
+        },
+        {
+          "date": "2025-01-18",
+          "views": 7384
+        },
+        {
+          "date": "2025-01-19",
+          "views": 8590
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20conte%20di%20Montecristo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Il_conte_di_Montecristo",
+      "article_url": "https://it.wikipedia.org/wiki/Il_conte_di_Montecristo",
+      "description": "romanzo di Alexandre Dumas (padre)",
+      "image_filename": "Louis_Fran\u00e7ais-Dant\u00e8s_sur_son_rocher.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Louis_Fran%C3%A7ais-Dant%C3%A8s_sur_son_rocher.jpg/1280px-Louis_Fran%C3%A7ais-Dant%C3%A8s_sur_son_rocher.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Louis_Fran%C3%A7ais-Dant%C3%A8s_sur_son_rocher.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Randal_Kolo_Muani",
+      "views": 214731,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 8921
+        },
+        {
+          "date": "2025-01-14",
+          "views": 61255
+        },
+        {
+          "date": "2025-01-15",
+          "views": 80522
+        },
+        {
+          "date": "2025-01-16",
+          "views": 34780
+        },
+        {
+          "date": "2025-01-17",
+          "views": 16104
+        },
+        {
+          "date": "2025-01-18",
+          "views": 8746
+        },
+        {
+          "date": "2025-01-19",
+          "views": 4403
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Randal%20Kolo%20Muani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Randal_Kolo_Muani",
+      "article_url": "https://it.wikipedia.org/wiki/Randal_Kolo_Muani",
+      "description": "calciatore francese (1998-)",
+      "image_filename": "Randal_Kolo_Muani_2020.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Randal_Kolo_Muani_2020.jpg/1187px-Randal_Kolo_Muani_2020.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Randal_Kolo_Muani_2020.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Il_conte_di_Montecristo_(miniserie_televisiva_2025)",
+      "views": 206704,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 123509
+        },
+        {
+          "date": "2025-01-14",
+          "views": 40173
+        },
+        {
+          "date": "2025-01-15",
+          "views": 13807
+        },
+        {
+          "date": "2025-01-16",
+          "views": 8173
+        },
+        {
+          "date": "2025-01-17",
+          "views": 5873
+        },
+        {
+          "date": "2025-01-18",
+          "views": 6445
+        },
+        {
+          "date": "2025-01-19",
+          "views": 8724
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20conte%20di%20Montecristo%20%28miniserie%20televisiva%202025%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Il_conte_di_Montecristo_(miniserie_televisiva_2025)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_conte_di_Montecristo_(miniserie_televisiva_2025)",
+      "description": "miniserie televisiva franco-italiana del 2025",
+      "image_filename": "Il_conte_di_montecristo_(serie_televisiva_2025).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8e/Il_conte_di_montecristo_%28serie_televisiva_2025%29.png/1280px-Il_conte_di_montecristo_%28serie_televisiva_2025%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_conte_di_montecristo_(serie_televisiva_2025).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Benito_Mussolini",
+      "views": 167241,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 27670
+        },
+        {
+          "date": "2025-01-14",
+          "views": 22743
+        },
+        {
+          "date": "2025-01-15",
+          "views": 20618
+        },
+        {
+          "date": "2025-01-16",
+          "views": 17483
+        },
+        {
+          "date": "2025-01-17",
+          "views": 23858
+        },
+        {
+          "date": "2025-01-18",
+          "views": 26693
+        },
+        {
+          "date": "2025-01-19",
+          "views": 28176
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Benito%20Mussolini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Benito_Mussolini",
+      "article_url": "https://it.wikipedia.org/wiki/Benito_Mussolini",
+      "description": "politico e giornalista italiano (1883\u20131945), presidente del Consiglio dei ministri del Regno d'Italia, fondatore del Partito Nazionale Fascista",
+      "image_filename": "Mussolini_mezzobusto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mussolini_mezzobusto.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Oliviero_Toscani",
+      "views": 153380,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 91877
+        },
+        {
+          "date": "2025-01-14",
+          "views": 26845
+        },
+        {
+          "date": "2025-01-15",
+          "views": 12389
+        },
+        {
+          "date": "2025-01-16",
+          "views": 10489
+        },
+        {
+          "date": "2025-01-17",
+          "views": 4396
+        },
+        {
+          "date": "2025-01-18",
+          "views": 3031
+        },
+        {
+          "date": "2025-01-19",
+          "views": 4353
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Oliviero%20Toscani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Oliviero_Toscani",
+      "article_url": "https://it.wikipedia.org/wiki/Oliviero_Toscani",
+      "description": "fotografo italiano (1942-2025)",
+      "image_filename": "Olivierotoscani.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Olivierotoscani.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Olivierotoscani.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "M_-_Il_figlio_del_secolo_(miniserie_televisiva)",
+      "views": 144259,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 12725
+        },
+        {
+          "date": "2025-01-14",
+          "views": 13903
+        },
+        {
+          "date": "2025-01-15",
+          "views": 19797
+        },
+        {
+          "date": "2025-01-16",
+          "views": 17547
+        },
+        {
+          "date": "2025-01-17",
+          "views": 24372
+        },
+        {
+          "date": "2025-01-18",
+          "views": 26833
+        },
+        {
+          "date": "2025-01-19",
+          "views": 29082
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=M%20-%20Il%20figlio%20del%20secolo%20%28miniserie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=M_-_Il_figlio_del_secolo_(miniserie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/M_-_Il_figlio_del_secolo_(miniserie_televisiva)",
+      "description": "miniserie televisiva italo-francese del 2025",
+      "image_filename": "M_il_figlio_del_secolo_(serie_tv_2025).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/M_il_figlio_del_secolo_%28serie_tv_2025%29.jpg/1280px-M_il_figlio_del_secolo_%28serie_tv_2025%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:M_il_figlio_del_secolo_(serie_tv_2025).jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Khvicha_K'varatskhelia",
+      "views": 98102,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 7469
+        },
+        {
+          "date": "2025-01-14",
+          "views": 15681
+        },
+        {
+          "date": "2025-01-15",
+          "views": 16252
+        },
+        {
+          "date": "2025-01-16",
+          "views": 16329
+        },
+        {
+          "date": "2025-01-17",
+          "views": 19539
+        },
+        {
+          "date": "2025-01-18",
+          "views": 16014
+        },
+        {
+          "date": "2025-01-19",
+          "views": 6818
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Khvicha%20K%27varatskhelia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Khvicha_K%27varatskhelia",
+      "article_url": "https://it.wikipedia.org/wiki/Khvicha_K%27varatskhelia",
+      "description": "calciatore georgiano (2001-)",
+      "image_filename": "Kvaratskhelia_asse_psg_2425.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Kvaratskhelia_asse_psg_2425.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kvaratskhelia_asse_psg_2425.png",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "La_ragazza_della_palude_(film)",
+      "views": 95461,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 0
+        },
+        {
+          "date": "2025-01-14",
+          "views": 0
+        },
+        {
+          "date": "2025-01-15",
+          "views": 63475
+        },
+        {
+          "date": "2025-01-16",
+          "views": 21462
+        },
+        {
+          "date": "2025-01-17",
+          "views": 5201
+        },
+        {
+          "date": "2025-01-18",
+          "views": 3139
+        },
+        {
+          "date": "2025-01-19",
+          "views": 2184
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20ragazza%20della%20palude%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=La_ragazza_della_palude_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/La_ragazza_della_palude_(film)",
+      "description": "film del 2022 diretto da Olivia Newman",
+      "image_filename": "RagazzaPalude.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b2/RagazzaPalude.png/1280px-RagazzaPalude.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RagazzaPalude.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "I_segreti_di_Twin_Peaks",
+      "views": 93961,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 1059
+        },
+        {
+          "date": "2025-01-14",
+          "views": 0
+        },
+        {
+          "date": "2025-01-15",
+          "views": 0
+        },
+        {
+          "date": "2025-01-16",
+          "views": 26900
+        },
+        {
+          "date": "2025-01-17",
+          "views": 39989
+        },
+        {
+          "date": "2025-01-18",
+          "views": 15198
+        },
+        {
+          "date": "2025-01-19",
+          "views": 10815
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=I%20segreti%20di%20Twin%20Peaks&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=I_segreti_di_Twin_Peaks",
+      "article_url": "https://it.wikipedia.org/wiki/I_segreti_di_Twin_Peaks",
+      "description": "serie televisiva statunitense di David Lynch e Mark Frost",
+      "image_filename": "Twin-peaks-1990.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/39/Twin-peaks-1990.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Twin-peaks-1990.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Squid_Game",
+      "views": 82995,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 14029
+        },
+        {
+          "date": "2025-01-14",
+          "views": 12296
+        },
+        {
+          "date": "2025-01-15",
+          "views": 11169
+        },
+        {
+          "date": "2025-01-16",
+          "views": 10395
+        },
+        {
+          "date": "2025-01-17",
+          "views": 11044
+        },
+        {
+          "date": "2025-01-18",
+          "views": 11273
+        },
+        {
+          "date": "2025-01-19",
+          "views": 12789
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Squid%20Game&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Squid_Game",
+      "article_url": "https://it.wikipedia.org/wiki/Squid_Game",
+      "description": "serie televisiva sudcoreana (2021-2025)",
+      "image_filename": "Squid_Game_international_logo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Squid_Game_international_logo.png/1280px-Squid_Game_international_logo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Squid_Game_international_logo.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Luca_Marinelli",
+      "views": 82214,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 17010
+        },
+        {
+          "date": "2025-01-14",
+          "views": 14977
+        },
+        {
+          "date": "2025-01-15",
+          "views": 11270
+        },
+        {
+          "date": "2025-01-16",
+          "views": 8762
+        },
+        {
+          "date": "2025-01-17",
+          "views": 8797
+        },
+        {
+          "date": "2025-01-18",
+          "views": 10123
+        },
+        {
+          "date": "2025-01-19",
+          "views": 11275
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luca%20Marinelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Luca_Marinelli",
+      "article_url": "https://it.wikipedia.org/wiki/Luca_Marinelli",
+      "description": "attore italiano (1984-)",
+      "image_filename": "MKr373118_Luca_Marinelli_(Berlinale_2025).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MKr373118_Luca_Marinelli_%28Berlinale_2025%29.jpg/1280px-MKr373118_Luca_Marinelli_%28Berlinale_2025%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:MKr373118_Luca_Marinelli_(Berlinale_2025).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Diamanti_(film_2024)",
+      "views": 77208,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 15299
+        },
+        {
+          "date": "2025-01-14",
+          "views": 11524
+        },
+        {
+          "date": "2025-01-15",
+          "views": 11012
+        },
+        {
+          "date": "2025-01-16",
+          "views": 7242
+        },
+        {
+          "date": "2025-01-17",
+          "views": 7059
+        },
+        {
+          "date": "2025-01-18",
+          "views": 10552
+        },
+        {
+          "date": "2025-01-19",
+          "views": 14520
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Diamanti%20%28film%202024%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Diamanti_(film_2024)",
+      "article_url": "https://it.wikipedia.org/wiki/Diamanti_(film_2024)",
+      "description": "film del 2024 diretto da Ferzan \u00d6zpetek",
+      "image_filename": "DiamantiFilm2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/cf/DiamantiFilm2024.png/1280px-DiamantiFilm2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:DiamantiFilm2024.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Black_Out_-_Vite_sospese",
+      "views": 74016,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 7771
+        },
+        {
+          "date": "2025-01-14",
+          "views": 43187
+        },
+        {
+          "date": "2025-01-15",
+          "views": 14560
+        },
+        {
+          "date": "2025-01-16",
+          "views": 4367
+        },
+        {
+          "date": "2025-01-17",
+          "views": 1350
+        },
+        {
+          "date": "2025-01-18",
+          "views": 1307
+        },
+        {
+          "date": "2025-01-19",
+          "views": 1474
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Black%20Out%20-%20Vite%20sospese&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Black_Out_-_Vite_sospese",
+      "article_url": "https://it.wikipedia.org/wiki/Black_Out_-_Vite_sospese",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Emilia_P\u00e9rez",
+      "views": 68713,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 9219
+        },
+        {
+          "date": "2025-01-14",
+          "views": 7060
+        },
+        {
+          "date": "2025-01-15",
+          "views": 7800
+        },
+        {
+          "date": "2025-01-16",
+          "views": 6757
+        },
+        {
+          "date": "2025-01-17",
+          "views": 8686
+        },
+        {
+          "date": "2025-01-18",
+          "views": 13988
+        },
+        {
+          "date": "2025-01-19",
+          "views": 15203
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Emilia%20P%C3%A9rez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Emilia_P%C3%A9rez",
+      "article_url": "https://it.wikipedia.org/wiki/Emilia_P%C3%A9rez",
+      "description": "film del 2024 diretto da Jacques Audiard",
+      "image_filename": "EmiliaPerezMovie.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e5/EmiliaPerezMovie.png/1280px-EmiliaPerezMovie.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:EmiliaPerezMovie.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Alejandro_Garnacho",
+      "views": 68597,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 15360
+        },
+        {
+          "date": "2025-01-14",
+          "views": 15441
+        },
+        {
+          "date": "2025-01-15",
+          "views": 12681
+        },
+        {
+          "date": "2025-01-16",
+          "views": 8469
+        },
+        {
+          "date": "2025-01-17",
+          "views": 7023
+        },
+        {
+          "date": "2025-01-18",
+          "views": 5145
+        },
+        {
+          "date": "2025-01-19",
+          "views": 4478
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alejandro%20Garnacho&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Alejandro_Garnacho",
+      "article_url": "https://it.wikipedia.org/wiki/Alejandro_Garnacho",
+      "description": "calciatore argentino (2004-)",
+      "image_filename": "Manchester_United_v_Brighton_&_Hove_Albion,_7_August_2022_(36).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Manchester_United_v_Brighton_%26_Hove_Albion%2C_7_August_2022_%2836%29.jpg/1037px-Manchester_United_v_Brighton_%26_Hove_Albion%2C_7_August_2022_%2836%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Manchester_United_v_Brighton_%26_Hove_Albion%2C_7_August_2022_(36).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Nosferatu_(film_2024)",
+      "views": 67987,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 12438
+        },
+        {
+          "date": "2025-01-14",
+          "views": 10134
+        },
+        {
+          "date": "2025-01-15",
+          "views": 9855
+        },
+        {
+          "date": "2025-01-16",
+          "views": 8223
+        },
+        {
+          "date": "2025-01-17",
+          "views": 7638
+        },
+        {
+          "date": "2025-01-18",
+          "views": 9865
+        },
+        {
+          "date": "2025-01-19",
+          "views": 9834
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nosferatu%20%28film%202024%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Nosferatu_(film_2024)",
+      "article_url": "https://it.wikipedia.org/wiki/Nosferatu_(film_2024)",
+      "description": "film del 2024 diretto da Robert Eggers",
+      "image_filename": "Nosferatu2024LDR.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a5/Nosferatu2024LDR.png/1280px-Nosferatu2024LDR.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nosferatu2024LDR.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Margherita_Sarfatti",
+      "views": 67280,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 10034
+        },
+        {
+          "date": "2025-01-14",
+          "views": 8596
+        },
+        {
+          "date": "2025-01-15",
+          "views": 7981
+        },
+        {
+          "date": "2025-01-16",
+          "views": 6432
+        },
+        {
+          "date": "2025-01-17",
+          "views": 9903
+        },
+        {
+          "date": "2025-01-18",
+          "views": 11592
+        },
+        {
+          "date": "2025-01-19",
+          "views": 12742
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Margherita%20Sarfatti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Margherita_Sarfatti",
+      "article_url": "https://it.wikipedia.org/wiki/Margherita_Sarfatti",
+      "description": "scrittrice italiana, giornalista e critica d'arte, biografa di Benito Mussolini, del quale fu per lunghi anni amante (1880-1961)",
+      "image_filename": "Margherita_Sarfatti_02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Margherita_Sarfatti_02.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Margherita_Sarfatti_02.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Italo_Balbo",
+      "views": 65075,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 1827
+        },
+        {
+          "date": "2025-01-14",
+          "views": 3966
+        },
+        {
+          "date": "2025-01-15",
+          "views": 5063
+        },
+        {
+          "date": "2025-01-16",
+          "views": 4917
+        },
+        {
+          "date": "2025-01-17",
+          "views": 14786
+        },
+        {
+          "date": "2025-01-18",
+          "views": 17867
+        },
+        {
+          "date": "2025-01-19",
+          "views": 16649
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italo%20Balbo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Italo_Balbo",
+      "article_url": "https://it.wikipedia.org/wiki/Italo_Balbo",
+      "description": "politico, generale e aviatore italiano, Ministro dell'Aeronautica del Regno d'Italia e Governatore generale della Libia",
+      "image_filename": "Italo_Balbo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Italo_Balbo.jpg/1280px-Italo_Balbo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Italo_Balbo.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Puntate_di_M_-_Il_figlio_del_secolo",
+      "views": 63179,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 9462
+        },
+        {
+          "date": "2025-01-14",
+          "views": 8580
+        },
+        {
+          "date": "2025-01-15",
+          "views": 8674
+        },
+        {
+          "date": "2025-01-16",
+          "views": 7895
+        },
+        {
+          "date": "2025-01-17",
+          "views": 8956
+        },
+        {
+          "date": "2025-01-18",
+          "views": 8988
+        },
+        {
+          "date": "2025-01-19",
+          "views": 10624
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Puntate%20di%20M%20-%20Il%20figlio%20del%20secolo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Puntate_di_M_-_Il_figlio_del_secolo",
+      "article_url": "https://it.wikipedia.org/wiki/Puntate_di_M_-_Il_figlio_del_secolo",
+      "description": "lista di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Loredana_Errore",
+      "views": 62310,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 6568
+        },
+        {
+          "date": "2025-01-14",
+          "views": 4331
+        },
+        {
+          "date": "2025-01-15",
+          "views": 2455
+        },
+        {
+          "date": "2025-01-16",
+          "views": 1628
+        },
+        {
+          "date": "2025-01-17",
+          "views": 1273
+        },
+        {
+          "date": "2025-01-18",
+          "views": 36290
+        },
+        {
+          "date": "2025-01-19",
+          "views": 9765
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Loredana%20Errore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Loredana_Errore",
+      "article_url": "https://it.wikipedia.org/wiki/Loredana_Errore",
+      "description": "cantante rumena naturalizzata italiana (1984-)",
+      "image_filename": "Loredana.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Loredana.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Loredana.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Cesare_Rossi",
+      "views": 58589,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 8899
+        },
+        {
+          "date": "2025-01-14",
+          "views": 7318
+        },
+        {
+          "date": "2025-01-15",
+          "views": 6580
+        },
+        {
+          "date": "2025-01-16",
+          "views": 5531
+        },
+        {
+          "date": "2025-01-17",
+          "views": 9018
+        },
+        {
+          "date": "2025-01-18",
+          "views": 10392
+        },
+        {
+          "date": "2025-01-19",
+          "views": 10851
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cesare%20Rossi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Cesare_Rossi",
+      "article_url": "https://it.wikipedia.org/wiki/Cesare_Rossi",
+      "description": "politico e sindacalista italiano (1887-1967)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Gabriele_D'Annunzio",
+      "views": 56102,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 11494
+        },
+        {
+          "date": "2025-01-14",
+          "views": 8903
+        },
+        {
+          "date": "2025-01-15",
+          "views": 7638
+        },
+        {
+          "date": "2025-01-16",
+          "views": 6202
+        },
+        {
+          "date": "2025-01-17",
+          "views": 6490
+        },
+        {
+          "date": "2025-01-18",
+          "views": 7121
+        },
+        {
+          "date": "2025-01-19",
+          "views": 8254
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gabriele%20D%27Annunzio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Gabriele_D%27Annunzio",
+      "article_url": "https://it.wikipedia.org/wiki/Gabriele_D%27Annunzio",
+      "description": "scrittore, poeta, drammaturgo, militare, politico, giornalista e patriota italiano (1863-1938)",
+      "image_filename": "Gabriele_D'Annunzio_(before_1938)_-_Archivio_Storico_Ricordi_FOTO001172.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gabriele_D%27Annunzio_%28before_1938%29_-_Archivio_Storico_Ricordi_FOTO001172.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gabriele_D%27Annunzio_(before_1938)_-_Archivio_Storico_Ricordi_FOTO001172.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Rachele_Guidi",
+      "views": 55263,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 11675
+        },
+        {
+          "date": "2025-01-14",
+          "views": 6693
+        },
+        {
+          "date": "2025-01-15",
+          "views": 5840
+        },
+        {
+          "date": "2025-01-16",
+          "views": 4898
+        },
+        {
+          "date": "2025-01-17",
+          "views": 7790
+        },
+        {
+          "date": "2025-01-18",
+          "views": 8791
+        },
+        {
+          "date": "2025-01-19",
+          "views": 9576
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rachele%20Guidi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=Rachele_Guidi",
+      "article_url": "https://it.wikipedia.org/wiki/Rachele_Guidi",
+      "description": "moglie di Benito Mussolini (1890-1979)",
+      "image_filename": "Rachele_Guidi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/b/be/Rachele_Guidi.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rachele_Guidi.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "M._Il_figlio_del_secolo",
+      "views": 53915,
+      "daily_views": [
+        {
+          "date": "2025-01-13",
+          "views": 10854
+        },
+        {
+          "date": "2025-01-14",
+          "views": 9211
+        },
+        {
+          "date": "2025-01-15",
+          "views": 5997
+        },
+        {
+          "date": "2025-01-16",
+          "views": 5351
+        },
+        {
+          "date": "2025-01-17",
+          "views": 6777
+        },
+        {
+          "date": "2025-01-18",
+          "views": 7809
+        },
+        {
+          "date": "2025-01-19",
+          "views": 7916
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=M.%20Il%20figlio%20del%20secolo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2025,cd_max:01/19/2025&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-01-13&end=2025-01-19&pages=M._Il_figlio_del_secolo",
+      "article_url": "https://it.wikipedia.org/wiki/M._Il_figlio_del_secolo",
+      "description": "romanzo di Antonio Scurati",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

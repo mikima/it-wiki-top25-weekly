@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2017,
+  "week": 42,
+  "start_date": "2017-10-16",
+  "end_date": "2017-10-22",
+  "days": [
+    "2017-10-16",
+    "2017-10-17",
+    "2017-10-18",
+    "2017-10-19",
+    "2017-10-20",
+    "2017-10-21",
+    "2017-10-22"
+  ],
+  "total_articles": 2595,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "It_(film_2017)",
+      "views": 269682,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 13815
+        },
+        {
+          "date": "2017-10-17",
+          "views": 12630
+        },
+        {
+          "date": "2017-10-18",
+          "views": 16282
+        },
+        {
+          "date": "2017-10-19",
+          "views": 38202
+        },
+        {
+          "date": "2017-10-20",
+          "views": 57177
+        },
+        {
+          "date": "2017-10-21",
+          "views": 63642
+        },
+        {
+          "date": "2017-10-22",
+          "views": 67934
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=It%20%28film%202017%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=It_(film_2017)",
+      "article_url": "https://it.wikipedia.org/wiki/It_(film_2017)",
+      "description": "film del 2017 diretto da Andy Muschietti",
+      "image_filename": "IT_(2017_film)_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/IT_%282017_film%29_logo.svg/1280px-IT_%282017_film%29_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:IT_(2017_film)_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Raffaello_Tonon",
+      "views": 181670,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 65812
+        },
+        {
+          "date": "2017-10-17",
+          "views": 42025
+        },
+        {
+          "date": "2017-10-18",
+          "views": 24742
+        },
+        {
+          "date": "2017-10-19",
+          "views": 18046
+        },
+        {
+          "date": "2017-10-20",
+          "views": 12639
+        },
+        {
+          "date": "2017-10-21",
+          "views": 8430
+        },
+        {
+          "date": "2017-10-22",
+          "views": 9976
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Raffaello%20Tonon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Raffaello_Tonon",
+      "article_url": "https://it.wikipedia.org/wiki/Raffaello_Tonon",
+      "description": "personaggio televisivo, conduttore radiofonico e opinionista italiano (1979-)",
+      "image_filename": "Raffaello_Tonon.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Raffaello_Tonon.jpg/1074px-Raffaello_Tonon.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Raffaello_Tonon.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Michele_Zagaria",
+      "views": 127131,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 84418
+        },
+        {
+          "date": "2017-10-17",
+          "views": 20093
+        },
+        {
+          "date": "2017-10-18",
+          "views": 4831
+        },
+        {
+          "date": "2017-10-19",
+          "views": 2613
+        },
+        {
+          "date": "2017-10-20",
+          "views": 4130
+        },
+        {
+          "date": "2017-10-21",
+          "views": 8369
+        },
+        {
+          "date": "2017-10-22",
+          "views": 2677
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michele%20Zagaria&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Michele_Zagaria",
+      "article_url": "https://it.wikipedia.org/wiki/Michele_Zagaria",
+      "description": "mafioso italiano (1958)",
+      "image_filename": "Foto_segnaletica_Zagaria_Michele.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/5/5b/Foto_segnaletica_Zagaria_Michele.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Foto_segnaletica_Zagaria_Michele.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "It_(romanzo)",
+      "views": 124631,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 6544
+        },
+        {
+          "date": "2017-10-17",
+          "views": 6442
+        },
+        {
+          "date": "2017-10-18",
+          "views": 7794
+        },
+        {
+          "date": "2017-10-19",
+          "views": 16846
+        },
+        {
+          "date": "2017-10-20",
+          "views": 25754
+        },
+        {
+          "date": "2017-10-21",
+          "views": 28527
+        },
+        {
+          "date": "2017-10-22",
+          "views": 32724
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=It%20%28romanzo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=It_(romanzo)",
+      "article_url": "https://it.wikipedia.org/wiki/It_(romanzo)",
+      "description": "romanzo scritto da Stephen King",
+      "image_filename": "It_(1986)_front_cover,_first_edition.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:It_(1986)_front_cover%2C_first_edition.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Corinne_Cl\u00e9ry",
+      "views": 121085,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 24908
+        },
+        {
+          "date": "2017-10-17",
+          "views": 29793
+        },
+        {
+          "date": "2017-10-18",
+          "views": 22647
+        },
+        {
+          "date": "2017-10-19",
+          "views": 13467
+        },
+        {
+          "date": "2017-10-20",
+          "views": 12710
+        },
+        {
+          "date": "2017-10-21",
+          "views": 5336
+        },
+        {
+          "date": "2017-10-22",
+          "views": 12224
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Corinne%20Cl%C3%A9ry&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Corinne_Cl%C3%A9ry",
+      "article_url": "https://it.wikipedia.org/wiki/Corinne_Cl%C3%A9ry",
+      "description": "attrice francese",
+      "image_filename": "Corinne_Cl\u00e9ry_(Giochi_d'estate_1984).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/21/Corinne_Cl%C3%A9ry_%28Giochi_d%27estate_1984%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Corinne_Cl%C3%A9ry_(Giochi_d%27estate_1984).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "A\u00edda_Y\u00e9spica",
+      "views": 111228,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 74380
+        },
+        {
+          "date": "2017-10-17",
+          "views": 17914
+        },
+        {
+          "date": "2017-10-18",
+          "views": 5132
+        },
+        {
+          "date": "2017-10-19",
+          "views": 4170
+        },
+        {
+          "date": "2017-10-20",
+          "views": 4163
+        },
+        {
+          "date": "2017-10-21",
+          "views": 2414
+        },
+        {
+          "date": "2017-10-22",
+          "views": 3055
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=A%C3%ADda%20Y%C3%A9spica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=A%C3%ADda_Y%C3%A9spica",
+      "article_url": "https://it.wikipedia.org/wiki/A%C3%ADda_Y%C3%A9spica",
+      "description": "modella, attrice e showgirl venezuelana",
+      "image_filename": "Aida_Yespica_2013_Derivate_000.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Aida_Yespica_2013_Derivate_000.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Aida_Yespica_2013_Derivate_000.JPG",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Suburra_-_La_serie",
+      "views": 107473,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 18843
+        },
+        {
+          "date": "2017-10-17",
+          "views": 16474
+        },
+        {
+          "date": "2017-10-18",
+          "views": 14131
+        },
+        {
+          "date": "2017-10-19",
+          "views": 13680
+        },
+        {
+          "date": "2017-10-20",
+          "views": 12519
+        },
+        {
+          "date": "2017-10-21",
+          "views": 13118
+        },
+        {
+          "date": "2017-10-22",
+          "views": 18708
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Suburra%20-%20La%20serie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Suburra_-_La_serie",
+      "article_url": "https://it.wikipedia.org/wiki/Suburra_-_La_serie",
+      "description": "serie televisiva italiana (2017-2020)",
+      "image_filename": "Suburra_-_La_serie.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/1/15/Suburra_-_La_serie.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Suburra_-_La_serie.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "It_(miniserie_televisiva)",
+      "views": 107460,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 6876
+        },
+        {
+          "date": "2017-10-17",
+          "views": 5914
+        },
+        {
+          "date": "2017-10-18",
+          "views": 6677
+        },
+        {
+          "date": "2017-10-19",
+          "views": 13226
+        },
+        {
+          "date": "2017-10-20",
+          "views": 25283
+        },
+        {
+          "date": "2017-10-21",
+          "views": 24406
+        },
+        {
+          "date": "2017-10-22",
+          "views": 25078
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=It%20%28miniserie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=It_(miniserie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/It_(miniserie_televisiva)",
+      "description": "Miniserie televisiva",
+      "image_filename": "It_-_il_pagliaccio_assassino.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/62/It_-_il_pagliaccio_assassino.jpg/1280px-It_-_il_pagliaccio_assassino.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:It_-_il_pagliaccio_assassino.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Asia_Argento",
+      "views": 106223,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 37799
+        },
+        {
+          "date": "2017-10-17",
+          "views": 21542
+        },
+        {
+          "date": "2017-10-18",
+          "views": 17633
+        },
+        {
+          "date": "2017-10-19",
+          "views": 8557
+        },
+        {
+          "date": "2017-10-20",
+          "views": 6176
+        },
+        {
+          "date": "2017-10-21",
+          "views": 6238
+        },
+        {
+          "date": "2017-10-22",
+          "views": 8278
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Asia%20Argento&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Asia_Argento",
+      "article_url": "https://it.wikipedia.org/wiki/Asia_Argento",
+      "description": "attrice, regista, musicista e cantante italiana (1975-)",
+      "image_filename": "Asia_Argento_(Cannes_Film_Festival_2012).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Asia_Argento_%28Cannes_Film_Festival_2012%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Asia_Argento_(Cannes_Film_Festival_2012).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Harvey_Weinstein",
+      "views": 87934,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 17828
+        },
+        {
+          "date": "2017-10-17",
+          "views": 16367
+        },
+        {
+          "date": "2017-10-18",
+          "views": 14768
+        },
+        {
+          "date": "2017-10-19",
+          "views": 7637
+        },
+        {
+          "date": "2017-10-20",
+          "views": 13219
+        },
+        {
+          "date": "2017-10-21",
+          "views": 7958
+        },
+        {
+          "date": "2017-10-22",
+          "views": 10157
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Harvey%20Weinstein&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Harvey_Weinstein",
+      "article_url": "https://it.wikipedia.org/wiki/Harvey_Weinstein",
+      "description": "produttore cinematografico statunitense",
+      "image_filename": "Harvey_Weinstein_C\u00e9sars_2014_(cropped)_(centered).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Harvey_Weinstein_C%C3%A9sars_2014_%28cropped%29_%28centered%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Harvey_Weinstein_C%C3%A9sars_2014_(cropped)_(centered).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Sotto_copertura",
+      "views": 78359,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 39157
+        },
+        {
+          "date": "2017-10-17",
+          "views": 16018
+        },
+        {
+          "date": "2017-10-18",
+          "views": 5750
+        },
+        {
+          "date": "2017-10-19",
+          "views": 3452
+        },
+        {
+          "date": "2017-10-20",
+          "views": 4158
+        },
+        {
+          "date": "2017-10-21",
+          "views": 6259
+        },
+        {
+          "date": "2017-10-22",
+          "views": 3565
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sotto%20copertura&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Sotto_copertura",
+      "article_url": "https://it.wikipedia.org/wiki/Sotto_copertura",
+      "description": "serie televisiva italiana",
+      "image_filename": "Sotto_copertura.PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/5/53/Sotto_copertura.PNG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sotto_copertura.PNG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Bill_Skarsg\u00e5rd",
+      "views": 77630,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 3770
+        },
+        {
+          "date": "2017-10-17",
+          "views": 3266
+        },
+        {
+          "date": "2017-10-18",
+          "views": 4122
+        },
+        {
+          "date": "2017-10-19",
+          "views": 11264
+        },
+        {
+          "date": "2017-10-20",
+          "views": 16413
+        },
+        {
+          "date": "2017-10-21",
+          "views": 17458
+        },
+        {
+          "date": "2017-10-22",
+          "views": 21337
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bill%20Skarsg%C3%A5rd&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Bill_Skarsg%C3%A5rd",
+      "article_url": "https://it.wikipedia.org/wiki/Bill_Skarsg%C3%A5rd",
+      "description": "attore svedese",
+      "image_filename": "Bill_Skarsgard_by_Gage_Skidmore_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bill_Skarsgard_by_Gage_Skidmore_2.jpg/1280px-Bill_Skarsgard_by_Gage_Skidmore_2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bill_Skarsgard_by_Gage_Skidmore_2.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Levante_(cantante)",
+      "views": 75090,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 6363
+        },
+        {
+          "date": "2017-10-17",
+          "views": 5612
+        },
+        {
+          "date": "2017-10-18",
+          "views": 4245
+        },
+        {
+          "date": "2017-10-19",
+          "views": 12304
+        },
+        {
+          "date": "2017-10-20",
+          "views": 20159
+        },
+        {
+          "date": "2017-10-21",
+          "views": 14765
+        },
+        {
+          "date": "2017-10-22",
+          "views": 11642
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Levante%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Levante_(cantante)",
+      "article_url": "https://it.wikipedia.org/wiki/Levante_(cantante)",
+      "description": "cantautrice italiana (1987-)",
+      "image_filename": "Levante_Radio_Bruno_2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Levante_Radio_Bruno_2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Levante_Radio_Bruno_2024.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Suite_francese_(film)",
+      "views": 63091,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 0
+        },
+        {
+          "date": "2017-10-17",
+          "views": 0
+        },
+        {
+          "date": "2017-10-18",
+          "views": 0
+        },
+        {
+          "date": "2017-10-19",
+          "views": 0
+        },
+        {
+          "date": "2017-10-20",
+          "views": 0
+        },
+        {
+          "date": "2017-10-21",
+          "views": 0
+        },
+        {
+          "date": "2017-10-22",
+          "views": 63091
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Suite%20francese%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Suite_francese_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Suite_francese_(film)",
+      "description": "film del 2015 diretto da Saul Dibb",
+      "image_filename": "Suite_fran\u00e7aise_film.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/4/4b/Suite_fran%C3%A7aise_film.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Suite_fran%C3%A7aise_film.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "It_(personaggio)",
+      "views": 62718,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 3806
+        },
+        {
+          "date": "2017-10-17",
+          "views": 3366
+        },
+        {
+          "date": "2017-10-18",
+          "views": 3938
+        },
+        {
+          "date": "2017-10-19",
+          "views": 8316
+        },
+        {
+          "date": "2017-10-20",
+          "views": 12542
+        },
+        {
+          "date": "2017-10-21",
+          "views": 14169
+        },
+        {
+          "date": "2017-10-22",
+          "views": 16581
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=It%20%28personaggio%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=It_(personaggio)",
+      "article_url": "https://it.wikipedia.org/wiki/It_(personaggio)",
+      "description": "personaggio immaginario creato da Stephen King per il racconto eponimo",
+      "image_filename": "It_film_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a9/It_film_2017.jpg/1234px-It_film_2017.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:It_film_2017.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Carmen_Russo",
+      "views": 61944,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 12630
+        },
+        {
+          "date": "2017-10-17",
+          "views": 14724
+        },
+        {
+          "date": "2017-10-18",
+          "views": 10329
+        },
+        {
+          "date": "2017-10-19",
+          "views": 9006
+        },
+        {
+          "date": "2017-10-20",
+          "views": 5974
+        },
+        {
+          "date": "2017-10-21",
+          "views": 3807
+        },
+        {
+          "date": "2017-10-22",
+          "views": 5474
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Carmen%20Russo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Carmen_Russo",
+      "article_url": "https://it.wikipedia.org/wiki/Carmen_Russo",
+      "description": "showgirl, attrice, cantante e ballerina italiana (1959-)",
+      "image_filename": "Carmen_Russo_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Carmen_Russo_cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carmen_Russo_cropped.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Homefront_(film)",
+      "views": 60087,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 56933
+        },
+        {
+          "date": "2017-10-17",
+          "views": 3154
+        },
+        {
+          "date": "2017-10-18",
+          "views": 0
+        },
+        {
+          "date": "2017-10-19",
+          "views": 0
+        },
+        {
+          "date": "2017-10-20",
+          "views": 0
+        },
+        {
+          "date": "2017-10-21",
+          "views": 0
+        },
+        {
+          "date": "2017-10-22",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Homefront%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Homefront_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Homefront_(film)",
+      "description": "film del 2013 diretto da Gary Fleder",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Grey's_Anatomy",
+      "views": 57926,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 12358
+        },
+        {
+          "date": "2017-10-17",
+          "views": 8332
+        },
+        {
+          "date": "2017-10-18",
+          "views": 6113
+        },
+        {
+          "date": "2017-10-19",
+          "views": 6878
+        },
+        {
+          "date": "2017-10-20",
+          "views": 9620
+        },
+        {
+          "date": "2017-10-21",
+          "views": 7134
+        },
+        {
+          "date": "2017-10-22",
+          "views": 7491
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Blade_Runner",
+      "views": 54819,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 9960
+        },
+        {
+          "date": "2017-10-17",
+          "views": 7998
+        },
+        {
+          "date": "2017-10-18",
+          "views": 7082
+        },
+        {
+          "date": "2017-10-19",
+          "views": 6019
+        },
+        {
+          "date": "2017-10-20",
+          "views": 6250
+        },
+        {
+          "date": "2017-10-21",
+          "views": 8681
+        },
+        {
+          "date": "2017-10-22",
+          "views": 8829
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Blade%20Runner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Blade_Runner",
+      "article_url": "https://it.wikipedia.org/wiki/Blade_Runner",
+      "description": "film del 1982 diretto da Ridley Scott",
+      "image_filename": "Blade_Runner_box.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Blade_Runner_box.svg/1280px-Blade_Runner_box.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Blade_Runner_box.svg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Il_Trono_di_Spade_(serie_televisiva)",
+      "views": 54776,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 8731
+        },
+        {
+          "date": "2017-10-17",
+          "views": 8438
+        },
+        {
+          "date": "2017-10-18",
+          "views": 7280
+        },
+        {
+          "date": "2017-10-19",
+          "views": 6931
+        },
+        {
+          "date": "2017-10-20",
+          "views": 6427
+        },
+        {
+          "date": "2017-10-21",
+          "views": 7919
+        },
+        {
+          "date": "2017-10-22",
+          "views": 9050
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Trono%20di%20Spade%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Il_Trono_di_Spade_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Trono_di_Spade_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2019)",
+      "image_filename": "Il_Trono_di_Spade.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/27/Il_Trono_di_Spade.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Trono_di_Spade.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Maze_Runner_-_Il_labirinto",
+      "views": 54256,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 47464
+        },
+        {
+          "date": "2017-10-17",
+          "views": 5497
+        },
+        {
+          "date": "2017-10-18",
+          "views": 1295
+        },
+        {
+          "date": "2017-10-19",
+          "views": 0
+        },
+        {
+          "date": "2017-10-20",
+          "views": 0
+        },
+        {
+          "date": "2017-10-21",
+          "views": 0
+        },
+        {
+          "date": "2017-10-22",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Maze%20Runner%20-%20Il%20labirinto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Maze_Runner_-_Il_labirinto",
+      "article_url": "https://it.wikipedia.org/wiki/Maze_Runner_-_Il_labirinto",
+      "description": "film del 2014 diretto da Wes Ball",
+      "image_filename": "Maze_Runner_-_Il_labirint\u043e.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/ac/Maze_Runner_-_Il_labirint%D0%BE.png/1280px-Maze_Runner_-_Il_labirint%D0%BE.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maze_Runner_-_Il_labirint%D0%BE.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Fox_Sports",
+      "views": 51804,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 3183
+        },
+        {
+          "date": "2017-10-17",
+          "views": 1208
+        },
+        {
+          "date": "2017-10-18",
+          "views": 1744
+        },
+        {
+          "date": "2017-10-19",
+          "views": 1777
+        },
+        {
+          "date": "2017-10-20",
+          "views": 4969
+        },
+        {
+          "date": "2017-10-21",
+          "views": 12503
+        },
+        {
+          "date": "2017-10-22",
+          "views": 26420
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fox%20Sports&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Fox_Sports",
+      "article_url": "https://it.wikipedia.org/wiki/Fox_Sports",
+      "description": "divisione del gruppo televisivo statunitense Fox Broadcasting Company",
+      "image_filename": "FOX_Sports_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FOX_Sports_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Italia",
+      "views": 51528,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 7611
+        },
+        {
+          "date": "2017-10-17",
+          "views": 7337
+        },
+        {
+          "date": "2017-10-18",
+          "views": 7003
+        },
+        {
+          "date": "2017-10-19",
+          "views": 7001
+        },
+        {
+          "date": "2017-10-20",
+          "views": 6470
+        },
+        {
+          "date": "2017-10-21",
+          "views": 8040
+        },
+        {
+          "date": "2017-10-22",
+          "views": 8066
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Blade_Runner_2049",
+      "views": 51026,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 9214
+        },
+        {
+          "date": "2017-10-17",
+          "views": 7341
+        },
+        {
+          "date": "2017-10-18",
+          "views": 7020
+        },
+        {
+          "date": "2017-10-19",
+          "views": 5710
+        },
+        {
+          "date": "2017-10-20",
+          "views": 5732
+        },
+        {
+          "date": "2017-10-21",
+          "views": 7574
+        },
+        {
+          "date": "2017-10-22",
+          "views": 8435
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Blade%20Runner%202049&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Blade_Runner_2049",
+      "article_url": "https://it.wikipedia.org/wiki/Blade_Runner_2049",
+      "description": "film del 2017 diretto da Denis Villeneuve",
+      "image_filename": "Blade_Runner_2049.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/12/Blade_Runner_2049.jpg/1229px-Blade_Runner_2049.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Blade_Runner_2049.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Mauro_Icardi",
+      "views": 49854,
+      "daily_views": [
+        {
+          "date": "2017-10-16",
+          "views": 22564
+        },
+        {
+          "date": "2017-10-17",
+          "views": 8694
+        },
+        {
+          "date": "2017-10-18",
+          "views": 4005
+        },
+        {
+          "date": "2017-10-19",
+          "views": 3322
+        },
+        {
+          "date": "2017-10-20",
+          "views": 2958
+        },
+        {
+          "date": "2017-10-21",
+          "views": 5593
+        },
+        {
+          "date": "2017-10-22",
+          "views": 2718
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mauro%20Icardi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/16/2017,cd_max:10/22/2017&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-10-16&end=2017-10-22&pages=Mauro_Icardi",
+      "article_url": "https://it.wikipedia.org/wiki/Mauro_Icardi",
+      "description": "calciatore argentino (1993-)",
+      "image_filename": "Mauro_Icardi_en_2025.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mauro_Icardi_en_2025.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mauro_Icardi_en_2025.jpg",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

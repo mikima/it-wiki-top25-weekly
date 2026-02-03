@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2016,
+  "week": 2,
+  "start_date": "2016-01-11",
+  "end_date": "2016-01-17",
+  "days": [
+    "2016-01-11",
+    "2016-01-12",
+    "2016-01-13",
+    "2016-01-14",
+    "2016-01-15",
+    "2016-01-16",
+    "2016-01-17"
+  ],
+  "total_articles": 2440,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "David_Bowie",
+      "views": 1163198,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 781887
+        },
+        {
+          "date": "2016-01-12",
+          "views": 186105
+        },
+        {
+          "date": "2016-01-13",
+          "views": 69603
+        },
+        {
+          "date": "2016-01-14",
+          "views": 46749
+        },
+        {
+          "date": "2016-01-15",
+          "views": 26766
+        },
+        {
+          "date": "2016-01-16",
+          "views": 25683
+        },
+        {
+          "date": "2016-01-17",
+          "views": 26405
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=David%20Bowie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=David_Bowie",
+      "article_url": "https://it.wikipedia.org/wiki/David_Bowie",
+      "description": "cantautore, polistrumentista e attore britannico (1947-2016)",
+      "image_filename": "David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Alan_Rickman",
+      "views": 469491,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 0
+        },
+        {
+          "date": "2016-01-12",
+          "views": 0
+        },
+        {
+          "date": "2016-01-13",
+          "views": 0
+        },
+        {
+          "date": "2016-01-14",
+          "views": 346973
+        },
+        {
+          "date": "2016-01-15",
+          "views": 74986
+        },
+        {
+          "date": "2016-01-16",
+          "views": 27458
+        },
+        {
+          "date": "2016-01-17",
+          "views": 20074
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alan%20Rickman&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Alan_Rickman",
+      "article_url": "https://it.wikipedia.org/wiki/Alan_Rickman",
+      "description": "attore britannico (1946-2016)",
+      "image_filename": "Alan_Rickman_after_Seminar_(3).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Alan_Rickman_after_Seminar_%283%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alan_Rickman_after_Seminar_(3).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Charles_Perrault",
+      "views": 277329,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 13503
+        },
+        {
+          "date": "2016-01-12",
+          "views": 260078
+        },
+        {
+          "date": "2016-01-13",
+          "views": 3748
+        },
+        {
+          "date": "2016-01-14",
+          "views": 0
+        },
+        {
+          "date": "2016-01-15",
+          "views": 0
+        },
+        {
+          "date": "2016-01-16",
+          "views": 0
+        },
+        {
+          "date": "2016-01-17",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Charles%20Perrault&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Charles_Perrault",
+      "article_url": "https://it.wikipedia.org/wiki/Charles_Perrault",
+      "description": "scrittore francese",
+      "image_filename": "Portrait_de_Charles_Perrault_par_Charles_Le_Brun_(d\u00e9tail).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Portrait_de_Charles_Perrault_par_Charles_Le_Brun_%28d%C3%A9tail%29.jpg/1280px-Portrait_de_Charles_Perrault_par_Charles_Le_Brun_%28d%C3%A9tail%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Portrait_de_Charles_Perrault_par_Charles_Le_Brun_(d%C3%A9tail).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Revenant_-_Redivivo",
+      "views": 259563,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 36572
+        },
+        {
+          "date": "2016-01-12",
+          "views": 18641
+        },
+        {
+          "date": "2016-01-13",
+          "views": 15371
+        },
+        {
+          "date": "2016-01-14",
+          "views": 27794
+        },
+        {
+          "date": "2016-01-15",
+          "views": 28031
+        },
+        {
+          "date": "2016-01-16",
+          "views": 54812
+        },
+        {
+          "date": "2016-01-17",
+          "views": 78342
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Revenant%20-%20Redivivo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Revenant_-_Redivivo",
+      "article_url": "https://it.wikipedia.org/wiki/Revenant_-_Redivivo",
+      "description": "film del 2015 diretto da Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
+      "image_filename": "The_Revenant.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/71/The_Revenant.png/1280px-The_Revenant.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Revenant.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Leonardo_DiCaprio",
+      "views": 170157,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 43038
+        },
+        {
+          "date": "2016-01-12",
+          "views": 20664
+        },
+        {
+          "date": "2016-01-13",
+          "views": 12715
+        },
+        {
+          "date": "2016-01-14",
+          "views": 17978
+        },
+        {
+          "date": "2016-01-15",
+          "views": 17444
+        },
+        {
+          "date": "2016-01-16",
+          "views": 31676
+        },
+        {
+          "date": "2016-01-17",
+          "views": 26642
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Leonardo%20DiCaprio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Leonardo_DiCaprio",
+      "article_url": "https://it.wikipedia.org/wiki/Leonardo_DiCaprio",
+      "description": "attore e produttore cinematografico statunitense",
+      "image_filename": "Leonardo_DiCaprio_-_BFI_Southbank.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leonardo_DiCaprio_-_BFI_Southbank.jpg/1006px-Leonardo_DiCaprio_-_BFI_Southbank.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio_-_BFI_Southbank.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Shadowhunters_-_Citt\u00e0_di_cenere",
+      "views": 145182,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 145182
+        },
+        {
+          "date": "2016-01-12",
+          "views": 0
+        },
+        {
+          "date": "2016-01-13",
+          "views": 0
+        },
+        {
+          "date": "2016-01-14",
+          "views": 0
+        },
+        {
+          "date": "2016-01-15",
+          "views": 0
+        },
+        {
+          "date": "2016-01-16",
+          "views": 0
+        },
+        {
+          "date": "2016-01-17",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Shadowhunters%20-%20Citt%C3%A0%20di%20cenere&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Shadowhunters_-_Citt%C3%A0_di_cenere",
+      "article_url": "https://it.wikipedia.org/wiki/Shadowhunters_-_Citt%C3%A0_di_cenere",
+      "description": "romanzo scritto da Cassandra Clare",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Checco_Zalone",
+      "views": 121833,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 26012
+        },
+        {
+          "date": "2016-01-12",
+          "views": 19911
+        },
+        {
+          "date": "2016-01-13",
+          "views": 21726
+        },
+        {
+          "date": "2016-01-14",
+          "views": 15498
+        },
+        {
+          "date": "2016-01-15",
+          "views": 11980
+        },
+        {
+          "date": "2016-01-16",
+          "views": 13338
+        },
+        {
+          "date": "2016-01-17",
+          "views": 13368
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Checco%20Zalone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Checco_Zalone",
+      "article_url": "https://it.wikipedia.org/wiki/Checco_Zalone",
+      "description": "comico, sceneggiatore, attore e imitatore italiano (1977-)",
+      "image_filename": "Checco_Zalone.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Checco_Zalone.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Checco_Zalone.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Iman_(modella)",
+      "views": 121184,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 72058
+        },
+        {
+          "date": "2016-01-12",
+          "views": 26809
+        },
+        {
+          "date": "2016-01-13",
+          "views": 9353
+        },
+        {
+          "date": "2016-01-14",
+          "views": 4756
+        },
+        {
+          "date": "2016-01-15",
+          "views": 2681
+        },
+        {
+          "date": "2016-01-16",
+          "views": 2717
+        },
+        {
+          "date": "2016-01-17",
+          "views": 2810
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Iman%20%28modella%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Iman_(modella)",
+      "article_url": "https://it.wikipedia.org/wiki/Iman_(modella)",
+      "description": "modella e attrice somala",
+      "image_filename": "Iman_at_the_2009_Tribeca_Film_Festival.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Iman_at_the_2009_Tribeca_Film_Festival.jpg/1280px-Iman_at_the_2009_Tribeca_Film_Festival.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iman_at_the_2009_Tribeca_Film_Festival.jpg",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Luciano_Spalletti",
+      "views": 118609,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 5648
+        },
+        {
+          "date": "2016-01-12",
+          "views": 21461
+        },
+        {
+          "date": "2016-01-13",
+          "views": 42567
+        },
+        {
+          "date": "2016-01-14",
+          "views": 22672
+        },
+        {
+          "date": "2016-01-15",
+          "views": 8802
+        },
+        {
+          "date": "2016-01-16",
+          "views": 7275
+        },
+        {
+          "date": "2016-01-17",
+          "views": 10184
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luciano%20Spalletti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Luciano_Spalletti",
+      "article_url": "https://it.wikipedia.org/wiki/Luciano_Spalletti",
+      "description": "allenatore di calcio e calciatore italiano (1959-)",
+      "image_filename": "Luciano_Spalletti_2024.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Luciano_Spalletti_2024.jpg/1170px-Luciano_Spalletti_2024.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luciano_Spalletti_2024.jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "La_grande_scommessa",
+      "views": 109686,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 18483
+        },
+        {
+          "date": "2016-01-12",
+          "views": 14537
+        },
+        {
+          "date": "2016-01-13",
+          "views": 13060
+        },
+        {
+          "date": "2016-01-14",
+          "views": 15741
+        },
+        {
+          "date": "2016-01-15",
+          "views": 13554
+        },
+        {
+          "date": "2016-01-16",
+          "views": 16338
+        },
+        {
+          "date": "2016-01-17",
+          "views": 17973
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20grande%20scommessa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=La_grande_scommessa",
+      "article_url": "https://it.wikipedia.org/wiki/La_grande_scommessa",
+      "description": "film del 2015 diretto da Adam McKay",
+      "image_filename": "The_Big_Short_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Big_Short_logo.svg/1280px-The_Big_Short_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Big_Short_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Pallone_d'oro",
+      "views": 105087,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 48073
+        },
+        {
+          "date": "2016-01-12",
+          "views": 31845
+        },
+        {
+          "date": "2016-01-13",
+          "views": 10189
+        },
+        {
+          "date": "2016-01-14",
+          "views": 4733
+        },
+        {
+          "date": "2016-01-15",
+          "views": 3258
+        },
+        {
+          "date": "2016-01-16",
+          "views": 3255
+        },
+        {
+          "date": "2016-01-17",
+          "views": 3734
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pallone%20d%27oro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Pallone_d%27oro",
+      "article_url": "https://it.wikipedia.org/wiki/Pallone_d%27oro",
+      "description": "riconoscimento calcistico individuale",
+      "image_filename": "Camp_Nou_Experience_(Ank_Kumar,_INFOSYS)_02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Camp_Nou_Experience_%28Ank_Kumar%2C_INFOSYS%29_02.jpg/1280px-Camp_Nou_Experience_%28Ank_Kumar%2C_INFOSYS%29_02.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Camp_Nou_Experience_(Ank_Kumar%2C_INFOSYS)_02.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Creed_-_Nato_per_combattere",
+      "views": 99842,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 10274
+        },
+        {
+          "date": "2016-01-12",
+          "views": 7873
+        },
+        {
+          "date": "2016-01-13",
+          "views": 7897
+        },
+        {
+          "date": "2016-01-14",
+          "views": 15637
+        },
+        {
+          "date": "2016-01-15",
+          "views": 18677
+        },
+        {
+          "date": "2016-01-16",
+          "views": 18842
+        },
+        {
+          "date": "2016-01-17",
+          "views": 20642
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Creed%20-%20Nato%20per%20combattere&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Creed_-_Nato_per_combattere",
+      "article_url": "https://it.wikipedia.org/wiki/Creed_-_Nato_per_combattere",
+      "description": "film del 2015 diretto da Ryan Coogler",
+      "image_filename": "Creed_-_Nato_per_combattere.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/90/Creed_-_Nato_per_combattere.jpg/1280px-Creed_-_Nato_per_combattere.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Creed_-_Nato_per_combattere.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Quasi_amici_-_Intouchables",
+      "views": 96156,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 68834
+        },
+        {
+          "date": "2016-01-12",
+          "views": 19512
+        },
+        {
+          "date": "2016-01-13",
+          "views": 3360
+        },
+        {
+          "date": "2016-01-14",
+          "views": 1891
+        },
+        {
+          "date": "2016-01-15",
+          "views": 1179
+        },
+        {
+          "date": "2016-01-16",
+          "views": 1380
+        },
+        {
+          "date": "2016-01-17",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Quasi%20amici%20-%20Intouchables&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Quasi_amici_-_Intouchables",
+      "article_url": "https://it.wikipedia.org/wiki/Quasi_amici_-_Intouchables",
+      "description": "film del 2011 diretto da Olivier Nakache e \u00c9ric Toledano",
+      "image_filename": "Quasi_amici_-_Intouchables.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a6/Quasi_amici_-_Intouchables.png/1280px-Quasi_amici_-_Intouchables.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Quasi_amici_-_Intouchables.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Premi_Oscar_2016",
+      "views": 86977,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 11440
+        },
+        {
+          "date": "2016-01-12",
+          "views": 5237
+        },
+        {
+          "date": "2016-01-13",
+          "views": 3772
+        },
+        {
+          "date": "2016-01-14",
+          "views": 33388
+        },
+        {
+          "date": "2016-01-15",
+          "views": 13106
+        },
+        {
+          "date": "2016-01-16",
+          "views": 9077
+        },
+        {
+          "date": "2016-01-17",
+          "views": 10957
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Premi%20Oscar%202016&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Premi_Oscar_2016",
+      "article_url": "https://it.wikipedia.org/wiki/Premi_Oscar_2016",
+      "description": "",
+      "image_filename": "Chris_Rock_2012_Shankbone_2.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Chris_Rock_2012_Shankbone_2.JPG/1280px-Chris_Rock_2012_Shankbone_2.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Chris_Rock_2012_Shankbone_2.JPG",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Burkina_Faso",
+      "views": 82304,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 0
+        },
+        {
+          "date": "2016-01-12",
+          "views": 0
+        },
+        {
+          "date": "2016-01-13",
+          "views": 0
+        },
+        {
+          "date": "2016-01-14",
+          "views": 0
+        },
+        {
+          "date": "2016-01-15",
+          "views": 8081
+        },
+        {
+          "date": "2016-01-16",
+          "views": 45732
+        },
+        {
+          "date": "2016-01-17",
+          "views": 28491
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Burkina%20Faso&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Burkina_Faso",
+      "article_url": "https://it.wikipedia.org/wiki/Burkina_Faso",
+      "description": "stato dell'Africa occidentale",
+      "image_filename": "Flag_of_Burkina_Faso.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1280px-Flag_of_Burkina_Faso.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Burkina_Faso.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Duncan_Jones_(regista)",
+      "views": 77940,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 46874
+        },
+        {
+          "date": "2016-01-12",
+          "views": 16351
+        },
+        {
+          "date": "2016-01-13",
+          "views": 5949
+        },
+        {
+          "date": "2016-01-14",
+          "views": 3250
+        },
+        {
+          "date": "2016-01-15",
+          "views": 2071
+        },
+        {
+          "date": "2016-01-16",
+          "views": 1799
+        },
+        {
+          "date": "2016-01-17",
+          "views": 1646
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Duncan%20Jones%20%28regista%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Duncan_Jones_(regista)",
+      "article_url": "https://it.wikipedia.org/wiki/Duncan_Jones_(regista)",
+      "description": "regista britannico",
+      "image_filename": "Duncan_Jones_by_Gage_Skidmore_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Duncan_Jones_by_Gage_Skidmore_3.jpg/1280px-Duncan_Jones_by_Gage_Skidmore_3.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Duncan_Jones_by_Gage_Skidmore_3.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Golden_Globe_2016",
+      "views": 75702,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 52112
+        },
+        {
+          "date": "2016-01-12",
+          "views": 9444
+        },
+        {
+          "date": "2016-01-13",
+          "views": 3823
+        },
+        {
+          "date": "2016-01-14",
+          "views": 3934
+        },
+        {
+          "date": "2016-01-15",
+          "views": 2285
+        },
+        {
+          "date": "2016-01-16",
+          "views": 2151
+        },
+        {
+          "date": "2016-01-17",
+          "views": 1953
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Golden%20Globe%202016&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Golden_Globe_2016",
+      "article_url": "https://it.wikipedia.org/wiki/Golden_Globe_2016",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "The_Shannara_Chronicles",
+      "views": 74912,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 10221
+        },
+        {
+          "date": "2016-01-12",
+          "views": 8600
+        },
+        {
+          "date": "2016-01-13",
+          "views": 7116
+        },
+        {
+          "date": "2016-01-14",
+          "views": 6855
+        },
+        {
+          "date": "2016-01-15",
+          "views": 12793
+        },
+        {
+          "date": "2016-01-16",
+          "views": 14704
+        },
+        {
+          "date": "2016-01-17",
+          "views": 14623
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Shannara%20Chronicles&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=The_Shannara_Chronicles",
+      "article_url": "https://it.wikipedia.org/wiki/The_Shannara_Chronicles",
+      "description": "serie televisiva statunitense",
+      "image_filename": "The_Shannara_Chronicles.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/cf/The_Shannara_Chronicles.jpg/1280px-The_Shannara_Chronicles.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Shannara_Chronicles.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Lionel_Messi",
+      "views": 73588,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 22933
+        },
+        {
+          "date": "2016-01-12",
+          "views": 19613
+        },
+        {
+          "date": "2016-01-13",
+          "views": 8667
+        },
+        {
+          "date": "2016-01-14",
+          "views": 6025
+        },
+        {
+          "date": "2016-01-15",
+          "views": 4653
+        },
+        {
+          "date": "2016-01-16",
+          "views": 4733
+        },
+        {
+          "date": "2016-01-17",
+          "views": 6964
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lionel%20Messi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Lionel_Messi",
+      "article_url": "https://it.wikipedia.org/wiki/Lionel_Messi",
+      "description": "calciatore argentino (1987-)",
+      "image_filename": "Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg/1280px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Sylvester_Stallone",
+      "views": 68049,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 9662
+        },
+        {
+          "date": "2016-01-12",
+          "views": 8037
+        },
+        {
+          "date": "2016-01-13",
+          "views": 5421
+        },
+        {
+          "date": "2016-01-14",
+          "views": 9723
+        },
+        {
+          "date": "2016-01-15",
+          "views": 11681
+        },
+        {
+          "date": "2016-01-16",
+          "views": 11218
+        },
+        {
+          "date": "2016-01-17",
+          "views": 12307
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sylvester%20Stallone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Sylvester_Stallone",
+      "article_url": "https://it.wikipedia.org/wiki/Sylvester_Stallone",
+      "description": "attore, sceneggiatore, regista, produttore cinematografico e pittore statunitense (1946-)",
+      "image_filename": "Sylvester_Stallone_Cannes_2019.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sylvester_Stallone_Cannes_2019.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_Cannes_2019.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Quo_vado?",
+      "views": 67527,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 13139
+        },
+        {
+          "date": "2016-01-12",
+          "views": 9538
+        },
+        {
+          "date": "2016-01-13",
+          "views": 12081
+        },
+        {
+          "date": "2016-01-14",
+          "views": 8385
+        },
+        {
+          "date": "2016-01-15",
+          "views": 6713
+        },
+        {
+          "date": "2016-01-16",
+          "views": 7942
+        },
+        {
+          "date": "2016-01-17",
+          "views": 9729
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Quo%20vado%3F&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Quo_vado%3F",
+      "article_url": "https://it.wikipedia.org/wiki/Quo_vado%3F",
+      "description": "film del 2016 diretto da Gennaro Nunziante",
+      "image_filename": "Quo_vado.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3e/Quo_vado.png/1280px-Quo_vado.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Quo_vado.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Grey's_Anatomy",
+      "views": 64514,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 11567
+        },
+        {
+          "date": "2016-01-12",
+          "views": 12847
+        },
+        {
+          "date": "2016-01-13",
+          "views": 9565
+        },
+        {
+          "date": "2016-01-14",
+          "views": 9441
+        },
+        {
+          "date": "2016-01-15",
+          "views": 7170
+        },
+        {
+          "date": "2016-01-16",
+          "views": 6280
+        },
+        {
+          "date": "2016-01-17",
+          "views": 7644
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Arrow_(serie_televisiva)",
+      "views": 62988,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 8104
+        },
+        {
+          "date": "2016-01-12",
+          "views": 25309
+        },
+        {
+          "date": "2016-01-13",
+          "views": 10197
+        },
+        {
+          "date": "2016-01-14",
+          "views": 6300
+        },
+        {
+          "date": "2016-01-15",
+          "views": 4557
+        },
+        {
+          "date": "2016-01-16",
+          "views": 4093
+        },
+        {
+          "date": "2016-01-17",
+          "views": 4428
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Arrow%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Arrow_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Arrow_(serie_televisiva)",
+      "description": "serie televisiva statunitense del 2012",
+      "image_filename": "Arrow_2012.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/96/Arrow_2012.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Arrow_2012.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "The_Hateful_Eight",
+      "views": 60129,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 18635
+        },
+        {
+          "date": "2016-01-12",
+          "views": 7177
+        },
+        {
+          "date": "2016-01-13",
+          "views": 4941
+        },
+        {
+          "date": "2016-01-14",
+          "views": 9802
+        },
+        {
+          "date": "2016-01-15",
+          "views": 7317
+        },
+        {
+          "date": "2016-01-16",
+          "views": 6006
+        },
+        {
+          "date": "2016-01-17",
+          "views": 6251
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Hateful%20Eight&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=The_Hateful_Eight",
+      "article_url": "https://it.wikipedia.org/wiki/The_Hateful_Eight",
+      "description": "film del 2015 diretto da Quentin Tarantino",
+      "image_filename": "The_Hateful_8.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/The_Hateful_8.png/1280px-The_Hateful_8.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Hateful_8.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Alejandro_Gonz\u00e1lez_I\u00f1\u00e1rritu",
+      "views": 59906,
+      "daily_views": [
+        {
+          "date": "2016-01-11",
+          "views": 10309
+        },
+        {
+          "date": "2016-01-12",
+          "views": 5008
+        },
+        {
+          "date": "2016-01-13",
+          "views": 3909
+        },
+        {
+          "date": "2016-01-14",
+          "views": 6847
+        },
+        {
+          "date": "2016-01-15",
+          "views": 6774
+        },
+        {
+          "date": "2016-01-16",
+          "views": 11452
+        },
+        {
+          "date": "2016-01-17",
+          "views": 15607
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alejandro%20Gonz%C3%A1lez%20I%C3%B1%C3%A1rritu&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2016,cd_max:01/17/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-11&end=2016-01-17&pages=Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu",
+      "article_url": "https://it.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu",
+      "description": "regista messicano",
+      "image_filename": "Alejandro_Gonz\u00e1lez_I\u00f1\u00e1rritu_276.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_276.jpg/1280px-Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_276.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_276.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

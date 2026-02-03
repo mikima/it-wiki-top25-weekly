@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2020,
+  "week": 4,
+  "start_date": "2020-01-20",
+  "end_date": "2020-01-26",
+  "days": [
+    "2020-01-20",
+    "2020-01-21",
+    "2020-01-22",
+    "2020-01-23",
+    "2020-01-24",
+    "2020-01-25",
+    "2020-01-26"
+  ],
+  "total_articles": 2560,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Kobe_Bryant",
+      "views": 1078517,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 0
+        },
+        {
+          "date": "2020-01-21",
+          "views": 0
+        },
+        {
+          "date": "2020-01-22",
+          "views": 1451
+        },
+        {
+          "date": "2020-01-23",
+          "views": 0
+        },
+        {
+          "date": "2020-01-24",
+          "views": 0
+        },
+        {
+          "date": "2020-01-25",
+          "views": 0
+        },
+        {
+          "date": "2020-01-26",
+          "views": 1077066
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kobe%20Bryant&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Kobe_Bryant",
+      "article_url": "https://it.wikipedia.org/wiki/Kobe_Bryant",
+      "description": "cestista statunitense (1978-2020)",
+      "image_filename": "KBryant8.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/KBryant8.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:KBryant8.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Coronavirus",
+      "views": 398869,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 6785
+        },
+        {
+          "date": "2020-01-21",
+          "views": 22761
+        },
+        {
+          "date": "2020-01-22",
+          "views": 32809
+        },
+        {
+          "date": "2020-01-23",
+          "views": 64266
+        },
+        {
+          "date": "2020-01-24",
+          "views": 67674
+        },
+        {
+          "date": "2020-01-25",
+          "views": 104381
+        },
+        {
+          "date": "2020-01-26",
+          "views": 100193
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Coronavirus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Coronavirus",
+      "article_url": "https://it.wikipedia.org/wiki/Coronavirus",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Toque_blanche",
+      "views": 250536,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 0
+        },
+        {
+          "date": "2020-01-21",
+          "views": 0
+        },
+        {
+          "date": "2020-01-22",
+          "views": 242418
+        },
+        {
+          "date": "2020-01-23",
+          "views": 6522
+        },
+        {
+          "date": "2020-01-24",
+          "views": 1596
+        },
+        {
+          "date": "2020-01-25",
+          "views": 0
+        },
+        {
+          "date": "2020-01-26",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Toque%20blanche&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Toque_blanche",
+      "article_url": "https://it.wikipedia.org/wiki/Toque_blanche",
+      "description": "cappello da cuoco",
+      "image_filename": "Cooks_050918_154402.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cooks_050918_154402.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cooks_050918_154402.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Rai",
+      "views": 194763,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 30839
+        },
+        {
+          "date": "2020-01-21",
+          "views": 29588
+        },
+        {
+          "date": "2020-01-22",
+          "views": 29280
+        },
+        {
+          "date": "2020-01-23",
+          "views": 26861
+        },
+        {
+          "date": "2020-01-24",
+          "views": 30034
+        },
+        {
+          "date": "2020-01-25",
+          "views": 27458
+        },
+        {
+          "date": "2020-01-26",
+          "views": 20703
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Persona_dell'anno",
+      "views": 182815,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 0
+        },
+        {
+          "date": "2020-01-21",
+          "views": 0
+        },
+        {
+          "date": "2020-01-22",
+          "views": 157895
+        },
+        {
+          "date": "2020-01-23",
+          "views": 20305
+        },
+        {
+          "date": "2020-01-24",
+          "views": 3106
+        },
+        {
+          "date": "2020-01-25",
+          "views": 1509
+        },
+        {
+          "date": "2020-01-26",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Persona%20dell%27anno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Persona_dell%27anno",
+      "article_url": "https://it.wikipedia.org/wiki/Persona_dell%27anno",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "SARS",
+      "views": 167999,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 12453
+        },
+        {
+          "date": "2020-01-21",
+          "views": 28411
+        },
+        {
+          "date": "2020-01-22",
+          "views": 23353
+        },
+        {
+          "date": "2020-01-23",
+          "views": 25976
+        },
+        {
+          "date": "2020-01-24",
+          "views": 20735
+        },
+        {
+          "date": "2020-01-25",
+          "views": 28210
+        },
+        {
+          "date": "2020-01-26",
+          "views": 28861
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=SARS&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=SARS",
+      "article_url": "https://it.wikipedia.org/wiki/SARS",
+      "description": "sindrome respiratoria acuta grave",
+      "image_filename": "Coronaviruses_004_lores.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/1280px-Coronaviruses_004_lores.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronaviruses_004_lores.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Blue_Monday_(data)",
+      "views": 151997,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 129207
+        },
+        {
+          "date": "2020-01-21",
+          "views": 20004
+        },
+        {
+          "date": "2020-01-22",
+          "views": 2786
+        },
+        {
+          "date": "2020-01-23",
+          "views": 0
+        },
+        {
+          "date": "2020-01-24",
+          "views": 0
+        },
+        {
+          "date": "2020-01-25",
+          "views": 0
+        },
+        {
+          "date": "2020-01-26",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Blue%20Monday%20%28data%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Blue_Monday_(data)",
+      "article_url": "https://it.wikipedia.org/wiki/Blue_Monday_(data)",
+      "description": "giorno pi\u00f9 deprimente dell'anno per gli abitanti dell'emisfero boreale (nord).",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Sex_Education",
+      "views": 149553,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 31034
+        },
+        {
+          "date": "2020-01-21",
+          "views": 26469
+        },
+        {
+          "date": "2020-01-22",
+          "views": 22244
+        },
+        {
+          "date": "2020-01-23",
+          "views": 19789
+        },
+        {
+          "date": "2020-01-24",
+          "views": 16532
+        },
+        {
+          "date": "2020-01-25",
+          "views": 16296
+        },
+        {
+          "date": "2020-01-26",
+          "views": 17189
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sex%20Education&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Sex_Education",
+      "article_url": "https://it.wikipedia.org/wiki/Sex_Education",
+      "description": "serie televisiva britannica del 2019",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Bettino_Craxi",
+      "views": 123820,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 32675
+        },
+        {
+          "date": "2020-01-21",
+          "views": 28487
+        },
+        {
+          "date": "2020-01-22",
+          "views": 14165
+        },
+        {
+          "date": "2020-01-23",
+          "views": 10250
+        },
+        {
+          "date": "2020-01-24",
+          "views": 11013
+        },
+        {
+          "date": "2020-01-25",
+          "views": 11099
+        },
+        {
+          "date": "2020-01-26",
+          "views": 16131
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bettino%20Craxi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Bettino_Craxi",
+      "article_url": "https://it.wikipedia.org/wiki/Bettino_Craxi",
+      "description": "politico italiano (1934-2000)",
+      "image_filename": "Bettino_Craxi_MEP_Portrait.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bettino_Craxi_MEP_Portrait.jpg/1280px-Bettino_Craxi_MEP_Portrait.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bettino_Craxi_MEP_Portrait.jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "1917_(film)",
+      "views": 119760,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 6423
+        },
+        {
+          "date": "2020-01-21",
+          "views": 6715
+        },
+        {
+          "date": "2020-01-22",
+          "views": 8483
+        },
+        {
+          "date": "2020-01-23",
+          "views": 18072
+        },
+        {
+          "date": "2020-01-24",
+          "views": 19024
+        },
+        {
+          "date": "2020-01-25",
+          "views": 31359
+        },
+        {
+          "date": "2020-01-26",
+          "views": 29684
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=1917%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=1917_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/1917_(film)",
+      "description": "film del 2019 diretto da Sam Mendes",
+      "image_filename": "1917logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/1917logo.svg/1280px-1917logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:1917logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Victor_Moses",
+      "views": 117572,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 30454
+        },
+        {
+          "date": "2020-01-21",
+          "views": 31600
+        },
+        {
+          "date": "2020-01-22",
+          "views": 10713
+        },
+        {
+          "date": "2020-01-23",
+          "views": 24496
+        },
+        {
+          "date": "2020-01-24",
+          "views": 11007
+        },
+        {
+          "date": "2020-01-25",
+          "views": 5117
+        },
+        {
+          "date": "2020-01-26",
+          "views": 4185
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Victor%20Moses&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Victor_Moses",
+      "article_url": "https://it.wikipedia.org/wiki/Victor_Moses",
+      "description": "calciatore nigeriano (1990-)",
+      "image_filename": "Victor_Moses_(SPA-AKH).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Victor_Moses_%28SPA-AKH%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Victor_Moses_(SPA-AKH).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Jojo_Rabbit",
+      "views": 111498,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 14572
+        },
+        {
+          "date": "2020-01-21",
+          "views": 12441
+        },
+        {
+          "date": "2020-01-22",
+          "views": 12521
+        },
+        {
+          "date": "2020-01-23",
+          "views": 13987
+        },
+        {
+          "date": "2020-01-24",
+          "views": 13806
+        },
+        {
+          "date": "2020-01-25",
+          "views": 22463
+        },
+        {
+          "date": "2020-01-26",
+          "views": 21708
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jojo%20Rabbit&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Jojo_Rabbit",
+      "article_url": "https://it.wikipedia.org/wiki/Jojo_Rabbit",
+      "description": "film del 2019 diretto da Taika Waititi",
+      "image_filename": "Jojo_Rabbit.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Jojo_Rabbit.png/1280px-Jojo_Rabbit.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jojo_Rabbit.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Luis_Alberto_Spinetta",
+      "views": 105230,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 0
+        },
+        {
+          "date": "2020-01-21",
+          "views": 0
+        },
+        {
+          "date": "2020-01-22",
+          "views": 4422
+        },
+        {
+          "date": "2020-01-23",
+          "views": 98611
+        },
+        {
+          "date": "2020-01-24",
+          "views": 2197
+        },
+        {
+          "date": "2020-01-25",
+          "views": 0
+        },
+        {
+          "date": "2020-01-26",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luis%20Alberto%20Spinetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Luis_Alberto_Spinetta",
+      "article_url": "https://it.wikipedia.org/wiki/Luis_Alberto_Spinetta",
+      "description": "cantante, chitarrista e compositore argentino",
+      "image_filename": "Luisalbertospinetta.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Luisalbertospinetta.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luisalbertospinetta.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Anna_May_Wong",
+      "views": 105038,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 0
+        },
+        {
+          "date": "2020-01-21",
+          "views": 3471
+        },
+        {
+          "date": "2020-01-22",
+          "views": 99558
+        },
+        {
+          "date": "2020-01-23",
+          "views": 2009
+        },
+        {
+          "date": "2020-01-24",
+          "views": 0
+        },
+        {
+          "date": "2020-01-25",
+          "views": 0
+        },
+        {
+          "date": "2020-01-26",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Anna%20May%20Wong&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Anna_May_Wong",
+      "article_url": "https://it.wikipedia.org/wiki/Anna_May_Wong",
+      "description": "attrice statunitense (1905-1961)",
+      "image_filename": "Anna_May_Wong_Stars_of_the_Photoplay.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Anna_May_Wong_Stars_of_the_Photoplay.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anna_May_Wong_Stars_of_the_Photoplay.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Time",
+      "views": 98818,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 0
+        },
+        {
+          "date": "2020-01-21",
+          "views": 0
+        },
+        {
+          "date": "2020-01-22",
+          "views": 88016
+        },
+        {
+          "date": "2020-01-23",
+          "views": 9242
+        },
+        {
+          "date": "2020-01-24",
+          "views": 1560
+        },
+        {
+          "date": "2020-01-25",
+          "views": 0
+        },
+        {
+          "date": "2020-01-26",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Time&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Time",
+      "article_url": "https://it.wikipedia.org/wiki/Time",
+      "description": "settimanale statunitense",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Antonella_Elia",
+      "views": 95262,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 10253
+        },
+        {
+          "date": "2020-01-21",
+          "views": 7026
+        },
+        {
+          "date": "2020-01-22",
+          "views": 2986
+        },
+        {
+          "date": "2020-01-23",
+          "views": 3250
+        },
+        {
+          "date": "2020-01-24",
+          "views": 48563
+        },
+        {
+          "date": "2020-01-25",
+          "views": 18551
+        },
+        {
+          "date": "2020-01-26",
+          "views": 4633
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Antonella%20Elia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Antonella_Elia",
+      "article_url": "https://it.wikipedia.org/wiki/Antonella_Elia",
+      "description": "attrice, conduttrice televisiva e showgirl italiana (1963-)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Federico_Fellini",
+      "views": 94130,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 49408
+        },
+        {
+          "date": "2020-01-21",
+          "views": 19313
+        },
+        {
+          "date": "2020-01-22",
+          "views": 8318
+        },
+        {
+          "date": "2020-01-23",
+          "views": 4466
+        },
+        {
+          "date": "2020-01-24",
+          "views": 3990
+        },
+        {
+          "date": "2020-01-25",
+          "views": 5144
+        },
+        {
+          "date": "2020-01-26",
+          "views": 3491
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Federico%20Fellini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Federico_Fellini",
+      "article_url": "https://it.wikipedia.org/wiki/Federico_Fellini",
+      "description": "regista, sceneggiatore, fumettista, attore e scrittore italiano (1920-1993)",
+      "image_filename": "Federico_Fellini_010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Federico_Fellini_010.jpg/1280px-Federico_Fellini_010.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Federico_Fellini_010.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Liliana_Segre",
+      "views": 92504,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 11656
+        },
+        {
+          "date": "2020-01-21",
+          "views": 8154
+        },
+        {
+          "date": "2020-01-22",
+          "views": 8832
+        },
+        {
+          "date": "2020-01-23",
+          "views": 8176
+        },
+        {
+          "date": "2020-01-24",
+          "views": 8277
+        },
+        {
+          "date": "2020-01-25",
+          "views": 8076
+        },
+        {
+          "date": "2020-01-26",
+          "views": 39333
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Liliana%20Segre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Liliana_Segre",
+      "article_url": "https://it.wikipedia.org/wiki/Liliana_Segre",
+      "description": "antifascista e politica italiana, superstite dell'Olocausto e testimone attiva della Shoah (1930-)",
+      "image_filename": "Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Liliana_Segre_%28XVIII_Legislatura_Senato%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
+      "image_license": "CC BY 1.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Giorno_della_Memoria",
+      "views": 89874,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 6221
+        },
+        {
+          "date": "2020-01-21",
+          "views": 6770
+        },
+        {
+          "date": "2020-01-22",
+          "views": 8205
+        },
+        {
+          "date": "2020-01-23",
+          "views": 10670
+        },
+        {
+          "date": "2020-01-24",
+          "views": 11864
+        },
+        {
+          "date": "2020-01-25",
+          "views": 14395
+        },
+        {
+          "date": "2020-01-26",
+          "views": 31749
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorno%20della%20Memoria&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Giorno_della_Memoria",
+      "article_url": "https://it.wikipedia.org/wiki/Giorno_della_Memoria",
+      "description": "giornata internazionale per la commemorazione delle vittime dell'Olocausto",
+      "image_filename": "Auschwitz_I_entrance_snow.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Auschwitz_I_entrance_snow.jpg/1280px-Auschwitz_I_entrance_snow.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_entrance_snow.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Junior_Cally",
+      "views": 89733,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 22787
+        },
+        {
+          "date": "2020-01-21",
+          "views": 16190
+        },
+        {
+          "date": "2020-01-22",
+          "views": 14431
+        },
+        {
+          "date": "2020-01-23",
+          "views": 10141
+        },
+        {
+          "date": "2020-01-24",
+          "views": 7401
+        },
+        {
+          "date": "2020-01-25",
+          "views": 8949
+        },
+        {
+          "date": "2020-01-26",
+          "views": 9834
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Junior%20Cally&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Junior_Cally",
+      "article_url": "https://it.wikipedia.org/wiki/Junior_Cally",
+      "description": "rapper italiano (1991-)",
+      "image_filename": "Junior_Cally_Funweek.it_2024.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Junior_Cally_Funweek.it_2024.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Junior_Cally_Funweek.it_2024.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Christian_Eriksen",
+      "views": 86684,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 3901
+        },
+        {
+          "date": "2020-01-21",
+          "views": 4731
+        },
+        {
+          "date": "2020-01-22",
+          "views": 4212
+        },
+        {
+          "date": "2020-01-23",
+          "views": 10586
+        },
+        {
+          "date": "2020-01-24",
+          "views": 31009
+        },
+        {
+          "date": "2020-01-25",
+          "views": 21714
+        },
+        {
+          "date": "2020-01-26",
+          "views": 10531
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Christian%20Eriksen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Christian_Eriksen",
+      "article_url": "https://it.wikipedia.org/wiki/Christian_Eriksen",
+      "description": "calciatore danese (1992-)",
+      "image_filename": "20140904_-_Christian_Eriksen_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/20140904_-_Christian_Eriksen_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:20140904_-_Christian_Eriksen_(cropped).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Cristiano_Ronaldo",
+      "views": 83210,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 19715
+        },
+        {
+          "date": "2020-01-21",
+          "views": 7300
+        },
+        {
+          "date": "2020-01-22",
+          "views": 17849
+        },
+        {
+          "date": "2020-01-23",
+          "views": 16824
+        },
+        {
+          "date": "2020-01-24",
+          "views": 6571
+        },
+        {
+          "date": "2020-01-25",
+          "views": 5594
+        },
+        {
+          "date": "2020-01-26",
+          "views": 9357
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Cristiano_Ronaldo",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "description": "calciatore portoghese (1985-)",
+      "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Jack_lo_squartatore",
+      "views": 82956,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 0
+        },
+        {
+          "date": "2020-01-21",
+          "views": 0
+        },
+        {
+          "date": "2020-01-22",
+          "views": 75319
+        },
+        {
+          "date": "2020-01-23",
+          "views": 6251
+        },
+        {
+          "date": "2020-01-24",
+          "views": 1386
+        },
+        {
+          "date": "2020-01-25",
+          "views": 0
+        },
+        {
+          "date": "2020-01-26",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jack%20lo%20squartatore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Jack_lo_squartatore",
+      "article_url": "https://it.wikipedia.org/wiki/Jack_lo_squartatore",
+      "description": "serial killer ignoto che ag\u00ec a Londra nel 1888",
+      "image_filename": "Jack-the-Ripper-The-Nemesis-of-Neglect-Punch-London-Charivari-cartoon-poem-1888-09-29.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Jack-the-Ripper-The-Nemesis-of-Neglect-Punch-London-Charivari-cartoon-poem-1888-09-29.jpg/1117px-Jack-the-Ripper-The-Nemesis-of-Neglect-Punch-London-Charivari-cartoon-poem-1888-09-29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jack-the-Ripper-The-Nemesis-of-Neglect-Punch-London-Charivari-cartoon-poem-1888-09-29.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Wuhan",
+      "views": 77594,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 1707
+        },
+        {
+          "date": "2020-01-21",
+          "views": 5728
+        },
+        {
+          "date": "2020-01-22",
+          "views": 10824
+        },
+        {
+          "date": "2020-01-23",
+          "views": 18025
+        },
+        {
+          "date": "2020-01-24",
+          "views": 12683
+        },
+        {
+          "date": "2020-01-25",
+          "views": 15164
+        },
+        {
+          "date": "2020-01-26",
+          "views": 13463
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Wuhan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Wuhan",
+      "article_url": "https://it.wikipedia.org/wiki/Wuhan",
+      "description": "citt\u00e0 cinese",
+      "image_filename": "WuhanSkyline.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WuhanSkyline.jpg/1280px-WuhanSkyline.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:WuhanSkyline.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Charles_Lindbergh",
+      "views": 77053,
+      "daily_views": [
+        {
+          "date": "2020-01-20",
+          "views": 0
+        },
+        {
+          "date": "2020-01-21",
+          "views": 0
+        },
+        {
+          "date": "2020-01-22",
+          "views": 62510
+        },
+        {
+          "date": "2020-01-23",
+          "views": 10264
+        },
+        {
+          "date": "2020-01-24",
+          "views": 2684
+        },
+        {
+          "date": "2020-01-25",
+          "views": 1595
+        },
+        {
+          "date": "2020-01-26",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Charles%20Lindbergh&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Charles_Lindbergh",
+      "article_url": "https://it.wikipedia.org/wiki/Charles_Lindbergh",
+      "description": "aviatore statunitense (1902-1974)",
+      "image_filename": "Col_Charles_Lindbergh,_original,_hec.21329.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Col_Charles_Lindbergh%2C_original%2C_hec.21329.jpg/1280px-Col_Charles_Lindbergh%2C_original%2C_hec.21329.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Col_Charles_Lindbergh%2C_original%2C_hec.21329.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

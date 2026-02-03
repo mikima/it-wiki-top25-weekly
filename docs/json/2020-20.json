@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2020,
+  "week": 20,
+  "start_date": "2020-05-11",
+  "end_date": "2020-05-17",
+  "days": [
+    "2020-05-11",
+    "2020-05-12",
+    "2020-05-13",
+    "2020-05-14",
+    "2020-05-15",
+    "2020-05-16",
+    "2020-05-17"
+  ],
+  "total_articles": 2602,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Ezio_Bosso",
+      "views": 844122,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 0
+        },
+        {
+          "date": "2020-05-12",
+          "views": 0
+        },
+        {
+          "date": "2020-05-13",
+          "views": 0
+        },
+        {
+          "date": "2020-05-14",
+          "views": 0
+        },
+        {
+          "date": "2020-05-15",
+          "views": 588233
+        },
+        {
+          "date": "2020-05-16",
+          "views": 183328
+        },
+        {
+          "date": "2020-05-17",
+          "views": 72561
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ezio%20Bosso&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Ezio_Bosso",
+      "article_url": "https://it.wikipedia.org/wiki/Ezio_Bosso",
+      "description": "compositore, pianista, contrabbassista e direttore d'orchestra italiano (1971-2020)",
+      "image_filename": "Concverto_per_la_terra.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Concverto_per_la_terra.jpg/1280px-Concverto_per_la_terra.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Concverto_per_la_terra.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Mia_Martini",
+      "views": 349220,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 7832
+        },
+        {
+          "date": "2020-05-12",
+          "views": 257646
+        },
+        {
+          "date": "2020-05-13",
+          "views": 53675
+        },
+        {
+          "date": "2020-05-14",
+          "views": 13407
+        },
+        {
+          "date": "2020-05-15",
+          "views": 6845
+        },
+        {
+          "date": "2020-05-16",
+          "views": 5684
+        },
+        {
+          "date": "2020-05-17",
+          "views": 4131
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mia%20Martini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Mia_Martini",
+      "article_url": "https://it.wikipedia.org/wiki/Mia_Martini",
+      "description": "cantautrice italiana (1947-1995)",
+      "image_filename": "Mia_Martini_(69).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Mia_Martini_%2869%29.jpg/1280px-Mia_Martini_%2869%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mia_Martini_(69).jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "John_Paul_Getty_III",
+      "views": 305596,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 6609
+        },
+        {
+          "date": "2020-05-12",
+          "views": 5057
+        },
+        {
+          "date": "2020-05-13",
+          "views": 1860
+        },
+        {
+          "date": "2020-05-14",
+          "views": 6173
+        },
+        {
+          "date": "2020-05-15",
+          "views": 230287
+        },
+        {
+          "date": "2020-05-16",
+          "views": 45160
+        },
+        {
+          "date": "2020-05-17",
+          "views": 10450
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=John%20Paul%20Getty%20III&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=John_Paul_Getty_III",
+      "article_url": "https://it.wikipedia.org/wiki/John_Paul_Getty_III",
+      "description": "imprenditore statunitense (1956-2011)",
+      "image_filename": "John_Paul_Getty_III.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/John_Paul_Getty_III.jpg/1024px-John_Paul_Getty_III.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:John_Paul_Getty_III.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Skam_Italia",
+      "views": 195773,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 10941
+        },
+        {
+          "date": "2020-05-12",
+          "views": 9846
+        },
+        {
+          "date": "2020-05-13",
+          "views": 10997
+        },
+        {
+          "date": "2020-05-14",
+          "views": 18055
+        },
+        {
+          "date": "2020-05-15",
+          "views": 56874
+        },
+        {
+          "date": "2020-05-16",
+          "views": 49803
+        },
+        {
+          "date": "2020-05-17",
+          "views": 39257
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Skam%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Skam_Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Skam_Italia",
+      "description": "serie televisiva italiana",
+      "image_filename": "Skam_Italia_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Skam_Italia_logo.svg/1280px-Skam_Italia_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Skam_Italia_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Sindrome_di_Stoccolma",
+      "views": 194823,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 83811
+        },
+        {
+          "date": "2020-05-12",
+          "views": 50848
+        },
+        {
+          "date": "2020-05-13",
+          "views": 22580
+        },
+        {
+          "date": "2020-05-14",
+          "views": 12457
+        },
+        {
+          "date": "2020-05-15",
+          "views": 13198
+        },
+        {
+          "date": "2020-05-16",
+          "views": 5897
+        },
+        {
+          "date": "2020-05-17",
+          "views": 6032
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sindrome%20di%20Stoccolma&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Sindrome_di_Stoccolma",
+      "article_url": "https://it.wikipedia.org/wiki/Sindrome_di_Stoccolma",
+      "description": "stato di dipendenza psicologica e/o affettiva",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Rai",
+      "views": 175297,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 22249
+        },
+        {
+          "date": "2020-05-12",
+          "views": 25873
+        },
+        {
+          "date": "2020-05-13",
+          "views": 27535
+        },
+        {
+          "date": "2020-05-14",
+          "views": 24628
+        },
+        {
+          "date": "2020-05-15",
+          "views": 26297
+        },
+        {
+          "date": "2020-05-16",
+          "views": 24949
+        },
+        {
+          "date": "2020-05-17",
+          "views": 23766
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Sara_Cunial",
+      "views": 160608,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 0
+        },
+        {
+          "date": "2020-05-12",
+          "views": 0
+        },
+        {
+          "date": "2020-05-13",
+          "views": 0
+        },
+        {
+          "date": "2020-05-14",
+          "views": 41499
+        },
+        {
+          "date": "2020-05-15",
+          "views": 56448
+        },
+        {
+          "date": "2020-05-16",
+          "views": 34986
+        },
+        {
+          "date": "2020-05-17",
+          "views": 27675
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sara%20Cunial&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Sara_Cunial",
+      "article_url": "https://it.wikipedia.org/wiki/Sara_Cunial",
+      "description": "politica italiana",
+      "image_filename": "Sara_Cunial_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sara_Cunial_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sara_Cunial_2018.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Teresa_Bellanova",
+      "views": 143521,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 3140
+        },
+        {
+          "date": "2020-05-12",
+          "views": 2474
+        },
+        {
+          "date": "2020-05-13",
+          "views": 34214
+        },
+        {
+          "date": "2020-05-14",
+          "views": 58177
+        },
+        {
+          "date": "2020-05-15",
+          "views": 18481
+        },
+        {
+          "date": "2020-05-16",
+          "views": 18775
+        },
+        {
+          "date": "2020-05-17",
+          "views": 8260
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Teresa%20Bellanova&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Teresa_Bellanova",
+      "article_url": "https://it.wikipedia.org/wiki/Teresa_Bellanova",
+      "description": "politica italiana (1958-)",
+      "image_filename": "Teresa_Bellanova_datisenato_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Teresa_Bellanova_datisenato_2018.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Teresa_Bellanova_datisenato_2018.jpg",
+      "image_license": "CC BY 3.0 it",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Jean_Paul_Getty",
+      "views": 132267,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 2629
+        },
+        {
+          "date": "2020-05-12",
+          "views": 1986
+        },
+        {
+          "date": "2020-05-13",
+          "views": 0
+        },
+        {
+          "date": "2020-05-14",
+          "views": 2216
+        },
+        {
+          "date": "2020-05-15",
+          "views": 99618
+        },
+        {
+          "date": "2020-05-16",
+          "views": 20956
+        },
+        {
+          "date": "2020-05-17",
+          "views": 4862
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jean%20Paul%20Getty&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Jean_Paul_Getty",
+      "article_url": "https://it.wikipedia.org/wiki/Jean_Paul_Getty",
+      "description": "imprenditore e collezionista d'arte statunitense (1892-1976)",
+      "image_filename": "J_Paul_Getty_crop.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/J_Paul_Getty_crop.jpg/1280px-J_Paul_Getty_crop.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:J_Paul_Getty_crop.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "Silvana_De_Mari",
+      "views": 129533,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 16459
+        },
+        {
+          "date": "2020-05-12",
+          "views": 52106
+        },
+        {
+          "date": "2020-05-13",
+          "views": 27610
+        },
+        {
+          "date": "2020-05-14",
+          "views": 14136
+        },
+        {
+          "date": "2020-05-15",
+          "views": 7513
+        },
+        {
+          "date": "2020-05-16",
+          "views": 6056
+        },
+        {
+          "date": "2020-05-17",
+          "views": 5653
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Silvana%20De%20Mari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Silvana_De_Mari",
+      "article_url": "https://it.wikipedia.org/wiki/Silvana_De_Mari",
+      "description": "scrittrice italiana",
+      "image_filename": "Silvana_De_Mari_-_Lucca_Comics_&_Games_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Silvana_De_Mari_-_Lucca_Comics_%26_Games_2016.jpg/1280px-Silvana_De_Mari_-_Lucca_Comics_%26_Games_2016.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Silvana_De_Mari_-_Lucca_Comics_%26_Games_2016.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Michael_Jordan",
+      "views": 125822,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 24754
+        },
+        {
+          "date": "2020-05-12",
+          "views": 20523
+        },
+        {
+          "date": "2020-05-13",
+          "views": 16464
+        },
+        {
+          "date": "2020-05-14",
+          "views": 13185
+        },
+        {
+          "date": "2020-05-15",
+          "views": 12730
+        },
+        {
+          "date": "2020-05-16",
+          "views": 14658
+        },
+        {
+          "date": "2020-05-17",
+          "views": 23508
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michael%20Jordan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Michael_Jordan",
+      "article_url": "https://it.wikipedia.org/wiki/Michael_Jordan",
+      "description": "dirigente sportivo, imprenditore e cestista statunitense (1963-)",
+      "image_filename": "Michael_Jordan_in_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_2014.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "The_O.C.",
+      "views": 95680,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 14985
+        },
+        {
+          "date": "2020-05-12",
+          "views": 13432
+        },
+        {
+          "date": "2020-05-13",
+          "views": 13298
+        },
+        {
+          "date": "2020-05-14",
+          "views": 12073
+        },
+        {
+          "date": "2020-05-15",
+          "views": 11563
+        },
+        {
+          "date": "2020-05-16",
+          "views": 12752
+        },
+        {
+          "date": "2020-05-17",
+          "views": 17577
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20O.C.&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=The_O.C.",
+      "article_url": "https://it.wikipedia.org/wiki/The_O.C.",
+      "description": "serie TV statunitense (2003-2007)",
+      "image_filename": "The_OC.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/3f/The_OC.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_OC.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Giuseppe_Conte",
+      "views": 92187,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 6848
+        },
+        {
+          "date": "2020-05-12",
+          "views": 6039
+        },
+        {
+          "date": "2020-05-13",
+          "views": 17001
+        },
+        {
+          "date": "2020-05-14",
+          "views": 11251
+        },
+        {
+          "date": "2020-05-15",
+          "views": 8077
+        },
+        {
+          "date": "2020-05-16",
+          "views": 27863
+        },
+        {
+          "date": "2020-05-17",
+          "views": 15108
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giuseppe%20Conte&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Giuseppe_Conte",
+      "article_url": "https://it.wikipedia.org/wiki/Giuseppe_Conte",
+      "description": "politico e avvocato italiano (1964-)",
+      "image_filename": "Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Giuseppe_Conte_-_Quirinale_2022_%28cropped2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Tutti_i_soldi_del_mondo",
+      "views": 90600,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 3809
+        },
+        {
+          "date": "2020-05-12",
+          "views": 3366
+        },
+        {
+          "date": "2020-05-13",
+          "views": 0
+        },
+        {
+          "date": "2020-05-14",
+          "views": 3445
+        },
+        {
+          "date": "2020-05-15",
+          "views": 67447
+        },
+        {
+          "date": "2020-05-16",
+          "views": 10163
+        },
+        {
+          "date": "2020-05-17",
+          "views": 2370
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tutti%20i%20soldi%20del%20mondo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Tutti_i_soldi_del_mondo",
+      "article_url": "https://it.wikipedia.org/wiki/Tutti_i_soldi_del_mondo",
+      "description": "film del 2017 diretto da Ridley Scott",
+      "image_filename": "AlltheMoneyintheWorld.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/ce/AlltheMoneyintheWorld.png/1280px-AlltheMoneyintheWorld.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:AlltheMoneyintheWorld.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Lucia_Azzolina",
+      "views": 87177,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 3459
+        },
+        {
+          "date": "2020-05-12",
+          "views": 3302
+        },
+        {
+          "date": "2020-05-13",
+          "views": 16403
+        },
+        {
+          "date": "2020-05-14",
+          "views": 13915
+        },
+        {
+          "date": "2020-05-15",
+          "views": 7121
+        },
+        {
+          "date": "2020-05-16",
+          "views": 29708
+        },
+        {
+          "date": "2020-05-17",
+          "views": 13269
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lucia%20Azzolina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Lucia_Azzolina",
+      "article_url": "https://it.wikipedia.org/wiki/Lucia_Azzolina",
+      "description": "politica italiana (1982-)",
+      "image_filename": "Lucia_Azzolina_2021_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lucia_Azzolina_2021_%28cropped%29.jpg/1280px-Lucia_Azzolina_2021_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lucia_Azzolina_2021_(cropped).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "A_Serbian_Film",
+      "views": 85373,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 0
+        },
+        {
+          "date": "2020-05-12",
+          "views": 32707
+        },
+        {
+          "date": "2020-05-13",
+          "views": 36418
+        },
+        {
+          "date": "2020-05-14",
+          "views": 5039
+        },
+        {
+          "date": "2020-05-15",
+          "views": 3290
+        },
+        {
+          "date": "2020-05-16",
+          "views": 3578
+        },
+        {
+          "date": "2020-05-17",
+          "views": 4341
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=A%20Serbian%20Film&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=A_Serbian_Film",
+      "article_url": "https://it.wikipedia.org/wiki/A_Serbian_Film",
+      "description": "film del 2010 diretto da Sr\u0111an Spasojevi\u0107",
+      "image_filename": "Aserbian-film.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/1/11/Aserbian-film.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Aserbian-film.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Diavoli_(serie_televisiva)",
+      "views": 83329,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 9705
+        },
+        {
+          "date": "2020-05-12",
+          "views": 11176
+        },
+        {
+          "date": "2020-05-13",
+          "views": 10348
+        },
+        {
+          "date": "2020-05-14",
+          "views": 8454
+        },
+        {
+          "date": "2020-05-15",
+          "views": 18395
+        },
+        {
+          "date": "2020-05-16",
+          "views": 14426
+        },
+        {
+          "date": "2020-05-17",
+          "views": 10825
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Diavoli%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Diavoli_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Diavoli_(serie_televisiva)",
+      "description": "serie televisiva italiana, inglese e francese",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Vis_a_vis_-_Il_prezzo_del_riscatto",
+      "views": 81909,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 13567
+        },
+        {
+          "date": "2020-05-12",
+          "views": 12158
+        },
+        {
+          "date": "2020-05-13",
+          "views": 12199
+        },
+        {
+          "date": "2020-05-14",
+          "views": 10722
+        },
+        {
+          "date": "2020-05-15",
+          "views": 9833
+        },
+        {
+          "date": "2020-05-16",
+          "views": 10898
+        },
+        {
+          "date": "2020-05-17",
+          "views": 12532
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Vis%20a%20vis%20-%20Il%20prezzo%20del%20riscatto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Vis_a_vis_-_Il_prezzo_del_riscatto",
+      "article_url": "https://it.wikipedia.org/wiki/Vis_a_vis_-_Il_prezzo_del_riscatto",
+      "description": "serie televisiva spagnola (2015-2019)",
+      "image_filename": "Vis_a_Vis_logo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vis_a_Vis_logo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vis_a_Vis_logo.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Al-Shabaab",
+      "views": 81892,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 24223
+        },
+        {
+          "date": "2020-05-12",
+          "views": 27557
+        },
+        {
+          "date": "2020-05-13",
+          "views": 16132
+        },
+        {
+          "date": "2020-05-14",
+          "views": 5959
+        },
+        {
+          "date": "2020-05-15",
+          "views": 3687
+        },
+        {
+          "date": "2020-05-16",
+          "views": 2201
+        },
+        {
+          "date": "2020-05-17",
+          "views": 2133
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Al-Shabaab&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Al-Shabaab",
+      "article_url": "https://it.wikipedia.org/wiki/Al-Shabaab",
+      "description": "gruppo terroristico jihadista somalo",
+      "image_filename": "ShababAdmin.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ShababAdmin.svg/1280px-ShababAdmin.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ShababAdmin.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "La_casa_di_carta",
+      "views": 81309,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 13269
+        },
+        {
+          "date": "2020-05-12",
+          "views": 12100
+        },
+        {
+          "date": "2020-05-13",
+          "views": 11730
+        },
+        {
+          "date": "2020-05-14",
+          "views": 10280
+        },
+        {
+          "date": "2020-05-15",
+          "views": 10523
+        },
+        {
+          "date": "2020-05-16",
+          "views": 11509
+        },
+        {
+          "date": "2020-05-17",
+          "views": 11898
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=La_casa_di_carta",
+      "article_url": "https://it.wikipedia.org/wiki/La_casa_di_carta",
+      "description": "serie televisiva spagnola (2017-2021)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Influenza_spagnola",
+      "views": 79223,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 11672
+        },
+        {
+          "date": "2020-05-12",
+          "views": 10728
+        },
+        {
+          "date": "2020-05-13",
+          "views": 10812
+        },
+        {
+          "date": "2020-05-14",
+          "views": 11367
+        },
+        {
+          "date": "2020-05-15",
+          "views": 10533
+        },
+        {
+          "date": "2020-05-16",
+          "views": 11663
+        },
+        {
+          "date": "2020-05-17",
+          "views": 12448
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Influenza%20spagnola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Influenza_spagnola",
+      "article_url": "https://it.wikipedia.org/wiki/Influenza_spagnola",
+      "description": "pandemia dal 1918 al 1920",
+      "image_filename": "Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Reconstructed_Spanish_Flu_Virus.jpg/1280px-Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Italia",
+      "views": 79207,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 12161
+        },
+        {
+          "date": "2020-05-12",
+          "views": 11424
+        },
+        {
+          "date": "2020-05-13",
+          "views": 11884
+        },
+        {
+          "date": "2020-05-14",
+          "views": 10560
+        },
+        {
+          "date": "2020-05-15",
+          "views": 10858
+        },
+        {
+          "date": "2020-05-16",
+          "views": 11030
+        },
+        {
+          "date": "2020-05-17",
+          "views": 11290
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Carlos_Sainz_Jr.",
+      "views": 70966,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 0
+        },
+        {
+          "date": "2020-05-12",
+          "views": 12176
+        },
+        {
+          "date": "2020-05-13",
+          "views": 6665
+        },
+        {
+          "date": "2020-05-14",
+          "views": 36920
+        },
+        {
+          "date": "2020-05-15",
+          "views": 9498
+        },
+        {
+          "date": "2020-05-16",
+          "views": 3506
+        },
+        {
+          "date": "2020-05-17",
+          "views": 2201
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Carlos%20Sainz%20Jr.&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Carlos_Sainz_Jr.",
+      "article_url": "https://it.wikipedia.org/wiki/Carlos_Sainz_Jr.",
+      "description": "pilota automobilistico spagnolo (1994-)",
+      "image_filename": "Formula1Gabelhofen2022_(04)_(cropped2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Formula1Gabelhofen2022_%2804%29_%28cropped2%29.jpg/1280px-Formula1Gabelhofen2022_%2804%29_%28cropped2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Formula1Gabelhofen2022_(04)_(cropped2).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "6ix9ine",
+      "views": 68593,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 14345
+        },
+        {
+          "date": "2020-05-12",
+          "views": 13059
+        },
+        {
+          "date": "2020-05-13",
+          "views": 11124
+        },
+        {
+          "date": "2020-05-14",
+          "views": 8871
+        },
+        {
+          "date": "2020-05-15",
+          "views": 8403
+        },
+        {
+          "date": "2020-05-16",
+          "views": 7235
+        },
+        {
+          "date": "2020-05-17",
+          "views": 5556
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=6ix9ine&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=6ix9ine",
+      "article_url": "https://it.wikipedia.org/wiki/6ix9ine",
+      "description": "rapper e cantautore statunitense",
+      "image_filename": "6ix9ine_(Daniel_Hernadez).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/6ix9ine_%28Daniel_Hernadez%29.jpg/1232px-6ix9ine_%28Daniel_Hernadez%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:6ix9ine_(Daniel_Hernadez).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Fabrizio_Quattrocchi",
+      "views": 68186,
+      "daily_views": [
+        {
+          "date": "2020-05-11",
+          "views": 24702
+        },
+        {
+          "date": "2020-05-12",
+          "views": 19855
+        },
+        {
+          "date": "2020-05-13",
+          "views": 11614
+        },
+        {
+          "date": "2020-05-14",
+          "views": 5234
+        },
+        {
+          "date": "2020-05-15",
+          "views": 2939
+        },
+        {
+          "date": "2020-05-16",
+          "views": 2173
+        },
+        {
+          "date": "2020-05-17",
+          "views": 1669
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fabrizio%20Quattrocchi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:05/11/2020,cd_max:05/17/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-05-11&end=2020-05-17&pages=Fabrizio_Quattrocchi",
+      "article_url": "https://it.wikipedia.org/wiki/Fabrizio_Quattrocchi",
+      "description": "mercenario italiano",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2016,
+  "week": 29,
+  "start_date": "2016-07-18",
+  "end_date": "2016-07-24",
+  "days": [
+    "2016-07-18",
+    "2016-07-19",
+    "2016-07-20",
+    "2016-07-21",
+    "2016-07-22",
+    "2016-07-23",
+    "2016-07-24"
+  ],
+  "total_articles": 2554,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Gonzalo_Higua\u00edn",
+      "views": 187454,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 17536
+        },
+        {
+          "date": "2016-07-19",
+          "views": 8064
+        },
+        {
+          "date": "2016-07-20",
+          "views": 7267
+        },
+        {
+          "date": "2016-07-21",
+          "views": 5784
+        },
+        {
+          "date": "2016-07-22",
+          "views": 4383
+        },
+        {
+          "date": "2016-07-23",
+          "views": 82998
+        },
+        {
+          "date": "2016-07-24",
+          "views": 61422
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gonzalo%20Higua%C3%ADn&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Gonzalo_Higua%C3%ADn",
+      "article_url": "https://it.wikipedia.org/wiki/Gonzalo_Higua%C3%ADn",
+      "description": "calciatore argentino (1987-)",
+      "image_filename": "Higua\u00edn_20180626.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Higua%C3%ADn_20180626.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Higua%C3%ADn_20180626.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Pok\u00e9mon_Go",
+      "views": 181312,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 35554
+        },
+        {
+          "date": "2016-07-19",
+          "views": 33374
+        },
+        {
+          "date": "2016-07-20",
+          "views": 31334
+        },
+        {
+          "date": "2016-07-21",
+          "views": 30912
+        },
+        {
+          "date": "2016-07-22",
+          "views": 21927
+        },
+        {
+          "date": "2016-07-23",
+          "views": 14056
+        },
+        {
+          "date": "2016-07-24",
+          "views": 14155
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pok%C3%A9mon%20Go&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Pok%C3%A9mon_Go",
+      "article_url": "https://it.wikipedia.org/wiki/Pok%C3%A9mon_Go",
+      "description": "videogioco del 2016",
+      "image_filename": "Logo_Pok\u00e9mon_Go.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/35/Logo_Pok%C3%A9mon_Go.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Pok%C3%A9mon_Go.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Donald_Trump",
+      "views": 112710,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 3750
+        },
+        {
+          "date": "2016-07-19",
+          "views": 29604
+        },
+        {
+          "date": "2016-07-20",
+          "views": 23641
+        },
+        {
+          "date": "2016-07-21",
+          "views": 15540
+        },
+        {
+          "date": "2016-07-22",
+          "views": 25509
+        },
+        {
+          "date": "2016-07-23",
+          "views": 8007
+        },
+        {
+          "date": "2016-07-24",
+          "views": 6659
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Donald_Trump",
+      "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
+      "description": "politico e imprenditore statunitense, 45\u00ba e 47\u00ba presidente degli Stati Uniti d'America",
+      "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Pok\u00e9mon",
+      "views": 96516,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 14499
+        },
+        {
+          "date": "2016-07-19",
+          "views": 15303
+        },
+        {
+          "date": "2016-07-20",
+          "views": 14905
+        },
+        {
+          "date": "2016-07-21",
+          "views": 15173
+        },
+        {
+          "date": "2016-07-22",
+          "views": 13603
+        },
+        {
+          "date": "2016-07-23",
+          "views": 11238
+        },
+        {
+          "date": "2016-07-24",
+          "views": 11795
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pok%C3%A9mon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Pok%C3%A9mon",
+      "article_url": "https://it.wikipedia.org/wiki/Pok%C3%A9mon",
+      "description": "media franchise\u00a0giapponese",
+      "image_filename": "Francobollo_Pokemon_Pikachu.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/c/c9/Francobollo_Pokemon_Pikachu.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francobollo_Pokemon_Pikachu.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Marko_Pjaca",
+      "views": 87427,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 7182
+        },
+        {
+          "date": "2016-07-19",
+          "views": 19884
+        },
+        {
+          "date": "2016-07-20",
+          "views": 11110
+        },
+        {
+          "date": "2016-07-21",
+          "views": 26868
+        },
+        {
+          "date": "2016-07-22",
+          "views": 9566
+        },
+        {
+          "date": "2016-07-23",
+          "views": 6928
+        },
+        {
+          "date": "2016-07-24",
+          "views": 5889
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Marko%20Pjaca&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Marko_Pjaca",
+      "article_url": "https://it.wikipedia.org/wiki/Marko_Pjaca",
+      "description": "calciatore croato (1995-)",
+      "image_filename": "ISL-HRV_(20).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/ISL-HRV_%2820%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ISL-HRV_(20).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Melania_Trump",
+      "views": 70456,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 0
+        },
+        {
+          "date": "2016-07-19",
+          "views": 35254
+        },
+        {
+          "date": "2016-07-20",
+          "views": 16183
+        },
+        {
+          "date": "2016-07-21",
+          "views": 7406
+        },
+        {
+          "date": "2016-07-22",
+          "views": 7488
+        },
+        {
+          "date": "2016-07-23",
+          "views": 2512
+        },
+        {
+          "date": "2016-07-24",
+          "views": 1613
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Melania%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Melania_Trump",
+      "article_url": "https://it.wikipedia.org/wiki/Melania_Trump",
+      "description": "modella slovena naturalizzata statunitense, First Lady degli Stati Uniti d'America",
+      "image_filename": "Melania_Trump\u2019s_Official_White_House_Portrait_(2025)_(3x4_cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%283x4_cropped%29.jpg/1280px-Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%283x4_cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Melania_Trump%E2%80%99s_Official_White_House_Portrait_(2025)_(3x4_cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Il_Trono_di_Spade_(serie_televisiva)",
+      "views": 56914,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 9405
+        },
+        {
+          "date": "2016-07-19",
+          "views": 8769
+        },
+        {
+          "date": "2016-07-20",
+          "views": 8184
+        },
+        {
+          "date": "2016-07-21",
+          "views": 7856
+        },
+        {
+          "date": "2016-07-22",
+          "views": 7140
+        },
+        {
+          "date": "2016-07-23",
+          "views": 7072
+        },
+        {
+          "date": "2016-07-24",
+          "views": 8488
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Trono%20di%20Spade%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Il_Trono_di_Spade_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Trono_di_Spade_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2019)",
+      "image_filename": "Il_Trono_di_Spade.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/27/Il_Trono_di_Spade.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Trono_di_Spade.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Giuseppe_Cruciani",
+      "views": 52897,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 0
+        },
+        {
+          "date": "2016-07-19",
+          "views": 0
+        },
+        {
+          "date": "2016-07-20",
+          "views": 52897
+        },
+        {
+          "date": "2016-07-21",
+          "views": 0
+        },
+        {
+          "date": "2016-07-22",
+          "views": 0
+        },
+        {
+          "date": "2016-07-23",
+          "views": 0
+        },
+        {
+          "date": "2016-07-24",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giuseppe%20Cruciani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Giuseppe_Cruciani",
+      "article_url": "https://it.wikipedia.org/wiki/Giuseppe_Cruciani",
+      "description": "giornalista italiano",
+      "image_filename": "Giuseppe_Cruciani_-_International_Journalism_Festival_2015.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Giuseppe_Cruciani_-_International_Journalism_Festival_2015.JPG/1280px-Giuseppe_Cruciani_-_International_Journalism_Festival_2015.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Cruciani_-_International_Journalism_Festival_2015.JPG",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Recep_Tayyip_Erdo\u011fan",
+      "views": 51116,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 14621
+        },
+        {
+          "date": "2016-07-19",
+          "views": 11194
+        },
+        {
+          "date": "2016-07-20",
+          "views": 9954
+        },
+        {
+          "date": "2016-07-21",
+          "views": 7292
+        },
+        {
+          "date": "2016-07-22",
+          "views": 3956
+        },
+        {
+          "date": "2016-07-23",
+          "views": 2318
+        },
+        {
+          "date": "2016-07-24",
+          "views": 1781
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Recep%20Tayyip%20Erdo%C4%9Fan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Recep_Tayyip_Erdo%C4%9Fan",
+      "article_url": "https://it.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
+      "description": "presidente della Turchia dal 2014",
+      "image_filename": "Recep_Tayyip_Erdogan_in_Ukraine.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdogan_in_Ukraine.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Stranger_Things_(serie_televisiva)",
+      "views": 49132,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 11862
+        },
+        {
+          "date": "2016-07-19",
+          "views": 10123
+        },
+        {
+          "date": "2016-07-20",
+          "views": 9639
+        },
+        {
+          "date": "2016-07-21",
+          "views": 5069
+        },
+        {
+          "date": "2016-07-22",
+          "views": 4655
+        },
+        {
+          "date": "2016-07-23",
+          "views": 4946
+        },
+        {
+          "date": "2016-07-24",
+          "views": 2838
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stranger%20Things%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Stranger_Things_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Stranger_Things_(serie_televisiva)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Paul_Pogba",
+      "views": 48366,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 1913
+        },
+        {
+          "date": "2016-07-19",
+          "views": 3262
+        },
+        {
+          "date": "2016-07-20",
+          "views": 17371
+        },
+        {
+          "date": "2016-07-21",
+          "views": 9283
+        },
+        {
+          "date": "2016-07-22",
+          "views": 5169
+        },
+        {
+          "date": "2016-07-23",
+          "views": 6272
+        },
+        {
+          "date": "2016-07-24",
+          "views": 5096
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Paul%20Pogba&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Paul_Pogba",
+      "article_url": "https://it.wikipedia.org/wiki/Paul_Pogba",
+      "description": "calciatore francese (1993-)",
+      "image_filename": "FRA-ARG_(11)_-_Paul_Pogba_(cropped_2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/FRA-ARG_%2811%29_-_Paul_Pogba_%28cropped_2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FRA-ARG_(11)_-_Paul_Pogba_(cropped_2).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Carlo_Giuliani",
+      "views": 48036,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 1135
+        },
+        {
+          "date": "2016-07-19",
+          "views": 5607
+        },
+        {
+          "date": "2016-07-20",
+          "views": 23856
+        },
+        {
+          "date": "2016-07-21",
+          "views": 10572
+        },
+        {
+          "date": "2016-07-22",
+          "views": 3903
+        },
+        {
+          "date": "2016-07-23",
+          "views": 1586
+        },
+        {
+          "date": "2016-07-24",
+          "views": 1377
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Carlo%20Giuliani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Carlo_Giuliani",
+      "article_url": "https://it.wikipedia.org/wiki/Carlo_Giuliani",
+      "description": "manifestante ucciso da un carabiniere durante i fatti del G8 di Genova del 2001",
+      "image_filename": "Fototessera_di_Carlo_Giuliani.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fototessera_di_Carlo_Giuliani.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fototessera_di_Carlo_Giuliani.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 13,
+      "article": "Turchia",
+      "views": 46494,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 11820
+        },
+        {
+          "date": "2016-07-19",
+          "views": 9024
+        },
+        {
+          "date": "2016-07-20",
+          "views": 8701
+        },
+        {
+          "date": "2016-07-21",
+          "views": 7104
+        },
+        {
+          "date": "2016-07-22",
+          "views": 4772
+        },
+        {
+          "date": "2016-07-23",
+          "views": 2735
+        },
+        {
+          "date": "2016-07-24",
+          "views": 2338
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Turchia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Turchia",
+      "article_url": "https://it.wikipedia.org/wiki/Turchia",
+      "description": "stato euroasiatico",
+      "image_filename": "Flag_of_Turkey.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Italia",
+      "views": 43959,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 6711
+        },
+        {
+          "date": "2016-07-19",
+          "views": 6292
+        },
+        {
+          "date": "2016-07-20",
+          "views": 6081
+        },
+        {
+          "date": "2016-07-21",
+          "views": 6239
+        },
+        {
+          "date": "2016-07-22",
+          "views": 6316
+        },
+        {
+          "date": "2016-07-23",
+          "views": 5882
+        },
+        {
+          "date": "2016-07-24",
+          "views": 6438
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Temptation_Island",
+      "views": 43324,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 1172
+        },
+        {
+          "date": "2016-07-19",
+          "views": 11873
+        },
+        {
+          "date": "2016-07-20",
+          "views": 18895
+        },
+        {
+          "date": "2016-07-21",
+          "views": 6950
+        },
+        {
+          "date": "2016-07-22",
+          "views": 2198
+        },
+        {
+          "date": "2016-07-23",
+          "views": 1178
+        },
+        {
+          "date": "2016-07-24",
+          "views": 1058
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Temptation%20Island&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Temptation_Island",
+      "article_url": "https://it.wikipedia.org/wiki/Temptation_Island",
+      "description": "pagina di disambiguazione di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Juventus_Football_Club",
+      "views": 40428,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 4678
+        },
+        {
+          "date": "2016-07-19",
+          "views": 4245
+        },
+        {
+          "date": "2016-07-20",
+          "views": 4218
+        },
+        {
+          "date": "2016-07-21",
+          "views": 6145
+        },
+        {
+          "date": "2016-07-22",
+          "views": 4874
+        },
+        {
+          "date": "2016-07-23",
+          "views": 8806
+        },
+        {
+          "date": "2016-07-24",
+          "views": 7462
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Juventus%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Juventus_Football_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Juventus_Football_Club",
+      "description": "club calcistico italiano di Torino",
+      "image_filename": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/1280px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy%2C_2020).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "Suicide_Squad_(film_2016)",
+      "views": 37580,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 4168
+        },
+        {
+          "date": "2016-07-19",
+          "views": 4800
+        },
+        {
+          "date": "2016-07-20",
+          "views": 4612
+        },
+        {
+          "date": "2016-07-21",
+          "views": 5147
+        },
+        {
+          "date": "2016-07-22",
+          "views": 5234
+        },
+        {
+          "date": "2016-07-23",
+          "views": 5604
+        },
+        {
+          "date": "2016-07-24",
+          "views": 8015
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Suicide%20Squad%20%28film%202016%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Suicide_Squad_(film_2016)",
+      "article_url": "https://it.wikipedia.org/wiki/Suicide_Squad_(film_2016)",
+      "description": "film del 2016 diretto da David Ayer",
+      "image_filename": "SuicideSquadMovie.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b6/SuicideSquadMovie.png/1280px-SuicideSquadMovie.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:SuicideSquadMovie.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Paolo_Borsellino",
+      "views": 37204,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 4391
+        },
+        {
+          "date": "2016-07-19",
+          "views": 24555
+        },
+        {
+          "date": "2016-07-20",
+          "views": 4464
+        },
+        {
+          "date": "2016-07-21",
+          "views": 1771
+        },
+        {
+          "date": "2016-07-22",
+          "views": 1101
+        },
+        {
+          "date": "2016-07-23",
+          "views": 922
+        },
+        {
+          "date": "2016-07-24",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Paolo%20Borsellino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Paolo_Borsellino",
+      "article_url": "https://it.wikipedia.org/wiki/Paolo_Borsellino",
+      "description": "magistrato italiano (1940-1992)",
+      "image_filename": "Paolo_Borsellino.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/1/1f/Paolo_Borsellino.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paolo_Borsellino.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Monaco_di_Baviera",
+      "views": 36218,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 904
+        },
+        {
+          "date": "2016-07-19",
+          "views": 906
+        },
+        {
+          "date": "2016-07-20",
+          "views": 867
+        },
+        {
+          "date": "2016-07-21",
+          "views": 996
+        },
+        {
+          "date": "2016-07-22",
+          "views": 21379
+        },
+        {
+          "date": "2016-07-23",
+          "views": 8750
+        },
+        {
+          "date": "2016-07-24",
+          "views": 2416
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Monaco%20di%20Baviera&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Monaco_di_Baviera",
+      "article_url": "https://it.wikipedia.org/wiki/Monaco_di_Baviera",
+      "description": "citt\u00e0 extracircondariale e capitale della Baviera, Germania",
+      "image_filename": "Flag_of_Munich_(striped).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Flag_of_Munich_%28striped%29.svg/1280px-Flag_of_Munich_%28striped%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Munich_(striped).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Prima_generazione_(Pok\u00e9mon)",
+      "views": 35362,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 6426
+        },
+        {
+          "date": "2016-07-19",
+          "views": 5830
+        },
+        {
+          "date": "2016-07-20",
+          "views": 5027
+        },
+        {
+          "date": "2016-07-21",
+          "views": 4993
+        },
+        {
+          "date": "2016-07-22",
+          "views": 4702
+        },
+        {
+          "date": "2016-07-23",
+          "views": 4147
+        },
+        {
+          "date": "2016-07-24",
+          "views": 4237
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Prima%20generazione%20%28Pok%C3%A9mon%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Prima_generazione_(Pok%C3%A9mon)",
+      "article_url": "https://it.wikipedia.org/wiki/Prima_generazione_(Pok%C3%A9mon)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Grey's_Anatomy",
+      "views": 34673,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 4700
+        },
+        {
+          "date": "2016-07-19",
+          "views": 6673
+        },
+        {
+          "date": "2016-07-20",
+          "views": 5287
+        },
+        {
+          "date": "2016-07-21",
+          "views": 6002
+        },
+        {
+          "date": "2016-07-22",
+          "views": 5021
+        },
+        {
+          "date": "2016-07-23",
+          "views": 3404
+        },
+        {
+          "date": "2016-07-24",
+          "views": 3586
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Star_Trek_Beyond",
+      "views": 34505,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 2065
+        },
+        {
+          "date": "2016-07-19",
+          "views": 2309
+        },
+        {
+          "date": "2016-07-20",
+          "views": 2668
+        },
+        {
+          "date": "2016-07-21",
+          "views": 5261
+        },
+        {
+          "date": "2016-07-22",
+          "views": 8349
+        },
+        {
+          "date": "2016-07-23",
+          "views": 7326
+        },
+        {
+          "date": "2016-07-24",
+          "views": 6527
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Star%20Trek%20Beyond&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Star_Trek_Beyond",
+      "article_url": "https://it.wikipedia.org/wiki/Star_Trek_Beyond",
+      "description": "film del 2016 diretto da Justin Lin",
+      "image_filename": "LogoStarTrekBeyond.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/aa/LogoStarTrekBeyond.png/1280px-LogoStarTrekBeyond.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:LogoStarTrekBeyond.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Mauro_Icardi",
+      "views": 34070,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 3948
+        },
+        {
+          "date": "2016-07-19",
+          "views": 2206
+        },
+        {
+          "date": "2016-07-20",
+          "views": 2463
+        },
+        {
+          "date": "2016-07-21",
+          "views": 1982
+        },
+        {
+          "date": "2016-07-22",
+          "views": 924
+        },
+        {
+          "date": "2016-07-23",
+          "views": 2838
+        },
+        {
+          "date": "2016-07-24",
+          "views": 19709
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mauro%20Icardi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Mauro_Icardi",
+      "article_url": "https://it.wikipedia.org/wiki/Mauro_Icardi",
+      "description": "calciatore argentino (1993-)",
+      "image_filename": "Mauro_Icardi_en_2025.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mauro_Icardi_en_2025.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mauro_Icardi_en_2025.jpg",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Cristiano_Ronaldo",
+      "views": 33736,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 5385
+        },
+        {
+          "date": "2016-07-19",
+          "views": 4363
+        },
+        {
+          "date": "2016-07-20",
+          "views": 4207
+        },
+        {
+          "date": "2016-07-21",
+          "views": 5362
+        },
+        {
+          "date": "2016-07-22",
+          "views": 4206
+        },
+        {
+          "date": "2016-07-23",
+          "views": 5476
+        },
+        {
+          "date": "2016-07-24",
+          "views": 4737
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Cristiano_Ronaldo",
+      "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "description": "calciatore portoghese (1985-)",
+      "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Stato_Islamico",
+      "views": 32722,
+      "daily_views": [
+        {
+          "date": "2016-07-18",
+          "views": 4559
+        },
+        {
+          "date": "2016-07-19",
+          "views": 5390
+        },
+        {
+          "date": "2016-07-20",
+          "views": 3481
+        },
+        {
+          "date": "2016-07-21",
+          "views": 2565
+        },
+        {
+          "date": "2016-07-22",
+          "views": 6904
+        },
+        {
+          "date": "2016-07-23",
+          "views": 6018
+        },
+        {
+          "date": "2016-07-24",
+          "views": 3805
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stato%20Islamico&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:07/18/2016,cd_max:07/24/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-07-18&end=2016-07-24&pages=Stato_Islamico",
+      "article_url": "https://it.wikipedia.org/wiki/Stato_Islamico",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}

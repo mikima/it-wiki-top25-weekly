@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2016,
+  "week": 12,
+  "start_date": "2016-03-21",
+  "end_date": "2016-03-27",
+  "days": [
+    "2016-03-21",
+    "2016-03-22",
+    "2016-03-23",
+    "2016-03-24",
+    "2016-03-25",
+    "2016-03-26",
+    "2016-03-27"
+  ],
+  "total_articles": 2590,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Chitarra_baritona",
+      "views": 687741,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 0
+        },
+        {
+          "date": "2016-03-22",
+          "views": 687741
+        },
+        {
+          "date": "2016-03-23",
+          "views": 0
+        },
+        {
+          "date": "2016-03-24",
+          "views": 0
+        },
+        {
+          "date": "2016-03-25",
+          "views": 0
+        },
+        {
+          "date": "2016-03-26",
+          "views": 0
+        },
+        {
+          "date": "2016-03-27",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Chitarra%20baritona&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Chitarra_baritona",
+      "article_url": "https://it.wikipedia.org/wiki/Chitarra_baritona",
+      "description": "variazione della chitarra normale, con un'accordatura pi\u00f9 bassa",
+      "image_filename": "CliftonHydeMustapickBaritone.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/CliftonHydeMustapickBaritone.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:CliftonHydeMustapickBaritone.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Johan_Cruijff",
+      "views": 328982,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 0
+        },
+        {
+          "date": "2016-03-22",
+          "views": 0
+        },
+        {
+          "date": "2016-03-23",
+          "views": 0
+        },
+        {
+          "date": "2016-03-24",
+          "views": 207565
+        },
+        {
+          "date": "2016-03-25",
+          "views": 75883
+        },
+        {
+          "date": "2016-03-26",
+          "views": 32982
+        },
+        {
+          "date": "2016-03-27",
+          "views": 12552
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Johan%20Cruijff&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Johan_Cruijff",
+      "article_url": "https://it.wikipedia.org/wiki/Johan_Cruijff",
+      "description": "calciatore, allenatore di calcio e dirigente sportivo olandese (1947-2016)",
+      "image_filename": "Johan_Cruyff_1974c.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Johan_Cruyff_1974c.jpg/1280px-Johan_Cruyff_1974c.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Johan_Cruyff_1974c.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Alda_Merini",
+      "views": 210693,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 198505
+        },
+        {
+          "date": "2016-03-22",
+          "views": 7046
+        },
+        {
+          "date": "2016-03-23",
+          "views": 2367
+        },
+        {
+          "date": "2016-03-24",
+          "views": 1586
+        },
+        {
+          "date": "2016-03-25",
+          "views": 1189
+        },
+        {
+          "date": "2016-03-26",
+          "views": 0
+        },
+        {
+          "date": "2016-03-27",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alda%20Merini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Alda_Merini",
+      "article_url": "https://it.wikipedia.org/wiki/Alda_Merini",
+      "description": "poetessa, aforista e scrittrice italiana (1931\u20132009)",
+      "image_filename": "Alda_Merini.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Alda_Merini.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alda_Merini.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Batman_v_Superman:_Dawn_of_Justice",
+      "views": 206774,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 13162
+        },
+        {
+          "date": "2016-03-22",
+          "views": 13156
+        },
+        {
+          "date": "2016-03-23",
+          "views": 36771
+        },
+        {
+          "date": "2016-03-24",
+          "views": 39964
+        },
+        {
+          "date": "2016-03-25",
+          "views": 35066
+        },
+        {
+          "date": "2016-03-26",
+          "views": 33375
+        },
+        {
+          "date": "2016-03-27",
+          "views": 35280
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Batman%20v%20Superman%3A%20Dawn%20of%20Justice&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Batman_v_Superman%3A_Dawn_of_Justice",
+      "article_url": "https://it.wikipedia.org/wiki/Batman_v_Superman%3A_Dawn_of_Justice",
+      "description": "film del 2016 diretto da Zack Snyder",
+      "image_filename": "Batman_Superman_Dawn_of_Justice.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e1/Batman_Superman_Dawn_of_Justice.jpg/1225px-Batman_Superman_Dawn_of_Justice.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Batman_Superman_Dawn_of_Justice.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Pasqua",
+      "views": 104983,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 6455
+        },
+        {
+          "date": "2016-03-22",
+          "views": 6178
+        },
+        {
+          "date": "2016-03-23",
+          "views": 6657
+        },
+        {
+          "date": "2016-03-24",
+          "views": 9492
+        },
+        {
+          "date": "2016-03-25",
+          "views": 15177
+        },
+        {
+          "date": "2016-03-26",
+          "views": 21515
+        },
+        {
+          "date": "2016-03-27",
+          "views": 39509
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pasqua&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Pasqua",
+      "article_url": "https://it.wikipedia.org/wiki/Pasqua",
+      "description": "festivit\u00e0 del cristianesimo",
+      "image_filename": "Resurrezione_Piero_della_Francesca_post_restauro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Resurrezione_Piero_della_Francesca_post_restauro.jpg/1016px-Resurrezione_Piero_della_Francesca_post_restauro.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Resurrezione_Piero_della_Francesca_post_restauro.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "La_passione_di_Cristo_(film_2004)",
+      "views": 100548,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 1392
+        },
+        {
+          "date": "2016-03-22",
+          "views": 1572
+        },
+        {
+          "date": "2016-03-23",
+          "views": 1723
+        },
+        {
+          "date": "2016-03-24",
+          "views": 2334
+        },
+        {
+          "date": "2016-03-25",
+          "views": 7165
+        },
+        {
+          "date": "2016-03-26",
+          "views": 5936
+        },
+        {
+          "date": "2016-03-27",
+          "views": 80426
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20passione%20di%20Cristo%20%28film%202004%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=La_passione_di_Cristo_(film_2004)",
+      "article_url": "https://it.wikipedia.org/wiki/La_passione_di_Cristo_(film_2004)",
+      "description": "film del 2004 diretto da Mel Gibson",
+      "image_filename": "La_passione_di_Cristo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/5/53/La_passione_di_Cristo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_passione_di_Cristo.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Bruxelles",
+      "views": 95422,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 0
+        },
+        {
+          "date": "2016-03-22",
+          "views": 60638
+        },
+        {
+          "date": "2016-03-23",
+          "views": 18515
+        },
+        {
+          "date": "2016-03-24",
+          "views": 7424
+        },
+        {
+          "date": "2016-03-25",
+          "views": 4250
+        },
+        {
+          "date": "2016-03-26",
+          "views": 2453
+        },
+        {
+          "date": "2016-03-27",
+          "views": 2142
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bruxelles&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Bruxelles",
+      "article_url": "https://it.wikipedia.org/wiki/Bruxelles",
+      "description": "area metropolitana del Belgio",
+      "image_filename": "Brussel_vlag.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Brussel_vlag.svg/1280px-Brussel_vlag.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brussel_vlag.svg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Paolo_Poli",
+      "views": 77938,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 0
+        },
+        {
+          "date": "2016-03-22",
+          "views": 0
+        },
+        {
+          "date": "2016-03-23",
+          "views": 0
+        },
+        {
+          "date": "2016-03-24",
+          "views": 0
+        },
+        {
+          "date": "2016-03-25",
+          "views": 22327
+        },
+        {
+          "date": "2016-03-26",
+          "views": 45067
+        },
+        {
+          "date": "2016-03-27",
+          "views": 10544
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Paolo%20Poli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Paolo_Poli",
+      "article_url": "https://it.wikipedia.org/wiki/Paolo_Poli",
+      "description": "attore italiano (1929-2016)",
+      "image_filename": "Paolo_poli_aquiloni_jan_5th_2013.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Paolo_poli_aquiloni_jan_5th_2013.jpg/1050px-Paolo_poli_aquiloni_jan_5th_2013.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paolo_poli_aquiloni_jan_5th_2013.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "The_Walking_Dead_(serie_televisiva)",
+      "views": 74397,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 16213
+        },
+        {
+          "date": "2016-03-22",
+          "views": 16037
+        },
+        {
+          "date": "2016-03-23",
+          "views": 10331
+        },
+        {
+          "date": "2016-03-24",
+          "views": 8989
+        },
+        {
+          "date": "2016-03-25",
+          "views": 7672
+        },
+        {
+          "date": "2016-03-26",
+          "views": 7218
+        },
+        {
+          "date": "2016-03-27",
+          "views": 7937
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Walking%20Dead%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=The_Walking_Dead_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Walking_Dead_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2010-2022)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Belgio",
+      "views": 73688,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 1374
+        },
+        {
+          "date": "2016-03-22",
+          "views": 33310
+        },
+        {
+          "date": "2016-03-23",
+          "views": 16788
+        },
+        {
+          "date": "2016-03-24",
+          "views": 8991
+        },
+        {
+          "date": "2016-03-25",
+          "views": 5834
+        },
+        {
+          "date": "2016-03-26",
+          "views": 4112
+        },
+        {
+          "date": "2016-03-27",
+          "views": 3279
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Belgio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Belgio",
+      "article_url": "https://it.wikipedia.org/wiki/Belgio",
+      "description": "stato dell'Europa occidentale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Belgium.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1280px-Flag_of_Belgium.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Belgium.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Stato_Islamico",
+      "views": 69657,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 1381
+        },
+        {
+          "date": "2016-03-22",
+          "views": 21332
+        },
+        {
+          "date": "2016-03-23",
+          "views": 16769
+        },
+        {
+          "date": "2016-03-24",
+          "views": 10216
+        },
+        {
+          "date": "2016-03-25",
+          "views": 7626
+        },
+        {
+          "date": "2016-03-26",
+          "views": 6025
+        },
+        {
+          "date": "2016-03-27",
+          "views": 6308
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stato%20Islamico&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Stato_Islamico",
+      "article_url": "https://it.wikipedia.org/wiki/Stato_Islamico",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "MediaWiki:InterProject.js",
+      "views": 67335,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 0
+        },
+        {
+          "date": "2016-03-22",
+          "views": 67335
+        },
+        {
+          "date": "2016-03-23",
+          "views": 0
+        },
+        {
+          "date": "2016-03-24",
+          "views": 0
+        },
+        {
+          "date": "2016-03-25",
+          "views": 0
+        },
+        {
+          "date": "2016-03-26",
+          "views": 0
+        },
+        {
+          "date": "2016-03-27",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=MediaWiki%3AInterProject.js&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=MediaWiki%3AInterProject.js",
+      "article_url": "https://it.wikipedia.org/wiki/MediaWiki%3AInterProject.js",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Grey's_Anatomy",
+      "views": 65770,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 9598
+        },
+        {
+          "date": "2016-03-22",
+          "views": 11439
+        },
+        {
+          "date": "2016-03-23",
+          "views": 9198
+        },
+        {
+          "date": "2016-03-24",
+          "views": 10250
+        },
+        {
+          "date": "2016-03-25",
+          "views": 11044
+        },
+        {
+          "date": "2016-03-26",
+          "views": 7333
+        },
+        {
+          "date": "2016-03-27",
+          "views": 6908
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Forrest_Gump",
+      "views": 62310,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 0
+        },
+        {
+          "date": "2016-03-22",
+          "views": 0
+        },
+        {
+          "date": "2016-03-23",
+          "views": 0
+        },
+        {
+          "date": "2016-03-24",
+          "views": 1029
+        },
+        {
+          "date": "2016-03-25",
+          "views": 1109
+        },
+        {
+          "date": "2016-03-26",
+          "views": 1761
+        },
+        {
+          "date": "2016-03-27",
+          "views": 58411
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Forrest%20Gump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Forrest_Gump",
+      "article_url": "https://it.wikipedia.org/wiki/Forrest_Gump",
+      "description": "film del 1994 diretto da Robert Zemeckis",
+      "image_filename": "Forrest_Gump.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Forrest_Gump.svg/1280px-Forrest_Gump.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Forrest_Gump.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Episodi_di_The_Walking_Dead_(sesta_stagione)",
+      "views": 59412,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 13572
+        },
+        {
+          "date": "2016-03-22",
+          "views": 14495
+        },
+        {
+          "date": "2016-03-23",
+          "views": 8329
+        },
+        {
+          "date": "2016-03-24",
+          "views": 6197
+        },
+        {
+          "date": "2016-03-25",
+          "views": 5578
+        },
+        {
+          "date": "2016-03-26",
+          "views": 5318
+        },
+        {
+          "date": "2016-03-27",
+          "views": 5923
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20The%20Walking%20Dead%20%28sesta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Episodi_di_The_Walking_Dead_(sesta_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_The_Walking_Dead_(sesta_stagione)",
+      "description": "stagione televisiva",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "L'uomo_d'acciaio",
+      "views": 57350,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 2367
+        },
+        {
+          "date": "2016-03-22",
+          "views": 2836
+        },
+        {
+          "date": "2016-03-23",
+          "views": 30298
+        },
+        {
+          "date": "2016-03-24",
+          "views": 9935
+        },
+        {
+          "date": "2016-03-25",
+          "views": 4264
+        },
+        {
+          "date": "2016-03-26",
+          "views": 3847
+        },
+        {
+          "date": "2016-03-27",
+          "views": 3803
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=L%27uomo%20d%27acciaio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=L%27uomo_d%27acciaio",
+      "article_url": "https://it.wikipedia.org/wiki/L%27uomo_d%27acciaio",
+      "description": "film del 2013 diretto da Zack Snyder",
+      "image_filename": "ManofSteelMovie.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/ad/ManofSteelMovie.png/1280px-ManofSteelMovie.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ManofSteelMovie.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Daredevil_(serie_televisiva)",
+      "views": 56983,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 11802
+        },
+        {
+          "date": "2016-03-22",
+          "views": 9747
+        },
+        {
+          "date": "2016-03-23",
+          "views": 8030
+        },
+        {
+          "date": "2016-03-24",
+          "views": 7453
+        },
+        {
+          "date": "2016-03-25",
+          "views": 6715
+        },
+        {
+          "date": "2016-03-26",
+          "views": 6692
+        },
+        {
+          "date": "2016-03-27",
+          "views": 6544
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Daredevil%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Daredevil_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Daredevil_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2015-2018)",
+      "image_filename": "DaredevilLogo2Netflix.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/98/DaredevilLogo2Netflix.png/1280px-DaredevilLogo2Netflix.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:DaredevilLogo2Netflix.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Hugo_Cabret",
+      "views": 56118,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 0
+        },
+        {
+          "date": "2016-03-22",
+          "views": 0
+        },
+        {
+          "date": "2016-03-23",
+          "views": 0
+        },
+        {
+          "date": "2016-03-24",
+          "views": 45562
+        },
+        {
+          "date": "2016-03-25",
+          "views": 7538
+        },
+        {
+          "date": "2016-03-26",
+          "views": 1810
+        },
+        {
+          "date": "2016-03-27",
+          "views": 1208
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Hugo%20Cabret&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Hugo_Cabret",
+      "article_url": "https://it.wikipedia.org/wiki/Hugo_Cabret",
+      "description": "film del 2011 diretto da Martin Scorsese",
+      "image_filename": "Hugo_Cabret.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c9/Hugo_Cabret.png/1279px-Hugo_Cabret.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hugo_Cabret.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Italia",
+      "views": 48834,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 7028
+        },
+        {
+          "date": "2016-03-22",
+          "views": 7623
+        },
+        {
+          "date": "2016-03-23",
+          "views": 7040
+        },
+        {
+          "date": "2016-03-24",
+          "views": 7048
+        },
+        {
+          "date": "2016-03-25",
+          "views": 6567
+        },
+        {
+          "date": "2016-03-26",
+          "views": 6314
+        },
+        {
+          "date": "2016-03-27",
+          "views": 7214
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Ben-Hur_(film_1959)",
+      "views": 48096,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 1984
+        },
+        {
+          "date": "2016-03-22",
+          "views": 1883
+        },
+        {
+          "date": "2016-03-23",
+          "views": 27789
+        },
+        {
+          "date": "2016-03-24",
+          "views": 10860
+        },
+        {
+          "date": "2016-03-25",
+          "views": 2149
+        },
+        {
+          "date": "2016-03-26",
+          "views": 1699
+        },
+        {
+          "date": "2016-03-27",
+          "views": 1732
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ben-Hur%20%28film%201959%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Ben-Hur_(film_1959)",
+      "article_url": "https://it.wikipedia.org/wiki/Ben-Hur_(film_1959)",
+      "description": "film del 1959 diretto da William Wyler",
+      "image_filename": "Ben_hur_1959_poster.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ben_hur_1959_poster.jpg/1280px-Ben_hur_1959_poster.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ben_hur_1959_poster.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 21,
+      "article": "Michele_Placido",
+      "views": 46777,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 0
+        },
+        {
+          "date": "2016-03-22",
+          "views": 0
+        },
+        {
+          "date": "2016-03-23",
+          "views": 29802
+        },
+        {
+          "date": "2016-03-24",
+          "views": 10390
+        },
+        {
+          "date": "2016-03-25",
+          "views": 2421
+        },
+        {
+          "date": "2016-03-26",
+          "views": 2743
+        },
+        {
+          "date": "2016-03-27",
+          "views": 1421
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michele%20Placido&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Michele_Placido",
+      "article_url": "https://it.wikipedia.org/wiki/Michele_Placido",
+      "description": "attore e regista italiano (1946-)",
+      "image_filename": "MicheleP_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MicheleP_%28cropped%29.jpg/1280px-MicheleP_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:MicheleP_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Ciao_Darwin",
+      "views": 45800,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 4597
+        },
+        {
+          "date": "2016-03-22",
+          "views": 3280
+        },
+        {
+          "date": "2016-03-23",
+          "views": 2554
+        },
+        {
+          "date": "2016-03-24",
+          "views": 2527
+        },
+        {
+          "date": "2016-03-25",
+          "views": 17204
+        },
+        {
+          "date": "2016-03-26",
+          "views": 11601
+        },
+        {
+          "date": "2016-03-27",
+          "views": 4037
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ciao%20Darwin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Ciao_Darwin",
+      "article_url": "https://it.wikipedia.org/wiki/Ciao_Darwin",
+      "description": "programma televisivo italiano",
+      "image_filename": "Ciao_Darwin_2019_logo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/65/Ciao_Darwin_2019_logo.png/1280px-Ciao_Darwin_2019_logo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ciao_Darwin_2019_logo.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Mr._Robot",
+      "views": 43981,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 6935
+        },
+        {
+          "date": "2016-03-22",
+          "views": 6009
+        },
+        {
+          "date": "2016-03-23",
+          "views": 6249
+        },
+        {
+          "date": "2016-03-24",
+          "views": 6567
+        },
+        {
+          "date": "2016-03-25",
+          "views": 6707
+        },
+        {
+          "date": "2016-03-26",
+          "views": 5881
+        },
+        {
+          "date": "2016-03-27",
+          "views": 5633
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mr.%20Robot&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Mr._Robot",
+      "article_url": "https://it.wikipedia.org/wiki/Mr._Robot",
+      "description": "serie televisiva statunitense",
+      "image_filename": "MrRobot_intertitle.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/MrRobot_intertitle.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:MrRobot_intertitle.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Progetto_Erasmus",
+      "views": 42723,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 23099
+        },
+        {
+          "date": "2016-03-22",
+          "views": 10690
+        },
+        {
+          "date": "2016-03-23",
+          "views": 4182
+        },
+        {
+          "date": "2016-03-24",
+          "views": 2957
+        },
+        {
+          "date": "2016-03-25",
+          "views": 1795
+        },
+        {
+          "date": "2016-03-26",
+          "views": 0
+        },
+        {
+          "date": "2016-03-27",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Progetto%20Erasmus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Progetto_Erasmus",
+      "article_url": "https://it.wikipedia.org/wiki/Progetto_Erasmus",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Fear_the_Walking_Dead",
+      "views": 41438,
+      "daily_views": [
+        {
+          "date": "2016-03-21",
+          "views": 8484
+        },
+        {
+          "date": "2016-03-22",
+          "views": 5261
+        },
+        {
+          "date": "2016-03-23",
+          "views": 4108
+        },
+        {
+          "date": "2016-03-24",
+          "views": 9135
+        },
+        {
+          "date": "2016-03-25",
+          "views": 5452
+        },
+        {
+          "date": "2016-03-26",
+          "views": 3989
+        },
+        {
+          "date": "2016-03-27",
+          "views": 5009
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fear%20the%20Walking%20Dead&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/21/2016,cd_max:03/27/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-21&end=2016-03-27&pages=Fear_the_Walking_Dead",
+      "article_url": "https://it.wikipedia.org/wiki/Fear_the_Walking_Dead",
+      "description": "serie televisiva statunitense (2015-2023)",
+      "image_filename": "Fear_the_Walking_Dead-Logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fear_the_Walking_Dead-Logo.svg/1280px-Fear_the_Walking_Dead-Logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fear_the_Walking_Dead-Logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}

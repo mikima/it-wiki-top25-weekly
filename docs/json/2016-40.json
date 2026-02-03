@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2016,
+  "week": 40,
+  "start_date": "2016-10-03",
+  "end_date": "2016-10-09",
+  "days": [
+    "2016-10-03",
+    "2016-10-04",
+    "2016-10-05",
+    "2016-10-06",
+    "2016-10-07",
+    "2016-10-08",
+    "2016-10-09"
+  ],
+  "total_articles": 2543,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Roberto_Bolle",
+      "views": 145992,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 1223
+        },
+        {
+          "date": "2016-10-04",
+          "views": 1263
+        },
+        {
+          "date": "2016-10-05",
+          "views": 1693
+        },
+        {
+          "date": "2016-10-06",
+          "views": 8183
+        },
+        {
+          "date": "2016-10-07",
+          "views": 3332
+        },
+        {
+          "date": "2016-10-08",
+          "views": 106821
+        },
+        {
+          "date": "2016-10-09",
+          "views": 23477
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Roberto%20Bolle&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Roberto_Bolle",
+      "article_url": "https://it.wikipedia.org/wiki/Roberto_Bolle",
+      "description": "ballerino italiano (1975-)",
+      "image_filename": "Roberto_bolle_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Roberto_bolle_2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roberto_bolle_2.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Antonella_Mosetti",
+      "views": 136007,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 42171
+        },
+        {
+          "date": "2016-10-04",
+          "views": 33778
+        },
+        {
+          "date": "2016-10-05",
+          "views": 19929
+        },
+        {
+          "date": "2016-10-06",
+          "views": 13842
+        },
+        {
+          "date": "2016-10-07",
+          "views": 8747
+        },
+        {
+          "date": "2016-10-08",
+          "views": 8831
+        },
+        {
+          "date": "2016-10-09",
+          "views": 8709
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Antonella%20Mosetti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Antonella_Mosetti",
+      "article_url": "https://it.wikipedia.org/wiki/Antonella_Mosetti",
+      "description": "showgirl italiana",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "TRIM",
+      "views": 134577,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 0
+        },
+        {
+          "date": "2016-10-04",
+          "views": 134577
+        },
+        {
+          "date": "2016-10-05",
+          "views": 0
+        },
+        {
+          "date": "2016-10-06",
+          "views": 0
+        },
+        {
+          "date": "2016-10-07",
+          "views": 0
+        },
+        {
+          "date": "2016-10-08",
+          "views": 0
+        },
+        {
+          "date": "2016-10-09",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=TRIM&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=TRIM",
+      "article_url": "https://it.wikipedia.org/wiki/TRIM",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Elenoire_Casalegno",
+      "views": 127890,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 28892
+        },
+        {
+          "date": "2016-10-04",
+          "views": 31086
+        },
+        {
+          "date": "2016-10-05",
+          "views": 21431
+        },
+        {
+          "date": "2016-10-06",
+          "views": 13437
+        },
+        {
+          "date": "2016-10-07",
+          "views": 8666
+        },
+        {
+          "date": "2016-10-08",
+          "views": 9264
+        },
+        {
+          "date": "2016-10-09",
+          "views": 15114
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elenoire%20Casalegno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Elenoire_Casalegno",
+      "article_url": "https://it.wikipedia.org/wiki/Elenoire_Casalegno",
+      "description": "conduttrice televisiva italiana (1976-)",
+      "image_filename": "ELENOIRE_CASALEGNO_2023_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/ELENOIRE_CASALEGNO_2023_cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ELENOIRE_CASALEGNO_2023_cropped.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Calendario_gregoriano",
+      "views": 96119,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 5136
+        },
+        {
+          "date": "2016-10-04",
+          "views": 85000
+        },
+        {
+          "date": "2016-10-05",
+          "views": 3593
+        },
+        {
+          "date": "2016-10-06",
+          "views": 1524
+        },
+        {
+          "date": "2016-10-07",
+          "views": 866
+        },
+        {
+          "date": "2016-10-08",
+          "views": 0
+        },
+        {
+          "date": "2016-10-09",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Calendario%20gregoriano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Calendario_gregoriano",
+      "article_url": "https://it.wikipedia.org/wiki/Calendario_gregoriano",
+      "description": "calendario in uso in quasi tutto il mondo",
+      "image_filename": "Lavinia_Fontana_-_Portrait_of_Pope_Gregory_XIII.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lavinia_Fontana_-_Portrait_of_Pope_Gregory_XIII.jpg/1280px-Lavinia_Fontana_-_Portrait_of_Pope_Gregory_XIII.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lavinia_Fontana_-_Portrait_of_Pope_Gregory_XIII.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Stefano_Bettarini",
+      "views": 89803,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 29758
+        },
+        {
+          "date": "2016-10-04",
+          "views": 20720
+        },
+        {
+          "date": "2016-10-05",
+          "views": 9504
+        },
+        {
+          "date": "2016-10-06",
+          "views": 8096
+        },
+        {
+          "date": "2016-10-07",
+          "views": 6282
+        },
+        {
+          "date": "2016-10-08",
+          "views": 8658
+        },
+        {
+          "date": "2016-10-09",
+          "views": 6785
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stefano%20Bettarini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Stefano_Bettarini",
+      "article_url": "https://it.wikipedia.org/wiki/Stefano_Bettarini",
+      "description": "personaggio televisivo e calciatore italiano (1972-)",
+      "image_filename": "Stefano_bettarini.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/6/62/Stefano_bettarini.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Stefano_bettarini.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Pablo_Escobar",
+      "views": 84165,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 15368
+        },
+        {
+          "date": "2016-10-04",
+          "views": 13185
+        },
+        {
+          "date": "2016-10-05",
+          "views": 11918
+        },
+        {
+          "date": "2016-10-06",
+          "views": 10243
+        },
+        {
+          "date": "2016-10-07",
+          "views": 10320
+        },
+        {
+          "date": "2016-10-08",
+          "views": 10551
+        },
+        {
+          "date": "2016-10-09",
+          "views": 12580
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pablo%20Escobar&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Pablo_Escobar",
+      "article_url": "https://it.wikipedia.org/wiki/Pablo_Escobar",
+      "description": "criminale, terrorista e narcotrafficante colombiano (1949\u20131993)",
+      "image_filename": "Pablo_Escobar_Mug.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pablo_Escobar_Mug.jpg/1280px-Pablo_Escobar_Mug.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pablo_Escobar_Mug.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 8,
+      "article": "Manuel_Agnelli",
+      "views": 83091,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 8534
+        },
+        {
+          "date": "2016-10-04",
+          "views": 5005
+        },
+        {
+          "date": "2016-10-05",
+          "views": 6700
+        },
+        {
+          "date": "2016-10-06",
+          "views": 12045
+        },
+        {
+          "date": "2016-10-07",
+          "views": 20240
+        },
+        {
+          "date": "2016-10-08",
+          "views": 14792
+        },
+        {
+          "date": "2016-10-09",
+          "views": 15775
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Manuel%20Agnelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Manuel_Agnelli",
+      "article_url": "https://it.wikipedia.org/wiki/Manuel_Agnelli",
+      "description": "cantautore, musicista, produttore discografico e personaggio televisivo italiano (1966-)",
+      "image_filename": "Strategie_dell\u2019apnea_dal_Tora!_Tora!_a_X-Factor_passando_per_Sanremo_-_From_Tora!_Tora!_to_X-Factor_(33366521063).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strategie_dell%E2%80%99apnea_dal_Tora%21_Tora%21_a_X-Factor_passando_per_Sanremo_-_From_Tora%21_Tora%21_to_X-Factor_%2833366521063%29.jpg/1280px-Strategie_dell%E2%80%99apnea_dal_Tora%21_Tora%21_a_X-Factor_passando_per_Sanremo_-_From_Tora%21_Tora%21_to_X-Factor_%2833366521063%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Strategie_dell%E2%80%99apnea_dal_Tora%21_Tora%21_a_X-Factor_passando_per_Sanremo_-_From_Tora%21_Tora%21_to_X-Factor_(33366521063).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Qualificazioni_al_campionato_mondiale_di_calcio_2018_-_UEFA",
+      "views": 79476,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 2310
+        },
+        {
+          "date": "2016-10-04",
+          "views": 3311
+        },
+        {
+          "date": "2016-10-05",
+          "views": 3609
+        },
+        {
+          "date": "2016-10-06",
+          "views": 16980
+        },
+        {
+          "date": "2016-10-07",
+          "views": 15711
+        },
+        {
+          "date": "2016-10-08",
+          "views": 9096
+        },
+        {
+          "date": "2016-10-09",
+          "views": 28459
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Qualificazioni%20al%20campionato%20mondiale%20di%20calcio%202018%20-%20UEFA&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Qualificazioni_al_campionato_mondiale_di_calcio_2018_-_UEFA",
+      "article_url": "https://it.wikipedia.org/wiki/Qualificazioni_al_campionato_mondiale_di_calcio_2018_-_UEFA",
+      "description": "Prima fase eliminatoria dei mondiali in Russia 2018",
+      "image_filename": "Logo_UEFA_European_Qualifiers_(2015).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a6/Logo_UEFA_European_Qualifiers_%282015%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_UEFA_European_Qualifiers_(2015).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 10,
+      "article": "Morte_di_Stefano_Cucchi",
+      "views": 76039,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 0
+        },
+        {
+          "date": "2016-10-04",
+          "views": 13931
+        },
+        {
+          "date": "2016-10-05",
+          "views": 38531
+        },
+        {
+          "date": "2016-10-06",
+          "views": 13165
+        },
+        {
+          "date": "2016-10-07",
+          "views": 6157
+        },
+        {
+          "date": "2016-10-08",
+          "views": 2622
+        },
+        {
+          "date": "2016-10-09",
+          "views": 1633
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Morte%20di%20Stefano%20Cucchi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Morte_di_Stefano_Cucchi",
+      "article_url": "https://it.wikipedia.org/wiki/Morte_di_Stefano_Cucchi",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Clemente_Russo",
+      "views": 74904,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 30654
+        },
+        {
+          "date": "2016-10-04",
+          "views": 22225
+        },
+        {
+          "date": "2016-10-05",
+          "views": 8301
+        },
+        {
+          "date": "2016-10-06",
+          "views": 3532
+        },
+        {
+          "date": "2016-10-07",
+          "views": 1772
+        },
+        {
+          "date": "2016-10-08",
+          "views": 3211
+        },
+        {
+          "date": "2016-10-09",
+          "views": 5209
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Clemente%20Russo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Clemente_Russo",
+      "article_url": "https://it.wikipedia.org/wiki/Clemente_Russo",
+      "description": "personaggio televisivo, dirigente sportivo e pugile italiano",
+      "image_filename": "Clemente_Russo_Rio2016d.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Clemente_Russo_Rio2016d.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Clemente_Russo_Rio2016d.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Elena_Ferrante",
+      "views": 66233,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 13597
+        },
+        {
+          "date": "2016-10-04",
+          "views": 9218
+        },
+        {
+          "date": "2016-10-05",
+          "views": 27362
+        },
+        {
+          "date": "2016-10-06",
+          "views": 7135
+        },
+        {
+          "date": "2016-10-07",
+          "views": 3424
+        },
+        {
+          "date": "2016-10-08",
+          "views": 2764
+        },
+        {
+          "date": "2016-10-09",
+          "views": 2733
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elena%20Ferrante&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Elena_Ferrante",
+      "article_url": "https://it.wikipedia.org/wiki/Elena_Ferrante",
+      "description": "romanziera e scrittrice italiana (pseudonimo)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Bruce_Lee",
+      "views": 65288,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 0
+        },
+        {
+          "date": "2016-10-04",
+          "views": 0
+        },
+        {
+          "date": "2016-10-05",
+          "views": 0
+        },
+        {
+          "date": "2016-10-06",
+          "views": 0
+        },
+        {
+          "date": "2016-10-07",
+          "views": 0
+        },
+        {
+          "date": "2016-10-08",
+          "views": 1122
+        },
+        {
+          "date": "2016-10-09",
+          "views": 64166
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bruce%20Lee&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Bruce_Lee",
+      "article_url": "https://it.wikipedia.org/wiki/Bruce_Lee",
+      "description": "artista marziale, attore, regista, sceneggiatore e produttore cinematografico cinese con cittadinanza statunitense (1940-1973)",
+      "image_filename": "Bruce_Lee_1973.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bruce_Lee_1973.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Westworld_-_Dove_tutto_\u00e8_concesso",
+      "views": 64593,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 13712
+        },
+        {
+          "date": "2016-10-04",
+          "views": 11830
+        },
+        {
+          "date": "2016-10-05",
+          "views": 9463
+        },
+        {
+          "date": "2016-10-06",
+          "views": 7011
+        },
+        {
+          "date": "2016-10-07",
+          "views": 6443
+        },
+        {
+          "date": "2016-10-08",
+          "views": 8253
+        },
+        {
+          "date": "2016-10-09",
+          "views": 7881
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Westworld%20-%20Dove%20tutto%20%C3%A8%20concesso&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Westworld_-_Dove_tutto_%C3%A8_concesso",
+      "article_url": "https://it.wikipedia.org/wiki/Westworld_-_Dove_tutto_%C3%A8_concesso",
+      "description": "serie televisiva statunitense (2016-2022)",
+      "image_filename": "Westworld.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/83/Westworld.png/1280px-Westworld.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Westworld.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Sparizione_di_Emanuela_Orlandi",
+      "views": 62937,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 6361
+        },
+        {
+          "date": "2016-10-04",
+          "views": 5176
+        },
+        {
+          "date": "2016-10-05",
+          "views": 9409
+        },
+        {
+          "date": "2016-10-06",
+          "views": 10233
+        },
+        {
+          "date": "2016-10-07",
+          "views": 10940
+        },
+        {
+          "date": "2016-10-08",
+          "views": 9965
+        },
+        {
+          "date": "2016-10-09",
+          "views": 10853
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sparizione%20di%20Emanuela%20Orlandi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Sparizione_di_Emanuela_Orlandi",
+      "article_url": "https://it.wikipedia.org/wiki/Sparizione_di_Emanuela_Orlandi",
+      "description": "ragazza vaticana scomparsa il 22 giugno 1983",
+      "image_filename": "Emanuela_Orlandi_-_Sorriso_in_Controluce_-_Portrait_-_BW_photo_Restore_to_HD_Digital_Color.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Emanuela_Orlandi_-_Sorriso_in_Controluce_-_Portrait_-_BW_photo_Restore_to_HD_Digital_Color.jpg/1280px-Emanuela_Orlandi_-_Sorriso_in_Controluce_-_Portrait_-_BW_photo_Restore_to_HD_Digital_Color.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Emanuela_Orlandi_-_Sorriso_in_Controluce_-_Portrait_-_BW_photo_Restore_to_HD_Digital_Color.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Francesco_d'Assisi",
+      "views": 62511,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 12762
+        },
+        {
+          "date": "2016-10-04",
+          "views": 28859
+        },
+        {
+          "date": "2016-10-05",
+          "views": 7187
+        },
+        {
+          "date": "2016-10-06",
+          "views": 4379
+        },
+        {
+          "date": "2016-10-07",
+          "views": 3270
+        },
+        {
+          "date": "2016-10-08",
+          "views": 2601
+        },
+        {
+          "date": "2016-10-09",
+          "views": 3453
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Francesco%20d%27Assisi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Francesco_d%27Assisi",
+      "article_url": "https://it.wikipedia.org/wiki/Francesco_d%27Assisi",
+      "description": "religioso, santo e poeta italiano (1181/2-1226)",
+      "image_filename": "Luca_Giordano_-_San_Francisco_de_Asis.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Luca_Giordano_-_San_Francisco_de_Asis.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luca_Giordano_-_San_Francisco_de_Asis.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "Bernardo_Caprotti",
+      "views": 61013,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 10658
+        },
+        {
+          "date": "2016-10-04",
+          "views": 5095
+        },
+        {
+          "date": "2016-10-05",
+          "views": 9624
+        },
+        {
+          "date": "2016-10-06",
+          "views": 12068
+        },
+        {
+          "date": "2016-10-07",
+          "views": 14824
+        },
+        {
+          "date": "2016-10-08",
+          "views": 5956
+        },
+        {
+          "date": "2016-10-09",
+          "views": 2788
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bernardo%20Caprotti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Bernardo_Caprotti",
+      "article_url": "https://it.wikipedia.org/wiki/Bernardo_Caprotti",
+      "description": "imprenditore italiano (1925\u20132016)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 18,
+      "article": "Harley-Davidson",
+      "views": 60357,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 1474
+        },
+        {
+          "date": "2016-10-04",
+          "views": 18431
+        },
+        {
+          "date": "2016-10-05",
+          "views": 20338
+        },
+        {
+          "date": "2016-10-06",
+          "views": 6621
+        },
+        {
+          "date": "2016-10-07",
+          "views": 2306
+        },
+        {
+          "date": "2016-10-08",
+          "views": 7629
+        },
+        {
+          "date": "2016-10-09",
+          "views": 3558
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Harley-Davidson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Harley-Davidson",
+      "article_url": "https://it.wikipedia.org/wiki/Harley-Davidson",
+      "description": "casa motociclistica statunitense",
+      "image_filename": "Harley_Davidson_logo.gif",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Harley_Davidson_logo.gif",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_logo.gif",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Changeling_(film_2008)",
+      "views": 60226,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 964
+        },
+        {
+          "date": "2016-10-04",
+          "views": 46664
+        },
+        {
+          "date": "2016-10-05",
+          "views": 10900
+        },
+        {
+          "date": "2016-10-06",
+          "views": 1698
+        },
+        {
+          "date": "2016-10-07",
+          "views": 0
+        },
+        {
+          "date": "2016-10-08",
+          "views": 0
+        },
+        {
+          "date": "2016-10-09",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Changeling%20%28film%202008%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Changeling_(film_2008)",
+      "article_url": "https://it.wikipedia.org/wiki/Changeling_(film_2008)",
+      "description": "film del 2008 diretto da Clint Eastwood",
+      "image_filename": "Changeling_film.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/6/64/Changeling_film.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Changeling_film.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Angeli_e_demoni_(film)",
+      "views": 59293,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 0
+        },
+        {
+          "date": "2016-10-04",
+          "views": 974
+        },
+        {
+          "date": "2016-10-05",
+          "views": 27023
+        },
+        {
+          "date": "2016-10-06",
+          "views": 6655
+        },
+        {
+          "date": "2016-10-07",
+          "views": 2314
+        },
+        {
+          "date": "2016-10-08",
+          "views": 7128
+        },
+        {
+          "date": "2016-10-09",
+          "views": 15199
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Angeli%20e%20demoni%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Angeli_e_demoni_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Angeli_e_demoni_(film)",
+      "description": "film del 2009, diretto da Ron Howard",
+      "image_filename": "Angeli_e_demoni,_2009.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/Angeli_e_demoni%2C_2009.jpg/1280px-Angeli_e_demoni%2C_2009.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Angeli_e_demoni%2C_2009.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Legionella",
+      "views": 59219,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 1824
+        },
+        {
+          "date": "2016-10-04",
+          "views": 1541
+        },
+        {
+          "date": "2016-10-05",
+          "views": 7687
+        },
+        {
+          "date": "2016-10-06",
+          "views": 32591
+        },
+        {
+          "date": "2016-10-07",
+          "views": 9809
+        },
+        {
+          "date": "2016-10-08",
+          "views": 3431
+        },
+        {
+          "date": "2016-10-09",
+          "views": 2336
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Legionella&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Legionella",
+      "article_url": "https://it.wikipedia.org/wiki/Legionella",
+      "description": "genere di batterio della famiglia Legionellaceae",
+      "image_filename": "Legionella_Plate_01.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Legionella_Plate_01.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Legionella_Plate_01.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Eleonora_Brigliadori",
+      "views": 57889,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 20731
+        },
+        {
+          "date": "2016-10-04",
+          "views": 13517
+        },
+        {
+          "date": "2016-10-05",
+          "views": 9459
+        },
+        {
+          "date": "2016-10-06",
+          "views": 4689
+        },
+        {
+          "date": "2016-10-07",
+          "views": 3577
+        },
+        {
+          "date": "2016-10-08",
+          "views": 2259
+        },
+        {
+          "date": "2016-10-09",
+          "views": 3657
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Eleonora%20Brigliadori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Eleonora_Brigliadori",
+      "article_url": "https://it.wikipedia.org/wiki/Eleonora_Brigliadori",
+      "description": "attrice, personaggio televisivo e annunciatrice televisiva italiana (1960-)",
+      "image_filename": "Cintura_-_Brigliadori.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b6/Cintura_-_Brigliadori.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cintura_-_Brigliadori.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Pamela_Prati",
+      "views": 57250,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 19916
+        },
+        {
+          "date": "2016-10-04",
+          "views": 9917
+        },
+        {
+          "date": "2016-10-05",
+          "views": 4681
+        },
+        {
+          "date": "2016-10-06",
+          "views": 5769
+        },
+        {
+          "date": "2016-10-07",
+          "views": 4162
+        },
+        {
+          "date": "2016-10-08",
+          "views": 6159
+        },
+        {
+          "date": "2016-10-09",
+          "views": 6646
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pamela%20Prati&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Pamela_Prati",
+      "article_url": "https://it.wikipedia.org/wiki/Pamela_Prati",
+      "description": "showgirl, attrice e modella italiana",
+      "image_filename": "Pamela_Prati_Roma_ottobre_2015.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pamela_Prati_Roma_ottobre_2015.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pamela_Prati_Roma_ottobre_2015.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Chiara_Ferragni",
+      "views": 56958,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 5427
+        },
+        {
+          "date": "2016-10-04",
+          "views": 7442
+        },
+        {
+          "date": "2016-10-05",
+          "views": 11389
+        },
+        {
+          "date": "2016-10-06",
+          "views": 10796
+        },
+        {
+          "date": "2016-10-07",
+          "views": 7249
+        },
+        {
+          "date": "2016-10-08",
+          "views": 7267
+        },
+        {
+          "date": "2016-10-09",
+          "views": 7388
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Chiara%20Ferragni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Chiara_Ferragni",
+      "article_url": "https://it.wikipedia.org/wiki/Chiara_Ferragni",
+      "description": "imprenditrice e blogger italiana (1987-)",
+      "image_filename": "Goyas_2025_-_Chiara_Ferragni_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Goyas_2025_-_Chiara_Ferragni_%28cropped%29.jpg/1280px-Goyas_2025_-_Chiara_Ferragni_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Goyas_2025_-_Chiara_Ferragni_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Repubblica_di_Macedonia",
+      "views": 54921,
+      "daily_views": [
+        {
+          "date": "2016-10-03",
+          "views": 0
+        },
+        {
+          "date": "2016-10-04",
+          "views": 0
+        },
+        {
+          "date": "2016-10-05",
+          "views": 0
+        },
+        {
+          "date": "2016-10-06",
+          "views": 1220
+        },
+        {
+          "date": "2016-10-07",
+          "views": 1169
+        },
+        {
+          "date": "2016-10-08",
+          "views": 2196
+        },
+        {
+          "date": "2016-10-09",
+          "views": 50336
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Repubblica%20di%20Macedonia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Repubblica_di_Macedonia",
+      "article_url": "https://it.wikipedia.org/wiki/Repubblica_di_Macedonia",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}
