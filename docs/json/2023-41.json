@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2023,
+  "week": 41,
+  "start_date": "2023-10-09",
+  "end_date": "2023-10-15",
+  "days": [
+    "2023-10-09",
+    "2023-10-10",
+    "2023-10-11",
+    "2023-10-12",
+    "2023-10-13",
+    "2023-10-14",
+    "2023-10-15"
+  ],
+  "total_articles": 2551,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Striscia_di_Gaza",
+      "views": 719977,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 175041
+        },
+        {
+          "date": "2023-10-10",
+          "views": 147104
+        },
+        {
+          "date": "2023-10-11",
+          "views": 113423
+        },
+        {
+          "date": "2023-10-12",
+          "views": 89199
+        },
+        {
+          "date": "2023-10-13",
+          "views": 77933
+        },
+        {
+          "date": "2023-10-14",
+          "views": 60466
+        },
+        {
+          "date": "2023-10-15",
+          "views": 56811
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Striscia%20di%20Gaza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Striscia_di_Gaza",
+      "article_url": "https://it.wikipedia.org/wiki/Striscia_di_Gaza",
+      "description": "territorio appartenente alla Palestina",
+      "image_filename": "Flag_of_Palestine.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1280px-Flag_of_Palestine.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Israele",
+      "views": 516866,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 111282
+        },
+        {
+          "date": "2023-10-10",
+          "views": 97392
+        },
+        {
+          "date": "2023-10-11",
+          "views": 78648
+        },
+        {
+          "date": "2023-10-12",
+          "views": 64209
+        },
+        {
+          "date": "2023-10-13",
+          "views": 56253
+        },
+        {
+          "date": "2023-10-14",
+          "views": 51364
+        },
+        {
+          "date": "2023-10-15",
+          "views": 57718
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Israele&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Israele",
+      "article_url": "https://it.wikipedia.org/wiki/Israele",
+      "description": "stato sovrano dell'Asia occidentale",
+      "image_filename": "Flag_of_Israel.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1280px-Flag_of_Israel.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Israel.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Stato_di_Palestina",
+      "views": 505858,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 114575
+        },
+        {
+          "date": "2023-10-10",
+          "views": 106281
+        },
+        {
+          "date": "2023-10-11",
+          "views": 82244
+        },
+        {
+          "date": "2023-10-12",
+          "views": 61392
+        },
+        {
+          "date": "2023-10-13",
+          "views": 51676
+        },
+        {
+          "date": "2023-10-14",
+          "views": 44673
+        },
+        {
+          "date": "2023-10-15",
+          "views": 45017
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stato%20di%20Palestina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Stato_di_Palestina",
+      "article_url": "https://it.wikipedia.org/wiki/Stato_di_Palestina",
+      "description": "Stato dell'Asia occidentale",
+      "image_filename": "Flag_of_Palestine.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1280px-Flag_of_Palestine.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Hamas",
+      "views": 501960,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 134747
+        },
+        {
+          "date": "2023-10-10",
+          "views": 98197
+        },
+        {
+          "date": "2023-10-11",
+          "views": 72506
+        },
+        {
+          "date": "2023-10-12",
+          "views": 61140
+        },
+        {
+          "date": "2023-10-13",
+          "views": 52248
+        },
+        {
+          "date": "2023-10-14",
+          "views": 42758
+        },
+        {
+          "date": "2023-10-15",
+          "views": 40364
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Hamas&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Hamas",
+      "article_url": "https://it.wikipedia.org/wiki/Hamas",
+      "description": "organizzazione politica e militare islamista palestinese",
+      "image_filename": "Flag_of_al-Qassam_Brigades.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_al-Qassam_Brigades.svg/1280px-Flag_of_al-Qassam_Brigades.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_al-Qassam_Brigades.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Conflitto_israelo-palestinese",
+      "views": 337695,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 92298
+        },
+        {
+          "date": "2023-10-10",
+          "views": 70909
+        },
+        {
+          "date": "2023-10-11",
+          "views": 54547
+        },
+        {
+          "date": "2023-10-12",
+          "views": 39744
+        },
+        {
+          "date": "2023-10-13",
+          "views": 29930
+        },
+        {
+          "date": "2023-10-14",
+          "views": 24430
+        },
+        {
+          "date": "2023-10-15",
+          "views": 25837
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Conflitto%20israelo-palestinese&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Conflitto_israelo-palestinese",
+      "article_url": "https://it.wikipedia.org/wiki/Conflitto_israelo-palestinese",
+      "description": "conflitto politico-militare tra israeliani e palestinesi, parte della questione arabo-israeliana",
+      "image_filename": "Occupied_Palestinian_Territories.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/1280px-Occupied_Palestinian_Territories.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Occupied_Palestinian_Territories.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Palestina",
+      "views": 305232,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 62056
+        },
+        {
+          "date": "2023-10-10",
+          "views": 56996
+        },
+        {
+          "date": "2023-10-11",
+          "views": 51437
+        },
+        {
+          "date": "2023-10-12",
+          "views": 40057
+        },
+        {
+          "date": "2023-10-13",
+          "views": 37934
+        },
+        {
+          "date": "2023-10-14",
+          "views": 27932
+        },
+        {
+          "date": "2023-10-15",
+          "views": 28820
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Palestina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Palestina",
+      "article_url": "https://it.wikipedia.org/wiki/Palestina",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Kibbutz",
+      "views": 211481,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 22628
+        },
+        {
+          "date": "2023-10-10",
+          "views": 66238
+        },
+        {
+          "date": "2023-10-11",
+          "views": 51189
+        },
+        {
+          "date": "2023-10-12",
+          "views": 27340
+        },
+        {
+          "date": "2023-10-13",
+          "views": 13868
+        },
+        {
+          "date": "2023-10-14",
+          "views": 13930
+        },
+        {
+          "date": "2023-10-15",
+          "views": 16288
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kibbutz&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Kibbutz",
+      "article_url": "https://it.wikipedia.org/wiki/Kibbutz",
+      "description": "forma associativa volontaria di lavoratori in Israele",
+      "image_filename": "Kfar_Masaryk_6699.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kfar_Masaryk_6699.JPG/1280px-Kfar_Masaryk_6699.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kfar_Masaryk_6699.JPG",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Cisgiordania",
+      "views": 209741,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 42316
+        },
+        {
+          "date": "2023-10-10",
+          "views": 40882
+        },
+        {
+          "date": "2023-10-11",
+          "views": 32519
+        },
+        {
+          "date": "2023-10-12",
+          "views": 27861
+        },
+        {
+          "date": "2023-10-13",
+          "views": 24817
+        },
+        {
+          "date": "2023-10-14",
+          "views": 20447
+        },
+        {
+          "date": "2023-10-15",
+          "views": 20899
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cisgiordania&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Cisgiordania",
+      "article_url": "https://it.wikipedia.org/wiki/Cisgiordania",
+      "description": "principale regione dei Territori palestinesi, occupata da Israele e sottoposta a controllo misto da parte di Israele e dello Stato di Palestina",
+      "image_filename": "Control_status_of_the_West_Bank_as_per_the_Oslo_Accords.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Control_status_of_the_West_Bank_as_per_the_Oslo_Accords.svg/1280px-Control_status_of_the_West_Bank_as_per_the_Oslo_Accords.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Control_status_of_the_West_Bank_as_per_the_Oslo_Accords.svg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Disastro_del_Vajont",
+      "views": 189174,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 123534
+        },
+        {
+          "date": "2023-10-10",
+          "views": 31323
+        },
+        {
+          "date": "2023-10-11",
+          "views": 10939
+        },
+        {
+          "date": "2023-10-12",
+          "views": 6787
+        },
+        {
+          "date": "2023-10-13",
+          "views": 4951
+        },
+        {
+          "date": "2023-10-14",
+          "views": 6017
+        },
+        {
+          "date": "2023-10-15",
+          "views": 5623
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Disastro%20del%20Vajont&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Disastro_del_Vajont",
+      "article_url": "https://it.wikipedia.org/wiki/Disastro_del_Vajont",
+      "description": "disastro ambientale",
+      "image_filename": "Vajont1963_5.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Vajont1963_5.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vajont1963_5.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "David_Beckham",
+      "views": 124653,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 18672
+        },
+        {
+          "date": "2023-10-10",
+          "views": 17463
+        },
+        {
+          "date": "2023-10-11",
+          "views": 17335
+        },
+        {
+          "date": "2023-10-12",
+          "views": 17222
+        },
+        {
+          "date": "2023-10-13",
+          "views": 14735
+        },
+        {
+          "date": "2023-10-14",
+          "views": 17318
+        },
+        {
+          "date": "2023-10-15",
+          "views": 21908
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=David%20Beckham&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=David_Beckham",
+      "article_url": "https://it.wikipedia.org/wiki/David_Beckham",
+      "description": "dirigente sportivo, imprenditore e calciatore inglese",
+      "image_filename": "Beckswimbledon.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Beckswimbledon.jpg/1280px-Beckswimbledon.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Beckswimbledon.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Gaza",
+      "views": 119037,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 30926
+        },
+        {
+          "date": "2023-10-10",
+          "views": 24494
+        },
+        {
+          "date": "2023-10-11",
+          "views": 17158
+        },
+        {
+          "date": "2023-10-12",
+          "views": 14006
+        },
+        {
+          "date": "2023-10-13",
+          "views": 12929
+        },
+        {
+          "date": "2023-10-14",
+          "views": 9711
+        },
+        {
+          "date": "2023-10-15",
+          "views": 9813
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gaza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Gaza",
+      "article_url": "https://it.wikipedia.org/wiki/Gaza",
+      "description": "citt\u00e0 della Palestina",
+      "image_filename": "Images_of_war_23-25_from_Gaza,_by_Jaber_Badwen,_IMG_6315.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg/1280px-Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Beatrice_Luzzi",
+      "views": 114870,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 48287
+        },
+        {
+          "date": "2023-10-10",
+          "views": 20038
+        },
+        {
+          "date": "2023-10-11",
+          "views": 9383
+        },
+        {
+          "date": "2023-10-12",
+          "views": 18017
+        },
+        {
+          "date": "2023-10-13",
+          "views": 9542
+        },
+        {
+          "date": "2023-10-14",
+          "views": 5936
+        },
+        {
+          "date": "2023-10-15",
+          "views": 3667
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Beatrice%20Luzzi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Beatrice_Luzzi",
+      "article_url": "https://it.wikipedia.org/wiki/Beatrice_Luzzi",
+      "description": "attrice e autrice televisiva italiana (1970-)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Facebook",
+      "views": 114449,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 16122
+        },
+        {
+          "date": "2023-10-10",
+          "views": 16459
+        },
+        {
+          "date": "2023-10-11",
+          "views": 16867
+        },
+        {
+          "date": "2023-10-12",
+          "views": 16953
+        },
+        {
+          "date": "2023-10-13",
+          "views": 16515
+        },
+        {
+          "date": "2023-10-14",
+          "views": 16047
+        },
+        {
+          "date": "2023-10-15",
+          "views": 15486
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Facebook&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Facebook",
+      "article_url": "https://it.wikipedia.org/wiki/Facebook",
+      "description": "social network",
+      "image_filename": "Screen_of_Facebook_(2).PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/1280px-Screen_of_Facebook_%282%29.PNG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screen_of_Facebook_(2).PNG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Fabrizio_Corona",
+      "views": 100041,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 1597
+        },
+        {
+          "date": "2023-10-10",
+          "views": 1374
+        },
+        {
+          "date": "2023-10-11",
+          "views": 2437
+        },
+        {
+          "date": "2023-10-12",
+          "views": 12670
+        },
+        {
+          "date": "2023-10-13",
+          "views": 38679
+        },
+        {
+          "date": "2023-10-14",
+          "views": 27130
+        },
+        {
+          "date": "2023-10-15",
+          "views": 16154
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fabrizio%20Corona&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Fabrizio_Corona",
+      "article_url": "https://it.wikipedia.org/wiki/Fabrizio_Corona",
+      "description": "personaggio televisivo e imprenditore italiano (1974-)",
+      "image_filename": "Fabrizio_Corona_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Fabrizio_Corona_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fabrizio_Corona_(cropped).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Conflitto_arabo-israeliano",
+      "views": 98469,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 23542
+        },
+        {
+          "date": "2023-10-10",
+          "views": 18268
+        },
+        {
+          "date": "2023-10-11",
+          "views": 15331
+        },
+        {
+          "date": "2023-10-12",
+          "views": 12075
+        },
+        {
+          "date": "2023-10-13",
+          "views": 11239
+        },
+        {
+          "date": "2023-10-14",
+          "views": 8475
+        },
+        {
+          "date": "2023-10-15",
+          "views": 9539
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Conflitto%20arabo-israeliano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Conflitto_arabo-israeliano",
+      "article_url": "https://it.wikipedia.org/wiki/Conflitto_arabo-israeliano",
+      "description": "conflitto politico-militare fra Israele e Paesi arabi",
+      "image_filename": "Arab-Israeli_Conflict_Key_Players.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Arab-Israeli_Conflict_Key_Players.svg/1280px-Arab-Israeli_Conflict_Key_Players.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Arab-Israeli_Conflict_Key_Players.svg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Hezbollah",
+      "views": 94916,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 21643
+        },
+        {
+          "date": "2023-10-10",
+          "views": 19369
+        },
+        {
+          "date": "2023-10-11",
+          "views": 11986
+        },
+        {
+          "date": "2023-10-12",
+          "views": 9817
+        },
+        {
+          "date": "2023-10-13",
+          "views": 10515
+        },
+        {
+          "date": "2023-10-14",
+          "views": 10061
+        },
+        {
+          "date": "2023-10-15",
+          "views": 11525
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Hezbollah&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Hezbollah",
+      "article_url": "https://it.wikipedia.org/wiki/Hezbollah",
+      "description": "formazione paramilitare e partito politico libanese",
+      "image_filename": "Flag_of_Hezbollah_(red_version).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Hezbollah_%28red_version%29.svg/1280px-Flag_of_Hezbollah_%28red_version%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Hezbollah_(red_version).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 17,
+      "article": "Territori_occupati_da_Israele",
+      "views": 89696,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 18920
+        },
+        {
+          "date": "2023-10-10",
+          "views": 18151
+        },
+        {
+          "date": "2023-10-11",
+          "views": 14637
+        },
+        {
+          "date": "2023-10-12",
+          "views": 10955
+        },
+        {
+          "date": "2023-10-13",
+          "views": 10408
+        },
+        {
+          "date": "2023-10-14",
+          "views": 7946
+        },
+        {
+          "date": "2023-10-15",
+          "views": 8679
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Territori%20occupati%20da%20Israele&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Territori_occupati_da_Israele",
+      "article_url": "https://it.wikipedia.org/wiki/Territori_occupati_da_Israele",
+      "description": "territori occupati da Israele dalla guerra dei sei giorni (1967) a oggi",
+      "image_filename": "Israel_and_occupied_territories_map.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Israel_and_occupied_territories_map.png/1280px-Israel_and_occupied_territories_map.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Israel_and_occupied_territories_map.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Guerra_dei_sei_giorni",
+      "views": 82318,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 15367
+        },
+        {
+          "date": "2023-10-10",
+          "views": 15230
+        },
+        {
+          "date": "2023-10-11",
+          "views": 13712
+        },
+        {
+          "date": "2023-10-12",
+          "views": 10706
+        },
+        {
+          "date": "2023-10-13",
+          "views": 9372
+        },
+        {
+          "date": "2023-10-14",
+          "views": 8545
+        },
+        {
+          "date": "2023-10-15",
+          "views": 9386
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guerra%20dei%20sei%20giorni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Guerra_dei_sei_giorni",
+      "article_url": "https://it.wikipedia.org/wiki/Guerra_dei_sei_giorni",
+      "description": "conflitto arabo-israeliano del 5-10 giugno 1967",
+      "image_filename": "Yom_Kippur_War_map-it.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Yom_Kippur_War_map-it.svg/1280px-Yom_Kippur_War_map-it.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Yom_Kippur_War_map-it.svg",
+      "image_license": "CC BY-SA 2.5",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Benjamin_Netanyahu",
+      "views": 79749,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 13259
+        },
+        {
+          "date": "2023-10-10",
+          "views": 14290
+        },
+        {
+          "date": "2023-10-11",
+          "views": 12433
+        },
+        {
+          "date": "2023-10-12",
+          "views": 12072
+        },
+        {
+          "date": "2023-10-13",
+          "views": 9739
+        },
+        {
+          "date": "2023-10-14",
+          "views": 9439
+        },
+        {
+          "date": "2023-10-15",
+          "views": 8517
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Benjamin%20Netanyahu&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Benjamin_Netanyahu",
+      "article_url": "https://it.wikipedia.org/wiki/Benjamin_Netanyahu",
+      "description": "politico israeliano",
+      "image_filename": "Benjamin_Netanyahu,_February_2023.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/1280px-Benjamin_Netanyahu%2C_February_2023.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu%2C_February_2023.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Yasser_Arafat",
+      "views": 78091,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 15281
+        },
+        {
+          "date": "2023-10-10",
+          "views": 14388
+        },
+        {
+          "date": "2023-10-11",
+          "views": 12831
+        },
+        {
+          "date": "2023-10-12",
+          "views": 11413
+        },
+        {
+          "date": "2023-10-13",
+          "views": 9806
+        },
+        {
+          "date": "2023-10-14",
+          "views": 7349
+        },
+        {
+          "date": "2023-10-15",
+          "views": 7023
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Yasser%20Arafat&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Yasser_Arafat",
+      "article_url": "https://it.wikipedia.org/wiki/Yasser_Arafat",
+      "description": "politico palestinese",
+      "image_filename": "Leader_of_the_PLO,_Yasser_Arafat,_1996_Dan_Hadani_Archive.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/1280px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Sionismo",
+      "views": 71986,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 10683
+        },
+        {
+          "date": "2023-10-10",
+          "views": 11908
+        },
+        {
+          "date": "2023-10-11",
+          "views": 12301
+        },
+        {
+          "date": "2023-10-12",
+          "views": 10334
+        },
+        {
+          "date": "2023-10-13",
+          "views": 8890
+        },
+        {
+          "date": "2023-10-14",
+          "views": 8827
+        },
+        {
+          "date": "2023-10-15",
+          "views": 9043
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sionismo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Sionismo",
+      "article_url": "https://it.wikipedia.org/wiki/Sionismo",
+      "description": "ideologia politica per l'affermazione del diritto di autodeterminazione del popolo ebraico",
+      "image_filename": "Theodor_Herzl.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Theodor_Herzl.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Theodor_Herzl.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Giacomo_Bonaventura",
+      "views": 68754,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 7747
+        },
+        {
+          "date": "2023-10-10",
+          "views": 5764
+        },
+        {
+          "date": "2023-10-11",
+          "views": 5787
+        },
+        {
+          "date": "2023-10-12",
+          "views": 4494
+        },
+        {
+          "date": "2023-10-13",
+          "views": 2267
+        },
+        {
+          "date": "2023-10-14",
+          "views": 27992
+        },
+        {
+          "date": "2023-10-15",
+          "views": 14703
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giacomo%20Bonaventura&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Giacomo_Bonaventura",
+      "article_url": "https://it.wikipedia.org/wiki/Giacomo_Bonaventura",
+      "description": "calciatore italiano (1989-)",
+      "image_filename": "Giacomo_Bonaventura_(31931883345).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Giacomo_Bonaventura_%2831931883345%29.jpg/1280px-Giacomo_Bonaventura_%2831931883345%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giacomo_Bonaventura_(31931883345).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Storia_di_Israele",
+      "views": 66871,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 11270
+        },
+        {
+          "date": "2023-10-10",
+          "views": 11974
+        },
+        {
+          "date": "2023-10-11",
+          "views": 11052
+        },
+        {
+          "date": "2023-10-12",
+          "views": 9144
+        },
+        {
+          "date": "2023-10-13",
+          "views": 8267
+        },
+        {
+          "date": "2023-10-14",
+          "views": 7439
+        },
+        {
+          "date": "2023-10-15",
+          "views": 7725
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Storia%20di%20Israele&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Storia_di_Israele",
+      "article_url": "https://it.wikipedia.org/wiki/Storia_di_Israele",
+      "description": "storia del territorio dello stato o della civilt\u00e0",
+      "image_filename": "Merenptah_Israel_Stele_Cairo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Merenptah_Israel_Stele_Cairo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Merenptah_Israel_Stele_Cairo.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Diga_del_Vajont",
+      "views": 66696,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 40501
+        },
+        {
+          "date": "2023-10-10",
+          "views": 10831
+        },
+        {
+          "date": "2023-10-11",
+          "views": 4632
+        },
+        {
+          "date": "2023-10-12",
+          "views": 2909
+        },
+        {
+          "date": "2023-10-13",
+          "views": 2360
+        },
+        {
+          "date": "2023-10-14",
+          "views": 2736
+        },
+        {
+          "date": "2023-10-15",
+          "views": 2727
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Diga%20del%20Vajont&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Diga_del_Vajont",
+      "article_url": "https://it.wikipedia.org/wiki/Diga_del_Vajont",
+      "description": "diga nella provincia di Pordenone",
+      "image_filename": "Diga_del_Vajont_.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Diga_del_Vajont_.jpg/1280px-Diga_del_Vajont_.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diga_del_Vajont_.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "Gerusalemme",
+      "views": 65905,
+      "daily_views": [
+        {
+          "date": "2023-10-09",
+          "views": 13177
+        },
+        {
+          "date": "2023-10-10",
+          "views": 12150
+        },
+        {
+          "date": "2023-10-11",
+          "views": 10161
+        },
+        {
+          "date": "2023-10-12",
+          "views": 8810
+        },
+        {
+          "date": "2023-10-13",
+          "views": 7781
+        },
+        {
+          "date": "2023-10-14",
+          "views": 7011
+        },
+        {
+          "date": "2023-10-15",
+          "views": 6815
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gerusalemme&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/09/2023,cd_max:10/15/2023&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-09&end=2023-10-15&pages=Gerusalemme",
+      "article_url": "https://it.wikipedia.org/wiki/Gerusalemme",
+      "description": "citt\u00e0 del Vicino Oriente, sacra per le tre religioni abramitiche",
+      "image_filename": "Flag_of_Jerusalem.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Jerusalem.svg/1280px-Flag_of_Jerusalem.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Jerusalem.svg",
+      "image_license": "CC BY-SA 2.5",
+      "image_copyrighted": "True"
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2019,
+  "week": 32,
+  "start_date": "2019-08-05",
+  "end_date": "2019-08-11",
+  "days": [
+    "2019-08-05",
+    "2019-08-06",
+    "2019-08-07",
+    "2019-08-08",
+    "2019-08-09",
+    "2019-08-10",
+    "2019-08-11"
+  ],
+  "total_articles": 2609,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "TG_Norba_24",
+      "views": 337262,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 62196
+        },
+        {
+          "date": "2019-08-06",
+          "views": 57916
+        },
+        {
+          "date": "2019-08-07",
+          "views": 46138
+        },
+        {
+          "date": "2019-08-08",
+          "views": 35445
+        },
+        {
+          "date": "2019-08-09",
+          "views": 51048
+        },
+        {
+          "date": "2019-08-10",
+          "views": 42053
+        },
+        {
+          "date": "2019-08-11",
+          "views": 42466
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=TG_Norba_24",
+      "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Tg_norba24.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Romelu_Lukaku",
+      "views": 310072,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 8648
+        },
+        {
+          "date": "2019-08-06",
+          "views": 8337
+        },
+        {
+          "date": "2019-08-07",
+          "views": 80932
+        },
+        {
+          "date": "2019-08-08",
+          "views": 131477
+        },
+        {
+          "date": "2019-08-09",
+          "views": 49406
+        },
+        {
+          "date": "2019-08-10",
+          "views": 20157
+        },
+        {
+          "date": "2019-08-11",
+          "views": 11115
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Romelu%20Lukaku&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Romelu_Lukaku",
+      "article_url": "https://it.wikipedia.org/wiki/Romelu_Lukaku",
+      "description": "calciatore belga (1993-)",
+      "image_filename": "Romelu_Lukaku_2021.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Romelu_Lukaku_2021.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Romelu_Lukaku_2021.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Canale_5",
+      "views": 174041,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 25331
+        },
+        {
+          "date": "2019-08-06",
+          "views": 25292
+        },
+        {
+          "date": "2019-08-07",
+          "views": 37962
+        },
+        {
+          "date": "2019-08-08",
+          "views": 30752
+        },
+        {
+          "date": "2019-08-09",
+          "views": 27235
+        },
+        {
+          "date": "2019-08-10",
+          "views": 13342
+        },
+        {
+          "date": "2019-08-11",
+          "views": 14127
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Canale%205&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Canale_5",
+      "article_url": "https://it.wikipedia.org/wiki/Canale_5",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Canale_5_-_2018_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1280px-Canale_5_-_2018_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Canale_5_-_2018_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Danilo_Luiz_da_Silva",
+      "views": 165211,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 52522
+        },
+        {
+          "date": "2019-08-06",
+          "views": 46268
+        },
+        {
+          "date": "2019-08-07",
+          "views": 31787
+        },
+        {
+          "date": "2019-08-08",
+          "views": 21054
+        },
+        {
+          "date": "2019-08-09",
+          "views": 6571
+        },
+        {
+          "date": "2019-08-10",
+          "views": 4364
+        },
+        {
+          "date": "2019-08-11",
+          "views": 2645
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Danilo%20Luiz%20da%20Silva&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Danilo_Luiz_da_Silva",
+      "article_url": "https://it.wikipedia.org/wiki/Danilo_Luiz_da_Silva",
+      "description": "calciatore brasiliano (1991-)",
+      "image_filename": "20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Danilo_Luiz_850_1591_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Danilo_Luiz_850_1591_%28cropped%29.jpg/1280px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Danilo_Luiz_850_1591_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Danilo_Luiz_850_1591_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "La_casa_di_carta",
+      "views": 155097,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 25706
+        },
+        {
+          "date": "2019-08-06",
+          "views": 23947
+        },
+        {
+          "date": "2019-08-07",
+          "views": 23487
+        },
+        {
+          "date": "2019-08-08",
+          "views": 21439
+        },
+        {
+          "date": "2019-08-09",
+          "views": 20690
+        },
+        {
+          "date": "2019-08-10",
+          "views": 19332
+        },
+        {
+          "date": "2019-08-11",
+          "views": 20496
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=La_casa_di_carta",
+      "article_url": "https://it.wikipedia.org/wiki/La_casa_di_carta",
+      "description": "serie televisiva spagnola (2017-2021)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Decreto_dei_pieni_poteri",
+      "views": 146850,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 0
+        },
+        {
+          "date": "2019-08-06",
+          "views": 0
+        },
+        {
+          "date": "2019-08-07",
+          "views": 0
+        },
+        {
+          "date": "2019-08-08",
+          "views": 0
+        },
+        {
+          "date": "2019-08-09",
+          "views": 83922
+        },
+        {
+          "date": "2019-08-10",
+          "views": 48625
+        },
+        {
+          "date": "2019-08-11",
+          "views": 14303
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Decreto%20dei%20pieni%20poteri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Decreto_dei_pieni_poteri",
+      "article_url": "https://it.wikipedia.org/wiki/Decreto_dei_pieni_poteri",
+      "description": "decreto emanato in Germania nel 1933",
+      "image_filename": "Bundesarchiv_Bild_102-14439,_Rede_Adolf_Hitlers_zum_Erm\u00e4chtigungsgesetz.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bundesarchiv_Bild_102-14439%2C_Rede_Adolf_Hitlers_zum_Erm%C3%A4chtigungsgesetz.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-14439%2C_Rede_Adolf_Hitlers_zum_Erm%C3%A4chtigungsgesetz.jpg",
+      "image_license": "CC BY-SA 3.0 de",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "RSI_LA1",
+      "views": 132059,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 23819
+        },
+        {
+          "date": "2019-08-06",
+          "views": 21056
+        },
+        {
+          "date": "2019-08-07",
+          "views": 30910
+        },
+        {
+          "date": "2019-08-08",
+          "views": 23820
+        },
+        {
+          "date": "2019-08-09",
+          "views": 15360
+        },
+        {
+          "date": "2019-08-10",
+          "views": 10718
+        },
+        {
+          "date": "2019-08-11",
+          "views": 6376
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=RSI%20LA1&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=RSI_LA1",
+      "article_url": "https://it.wikipedia.org/wiki/RSI_LA1",
+      "description": "rete televisiva della Svizzera italiana",
+      "image_filename": "RSI_La_1_2012.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_1_2012.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 8,
+      "article": "Charles_Manson",
+      "views": 129081,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 4310
+        },
+        {
+          "date": "2019-08-06",
+          "views": 6204
+        },
+        {
+          "date": "2019-08-07",
+          "views": 5105
+        },
+        {
+          "date": "2019-08-08",
+          "views": 6042
+        },
+        {
+          "date": "2019-08-09",
+          "views": 43431
+        },
+        {
+          "date": "2019-08-10",
+          "views": 47015
+        },
+        {
+          "date": "2019-08-11",
+          "views": 16974
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Charles%20Manson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Charles_Manson",
+      "article_url": "https://it.wikipedia.org/wiki/Charles_Manson",
+      "description": "criminale statunitense (1934-2017)",
+      "image_filename": "MansonB33920_8-14-17_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MansonB33920_8-14-17_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:MansonB33920_8-14-17_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "RSI_LA2",
+      "views": 127141,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 22414
+        },
+        {
+          "date": "2019-08-06",
+          "views": 19789
+        },
+        {
+          "date": "2019-08-07",
+          "views": 29667
+        },
+        {
+          "date": "2019-08-08",
+          "views": 23517
+        },
+        {
+          "date": "2019-08-09",
+          "views": 15195
+        },
+        {
+          "date": "2019-08-10",
+          "views": 10032
+        },
+        {
+          "date": "2019-08-11",
+          "views": 6527
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=RSI%20LA2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=RSI_LA2",
+      "article_url": "https://it.wikipedia.org/wiki/RSI_LA2",
+      "description": "rete televisiva della Svizzera italiana",
+      "image_filename": "RSI_La_2_2012.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_2_2012.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "Rai",
+      "views": 119460,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 18410
+        },
+        {
+          "date": "2019-08-06",
+          "views": 17930
+        },
+        {
+          "date": "2019-08-07",
+          "views": 17370
+        },
+        {
+          "date": "2019-08-08",
+          "views": 16537
+        },
+        {
+          "date": "2019-08-09",
+          "views": 17565
+        },
+        {
+          "date": "2019-08-10",
+          "views": 15431
+        },
+        {
+          "date": "2019-08-11",
+          "views": 16217
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "Domenico_Modugno",
+      "views": 110289,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 3122
+        },
+        {
+          "date": "2019-08-06",
+          "views": 30844
+        },
+        {
+          "date": "2019-08-07",
+          "views": 7693
+        },
+        {
+          "date": "2019-08-08",
+          "views": 2526
+        },
+        {
+          "date": "2019-08-09",
+          "views": 1368
+        },
+        {
+          "date": "2019-08-10",
+          "views": 52371
+        },
+        {
+          "date": "2019-08-11",
+          "views": 12365
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Domenico%20Modugno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Domenico_Modugno",
+      "article_url": "https://it.wikipedia.org/wiki/Domenico_Modugno",
+      "description": "cantautore, chitarrista, attore, regista e politico italiano (1928-1994)",
+      "image_filename": "Partitissima_modugno67.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/5/58/Partitissima_modugno67.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Partitissima_modugno67.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "LP_(cantante)",
+      "views": 105886,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 0
+        },
+        {
+          "date": "2019-08-06",
+          "views": 0
+        },
+        {
+          "date": "2019-08-07",
+          "views": 89289
+        },
+        {
+          "date": "2019-08-08",
+          "views": 8889
+        },
+        {
+          "date": "2019-08-09",
+          "views": 3282
+        },
+        {
+          "date": "2019-08-10",
+          "views": 2476
+        },
+        {
+          "date": "2019-08-11",
+          "views": 1950
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=LP%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=LP_(cantante)",
+      "article_url": "https://it.wikipedia.org/wiki/LP_(cantante)",
+      "description": "cantautrice statunitense",
+      "image_filename": "LP_(28677772150)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LP_%2828677772150%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:LP_(28677772150)_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Claudio_Villa",
+      "views": 75991,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 0
+        },
+        {
+          "date": "2019-08-06",
+          "views": 0
+        },
+        {
+          "date": "2019-08-07",
+          "views": 0
+        },
+        {
+          "date": "2019-08-08",
+          "views": 68431
+        },
+        {
+          "date": "2019-08-09",
+          "views": 5752
+        },
+        {
+          "date": "2019-08-10",
+          "views": 1808
+        },
+        {
+          "date": "2019-08-11",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Claudio%20Villa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Claudio_Villa",
+      "article_url": "https://it.wikipedia.org/wiki/Claudio_Villa",
+      "description": "cantante e attore italiano (1926-1987)",
+      "image_filename": "Claudio_Villa_mappamondo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Claudio_Villa_mappamondo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Claudio_Villa_mappamondo.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Cake_(film_2014)",
+      "views": 74244,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 0
+        },
+        {
+          "date": "2019-08-06",
+          "views": 0
+        },
+        {
+          "date": "2019-08-07",
+          "views": 1324
+        },
+        {
+          "date": "2019-08-08",
+          "views": 2453
+        },
+        {
+          "date": "2019-08-09",
+          "views": 2493
+        },
+        {
+          "date": "2019-08-10",
+          "views": 4159
+        },
+        {
+          "date": "2019-08-11",
+          "views": 63815
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cake%20%28film%202014%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Cake_(film_2014)",
+      "article_url": "https://it.wikipedia.org/wiki/Cake_(film_2014)",
+      "description": "film del 2014 diretto da Daniel Barnz",
+      "image_filename": "Cake_film_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/5/54/Cake_film_2014.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cake_film_2014.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Iris_(rete_televisiva)",
+      "views": 73745,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 10200
+        },
+        {
+          "date": "2019-08-06",
+          "views": 8889
+        },
+        {
+          "date": "2019-08-07",
+          "views": 9990
+        },
+        {
+          "date": "2019-08-08",
+          "views": 10738
+        },
+        {
+          "date": "2019-08-09",
+          "views": 8714
+        },
+        {
+          "date": "2019-08-10",
+          "views": 12999
+        },
+        {
+          "date": "2019-08-11",
+          "views": 12215
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Iris_(rete_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "Iris_-_Logo_2013.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Episodi_de_La_casa_di_carta",
+      "views": 69922,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 11937
+        },
+        {
+          "date": "2019-08-06",
+          "views": 11045
+        },
+        {
+          "date": "2019-08-07",
+          "views": 10650
+        },
+        {
+          "date": "2019-08-08",
+          "views": 9753
+        },
+        {
+          "date": "2019-08-09",
+          "views": 8966
+        },
+        {
+          "date": "2019-08-10",
+          "views": 8263
+        },
+        {
+          "date": "2019-08-11",
+          "views": 9308
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Episodi_de_La_casa_di_carta",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_La_casa_di_carta",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Sharon_Tate",
+      "views": 67759,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 2729
+        },
+        {
+          "date": "2019-08-06",
+          "views": 3049
+        },
+        {
+          "date": "2019-08-07",
+          "views": 2500
+        },
+        {
+          "date": "2019-08-08",
+          "views": 2689
+        },
+        {
+          "date": "2019-08-09",
+          "views": 27175
+        },
+        {
+          "date": "2019-08-10",
+          "views": 21135
+        },
+        {
+          "date": "2019-08-11",
+          "views": 8482
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sharon%20Tate&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Sharon_Tate",
+      "article_url": "https://it.wikipedia.org/wiki/Sharon_Tate",
+      "description": "attrice statunitense (1943\u20131969)",
+      "image_filename": "Sharon_Tate_1969.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sharon_Tate_1969.jpg/1280px-Sharon_Tate_1969.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sharon_Tate_1969.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Matteo_Salvini",
+      "views": 67285,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 5626
+        },
+        {
+          "date": "2019-08-06",
+          "views": 5449
+        },
+        {
+          "date": "2019-08-07",
+          "views": 5736
+        },
+        {
+          "date": "2019-08-08",
+          "views": 9206
+        },
+        {
+          "date": "2019-08-09",
+          "views": 17223
+        },
+        {
+          "date": "2019-08-10",
+          "views": 12055
+        },
+        {
+          "date": "2019-08-11",
+          "views": 11990
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matteo%20Salvini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Matteo_Salvini",
+      "article_url": "https://it.wikipedia.org/wiki/Matteo_Salvini",
+      "description": "politico italiano (1973-)",
+      "image_filename": "Matteo_Salvini_in_Transport,_Telecommunications_and_Energy_Council_-_June_2023_(02)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Matteo_Salvini_in_Transport%2C_Telecommunications_and_Energy_Council_-_June_2023_%2802%29_%28cropped%29.jpg/1280px-Matteo_Salvini_in_Transport%2C_Telecommunications_and_Energy_Council_-_June_2023_%2802%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Salvini_in_Transport%2C_Telecommunications_and_Energy_Council_-_June_2023_(02)_(cropped).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Ambarab\u00e0_cicc\u00ec_cocc\u00f2",
+      "views": 67136,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 37649
+        },
+        {
+          "date": "2019-08-06",
+          "views": 13421
+        },
+        {
+          "date": "2019-08-07",
+          "views": 5936
+        },
+        {
+          "date": "2019-08-08",
+          "views": 3552
+        },
+        {
+          "date": "2019-08-09",
+          "views": 2529
+        },
+        {
+          "date": "2019-08-10",
+          "views": 2165
+        },
+        {
+          "date": "2019-08-11",
+          "views": 1884
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ambarab%C3%A0%20cicc%C3%AC%20cocc%C3%B2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Ambarab%C3%A0_cicc%C3%AC_cocc%C3%B2",
+      "article_url": "https://it.wikipedia.org/wiki/Ambarab%C3%A0_cicc%C3%AC_cocc%C3%B2",
+      "description": "filastrocca italiana per bambini",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Stranger_Things",
+      "views": 61567,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 10267
+        },
+        {
+          "date": "2019-08-06",
+          "views": 9392
+        },
+        {
+          "date": "2019-08-07",
+          "views": 9351
+        },
+        {
+          "date": "2019-08-08",
+          "views": 9061
+        },
+        {
+          "date": "2019-08-09",
+          "views": 7972
+        },
+        {
+          "date": "2019-08-10",
+          "views": 7399
+        },
+        {
+          "date": "2019-08-11",
+          "views": 8125
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stranger%20Things&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Stranger_Things",
+      "article_url": "https://it.wikipedia.org/wiki/Stranger_Things",
+      "description": "serie televisiva statunitense (2016-2025)",
+      "image_filename": "Stranger_Things_logo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Stranger_Things_logo.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 21,
+      "article": "Fox_Life_(Italia)",
+      "views": 56184,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 9941
+        },
+        {
+          "date": "2019-08-06",
+          "views": 9742
+        },
+        {
+          "date": "2019-08-07",
+          "views": 10385
+        },
+        {
+          "date": "2019-08-08",
+          "views": 10929
+        },
+        {
+          "date": "2019-08-09",
+          "views": 9200
+        },
+        {
+          "date": "2019-08-10",
+          "views": 3264
+        },
+        {
+          "date": "2019-08-11",
+          "views": 2723
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fox%20Life%20%28Italia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Fox_Life_(Italia)",
+      "article_url": "https://it.wikipedia.org/wiki/Fox_Life_(Italia)",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Fabrizio_De_Andr\u00e9",
+      "views": 54544,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 1374
+        },
+        {
+          "date": "2019-08-06",
+          "views": 24547
+        },
+        {
+          "date": "2019-08-07",
+          "views": 5826
+        },
+        {
+          "date": "2019-08-08",
+          "views": 2196
+        },
+        {
+          "date": "2019-08-09",
+          "views": 1622
+        },
+        {
+          "date": "2019-08-10",
+          "views": 16358
+        },
+        {
+          "date": "2019-08-11",
+          "views": 2621
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fabrizio%20De%20Andr%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Fabrizio_De_Andr%C3%A9",
+      "article_url": "https://it.wikipedia.org/wiki/Fabrizio_De_Andr%C3%A9",
+      "description": "cantautore italiano (1940-1999)",
+      "image_filename": "De_Andr\u00e9_backstage.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/9f/De_Andr%C3%A9_backstage.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:De_Andr%C3%A9_backstage.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Fox_Comedy",
+      "views": 53991,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 9631
+        },
+        {
+          "date": "2019-08-06",
+          "views": 9470
+        },
+        {
+          "date": "2019-08-07",
+          "views": 9900
+        },
+        {
+          "date": "2019-08-08",
+          "views": 11545
+        },
+        {
+          "date": "2019-08-09",
+          "views": 8673
+        },
+        {
+          "date": "2019-08-10",
+          "views": 2791
+        },
+        {
+          "date": "2019-08-11",
+          "views": 1981
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fox%20Comedy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Fox_Comedy",
+      "article_url": "https://it.wikipedia.org/wiki/Fox_Comedy",
+      "description": "rete televisiva italiana nazionale",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Italia",
+      "views": 53659,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 6935
+        },
+        {
+          "date": "2019-08-06",
+          "views": 7419
+        },
+        {
+          "date": "2019-08-07",
+          "views": 7468
+        },
+        {
+          "date": "2019-08-08",
+          "views": 7577
+        },
+        {
+          "date": "2019-08-09",
+          "views": 7943
+        },
+        {
+          "date": "2019-08-10",
+          "views": 7977
+        },
+        {
+          "date": "2019-08-11",
+          "views": 8340
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Disastro_di_\u010cernobyl'",
+      "views": 52541,
+      "daily_views": [
+        {
+          "date": "2019-08-05",
+          "views": 8828
+        },
+        {
+          "date": "2019-08-06",
+          "views": 8468
+        },
+        {
+          "date": "2019-08-07",
+          "views": 7251
+        },
+        {
+          "date": "2019-08-08",
+          "views": 6549
+        },
+        {
+          "date": "2019-08-09",
+          "views": 7449
+        },
+        {
+          "date": "2019-08-10",
+          "views": 6540
+        },
+        {
+          "date": "2019-08-11",
+          "views": 7456
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Disastro%20di%20%C4%8Cernobyl%27&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/05/2019,cd_max:08/11/2019&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-08-05&end=2019-08-11&pages=Disastro_di_%C4%8Cernobyl%27",
+      "article_url": "https://it.wikipedia.org/wiki/Disastro_di_%C4%8Cernobyl%27",
+      "description": "incidente nucleare",
+      "image_filename": "IAEA_02790015_(5613115146).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/1280px-IAEA_02790015_%285613115146%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:IAEA_02790015_(5613115146).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

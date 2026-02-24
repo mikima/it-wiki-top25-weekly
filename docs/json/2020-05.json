@@ -1,0 +1,1120 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2020,
+  "week": 5,
+  "start_date": "2020-01-27",
+  "end_date": "2020-02-02",
+  "days": [
+    "2020-01-27",
+    "2020-01-28",
+    "2020-01-29",
+    "2020-01-30",
+    "2020-01-31",
+    "2020-02-01",
+    "2020-02-02"
+  ],
+  "total_articles": 2598,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Kobe_Bryant",
+      "views": 1339457,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 768466
+        },
+        {
+          "date": "2020-01-28",
+          "views": 258940
+        },
+        {
+          "date": "2020-01-29",
+          "views": 112272
+        },
+        {
+          "date": "2020-01-30",
+          "views": 68327
+        },
+        {
+          "date": "2020-01-31",
+          "views": 43003
+        },
+        {
+          "date": "2020-02-01",
+          "views": 51486
+        },
+        {
+          "date": "2020-02-02",
+          "views": 36963
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kobe%20Bryant&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Kobe_Bryant",
+      "article_url": "https://it.wikipedia.org/wiki/Kobe_Bryant",
+      "description": "cestista statunitense (1978-2020)",
+      "image_filename": "KBryant8.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/KBryant8.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:KBryant8.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 2,
+      "article": "Coronavirus",
+      "views": 943661,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 81393
+        },
+        {
+          "date": "2020-01-28",
+          "views": 144679
+        },
+        {
+          "date": "2020-01-29",
+          "views": 115618
+        },
+        {
+          "date": "2020-01-30",
+          "views": 213696
+        },
+        {
+          "date": "2020-01-31",
+          "views": 242616
+        },
+        {
+          "date": "2020-02-01",
+          "views": 92236
+        },
+        {
+          "date": "2020-02-02",
+          "views": 53423
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Coronavirus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Coronavirus",
+      "article_url": "https://it.wikipedia.org/wiki/Coronavirus",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Eugene_Cernan",
+      "views": 782993,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 0
+        },
+        {
+          "date": "2020-01-28",
+          "views": 0
+        },
+        {
+          "date": "2020-01-29",
+          "views": 753370
+        },
+        {
+          "date": "2020-01-30",
+          "views": 23827
+        },
+        {
+          "date": "2020-01-31",
+          "views": 3794
+        },
+        {
+          "date": "2020-02-01",
+          "views": 2002
+        },
+        {
+          "date": "2020-02-02",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Eugene%20Cernan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Eugene_Cernan",
+      "article_url": "https://it.wikipedia.org/wiki/Eugene_Cernan",
+      "description": "astronauta statunitense",
+      "image_filename": "Cernan_s71-51308.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cernan_s71-51308.jpg/1280px-Cernan_s71-51308.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cernan_s71-51308.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "SARS",
+      "views": 252760,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 24223
+        },
+        {
+          "date": "2020-01-28",
+          "views": 37677
+        },
+        {
+          "date": "2020-01-29",
+          "views": 32951
+        },
+        {
+          "date": "2020-01-30",
+          "views": 50002
+        },
+        {
+          "date": "2020-01-31",
+          "views": 64960
+        },
+        {
+          "date": "2020-02-01",
+          "views": 26965
+        },
+        {
+          "date": "2020-02-02",
+          "views": 15982
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=SARS&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=SARS",
+      "article_url": "https://it.wikipedia.org/wiki/SARS",
+      "description": "sindrome respiratoria acuta grave",
+      "image_filename": "Coronaviruses_004_lores.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/1280px-Coronaviruses_004_lores.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronaviruses_004_lores.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 5,
+      "article": "Chico_Forti",
+      "views": 211574,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 9302
+        },
+        {
+          "date": "2020-01-28",
+          "views": 19019
+        },
+        {
+          "date": "2020-01-29",
+          "views": 15656
+        },
+        {
+          "date": "2020-01-30",
+          "views": 92906
+        },
+        {
+          "date": "2020-01-31",
+          "views": 52013
+        },
+        {
+          "date": "2020-02-01",
+          "views": 12669
+        },
+        {
+          "date": "2020-02-02",
+          "views": 10009
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Chico%20Forti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Chico_Forti",
+      "article_url": "https://it.wikipedia.org/wiki/Chico_Forti",
+      "description": "assassino, velista e produttore televisivo italiano (1959-)",
+      "image_filename": "Enrico_Forti.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Enrico_Forti.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Enrico_Forti.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Rai",
+      "views": 204853,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 28247
+        },
+        {
+          "date": "2020-01-28",
+          "views": 32622
+        },
+        {
+          "date": "2020-01-29",
+          "views": 31963
+        },
+        {
+          "date": "2020-01-30",
+          "views": 29481
+        },
+        {
+          "date": "2020-01-31",
+          "views": 32313
+        },
+        {
+          "date": "2020-02-01",
+          "views": 26967
+        },
+        {
+          "date": "2020-02-02",
+          "views": 23260
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Joe_Bryant",
+      "views": 163216,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 80792
+        },
+        {
+          "date": "2020-01-28",
+          "views": 38797
+        },
+        {
+          "date": "2020-01-29",
+          "views": 17006
+        },
+        {
+          "date": "2020-01-30",
+          "views": 8914
+        },
+        {
+          "date": "2020-01-31",
+          "views": 5914
+        },
+        {
+          "date": "2020-02-01",
+          "views": 6831
+        },
+        {
+          "date": "2020-02-02",
+          "views": 4962
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Joe%20Bryant&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Joe_Bryant",
+      "article_url": "https://it.wikipedia.org/wiki/Joe_Bryant",
+      "description": "cestista e allenatore di pallacanestro statunitense (1954-2024)",
+      "image_filename": "Joe_Bryant_(Standa_Reggio_Calabria_1986-87).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/96/Joe_Bryant_%28Standa_Reggio_Calabria_1986-87%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Bryant_(Standa_Reggio_Calabria_1986-87).jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Christian_Eriksen",
+      "views": 157744,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 34515
+        },
+        {
+          "date": "2020-01-28",
+          "views": 55132
+        },
+        {
+          "date": "2020-01-29",
+          "views": 31515
+        },
+        {
+          "date": "2020-01-30",
+          "views": 12444
+        },
+        {
+          "date": "2020-01-31",
+          "views": 7625
+        },
+        {
+          "date": "2020-02-01",
+          "views": 7420
+        },
+        {
+          "date": "2020-02-02",
+          "views": 9093
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Christian%20Eriksen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Christian_Eriksen",
+      "article_url": "https://it.wikipedia.org/wiki/Christian_Eriksen",
+      "description": "calciatore danese (1992-)",
+      "image_filename": "20140904_-_Christian_Eriksen_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/20140904_-_Christian_Eriksen_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:20140904_-_Christian_Eriksen_(cropped).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "J-Ax",
+      "views": 156677,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 0
+        },
+        {
+          "date": "2020-01-28",
+          "views": 0
+        },
+        {
+          "date": "2020-01-29",
+          "views": 130877
+        },
+        {
+          "date": "2020-01-30",
+          "views": 11612
+        },
+        {
+          "date": "2020-01-31",
+          "views": 2680
+        },
+        {
+          "date": "2020-02-01",
+          "views": 8566
+        },
+        {
+          "date": "2020-02-02",
+          "views": 2942
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=J-Ax&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=J-Ax",
+      "article_url": "https://it.wikipedia.org/wiki/J-Ax",
+      "description": "rapper, cantautore e produttore discografico italiano (1972-)",
+      "image_filename": "J-Ax_-_Lucca_Comics_&_Games_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/J-Ax_-_Lucca_Comics_%26_Games_2016.jpg/1280px-J-Ax_-_Lucca_Comics_%26_Games_2016.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:J-Ax_-_Lucca_Comics_%26_Games_2016.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "LeBron_James",
+      "views": 147894,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 45499
+        },
+        {
+          "date": "2020-01-28",
+          "views": 33758
+        },
+        {
+          "date": "2020-01-29",
+          "views": 17375
+        },
+        {
+          "date": "2020-01-30",
+          "views": 10118
+        },
+        {
+          "date": "2020-01-31",
+          "views": 8540
+        },
+        {
+          "date": "2020-02-01",
+          "views": 19805
+        },
+        {
+          "date": "2020-02-02",
+          "views": 12799
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=LeBron%20James&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=LeBron_James",
+      "article_url": "https://it.wikipedia.org/wiki/LeBron_James",
+      "description": "cestista statunitense (1984-)",
+      "image_filename": "LeBron_James_(51959977144)_(cropped2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:LeBron_James_(51959977144)_(cropped2).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Michael_Jordan",
+      "views": 136842,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 49352
+        },
+        {
+          "date": "2020-01-28",
+          "views": 27887
+        },
+        {
+          "date": "2020-01-29",
+          "views": 16406
+        },
+        {
+          "date": "2020-01-30",
+          "views": 11918
+        },
+        {
+          "date": "2020-01-31",
+          "views": 9256
+        },
+        {
+          "date": "2020-02-01",
+          "views": 11783
+        },
+        {
+          "date": "2020-02-02",
+          "views": 10240
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michael%20Jordan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Michael_Jordan",
+      "article_url": "https://it.wikipedia.org/wiki/Michael_Jordan",
+      "description": "dirigente sportivo, imprenditore e cestista statunitense (1963-)",
+      "image_filename": "Michael_Jordan_in_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_2014.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Liliana_Segre",
+      "views": 132613,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 32932
+        },
+        {
+          "date": "2020-01-28",
+          "views": 16104
+        },
+        {
+          "date": "2020-01-29",
+          "views": 24585
+        },
+        {
+          "date": "2020-01-30",
+          "views": 25685
+        },
+        {
+          "date": "2020-01-31",
+          "views": 14131
+        },
+        {
+          "date": "2020-02-01",
+          "views": 8979
+        },
+        {
+          "date": "2020-02-02",
+          "views": 10197
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Liliana%20Segre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Liliana_Segre",
+      "article_url": "https://it.wikipedia.org/wiki/Liliana_Segre",
+      "description": "antifascista e politica italiana, superstite della Shoah e testimone della Shoah (1930-)",
+      "image_filename": "Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Liliana_Segre_%28XVIII_Legislatura_Senato%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
+      "image_license": "CC BY 1.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Giorni_della_merla",
+      "views": 131000,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 9296
+        },
+        {
+          "date": "2020-01-28",
+          "views": 17849
+        },
+        {
+          "date": "2020-01-29",
+          "views": 46995
+        },
+        {
+          "date": "2020-01-30",
+          "views": 27854
+        },
+        {
+          "date": "2020-01-31",
+          "views": 15360
+        },
+        {
+          "date": "2020-02-01",
+          "views": 7892
+        },
+        {
+          "date": "2020-02-02",
+          "views": 5754
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorni%20della%20merla&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Giorni_della_merla",
+      "article_url": "https://it.wikipedia.org/wiki/Giorni_della_merla",
+      "description": "nome con cui vengono chiamati 29, 30 e 31 gennaio",
+      "image_filename": "Turdus_merula.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Turdus_merula.JPG/1280px-Turdus_merula.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Turdus_merula.JPG",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "1917_(film)",
+      "views": 122570,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 17748
+        },
+        {
+          "date": "2020-01-28",
+          "views": 15766
+        },
+        {
+          "date": "2020-01-29",
+          "views": 16475
+        },
+        {
+          "date": "2020-01-30",
+          "views": 13558
+        },
+        {
+          "date": "2020-01-31",
+          "views": 13767
+        },
+        {
+          "date": "2020-02-01",
+          "views": 21838
+        },
+        {
+          "date": "2020-02-02",
+          "views": 23418
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=1917%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=1917_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/1917_(film)",
+      "description": "film del 2019 diretto da Sam Mendes",
+      "image_filename": "1917logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/1917logo.svg/1280px-1917logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:1917logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 15,
+      "article": "Giorno_della_Memoria",
+      "views": 121371,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 77464
+        },
+        {
+          "date": "2020-01-28",
+          "views": 17470
+        },
+        {
+          "date": "2020-01-29",
+          "views": 9453
+        },
+        {
+          "date": "2020-01-30",
+          "views": 6604
+        },
+        {
+          "date": "2020-01-31",
+          "views": 3922
+        },
+        {
+          "date": "2020-02-01",
+          "views": 2776
+        },
+        {
+          "date": "2020-02-02",
+          "views": 3682
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorno%20della%20Memoria&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Giorno_della_Memoria",
+      "article_url": "https://it.wikipedia.org/wiki/Giorno_della_Memoria",
+      "description": "giornata internazionale per la commemorazione delle vittime dell'Olocausto",
+      "image_filename": "Auschwitz_I_entrance_snow.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Auschwitz_I_entrance_snow.jpg/1280px-Auschwitz_I_entrance_snow.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_entrance_snow.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 16,
+      "article": "Coronavirus_2019-nCoV",
+      "views": 108103,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 6720
+        },
+        {
+          "date": "2020-01-28",
+          "views": 18838
+        },
+        {
+          "date": "2020-01-29",
+          "views": 14539
+        },
+        {
+          "date": "2020-01-30",
+          "views": 21771
+        },
+        {
+          "date": "2020-01-31",
+          "views": 26300
+        },
+        {
+          "date": "2020-02-01",
+          "views": 11779
+        },
+        {
+          "date": "2020-02-02",
+          "views": 8156
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Coronavirus%202019-nCoV&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Coronavirus_2019-nCoV",
+      "article_url": "https://it.wikipedia.org/wiki/Coronavirus_2019-nCoV",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Influenza_spagnola",
+      "views": 106985,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 6401
+        },
+        {
+          "date": "2020-01-28",
+          "views": 9718
+        },
+        {
+          "date": "2020-01-29",
+          "views": 14381
+        },
+        {
+          "date": "2020-01-30",
+          "views": 20577
+        },
+        {
+          "date": "2020-01-31",
+          "views": 27434
+        },
+        {
+          "date": "2020-02-01",
+          "views": 17254
+        },
+        {
+          "date": "2020-02-02",
+          "views": 11220
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Influenza%20spagnola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Influenza_spagnola",
+      "article_url": "https://it.wikipedia.org/wiki/Influenza_spagnola",
+      "description": "pandemia dal 1918 al 1920",
+      "image_filename": "Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Reconstructed_Spanish_Flu_Virus.jpg/1280px-Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Reconstructed_Spanish_Flu_Virus.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Wuhan",
+      "views": 99071,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 9236
+        },
+        {
+          "date": "2020-01-28",
+          "views": 16130
+        },
+        {
+          "date": "2020-01-29",
+          "views": 12959
+        },
+        {
+          "date": "2020-01-30",
+          "views": 17602
+        },
+        {
+          "date": "2020-01-31",
+          "views": 23143
+        },
+        {
+          "date": "2020-02-01",
+          "views": 10958
+        },
+        {
+          "date": "2020-02-02",
+          "views": 9043
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Wuhan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Wuhan",
+      "article_url": "https://it.wikipedia.org/wiki/Wuhan",
+      "description": "citt\u00e0 cinese",
+      "image_filename": "WuhanSkyline.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WuhanSkyline.jpg/1280px-WuhanSkyline.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:WuhanSkyline.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Olocausto",
+      "views": 98773,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 42306
+        },
+        {
+          "date": "2020-01-28",
+          "views": 16566
+        },
+        {
+          "date": "2020-01-29",
+          "views": 10738
+        },
+        {
+          "date": "2020-01-30",
+          "views": 11238
+        },
+        {
+          "date": "2020-01-31",
+          "views": 7492
+        },
+        {
+          "date": "2020-02-01",
+          "views": 4872
+        },
+        {
+          "date": "2020-02-02",
+          "views": 5561
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Olocausto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Olocausto",
+      "article_url": "https://it.wikipedia.org/wiki/Olocausto",
+      "description": "genocidio perpetrato dalla Germania nazista e dai suoi alleati ai danni degli ebrei d'Europa e di altre minoranze",
+      "image_filename": "PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg/1280px-PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg",
+      "image_license": "CC BY 2.5",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Wonder_(film)",
+      "views": 97542,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 1463
+        },
+        {
+          "date": "2020-01-28",
+          "views": 2434
+        },
+        {
+          "date": "2020-01-29",
+          "views": 2297
+        },
+        {
+          "date": "2020-01-30",
+          "views": 2022
+        },
+        {
+          "date": "2020-01-31",
+          "views": 3714
+        },
+        {
+          "date": "2020-02-01",
+          "views": 69455
+        },
+        {
+          "date": "2020-02-02",
+          "views": 16157
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Wonder%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Wonder_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Wonder_(film)",
+      "description": "film del 2017 diretto da Stephen Chbosky",
+      "image_filename": "Wonder_film.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/0/01/Wonder_film.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Wonder_film.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Campo_di_concentramento_di_Auschwitz",
+      "views": 95431,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 44390
+        },
+        {
+          "date": "2020-01-28",
+          "views": 17590
+        },
+        {
+          "date": "2020-01-29",
+          "views": 10061
+        },
+        {
+          "date": "2020-01-30",
+          "views": 8435
+        },
+        {
+          "date": "2020-01-31",
+          "views": 5395
+        },
+        {
+          "date": "2020-02-01",
+          "views": 4246
+        },
+        {
+          "date": "2020-02-02",
+          "views": 5314
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campo%20di%20concentramento%20di%20Auschwitz&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Campo_di_concentramento_di_Auschwitz",
+      "article_url": "https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Auschwitz",
+      "description": "campo di concentramento nazista",
+      "image_filename": "Brzezinka,_Auschwitz-Birkenau.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Brzezinka%2C_Auschwitz-Birkenau.jpg/1280px-Brzezinka%2C_Auschwitz-Birkenau.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brzezinka%2C_Auschwitz-Birkenau.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Schindler's_List_-_La_lista_di_Schindler",
+      "views": 93326,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 62015
+        },
+        {
+          "date": "2020-01-28",
+          "views": 18183
+        },
+        {
+          "date": "2020-01-29",
+          "views": 4457
+        },
+        {
+          "date": "2020-01-30",
+          "views": 3135
+        },
+        {
+          "date": "2020-01-31",
+          "views": 2068
+        },
+        {
+          "date": "2020-02-01",
+          "views": 1634
+        },
+        {
+          "date": "2020-02-02",
+          "views": 1834
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Schindler%27s%20List%20-%20La%20lista%20di%20Schindler&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Schindler%27s_List_-_La_lista_di_Schindler",
+      "article_url": "https://it.wikipedia.org/wiki/Schindler%27s_List_-_La_lista_di_Schindler",
+      "description": "film del 1993 diretto da Steven Spielberg",
+      "image_filename": "Schindler's_List_01.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/4/46/Schindler%27s_List_01.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Schindler%27s_List_01.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Jojo_Rabbit",
+      "views": 92738,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 14998
+        },
+        {
+          "date": "2020-01-28",
+          "views": 12385
+        },
+        {
+          "date": "2020-01-29",
+          "views": 11779
+        },
+        {
+          "date": "2020-01-30",
+          "views": 9792
+        },
+        {
+          "date": "2020-01-31",
+          "views": 10115
+        },
+        {
+          "date": "2020-02-01",
+          "views": 16126
+        },
+        {
+          "date": "2020-02-02",
+          "views": 17543
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jojo%20Rabbit&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Jojo_Rabbit",
+      "article_url": "https://it.wikipedia.org/wiki/Jojo_Rabbit",
+      "description": "film del 2019 diretto da Taika Waititi",
+      "image_filename": "Jojo_Rabbit.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Jojo_Rabbit.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jojo_Rabbit.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Oskar_Schindler",
+      "views": 90854,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 59607
+        },
+        {
+          "date": "2020-01-28",
+          "views": 19750
+        },
+        {
+          "date": "2020-01-29",
+          "views": 3875
+        },
+        {
+          "date": "2020-01-30",
+          "views": 2713
+        },
+        {
+          "date": "2020-01-31",
+          "views": 2038
+        },
+        {
+          "date": "2020-02-01",
+          "views": 1361
+        },
+        {
+          "date": "2020-02-02",
+          "views": 1510
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Oskar%20Schindler&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Oskar_Schindler",
+      "article_url": "https://it.wikipedia.org/wiki/Oskar_Schindler",
+      "description": "imprenditore tedesco (1908-1974)",
+      "image_filename": "Schindler,_Oskar.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Schindler%2C_Oskar.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Schindler%2C_Oskar.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Shaquille_O'Neal",
+      "views": 89268,
+      "daily_views": [
+        {
+          "date": "2020-01-27",
+          "views": 22358
+        },
+        {
+          "date": "2020-01-28",
+          "views": 13984
+        },
+        {
+          "date": "2020-01-29",
+          "views": 18164
+        },
+        {
+          "date": "2020-01-30",
+          "views": 12582
+        },
+        {
+          "date": "2020-01-31",
+          "views": 7652
+        },
+        {
+          "date": "2020-02-01",
+          "views": 7929
+        },
+        {
+          "date": "2020-02-02",
+          "views": 6599
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Shaquille%20O%27Neal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Shaquille_O%27Neal",
+      "article_url": "https://it.wikipedia.org/wiki/Shaquille_O%27Neal",
+      "description": "opinionista sportivo, attore, rapper e cestista statunitense",
+      "image_filename": "Shaquille_O'Neal_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Shaquille_O%27Neal_%28cropped%29.jpg/1280px-Shaquille_O%27Neal_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Shaquille_O%27Neal_(cropped).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}
