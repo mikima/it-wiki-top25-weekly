@@ -41,6 +41,21 @@ STOPWORD_TITLES = (
 )
 
 
+class DailyTopFetchError(RuntimeError):
+    def __init__(
+        self,
+        day: date,
+        message: str,
+        *,
+        status_code: Optional[int] = None,
+        detail: str = "",
+    ) -> None:
+        super().__init__(message)
+        self.day = day
+        self.status_code = status_code
+        self.detail = detail
+
+
 def render_progress(prefix: str, current: int, total: int, width: int = 28) -> None:
     if total <= 0:
         return
@@ -141,6 +156,14 @@ def parse_args() -> argparse.Namespace:
         default=30.0,
         help="Request timeout in seconds",
     )
+    parser.add_argument(
+        "--allow-missing-days",
+        action="store_true",
+        help=(
+            "Keep a week even when one or more daily top endpoints return 404; "
+            "missing days are tracked in the JSON output"
+        ),
+    )
     return parser.parse_args()
 
 
@@ -162,17 +185,35 @@ def fetch_daily_top(
     try:
         response = session.get(url, timeout=timeout)
         response.raise_for_status()
+    except requests.HTTPError as exc:
+        status_code = exc.response.status_code if exc.response is not None else None
+        detail = ""
+        if exc.response is not None:
+            detail = exc.response.text.strip().replace("\n", " ")
+        raise DailyTopFetchError(
+            day,
+            f"Request failed for {day.isoformat()}: {exc}",
+            status_code=status_code,
+            detail=detail[:180],
+        ) from exc
     except requests.RequestException as exc:
-        raise RuntimeError(f"Request failed for {day.isoformat()}: {exc}") from exc
+        raise DailyTopFetchError(
+            day,
+            f"Request failed for {day.isoformat()}: {exc}",
+            detail=str(exc),
+        ) from exc
 
     try:
         payload = response.json()
     except ValueError as exc:
-        raise RuntimeError(f"Invalid JSON for {day.isoformat()}") from exc
+        raise DailyTopFetchError(
+            day,
+            f"Invalid JSON for {day.isoformat()}",
+        ) from exc
 
     items = payload.get("items")
     if not items or "articles" not in items[0]:
-        raise RuntimeError(f"Unexpected response for {day.isoformat()}")
+        raise DailyTopFetchError(day, f"Unexpected response for {day.isoformat()}")
 
     return items[0]["articles"]
 
@@ -513,6 +554,15 @@ def write_csv(rows: List[Dict[str, object]], output_path: Optional[str]) -> None
         handle.close()
 
 
+def missing_day_record(exc: DailyTopFetchError) -> Dict[str, object]:
+    return {
+        "date": exc.day.isoformat(),
+        "status": exc.status_code if exc.status_code is not None else "request-error",
+        "error": str(exc),
+        "detail": exc.detail,
+    }
+
+
 def main() -> int:
     args = parse_args()
 
@@ -530,12 +580,33 @@ def main() -> int:
     session.headers.update({"User-Agent": args.user_agent})
 
     daily_lists: List[List[Dict[str, object]]] = []
+    available_days: List[str] = []
+    missing_days: List[Dict[str, object]] = []
     total_days = len(days)
     for index, day in enumerate(days, start=1):
         render_progress("Daily top pages", index, total_days)
-        daily_lists.append(
-            fetch_daily_top(session, args.project, args.access, day, args.timeout)
+        try:
+            daily = fetch_daily_top(session, args.project, args.access, day, args.timeout)
+        except DailyTopFetchError as exc:
+            if args.allow_missing_days and exc.status_code == 404:
+                missing_days.append(missing_day_record(exc))
+                daily_lists.append([])
+                print(
+                    f"Missing daily data for {day.isoformat()} (404); continuing.",
+                    file=sys.stderr,
+                )
+                continue
+            print(str(exc), file=sys.stderr)
+            return 1
+        daily_lists.append(daily)
+        available_days.append(day.isoformat())
+
+    if not any(daily_lists):
+        print(
+            "No daily data available for this week; refusing to write an empty week.",
+            file=sys.stderr,
         )
+        return 1
     day_maps = build_day_maps(daily_lists)
 
     totals = aggregate_weekly(daily_lists)
@@ -606,6 +677,9 @@ def main() -> int:
         "start_date": start_date.isoformat(),
         "end_date": end_date.isoformat(),
         "days": [day.isoformat() for day in days],
+        "available_days": available_days,
+        "complete": not missing_days,
+        "missing_days": missing_days,
         "total_articles": len(totals),
         "articles": ranked,
     }
@@ -618,6 +692,9 @@ def main() -> int:
         "start_date": start_date.isoformat(),
         "end_date": end_date.isoformat(),
         "days": [day.isoformat() for day in days],
+        "available_days": available_days,
+        "complete": not missing_days,
+        "missing_days": missing_days,
         "total_articles": len(totals),
         "articles": ranked_all,
     }
