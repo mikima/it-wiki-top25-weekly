@@ -14,6 +14,17 @@
     "2026-01-10",
     "2026-01-11"
   ],
+  "available_days": [
+    "2026-01-05",
+    "2026-01-06",
+    "2026-01-07",
+    "2026-01-08",
+    "2026-01-09",
+    "2026-01-10",
+    "2026-01-11"
+  ],
+  "complete": true,
+  "missing_days": [],
   "total_articles": 2831,
   "articles": [
     {
@@ -51,6 +62,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Stranger%20Things&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Stranger_Things",
+      "article_url": "https://it.wikipedia.org/wiki/Stranger_Things",
       "description": "serie televisiva statunitense (2016-2025)",
       "image_filename": "Stranger_Things_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
@@ -93,7 +106,9 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Groenlandia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
-      "description": "isola nell'oceano Atlantico e nazione costitutiva del Regno di Danimarca",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Groenlandia",
+      "article_url": "https://it.wikipedia.org/wiki/Groenlandia",
+      "description": "isola atlantica del Regno di Danimarca",
       "image_filename": "Flag_of_Greenland.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/1280px-Flag_of_Greenland.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Greenland.svg",
@@ -135,10 +150,12 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Nicol%C3%A1s%20Maduro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Nicol%C3%A1s_Maduro",
+      "article_url": "https://it.wikipedia.org/wiki/Nicol%C3%A1s_Maduro",
       "description": "politico e sindacalista venezuelano",
-      "image_filename": "Retrato_oficial_de_Nicol\u00e1s_Maduro_(2019)_(cropped).jpg",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Retrato_oficial_de_Nicol%C3%A1s_Maduro_%282019%29_%28cropped%29.jpg",
-      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Retrato_oficial_de_Nicol%C3%A1s_Maduro_(2019)_(cropped).jpg",
+      "image_filename": "Nicolas_Maduro_2025_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Nicolas_Maduro_2025_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nicolas_Maduro_2025_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False"
     },
@@ -177,6 +194,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Buen%20camino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Buen_camino",
+      "article_url": "https://it.wikipedia.org/wiki/Buen_camino",
       "description": "film del 2025 diretto da Gennaro Nunziante",
       "image_filename": "Buen_Camino.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Buen_Camino.png/1280px-Buen_Camino.png",
@@ -219,6 +238,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Film%20con%20maggiori%20incassi%20in%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Film_con_maggiori_incassi_in_Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_in_Italia",
       "description": "lista di un progetto Wikimedia",
       "image_filename": "Buen_Camino_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Buen_Camino_logo.png/1280px-Buen_Camino_logo.png",
@@ -261,6 +282,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Crans-Montana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Crans-Montana",
+      "article_url": "https://it.wikipedia.org/wiki/Crans-Montana",
       "description": "comune del Canton Vallese, Svizzera",
       "image_filename": "CHE_Crans-Montana_Flag.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/CHE_Crans-Montana_Flag.svg/1280px-CHE_Crans-Montana_Flag.svg.png",
@@ -303,10 +326,12 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Norimberga%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Norimberga_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Norimberga_(film)",
       "description": "film del 2025 diretto da James Vanderbilt",
-      "image_filename": "",
-      "image_url": "",
-      "image_commons_url": "",
+      "image_filename": "Norimberga_(film).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/8/82/Norimberga_%28film%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Norimberga_(film).jpg",
       "image_license": "",
       "image_copyrighted": ""
     },
@@ -345,9 +370,11 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Tragedia%20della%20discoteca%20Kiss&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Tragedia_della_discoteca_Kiss",
+      "article_url": "https://it.wikipedia.org/wiki/Tragedia_della_discoteca_Kiss",
       "description": "tragedia avvenuta in Brasile nel 2013",
       "image_filename": "Boate_Kiss_2013.02.04._24.jpg",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Boate_Kiss_2013.02.04._24.jpg/1024px-Boate_Kiss_2013.02.04._24.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Boate_Kiss_2013.02.04._24.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Boate_Kiss_2013.02.04._24.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True"
@@ -387,6 +414,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Petar%20Ratkov&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Petar_Ratkov",
+      "article_url": "https://it.wikipedia.org/wiki/Petar_Ratkov",
       "description": "calciatore serbo (2003-)",
       "image_filename": "FC_Salzburg_gegen_Club_Br\u00fcgge_(2025-08-06_Championsleague_Qualifikation_Dritte_Runde)_99.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/FC_Salzburg_gegen_Club_Br%C3%BCgge_%282025-08-06_Championsleague_Qualifikation_Dritte_Runde%29_99.jpg/1280px-FC_Salzburg_gegen_Club_Br%C3%BCgge_%282025-08-06_Championsleague_Qualifikation_Dritte_Runde%29_99.jpg",
@@ -429,6 +458,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Stranger%20Things%20%28quinta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Episodi_di_Stranger_Things_(quinta_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Stranger_Things_(quinta_stagione)",
       "description": "stagione televisiva",
       "image_filename": "",
       "image_url": "",
@@ -471,6 +502,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Strage%20di%20Acca%20Larenzia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Strage_di_Acca_Larenzia",
+      "article_url": "https://it.wikipedia.org/wiki/Strage_di_Acca_Larenzia",
       "description": "attentato a sfondo politico",
       "image_filename": "",
       "image_url": "",
@@ -513,6 +546,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Checco%20Zalone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Checco_Zalone",
+      "article_url": "https://it.wikipedia.org/wiki/Checco_Zalone",
       "description": "comico, sceneggiatore, attore e imitatore italiano (1977-)",
       "image_filename": "Checco_Zalone.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Checco_Zalone.jpg",
@@ -555,6 +590,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=David%20Bowie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=David_Bowie",
+      "article_url": "https://it.wikipedia.org/wiki/David_Bowie",
       "description": "cantautore, polistrumentista e attore britannico (1947-2016)",
       "image_filename": "David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
@@ -597,9 +634,11 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Hugo%20Ch%C3%A1vez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Hugo_Ch%C3%A1vez",
+      "article_url": "https://it.wikipedia.org/wiki/Hugo_Ch%C3%A1vez",
       "description": "politico venezuelano (1954-2013)",
       "image_filename": "Hugo_Rafael_Ch\u00e1vez_Fr\u00edas.jpeg",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hugo_Rafael_Ch%C3%A1vez_Fr%C3%ADas.jpeg/1026px-Hugo_Rafael_Ch%C3%A1vez_Fr%C3%ADas.jpeg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hugo_Rafael_Ch%C3%A1vez_Fr%C3%ADas.jpeg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hugo_Rafael_Ch%C3%A1vez_Fr%C3%ADas.jpeg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True"
@@ -639,6 +678,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Fabrizio%20Corona&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Fabrizio_Corona",
+      "article_url": "https://it.wikipedia.org/wiki/Fabrizio_Corona",
       "description": "personaggio televisivo e imprenditore italiano (1974-)",
       "image_filename": "Fabrizio_Corona_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Fabrizio_Corona_%28cropped%29.jpg",
@@ -681,6 +722,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Millie%20Bobby%20Brown&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Millie_Bobby_Brown",
+      "article_url": "https://it.wikipedia.org/wiki/Millie_Bobby_Brown",
       "description": "attrice britannica (2004-)",
       "image_filename": "Millie_Bobby_Brown_2025_(1).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Millie_Bobby_Brown_2025_%281%29.png",
@@ -723,6 +766,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Venezuela&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Venezuela",
+      "article_url": "https://it.wikipedia.org/wiki/Venezuela",
       "description": "Stato dell'America Meridionale",
       "image_filename": "Flag_of_Venezuela.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1280px-Flag_of_Venezuela.svg.png",
@@ -765,6 +810,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Kenneth%20Taylor%20%28calciatore%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Kenneth_Taylor_(calciatore)",
+      "article_url": "https://it.wikipedia.org/wiki/Kenneth_Taylor_(calciatore)",
       "description": "calciatore olandese",
       "image_filename": "GAE_-_Ajax_-_52788474930_(Kenneth_Taylor).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/GAE_-_Ajax_-_52788474930_%28Kenneth_Taylor%29.jpg",
@@ -807,9 +854,11 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Prima%20di%20noi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Prima_di_noi",
+      "article_url": "https://it.wikipedia.org/wiki/Prima_di_noi",
       "description": "serie televisiva italiana",
       "image_filename": "Prima_di_noi.png",
-      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/95/Prima_di_noi.png/1279px-Prima_di_noi.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/95/Prima_di_noi.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prima_di_noi.png",
       "image_license": "",
       "image_copyrighted": ""
@@ -849,6 +898,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Gomorra%20-%20Le%20origini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Gomorra_-_Le_origini",
+      "article_url": "https://it.wikipedia.org/wiki/Gomorra_-_Le_origini",
       "description": "serie televisiva italiana del 2026",
       "image_filename": "",
       "image_url": "",
@@ -891,6 +942,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=La%20terra%20promessa%20%28film%202023%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=La_terra_promessa_(film_2023)",
+      "article_url": "https://it.wikipedia.org/wiki/La_terra_promessa_(film_2023)",
       "description": "film del 2023 diretto da Nikolaj Arcel",
       "image_filename": "Bastarden.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f9/Bastarden.png/1280px-Bastarden.png",
@@ -933,6 +986,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
       "description": "ente radiotelevisivo pubblico italiano",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
@@ -975,6 +1030,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=No%20Other%20Choice%20-%20Non%20c%27%C3%A8%20altra%20scelta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=No_Other_Choice_-_Non_c%27%C3%A8_altra_scelta",
+      "article_url": "https://it.wikipedia.org/wiki/No_Other_Choice_-_Non_c%27%C3%A8_altra_scelta",
       "description": "film del 2025 diretto da Park Chan-wook",
       "image_filename": "No_Other_Choice.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/26/No_Other_Choice.png/1280px-No_Other_Choice.png",
@@ -1017,6 +1074,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Hermann%20G%C3%B6ring&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Hermann_G%C3%B6ring",
+      "article_url": "https://it.wikipedia.org/wiki/Hermann_G%C3%B6ring",
       "description": "politico, generale e criminale di guerra tedesco (1893-1946)",
       "image_filename": "Hermann_G\u00f6ring_-_R\u00f6hr.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg/1280px-Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg",
@@ -1059,6 +1118,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=United%20States%20Immigration%20and%20Customs%20Enforcement&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=United_States_Immigration_and_Customs_Enforcement",
+      "article_url": "https://it.wikipedia.org/wiki/United_States_Immigration_and_Customs_Enforcement",
       "description": "forza di polizia federale statunitense",
       "image_filename": "Flag_of_the_United_States_Immigration_and_Customs_Enforcement.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_the_United_States_Immigration_and_Customs_Enforcement.png",
@@ -1101,7 +1162,9 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
-      "description": "politico e imprenditore statunitense, 45\u00ba e 47\u00ba presidente degli Stati Uniti d'America",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Donald_Trump",
+      "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
+      "description": "politico, imprenditore e personaggio televisivo statunitense, 45\u00ba e 47\u00ba presidente degli Stati Uniti d'America",
       "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
@@ -1143,6 +1206,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=I%20delitti%20del%20BarLume&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=I_delitti_del_BarLume",
+      "article_url": "https://it.wikipedia.org/wiki/I_delitti_del_BarLume",
       "description": "serie televisiva italiana",
       "image_filename": "I_delitti_del_BarLume_-_logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/I_delitti_del_BarLume_-_logo.svg/1280px-I_delitti_del_BarLume_-_logo.svg.png",
@@ -1185,6 +1250,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Avatar%20-%20Fuoco%20e%20cenere&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Avatar_-_Fuoco_e_cenere",
+      "article_url": "https://it.wikipedia.org/wiki/Avatar_-_Fuoco_e_cenere",
       "description": "film del 2025 diretto da James Cameron",
       "image_filename": "Avatar_-_Fuoco_e_cenere.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Avatar_-_Fuoco_e_cenere.jpg/1280px-Avatar_-_Fuoco_e_cenere.jpg",
@@ -1227,6 +1294,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Una%20di%20famiglia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Una_di_famiglia",
+      "article_url": "https://it.wikipedia.org/wiki/Una_di_famiglia",
       "description": "",
       "image_filename": "",
       "image_url": "",
@@ -1269,6 +1338,8 @@
         }
       ],
       "google_news_url": "https://www.google.it/search?q=Il%20ragazzo%20e%20l%27airone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/05/2026,cd_max:01/11/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-01-05&end=2026-01-11&pages=Il_ragazzo_e_l%27airone",
+      "article_url": "https://it.wikipedia.org/wiki/Il_ragazzo_e_l%27airone",
       "description": "film d'animazione del 2023 diretto da Hayao Miyazaki",
       "image_filename": "RagazzoAirone.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/RagazzoAirone.png/1280px-RagazzoAirone.png",

@@ -1,0 +1,1362 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2015,
+  "week": 27,
+  "start_date": "2015-06-29",
+  "end_date": "2015-07-05",
+  "days": [
+    "2015-06-29",
+    "2015-06-30",
+    "2015-07-01",
+    "2015-07-02",
+    "2015-07-03",
+    "2015-07-04",
+    "2015-07-05"
+  ],
+  "available_days": [
+    "2015-07-01",
+    "2015-07-02",
+    "2015-07-03",
+    "2015-07-04",
+    "2015-07-05"
+  ],
+  "complete": false,
+  "missing_days": [
+    {
+      "date": "2015-06-29",
+      "status": 404,
+      "error": "Request failed for 2015-06-29: 404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/top/it.wikipedia/all-access/2015/06/29",
+      "detail": "{\"detail\":\"The date(s) you used are valid, but we either do not have data for those date(s), or the project you asked for is not loaded yet. Please check documentation for more inf"
+    },
+    {
+      "date": "2015-06-30",
+      "status": 404,
+      "error": "Request failed for 2015-06-30: 404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/top/it.wikipedia/all-access/2015/06/30",
+      "detail": "{\"detail\":\"The date(s) you used are valid, but we either do not have data for those date(s), or the project you asked for is not loaded yet. Please check documentation for more inf"
+    }
+  ],
+  "total_articles": 2053,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Luiz_Adriano",
+      "views": 135245,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 2914
+        },
+        {
+          "date": "2015-07-02",
+          "views": 82951
+        },
+        {
+          "date": "2015-07-03",
+          "views": 39327
+        },
+        {
+          "date": "2015-07-04",
+          "views": 6470
+        },
+        {
+          "date": "2015-07-05",
+          "views": 3583
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luiz%20Adriano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Luiz_Adriano",
+      "article_url": "https://it.wikipedia.org/wiki/Luiz_Adriano",
+      "description": "calciatore brasiliano (1987-)",
+      "image_filename": "Luiz_Adriano_at_Be\u015fikta\u015f_vs_Antalyaspor_20220206.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Luiz_Adriano_at_Be%C5%9Fikta%C5%9F_vs_Antalyaspor_20220206.jpg/1280px-Luiz_Adriano_at_Be%C5%9Fikta%C5%9F_vs_Antalyaspor_20220206.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luiz_Adriano_at_Be%C5%9Fikta%C5%9F_vs_Antalyaspor_20220206.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "The_Departed_-_Il_bene_e_il_male",
+      "views": 66099,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 1480
+        },
+        {
+          "date": "2015-07-02",
+          "views": 48898
+        },
+        {
+          "date": "2015-07-03",
+          "views": 11765
+        },
+        {
+          "date": "2015-07-04",
+          "views": 2367
+        },
+        {
+          "date": "2015-07-05",
+          "views": 1589
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Departed%20-%20Il%20bene%20e%20il%20male&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=The_Departed_-_Il_bene_e_il_male",
+      "article_url": "https://it.wikipedia.org/wiki/The_Departed_-_Il_bene_e_il_male",
+      "description": "film del 2006 diretto da Martin Scorsese",
+      "image_filename": "The_Departed.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/1/13/The_Departed.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Departed.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Malattia_di_Lyme",
+      "views": 66049,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 41421
+        },
+        {
+          "date": "2015-07-02",
+          "views": 8895
+        },
+        {
+          "date": "2015-07-03",
+          "views": 8748
+        },
+        {
+          "date": "2015-07-04",
+          "views": 3924
+        },
+        {
+          "date": "2015-07-05",
+          "views": 3061
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Malattia%20di%20Lyme&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Malattia_di_Lyme",
+      "article_url": "https://it.wikipedia.org/wiki/Malattia_di_Lyme",
+      "description": "patologia di origine batterica",
+      "image_filename": "Bullseye_Lyme_Disease_Rash.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bullseye_Lyme_Disease_Rash.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bullseye_Lyme_Disease_Rash.jpg",
+      "image_license": "CC BY-SA 2.5",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Carlos_Bacca",
+      "views": 56281,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 6539
+        },
+        {
+          "date": "2015-07-02",
+          "views": 24749
+        },
+        {
+          "date": "2015-07-03",
+          "views": 16113
+        },
+        {
+          "date": "2015-07-04",
+          "views": 5320
+        },
+        {
+          "date": "2015-07-05",
+          "views": 3560
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Carlos%20Bacca&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Carlos_Bacca",
+      "article_url": "https://it.wikipedia.org/wiki/Carlos_Bacca",
+      "description": "calciatore colombiano (1986-)",
+      "image_filename": "Carlos_Bacca,_2012-07-17.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Carlos_Bacca%2C_2012-07-17.jpg/1280px-Carlos_Bacca%2C_2012-07-17.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carlos_Bacca%2C_2012-07-17.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Grecia",
+      "views": 54058,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 7977
+        },
+        {
+          "date": "2015-07-02",
+          "views": 6720
+        },
+        {
+          "date": "2015-07-03",
+          "views": 6865
+        },
+        {
+          "date": "2015-07-04",
+          "views": 7760
+        },
+        {
+          "date": "2015-07-05",
+          "views": 24736
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grecia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Grecia",
+      "article_url": "https://it.wikipedia.org/wiki/Grecia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Greece.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 6,
+      "article": "Giorno_dell'Indipendenza_(Stati_Uniti_d'America)",
+      "views": 45574,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 1580
+        },
+        {
+          "date": "2015-07-02",
+          "views": 2707
+        },
+        {
+          "date": "2015-07-03",
+          "views": 6576
+        },
+        {
+          "date": "2015-07-04",
+          "views": 28222
+        },
+        {
+          "date": "2015-07-05",
+          "views": 6489
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorno%20dell%27Indipendenza%20%28Stati%20Uniti%20d%27America%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Giorno_dell%27Indipendenza_(Stati_Uniti_d%27America)",
+      "article_url": "https://it.wikipedia.org/wiki/Giorno_dell%27Indipendenza_(Stati_Uniti_d%27America)",
+      "description": "festivit\u00e0 nazionale statunitense",
+      "image_filename": "Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Fourth_of_July_fireworks_behind_the_Washington_Monument%2C_1986.jpg/1280px-Fourth_of_July_fireworks_behind_the_Washington_Monument%2C_1986.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fourth_of_July_fireworks_behind_the_Washington_Monument%2C_1986.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Palio_di_Siena",
+      "views": 41745,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 2623
+        },
+        {
+          "date": "2015-07-02",
+          "views": 25962
+        },
+        {
+          "date": "2015-07-03",
+          "views": 9398
+        },
+        {
+          "date": "2015-07-04",
+          "views": 2301
+        },
+        {
+          "date": "2015-07-05",
+          "views": 1461
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Palio%20di%20Siena&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Palio_di_Siena",
+      "article_url": "https://it.wikipedia.org/wiki/Palio_di_Siena",
+      "description": "giostra equestre di origine medievale",
+      "image_filename": "Palio_-_Manifesto.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Palio_-_Manifesto.JPG/1280px-Palio_-_Manifesto.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Palio_-_Manifesto.JPG",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Copa_Am\u00e9rica_2015",
+      "views": 40957,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 10237
+        },
+        {
+          "date": "2015-07-02",
+          "views": 4322
+        },
+        {
+          "date": "2015-07-03",
+          "views": 4470
+        },
+        {
+          "date": "2015-07-04",
+          "views": 11216
+        },
+        {
+          "date": "2015-07-05",
+          "views": 10712
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Copa%20Am%C3%A9rica%202015&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Copa_Am%C3%A9rica_2015",
+      "article_url": "https://it.wikipedia.org/wiki/Copa_Am%C3%A9rica_2015",
+      "description": "44\u00aa edizione della Copa Am\u00e9rica",
+      "image_filename": "2015_Copa_Am\u00e9rica_Chile.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2015_Copa_Am%C3%A9rica_Chile.svg/1280px-2015_Copa_Am%C3%A9rica_Chile.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2015_Copa_Am%C3%A9rica_Chile.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 9,
+      "article": "Copa_Am\u00e9rica",
+      "views": 39572,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 5129
+        },
+        {
+          "date": "2015-07-02",
+          "views": 2377
+        },
+        {
+          "date": "2015-07-03",
+          "views": 2012
+        },
+        {
+          "date": "2015-07-04",
+          "views": 16045
+        },
+        {
+          "date": "2015-07-05",
+          "views": 14009
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Copa%20Am%C3%A9rica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Copa_Am%C3%A9rica",
+      "article_url": "https://it.wikipedia.org/wiki/Copa_Am%C3%A9rica",
+      "description": "competizione calcistica sudamericana per squadre nazionali maschili",
+      "image_filename": "Copa_tlogo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Copa_tlogo.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Copa_tlogo.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 10,
+      "article": "Harry_Potter",
+      "views": 36952,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 4834
+        },
+        {
+          "date": "2015-07-02",
+          "views": 4574
+        },
+        {
+          "date": "2015-07-03",
+          "views": 4724
+        },
+        {
+          "date": "2015-07-04",
+          "views": 14893
+        },
+        {
+          "date": "2015-07-05",
+          "views": 7927
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Harry%20Potter&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Harry_Potter",
+      "article_url": "https://it.wikipedia.org/wiki/Harry_Potter",
+      "description": "serie di romanzi fantasy della scrittrice J. K. Rowling",
+      "image_filename": "Harry_Potter_wordmark.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/1280px-Harry_Potter_wordmark.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Harry_Potter_wordmark.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 11,
+      "article": "True_Detective",
+      "views": 35192,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 8646
+        },
+        {
+          "date": "2015-07-02",
+          "views": 7069
+        },
+        {
+          "date": "2015-07-03",
+          "views": 6120
+        },
+        {
+          "date": "2015-07-04",
+          "views": 5873
+        },
+        {
+          "date": "2015-07-05",
+          "views": 7484
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=True%20Detective&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=True_Detective",
+      "article_url": "https://it.wikipedia.org/wiki/True_Detective",
+      "description": "serie televisiva statunitense del 2014",
+      "image_filename": "True_Detective.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/c/ca/True_Detective.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:True_Detective.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Il_Trono_di_Spade_(serie_televisiva)",
+      "views": 34667,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 8012
+        },
+        {
+          "date": "2015-07-02",
+          "views": 7375
+        },
+        {
+          "date": "2015-07-03",
+          "views": 6694
+        },
+        {
+          "date": "2015-07-04",
+          "views": 5825
+        },
+        {
+          "date": "2015-07-05",
+          "views": 6761
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Trono%20di%20Spade%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Il_Trono_di_Spade_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Trono_di_Spade_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2019)",
+      "image_filename": "Il_Trono_di_Spade.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/2/27/Il_Trono_di_Spade.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Trono_di_Spade.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 13,
+      "article": "Italia",
+      "views": 31878,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 6401
+        },
+        {
+          "date": "2015-07-02",
+          "views": 6090
+        },
+        {
+          "date": "2015-07-03",
+          "views": 5585
+        },
+        {
+          "date": "2015-07-04",
+          "views": 5669
+        },
+        {
+          "date": "2015-07-05",
+          "views": 8133
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Italia",
+      "article_url": "https://it.wikipedia.org/wiki/Italia",
+      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "image_filename": "Flag_of_Italy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 14,
+      "article": "Grey's_Anatomy",
+      "views": 31109,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 6830
+        },
+        {
+          "date": "2015-07-02",
+          "views": 7649
+        },
+        {
+          "date": "2015-07-03",
+          "views": 6059
+        },
+        {
+          "date": "2015-07-04",
+          "views": 5788
+        },
+        {
+          "date": "2015-07-05",
+          "views": 4783
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Grey%27s_Anatomy",
+      "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
+      "description": "serie televisiva statunitense del 2005",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Template:GeoTemplate",
+      "views": 29034,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 5747
+        },
+        {
+          "date": "2015-07-02",
+          "views": 4428
+        },
+        {
+          "date": "2015-07-03",
+          "views": 4516
+        },
+        {
+          "date": "2015-07-04",
+          "views": 5979
+        },
+        {
+          "date": "2015-07-05",
+          "views": 8364
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Template%3AGeoTemplate&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Template%3AGeoTemplate",
+      "article_url": "https://it.wikipedia.org/wiki/Template%3AGeoTemplate",
+      "description": "template di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 16,
+      "article": "Troika_(politica_europea)",
+      "views": 28627,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 4647
+        },
+        {
+          "date": "2015-07-02",
+          "views": 4978
+        },
+        {
+          "date": "2015-07-03",
+          "views": 4367
+        },
+        {
+          "date": "2015-07-04",
+          "views": 3332
+        },
+        {
+          "date": "2015-07-05",
+          "views": 11303
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Troika%20%28politica%20europea%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Troika_(politica_europea)",
+      "article_url": "https://it.wikipedia.org/wiki/Troika_(politica_europea)",
+      "description": "nelle politiche UE, organo informale composto da Commissione europea, Banca centrale europea e Fondo monetario internazionale",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Marina_Abramovi\u0107",
+      "views": 28298,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 8694
+        },
+        {
+          "date": "2015-07-02",
+          "views": 6314
+        },
+        {
+          "date": "2015-07-03",
+          "views": 6805
+        },
+        {
+          "date": "2015-07-04",
+          "views": 3789
+        },
+        {
+          "date": "2015-07-05",
+          "views": 2696
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Marina%20Abramovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Marina_Abramovi%C4%87",
+      "article_url": "https://it.wikipedia.org/wiki/Marina_Abramovi%C4%87",
+      "description": "artista statunitense d'origine serba",
+      "image_filename": "Marina_Abramovi\u0107._The_Cleaner_(45524492341).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marina_Abramovi%C4%87._The_Cleaner_%2845524492341%29.jpg/1280px-Marina_Abramovi%C4%87._The_Cleaner_%2845524492341%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marina_Abramovi%C4%87._The_Cleaner_(45524492341).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Pretty_Little_Liars_(serie_televisiva)",
+      "views": 27833,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 6827
+        },
+        {
+          "date": "2015-07-02",
+          "views": 4680
+        },
+        {
+          "date": "2015-07-03",
+          "views": 4247
+        },
+        {
+          "date": "2015-07-04",
+          "views": 8143
+        },
+        {
+          "date": "2015-07-05",
+          "views": 3936
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pretty%20Little%20Liars%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Pretty_Little_Liars_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Pretty_Little_Liars_(serie_televisiva)",
+      "description": "",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Juventus_Football_Club",
+      "views": 27349,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 5853
+        },
+        {
+          "date": "2015-07-02",
+          "views": 6102
+        },
+        {
+          "date": "2015-07-03",
+          "views": 6480
+        },
+        {
+          "date": "2015-07-04",
+          "views": 4647
+        },
+        {
+          "date": "2015-07-05",
+          "views": 4267
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Juventus%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Juventus_Football_Club",
+      "article_url": "https://it.wikipedia.org/wiki/Juventus_Football_Club",
+      "description": "club calcistico italiano di Torino",
+      "image_filename": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/1280px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy%2C_2020).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Mart\u00edn_Montoya",
+      "views": 27233,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 5057
+        },
+        {
+          "date": "2015-07-02",
+          "views": 12948
+        },
+        {
+          "date": "2015-07-03",
+          "views": 5430
+        },
+        {
+          "date": "2015-07-04",
+          "views": 2413
+        },
+        {
+          "date": "2015-07-05",
+          "views": 1385
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mart%C3%ADn%20Montoya&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Mart%C3%ADn_Montoya",
+      "article_url": "https://it.wikipedia.org/wiki/Mart%C3%ADn_Montoya",
+      "description": "calciatore spagnolo (1991-)",
+      "image_filename": "Bar\u00e7a_-_Napoli_-_20140806_-_Martin_Montoya.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bar%C3%A7a_-_Napoli_-_20140806_-_Martin_Montoya.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bar%C3%A7a_-_Napoli_-_20140806_-_Martin_Montoya.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Cambio_vita_(film_2011)",
+      "views": 27172,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 0
+        },
+        {
+          "date": "2015-07-02",
+          "views": 0
+        },
+        {
+          "date": "2015-07-03",
+          "views": 0
+        },
+        {
+          "date": "2015-07-04",
+          "views": 0
+        },
+        {
+          "date": "2015-07-05",
+          "views": 27172
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cambio%20vita%20%28film%202011%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Cambio_vita_(film_2011)",
+      "article_url": "https://it.wikipedia.org/wiki/Cambio_vita_(film_2011)",
+      "description": "film del 2011 diretto da David Dobkin",
+      "image_filename": "Cambio_vita.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d9/Cambio_vita.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cambio_vita.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Saturno_contro",
+      "views": 26823,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 18697
+        },
+        {
+          "date": "2015-07-02",
+          "views": 2769
+        },
+        {
+          "date": "2015-07-03",
+          "views": 4432
+        },
+        {
+          "date": "2015-07-04",
+          "views": 925
+        },
+        {
+          "date": "2015-07-05",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Saturno%20contro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Saturno_contro",
+      "article_url": "https://it.wikipedia.org/wiki/Saturno_contro",
+      "description": "film del 2006 diretto da Ferzan \u00d6zpetek",
+      "image_filename": "Saturno_contro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/7/70/Saturno_contro.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Saturno_contro.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Associazione_Calcio_Milan",
+      "views": 26494,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 4429
+        },
+        {
+          "date": "2015-07-02",
+          "views": 7233
+        },
+        {
+          "date": "2015-07-03",
+          "views": 7918
+        },
+        {
+          "date": "2015-07-04",
+          "views": 3872
+        },
+        {
+          "date": "2015-07-05",
+          "views": 3042
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Associazione%20Calcio%20Milan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Associazione_Calcio_Milan",
+      "article_url": "https://it.wikipedia.org/wiki/Associazione_Calcio_Milan",
+      "description": "club calcistico italiano di Milano",
+      "image_filename": "Logo_of_AC_Milan.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1280px-Logo_of_AC_Milan.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Jos\u00e9_Mauri",
+      "views": 25938,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 6373
+        },
+        {
+          "date": "2015-07-02",
+          "views": 9365
+        },
+        {
+          "date": "2015-07-03",
+          "views": 4443
+        },
+        {
+          "date": "2015-07-04",
+          "views": 2843
+        },
+        {
+          "date": "2015-07-05",
+          "views": 2914
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jos%C3%A9%20Mauri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Jos%C3%A9_Mauri",
+      "article_url": "https://it.wikipedia.org/wiki/Jos%C3%A9_Mauri",
+      "description": "calciatore italiano (1996-)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Temptation_Island",
+      "views": 24730,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 1332
+        },
+        {
+          "date": "2015-07-02",
+          "views": 13209
+        },
+        {
+          "date": "2015-07-03",
+          "views": 6491
+        },
+        {
+          "date": "2015-07-04",
+          "views": 2125
+        },
+        {
+          "date": "2015-07-05",
+          "views": 1573
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Temptation%20Island&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Temptation_Island",
+      "article_url": "https://it.wikipedia.org/wiki/Temptation_Island",
+      "description": "pagina di disambiguazione di un progetto Wikimedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 26,
+      "article": "Dustin_Brown",
+      "views": 24001,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 0
+        },
+        {
+          "date": "2015-07-02",
+          "views": 11682
+        },
+        {
+          "date": "2015-07-03",
+          "views": 7453
+        },
+        {
+          "date": "2015-07-04",
+          "views": 3351
+        },
+        {
+          "date": "2015-07-05",
+          "views": 1515
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Dustin%20Brown&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Dustin_Brown",
+      "article_url": "https://it.wikipedia.org/wiki/Dustin_Brown",
+      "description": "tennista giamaicano con passaporto tedesco",
+      "image_filename": "Brown_US16_(2)_(29569889960).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Brown_US16_%282%29_%2829569889960%29.jpg/1280px-Brown_US16_%282%29_%2829569889960%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brown_US16_(2)_(29569889960).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 27,
+      "article": "Lionel_Messi",
+      "views": 23885,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 4883
+        },
+        {
+          "date": "2015-07-02",
+          "views": 3318
+        },
+        {
+          "date": "2015-07-03",
+          "views": 2965
+        },
+        {
+          "date": "2015-07-04",
+          "views": 5514
+        },
+        {
+          "date": "2015-07-05",
+          "views": 7205
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lionel%20Messi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Lionel_Messi",
+      "article_url": "https://it.wikipedia.org/wiki/Lionel_Messi",
+      "description": "calciatore argentino (1987-)",
+      "image_filename": "Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg/1280px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 28,
+      "article": "Terminator_Genisys",
+      "views": 22871,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 5016
+        },
+        {
+          "date": "2015-07-02",
+          "views": 4729
+        },
+        {
+          "date": "2015-07-03",
+          "views": 4233
+        },
+        {
+          "date": "2015-07-04",
+          "views": 4224
+        },
+        {
+          "date": "2015-07-05",
+          "views": 4669
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Terminator%20Genisys&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Terminator_Genisys",
+      "article_url": "https://it.wikipedia.org/wiki/Terminator_Genisys",
+      "description": "film del 2015 diretto da Alan Taylor",
+      "image_filename": "Terminator_G\u0435nisys.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d2/Terminator_G%D0%B5nisys.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Terminator_G%D0%B5nisys.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 29,
+      "article": "Teen_Wolf_(serie_televisiva)",
+      "views": 22753,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 5887
+        },
+        {
+          "date": "2015-07-02",
+          "views": 5550
+        },
+        {
+          "date": "2015-07-03",
+          "views": 4184
+        },
+        {
+          "date": "2015-07-04",
+          "views": 3200
+        },
+        {
+          "date": "2015-07-05",
+          "views": 3932
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Teen%20Wolf%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Teen_Wolf_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Teen_Wolf_(serie_televisiva)",
+      "description": "serie televisiva statunitense (2011-2017)",
+      "image_filename": "Teen_Wolf_2011.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b7/Teen_Wolf_2011.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Teen_Wolf_2011.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 30,
+      "article": "Essere_John_Malkovich",
+      "views": 22283,
+      "daily_views": [
+        {
+          "date": "2015-06-29",
+          "views": 0
+        },
+        {
+          "date": "2015-06-30",
+          "views": 0
+        },
+        {
+          "date": "2015-07-01",
+          "views": 16006
+        },
+        {
+          "date": "2015-07-02",
+          "views": 2539
+        },
+        {
+          "date": "2015-07-03",
+          "views": 0
+        },
+        {
+          "date": "2015-07-04",
+          "views": 0
+        },
+        {
+          "date": "2015-07-05",
+          "views": 3738
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Essere%20John%20Malkovich&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/29/2015,cd_max:07/05/2015&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-06-29&end=2015-07-05&pages=Essere_John_Malkovich",
+      "article_url": "https://it.wikipedia.org/wiki/Essere_John_Malkovich",
+      "description": "film americano del 1999",
+      "image_filename": "EssereJohnMalkovich.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/e/e7/EssereJohnMalkovich.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:EssereJohnMalkovich.JPG",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}
