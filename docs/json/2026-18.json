@@ -1,0 +1,1351 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2026,
+  "week": 18,
+  "start_date": "2026-04-27",
+  "end_date": "2026-05-03",
+  "days": [
+    "2026-04-27",
+    "2026-04-28",
+    "2026-04-29",
+    "2026-04-30",
+    "2026-05-01",
+    "2026-05-02",
+    "2026-05-03"
+  ],
+  "available_days": [
+    "2026-04-27",
+    "2026-04-28",
+    "2026-04-29",
+    "2026-04-30",
+    "2026-05-01",
+    "2026-05-02",
+    "2026-05-03"
+  ],
+  "complete": true,
+  "missing_days": [],
+  "total_articles": 2704,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Alex_Zanardi",
+      "views": 651289,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0
+        },
+        {
+          "date": "2026-04-30",
+          "views": 0
+        },
+        {
+          "date": "2026-05-01",
+          "views": 0
+        },
+        {
+          "date": "2026-05-02",
+          "views": 511589
+        },
+        {
+          "date": "2026-05-03",
+          "views": 139700
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alex%20Zanardi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Alex_Zanardi",
+      "article_url": "https://it.wikipedia.org/wiki/Alex_Zanardi",
+      "description": "Pilota automobilistico e campione paralimpico italiano, muore il 1\u00ba maggio 2026 a 59 anni.",
+      "image_filename": "Alex_Zanardi_(cropped).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Alex_Zanardi_%28cropped%29.JPG/1280px-Alex_Zanardi_%28cropped%29.JPG",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alex_Zanardi_(cropped).JPG",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Nicole_Minetti",
+      "views": 244756,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 32121
+        },
+        {
+          "date": "2026-04-28",
+          "views": 89821
+        },
+        {
+          "date": "2026-04-29",
+          "views": 55994
+        },
+        {
+          "date": "2026-04-30",
+          "views": 30874
+        },
+        {
+          "date": "2026-05-01",
+          "views": 15936
+        },
+        {
+          "date": "2026-05-02",
+          "views": 10457
+        },
+        {
+          "date": "2026-05-03",
+          "views": 9553
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nicole%20Minetti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Nicole_Minetti",
+      "article_url": "https://it.wikipedia.org/wiki/Nicole_Minetti",
+      "description": "Ex consigliera regionale condannata per XX e XY, ha ricevuto una grazia concessa da Mattarella per poter assistere un familiare in gravi condizioni mediche. In seguito ad una indagine giornalistica che ha sollevato dubbi sulla legittimità della richiesta, il 28 aprile 2026 la Procura di Milano attiva l'Interpol.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Michael_Jackson",
+      "views": 211545,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 32417
+        },
+        {
+          "date": "2026-04-28",
+          "views": 27920
+        },
+        {
+          "date": "2026-04-29",
+          "views": 26046
+        },
+        {
+          "date": "2026-04-30",
+          "views": 25483
+        },
+        {
+          "date": "2026-05-01",
+          "views": 31470
+        },
+        {
+          "date": "2026-05-02",
+          "views": 32884
+        },
+        {
+          "date": "2026-05-03",
+          "views": 35325
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michael%20Jackson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Michael_Jackson",
+      "article_url": "https://it.wikipedia.org/wiki/Michael_Jackson",
+      "description": "Cantante e ballerino statunitense morto nel 2009, il 24 aprile 2026 è uscito nelle sale il film biografico Michael.",
+      "image_filename": "Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/1280px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 4,
+      "article": "Il_diavolo_veste_Prada_2",
+      "views": 163392,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 4798
+        },
+        {
+          "date": "2026-04-28",
+          "views": 5766
+        },
+        {
+          "date": "2026-04-29",
+          "views": 18461
+        },
+        {
+          "date": "2026-04-30",
+          "views": 25694
+        },
+        {
+          "date": "2026-05-01",
+          "views": 45048
+        },
+        {
+          "date": "2026-05-02",
+          "views": 34875
+        },
+        {
+          "date": "2026-05-03",
+          "views": 28750
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20diavolo%20veste%20Prada%202&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Il_diavolo_veste_Prada_2",
+      "article_url": "https://it.wikipedia.org/wiki/Il_diavolo_veste_Prada_2",
+      "description": "Film statunitense del 2026 di David Frankel, esce nei cinema italiani il 29 aprile.",
+      "image_filename": "Il_diavolo_veste_Prada_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fd/Il_diavolo_veste_Prada_2.jpg/1280px-Il_diavolo_veste_Prada_2.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_diavolo_veste_Prada_2.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Delitto_di_Garlasco",
+      "views": 111937,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 2287
+        },
+        {
+          "date": "2026-04-28",
+          "views": 1988
+        },
+        {
+          "date": "2026-04-29",
+          "views": 10337
+        },
+        {
+          "date": "2026-04-30",
+          "views": 43738
+        },
+        {
+          "date": "2026-05-01",
+          "views": 24419
+        },
+        {
+          "date": "2026-05-02",
+          "views": 13776
+        },
+        {
+          "date": "2026-05-03",
+          "views": 15392
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Delitto%20di%20Garlasco&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Delitto_di_Garlasco",
+      "article_url": "https://it.wikipedia.org/wiki/Delitto_di_Garlasco",
+      "description": "Caso di omicidio avvenuto a Garlasco nel 2007, il 30 aprile 2026 Andrea Sempio viene indicato come unico indagato per omicidio volontario aggravato.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Il_diavolo_veste_Prada_(film)",
+      "views": 111821,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 3666
+        },
+        {
+          "date": "2026-04-28",
+          "views": 4357
+        },
+        {
+          "date": "2026-04-29",
+          "views": 10267
+        },
+        {
+          "date": "2026-04-30",
+          "views": 14055
+        },
+        {
+          "date": "2026-05-01",
+          "views": 42022
+        },
+        {
+          "date": "2026-05-02",
+          "views": 22365
+        },
+        {
+          "date": "2026-05-03",
+          "views": 15089
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20diavolo%20veste%20Prada%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Il_diavolo_veste_Prada_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Il_diavolo_veste_Prada_(film)",
+      "description": "Film statunitense del 2006 di David Frankel, il 29 aprile 2026 ne esce il sequel nei cinema italiani.",
+      "image_filename": "The_devil_wears_prada_logotipo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_devil_wears_prada_logotipo.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_devil_wears_prada_logotipo.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Jannik_Sinner",
+      "views": 104010,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 5287
+        },
+        {
+          "date": "2026-04-28",
+          "views": 8301
+        },
+        {
+          "date": "2026-04-29",
+          "views": 12987
+        },
+        {
+          "date": "2026-04-30",
+          "views": 8330
+        },
+        {
+          "date": "2026-05-01",
+          "views": 17016
+        },
+        {
+          "date": "2026-05-02",
+          "views": 9143
+        },
+        {
+          "date": "2026-05-03",
+          "views": 42946
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Jannik_Sinner",
+      "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
+      "description": "Tennista italiano, il 3 maggio 2026 vince il Madrid Open battendo Alexander Zverev in finale.",
+      "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 8,
+      "article": "Michael_(film_2026)",
+      "views": 92817,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 16403
+        },
+        {
+          "date": "2026-04-28",
+          "views": 13290
+        },
+        {
+          "date": "2026-04-29",
+          "views": 12252
+        },
+        {
+          "date": "2026-04-30",
+          "views": 12167
+        },
+        {
+          "date": "2026-05-01",
+          "views": 12716
+        },
+        {
+          "date": "2026-05-02",
+          "views": 12949
+        },
+        {
+          "date": "2026-05-03",
+          "views": 13040
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michael%20%28film%202026%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Michael_(film_2026)",
+      "article_url": "https://it.wikipedia.org/wiki/Michael_(film_2026)",
+      "description": "Film biografico statunitense del 2026 su Michael Jackson, coda di visualizzazioni dopo l'uscita al cinema della settimana precedente.",
+      "image_filename": "Screenshot_da_me_realizzato_dal_trailer_ufficiale_del_film_Michael.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Screenshot_da_me_realizzato_dal_trailer_ufficiale_del_film_Michael.png/1280px-Screenshot_da_me_realizzato_dal_trailer_ufficiale_del_film_Michael.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screenshot_da_me_realizzato_dal_trailer_ufficiale_del_film_Michael.png",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Elena_Santarelli",
+      "views": 79262,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 27423
+        },
+        {
+          "date": "2026-04-29",
+          "views": 22969
+        },
+        {
+          "date": "2026-04-30",
+          "views": 13688
+        },
+        {
+          "date": "2026-05-01",
+          "views": 8106
+        },
+        {
+          "date": "2026-05-02",
+          "views": 4243
+        },
+        {
+          "date": "2026-05-03",
+          "views": 2833
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elena%20Santarelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Elena_Santarelli",
+      "article_url": "https://it.wikipedia.org/wiki/Elena_Santarelli",
+      "description": "Showgirl e conduttrice televisiva italiana, il 28 aprile 2026 \u00e8 ospite di Belve su Rai 2.",
+      "image_filename": "Elena_Santarelli.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Elena_Santarelli.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elena_Santarelli.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Silvia_Salis",
+      "views": 72035,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 21014
+        },
+        {
+          "date": "2026-04-28",
+          "views": 13371
+        },
+        {
+          "date": "2026-04-29",
+          "views": 6630
+        },
+        {
+          "date": "2026-04-30",
+          "views": 5847
+        },
+        {
+          "date": "2026-05-01",
+          "views": 5377
+        },
+        {
+          "date": "2026-05-02",
+          "views": 11154
+        },
+        {
+          "date": "2026-05-03",
+          "views": 8642
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Silvia%20Salis&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Silvia_Salis",
+      "article_url": "https://it.wikipedia.org/wiki/Silvia_Salis",
+      "description": "Politica ed ex martellista italiana, il picco del 27 aprile 2026 segue l'ospitata a Che tempo che fa del giorno precedente.",
+      "image_filename": "Silvia_Salis_2025.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Silvia_Salis_2025.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Festa_dei_lavoratori",
+      "views": 68672,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 2326
+        },
+        {
+          "date": "2026-04-28",
+          "views": 2915
+        },
+        {
+          "date": "2026-04-29",
+          "views": 4411
+        },
+        {
+          "date": "2026-04-30",
+          "views": 14511
+        },
+        {
+          "date": "2026-05-01",
+          "views": 37676
+        },
+        {
+          "date": "2026-05-02",
+          "views": 4831
+        },
+        {
+          "date": "2026-05-03",
+          "views": 2002
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Festa%20dei%20lavoratori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Festa_dei_lavoratori",
+      "article_url": "https://it.wikipedia.org/wiki/Festa_dei_lavoratori",
+      "description": "Ricorrenza internazionale del 1\u00ba maggio, registra il picco nel giorno della Festa dei lavoratori 2026.",
+      "image_filename": "1.Mai_2013_(8697603319).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/1.Mai_2013_%288697603319%29.jpg/1280px-1.Mai_2013_%288697603319%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:1.Mai_2013_(8697603319).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 12,
+      "article": "Michael_Olise",
+      "views": 65470,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 1062
+        },
+        {
+          "date": "2026-04-28",
+          "views": 32598
+        },
+        {
+          "date": "2026-04-29",
+          "views": 18161
+        },
+        {
+          "date": "2026-04-30",
+          "views": 6420
+        },
+        {
+          "date": "2026-05-01",
+          "views": 3194
+        },
+        {
+          "date": "2026-05-02",
+          "views": 2269
+        },
+        {
+          "date": "2026-05-03",
+          "views": 1766
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michael%20Olise&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Michael_Olise",
+      "article_url": "https://it.wikipedia.org/wiki/Michael_Olise",
+      "description": "Calciatore francese del Bayern Monaco, segna il 28 aprile 2026 nella semifinale di Champions League persa 5-4 contro il Paris Saint-Germain.",
+      "image_filename": "FC_RB_Salzburg_gegen_FC_Bayern_M\u00fcnchen_(2026-01-06_Testspiel)_10.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_10.jpg/1280px-FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_10.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_(2026-01-06_Testspiel)_10.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Anne_Hathaway",
+      "views": 64905,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 3639
+        },
+        {
+          "date": "2026-04-28",
+          "views": 2700
+        },
+        {
+          "date": "2026-04-29",
+          "views": 5295
+        },
+        {
+          "date": "2026-04-30",
+          "views": 7316
+        },
+        {
+          "date": "2026-05-01",
+          "views": 20869
+        },
+        {
+          "date": "2026-05-02",
+          "views": 14205
+        },
+        {
+          "date": "2026-05-03",
+          "views": 10881
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Anne%20Hathaway&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Anne_Hathaway",
+      "article_url": "https://it.wikipedia.org/wiki/Anne_Hathaway",
+      "description": "Attrice statunitense, torna nel ruolo di Andy Sachs nel film Il diavolo veste Prada 2 uscito in Italia il 29 aprile 2026.",
+      "image_filename": "Anne_Hathaway_at_The_Apprentice_in_NYC_03_(cropped2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Anne_Hathaway_at_The_Apprentice_in_NYC_03_%28cropped2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anne_Hathaway_at_The_Apprentice_in_NYC_03_(cropped2).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Omicidio_di_Sergio_Ramelli",
+      "views": 64112,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 1047
+        },
+        {
+          "date": "2026-04-28",
+          "views": 1786
+        },
+        {
+          "date": "2026-04-29",
+          "views": 18193
+        },
+        {
+          "date": "2026-04-30",
+          "views": 27008
+        },
+        {
+          "date": "2026-05-01",
+          "views": 8692
+        },
+        {
+          "date": "2026-05-02",
+          "views": 4993
+        },
+        {
+          "date": "2026-05-03",
+          "views": 2393
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Omicidio%20di%20Sergio%20Ramelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Omicidio_di_Sergio_Ramelli",
+      "article_url": "https://it.wikipedia.org/wiki/Omicidio_di_Sergio_Ramelli",
+      "description": "Omicidio politico del 1975 a Milano, il 29 aprile 2026 si tiene la 51\u00aa commemorazione di Sergio Ramelli.",
+      "image_filename": "Sergio_Ramelli.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/4/45/Sergio_Ramelli.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sergio_Ramelli.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Rafael_J\u00f3dar",
+      "views": 60859,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 10985
+        },
+        {
+          "date": "2026-04-28",
+          "views": 15979
+        },
+        {
+          "date": "2026-04-29",
+          "views": 27655
+        },
+        {
+          "date": "2026-04-30",
+          "views": 4899
+        },
+        {
+          "date": "2026-05-01",
+          "views": 1341
+        },
+        {
+          "date": "2026-05-02",
+          "views": 0
+        },
+        {
+          "date": "2026-05-03",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rafael%20J%C3%B3dar&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Rafael_J%C3%B3dar",
+      "article_url": "https://it.wikipedia.org/wiki/Rafael_J%C3%B3dar",
+      "description": "Tennista spagnolo, il 29 aprile 2026 perde contro Jannik Sinner nei quarti di finale del Madrid Open.",
+      "image_filename": "Rafa_J\u00f3dar_Espinar_2025.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rafa_J%C3%B3dar_Espinar_2025.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rafa_J%C3%B3dar_Espinar_2025.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Beatrice_Venezi",
+      "views": 57954,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 31193
+        },
+        {
+          "date": "2026-04-28",
+          "views": 13474
+        },
+        {
+          "date": "2026-04-29",
+          "views": 5516
+        },
+        {
+          "date": "2026-04-30",
+          "views": 2329
+        },
+        {
+          "date": "2026-05-01",
+          "views": 1131
+        },
+        {
+          "date": "2026-05-02",
+          "views": 897
+        },
+        {
+          "date": "2026-05-03",
+          "views": 3414
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Beatrice%20Venezi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Beatrice_Venezi",
+      "article_url": "https://it.wikipedia.org/wiki/Beatrice_Venezi",
+      "description": "Direttrice d'orchestra italiana, il 27 aprile 2026 la Fenice annulla le collaborazioni future con lei dopo le sue dichiarazioni sui musicisti italiani.",
+      "image_filename": "Beatrice_Venezi_Consiglio_Abruzzo_2023.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Beatrice_Venezi_Consiglio_Abruzzo_2023.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Beatrice_Venezi_Consiglio_Abruzzo_2023.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Bernardo_Corradi",
+      "views": 57322,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 18850
+        },
+        {
+          "date": "2026-04-29",
+          "views": 15872
+        },
+        {
+          "date": "2026-04-30",
+          "views": 10361
+        },
+        {
+          "date": "2026-05-01",
+          "views": 6573
+        },
+        {
+          "date": "2026-05-02",
+          "views": 3420
+        },
+        {
+          "date": "2026-05-03",
+          "views": 2246
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bernardo%20Corradi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Bernardo_Corradi",
+      "article_url": "https://it.wikipedia.org/wiki/Bernardo_Corradi",
+      "description": "Ex calciatore e allenatore italiano, viene citato il 28 aprile 2026 nell'intervista della moglie Elena Santarelli a Belve.",
+      "image_filename": "Bernardo_Corradi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bernardo_Corradi.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bernardo_Corradi.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Stanley_Tucci",
+      "views": 55215,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 1986
+        },
+        {
+          "date": "2026-04-28",
+          "views": 1980
+        },
+        {
+          "date": "2026-04-29",
+          "views": 4743
+        },
+        {
+          "date": "2026-04-30",
+          "views": 5510
+        },
+        {
+          "date": "2026-05-01",
+          "views": 16698
+        },
+        {
+          "date": "2026-05-02",
+          "views": 13956
+        },
+        {
+          "date": "2026-05-03",
+          "views": 10342
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Stanley%20Tucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Stanley_Tucci",
+      "article_url": "https://it.wikipedia.org/wiki/Stanley_Tucci",
+      "description": "Attore e regista statunitense, torna nel ruolo di Nigel nel film Il diavolo veste Prada 2 uscito in Italia il 29 aprile 2026.",
+      "image_filename": "ConclaveBFILFF101024_(9_of_44)_(54062519935)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ConclaveBFILFF101024_%289_of_44%29_%2854062519935%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ConclaveBFILFF101024_(9_of_44)_(54062519935)_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Euphoria_(serie_televisiva)",
+      "views": 53125,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 12819
+        },
+        {
+          "date": "2026-04-28",
+          "views": 10232
+        },
+        {
+          "date": "2026-04-29",
+          "views": 7411
+        },
+        {
+          "date": "2026-04-30",
+          "views": 5874
+        },
+        {
+          "date": "2026-05-01",
+          "views": 5818
+        },
+        {
+          "date": "2026-05-02",
+          "views": 5202
+        },
+        {
+          "date": "2026-05-03",
+          "views": 5769
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Euphoria%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Euphoria_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Euphoria_(serie_televisiva)",
+      "description": "Serie televisiva statunitense del 2019, coda di visualizzazioni della terza e ultima stagione in onda su HBO da aprile 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Episodi_di_The_Boys_(quinta_stagione)",
+      "views": 52632,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 6565
+        },
+        {
+          "date": "2026-04-28",
+          "views": 8268
+        },
+        {
+          "date": "2026-04-29",
+          "views": 13697
+        },
+        {
+          "date": "2026-04-30",
+          "views": 8071
+        },
+        {
+          "date": "2026-05-01",
+          "views": 5737
+        },
+        {
+          "date": "2026-05-02",
+          "views": 4789
+        },
+        {
+          "date": "2026-05-03",
+          "views": 5505
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20The%20Boys%20%28quinta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Episodi_di_The_Boys_(quinta_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_The_Boys_(quinta_stagione)",
+      "description": "Lista degli episodi della quinta stagione di The Boys, il quinto episodio della stagione finale esce su Prime Video il 29 aprile 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Rai",
+      "views": 52492,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 7019
+        },
+        {
+          "date": "2026-04-28",
+          "views": 7950
+        },
+        {
+          "date": "2026-04-29",
+          "views": 7886
+        },
+        {
+          "date": "2026-04-30",
+          "views": 8109
+        },
+        {
+          "date": "2026-05-01",
+          "views": 7991
+        },
+        {
+          "date": "2026-05-02",
+          "views": 7226
+        },
+        {
+          "date": "2026-05-03",
+          "views": 6311
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "Ente radiotelevisivo pubblico italiano, andamento regolare nella settimana del Primo maggio senza un picco netto.",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Governi_italiani_per_durata",
+      "views": 52410,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 2826
+        },
+        {
+          "date": "2026-04-28",
+          "views": 3745
+        },
+        {
+          "date": "2026-04-29",
+          "views": 3635
+        },
+        {
+          "date": "2026-04-30",
+          "views": 5211
+        },
+        {
+          "date": "2026-05-01",
+          "views": 5679
+        },
+        {
+          "date": "2026-05-02",
+          "views": 23062
+        },
+        {
+          "date": "2026-05-03",
+          "views": 8252
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Governi%20italiani%20per%20durata&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Governi_italiani_per_durata",
+      "article_url": "https://it.wikipedia.org/wiki/Governi_italiani_per_durata",
+      "description": "Lista dei governi italiani per durata, il 2 maggio 2026 il governo Meloni diventa il secondo pi\u00f9 longevo della Repubblica.",
+      "image_filename": "Mussolini_mezzobusto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mussolini_mezzobusto.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Apex_(film_2026)",
+      "views": 49893,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 8985
+        },
+        {
+          "date": "2026-04-28",
+          "views": 6903
+        },
+        {
+          "date": "2026-04-29",
+          "views": 5485
+        },
+        {
+          "date": "2026-04-30",
+          "views": 6393
+        },
+        {
+          "date": "2026-05-01",
+          "views": 7885
+        },
+        {
+          "date": "2026-05-02",
+          "views": 7115
+        },
+        {
+          "date": "2026-05-03",
+          "views": 7127
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Apex%20%28film%202026%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Apex_(film_2026)",
+      "article_url": "https://it.wikipedia.org/wiki/Apex_(film_2026)",
+      "description": "Film survival thriller del 2026 diretto da Baltasar Korm\u00e1kur, disponibile su Netflix dal 27 aprile.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 24,
+      "article": "Roberta_Valente_-_Notaio_in_Sorrento",
+      "views": 48501,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 13915
+        },
+        {
+          "date": "2026-04-28",
+          "views": 5395
+        },
+        {
+          "date": "2026-04-29",
+          "views": 3675
+        },
+        {
+          "date": "2026-04-30",
+          "views": 3066
+        },
+        {
+          "date": "2026-05-01",
+          "views": 3749
+        },
+        {
+          "date": "2026-05-02",
+          "views": 3603
+        },
+        {
+          "date": "2026-05-03",
+          "views": 15098
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Roberta%20Valente%20-%20Notaio%20in%20Sorrento&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Roberta_Valente_-_Notaio_in_Sorrento",
+      "article_url": "https://it.wikipedia.org/wiki/Roberta_Valente_-_Notaio_in_Sorrento",
+      "description": "Serie televisiva italiana di Rai 1, il 3 maggio 2026 va in onda la quarta e ultima puntata.",
+      "image_filename": "Roberta_Valente_-_Notaio_in_Sorrento.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/6/61/Roberta_Valente_-_Notaio_in_Sorrento.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roberta_Valente_-_Notaio_in_Sorrento.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Andrea_Kimi_Antonelli",
+      "views": 47571,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 684
+        },
+        {
+          "date": "2026-04-28",
+          "views": 1026
+        },
+        {
+          "date": "2026-04-29",
+          "views": 1167
+        },
+        {
+          "date": "2026-04-30",
+          "views": 867
+        },
+        {
+          "date": "2026-05-01",
+          "views": 2328
+        },
+        {
+          "date": "2026-05-02",
+          "views": 6289
+        },
+        {
+          "date": "2026-05-03",
+          "views": 35210
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andrea%20Kimi%20Antonelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Andrea_Kimi_Antonelli",
+      "article_url": "https://it.wikipedia.org/wiki/Andrea_Kimi_Antonelli",
+      "description": "Pilota automobilistico italiano della Mercedes, vince il Gran Premio di Miami il 3 maggio 2026 partendo dalla pole position.",
+      "image_filename": "Kimi_Antonelli_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A7923)_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kimi_Antonelli_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A7923%29_cropped.jpg/1280px-Kimi_Antonelli_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A7923%29_cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kimi_Antonelli_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A7923)_cropped.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 26,
+      "article": "Meryl_Streep",
+      "views": 47397,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 1999
+        },
+        {
+          "date": "2026-04-28",
+          "views": 1897
+        },
+        {
+          "date": "2026-04-29",
+          "views": 5031
+        },
+        {
+          "date": "2026-04-30",
+          "views": 6898
+        },
+        {
+          "date": "2026-05-01",
+          "views": 13678
+        },
+        {
+          "date": "2026-05-02",
+          "views": 9702
+        },
+        {
+          "date": "2026-05-03",
+          "views": 8192
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Meryl%20Streep&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Meryl_Streep",
+      "article_url": "https://it.wikipedia.org/wiki/Meryl_Streep",
+      "description": "Attrice statunitense, torna nel ruolo di Miranda Priestly nel film Il diavolo veste Prada 2 uscito in Italia il 29 aprile 2026.",
+      "image_filename": "Meryl_Streep_interview_at_Festival_de_Cannes_2024_(cropped_2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Meryl_Streep_interview_at_Festival_de_Cannes_2024_%28cropped_2%29.jpg/1280px-Meryl_Streep_interview_at_Festival_de_Cannes_2024_%28cropped_2%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Meryl_Streep_interview_at_Festival_de_Cannes_2024_(cropped_2).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 27,
+      "article": "I_Cesaroni",
+      "views": 46952,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 12905
+        },
+        {
+          "date": "2026-04-28",
+          "views": 13171
+        },
+        {
+          "date": "2026-04-29",
+          "views": 6911
+        },
+        {
+          "date": "2026-04-30",
+          "views": 3966
+        },
+        {
+          "date": "2026-05-01",
+          "views": 3378
+        },
+        {
+          "date": "2026-05-02",
+          "views": 3110
+        },
+        {
+          "date": "2026-05-03",
+          "views": 3511
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=I%20Cesaroni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=I_Cesaroni",
+      "article_url": "https://it.wikipedia.org/wiki/I_Cesaroni",
+      "description": "Serie televisiva italiana, il 27 aprile 2026 va in onda su Canale 5 la terza puntata de I Cesaroni - Il ritorno.",
+      "image_filename": "ICesaroni.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b9/ICesaroni.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ICesaroni.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 28,
+      "article": "Emily_Blunt",
+      "views": 44884,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 1583
+        },
+        {
+          "date": "2026-04-28",
+          "views": 1568
+        },
+        {
+          "date": "2026-04-29",
+          "views": 3709
+        },
+        {
+          "date": "2026-04-30",
+          "views": 4825
+        },
+        {
+          "date": "2026-05-01",
+          "views": 14666
+        },
+        {
+          "date": "2026-05-02",
+          "views": 10379
+        },
+        {
+          "date": "2026-05-03",
+          "views": 8154
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Emily%20Blunt&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Emily_Blunt",
+      "article_url": "https://it.wikipedia.org/wiki/Emily_Blunt",
+      "description": "Attrice britannica, torna nel ruolo di Emily Charlton nel film Il diavolo veste Prada 2 uscito in Italia il 29 aprile 2026.",
+      "image_filename": "Emily_Blunt_at_WWD_Style_Awards_2026_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Emily_Blunt_at_WWD_Style_Awards_2026_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Emily_Blunt_at_WWD_Style_Awards_2026_(cropped).jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 29,
+      "article": "Gino_Paoli",
+      "views": 40708,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 927
+        },
+        {
+          "date": "2026-04-28",
+          "views": 892
+        },
+        {
+          "date": "2026-04-29",
+          "views": 23158
+        },
+        {
+          "date": "2026-04-30",
+          "views": 5325
+        },
+        {
+          "date": "2026-05-01",
+          "views": 1811
+        },
+        {
+          "date": "2026-05-02",
+          "views": 1114
+        },
+        {
+          "date": "2026-05-03",
+          "views": 7481
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gino%20Paoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=Gino_Paoli",
+      "article_url": "https://it.wikipedia.org/wiki/Gino_Paoli",
+      "description": "Cantautore italiano autore di Sapore di sale e Il cielo in una stanza, il 29 aprile 2026 La7 trasmette la sua ultima intervista a un mese dalla morte.",
+      "image_filename": "Gino_Paoli_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Gino_Paoli_cropped.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gino_Paoli_cropped.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 30,
+      "article": "The_Boys_(serie_televisiva_2019)",
+      "views": 39688,
+      "daily_views": [
+        {
+          "date": "2026-04-27",
+          "views": 4939
+        },
+        {
+          "date": "2026-04-28",
+          "views": 5148
+        },
+        {
+          "date": "2026-04-29",
+          "views": 8695
+        },
+        {
+          "date": "2026-04-30",
+          "views": 6546
+        },
+        {
+          "date": "2026-05-01",
+          "views": 4935
+        },
+        {
+          "date": "2026-05-02",
+          "views": 4542
+        },
+        {
+          "date": "2026-05-03",
+          "views": 4883
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Boys%20%28serie%20televisiva%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/27/2026,cd_max:05/03/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-27&end=2026-05-03&pages=The_Boys_(serie_televisiva_2019)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Boys_(serie_televisiva_2019)",
+      "description": "Serie televisiva statunitense del 2019, la quinta e ultima stagione \u00e8 disponibile su Prime Video dall'8 aprile 2026.",
+      "image_filename": "The_Boys_TV_series_logo.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Boys_TV_series_logo.svg/1280px-The_Boys_TV_series_logo.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Boys_TV_series_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    }
+  ]
+}
