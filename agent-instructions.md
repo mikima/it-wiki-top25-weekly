@@ -25,6 +25,7 @@ Stile desiderato:
 - esempio da evitare: “La pagina è molto cercata perché i lettori vogliono sapere…”
 - esempio da evitare: “L’interesse nasce dalla grande attenzione mediatica…”
 - esempio da evitare: "Il picco dell'11 marzo riflette le ricerche sul cast e sui personaggi subito dopo il debutto."
+- esempio da evitare: "... e resta tra i titoli principali al botteghino nella settimana"
 
 Alla fine:
 - salva direttamente il file
