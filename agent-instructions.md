@@ -12,6 +12,7 @@ Istruzioni:
 - non usare formule vaghe come “torna d’attualità”, “è al centro dell’attenzione”, se puoi sostituirle con un fatto preciso
 - quando possibile cita la data precisa dell’evento nella settimana
 - Se una pagina ha un andamento abbastanza lineare e un piccolo picco è l'unico caso in cui puoi fare una ipotesi (es. RAI1 "primo canale televisivo, difficile dare una motivazione al picco, potrebbe essere legato al primo episodio di Miss Italia")
+- Fornisci contesto se non c'è un motivo diretto, ad esempio per "Campionato_mondiale_di_calcio" la descrizione sarà "Torneo calcistico per squadre nazionali maschili FIFA, la cui ultima edizione del 2026 ospitata da Canada-Messico-Stati Uniti si tiene dall'11 giugno 2026 al 19 luglio 2026
 - usa i link già presenti nel JSON, soprattutto google_news_url e article_url, per capire il fatto associato al picco. Puoi controllare anche se nella settimana precedente ci fosse già quella voce, in tal caso esplicita la continuità.
 - se non c'è proprio una correlazione sicura, resta sul fatto osservabile più vicino nella settimana, oppure usa una formula "anche se non ci sono evidenti prove, potrebbe..."
 - mantieni l’italiano semplice e compatto

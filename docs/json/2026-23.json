@@ -1,0 +1,1351 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2026,
+  "week": 23,
+  "start_date": "2026-06-01",
+  "end_date": "2026-06-07",
+  "days": [
+    "2026-06-01",
+    "2026-06-02",
+    "2026-06-03",
+    "2026-06-04",
+    "2026-06-05",
+    "2026-06-06",
+    "2026-06-07"
+  ],
+  "available_days": [
+    "2026-06-01",
+    "2026-06-02",
+    "2026-06-03",
+    "2026-06-04",
+    "2026-06-05",
+    "2026-06-06",
+    "2026-06-07"
+  ],
+  "complete": true,
+  "missing_days": [],
+  "total_articles": 2829,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Flavio_Cobolli",
+      "views": 248410,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 18745
+        },
+        {
+          "date": "2026-06-02",
+          "views": 8692
+        },
+        {
+          "date": "2026-06-03",
+          "views": 37999
+        },
+        {
+          "date": "2026-06-04",
+          "views": 17782
+        },
+        {
+          "date": "2026-06-05",
+          "views": 21738
+        },
+        {
+          "date": "2026-06-06",
+          "views": 17142
+        },
+        {
+          "date": "2026-06-07",
+          "views": 126312
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Flavio%20Cobolli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Flavio_Cobolli",
+      "article_url": "https://it.wikipedia.org/wiki/Flavio_Cobolli",
+      "description": "Tennista italiano, raggiunge la finale al Roland Garros 2026 il 7 giugno e entra per la prima volta nella top 10 della classifica ATP.",
+      "image_filename": "Cobolli_RGQ23_(52944096963)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cobolli_RGQ23_%2852944096963%29_%28cropped%29.jpg/1280px-Cobolli_RGQ23_%2852944096963%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cobolli_RGQ23_(52944096963)_(cropped).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Alexander_Zverev",
+      "views": 233661,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 3981
+        },
+        {
+          "date": "2026-06-02",
+          "views": 16562
+        },
+        {
+          "date": "2026-06-03",
+          "views": 9132
+        },
+        {
+          "date": "2026-06-04",
+          "views": 6050
+        },
+        {
+          "date": "2026-06-05",
+          "views": 24471
+        },
+        {
+          "date": "2026-06-06",
+          "views": 11948
+        },
+        {
+          "date": "2026-06-07",
+          "views": 161517
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alexander%20Zverev&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Alexander_Zverev",
+      "article_url": "https://it.wikipedia.org/wiki/Alexander_Zverev",
+      "description": "Tennista tedesco, si qualifica per la finale del Roland Garros 2026 il 7 giugno contro Flavio Cobolli.",
+      "image_filename": "Alexander_Zverev.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Zverev.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alexander_Zverev.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Matteo_Arnaldi",
+      "views": 164752,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 41994
+        },
+        {
+          "date": "2026-06-02",
+          "views": 30658
+        },
+        {
+          "date": "2026-06-03",
+          "views": 47221
+        },
+        {
+          "date": "2026-06-04",
+          "views": 22405
+        },
+        {
+          "date": "2026-06-05",
+          "views": 13855
+        },
+        {
+          "date": "2026-06-06",
+          "views": 4215
+        },
+        {
+          "date": "2026-06-07",
+          "views": 4404
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matteo%20Arnaldi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Matteo_Arnaldi",
+      "article_url": "https://it.wikipedia.org/wiki/Matteo_Arnaldi",
+      "description": "Tennista italiano, si ritira durante il Roland Garros 2026 il 5 giugno concedendo la finale a Flavio Cobolli.",
+      "image_filename": "Arnaldi_WMQ23_(53061134932).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arnaldi_WMQ23_%2853061134932%29.jpg/1280px-Arnaldi_WMQ23_%2853061134932%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Arnaldi_WMQ23_(53061134932).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Dua_Lipa",
+      "views": 122383,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 14147
+        },
+        {
+          "date": "2026-06-02",
+          "views": 9308
+        },
+        {
+          "date": "2026-06-03",
+          "views": 6808
+        },
+        {
+          "date": "2026-06-04",
+          "views": 8332
+        },
+        {
+          "date": "2026-06-05",
+          "views": 18035
+        },
+        {
+          "date": "2026-06-06",
+          "views": 38530
+        },
+        {
+          "date": "2026-06-07",
+          "views": 27223
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Dua%20Lipa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Dua_Lipa",
+      "article_url": "https://it.wikipedia.org/wiki/Dua_Lipa",
+      "description": "Cantante e compositrice britannica, celebra il matrimonio con Callum Turner in Sicilia il 5 giugno 2026.",
+      "image_filename": "Dua_Lipa-69798_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dua_Lipa-69798_%28cropped%29.jpg/1280px-Dua_Lipa-69798_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dua_Lipa-69798_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Zerocalcare",
+      "views": 106739,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 18053
+        },
+        {
+          "date": "2026-06-02",
+          "views": 22324
+        },
+        {
+          "date": "2026-06-03",
+          "views": 16422
+        },
+        {
+          "date": "2026-06-04",
+          "views": 13514
+        },
+        {
+          "date": "2026-06-05",
+          "views": 12081
+        },
+        {
+          "date": "2026-06-06",
+          "views": 12162
+        },
+        {
+          "date": "2026-06-07",
+          "views": 12183
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Zerocalcare&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Zerocalcare",
+      "article_url": "https://it.wikipedia.org/wiki/Zerocalcare",
+      "description": "Fumettista italiano, risponde a polemiche sulle retribuzioni dei collaboratori della sua serie \"Due spicci\" nei primi giorni di giugno 2026.",
+      "image_filename": "Zerocalcare_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Zerocalcare_%28cropped%29.jpg/1280px-Zerocalcare_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zerocalcare_(cropped).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Silvio_Baldini",
+      "views": 96084,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 4594
+        },
+        {
+          "date": "2026-06-02",
+          "views": 5783
+        },
+        {
+          "date": "2026-06-03",
+          "views": 36827
+        },
+        {
+          "date": "2026-06-04",
+          "views": 15263
+        },
+        {
+          "date": "2026-06-05",
+          "views": 5091
+        },
+        {
+          "date": "2026-06-06",
+          "views": 3932
+        },
+        {
+          "date": "2026-06-07",
+          "views": 24594
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Silvio%20Baldini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Silvio_Baldini",
+      "article_url": "https://it.wikipedia.org/wiki/Silvio_Baldini",
+      "description": "Allenatore di calcio italiano e commissario tecnico della nazionale under 21, è al centro del dibattito sulla conferma del suo ruolo nel giugno 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 7,
+      "article": "Festa_della_Repubblica_Italiana",
+      "views": 91278,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 23048
+        },
+        {
+          "date": "2026-06-02",
+          "views": 57973
+        },
+        {
+          "date": "2026-06-03",
+          "views": 6539
+        },
+        {
+          "date": "2026-06-04",
+          "views": 1946
+        },
+        {
+          "date": "2026-06-05",
+          "views": 1047
+        },
+        {
+          "date": "2026-06-06",
+          "views": 725
+        },
+        {
+          "date": "2026-06-07",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Festa%20della%20Repubblica%20Italiana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Festa_della_Repubblica_Italiana",
+      "article_url": "https://it.wikipedia.org/wiki/Festa_della_Repubblica_Italiana",
+      "description": "Festa nazionale italiana che si celebra il 2 giugno; nel 2026 ricorre l'ottantesimo anniversario con celebrazioni ufficiali a Roma.",
+      "image_filename": "Frecce_Tricolori_2022.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frecce_Tricolori_2022.jpg/1280px-Frecce_Tricolori_2022.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Frecce_Tricolori_2022.jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Backrooms_(film)",
+      "views": 89341,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 17680
+        },
+        {
+          "date": "2026-06-02",
+          "views": 18476
+        },
+        {
+          "date": "2026-06-03",
+          "views": 12371
+        },
+        {
+          "date": "2026-06-04",
+          "views": 9898
+        },
+        {
+          "date": "2026-06-05",
+          "views": 9980
+        },
+        {
+          "date": "2026-06-06",
+          "views": 11006
+        },
+        {
+          "date": "2026-06-07",
+          "views": 9930
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Backrooms%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Backrooms_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Backrooms_(film)",
+      "description": "Film horror del 2026 diretto da Kane Parsons, mantiene un interesse costante durante la prima settimana di giugno.",
+      "image_filename": "Backrooms2026.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/54/Backrooms2026.png/1280px-Backrooms2026.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Backrooms2026.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Andrea_Kimi_Antonelli",
+      "views": 85440,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 2176
+        },
+        {
+          "date": "2026-06-02",
+          "views": 2419
+        },
+        {
+          "date": "2026-06-03",
+          "views": 1692
+        },
+        {
+          "date": "2026-06-04",
+          "views": 1998
+        },
+        {
+          "date": "2026-06-05",
+          "views": 1936
+        },
+        {
+          "date": "2026-06-06",
+          "views": 10965
+        },
+        {
+          "date": "2026-06-07",
+          "views": 64254
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andrea%20Kimi%20Antonelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Andrea_Kimi_Antonelli",
+      "article_url": "https://it.wikipedia.org/wiki/Andrea_Kimi_Antonelli",
+      "description": "Pilota automobilistico italiano in Formula 1, vince la quinta gara consecutiva a Monaco il 7 giugno 2026 e diventa il più giovane poleman a Montecarlo.",
+      "image_filename": "Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin,_TX_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Callum_Turner",
+      "views": 85383,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 14583
+        },
+        {
+          "date": "2026-06-02",
+          "views": 10052
+        },
+        {
+          "date": "2026-06-03",
+          "views": 5710
+        },
+        {
+          "date": "2026-06-04",
+          "views": 6105
+        },
+        {
+          "date": "2026-06-05",
+          "views": 10656
+        },
+        {
+          "date": "2026-06-06",
+          "views": 22580
+        },
+        {
+          "date": "2026-06-07",
+          "views": 15697
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Callum%20Turner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Callum_Turner",
+      "article_url": "https://it.wikipedia.org/wiki/Callum_Turner",
+      "description": "Attore e modello britannico, sposa la cantante Dua Lipa in Sicilia il 5 giugno 2026.",
+      "image_filename": "Callum_Turner-69856_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Callum_Turner-69856_%28cropped%29.jpg/1280px-Callum_Turner-69856_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Callum_Turner-69856_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Campionato_mondiale_di_calcio_2026",
+      "views": 82965,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 9772
+        },
+        {
+          "date": "2026-06-02",
+          "views": 11644
+        },
+        {
+          "date": "2026-06-03",
+          "views": 10818
+        },
+        {
+          "date": "2026-06-04",
+          "views": 10875
+        },
+        {
+          "date": "2026-06-05",
+          "views": 10973
+        },
+        {
+          "date": "2026-06-06",
+          "views": 12762
+        },
+        {
+          "date": "2026-06-07",
+          "views": 16121
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202026&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Campionato_mondiale_di_calcio_2026",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2026",
+      "description": "23ª edizione del campionato mondiale di calcio FIFA",
+      "image_filename": "Campionato_mondiale_di_calcio_2026.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/e/e6/Campionato_mondiale_di_calcio_2026.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Campionato_mondiale_di_calcio_2026.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Matteo_Berrettini",
+      "views": 79761,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 23965
+        },
+        {
+          "date": "2026-06-02",
+          "views": 14260
+        },
+        {
+          "date": "2026-06-03",
+          "views": 25879
+        },
+        {
+          "date": "2026-06-04",
+          "views": 8023
+        },
+        {
+          "date": "2026-06-05",
+          "views": 2378
+        },
+        {
+          "date": "2026-06-06",
+          "views": 1352
+        },
+        {
+          "date": "2026-06-07",
+          "views": 3904
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matteo%20Berrettini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Matteo_Berrettini",
+      "article_url": "https://it.wikipedia.org/wiki/Matteo_Berrettini",
+      "description": "Tennista italiano, si ritira in lacrime al Roland Garros 2026 il 3 giugno per un problema all'anca con successive analisi in vista di Wimbledon.",
+      "image_filename": "Matteo_Berrettini_at_2025_Miami_Open_01_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29.jpg/1280px-Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_01_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Marjane_Satrapi",
+      "views": 77055,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 0
+        },
+        {
+          "date": "2026-06-02",
+          "views": 0
+        },
+        {
+          "date": "2026-06-03",
+          "views": 0
+        },
+        {
+          "date": "2026-06-04",
+          "views": 46544
+        },
+        {
+          "date": "2026-06-05",
+          "views": 19211
+        },
+        {
+          "date": "2026-06-06",
+          "views": 7457
+        },
+        {
+          "date": "2026-06-07",
+          "views": 3843
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Marjane%20Satrapi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Marjane_Satrapi",
+      "article_url": "https://it.wikipedia.org/wiki/Marjane_Satrapi",
+      "description": "fumettista, regista, sceneggiatrice e illustratrice iraniana naturalizzata francese (1969-2026)",
+      "image_filename": "Marjane_Satrapi_Cannes_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Marjane_Satrapi_Cannes_2008.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marjane_Satrapi_Cannes_2008.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Open_di_Francia",
+      "views": 71217,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 10165
+        },
+        {
+          "date": "2026-06-02",
+          "views": 9893
+        },
+        {
+          "date": "2026-06-03",
+          "views": 10963
+        },
+        {
+          "date": "2026-06-04",
+          "views": 6875
+        },
+        {
+          "date": "2026-06-05",
+          "views": 6857
+        },
+        {
+          "date": "2026-06-06",
+          "views": 5026
+        },
+        {
+          "date": "2026-06-07",
+          "views": 21438
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Open%20di%20Francia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Open_di_Francia",
+      "article_url": "https://it.wikipedia.org/wiki/Open_di_Francia",
+      "description": "Torneo di tennis del Grande Slam che si tiene a Parigi, si conclude il 7 giugno 2026 con la finale femminile vinta da Mirra Andreeva.",
+      "image_filename": "Roland_Garros.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f7/Roland_Garros.svg/1280px-Roland_Garros.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roland_Garros.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 15,
+      "article": "Alexander_Sørloth",
+      "views": 63600,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 0
+        },
+        {
+          "date": "2026-06-02",
+          "views": 0
+        },
+        {
+          "date": "2026-06-03",
+          "views": 5043
+        },
+        {
+          "date": "2026-06-04",
+          "views": 18122
+        },
+        {
+          "date": "2026-06-05",
+          "views": 17285
+        },
+        {
+          "date": "2026-06-06",
+          "views": 9837
+        },
+        {
+          "date": "2026-06-07",
+          "views": 13313
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alexander%20S%C3%B8rloth&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Alexander_S%C3%B8rloth",
+      "article_url": "https://it.wikipedia.org/wiki/Alexander_S%C3%B8rloth",
+      "description": "Calciatore norvegese, è al centro di trattative di mercato con la Juventus come possibile erede di Vlahovic nella prima settimana di giugno 2026.",
+      "image_filename": "Norway_Italy_-_June_2025_B_25_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Norway_Italy_-_June_2025_B_25_%28cropped%29.jpg/1280px-Norway_Italy_-_June_2025_B_25_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_B_25_(cropped).jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Roberto_Vannacci",
+      "views": 60477,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 6590
+        },
+        {
+          "date": "2026-06-02",
+          "views": 9735
+        },
+        {
+          "date": "2026-06-03",
+          "views": 8204
+        },
+        {
+          "date": "2026-06-04",
+          "views": 8557
+        },
+        {
+          "date": "2026-06-05",
+          "views": 8563
+        },
+        {
+          "date": "2026-06-06",
+          "views": 9369
+        },
+        {
+          "date": "2026-06-07",
+          "views": 9459
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Roberto%20Vannacci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Roberto_Vannacci",
+      "article_url": "https://it.wikipedia.org/wiki/Roberto_Vannacci",
+      "description": "Generale e politico italiano, presidente di Futuro Nazionale, annuncia l'ingresso di otto deputati nel suo partito fra il 6 e il 7 giugno 2026.",
+      "image_filename": "Roberto_Vannacci,_2026.05.20_(01)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Roberto_Vannacci%2C_2026.05.20_%2801%29_%28cropped%29.jpg/1280px-Roberto_Vannacci%2C_2026.05.20_%2801%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roberto_Vannacci%2C_2026.05.20_(01)_(cropped).jpg",
+      "image_license": "Attribution",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Mirra_Andreeva",
+      "views": 59998,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 0
+        },
+        {
+          "date": "2026-06-02",
+          "views": 3456
+        },
+        {
+          "date": "2026-06-03",
+          "views": 2560
+        },
+        {
+          "date": "2026-06-04",
+          "views": 10934
+        },
+        {
+          "date": "2026-06-05",
+          "views": 3814
+        },
+        {
+          "date": "2026-06-06",
+          "views": 27657
+        },
+        {
+          "date": "2026-06-07",
+          "views": 11577
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mirra%20Andreeva&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Mirra_Andreeva",
+      "article_url": "https://it.wikipedia.org/wiki/Mirra_Andreeva",
+      "description": "Tennista russa, vince l'Open di Francia 2026 il 6 giugno portando in campo il suo affetto per i cani.",
+      "image_filename": "Andreeva_M._WMQ23_(53062105200).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Andreeva_M._WMQ23_%2853062105200%29.jpg/1280px-Andreeva_M._WMQ23_%2853062105200%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Andreeva_M._WMQ23_(53062105200).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Euphoria_(serie_televisiva)",
+      "views": 59279,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 19703
+        },
+        {
+          "date": "2026-06-02",
+          "views": 14380
+        },
+        {
+          "date": "2026-06-03",
+          "views": 8166
+        },
+        {
+          "date": "2026-06-04",
+          "views": 5738
+        },
+        {
+          "date": "2026-06-05",
+          "views": 4352
+        },
+        {
+          "date": "2026-06-06",
+          "views": 3635
+        },
+        {
+          "date": "2026-06-07",
+          "views": 3305
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Euphoria%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Euphoria_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Euphoria_(serie_televisiva)",
+      "description": "Serie televisiva statunitense trasmessa dal 2019 al 31 maggio 2026, conclude la terza stagione e si annuncia che non ci sarà una quarta.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Rai",
+      "views": 58813,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 8306
+        },
+        {
+          "date": "2026-06-02",
+          "views": 9240
+        },
+        {
+          "date": "2026-06-03",
+          "views": 8167
+        },
+        {
+          "date": "2026-06-04",
+          "views": 8864
+        },
+        {
+          "date": "2026-06-05",
+          "views": 8927
+        },
+        {
+          "date": "2026-06-06",
+          "views": 8211
+        },
+        {
+          "date": "2026-06-07",
+          "views": 7098
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "Ente radiotelevisivo pubblico italiano, annuncia il palinsesto per la stagione sinfonica 2026/2027 e la trasmissione in chiaro di partite dei Mondiali 2026.",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 20,
+      "article": "Due_spicci",
+      "views": 58435,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 10621
+        },
+        {
+          "date": "2026-06-02",
+          "views": 12110
+        },
+        {
+          "date": "2026-06-03",
+          "views": 9060
+        },
+        {
+          "date": "2026-06-04",
+          "views": 7824
+        },
+        {
+          "date": "2026-06-05",
+          "views": 6546
+        },
+        {
+          "date": "2026-06-06",
+          "views": 5986
+        },
+        {
+          "date": "2026-06-07",
+          "views": 6288
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Due%20spicci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Due_spicci",
+      "article_url": "https://it.wikipedia.org/wiki/Due_spicci",
+      "description": "Serie animata italiana del 2026 creata da Zerocalcare per Netflix, protagonista di polemiche e recensioni nella prima settimana di giugno 2026.",
+      "image_filename": "Due_spicci.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/87/Due_spicci.jpg/1280px-Due_spicci.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Due_spicci.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Luca_Koleosho",
+      "views": 57974,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 0
+        },
+        {
+          "date": "2026-06-02",
+          "views": 1162
+        },
+        {
+          "date": "2026-06-03",
+          "views": 26318
+        },
+        {
+          "date": "2026-06-04",
+          "views": 6163
+        },
+        {
+          "date": "2026-06-05",
+          "views": 1199
+        },
+        {
+          "date": "2026-06-06",
+          "views": 0
+        },
+        {
+          "date": "2026-06-07",
+          "views": 23132
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luca%20Koleosho&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Luca_Koleosho",
+      "article_url": "https://it.wikipedia.org/wiki/Luca_Koleosho",
+      "description": "Calciatore italiano naturalizzato, attaccante del Paris FC, noto per le prestazioni con la nazionale italiana e trasferimenti nel giugno 2026.",
+      "image_filename": "Luca_Koleosho_26042025_(2)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Luca_Koleosho_26042025_%282%29_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luca_Koleosho_26042025_(2)_(cropped).jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 22,
+      "article": "Marios_Oikonomou",
+      "views": 57139,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 41311
+        },
+        {
+          "date": "2026-06-02",
+          "views": 10398
+        },
+        {
+          "date": "2026-06-03",
+          "views": 2252
+        },
+        {
+          "date": "2026-06-04",
+          "views": 1143
+        },
+        {
+          "date": "2026-06-05",
+          "views": 0
+        },
+        {
+          "date": "2026-06-06",
+          "views": 0
+        },
+        {
+          "date": "2026-06-07",
+          "views": 2035
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Marios%20Oikonomou&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Marios_Oikonomou",
+      "article_url": "https://it.wikipedia.org/wiki/Marios_Oikonomou",
+      "description": "Calciatore greco deceduto nel 2026 a causa di un incidente stradale il 1º giugno, ex difensore di Bologna e della nazionale greca.",
+      "image_filename": "Oikonomou_with_AEK.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Oikonomou_with_AEK.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Oikonomou_with_AEK.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 23,
+      "article": "Jannik_Sinner",
+      "views": 55652,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 6296
+        },
+        {
+          "date": "2026-06-02",
+          "views": 7578
+        },
+        {
+          "date": "2026-06-03",
+          "views": 7571
+        },
+        {
+          "date": "2026-06-04",
+          "views": 5538
+        },
+        {
+          "date": "2026-06-05",
+          "views": 6068
+        },
+        {
+          "date": "2026-06-06",
+          "views": 4992
+        },
+        {
+          "date": "2026-06-07",
+          "views": 17609
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Jannik_Sinner",
+      "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
+      "description": "Tennista italiano, la pagina registra un picco di visite il 7 giugno 2026 in seguito ad accertamenti ospedalieri e discussioni pubbliche sulla sua condizione atletica.",
+      "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Episodi_di_Euphoria_(terza_stagione)",
+      "views": 53464,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 21413
+        },
+        {
+          "date": "2026-06-02",
+          "views": 13101
+        },
+        {
+          "date": "2026-06-03",
+          "views": 6800
+        },
+        {
+          "date": "2026-06-04",
+          "views": 4268
+        },
+        {
+          "date": "2026-06-05",
+          "views": 3014
+        },
+        {
+          "date": "2026-06-06",
+          "views": 2524
+        },
+        {
+          "date": "2026-06-07",
+          "views": 2344
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Euphoria%20%28terza%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Episodi_di_Euphoria_(terza_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Euphoria_(terza_stagione)",
+      "description": "Lista degli episodi della terza e ultima stagione della serie televisiva statunitense Euphoria, terminata il 31 maggio 2026 con la conferma ufficiale della fine della serie.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Michael_Jackson",
+      "views": 52940,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 6980
+        },
+        {
+          "date": "2026-06-02",
+          "views": 8689
+        },
+        {
+          "date": "2026-06-03",
+          "views": 7825
+        },
+        {
+          "date": "2026-06-04",
+          "views": 7620
+        },
+        {
+          "date": "2026-06-05",
+          "views": 6790
+        },
+        {
+          "date": "2026-06-06",
+          "views": 7555
+        },
+        {
+          "date": "2026-06-07",
+          "views": 7481
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michael%20Jackson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Michael_Jackson",
+      "article_url": "https://it.wikipedia.org/wiki/Michael_Jackson",
+      "description": "cantautore, ballerino, coreografo, compositore, produttore discografico e filantropo statunitense (1958–2009)",
+      "image_filename": "Michael_Jackson_at_the_1984_Grammy's_by_Scott_Garrity.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Michael_Jackson_at_the_1984_Grammy%27s_by_Scott_Garrity.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_at_the_1984_Grammy%27s_by_Scott_Garrity.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 26,
+      "article": "Jakub_Menšík",
+      "views": 52578,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 2057
+        },
+        {
+          "date": "2026-06-02",
+          "views": 27213
+        },
+        {
+          "date": "2026-06-03",
+          "views": 10885
+        },
+        {
+          "date": "2026-06-04",
+          "views": 4255
+        },
+        {
+          "date": "2026-06-05",
+          "views": 8168
+        },
+        {
+          "date": "2026-06-06",
+          "views": 0
+        },
+        {
+          "date": "2026-06-07",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jakub%20Men%C5%A1%C3%ADk&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Jakub_Men%C5%A1%C3%ADk",
+      "article_url": "https://it.wikipedia.org/wiki/Jakub_Men%C5%A1%C3%ADk",
+      "description": "Tennista ceco, noto per la sua partecipazione al Roland Garros 2026, con un picco di attenzione nella prima settimana di giugno 2026 collegato alle partite giocate nel torneo.",
+      "image_filename": "Jakub_Menšík,_Swiss_Indoors_Basel_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Jakub_Men%C5%A1%C3%ADk%2C_Swiss_Indoors_Basel_%28cropped%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jakub_Men%C5%A1%C3%ADk%2C_Swiss_Indoors_Basel_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 27,
+      "article": "The_Handmaid's_Tale_(serie_televisiva)",
+      "views": 51820,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 7517
+        },
+        {
+          "date": "2026-06-02",
+          "views": 9560
+        },
+        {
+          "date": "2026-06-03",
+          "views": 7151
+        },
+        {
+          "date": "2026-06-04",
+          "views": 6913
+        },
+        {
+          "date": "2026-06-05",
+          "views": 6405
+        },
+        {
+          "date": "2026-06-06",
+          "views": 6800
+        },
+        {
+          "date": "2026-06-07",
+          "views": 7474
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=The%20Handmaid%27s%20Tale%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=The_Handmaid%27s_Tale_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/The_Handmaid%27s_Tale_(serie_televisiva)",
+      "description": "Serie televisiva statunitense (2017-2025), con visite costanti nella settimana probabilmente legate a recensioni e approfondimenti sul sequel intitolato The Testaments pubblicati attorno al 5 giugno 2026.",
+      "image_filename": "The_Handmaid's_Tale_intertitle.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Handmaid%27s_Tale_intertitle.png/1280px-The_Handmaid%27s_Tale_intertitle.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Handmaid%27s_Tale_intertitle.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 28,
+      "article": "Una_di_famiglia_-_The_Housemaid",
+      "views": 49735,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 8880
+        },
+        {
+          "date": "2026-06-02",
+          "views": 15288
+        },
+        {
+          "date": "2026-06-03",
+          "views": 7158
+        },
+        {
+          "date": "2026-06-04",
+          "views": 4716
+        },
+        {
+          "date": "2026-06-05",
+          "views": 4389
+        },
+        {
+          "date": "2026-06-06",
+          "views": 4517
+        },
+        {
+          "date": "2026-06-07",
+          "views": 4787
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Una%20di%20famiglia%20-%20The%20Housemaid&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Una_di_famiglia_-_The_Housemaid",
+      "article_url": "https://it.wikipedia.org/wiki/Una_di_famiglia_-_The_Housemaid",
+      "description": "Film del 2025 diretto da Paul Feig, di cui si segnalano visite correlate alla sua disponibilità su Prime Video e a discussioni sulla protagonista Sydney Sweeney nella prima settimana di giugno 2026.",
+      "image_filename": "Una_di_famiglia_(film).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/53/Una_di_famiglia_%28film%29.png/1280px-Una_di_famiglia_%28film%29.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Una_di_famiglia_(film).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 29,
+      "article": "Maja_Chwalińska",
+      "views": 49060,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 2005
+        },
+        {
+          "date": "2026-06-02",
+          "views": 0
+        },
+        {
+          "date": "2026-06-03",
+          "views": 7367
+        },
+        {
+          "date": "2026-06-04",
+          "views": 17020
+        },
+        {
+          "date": "2026-06-05",
+          "views": 7735
+        },
+        {
+          "date": "2026-06-06",
+          "views": 11879
+        },
+        {
+          "date": "2026-06-07",
+          "views": 3054
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Maja%20Chwali%C5%84ska&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Maja_Chwali%C5%84ska",
+      "article_url": "https://it.wikipedia.org/wiki/Maja_Chwali%C5%84ska",
+      "description": "Tennista polacca, ha avuto un picco di visite nella prima settimana di giugno 2026 in concomitanza con la sua sorprendente finale al Roland Garros 2026, partita dalle qualificazioni.",
+      "image_filename": "Qualifying_TransylvaniaOpen_Maja_Chwalinska_vs_Ilinca_Dalina_Amariei_6-1,6-1_(54320887214)_(cropped_Maja_Chwalinska).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Qualifying_TransylvaniaOpen_Maja_Chwalinska_vs_Ilinca_Dalina_Amariei_6-1%2C6-1_%2854320887214%29_%28cropped_Maja_Chwalinska%29.jpg",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Qualifying_TransylvaniaOpen_Maja_Chwalinska_vs_Ilinca_Dalina_Amariei_6-1%2C6-1_(54320887214)_(cropped_Maja_Chwalinska).jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 30,
+      "article": "Off_Campus",
+      "views": 45397,
+      "daily_views": [
+        {
+          "date": "2026-06-01",
+          "views": 6769
+        },
+        {
+          "date": "2026-06-02",
+          "views": 7552
+        },
+        {
+          "date": "2026-06-03",
+          "views": 6895
+        },
+        {
+          "date": "2026-06-04",
+          "views": 6589
+        },
+        {
+          "date": "2026-06-05",
+          "views": 6022
+        },
+        {
+          "date": "2026-06-06",
+          "views": 5845
+        },
+        {
+          "date": "2026-06-07",
+          "views": 5725
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Off%20Campus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Off_Campus",
+      "article_url": "https://it.wikipedia.org/wiki/Off_Campus",
+      "description": "Serie televisiva statunitense del 2026, con interesse stabile tra il 1 e il 7 giugno 2026, accompagnato da articoli e recensioni sulla prima stagione della serie basata sui libri di Elle Kennedy.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}
