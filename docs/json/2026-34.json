@@ -1,0 +1,1351 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2026,
+  "week": 34,
+  "start_date": "2026-08-17",
+  "end_date": "2026-08-23",
+  "days": [
+    "2026-08-17",
+    "2026-08-18",
+    "2026-08-19",
+    "2026-08-20",
+    "2026-08-21",
+    "2026-08-22",
+    "2026-08-23"
+  ],
+  "available_days": [
+    "2026-08-17",
+    "2026-08-18",
+    "2026-08-19",
+    "2026-08-20",
+    "2026-08-21",
+    "2026-08-22",
+    "2026-08-23"
+  ],
+  "complete": true,
+  "missing_days": [],
+  "total_articles": 2937,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Hayden_Panettiere",
+      "views": 450926,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 319014
+        },
+        {
+          "date": "2026-08-18",
+          "views": 65310
+        },
+        {
+          "date": "2026-08-19",
+          "views": 26238
+        },
+        {
+          "date": "2026-08-20",
+          "views": 15359
+        },
+        {
+          "date": "2026-08-21",
+          "views": 9000
+        },
+        {
+          "date": "2026-08-22",
+          "views": 8438
+        },
+        {
+          "date": "2026-08-23",
+          "views": 7567
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Hayden%20Panettiere&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Hayden_Panettiere",
+      "article_url": "https://it.wikipedia.org/wiki/Hayden_Panettiere",
+      "description": "attrice e cantante statunitense (1989-2026)",
+      "image_filename": "Hayden_Panettiere_2009_(Straighten_Crop).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hayden_Panettiere_2009_%28Straighten_Crop%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hayden_Panettiere_2009_(Straighten_Crop).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Varenne",
+      "views": 217587,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 0
+        },
+        {
+          "date": "2026-08-18",
+          "views": 118493
+        },
+        {
+          "date": "2026-08-19",
+          "views": 56973
+        },
+        {
+          "date": "2026-08-20",
+          "views": 19529
+        },
+        {
+          "date": "2026-08-21",
+          "views": 10727
+        },
+        {
+          "date": "2026-08-22",
+          "views": 6502
+        },
+        {
+          "date": "2026-08-23",
+          "views": 5363
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Varenne&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Varenne",
+      "article_url": "https://it.wikipedia.org/wiki/Varenne",
+      "description": "cavallo trottatore italiano (1995-2026)",
+      "image_filename": "Varenne.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Varenne.jpg/1280px-Varenne.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Varenne.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 3,
+      "article": "Diego_Moreira",
+      "views": 184618,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 109634
+        },
+        {
+          "date": "2026-08-18",
+          "views": 35641
+        },
+        {
+          "date": "2026-08-19",
+          "views": 16231
+        },
+        {
+          "date": "2026-08-20",
+          "views": 11620
+        },
+        {
+          "date": "2026-08-21",
+          "views": 5395
+        },
+        {
+          "date": "2026-08-22",
+          "views": 2917
+        },
+        {
+          "date": "2026-08-23",
+          "views": 3180
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Diego%20Moreira&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Diego_Moreira",
+      "article_url": "https://it.wikipedia.org/wiki/Diego_Moreira",
+      "description": "calciatore belga (2004-)",
+      "image_filename": "Moreira2_asse_rcsa_2425.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Moreira2_asse_rcsa_2425.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Moreira2_asse_rcsa_2425.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Giochi_del_Mediterraneo",
+      "views": 145990,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 3352
+        },
+        {
+          "date": "2026-08-18",
+          "views": 3099
+        },
+        {
+          "date": "2026-08-19",
+          "views": 3688
+        },
+        {
+          "date": "2026-08-20",
+          "views": 8097
+        },
+        {
+          "date": "2026-08-21",
+          "views": 71607
+        },
+        {
+          "date": "2026-08-22",
+          "views": 38599
+        },
+        {
+          "date": "2026-08-23",
+          "views": 17548
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giochi%20del%20Mediterraneo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Giochi_del_Mediterraneo",
+      "article_url": "https://it.wikipedia.org/wiki/Giochi_del_Mediterraneo",
+      "description": "manifestazione sportiva per stati che si affacciano sul Mediterraneo",
+      "image_filename": "Logo_Giochi_Mediterraneo_sfondo_bianco.svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/c/c0/Logo_Giochi_Mediterraneo_sfondo_bianco.svg/1280px-Logo_Giochi_Mediterraneo_sfondo_bianco.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Giochi_Mediterraneo_sfondo_bianco.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Guglielmo_Vicario",
+      "views": 143122,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 64488
+        },
+        {
+          "date": "2026-08-18",
+          "views": 32989
+        },
+        {
+          "date": "2026-08-19",
+          "views": 18693
+        },
+        {
+          "date": "2026-08-20",
+          "views": 6401
+        },
+        {
+          "date": "2026-08-21",
+          "views": 4373
+        },
+        {
+          "date": "2026-08-22",
+          "views": 4456
+        },
+        {
+          "date": "2026-08-23",
+          "views": 11722
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Guglielmo%20Vicario&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Guglielmo_Vicario",
+      "article_url": "https://it.wikipedia.org/wiki/Guglielmo_Vicario",
+      "description": "calciatore italiano (1996-)",
+      "image_filename": "Guglielmo_Vicario.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Guglielmo_Vicario.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Guglielmo_Vicario.png",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 6,
+      "article": "Difterite",
+      "views": 134300,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 0
+        },
+        {
+          "date": "2026-08-18",
+          "views": 0
+        },
+        {
+          "date": "2026-08-19",
+          "views": 0
+        },
+        {
+          "date": "2026-08-20",
+          "views": 33143
+        },
+        {
+          "date": "2026-08-21",
+          "views": 43857
+        },
+        {
+          "date": "2026-08-22",
+          "views": 37603
+        },
+        {
+          "date": "2026-08-23",
+          "views": 19697
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Difterite&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Difterite",
+      "article_url": "https://it.wikipedia.org/wiki/Difterite",
+      "description": "malattia infettiva",
+      "image_filename": "Diphtheria_bull_neck.5325_lores.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Diphtheria_bull_neck.5325_lores.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diphtheria_bull_neck.5325_lores.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "Curtis_Jones_(calciatore)",
+      "views": 133717,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 4702
+        },
+        {
+          "date": "2026-08-18",
+          "views": 4581
+        },
+        {
+          "date": "2026-08-19",
+          "views": 60595
+        },
+        {
+          "date": "2026-08-20",
+          "views": 29800
+        },
+        {
+          "date": "2026-08-21",
+          "views": 20504
+        },
+        {
+          "date": "2026-08-22",
+          "views": 10293
+        },
+        {
+          "date": "2026-08-23",
+          "views": 3242
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Curtis%20Jones%20%28calciatore%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Curtis_Jones_(calciatore)",
+      "article_url": "https://it.wikipedia.org/wiki/Curtis_Jones_(calciatore)",
+      "description": "calciatore inglese (2001-)",
+      "image_filename": "Curtis_Jones_2022_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Curtis_Jones_2022_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Curtis_Jones_2022_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Alex_Fiorio",
+      "views": 97076,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 44225
+        },
+        {
+          "date": "2026-08-18",
+          "views": 30592
+        },
+        {
+          "date": "2026-08-19",
+          "views": 8616
+        },
+        {
+          "date": "2026-08-20",
+          "views": 4216
+        },
+        {
+          "date": "2026-08-21",
+          "views": 3710
+        },
+        {
+          "date": "2026-08-22",
+          "views": 4020
+        },
+        {
+          "date": "2026-08-23",
+          "views": 1697
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alex%20Fiorio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Alex_Fiorio",
+      "article_url": "https://it.wikipedia.org/wiki/Alex_Fiorio",
+      "description": "pilota di rally e dirigente sportivo italiano (1965-2026)",
+      "image_filename": "Alex_Fiorio_-_Jolly_Club.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/f/fb/Alex_Fiorio_-_Jolly_Club.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alex_Fiorio_-_Jolly_Club.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 9,
+      "article": "Volodymyr_Kly\u010dko",
+      "views": 75535,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 53917
+        },
+        {
+          "date": "2026-08-18",
+          "views": 11122
+        },
+        {
+          "date": "2026-08-19",
+          "views": 4122
+        },
+        {
+          "date": "2026-08-20",
+          "views": 2481
+        },
+        {
+          "date": "2026-08-21",
+          "views": 1379
+        },
+        {
+          "date": "2026-08-22",
+          "views": 1369
+        },
+        {
+          "date": "2026-08-23",
+          "views": 1145
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Volodymyr%20Kly%C4%8Dko&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Volodymyr_Kly%C4%8Dko",
+      "article_url": "https://it.wikipedia.org/wiki/Volodymyr_Kly%C4%8Dko",
+      "description": "pugile ucraino (1976-)",
+      "image_filename": "Volodymyr_Klychko_(Vladimir_Klitschko)_of_Ukraine_at_the_59th_Munich_Security_Conference_in_Munich_on_17_February_2023_-_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Volodymyr_Klychko_%28Vladimir_Klitschko%29_of_Ukraine_at_the_59th_Munich_Security_Conference_in_Munich_on_17_February_2023_-_%28cropped%29.jpg/1280px-Volodymyr_Klychko_%28Vladimir_Klitschko%29_of_Ukraine_at_the_59th_Munich_Security_Conference_in_Munich_on_17_February_2023_-_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Klychko_(Vladimir_Klitschko)_of_Ukraine_at_the_59th_Munich_Security_Conference_in_Munich_on_17_February_2023_-_(cropped).jpg",
+      "image_license": "CC BY 3.0 de",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Rodrigo_Mora_(calciatore_2007)",
+      "views": 68814,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 9317
+        },
+        {
+          "date": "2026-08-18",
+          "views": 24199
+        },
+        {
+          "date": "2026-08-19",
+          "views": 19250
+        },
+        {
+          "date": "2026-08-20",
+          "views": 6659
+        },
+        {
+          "date": "2026-08-21",
+          "views": 4755
+        },
+        {
+          "date": "2026-08-22",
+          "views": 3059
+        },
+        {
+          "date": "2026-08-23",
+          "views": 1575
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rodrigo%20Mora%20%28calciatore%202007%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Rodrigo_Mora_(calciatore_2007)",
+      "article_url": "https://it.wikipedia.org/wiki/Rodrigo_Mora_(calciatore_2007)",
+      "description": "calciatore portoghese (2007-)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Odissea_(film)",
+      "views": 66757,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 10504
+        },
+        {
+          "date": "2026-08-18",
+          "views": 9546
+        },
+        {
+          "date": "2026-08-19",
+          "views": 9222
+        },
+        {
+          "date": "2026-08-20",
+          "views": 8824
+        },
+        {
+          "date": "2026-08-21",
+          "views": 9517
+        },
+        {
+          "date": "2026-08-22",
+          "views": 9455
+        },
+        {
+          "date": "2026-08-23",
+          "views": 9689
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Odissea%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Odissea_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Odissea_(film)",
+      "description": "film del 2026 diretto da Christopher Nolan",
+      "image_filename": "Odissea_(film_2026).png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/1/1e/Odissea_%28film_2026%29.png/1280px-Odissea_%28film_2026%29.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Odissea_(film_2026).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Bamba_Dieng",
+      "views": 64612,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 0
+        },
+        {
+          "date": "2026-08-18",
+          "views": 0
+        },
+        {
+          "date": "2026-08-19",
+          "views": 42723
+        },
+        {
+          "date": "2026-08-20",
+          "views": 19717
+        },
+        {
+          "date": "2026-08-21",
+          "views": 2172
+        },
+        {
+          "date": "2026-08-22",
+          "views": 0
+        },
+        {
+          "date": "2026-08-23",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bamba%20Dieng&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Bamba_Dieng",
+      "article_url": "https://it.wikipedia.org/wiki/Bamba_Dieng",
+      "description": "calciatore senegalese (2000-)",
+      "image_filename": "Bamba_Dieng_France_v_Senegal_16_June_2026-233_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bamba_Dieng_France_v_Senegal_16_June_2026-233_%28cropped%29.jpg/1280px-Bamba_Dieng_France_v_Senegal_16_June_2026-233_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bamba_Dieng_France_v_Senegal_16_June_2026-233_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "XX_Giochi_del_Mediterraneo",
+      "views": 64256,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 2417
+        },
+        {
+          "date": "2026-08-18",
+          "views": 2130
+        },
+        {
+          "date": "2026-08-19",
+          "views": 2620
+        },
+        {
+          "date": "2026-08-20",
+          "views": 4389
+        },
+        {
+          "date": "2026-08-21",
+          "views": 22391
+        },
+        {
+          "date": "2026-08-22",
+          "views": 17570
+        },
+        {
+          "date": "2026-08-23",
+          "views": 12739
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=XX%20Giochi%20del%20Mediterraneo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=XX_Giochi_del_Mediterraneo",
+      "article_url": "https://it.wikipedia.org/wiki/XX_Giochi_del_Mediterraneo",
+      "description": "edizione del 2026 dei Giochi del Mediterraneo",
+      "image_filename": "Logo_Giochi_Mediterraneo_sfondo_bianco.svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/c/c0/Logo_Giochi_Mediterraneo_sfondo_bianco.svg/1280px-Logo_Giochi_Mediterraneo_sfondo_bianco.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Giochi_Mediterraneo_sfondo_bianco.svg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Ronaldinho",
+      "views": 62981,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 1341
+        },
+        {
+          "date": "2026-08-18",
+          "views": 1250
+        },
+        {
+          "date": "2026-08-19",
+          "views": 1453
+        },
+        {
+          "date": "2026-08-20",
+          "views": 20422
+        },
+        {
+          "date": "2026-08-21",
+          "views": 25179
+        },
+        {
+          "date": "2026-08-22",
+          "views": 7745
+        },
+        {
+          "date": "2026-08-23",
+          "views": 5591
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ronaldinho&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Ronaldinho",
+      "article_url": "https://it.wikipedia.org/wiki/Ronaldinho",
+      "description": "calciatore brasiliano (1980-)",
+      "image_filename": "Ronaldinho_in_2019.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ronaldinho_in_2019.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Giovanni_Atzeni",
+      "views": 54047,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 1055
+        },
+        {
+          "date": "2026-08-18",
+          "views": 25046
+        },
+        {
+          "date": "2026-08-19",
+          "views": 19511
+        },
+        {
+          "date": "2026-08-20",
+          "views": 4257
+        },
+        {
+          "date": "2026-08-21",
+          "views": 1802
+        },
+        {
+          "date": "2026-08-22",
+          "views": 1329
+        },
+        {
+          "date": "2026-08-23",
+          "views": 1047
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giovanni%20Atzeni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Giovanni_Atzeni",
+      "article_url": "https://it.wikipedia.org/wiki/Giovanni_Atzeni",
+      "description": "fantino italiano (1985-)",
+      "image_filename": "Giovanni_Atzeni_agosto_2011.JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Giovanni_Atzeni_agosto_2011.JPG/1280px-Giovanni_Atzeni_agosto_2011.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Atzeni_agosto_2011.JPG",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Jansen_Panettiere",
+      "views": 51046,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 37861
+        },
+        {
+          "date": "2026-08-18",
+          "views": 8806
+        },
+        {
+          "date": "2026-08-19",
+          "views": 3098
+        },
+        {
+          "date": "2026-08-20",
+          "views": 1281
+        },
+        {
+          "date": "2026-08-21",
+          "views": 0
+        },
+        {
+          "date": "2026-08-22",
+          "views": 0
+        },
+        {
+          "date": "2026-08-23",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jansen%20Panettiere&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Jansen_Panettiere",
+      "article_url": "https://it.wikipedia.org/wiki/Jansen_Panettiere",
+      "description": "attore statunitense (1994-2023)",
+      "image_filename": "Jansen_Panettiere.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jansen_Panettiere.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jansen_Panettiere.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Palio_di_Siena",
+      "views": 49716,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 3666
+        },
+        {
+          "date": "2026-08-18",
+          "views": 25268
+        },
+        {
+          "date": "2026-08-19",
+          "views": 13264
+        },
+        {
+          "date": "2026-08-20",
+          "views": 3523
+        },
+        {
+          "date": "2026-08-21",
+          "views": 1718
+        },
+        {
+          "date": "2026-08-22",
+          "views": 1276
+        },
+        {
+          "date": "2026-08-23",
+          "views": 1001
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Palio%20di%20Siena&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Palio_di_Siena",
+      "article_url": "https://it.wikipedia.org/wiki/Palio_di_Siena",
+      "description": "giostra equestre di origine medievale",
+      "image_filename": "Palio_-_Manifesto.JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Palio_-_Manifesto.JPG/1280px-Palio_-_Manifesto.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Palio_-_Manifesto.JPG",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Rai",
+      "views": 44034,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 7030
+        },
+        {
+          "date": "2026-08-18",
+          "views": 6962
+        },
+        {
+          "date": "2026-08-19",
+          "views": 6563
+        },
+        {
+          "date": "2026-08-20",
+          "views": 6215
+        },
+        {
+          "date": "2026-08-21",
+          "views": 6020
+        },
+        {
+          "date": "2026-08-22",
+          "views": 5669
+        },
+        {
+          "date": "2026-08-23",
+          "views": 5575
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "ente radiotelevisivo pubblico italiano",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 19,
+      "article": "Giorgio_Gaber",
+      "views": 41163,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 0
+        },
+        {
+          "date": "2026-08-18",
+          "views": 34049
+        },
+        {
+          "date": "2026-08-19",
+          "views": 4907
+        },
+        {
+          "date": "2026-08-20",
+          "views": 1385
+        },
+        {
+          "date": "2026-08-21",
+          "views": 822
+        },
+        {
+          "date": "2026-08-22",
+          "views": 0
+        },
+        {
+          "date": "2026-08-23",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giorgio%20Gaber&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Giorgio_Gaber",
+      "article_url": "https://it.wikipedia.org/wiki/Giorgio_Gaber",
+      "description": "cantautore, drammaturgo, attore, cabarettista, chitarrista e regista teatrale italiano (1939-2003)",
+      "image_filename": "Giorgio_Gaber_1991.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/0/03/Giorgio_Gaber_1991.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giorgio_Gaber_1991.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 20,
+      "article": "Jayden_Oosterwolde",
+      "views": 40920,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 0
+        },
+        {
+          "date": "2026-08-18",
+          "views": 0
+        },
+        {
+          "date": "2026-08-19",
+          "views": 0
+        },
+        {
+          "date": "2026-08-20",
+          "views": 0
+        },
+        {
+          "date": "2026-08-21",
+          "views": 5488
+        },
+        {
+          "date": "2026-08-22",
+          "views": 19976
+        },
+        {
+          "date": "2026-08-23",
+          "views": 15456
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jayden%20Oosterwolde&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Jayden_Oosterwolde",
+      "article_url": "https://it.wikipedia.org/wiki/Jayden_Oosterwolde",
+      "description": "calciatore olandese (2001-)",
+      "image_filename": "Jayden_Oosterwolde_24_Fenerbah\u00e7e_20260805_(2)_(cropped).JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Jayden_Oosterwolde_24_Fenerbah%C3%A7e_20260805_%282%29_%28cropped%29.JPG/1280px-Jayden_Oosterwolde_24_Fenerbah%C3%A7e_20260805_%282%29_%28cropped%29.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jayden_Oosterwolde_24_Fenerbah%C3%A7e_20260805_(2)_(cropped).JPG",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 21,
+      "article": "Blow-Up",
+      "views": 40359,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 0
+        },
+        {
+          "date": "2026-08-18",
+          "views": 0
+        },
+        {
+          "date": "2026-08-19",
+          "views": 0
+        },
+        {
+          "date": "2026-08-20",
+          "views": 31398
+        },
+        {
+          "date": "2026-08-21",
+          "views": 6369
+        },
+        {
+          "date": "2026-08-22",
+          "views": 1531
+        },
+        {
+          "date": "2026-08-23",
+          "views": 1061
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Blow-Up&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Blow-Up",
+      "article_url": "https://it.wikipedia.org/wiki/Blow-Up",
+      "description": "film del 1966 diretto da Michelangelo Antonioni",
+      "image_filename": "Blow-Up.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/6/60/Blow-Up.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Blow-Up.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Spider-Man:_Brand_New_Day",
+      "views": 39728,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 7266
+        },
+        {
+          "date": "2026-08-18",
+          "views": 5977
+        },
+        {
+          "date": "2026-08-19",
+          "views": 5543
+        },
+        {
+          "date": "2026-08-20",
+          "views": 5223
+        },
+        {
+          "date": "2026-08-21",
+          "views": 5346
+        },
+        {
+          "date": "2026-08-22",
+          "views": 5225
+        },
+        {
+          "date": "2026-08-23",
+          "views": 5148
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Spider-Man%3A%20Brand%20New%20Day&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Spider-Man%3A_Brand_New_Day",
+      "article_url": "https://it.wikipedia.org/wiki/Spider-Man%3A_Brand_New_Day",
+      "description": "film del 2026 diretto da Destin Daniel Cretton",
+      "image_filename": "Spider-Man-_Brand_New_Day.jpeg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/c/c5/Spider-Man-_Brand_New_Day.jpeg/1280px-Spider-Man-_Brand_New_Day.jpeg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Spider-Man-_Brand_New_Day.jpeg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "Film_del_Marvel_Cinematic_Universe",
+      "views": 39523,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 6620
+        },
+        {
+          "date": "2026-08-18",
+          "views": 5895
+        },
+        {
+          "date": "2026-08-19",
+          "views": 5753
+        },
+        {
+          "date": "2026-08-20",
+          "views": 5751
+        },
+        {
+          "date": "2026-08-21",
+          "views": 5575
+        },
+        {
+          "date": "2026-08-22",
+          "views": 4831
+        },
+        {
+          "date": "2026-08-23",
+          "views": 5098
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Film%20del%20Marvel%20Cinematic%20Universe&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Film_del_Marvel_Cinematic_Universe",
+      "article_url": "https://it.wikipedia.org/wiki/Film_del_Marvel_Cinematic_Universe",
+      "description": "lista di un progetto Wikimedia",
+      "image_filename": "Symbol_from_Marvel's_The_Avengers_logo.svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Symbol_from_Marvel%27s_The_Avengers_logo.svg/1280px-Symbol_from_Marvel%27s_The_Avengers_logo.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Symbol_from_Marvel%27s_The_Avengers_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 24,
+      "article": "Valter_Lavitola",
+      "views": 38815,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 9703
+        },
+        {
+          "date": "2026-08-18",
+          "views": 7363
+        },
+        {
+          "date": "2026-08-19",
+          "views": 5300
+        },
+        {
+          "date": "2026-08-20",
+          "views": 6052
+        },
+        {
+          "date": "2026-08-21",
+          "views": 4699
+        },
+        {
+          "date": "2026-08-22",
+          "views": 2580
+        },
+        {
+          "date": "2026-08-23",
+          "views": 3118
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Valter%20Lavitola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Valter_Lavitola",
+      "article_url": "https://it.wikipedia.org/wiki/Valter_Lavitola",
+      "description": "imprenditore e giornalista italiano (1966-)",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 25,
+      "article": "Film_con_maggiori_incassi_nella_storia_del_cinema",
+      "views": 36139,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 7489
+        },
+        {
+          "date": "2026-08-18",
+          "views": 5725
+        },
+        {
+          "date": "2026-08-19",
+          "views": 4617
+        },
+        {
+          "date": "2026-08-20",
+          "views": 4188
+        },
+        {
+          "date": "2026-08-21",
+          "views": 4121
+        },
+        {
+          "date": "2026-08-22",
+          "views": 5265
+        },
+        {
+          "date": "2026-08-23",
+          "views": 4734
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Film%20con%20maggiori%20incassi%20nella%20storia%20del%20cinema&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Film_con_maggiori_incassi_nella_storia_del_cinema",
+      "article_url": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_nella_storia_del_cinema",
+      "description": "lista di un progetto Wikipedia",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 26,
+      "article": "Cesare_Fiorio",
+      "views": 35817,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 14888
+        },
+        {
+          "date": "2026-08-18",
+          "views": 12341
+        },
+        {
+          "date": "2026-08-19",
+          "views": 3789
+        },
+        {
+          "date": "2026-08-20",
+          "views": 1833
+        },
+        {
+          "date": "2026-08-21",
+          "views": 1587
+        },
+        {
+          "date": "2026-08-22",
+          "views": 1379
+        },
+        {
+          "date": "2026-08-23",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Cesare%20Fiorio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Cesare_Fiorio",
+      "article_url": "https://it.wikipedia.org/wiki/Cesare_Fiorio",
+      "description": "dirigente sportivo italiano",
+      "image_filename": "Cesare_Fiorio_-_Lancia_Alitalia_(1975_Automotive_Tour_of_Italy).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cesare_Fiorio_-_Lancia_Alitalia_%281975_Automotive_Tour_of_Italy%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cesare_Fiorio_-_Lancia_Alitalia_(1975_Automotive_Tour_of_Italy).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 27,
+      "article": "Mogol",
+      "views": 35551,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 12520
+        },
+        {
+          "date": "2026-08-18",
+          "views": 2715
+        },
+        {
+          "date": "2026-08-19",
+          "views": 1048
+        },
+        {
+          "date": "2026-08-20",
+          "views": 898
+        },
+        {
+          "date": "2026-08-21",
+          "views": 14864
+        },
+        {
+          "date": "2026-08-22",
+          "views": 2577
+        },
+        {
+          "date": "2026-08-23",
+          "views": 929
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mogol&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Mogol",
+      "article_url": "https://it.wikipedia.org/wiki/Mogol",
+      "description": "autore italiano (1936-)",
+      "image_filename": "Giulio_Rapetti_(Mogol)_nel_1968.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/9/96/Giulio_Rapetti_%28Mogol%29_nel_1968.jpg/1280px-Giulio_Rapetti_%28Mogol%29_nel_1968.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giulio_Rapetti_(Mogol)_nel_1968.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 28,
+      "article": "Anna_Bolena",
+      "views": 34784,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 1681
+        },
+        {
+          "date": "2026-08-18",
+          "views": 1575
+        },
+        {
+          "date": "2026-08-19",
+          "views": 1486
+        },
+        {
+          "date": "2026-08-20",
+          "views": 1883
+        },
+        {
+          "date": "2026-08-21",
+          "views": 14560
+        },
+        {
+          "date": "2026-08-22",
+          "views": 11170
+        },
+        {
+          "date": "2026-08-23",
+          "views": 2429
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Anna%20Bolena&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Anna_Bolena",
+      "article_url": "https://it.wikipedia.org/wiki/Anna_Bolena",
+      "description": "regina consorte d'Inghilterra e Irlanda, seconda moglie di Enrico VIII Tudor",
+      "image_filename": "Anne_boleyn.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Anne_boleyn.jpg/1280px-Anne_boleyn.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anne_boleyn.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 29,
+      "article": "Campionato_europeo_femminile_di_pallavolo_2026",
+      "views": 34671,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 1562
+        },
+        {
+          "date": "2026-08-18",
+          "views": 1824
+        },
+        {
+          "date": "2026-08-19",
+          "views": 1430
+        },
+        {
+          "date": "2026-08-20",
+          "views": 1922
+        },
+        {
+          "date": "2026-08-21",
+          "views": 9489
+        },
+        {
+          "date": "2026-08-22",
+          "views": 7982
+        },
+        {
+          "date": "2026-08-23",
+          "views": 10462
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionato%20europeo%20femminile%20di%20pallavolo%202026&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Campionato_europeo_femminile_di_pallavolo_2026",
+      "article_url": "https://it.wikipedia.org/wiki/Campionato_europeo_femminile_di_pallavolo_2026",
+      "description": "34\u00aa edizione del campionato europeo femminile di pallavolo",
+      "image_filename": "CEV_EuroVolley_W_2026_logo.png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/CEV_EuroVolley_W_2026_logo.png/1280px-CEV_EuroVolley_W_2026_logo.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:CEV_EuroVolley_W_2026_logo.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 30,
+      "article": "Rodri_(calciatore_1996)",
+      "views": 34366,
+      "daily_views": [
+        {
+          "date": "2026-08-17",
+          "views": 6076
+        },
+        {
+          "date": "2026-08-18",
+          "views": 10214
+        },
+        {
+          "date": "2026-08-19",
+          "views": 9053
+        },
+        {
+          "date": "2026-08-20",
+          "views": 4130
+        },
+        {
+          "date": "2026-08-21",
+          "views": 2090
+        },
+        {
+          "date": "2026-08-22",
+          "views": 1272
+        },
+        {
+          "date": "2026-08-23",
+          "views": 1531
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rodri%20%28calciatore%201996%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/17/2026,cd_max:08/23/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-17&end=2026-08-23&pages=Rodri_(calciatore_1996)",
+      "article_url": "https://it.wikipedia.org/wiki/Rodri_(calciatore_1996)",
+      "description": "calciatore spagnolo",
+      "image_filename": "Rodri_Argentina_v_Spain_19_July_2026-187_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg/1280px-Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rodri_Argentina_v_Spain_19_July_2026-187_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    }
+  ]
+}

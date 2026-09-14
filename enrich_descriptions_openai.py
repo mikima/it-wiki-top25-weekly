@@ -22,7 +22,7 @@ from typing import Any, Dict, Iterable, List, Sequence, Tuple
 from urllib.parse import quote
 
 
-DEFAULT_MODEL = "gpt-4.1"
+DEFAULT_MODEL = "gpt-5.6-terra"
 DEFAULT_JSON_DIR = Path("docs/json")
 DEFAULT_INSTRUCTIONS = Path("agent-instructions.md")
 DEFAULT_ENV_FILE = Path(".env")

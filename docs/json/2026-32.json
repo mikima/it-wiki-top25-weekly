@@ -1,0 +1,1351 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2026,
+  "week": 32,
+  "start_date": "2026-08-03",
+  "end_date": "2026-08-09",
+  "days": [
+    "2026-08-03",
+    "2026-08-04",
+    "2026-08-05",
+    "2026-08-06",
+    "2026-08-07",
+    "2026-08-08",
+    "2026-08-09"
+  ],
+  "available_days": [
+    "2026-08-03",
+    "2026-08-04",
+    "2026-08-05",
+    "2026-08-06",
+    "2026-08-07",
+    "2026-08-08",
+    "2026-08-09"
+  ],
+  "complete": true,
+  "missing_days": [],
+  "total_articles": 2826,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Francesco_Guccini",
+      "views": 527121,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 0
+        },
+        {
+          "date": "2026-08-04",
+          "views": 0
+        },
+        {
+          "date": "2026-08-05",
+          "views": 0
+        },
+        {
+          "date": "2026-08-06",
+          "views": 331858
+        },
+        {
+          "date": "2026-08-07",
+          "views": 109381
+        },
+        {
+          "date": "2026-08-08",
+          "views": 57825
+        },
+        {
+          "date": "2026-08-09",
+          "views": 28057
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Francesco%20Guccini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Francesco_Guccini",
+      "article_url": "https://it.wikipedia.org/wiki/Francesco_Guccini",
+      "description": "Cantautore, scrittore e attore italiano, noto per brani come «Dio è morto» e «La locomotiva», muore il 6 agosto 2026 a 86 anni.",
+      "image_filename": "Francesco_Guccini_-_Lucca_Comics_&_Games_2016_01.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Francesco_Guccini_-_Lucca_Comics_%26_Games_2016_01.jpg/1280px-Francesco_Guccini_-_Lucca_Comics_%26_Games_2016_01.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesco_Guccini_-_Lucca_Comics_%26_Games_2016_01.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Odissea_(film)",
+      "views": 140391,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 25199
+        },
+        {
+          "date": "2026-08-04",
+          "views": 23601
+        },
+        {
+          "date": "2026-08-05",
+          "views": 21570
+        },
+        {
+          "date": "2026-08-06",
+          "views": 17331
+        },
+        {
+          "date": "2026-08-07",
+          "views": 16922
+        },
+        {
+          "date": "2026-08-08",
+          "views": 17276
+        },
+        {
+          "date": "2026-08-09",
+          "views": 18492
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Odissea%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Odissea_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Odissea_(film)",
+      "description": "Film del 2026 diretto da Christopher Nolan, recensito dalla stampa italiana durante la settimana.",
+      "image_filename": "Odissea_(film_2026).png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/1/1e/Odissea_%28film_2026%29.png/1280px-Odissea_%28film_2026%29.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Odissea_(film_2026).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 3,
+      "article": "Oppenheimer_(film)",
+      "views": 136971,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 3755
+        },
+        {
+          "date": "2026-08-04",
+          "views": 6552
+        },
+        {
+          "date": "2026-08-05",
+          "views": 90347
+        },
+        {
+          "date": "2026-08-06",
+          "views": 22817
+        },
+        {
+          "date": "2026-08-07",
+          "views": 5869
+        },
+        {
+          "date": "2026-08-08",
+          "views": 3954
+        },
+        {
+          "date": "2026-08-09",
+          "views": 3677
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Oppenheimer%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Oppenheimer_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Oppenheimer_(film)",
+      "description": "Film del 2023 diretto da Christopher Nolan, trasmesso in prima visione televisiva il 5 agosto 2026.",
+      "image_filename": "Oppenheimer_(film).png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/a/ab/Oppenheimer_%28film%29.png/1280px-Oppenheimer_%28film%29.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Oppenheimer_(film).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 4,
+      "article": "Franco_Baresi",
+      "views": 118453,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 16832
+        },
+        {
+          "date": "2026-08-04",
+          "views": 58280
+        },
+        {
+          "date": "2026-08-05",
+          "views": 24848
+        },
+        {
+          "date": "2026-08-06",
+          "views": 9274
+        },
+        {
+          "date": "2026-08-07",
+          "views": 4398
+        },
+        {
+          "date": "2026-08-08",
+          "views": 2715
+        },
+        {
+          "date": "2026-08-09",
+          "views": 2106
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Franco%20Baresi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Franco_Baresi",
+      "article_url": "https://it.wikipedia.org/wiki/Franco_Baresi",
+      "description": "Ex calciatore italiano e storico capitano del Milan, i cui funerali si svolgono a Milano il 4 agosto 2026.",
+      "image_filename": "Franco_Baresi_-_Milan_AC_1996-97.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/f/fa/Franco_Baresi_-_Milan_AC_1996-97.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Franco_Baresi_-_Milan_AC_1996-97.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 5,
+      "article": "Spider-Man:_Brand_New_Day",
+      "views": 111034,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 22719
+        },
+        {
+          "date": "2026-08-04",
+          "views": 18697
+        },
+        {
+          "date": "2026-08-05",
+          "views": 17041
+        },
+        {
+          "date": "2026-08-06",
+          "views": 14855
+        },
+        {
+          "date": "2026-08-07",
+          "views": 12633
+        },
+        {
+          "date": "2026-08-08",
+          "views": 12279
+        },
+        {
+          "date": "2026-08-09",
+          "views": 12810
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Spider-Man%3A%20Brand%20New%20Day&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Spider-Man%3A_Brand_New_Day",
+      "article_url": "https://it.wikipedia.org/wiki/Spider-Man%3A_Brand_New_Day",
+      "description": "Film del 2026 diretto da Destin Daniel Cretton, registra un debutto record al botteghino secondo le notizie del 4 agosto 2026.",
+      "image_filename": "Spider-Man-_Brand_New_Day.jpeg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/c/c5/Spider-Man-_Brand_New_Day.jpeg/1280px-Spider-Man-_Brand_New_Day.jpeg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Spider-Man-_Brand_New_Day.jpeg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "J._Robert_Oppenheimer",
+      "views": 94742,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 1000
+        },
+        {
+          "date": "2026-08-04",
+          "views": 2143
+        },
+        {
+          "date": "2026-08-05",
+          "views": 62912
+        },
+        {
+          "date": "2026-08-06",
+          "views": 18561
+        },
+        {
+          "date": "2026-08-07",
+          "views": 4619
+        },
+        {
+          "date": "2026-08-08",
+          "views": 2832
+        },
+        {
+          "date": "2026-08-09",
+          "views": 2675
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=J.%20Robert%20Oppenheimer&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=J._Robert_Oppenheimer",
+      "article_url": "https://it.wikipedia.org/wiki/J._Robert_Oppenheimer",
+      "description": "Fisico statunitense, direttore scientifico del Progetto Manhattan, compare nel film «Oppenheimer» trasmesso il 5 agosto 2026.",
+      "image_filename": "Oppenheimer_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/1280px-Oppenheimer_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Oppenheimer_(cropped).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 7,
+      "article": "wiki.phtml",
+      "views": 93811,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 0
+        },
+        {
+          "date": "2026-08-04",
+          "views": 0
+        },
+        {
+          "date": "2026-08-05",
+          "views": 40649
+        },
+        {
+          "date": "2026-08-06",
+          "views": 50421
+        },
+        {
+          "date": "2026-08-07",
+          "views": 1732
+        },
+        {
+          "date": "2026-08-08",
+          "views": 0
+        },
+        {
+          "date": "2026-08-09",
+          "views": 1009
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=wiki.phtml&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=wiki.phtml",
+      "article_url": "https://it.wikipedia.org/wiki/wiki.phtml",
+      "description": "Pagina tecnica di Wikipedia, registra accessi anomali il 5 e 6 agosto 2026 senza una correlazione identificabile.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 8,
+      "article": "Franco_Mastantuono",
+      "views": 83169,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 2027
+        },
+        {
+          "date": "2026-08-04",
+          "views": 12548
+        },
+        {
+          "date": "2026-08-05",
+          "views": 22584
+        },
+        {
+          "date": "2026-08-06",
+          "views": 17034
+        },
+        {
+          "date": "2026-08-07",
+          "views": 19532
+        },
+        {
+          "date": "2026-08-08",
+          "views": 6787
+        },
+        {
+          "date": "2026-08-09",
+          "views": 2657
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Franco%20Mastantuono&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Franco_Mastantuono",
+      "article_url": "https://it.wikipedia.org/wiki/Franco_Mastantuono",
+      "description": "Calciatore argentino con cittadinanza italiana, passa dal Real Madrid alla Fiorentina in prestito, accordo riportato il 5 agosto 2026.",
+      "image_filename": "Franco_Mastantuono_in_2025_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Franco_Mastantuono_in_2025_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Franco_Mastantuono_in_2025_(cropped).jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Chiara_Pellacani",
+      "views": 81734,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 10735
+        },
+        {
+          "date": "2026-08-04",
+          "views": 12589
+        },
+        {
+          "date": "2026-08-05",
+          "views": 12845
+        },
+        {
+          "date": "2026-08-06",
+          "views": 19652
+        },
+        {
+          "date": "2026-08-07",
+          "views": 16906
+        },
+        {
+          "date": "2026-08-08",
+          "views": 5688
+        },
+        {
+          "date": "2026-08-09",
+          "views": 3319
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Chiara%20Pellacani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Chiara_Pellacani",
+      "article_url": "https://it.wikipedia.org/wiki/Chiara_Pellacani",
+      "description": "Tuffatrice italiana, conquista il quinto oro in cinque gare agli Europei di Parigi il 7 agosto 2026.",
+      "image_filename": "2018-10-15_Jump_1_(Diving_Girls_3m_springboard)_at_2018_Summer_Youth_Olympics_by_Sandro_Halank–109.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/2018-10-15_Jump_1_%28Diving_Girls_3m_springboard%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93109.jpg/1280px-2018-10-15_Jump_1_%28Diving_Girls_3m_springboard%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93109.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2018-10-15_Jump_1_(Diving_Girls_3m_springboard)_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93109.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Tom_Holland_(attore)",
+      "views": 81408,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 14475
+        },
+        {
+          "date": "2026-08-04",
+          "views": 12896
+        },
+        {
+          "date": "2026-08-05",
+          "views": 11786
+        },
+        {
+          "date": "2026-08-06",
+          "views": 10770
+        },
+        {
+          "date": "2026-08-07",
+          "views": 11690
+        },
+        {
+          "date": "2026-08-08",
+          "views": 9759
+        },
+        {
+          "date": "2026-08-09",
+          "views": 10032
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Tom%20Holland%20%28attore%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Tom_Holland_(attore)",
+      "article_url": "https://it.wikipedia.org/wiki/Tom_Holland_(attore)",
+      "description": "Attore inglese noto per il ruolo di Spider-Man, protagonista di «Spider-Man: Brand New Day», uscito con un debutto record al botteghino.",
+      "image_filename": "Tom_Holland_MTV_2018_(02).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tom_Holland_MTV_2018_%2802%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tom_Holland_MTV_2018_(02).jpg",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 11,
+      "article": "Odissea",
+      "views": 79973,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 14094
+        },
+        {
+          "date": "2026-08-04",
+          "views": 14571
+        },
+        {
+          "date": "2026-08-05",
+          "views": 11534
+        },
+        {
+          "date": "2026-08-06",
+          "views": 9392
+        },
+        {
+          "date": "2026-08-07",
+          "views": 10450
+        },
+        {
+          "date": "2026-08-08",
+          "views": 9974
+        },
+        {
+          "date": "2026-08-09",
+          "views": 9958
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Odissea&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Odissea",
+      "article_url": "https://it.wikipedia.org/wiki/Odissea",
+      "description": "Poema epico greco attribuito a Omero, discusso nella settimana in recensioni e approfondimenti sul film Odissea di Christopher Nolan.",
+      "image_filename": "Head_Odysseus_MAR_Sperlonga.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Head_Odysseus_MAR_Sperlonga.jpg/1280px-Head_Odysseus_MAR_Sperlonga.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Head_Odysseus_MAR_Sperlonga.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 12,
+      "article": "Zendaya",
+      "views": 79939,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 12600
+        },
+        {
+          "date": "2026-08-04",
+          "views": 12152
+        },
+        {
+          "date": "2026-08-05",
+          "views": 11430
+        },
+        {
+          "date": "2026-08-06",
+          "views": 10896
+        },
+        {
+          "date": "2026-08-07",
+          "views": 12763
+        },
+        {
+          "date": "2026-08-08",
+          "views": 9832
+        },
+        {
+          "date": "2026-08-09",
+          "views": 10266
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Zendaya&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Zendaya",
+      "article_url": "https://it.wikipedia.org/wiki/Zendaya",
+      "description": "Attrice e cantante statunitense, citata dalle cronache del 7 agosto 2026 sulla seconda cerimonia di nozze con Tom Holland nella campagna inglese.",
+      "image_filename": "Zendaya-byPhilipRomano.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Zendaya-byPhilipRomano.jpg/1280px-Zendaya-byPhilipRomano.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zendaya-byPhilipRomano.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Campionati_europei_di_nuoto_2026",
+      "views": 75156,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 6692
+        },
+        {
+          "date": "2026-08-04",
+          "views": 9973
+        },
+        {
+          "date": "2026-08-05",
+          "views": 13622
+        },
+        {
+          "date": "2026-08-06",
+          "views": 14338
+        },
+        {
+          "date": "2026-08-07",
+          "views": 11561
+        },
+        {
+          "date": "2026-08-08",
+          "views": 12370
+        },
+        {
+          "date": "2026-08-09",
+          "views": 6600
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Campionati%20europei%20di%20nuoto%202026&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Campionati_europei_di_nuoto_2026",
+      "article_url": "https://it.wikipedia.org/wiki/Campionati_europei_di_nuoto_2026",
+      "description": "Trentottesima edizione dei campionati europei di sport acquatici, in programma a Parigi dal 31 luglio al 16 agosto 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 14,
+      "article": "Ceuta",
+      "views": 72128,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 26577
+        },
+        {
+          "date": "2026-08-04",
+          "views": 15610
+        },
+        {
+          "date": "2026-08-05",
+          "views": 8169
+        },
+        {
+          "date": "2026-08-06",
+          "views": 4946
+        },
+        {
+          "date": "2026-08-07",
+          "views": 5272
+        },
+        {
+          "date": "2026-08-08",
+          "views": 4900
+        },
+        {
+          "date": "2026-08-09",
+          "views": 6654
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ceuta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Ceuta",
+      "article_url": "https://it.wikipedia.org/wiki/Ceuta",
+      "description": "Città autonoma spagnola nel Nordafrica, menzionata nella settimana nelle notizie sulla crisi migratoria al confine con il Marocco.",
+      "image_filename": "Flag_of_Ceuta.svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Ceuta.svg/1280px-Flag_of_Ceuta.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Ceuta.svg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Pavana_(Sambuca_Pistoiese)",
+      "views": 63725,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 0
+        },
+        {
+          "date": "2026-08-04",
+          "views": 0
+        },
+        {
+          "date": "2026-08-05",
+          "views": 0
+        },
+        {
+          "date": "2026-08-06",
+          "views": 32870
+        },
+        {
+          "date": "2026-08-07",
+          "views": 14301
+        },
+        {
+          "date": "2026-08-08",
+          "views": 12243
+        },
+        {
+          "date": "2026-08-09",
+          "views": 4311
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pavana%20%28Sambuca%20Pistoiese%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Pavana_(Sambuca_Pistoiese)",
+      "article_url": "https://it.wikipedia.org/wiki/Pavana_(Sambuca_Pistoiese)",
+      "description": "Frazione toscana di Sambuca Pistoiese, luogo legato a Francesco Guccini, morto qui il 6 agosto 2026 e commemorato con funerali privati l'8 agosto.",
+      "image_filename": "Pavana_panorama.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Pavana_panorama.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pavana_panorama.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Nahuel_Molina",
+      "views": 62683,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 0
+        },
+        {
+          "date": "2026-08-04",
+          "views": 9437
+        },
+        {
+          "date": "2026-08-05",
+          "views": 35290
+        },
+        {
+          "date": "2026-08-06",
+          "views": 10782
+        },
+        {
+          "date": "2026-08-07",
+          "views": 3263
+        },
+        {
+          "date": "2026-08-08",
+          "views": 2127
+        },
+        {
+          "date": "2026-08-09",
+          "views": 1784
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nahuel%20Molina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Nahuel_Molina",
+      "article_url": "https://it.wikipedia.org/wiki/Nahuel_Molina",
+      "description": "Calciatore argentino e campione del mondo 2022, acquistato dalla Roma dall'Atlético Madrid il 5 agosto 2026.",
+      "image_filename": "Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/1280px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 17,
+      "article": "Volo_Pan_Am_103",
+      "views": 59036,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 12895
+        },
+        {
+          "date": "2026-08-04",
+          "views": 10639
+        },
+        {
+          "date": "2026-08-05",
+          "views": 9171
+        },
+        {
+          "date": "2026-08-06",
+          "views": 8117
+        },
+        {
+          "date": "2026-08-07",
+          "views": 6271
+        },
+        {
+          "date": "2026-08-08",
+          "views": 5408
+        },
+        {
+          "date": "2026-08-09",
+          "views": 6535
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Volo%20Pan%20Am%20103&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Volo_Pan_Am_103",
+      "article_url": "https://it.wikipedia.org/wiki/Volo_Pan_Am_103",
+      "description": "Volo della Pan Am distrutto da un attentato sopra Lockerbie nel 1988, oggetto della serie Netflix La bomba sul volo Pan Am 103 discussa nella settimana.",
+      "image_filename": "Pan_Am_Flight_103._Crashed_Lockerbie,_Scotland,_21_December_1988.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Pan_Am_Flight_103._Crashed_Lockerbie%2C_Scotland%2C_21_December_1988.jpg/1280px-Pan_Am_Flight_103._Crashed_Lockerbie%2C_Scotland%2C_21_December_1988.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pan_Am_Flight_103._Crashed_Lockerbie%2C_Scotland%2C_21_December_1988.jpg",
+      "image_license": "OGL 2",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 18,
+      "article": "Itaca_-_Il_ritorno",
+      "views": 57878,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 2523
+        },
+        {
+          "date": "2026-08-04",
+          "views": 2030
+        },
+        {
+          "date": "2026-08-05",
+          "views": 1656
+        },
+        {
+          "date": "2026-08-06",
+          "views": 1654
+        },
+        {
+          "date": "2026-08-07",
+          "views": 37674
+        },
+        {
+          "date": "2026-08-08",
+          "views": 8574
+        },
+        {
+          "date": "2026-08-09",
+          "views": 3767
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Itaca%20-%20Il%20ritorno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Itaca_-_Il_ritorno",
+      "article_url": "https://it.wikipedia.org/wiki/Itaca_-_Il_ritorno",
+      "description": "Film del 2024 di Uberto Pasolini con Ralph Fiennes e Juliette Binoche, trasmesso in prima visione in chiaro su Rai 3 il 7 agosto 2026.",
+      "image_filename": "TheReturn.png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/d/d8/TheReturn.png/1280px-TheReturn.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:TheReturn.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 19,
+      "article": "Christopher_Nolan",
+      "views": 53196,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 8488
+        },
+        {
+          "date": "2026-08-04",
+          "views": 8022
+        },
+        {
+          "date": "2026-08-05",
+          "views": 11027
+        },
+        {
+          "date": "2026-08-06",
+          "views": 7556
+        },
+        {
+          "date": "2026-08-07",
+          "views": 5926
+        },
+        {
+          "date": "2026-08-08",
+          "views": 5962
+        },
+        {
+          "date": "2026-08-09",
+          "views": 6215
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Christopher%20Nolan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Christopher_Nolan",
+      "article_url": "https://it.wikipedia.org/wiki/Christopher_Nolan",
+      "description": "Regista, sceneggiatore e produttore britannico-statunitense, citato nelle recensioni e negli approfondimenti settimanali sul suo film Odissea.",
+      "image_filename": "ChristopherNolan-byPhilipRomano_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/ChristopherNolan-byPhilipRomano_%28cropped%29.jpg/1280px-ChristopherNolan-byPhilipRomano_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ChristopherNolan-byPhilipRomano_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Episodi_di_House_of_the_Dragon_(terza_stagione)",
+      "views": 50333,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 15448
+        },
+        {
+          "date": "2026-08-04",
+          "views": 8750
+        },
+        {
+          "date": "2026-08-05",
+          "views": 5796
+        },
+        {
+          "date": "2026-08-06",
+          "views": 4789
+        },
+        {
+          "date": "2026-08-07",
+          "views": 4384
+        },
+        {
+          "date": "2026-08-08",
+          "views": 4498
+        },
+        {
+          "date": "2026-08-09",
+          "views": 6668
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20House%20of%20the%20Dragon%20%28terza%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Episodi_di_House_of_the_Dragon_(terza_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_House_of_the_Dragon_(terza_stagione)",
+      "description": "Lista degli episodi della terza stagione della serie HBO, trasmessa dal 21 giugno al 9 agosto 2026, con recensioni del penultimo episodio il 3 agosto.",
+      "image_filename": "House_of_the_Dragon_3.png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/d/d7/House_of_the_Dragon_3.png/1280px-House_of_the_Dragon_3.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:House_of_the_Dragon_3.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "L'Odissea_(miniserie_televisiva)",
+      "views": 47751,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 3569
+        },
+        {
+          "date": "2026-08-04",
+          "views": 27460
+        },
+        {
+          "date": "2026-08-05",
+          "views": 8857
+        },
+        {
+          "date": "2026-08-06",
+          "views": 2699
+        },
+        {
+          "date": "2026-08-07",
+          "views": 1892
+        },
+        {
+          "date": "2026-08-08",
+          "views": 1963
+        },
+        {
+          "date": "2026-08-09",
+          "views": 1311
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=L%27Odissea%20%28miniserie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=L%27Odissea_(miniserie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/L%27Odissea_(miniserie_televisiva)",
+      "description": "Miniserie televisiva del 1997 diretta da Andrej Končalovskij e tratta dal poema di Omero, trasmessa in prima serata su Iris il 4 agosto 2026.",
+      "image_filename": "Lodissea97.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/1/19/Lodissea97.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lodissea97.png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 22,
+      "article": "Rai",
+      "views": 46084,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 6649
+        },
+        {
+          "date": "2026-08-04",
+          "views": 6130
+        },
+        {
+          "date": "2026-08-05",
+          "views": 6838
+        },
+        {
+          "date": "2026-08-06",
+          "views": 6993
+        },
+        {
+          "date": "2026-08-07",
+          "views": 6985
+        },
+        {
+          "date": "2026-08-08",
+          "views": 6600
+        },
+        {
+          "date": "2026-08-09",
+          "views": 5889
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "Società concessionaria del servizio pubblico radiofonico e televisivo italiano, con visualizzazioni distribuite senza un picco associabile a un singolo evento nella settimana.",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 23,
+      "article": "Disastro_di_Marcinelle",
+      "views": 45202,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 0
+        },
+        {
+          "date": "2026-08-04",
+          "views": 0
+        },
+        {
+          "date": "2026-08-05",
+          "views": 0
+        },
+        {
+          "date": "2026-08-06",
+          "views": 1934
+        },
+        {
+          "date": "2026-08-07",
+          "views": 4117
+        },
+        {
+          "date": "2026-08-08",
+          "views": 28152
+        },
+        {
+          "date": "2026-08-09",
+          "views": 10999
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Disastro%20di%20Marcinelle&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Disastro_di_Marcinelle",
+      "article_url": "https://it.wikipedia.org/wiki/Disastro_di_Marcinelle",
+      "description": "Incendio nella miniera belga del Bois du Cazier che l'8 agosto 1956 uccise 262 persone, commemorato nel 70º anniversario l'8 agosto 2026.",
+      "image_filename": "Catastrophe_Marcinelle.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Catastrophe_Marcinelle.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Catastrophe_Marcinelle.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Film_del_Marvel_Cinematic_Universe",
+      "views": 44957,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 7281
+        },
+        {
+          "date": "2026-08-04",
+          "views": 6604
+        },
+        {
+          "date": "2026-08-05",
+          "views": 6579
+        },
+        {
+          "date": "2026-08-06",
+          "views": 6129
+        },
+        {
+          "date": "2026-08-07",
+          "views": 5945
+        },
+        {
+          "date": "2026-08-08",
+          "views": 5975
+        },
+        {
+          "date": "2026-08-09",
+          "views": 6444
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Film%20del%20Marvel%20Cinematic%20Universe&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Film_del_Marvel_Cinematic_Universe",
+      "article_url": "https://it.wikipedia.org/wiki/Film_del_Marvel_Cinematic_Universe",
+      "description": "Elenco dei film del franchise di supereroi prodotto dai Marvel Studios, consultato nella settimana degli incassi record di Spider-Man: Brand New Day.",
+      "image_filename": "Symbol_from_Marvel's_The_Avengers_logo.svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Symbol_from_Marvel%27s_The_Avengers_logo.svg/1280px-Symbol_from_Marvel%27s_The_Avengers_logo.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Symbol_from_Marvel%27s_The_Avengers_logo.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 25,
+      "article": "Yan_Diomande",
+      "views": 40753,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 1196
+        },
+        {
+          "date": "2026-08-04",
+          "views": 1134
+        },
+        {
+          "date": "2026-08-05",
+          "views": 2129
+        },
+        {
+          "date": "2026-08-06",
+          "views": 15067
+        },
+        {
+          "date": "2026-08-07",
+          "views": 12906
+        },
+        {
+          "date": "2026-08-08",
+          "views": 5716
+        },
+        {
+          "date": "2026-08-09",
+          "views": 2605
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Yan%20Diomande&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Yan_Diomande",
+      "article_url": "https://it.wikipedia.org/wiki/Yan_Diomande",
+      "description": "Calciatore ivoriano e attaccante del Real Madrid, acquistato dal club spagnolo il 6 agosto 2026 per una cifra record.",
+      "image_filename": "Yan_Diomande_Cote_D'Ivoire_v_Ecuador_14_June_2026-17_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Yan_Diomande_Cote_D%27Ivoire_v_Ecuador_14_June_2026-17_%28cropped%29.jpg/1280px-Yan_Diomande_Cote_D%27Ivoire_v_Ecuador_14_June_2026-17_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Yan_Diomande_Cote_D%27Ivoire_v_Ecuador_14_June_2026-17_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 26,
+      "article": "Capri_(serie_televisiva)",
+      "views": 38956,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 5650
+        },
+        {
+          "date": "2026-08-04",
+          "views": 5552
+        },
+        {
+          "date": "2026-08-05",
+          "views": 7615
+        },
+        {
+          "date": "2026-08-06",
+          "views": 8951
+        },
+        {
+          "date": "2026-08-07",
+          "views": 6738
+        },
+        {
+          "date": "2026-08-08",
+          "views": 2609
+        },
+        {
+          "date": "2026-08-09",
+          "views": 1841
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Capri%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Capri_(serie_televisiva)",
+      "article_url": "https://it.wikipedia.org/wiki/Capri_(serie_televisiva)",
+      "description": "Serie televisiva italiana trasmessa dal 2006 al 2010, riproposta su Rai 1 con la terza stagione dal 6 agosto 2026.",
+      "image_filename": "Capri-terza-stagione.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/e/eb/Capri-terza-stagione.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Capri-terza-stagione.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 27,
+      "article": "Eclissi_solare_del_12_agosto_2026",
+      "views": 38150,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 3980
+        },
+        {
+          "date": "2026-08-04",
+          "views": 3639
+        },
+        {
+          "date": "2026-08-05",
+          "views": 4164
+        },
+        {
+          "date": "2026-08-06",
+          "views": 4425
+        },
+        {
+          "date": "2026-08-07",
+          "views": 5403
+        },
+        {
+          "date": "2026-08-08",
+          "views": 7116
+        },
+        {
+          "date": "2026-08-09",
+          "views": 9423
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Eclissi%20solare%20del%2012%20agosto%202026&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Eclissi_solare_del_12_agosto_2026",
+      "article_url": "https://it.wikipedia.org/wiki/Eclissi_solare_del_12_agosto_2026",
+      "description": "Eclissi solare totale prevista per il 12 agosto 2026, oggetto di notizie sulle modalità e sui luoghi di osservazione nei giorni precedenti.",
+      "image_filename": "SE2026Aug12T.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/SE2026Aug12T.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:SE2026Aug12T.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 28,
+      "article": "House_of_the_Dragon",
+      "views": 37566,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 10508
+        },
+        {
+          "date": "2026-08-04",
+          "views": 6433
+        },
+        {
+          "date": "2026-08-05",
+          "views": 4582
+        },
+        {
+          "date": "2026-08-06",
+          "views": 3877
+        },
+        {
+          "date": "2026-08-07",
+          "views": 3552
+        },
+        {
+          "date": "2026-08-08",
+          "views": 3715
+        },
+        {
+          "date": "2026-08-09",
+          "views": 4899
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=House%20of%20the%20Dragon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=House_of_the_Dragon",
+      "article_url": "https://it.wikipedia.org/wiki/House_of_the_Dragon",
+      "description": "Serie televisiva statunitense prequel di Il Trono di Spade, con il settimo episodio della terza stagione trasmesso il 3 agosto 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 29,
+      "article": "Carmelo_Burgio",
+      "views": 35647,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 0
+        },
+        {
+          "date": "2026-08-04",
+          "views": 0
+        },
+        {
+          "date": "2026-08-05",
+          "views": 0
+        },
+        {
+          "date": "2026-08-06",
+          "views": 0
+        },
+        {
+          "date": "2026-08-07",
+          "views": 0
+        },
+        {
+          "date": "2026-08-08",
+          "views": 7415
+        },
+        {
+          "date": "2026-08-09",
+          "views": 28232
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Carmelo%20Burgio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Carmelo_Burgio",
+      "article_url": "https://it.wikipedia.org/wiki/Carmelo_Burgio",
+      "description": "Generale italiano insignito della Croce d'oro al merito dell'Arma dei carabinieri, lanciato il 9 agosto 2026 da Roberto Vannacci come candidato sindaco di Milano.",
+      "image_filename": "ANCOP_graduation_June_6,_2010_(4673837359).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/ANCOP_graduation_June_6%2C_2010_%284673837359%29.jpg/1280px-ANCOP_graduation_June_6%2C_2010_%284673837359%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ANCOP_graduation_June_6%2C_2010_(4673837359).jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 30,
+      "article": "Ginevra_Taddeucci",
+      "views": 35468,
+      "daily_views": [
+        {
+          "date": "2026-08-03",
+          "views": 0
+        },
+        {
+          "date": "2026-08-04",
+          "views": 13101
+        },
+        {
+          "date": "2026-08-05",
+          "views": 13940
+        },
+        {
+          "date": "2026-08-06",
+          "views": 3163
+        },
+        {
+          "date": "2026-08-07",
+          "views": 3501
+        },
+        {
+          "date": "2026-08-08",
+          "views": 1763
+        },
+        {
+          "date": "2026-08-09",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ginevra%20Taddeucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/03/2026,cd_max:08/09/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-08-03&end=2026-08-09&pages=Ginevra_Taddeucci",
+      "article_url": "https://it.wikipedia.org/wiki/Ginevra_Taddeucci",
+      "description": "Nuotatrice italiana specializzata nel fondo, vince la 10 km agli Europei nella Senna il 4 agosto 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}
