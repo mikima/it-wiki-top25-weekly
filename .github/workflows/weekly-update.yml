@@ -1,0 +1,112 @@
+name: Aggiornamento settimanale
+
+on:
+  schedule:
+    # Lunedì, orari in UTC: 10:00 UTC = 12:00 in Italia con l'ora legale, 11:00 con l'ora solare.
+    - cron: "0 10 * * 1"
+    # Secondo tentativo, se alle 10 i dati della domenica non erano ancora disponibili.
+    - cron: "0 16 * * 1"
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "Settimana ISO da elaborare (YYYY-WW). Vuoto = la settimana appena conclusa."
+        required: false
+        default: ""
+      force:
+        description: "Rielabora anche se docs/json/YYYY-WW.json esiste già."
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scegli la settimana
+        id: week
+        env:
+          INPUT_WEEK: ${{ inputs.week }}
+          INPUT_FORCE: ${{ inputs.force }}
+        run: |
+          if [ -n "$INPUT_WEEK" ]; then
+            WEEK_ID="$INPUT_WEEK"
+          else
+            WEEK_ID=$(python3 -c "import datetime as d; y, w, _ = (d.date.today() - d.timedelta(days=7)).isocalendar(); print(f'{y}-{w:02d}')")
+          fi
+          if ! [[ "$WEEK_ID" =~ ^[0-9]{4}-[0-9]{2}$ ]]; then
+            echo "::error::Settimana non valida: $WEEK_ID (formato atteso YYYY-WW)"
+            exit 1
+          fi
+          echo "id=$WEEK_ID" >> "$GITHUB_OUTPUT"
+          echo "year=${WEEK_ID%-*}" >> "$GITHUB_OUTPUT"
+          echo "week=$((10#${WEEK_ID#*-}))" >> "$GITHUB_OUTPUT"
+          if [ -f "docs/json/$WEEK_ID.json" ] && [ "$INPUT_FORCE" != "true" ]; then
+            echo "La settimana $WEEK_ID è già pubblicata, niente da fare."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.week.outputs.skip != 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installa le dipendenze
+        if: steps.week.outputs.skip != 'true'
+        run: pip install -r requirements.txt
+
+      - name: Controlla la chiave OpenAI
+        if: steps.week.outputs.skip != 'true'
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::error::Manca il secret OPENAI_API_KEY (Settings → Secrets and variables → Actions)."
+            exit 1
+          fi
+
+      # Senza --allow-missing-days lo script fallisce se manca anche un solo giorno:
+      # meglio fallire e riprovare alle 16 che pubblicare una settimana incompleta.
+      - name: Scarica le visite della settimana
+        if: steps.week.outputs.skip != 'true'
+        run: |
+          python3 wiki-get-top-weekly-pages.py \
+            --exclude-stopwords \
+            --format json \
+            --top 30 \
+            --year "${{ steps.week.outputs.year }}" \
+            --week "${{ steps.week.outputs.week }}"
+
+      - name: Scrivi le descrizioni con OpenAI
+        if: steps.week.outputs.skip != 'true'
+        run: python3 enrich_descriptions_openai.py "${{ steps.week.outputs.id }}"
+
+      - name: Aggiorna l'elenco delle settimane
+        if: steps.week.outputs.skip != 'true'
+        run: python3 render_html.py
+
+      - name: Commit e push
+        if: steps.week.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica da pubblicare."
+            exit 0
+          fi
+          git commit -m "${{ steps.week.outputs.id }}"
+          git pull --rebase
+          git push

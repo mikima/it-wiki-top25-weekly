@@ -1,0 +1,107 @@
+name: Descrizioni OpenAI (manuale)
+
+# Solo manuale: Actions → "Descrizioni OpenAI (manuale)" → Run workflow.
+on:
+  workflow_dispatch:
+    inputs:
+      weeks:
+        description: "Settimane da elaborare, separate da spazi (es. 2026-38 2026-37). Vuoto = la settimana appena conclusa."
+        required: false
+        default: ""
+      previous_years:
+        description: "Includi la stessa settimana in tutti gli anni precedenti."
+        type: boolean
+        default: true
+      mode:
+        description: "stubs = solo descrizioni brevi o vuote; missing = solo vuote; all = riscrive tutto."
+        type: choice
+        options:
+          - stubs
+          - missing
+          - all
+        default: stubs
+      dry_run:
+        description: "Prova a secco: mostra cosa verrebbe riscritto senza chiamare OpenAI né fare commit."
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Stesso gruppo del workflow settimanale, così non scrivono in contemporanea.
+concurrency:
+  group: weekly-update
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scegli le settimane
+        id: weeks
+        env:
+          INPUT_WEEKS: ${{ inputs.weeks }}
+        run: |
+          WEEKS="$INPUT_WEEKS"
+          if [ -z "$WEEKS" ]; then
+            WEEKS=$(python3 -c "import datetime as d; y, w, _ = (d.date.today() - d.timedelta(days=7)).isocalendar(); print(f'{y}-{w:02d}')")
+          fi
+          for WEEK_ID in $WEEKS; do
+            if ! [[ "$WEEK_ID" =~ ^[0-9]{4}-[0-9]{2}$ ]]; then
+              echo "::error::Settimana non valida: $WEEK_ID (formato atteso YYYY-WW)"
+              exit 1
+            fi
+            if [ ! -f "docs/json/$WEEK_ID.json" ]; then
+              echo "::error::docs/json/$WEEK_ID.json non esiste."
+              exit 1
+            fi
+          done
+          echo "list=$WEEKS" >> "$GITHUB_OUTPUT"
+          echo "Settimane: $WEEKS"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installa le dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Controlla la chiave OpenAI
+        if: ${{ !inputs.dry_run }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::error::Manca il secret OPENAI_API_KEY (Settings → Secrets and variables → Actions)."
+            exit 1
+          fi
+
+      - name: Scrivi le descrizioni con OpenAI
+        env:
+          MODE: ${{ inputs.mode }}
+          PREVIOUS_YEARS: ${{ inputs.previous_years }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          ARGS=(--mode "$MODE")
+          if [ "$PREVIOUS_YEARS" = "true" ]; then ARGS+=(--same-week-previous-years); fi
+          if [ "$DRY_RUN" = "true" ]; then ARGS+=(--dry-run); fi
+          python3 enrich_descriptions_openai.py ${{ steps.weeks.outputs.list }} "${ARGS[@]}"
+
+      - name: Commit e push
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/json
+          if git diff --cached --quiet; then
+            echo "Nessuna descrizione modificata."
+            exit 0
+          fi
+          git commit -m "descrizioni: ${{ steps.weeks.outputs.list }}"
+          git pull --rebase
+          git push
