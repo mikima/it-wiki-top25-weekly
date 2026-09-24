@@ -302,18 +302,20 @@
     vsId: null,
     view: "list",
     filter: "tutte",
-    openArticle: null,
+    // undefined = default (N° 1 aperto su desktop, niente su mobile), null = chiuso, altrimenti la voce aperta.
+    openArticle: undefined,
   };
 
   let model = null;
   let vsData = null;
   let loadToken = 0;
   let sheetPushed = false;
-  let sheetReturnFocus = null;
+  let flipping = false;
+  let gesture = null;
+  let suppressClick = false;
 
   const els = {
     main: document.getElementById("main"),
-    sheetRoot: document.getElementById("sheet-root"),
     select: document.getElementById("week-select"),
     year: document.getElementById("year-select"),
     prev: document.getElementById("prev-week"),
@@ -547,11 +549,21 @@
     return `<div class="chips hidebar" role="group" aria-label="Filtra la classifica">${chips}</div>`;
   }
 
+  function renderItem(entry, asHero, openKey) {
+    const open = entry.key === openKey;
+    return `
+      <div class="item" data-open="${open ? 1 : 0}">
+        ${asHero ? renderHero(entry) : renderRow(entry)}
+        ${open ? renderDetail(entry) : ""}
+      </div>`;
+  }
+
   function renderList() {
     if (!model.adjacent && (state.filter === "novita" || state.filter === "crescita")) state.filter = "tutte";
     const shown = filterEntries(model, state.filter);
-    const showHero = state.filter === "tutte" && shown.length > 0;
-    const rows = (showHero ? shown.slice(1) : shown).map(renderRow).join("");
+    const showHero = state.filter === "tutte" && shown.length > 0 && !isWide();
+    const openKey = currentOpenKey();
+    const items = shown.map((entry, index) => renderItem(entry, showHero && index === 0, openKey)).join("");
     const missing = Array.isArray(model.data.missing_days) ? model.data.missing_days.length : 0;
     const incomplete =
       model.data.complete === false
@@ -567,13 +579,16 @@
         <div class="datebar-total num">${formatViews(model.total)} visite</div>
       </div>
       ${renderChips()}
-      ${showHero ? renderHero(shown[0]) : ""}
-      ${rows}
+      ${items}
       ${shown.length === 0 ? `<div class="empty">Nessuna voce corrisponde a questo filtro.</div>` : ""}
       <div class="footer">
         Fonte: <a href="https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews"${EXTERNAL_LINK_ATTRS}>Wikimedia Pageviews API</a>,
         progetto it.wikipedia, tutti gli accessi.
       </div>`;
+
+    const openEntry = findEntry(openKey);
+    document.body.classList.toggle("sheet-open", !!openEntry && !isWide());
+    if (openEntry) loadHistory(openEntry);
   }
 
   // ---------------------------------------------------------------------------
@@ -672,12 +687,49 @@
 
   function renderMain() {
     if (!model) return;
-    if (state.view === "cmp") renderCompare();
-    else renderList();
+    if (state.view === "cmp") {
+      document.body.classList.remove("sheet-open");
+      renderCompare();
+    } else {
+      renderList();
+    }
   }
 
   // ---------------------------------------------------------------------------
-  // Scheda di dettaglio
+  // Scheda di dettaglio: bottom sheet sotto i 900px, accordion in linea da 900px in su
+
+  const wideQuery = window.matchMedia("(min-width: 900px)");
+  const SWIPE_TRANSITION = "transform .19s cubic-bezier(.3, .7, .4, 1), opacity .19s ease-out";
+
+  function isWide() {
+    return wideQuery.matches;
+  }
+
+  function shownEntries() {
+    return model ? filterEntries(model, state.filter) : [];
+  }
+
+  function currentOpenKey() {
+    if (!model || state.view !== "list") return null;
+    const shown = shownEntries();
+    if (state.openArticle === undefined) {
+      return isWide() && state.filter === "tutte" && shown.length ? shown[0].key : null;
+    }
+    if (state.openArticle === null) return null;
+    return shown.some((e) => e.key === state.openArticle) ? state.openArticle : null;
+  }
+
+  // Vicine nella lista filtrata in quel momento.
+  function neighbors(key) {
+    const shown = shownEntries();
+    const index = shown.findIndex((e) => e.key === key);
+    return {
+      index,
+      total: shown.length,
+      prev: index > 0 ? shown[index - 1] : null,
+      next: index >= 0 && index < shown.length - 1 ? shown[index + 1] : null,
+    };
+  }
 
   function renderHistory(entry, histWeeks) {
     const cols = histWeeks.map(({ id, data }) => {
@@ -709,7 +761,7 @@
     const ids = index >= 0 ? state.weeks.slice(Math.max(0, index - HIST_WINDOW + 1), index + 1) : [state.weekId];
     const weekId = state.weekId;
     const datas = await Promise.all(ids.map((id) => fetchWeek(id)));
-    if (state.weekId !== weekId || state.openArticle !== entry.key) return;
+    if (state.weekId !== weekId || currentOpenKey() !== entry.key) return;
     const slot = document.getElementById("sheet-hist");
     if (!slot) return;
     slot.innerHTML = renderHistory(
@@ -718,7 +770,21 @@
     );
   }
 
-  function renderSheet(entry) {
+  function renderSheetTop(entry) {
+    const { index, total, prev, next } = neighbors(entry.key);
+    return `
+      <div class="sheet-top">
+        <span class="badge num">N° ${entry.rank}</span>
+        <div class="sheet-tools">
+          <button type="button" class="sheet-step" data-step="-1" aria-label="Voce precedente"${prev ? "" : " disabled"}>‹</button>
+          <span class="sheet-pos num">${index + 1} / ${total}</span>
+          <button type="button" class="sheet-step" data-step="1" aria-label="Voce successiva"${next ? "" : " disabled"}>›</button>
+          <button type="button" class="sheet-close" data-close aria-label="Chiudi">✕</button>
+        </div>
+      </div>`;
+  }
+
+  function renderSheetContent(entry) {
     const raw = entry.raw;
     const peakIndex = entry.daily.indexOf(entry.max);
     const daily = entry.daily
@@ -738,13 +804,7 @@
     const license = raw.image_license || "vedi licenza";
     const creditUrl = raw.image_commons_url || raw.image_url;
 
-    els.sheetRoot.innerHTML = `
-      <div class="overlay" data-close></div>
-      <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" tabindex="-1">
-        <div class="sheet-top">
-          <span class="badge num">N° ${entry.rank}</span>
-          <button type="button" class="sheet-close" data-close aria-label="Chiudi">✕</button>
-        </div>
+    return `
         ${entry.image ? `<div class="sheet-img"><img src="${escapeHtml(entry.image)}" alt="" /></div>` : ""}
         <div class="sheet-body">
           <h2 class="sheet-title" id="sheet-title">${escapeHtml(entry.title)}</h2>
@@ -780,10 +840,19 @@
               : ""
           }
         </div>
+`;
+  }
+
+  function renderDetail(entry) {
+    const role = isWide() ? 'role="region"' : 'role="dialog" aria-modal="true"';
+    return `
+      <div class="detail">
+        <div class="overlay" data-close></div>
+        <div class="sheet" ${role} aria-labelledby="sheet-title" tabindex="-1">
+          ${renderSheetTop(entry)}
+          <div class="sheet-swipe">${renderSheetContent(entry)}</div>
+        </div>
       </div>`;
-    document.body.classList.add("sheet-open");
-    els.sheetRoot.querySelector(".sheet").focus();
-    loadHistory(entry);
   }
 
   function findEntry(article) {
@@ -791,52 +860,164 @@
     return model.entries.find((e) => sameArticle(e.key, article)) || null;
   }
 
-  function showSheet(article) {
-    const entry = findEntry(article);
-    if (!entry) {
-      state.openArticle = null;
-      return false;
+  function focusSheet() {
+    const sheet = els.main.querySelector(".sheet");
+    if (sheet) sheet.focus({ preventScroll: true });
+  }
+
+  function focusRow(key) {
+    const row = Array.from(els.main.querySelectorAll("[data-article]")).find((el) => el.dataset.article === key);
+    if (row) row.focus({ preventScroll: true });
+  }
+
+  // Porta la voce aperta subito sotto l'header sticky (compensa anche il salto di un accordion chiuso sopra).
+  function scrollToOpen(tries = 0) {
+    setTimeout(() => {
+      const item = els.main.querySelector('.item[data-open="1"]');
+      if (!item) {
+        if (tries < 10) scrollToOpen(tries + 1);
+        return;
+      }
+      const header = document.querySelector(".header");
+      const top = item.getBoundingClientRect().top + window.scrollY - (header ? header.offsetHeight : 0) - 8;
+      window.scrollTo(0, Math.max(0, top));
+    }, 40);
+  }
+
+  function openArticle(key) {
+    const wide = isWide();
+    state.openArticle = key;
+    if (!wide && !sheetPushed) {
+      pushUrl();
+      sheetPushed = true;
+    } else {
+      replaceUrl();
     }
+    renderList();
+    focusSheet();
+    if (wide) scrollToOpen();
+  }
+
+  function openFromUrl(article) {
+    const entry = findEntry(article);
+    if (!entry) return false;
     state.openArticle = entry.key;
-    renderSheet(entry);
+    renderMain();
+    if (currentOpenKey() !== entry.key) return true;
+    if (isWide()) scrollToOpen();
+    else focusSheet();
     return true;
   }
 
-  function hideSheet() {
-    const hadSheet = !!els.sheetRoot.firstChild;
-    const article = state.openArticle;
-    els.sheetRoot.innerHTML = "";
-    document.body.classList.remove("sheet-open");
-    state.openArticle = null;
-    if (hadSheet && article) {
-      const target = sheetReturnFocus && document.contains(sheetReturnFocus)
-        ? sheetReturnFocus
-        : Array.from(els.main.querySelectorAll("[data-article]")).find((el) => el.dataset.article === article);
-      if (target) target.focus({ preventScroll: true });
-    }
-    sheetReturnFocus = null;
-  }
-
-  function openSheetFromUser(article, trigger) {
-    sheetReturnFocus = trigger || null;
-    if (!showSheet(article)) return;
-    pushUrl();
-    sheetPushed = true;
-  }
-
-  function closeSheetFromUser() {
-    if (!state.openArticle) return;
-    if (sheetPushed) {
+  function closeArticle() {
+    const key = currentOpenKey();
+    if (!key) return;
+    if (!isWide() && sheetPushed) {
+      // Il popstate chiude la scheda: così anche il tasto indietro del browser funziona allo stesso modo.
       sheetPushed = false;
       window.history.back();
       return;
     }
-    hideSheet();
+    state.openArticle = null;
     replaceUrl();
+    renderList();
+    focusRow(key);
+  }
+
+  function setSwipe(el, dx, animate) {
+    const width = el.clientWidth || 400;
+    el.style.transition = animate ? SWIPE_TRANSITION : "none";
+    el.style.transform = dx ? `translateX(${dx}px)` : "";
+    el.style.opacity = String(Math.max(0.35, 1 - (Math.abs(dx) / width) * 0.9));
+  }
+
+  // dir: 1 = voce successiva, -1 = precedente.
+  function flip(dir) {
+    const key = currentOpenKey();
+    if (!key || flipping) return;
+    const { prev, next } = neighbors(key);
+    const target = dir > 0 ? next : prev;
+    if (!target) return;
+    if (isWide()) {
+      openArticle(target.key);
+      return;
+    }
+    const sheet = els.main.querySelector(".sheet");
+    const swipe = sheet && sheet.querySelector(".sheet-swipe");
+    if (!swipe) return;
+    flipping = true;
+    const width = sheet.clientWidth || 400;
+    setSwipe(swipe, -dir * width, true);
+    setTimeout(() => {
+      const focusedStep = document.activeElement?.dataset?.step;
+      sheet.scrollTop = 0;
+      state.openArticle = target.key;
+      replaceUrl();
+      sheet.querySelector(".sheet-top").outerHTML = renderSheetTop(target);
+      swipe.innerHTML = renderSheetContent(target);
+      if (focusedStep) {
+        const button = sheet.querySelector(`[data-step="${focusedStep}"]`);
+        (button && !button.disabled ? button : sheet).focus({ preventScroll: true });
+      }
+      setSwipe(swipe, dir * width * 0.6, false);
+      // Forza il reflow: la posizione di partenza viene applicata prima della transition verso 0.
+      void swipe.offsetWidth;
+      setSwipe(swipe, 0, true);
+      flipping = false;
+      loadHistory(target);
+    }, 190);
+  }
+
+  // Swipe orizzontale fra le voci (solo mobile).
+  function onPointerDown(event) {
+    if (isWide() || flipping) return;
+    if (event.pointerType === "mouse" && event.button !== 0) return;
+    const swipe = event.target.closest(".sheet-swipe");
+    if (!swipe) return;
+    gesture = { x: event.clientX, y: event.clientY, id: event.pointerId, axis: null, dx: 0, swipe };
+  }
+
+  function onPointerMove(event) {
+    const g = gesture;
+    if (!g || event.pointerId !== g.id || flipping) return;
+    const dx = event.clientX - g.x;
+    const dy = event.clientY - g.y;
+    if (!g.axis) {
+      if (Math.abs(dx) > 10 && Math.abs(dx) > Math.abs(dy) * 1.2) {
+        g.axis = "x";
+        try {
+          g.swipe.setPointerCapture(g.id);
+        } catch (error) {
+          // setPointerCapture può fallire se il puntatore è già stato rilasciato.
+        }
+      } else if (Math.abs(dy) > 10) {
+        g.axis = "y";
+      }
+    }
+    if (g.axis !== "x") return;
+    const { prev, next } = neighbors(currentOpenKey());
+    g.dx = (dx < 0 ? next : prev) ? dx : dx * 0.25;
+    setSwipe(g.swipe, g.dx, false);
+  }
+
+  function onPointerEnd(event) {
+    const g = gesture;
+    if (!g || event.pointerId !== g.id) return;
+    gesture = null;
+    if (g.axis !== "x") return;
+    suppressClick = true;
+    setTimeout(() => {
+      suppressClick = false;
+    }, 0);
+    const width = g.swipe.clientWidth || 400;
+    const { prev, next } = neighbors(currentOpenKey());
+    const target = g.dx < 0 ? next : prev;
+    if (target && Math.abs(g.dx) > Math.min(90, width * 0.22)) flip(g.dx < 0 ? 1 : -1);
+    else setSwipe(g.swipe, 0, true);
   }
 
   function trapFocus(event) {
-    const sheet = els.sheetRoot.querySelector(".sheet");
+    const sheet = els.main.querySelector(".sheet");
     if (!sheet) return;
     const focusable = Array.from(sheet.querySelectorAll("a[href], button:not([disabled])"));
     if (!focusable.length) return;
@@ -897,7 +1078,7 @@
 
   function goToWeek(weekId) {
     if (!weekId || weekId === state.weekId) return;
-    hideSheet();
+    state.openArticle = undefined;
     sheetPushed = false;
     state.weekId = weekId;
     state.vsId = defaultVs(weekId);
@@ -909,6 +1090,8 @@
   function setView(view) {
     if (view === state.view) return;
     state.view = view;
+    state.openArticle = undefined;
+    sheetPushed = false;
     pushUrl();
     renderHeader();
     if (view === "cmp") loadVs();
@@ -944,15 +1127,39 @@
 
   els.tabs.forEach((tab) => tab.addEventListener("click", () => setView(tab.dataset.view)));
 
+  // Dopo uno swipe orizzontale il click che segue non deve aprire link.
+  els.main.addEventListener(
+    "click",
+    (event) => {
+      if (!suppressClick) return;
+      event.preventDefault();
+      event.stopPropagation();
+    },
+    true
+  );
+
   els.main.addEventListener("click", (event) => {
+    if (event.target.closest("[data-close]")) {
+      closeArticle();
+      return;
+    }
+    const step = event.target.closest("[data-step]");
+    if (step) {
+      if (!step.disabled) flip(Number(step.dataset.step));
+      return;
+    }
     const row = event.target.closest("[data-article]");
     if (row) {
-      openSheetFromUser(row.dataset.article, row);
+      if (isWide() && row.dataset.article === currentOpenKey()) closeArticle();
+      else openArticle(row.dataset.article);
       return;
     }
     const chip = event.target.closest("[data-filter]");
     if (chip) {
       state.filter = chip.dataset.filter;
+      state.openArticle = undefined;
+      sheetPushed = false;
+      replaceUrl();
       renderList();
       const active = els.main.querySelector(`[data-filter="${state.filter}"]`);
       if (active) active.focus();
@@ -966,44 +1173,62 @@
     if (event.target.id === "vs-select") setVs(event.target.value);
   });
 
-  els.sheetRoot.addEventListener("click", (event) => {
-    if (event.target.closest("[data-close]")) closeSheetFromUser();
-  });
+  els.main.addEventListener("pointerdown", onPointerDown);
+  els.main.addEventListener("pointermove", onPointerMove);
+  els.main.addEventListener("pointerup", onPointerEnd);
+  els.main.addEventListener("pointercancel", onPointerEnd);
 
   document.addEventListener("keydown", (event) => {
-    if (!state.openArticle) return;
+    if (!currentOpenKey()) return;
+    if (event.altKey || event.ctrlKey || event.metaKey) return;
+    if (/^(SELECT|INPUT|TEXTAREA)$/.test(event.target.tagName)) return;
     if (event.key === "Escape") {
       event.preventDefault();
-      closeSheetFromUser();
-    } else if (event.key === "Tab") {
+      closeArticle();
+    } else if (event.key === "ArrowRight") {
+      event.preventDefault();
+      flip(1);
+    } else if (event.key === "ArrowLeft") {
+      event.preventDefault();
+      flip(-1);
+    } else if (event.key === "Tab" && !isWide()) {
       trapFocus(event);
     }
+  });
+
+  wideQuery.addEventListener("change", () => {
+    gesture = null;
+    renderMain();
   });
 
   window.addEventListener("popstate", () => {
     const url = readUrl();
     sheetPushed = false;
+    const previousKey = currentOpenKey();
     const weekChanged = url.week && url.week !== state.weekId;
     state.view = url.view;
     if (weekChanged) {
-      hideSheet();
       state.weekId = url.week;
       state.vsId = url.vs || defaultVs(url.week);
+      state.openArticle = undefined;
       load().then(() => {
-        if (url.article) showSheet(url.article);
+        if (url.article) openFromUrl(url.article);
       });
       return;
     }
-    const vsChanged = (url.vs || defaultVs(state.weekId)) !== state.vsId;
-    state.vsId = url.vs || defaultVs(state.weekId);
+    const vsId = url.vs || defaultVs(state.weekId);
+    const vsChanged = vsId !== state.vsId;
+    state.vsId = vsId;
+    if (url.article) {
+      const entry = findEntry(url.article);
+      state.openArticle = entry ? entry.key : null;
+    } else if (typeof state.openArticle === "string") {
+      state.openArticle = null;
+    }
     renderHeader();
     if (state.view === "cmp" && vsChanged) loadVs();
     else renderMain();
-    if (url.article) {
-      if (!state.openArticle || !sameArticle(url.article, state.openArticle)) showSheet(url.article);
-    } else {
-      hideSheet();
-    }
+    if (previousKey && !currentOpenKey()) focusRow(previousKey);
   });
 
   // ---------------------------------------------------------------------------
@@ -1030,7 +1255,7 @@
     state.vsId = url.vs || defaultVs(weekId);
     replaceUrl();
     await load();
-    if (url.article && showSheet(url.article)) {
+    if (url.article && openFromUrl(url.article)) {
       sheetPushed = false;
       replaceUrl();
     }
