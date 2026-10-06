@@ -91,6 +91,7 @@ jobs:
 
       - name: Scrivi le descrizioni con OpenAI
         if: steps.week.outputs.skip != 'true'
+        continue-on-error: true
         run: python3 enrich_descriptions_openai.py "${{ steps.week.outputs.id }}"
 
       - name: Aggiorna l'elenco delle settimane
