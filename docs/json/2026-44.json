@@ -1,0 +1,1351 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2026,
+  "week": 44,
+  "start_date": "2026-10-26",
+  "end_date": "2026-11-01",
+  "days": [
+    "2026-10-26",
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
+  ],
+  "available_days": [
+    "2026-10-26",
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
+  ],
+  "complete": true,
+  "missing_days": [],
+  "total_articles": 2878,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Harry_Kane",
+      "views": 140788,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 31902
+        },
+        {
+          "date": "2026-10-27",
+          "views": 82517
+        },
+        {
+          "date": "2026-10-28",
+          "views": 14042
+        },
+        {
+          "date": "2026-10-29",
+          "views": 5161
+        },
+        {
+          "date": "2026-10-30",
+          "views": 2638
+        },
+        {
+          "date": "2026-10-31",
+          "views": 2628
+        },
+        {
+          "date": "2026-11-01",
+          "views": 1900
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Harry%20Kane&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Harry_Kane",
+      "article_url": "https://it.wikipedia.org/wiki/Harry_Kane",
+      "description": "Calciatore inglese del Bayern Monaco e capitano della nazionale, vince il Pallone d'oro 2026 il 26 ottobre.",
+      "image_filename": "Harry_Kane_England_v_Ghana_23_June_2026-219_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/1280px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-219_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 2,
+      "article": "Patrick_Stewart",
+      "views": 123757,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 0
+        },
+        {
+          "date": "2026-10-27",
+          "views": 0
+        },
+        {
+          "date": "2026-10-28",
+          "views": 0
+        },
+        {
+          "date": "2026-10-29",
+          "views": 52472
+        },
+        {
+          "date": "2026-10-30",
+          "views": 54521
+        },
+        {
+          "date": "2026-10-31",
+          "views": 11902
+        },
+        {
+          "date": "2026-11-01",
+          "views": 4862
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Patrick%20Stewart&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Patrick_Stewart",
+      "article_url": "https://it.wikipedia.org/wiki/Patrick_Stewart",
+      "description": "Attore britannico noto per i ruoli in Star Trek e X-Men, muore il 29 ottobre 2026 a 86 anni.",
+      "image_filename": "Patrick_Stewart_by_Gage_Skidmore_2.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/1280px-Patrick_Stewart_by_Gage_Skidmore_2.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Patrick_Stewart_by_Gage_Skidmore_2.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 3,
+      "article": "Andrea_Kimi_Antonelli",
+      "views": 120390,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 22582
+        },
+        {
+          "date": "2026-10-27",
+          "views": 7568
+        },
+        {
+          "date": "2026-10-28",
+          "views": 4293
+        },
+        {
+          "date": "2026-10-29",
+          "views": 3521
+        },
+        {
+          "date": "2026-10-30",
+          "views": 3966
+        },
+        {
+          "date": "2026-10-31",
+          "views": 7330
+        },
+        {
+          "date": "2026-11-01",
+          "views": 71130
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andrea%20Kimi%20Antonelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Andrea_Kimi_Antonelli",
+      "article_url": "https://it.wikipedia.org/wiki/Andrea_Kimi_Antonelli",
+      "description": "Pilota automobilistico italiano della Mercedes, conquista il titolo mondiale di Formula 1 il 1º novembre 2026.",
+      "image_filename": "2026-08-23_Motorsport,_Formel_1,_Großer_Preis_der_Niederlande_2026_STP_3010_(cropped2).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2026-08-23_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2026_STP_3010_%28cropped2%29.jpg/1280px-2026-08-23_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2026_STP_3010_%28cropped2%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2026-08-23_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2026_STP_3010_(cropped2).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 4,
+      "article": "Pallone_d'oro",
+      "views": 108473,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 38541
+        },
+        {
+          "date": "2026-10-27",
+          "views": 46618
+        },
+        {
+          "date": "2026-10-28",
+          "views": 9669
+        },
+        {
+          "date": "2026-10-29",
+          "views": 4533
+        },
+        {
+          "date": "2026-10-30",
+          "views": 3309
+        },
+        {
+          "date": "2026-10-31",
+          "views": 3391
+        },
+        {
+          "date": "2026-11-01",
+          "views": 2412
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pallone%20d%27oro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Pallone_d%27oro",
+      "article_url": "https://it.wikipedia.org/wiki/Pallone_d%27oro",
+      "description": "Premio calcistico individuale assegnato da France Football, il 26 ottobre 2026 viene vinto da Harry Kane.",
+      "image_filename": "Camp_Nou_Experience_(Ank_Kumar,_INFOSYS)_02.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Camp_Nou_Experience_%28Ank_Kumar%2C_INFOSYS%29_02.jpg/1280px-Camp_Nou_Experience_%28Ank_Kumar%2C_INFOSYS%29_02.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Camp_Nou_Experience_(Ank_Kumar%2C_INFOSYS)_02.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 5,
+      "article": "Romano_Floriani_Mussolini",
+      "views": 99683,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 988
+        },
+        {
+          "date": "2026-10-27",
+          "views": 24257
+        },
+        {
+          "date": "2026-10-28",
+          "views": 36071
+        },
+        {
+          "date": "2026-10-29",
+          "views": 15636
+        },
+        {
+          "date": "2026-10-30",
+          "views": 7838
+        },
+        {
+          "date": "2026-10-31",
+          "views": 6581
+        },
+        {
+          "date": "2026-11-01",
+          "views": 8312
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Romano%20Floriani%20Mussolini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Romano_Floriani_Mussolini",
+      "article_url": "https://it.wikipedia.org/wiki/Romano_Floriani_Mussolini",
+      "description": "Calciatore italiano della Lazio, segna il suo primo gol in Serie A il 27 ottobre 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 6,
+      "article": "Luiz_Inácio_Lula_da_Silva",
+      "views": 98550,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 63164
+        },
+        {
+          "date": "2026-10-27",
+          "views": 17773
+        },
+        {
+          "date": "2026-10-28",
+          "views": 9640
+        },
+        {
+          "date": "2026-10-29",
+          "views": 3459
+        },
+        {
+          "date": "2026-10-30",
+          "views": 1916
+        },
+        {
+          "date": "2026-10-31",
+          "views": 1518
+        },
+        {
+          "date": "2026-11-01",
+          "views": 1080
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luiz%20In%C3%A1cio%20Lula%20da%20Silva&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Luiz_In%C3%A1cio_Lula_da_Silva",
+      "article_url": "https://it.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+      "description": "Politico brasiliano e presidente del Brasile, viene rieletto per un quarto mandato nelle elezioni del 25 ottobre 2026.",
+      "image_filename": "Foto_oficial_de_Luiz_Inácio_Lula_da_Silva_(ombros)_denoise.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28ombros%29_denoise.jpg/1280px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28ombros%29_denoise.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(ombros)_denoise.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 7,
+      "article": "Jair_Bolsonaro",
+      "views": 78187,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 29103
+        },
+        {
+          "date": "2026-10-27",
+          "views": 17186
+        },
+        {
+          "date": "2026-10-28",
+          "views": 19512
+        },
+        {
+          "date": "2026-10-29",
+          "views": 7053
+        },
+        {
+          "date": "2026-10-30",
+          "views": 2253
+        },
+        {
+          "date": "2026-10-31",
+          "views": 1779
+        },
+        {
+          "date": "2026-11-01",
+          "views": 1301
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jair%20Bolsonaro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Jair_Bolsonaro",
+      "article_url": "https://it.wikipedia.org/wiki/Jair_Bolsonaro",
+      "description": "Politico ed ex presidente brasiliano, è citato nelle notizie successive alle elezioni del 25 ottobre 2026 e alla partenza del figlio Flávio per gli Stati Uniti il 27 ottobre.",
+      "image_filename": "2019-01-10_Retrato_Oficial_do_Presidente_da_República_-_Jair_Messias_Bolsonaro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/2019-01-10_Retrato_Oficial_do_Presidente_da_Rep%C3%BAblica_-_Jair_Messias_Bolsonaro.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2019-01-10_Retrato_Oficial_do_Presidente_da_Rep%C3%BAblica_-_Jair_Messias_Bolsonaro.jpg",
+      "image_license": "CC BY 3.0 br",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 8,
+      "article": "Michela_Ponzani",
+      "views": 76603,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 13046
+        },
+        {
+          "date": "2026-10-27",
+          "views": 39722
+        },
+        {
+          "date": "2026-10-28",
+          "views": 11705
+        },
+        {
+          "date": "2026-10-29",
+          "views": 3207
+        },
+        {
+          "date": "2026-10-30",
+          "views": 2933
+        },
+        {
+          "date": "2026-10-31",
+          "views": 1591
+        },
+        {
+          "date": "2026-11-01",
+          "views": 4399
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michela%20Ponzani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Michela_Ponzani",
+      "article_url": "https://it.wikipedia.org/wiki/Michela_Ponzani",
+      "description": "Storica e conduttrice televisiva italiana, replica il 26 e 27 ottobre 2026 alla querela annunciata dal presidente del Senato Ignazio La Russa.",
+      "image_filename": "Michela_Ponzani_2024_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Michela_Ponzani_2024_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michela_Ponzani_2024_(cropped).jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 9,
+      "article": "Halloween",
+      "views": 66483,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 2215
+        },
+        {
+          "date": "2026-10-27",
+          "views": 2837
+        },
+        {
+          "date": "2026-10-28",
+          "views": 3579
+        },
+        {
+          "date": "2026-10-29",
+          "views": 4731
+        },
+        {
+          "date": "2026-10-30",
+          "views": 8100
+        },
+        {
+          "date": "2026-10-31",
+          "views": 33366
+        },
+        {
+          "date": "2026-11-01",
+          "views": 11655
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Halloween&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Halloween",
+      "article_url": "https://it.wikipedia.org/wiki/Halloween",
+      "description": "Festa di origine celtica celebrata il 31 ottobre, data in cui registra il picco settimanale di visualizzazioni.",
+      "image_filename": "Jack-o'-Lantern_2003-10-31.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jack-o%27-Lantern_2003-10-31.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jack-o%27-Lantern_2003-10-31.jpg",
+      "image_license": "CC BY-SA 2.5",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 10,
+      "article": "Episodi_de_I_casi_di_Teresa_Battaglia_(terza_stagione)",
+      "views": 56324,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 19544
+        },
+        {
+          "date": "2026-10-27",
+          "views": 14089
+        },
+        {
+          "date": "2026-10-28",
+          "views": 7280
+        },
+        {
+          "date": "2026-10-29",
+          "views": 4468
+        },
+        {
+          "date": "2026-10-30",
+          "views": 3354
+        },
+        {
+          "date": "2026-10-31",
+          "views": 3173
+        },
+        {
+          "date": "2026-11-01",
+          "views": 4416
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20I%20casi%20di%20Teresa%20Battaglia%20%28terza%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Episodi_de_I_casi_di_Teresa_Battaglia_(terza_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_I_casi_di_Teresa_Battaglia_(terza_stagione)",
+      "description": "Episodi della terza stagione della serie Rai I casi di Teresa Battaglia, trasmessi su Rai 1 il 26 ottobre 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 11,
+      "article": "Samuel_Mbangula",
+      "views": 53253,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 0
+        },
+        {
+          "date": "2026-10-27",
+          "views": 0
+        },
+        {
+          "date": "2026-10-28",
+          "views": 31442
+        },
+        {
+          "date": "2026-10-29",
+          "views": 16567
+        },
+        {
+          "date": "2026-10-30",
+          "views": 3038
+        },
+        {
+          "date": "2026-10-31",
+          "views": 2206
+        },
+        {
+          "date": "2026-11-01",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Samuel%20Mbangula&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Samuel_Mbangula",
+      "article_url": "https://it.wikipedia.org/wiki/Samuel_Mbangula",
+      "description": "Calciatore belga, realizza una tripletta contro il Milan il 28 ottobre 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 12,
+      "article": "Gadi_Eisenkot",
+      "views": 50623,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 4095
+        },
+        {
+          "date": "2026-10-27",
+          "views": 25558
+        },
+        {
+          "date": "2026-10-28",
+          "views": 13807
+        },
+        {
+          "date": "2026-10-29",
+          "views": 3448
+        },
+        {
+          "date": "2026-10-30",
+          "views": 1335
+        },
+        {
+          "date": "2026-10-31",
+          "views": 664
+        },
+        {
+          "date": "2026-11-01",
+          "views": 1716
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gadi%20Eisenkot&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Gadi_Eisenkot",
+      "article_url": "https://it.wikipedia.org/wiki/Gadi_Eisenkot",
+      "description": "Generale e politico israeliano, si candida alle elezioni parlamentari del 27 ottobre 2026 come avversario di Benjamin Netanyahu.",
+      "image_filename": "Gadi_Eisenkot_2_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_2_(cropped).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 13,
+      "article": "Alexia_Putellas",
+      "views": 48031,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 25998
+        },
+        {
+          "date": "2026-10-27",
+          "views": 17029
+        },
+        {
+          "date": "2026-10-28",
+          "views": 2791
+        },
+        {
+          "date": "2026-10-29",
+          "views": 1386
+        },
+        {
+          "date": "2026-10-30",
+          "views": 827
+        },
+        {
+          "date": "2026-10-31",
+          "views": 0
+        },
+        {
+          "date": "2026-11-01",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alexia%20Putellas&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Alexia_Putellas",
+      "article_url": "https://it.wikipedia.org/wiki/Alexia_Putellas",
+      "description": "Calciatrice spagnola, vince il Pallone d'Oro femminile 2026 il 26 ottobre.",
+      "image_filename": "Premios_Goya_2026_-_Alexia_Putellas_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Premios_Goya_2026_-_Alexia_Putellas_%28cropped%29.jpg/1280px-Premios_Goya_2026_-_Alexia_Putellas_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2026_-_Alexia_Putellas_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 14,
+      "article": "Elezioni_parlamentari_in_Israele_del_2026",
+      "views": 46950,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 3118
+        },
+        {
+          "date": "2026-10-27",
+          "views": 11654
+        },
+        {
+          "date": "2026-10-28",
+          "views": 14940
+        },
+        {
+          "date": "2026-10-29",
+          "views": 8483
+        },
+        {
+          "date": "2026-10-30",
+          "views": 4133
+        },
+        {
+          "date": "2026-10-31",
+          "views": 2246
+        },
+        {
+          "date": "2026-11-01",
+          "views": 2376
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elezioni%20parlamentari%20in%20Israele%20del%202026&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Elezioni_parlamentari_in_Israele_del_2026",
+      "article_url": "https://it.wikipedia.org/wiki/Elezioni_parlamentari_in_Israele_del_2026",
+      "description": "Elezioni per il rinnovo della Knesset, svolte il 27 ottobre 2026 e concluse senza una chiara maggioranza.",
+      "image_filename": "Benjamin_Netanyahu,_February_2023.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/1280px-Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu%2C_February_2023.jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 15,
+      "article": "Diego_Moreira",
+      "views": 46249,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 0
+        },
+        {
+          "date": "2026-10-27",
+          "views": 0
+        },
+        {
+          "date": "2026-10-28",
+          "views": 0
+        },
+        {
+          "date": "2026-10-29",
+          "views": 0
+        },
+        {
+          "date": "2026-10-30",
+          "views": 0
+        },
+        {
+          "date": "2026-10-31",
+          "views": 21442
+        },
+        {
+          "date": "2026-11-01",
+          "views": 24807
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Diego%20Moreira&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Diego_Moreira",
+      "article_url": "https://it.wikipedia.org/wiki/Diego_Moreira",
+      "description": "Calciatore belga del Milan, è nominato miglior giocatore del derby vinto 3-1 contro l'Inter.",
+      "image_filename": "Diego_Moreira_Belgium_v_USA_6_July_2026-157.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Diego_Moreira_Belgium_v_USA_6_July_2026-157.jpg/1280px-Diego_Moreira_Belgium_v_USA_6_July_2026-157.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diego_Moreira_Belgium_v_USA_6_July_2026-157.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 16,
+      "article": "Episodi_di_Doc_-_Nelle_tue_mani_(quarta_stagione)",
+      "views": 45585,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 3499
+        },
+        {
+          "date": "2026-10-27",
+          "views": 2950
+        },
+        {
+          "date": "2026-10-28",
+          "views": 3035
+        },
+        {
+          "date": "2026-10-29",
+          "views": 12576
+        },
+        {
+          "date": "2026-10-30",
+          "views": 11860
+        },
+        {
+          "date": "2026-10-31",
+          "views": 6381
+        },
+        {
+          "date": "2026-11-01",
+          "views": 5284
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Doc%20-%20Nelle%20tue%20mani%20%28quarta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Episodi_di_Doc_-_Nelle_tue_mani_(quarta_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Doc_-_Nelle_tue_mani_(quarta_stagione)",
+      "description": "Elenco degli episodi della quarta stagione della serie televisiva Doc - Nelle tue mani, trasmessa su Rai 1 con una puntata il 29 ottobre 2026.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 17,
+      "article": "Facebook",
+      "views": 44094,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 7937
+        },
+        {
+          "date": "2026-10-27",
+          "views": 8014
+        },
+        {
+          "date": "2026-10-28",
+          "views": 8330
+        },
+        {
+          "date": "2026-10-29",
+          "views": 10109
+        },
+        {
+          "date": "2026-10-30",
+          "views": 4677
+        },
+        {
+          "date": "2026-10-31",
+          "views": 2593
+        },
+        {
+          "date": "2026-11-01",
+          "views": 2434
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Facebook&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Facebook",
+      "article_url": "https://it.wikipedia.org/wiki/Facebook",
+      "description": "Social network statunitense di Meta, che il 29 ottobre 2026 annuncia avvisi ai genitori sulle ricerche dei figli riguardanti autolesionismo e suicidio.",
+      "image_filename": "Screen_of_Facebook_(2).PNG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/1280px-Screen_of_Facebook_%282%29.PNG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screen_of_Facebook_(2).PNG",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 18,
+      "article": "Gustavo_Varela_(calciatore_2005)",
+      "views": 43693,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 2095
+        },
+        {
+          "date": "2026-10-27",
+          "views": 1752
+        },
+        {
+          "date": "2026-10-28",
+          "views": 11978
+        },
+        {
+          "date": "2026-10-29",
+          "views": 8602
+        },
+        {
+          "date": "2026-10-30",
+          "views": 3676
+        },
+        {
+          "date": "2026-10-31",
+          "views": 11203
+        },
+        {
+          "date": "2026-11-01",
+          "views": 4387
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gustavo%20Varela%20%28calciatore%202005%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Gustavo_Varela_(calciatore_2005)",
+      "article_url": "https://it.wikipedia.org/wiki/Gustavo_Varela_(calciatore_2005)",
+      "description": "Calciatore portoghese del Monza, indicato dalla stampa il 28 e 29 ottobre 2026 come capocannoniere della Serie A.",
+      "image_filename": "Gustavo_Varela,_Monza_vs._Sassuolo_2026-09-18_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Gustavo_Varela%2C_Monza_vs._Sassuolo_2026-09-18_%28cropped%29.jpg/1280px-Gustavo_Varela%2C_Monza_vs._Sassuolo_2026-09-18_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gustavo_Varela%2C_Monza_vs._Sassuolo_2026-09-18_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 19,
+      "article": "Flávio_Bolsonaro",
+      "views": 42913,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 14490
+        },
+        {
+          "date": "2026-10-27",
+          "views": 9618
+        },
+        {
+          "date": "2026-10-28",
+          "views": 12054
+        },
+        {
+          "date": "2026-10-29",
+          "views": 4410
+        },
+        {
+          "date": "2026-10-30",
+          "views": 1362
+        },
+        {
+          "date": "2026-10-31",
+          "views": 979
+        },
+        {
+          "date": "2026-11-01",
+          "views": 0
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fl%C3%A1vio%20Bolsonaro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Fl%C3%A1vio_Bolsonaro",
+      "article_url": "https://it.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "description": "Politico brasiliano e figlio dell'ex presidente Jair Bolsonaro, lascia il Brasile diretto negli Stati Uniti il 27 ottobre 2026.",
+      "image_filename": "Flávio.Bolsonaro.2026.05.21.(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Fl%C3%A1vio.Bolsonaro.2026.05.21.%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fl%C3%A1vio.Bolsonaro.2026.05.21.(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 20,
+      "article": "Dio_ride",
+      "views": 40653,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 1354
+        },
+        {
+          "date": "2026-10-27",
+          "views": 2299
+        },
+        {
+          "date": "2026-10-28",
+          "views": 2536
+        },
+        {
+          "date": "2026-10-29",
+          "views": 5392
+        },
+        {
+          "date": "2026-10-30",
+          "views": 6854
+        },
+        {
+          "date": "2026-10-31",
+          "views": 9006
+        },
+        {
+          "date": "2026-11-01",
+          "views": 13212
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Dio%20ride&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Dio_ride",
+      "article_url": "https://it.wikipedia.org/wiki/Dio_ride",
+      "description": "Film italiano del 2026 diretto da Giovanni Veronesi, esce nelle sale il 29 ottobre 2026.",
+      "image_filename": "Dio_ride_(film).png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/f/f8/Dio_ride_%28film%29.png/1280px-Dio_ride_%28film%29.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dio_ride_(film).png",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 21,
+      "article": "Rai",
+      "views": 39918,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 6355
+        },
+        {
+          "date": "2026-10-27",
+          "views": 6223
+        },
+        {
+          "date": "2026-10-28",
+          "views": 5981
+        },
+        {
+          "date": "2026-10-29",
+          "views": 5572
+        },
+        {
+          "date": "2026-10-30",
+          "views": 5940
+        },
+        {
+          "date": "2026-10-31",
+          "views": 5107
+        },
+        {
+          "date": "2026-11-01",
+          "views": 4740
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "Concessionaria pubblica italiana del servizio radiofonico e televisivo nazionale, senza una correlazione evidente con un singolo evento nella settimana.",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False"
+    },
+    {
+      "rank": 22,
+      "article": "Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione)",
+      "views": 39022,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 4280
+        },
+        {
+          "date": "2026-10-27",
+          "views": 4493
+        },
+        {
+          "date": "2026-10-28",
+          "views": 4500
+        },
+        {
+          "date": "2026-10-29",
+          "views": 4367
+        },
+        {
+          "date": "2026-10-30",
+          "views": 7700
+        },
+        {
+          "date": "2026-10-31",
+          "views": 6635
+        },
+        {
+          "date": "2026-11-01",
+          "views": 7047
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20La%20leggendaria%20storia%20degli%20883%20%28seconda%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione)",
+      "description": "Episodi della seconda e ultima stagione della serie Sky sugli 883, in onda dal 9 ottobre 2026, con il quinto episodio trasmesso il 30 ottobre.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 23,
+      "article": "ChatGPT",
+      "views": 38106,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 7755
+        },
+        {
+          "date": "2026-10-27",
+          "views": 6959
+        },
+        {
+          "date": "2026-10-28",
+          "views": 6860
+        },
+        {
+          "date": "2026-10-29",
+          "views": 7898
+        },
+        {
+          "date": "2026-10-30",
+          "views": 3654
+        },
+        {
+          "date": "2026-10-31",
+          "views": 2399
+        },
+        {
+          "date": "2026-11-01",
+          "views": 2581
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=ChatGPT&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=ChatGPT",
+      "article_url": "https://it.wikipedia.org/wiki/ChatGPT",
+      "description": "Chatbot di intelligenza artificiale sviluppato da OpenAI, citato il 28 e 29 ottobre nelle notizie sulla morte di una persona che aveva seguito consigli sui farmaci ricevuti dal servizio.",
+      "image_filename": "ChatGPT.png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ChatGPT.png/1280px-ChatGPT.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ChatGPT.png",
+      "image_license": "CC BY 3.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 24,
+      "article": "Bianca_Balti",
+      "views": 38006,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 19516
+        },
+        {
+          "date": "2026-10-27",
+          "views": 8280
+        },
+        {
+          "date": "2026-10-28",
+          "views": 2849
+        },
+        {
+          "date": "2026-10-29",
+          "views": 2028
+        },
+        {
+          "date": "2026-10-30",
+          "views": 1487
+        },
+        {
+          "date": "2026-10-31",
+          "views": 1775
+        },
+        {
+          "date": "2026-11-01",
+          "views": 2071
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Bianca%20Balti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Bianca_Balti",
+      "article_url": "https://it.wikipedia.org/wiki/Bianca_Balti",
+      "description": "Supermodella italiana, co-conduttrice della puntata di GialappaShow su TV8 del 26 ottobre 2026.",
+      "image_filename": "Bianca_Balti_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bianca_Balti_2010.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bianca_Balti_2010.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 25,
+      "article": "I_casi_di_Teresa_Battaglia",
+      "views": 37099,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 12987
+        },
+        {
+          "date": "2026-10-27",
+          "views": 8574
+        },
+        {
+          "date": "2026-10-28",
+          "views": 4608
+        },
+        {
+          "date": "2026-10-29",
+          "views": 2768
+        },
+        {
+          "date": "2026-10-30",
+          "views": 2065
+        },
+        {
+          "date": "2026-10-31",
+          "views": 2288
+        },
+        {
+          "date": "2026-11-01",
+          "views": 3809
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=I%20casi%20di%20Teresa%20Battaglia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=I_casi_di_Teresa_Battaglia",
+      "article_url": "https://it.wikipedia.org/wiki/I_casi_di_Teresa_Battaglia",
+      "description": "Serie televisiva italiana tratta dai romanzi di Ilaria Tuti, con gli episodi di Figlia della cenere trasmessi su Rai 1 il 26 ottobre 2026.",
+      "image_filename": "Fiori_sopra_l'inferno_-_I_casi_di_Teresa_Battaglia.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a9/Fiori_sopra_l%27inferno_-_I_casi_di_Teresa_Battaglia.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fiori_sopra_l%27inferno_-_I_casi_di_Teresa_Battaglia.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 26,
+      "article": "Lupin_(serie_televisiva_2021)",
+      "views": 35616,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 6787
+        },
+        {
+          "date": "2026-10-27",
+          "views": 5834
+        },
+        {
+          "date": "2026-10-28",
+          "views": 5227
+        },
+        {
+          "date": "2026-10-29",
+          "views": 4476
+        },
+        {
+          "date": "2026-10-30",
+          "views": 4119
+        },
+        {
+          "date": "2026-10-31",
+          "views": 3908
+        },
+        {
+          "date": "2026-11-01",
+          "views": 5265
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Lupin%20%28serie%20televisiva%202021%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Lupin_(serie_televisiva_2021)",
+      "article_url": "https://it.wikipedia.org/wiki/Lupin_(serie_televisiva_2021)",
+      "description": "Serie francese Netflix ispirata al ladro Arsenio Lupin, citata nelle notizie sulla quarta stagione e sui nuovi episodi tra il 26 ottobre e il 1º novembre 2026.",
+      "image_filename": "Lupin_logo_serieTV.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/91/Lupin_logo_serieTV.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lupin_logo_serieTV.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 27,
+      "article": "YouTube",
+      "views": 35549,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 7225
+        },
+        {
+          "date": "2026-10-27",
+          "views": 7622
+        },
+        {
+          "date": "2026-10-28",
+          "views": 7844
+        },
+        {
+          "date": "2026-10-29",
+          "views": 7675
+        },
+        {
+          "date": "2026-10-30",
+          "views": 2028
+        },
+        {
+          "date": "2026-10-31",
+          "views": 1543
+        },
+        {
+          "date": "2026-11-01",
+          "views": 1612
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=YouTube&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=YouTube",
+      "article_url": "https://it.wikipedia.org/wiki/YouTube",
+      "description": "Piattaforma web di condivisione video, citata il 28 e 29 ottobre 2026 nelle notizie sui test di Instagram per video fino a 90 minuti.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 28,
+      "article": "Kylian_Mbappé",
+      "views": 34787,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 13986
+        },
+        {
+          "date": "2026-10-27",
+          "views": 12598
+        },
+        {
+          "date": "2026-10-28",
+          "views": 3119
+        },
+        {
+          "date": "2026-10-29",
+          "views": 1492
+        },
+        {
+          "date": "2026-10-30",
+          "views": 1080
+        },
+        {
+          "date": "2026-10-31",
+          "views": 1125
+        },
+        {
+          "date": "2026-11-01",
+          "views": 1387
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Kylian%20Mbapp%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Kylian_Mbapp%C3%A9",
+      "article_url": "https://it.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+      "description": "Calciatore francese del Real Madrid e capitano della nazionale, citato il 26 ottobre 2026 nelle notizie sull'assegnazione del Pallone d'Oro e il 27 ottobre per le scuse sulle dichiarazioni riguardo Mao.",
+      "image_filename": "Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/1280px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True"
+    },
+    {
+      "rank": 29,
+      "article": "883_(gruppo_musicale)",
+      "views": 33948,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 5455
+        },
+        {
+          "date": "2026-10-27",
+          "views": 4669
+        },
+        {
+          "date": "2026-10-28",
+          "views": 4283
+        },
+        {
+          "date": "2026-10-29",
+          "views": 3588
+        },
+        {
+          "date": "2026-10-30",
+          "views": 4951
+        },
+        {
+          "date": "2026-10-31",
+          "views": 5268
+        },
+        {
+          "date": "2026-11-01",
+          "views": 5734
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=883%20%28gruppo%20musicale%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=883_(gruppo_musicale)",
+      "article_url": "https://it.wikipedia.org/wiki/883_(gruppo_musicale)",
+      "description": "Gruppo pop rock italiano fondato da Max Pezzali e Mauro Repetto, oggetto di notizie collegate alla seconda stagione della serie Nord Sud Ovest Est sugli 883.",
+      "image_filename": "Pezzali_Repetto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/93/Pezzali_Repetto.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzali_Repetto.jpg",
+      "image_license": "",
+      "image_copyrighted": ""
+    },
+    {
+      "rank": 30,
+      "article": "Un_tranquillo_funerale_di_famiglia",
+      "views": 33164,
+      "daily_views": [
+        {
+          "date": "2026-10-26",
+          "views": 1920
+        },
+        {
+          "date": "2026-10-27",
+          "views": 2160
+        },
+        {
+          "date": "2026-10-28",
+          "views": 2433
+        },
+        {
+          "date": "2026-10-29",
+          "views": 4034
+        },
+        {
+          "date": "2026-10-30",
+          "views": 5120
+        },
+        {
+          "date": "2026-10-31",
+          "views": 7575
+        },
+        {
+          "date": "2026-11-01",
+          "views": 9922
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Un%20tranquillo%20funerale%20di%20famiglia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/26/2026,cd_max:11/01/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Un_tranquillo_funerale_di_famiglia",
+      "article_url": "https://it.wikipedia.org/wiki/Un_tranquillo_funerale_di_famiglia",
+      "description": "Film italiano del 2026 diretto da Massimiliano Bruno, distribuito nelle sale dal 29 ottobre con Pietro Sermonti e Claudia Pandolfi.",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": ""
+    }
+  ]
+}
