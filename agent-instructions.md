@@ -8,14 +8,16 @@ Obiettivo: ancorare nel tempo il motivo del picco di visite. Quasi sempre il pic
 - Breve: di solito tra 60 e 160 caratteri.
 - Italiano semplice e asciutto, tono fattuale, presente storico ("muore", "vince", "va in onda").
 - Testo semplice: niente link, niente markup, niente virgolette tipografiche superflue.
-- Le date si scrivono "il 4 marzo", "il 13 e il 14 febbraio", "dal 9 al 15 maggio". **Non aggiungere l'anno** quando coincide con quello della settimana; scrivilo solo se è diverso ("morto nel 2017", "uscito nel 1997").
+- Le date si scrivono "il 4 marzo", "il 13 e il 14 febbraio", "dal 9 al 15 maggio". **Non aggiungere l'anno** alle date quando coincide con quello della settimana; scrivilo solo se è diverso ("morto nel 2017", "uscito nel 1997"). L'anno resta invece quando fa parte di un nome proprio ("Pallone d'oro 2026", "Elezioni politiche italiane del 2018").
+- **Contesto pensato per chi legge in Italia**: dai il contesto minimo che serve a capire a chi non conosce il soggetto. Per figure e temi molto noti in Italia basta poco; per figure straniere o di nicchia (politica estera, sport meno seguiti, personaggi di altri paesi) aggiungi ruolo, partito o coalizione, squadra, carica. Sintetico sì, ma senza togliere ciò che serve a capire il fatto.
+- **Chiama eventi e organizzazioni con il loro nome**: il partito o la coalizione, il tipo di elezione (presidenziali, parlamentari, ballottaggio), l'edizione del premio o del torneo, il titolo del programma. Evita perifrasi come "una coalizione avversaria di…" o "le notizie successive alle elezioni".
 
 Due strutture possibili:
-1. **Soggetto, fatto datato** — quando serve dire chi o cosa è: un contesto di poche parole (3-6), poi il fatto. Per le persone morte aggiungi in breve perché erano note.
+1. **Soggetto, fatto datato** — **sempre per le persone** (anche concorrenti, ospiti, parenti: professione, nazionalità o ruolo che spiega chi sono), e per tutto ciò che va presentato. Prima il contesto, poi il fatto. Per le persone morte aggiungi in breve perché erano note.
    - "Attore e artista marziale statunitense, muore il 20 marzo a 85 anni."
    - "Film del 2009 diretto da Quentin Tarantino, va in onda su Italia 1 il 31 luglio."
-2. **Fatto datato in apertura** — quando il soggetto è ovvio e quello che conta è il fatto.
-   - "Il 4 febbraio è ospite di Che tempo che fa, trasmessa da Rai 1."
+2. **Fatto datato in apertura** — solo per opere, puntate, eventi, ricorrenze e simili, quando il soggetto è chiaro dal titolo e quello che conta è il fatto. Non per le persone.
+   - "Il 29 dicembre viene distribuita su Netflix la quarta stagione della serie."
    - "Il 3 giugno vince la finale di Champions League contro la Juventus."
 
 ## Come trovare il motivo
@@ -47,9 +49,9 @@ Scegli uno di questi esiti, senza riempire lo spazio con frasi generiche:
 ## Da evitare
 
 - Formule sui lettori o psicologiche: "i lettori cercano", "l'interesse nasce da", "la pagina è stata molto cercata", "la curiosità del pubblico".
-- Formule vaghe senza un fatto dietro: "torna d'attualità", "è al centro dell'attenzione", "al centro delle ricerche", "oggetto di notizie collegate", "protagonista nelle cronache", "consultato durante", "citato nei servizi".
+- Formule vaghe senza un fatto dietro: "torna d'attualità", "è al centro dell'attenzione", "al centro delle ricerche", "oggetto di notizie collegate", "protagonista nelle cronache", "consultato durante", "citato nei servizi", "è citato nelle notizie", "torna nelle notizie", "è coinvolto nelle notizie". Al loro posto scrivi direttamente il fatto ("il 27 ottobre si scusa per…") oppure usa uno degli esiti della sezione precedente.
 - Descrivere la curva invece del motivo: "registra un picco di visualizzazioni", "con visualizzazioni distribuite uniformemente", "registra visualizzazioni stabili durante la settimana", "resta tra i titoli principali al botteghino". Il giorno del picco si può citare ("Picco di visite il 5 dicembre, probabilmente…") solo se segue un fatto.
-- Contesti lunghi sul soggetto: "Repubblica parlamentare dell'Europa meridionale e Stato membro dell'Unione europea" → "Stato dell'Europa meridionale" o niente.
+- Contesti ridondanti su soggetti già noti a tutti: "Repubblica parlamentare dell'Europa meridionale e Stato membro dell'Unione europea" → "Stato dell'Europa meridionale" o niente.
 - La prima persona ("penso", "non ho idea") e le ipotesi non verificabili.
 - L'anno quando coincide con quello della settimana.
 - Inventare fatti: se non ci sono elementi, usa uno degli esiti della sezione precedente.
@@ -58,7 +60,6 @@ Scegli uno di questi esiti, senza riempire lo spazio con frasi generiche:
 
 - "Capitano della Fiorentina, il 4 marzo viene trovato senza vita nella stanza d'albergo di Udine che ospitava la squadra prima della partita di Serie A."
 - "Film del 2004 diretto da Mel Gibson, va in onda il giorno di Pasqua (16 aprile) su Canale 5."
-- "Il 29 dicembre viene distribuita su Netflix la quarta stagione della serie."
 - "Paese natale di Davide Astori, il calciatore della Fiorentina trovato senza vita il 4 marzo."
 - "Figlio di Fabrizio De André, il picco è probabilmente legato al film Fabrizio De André - Principe libero, andato in onda il 13 e il 14 febbraio su Rai 1."
 - "Pilota italiano, vince il Gran Premio di Cina il 15 marzo partendo dalla pole position."

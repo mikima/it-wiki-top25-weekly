@@ -671,6 +671,65 @@ def apply_descriptions(
     return updated
 
 
+# Vague formulas that agent-instructions.md forbids; matched case-insensitively.
+BANNED_PHRASES = [
+    r"\b(?:è |viene )?citat[oa] nelle notizie",
+    r"\btorna nelle notizie",
+    r"\bè coinvolt[oa] nelle notizie",
+    r"\bal centro (?:di|dei|degli|delle|dell'attenzione|delle ricerche) (?:articoli|recensioni|notizie|servizi|commenti|discussioni|ricerche)",
+    r"\blegat[oa] alle notizie",
+    r"\btorna(?:no)? d'attualità",
+    r"\boggetto di (?:notizie|articoli)",
+    r"\bregistra (?:un picco|visualizzazioni)",
+    r"\bvisualizzazioni distribuite",
+    r"\bresta tra i titoli",
+    r"\bla pagina è stata",
+    r"\bi lettori\b",
+]
+BANNED_RE = re.compile("|".join(BANNED_PHRASES), re.IGNORECASE)
+
+
+def rewrite_banned_phrases(
+    descriptions: List[Dict[str, str]],
+    batch: Sequence[Dict[str, Any]],
+    data: Dict[str, Any],
+    instructions: str,
+    context_by_article: Dict[str, Dict[str, Any]],
+    path: Path,
+    api_key: str,
+    args: argparse.Namespace,
+) -> List[Dict[str, str]]:
+    """Ask once more for descriptions that use a forbidden vague formula."""
+    flagged: Dict[str, str] = {}
+    for result in descriptions:
+        match = BANNED_RE.search(str(result.get("description", "")))
+        if match:
+            flagged[normalize_article_title(str(result.get("article", "")))] = match.group(0)
+    if not flagged:
+        return list(descriptions)
+    items = [i for i in batch if normalize_article_title(str(i.get("article", ""))) in flagged]
+    log("Rewriting vague descriptions: " + ", ".join(f"{k} ({v})" for k, v in flagged.items()))
+    note = (
+        "\n\nATTENZIONE: per queste voci una prima versione usava formule vietate "
+        + "; ".join(f"{k}: \"{v}\"" for k, v in flagged.items())
+        + ". Riscrivile indicando direttamente il fatto (chi fa cosa e quando). "
+        "Se il fatto non è chiaro, usa \"Difficile dire il motivo del picco di visite.\" "
+        "preceduto dal contesto sul soggetto."
+    )
+    prompt = build_prompt(instructions, data, items, context_by_article, path) + note
+    retry = call_openai(api_key=api_key, model=args.model, prompt=prompt, timeout=args.timeout)
+    fixed = {
+        normalize_article_title(str(r.get("article", ""))): r
+        for r in retry
+        if str(r.get("description", "")).strip()
+    }
+    return [
+        fixed.get(normalize_article_title(str(r.get("article", ""))), r)
+        for r in descriptions
+    ]
+
+
+
 def process_file(
     path: Path,
     *,
@@ -729,6 +788,9 @@ def process_file(
                 prompt=retry_prompt,
                 timeout=args.timeout,
             )
+        descriptions = rewrite_banned_phrases(
+            descriptions, batch, data, instructions, context_by_article, path, api_key, args
+        )
         updated = apply_descriptions(data, descriptions, args.model)
         total_updated += updated
         log(f"Applied {updated} description(s) from {batch_label}")
