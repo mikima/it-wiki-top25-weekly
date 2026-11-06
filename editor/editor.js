@@ -5,7 +5,7 @@
   const DAYS = ["L", "M", "M", "G", "V", "S", "D"];
   const $ = (sel) => document.querySelector(sel);
 
-  const state = { weeks: [], weekId: null, data: null, mtime: null, edits: new Map() };
+  const state = { weeks: [], weekId: null, data: null, mtime: null, edits: new Map(), context: {} };
 
   // Same framing rules as docs/week.js (frameStyle): keep them in sync.
   function frameStyle(focus, fit) {
@@ -119,8 +119,20 @@
           <textarea spellcheck="true" lang="it">${esc(c.description)}</textarea>
           <div class="count">${c.description.length} caratteri</div>
           ${sparkline(article)}
+          ${contextPanel(article)}
         </div>
       </section>`;
+  }
+
+  function contextPanel(article) {
+    const ctx = state.context[article.article];
+    if (!ctx) return `<div class="ctx-none">Notizie usate: non salvate (descrizione precedente al salvataggio del contesto).</div>`;
+    const news = ctx.news || [];
+    const items = news.map((n) => `<li><span class="ctx-date">${esc((n.pubDate || "").slice(5, 16))}</span> ${esc(n.title)}${n.source ? ` <span class="ctx-src">${esc(n.source)}</span>` : ""}</li>`).join("");
+    return `<details class="ctx"><summary>Notizie usate (${news.length}) · ${esc((ctx.fetched_at || "").slice(0, 10))} · ${esc(ctx.model || "")}</summary>
+      ${items ? `<ol>${items}</ol>` : `<p>Nessuna notizia trovata.</p>`}
+      ${ctx.wikipedia_summary ? `<p class="ctx-sum"><b>Riassunto Wikipedia:</b> ${esc(ctx.wikipedia_summary)}</p>` : ""}
+    </details>`;
   }
 
   function render() {
@@ -252,8 +264,9 @@
     fillSelectors();
     render();
     location.hash = weekId;
-    const res = await fetch(`/api/week/${weekId}`);
+    const [res, ctxRes] = await Promise.all([fetch(`/api/week/${weekId}`), fetch(`/api/context/${weekId}`)]);
     const out = await res.json();
+    state.context = ctxRes.ok ? (await ctxRes.json()).articles || {} : {};
     if (!res.ok) { setStatus(out.error || "Errore", "err"); return; }
     state.data = out.data;
     state.mtime = out.mtime;

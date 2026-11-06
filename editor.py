@@ -24,6 +24,7 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parent
 JSON_DIR = ROOT / "docs" / "json"
 STATIC_DIR = ROOT / "editor"
+CONTEXT_DIR = ROOT / "context"
 WEEK_RE = re.compile(r"^\d{4}-\d{2}$")
 FITS = {"cover", "width", "height"}
 
@@ -96,6 +97,13 @@ class Handler(BaseHTTPRequestHandler):
         if path == "/api/weeks":
             weeks = sorted(p.stem for p in JSON_DIR.glob("*.json") if WEEK_RE.match(p.stem))
             return self.send_json({"weeks": weeks})
+        if path.startswith("/api/context/"):
+            week_id = path.rsplit("/", 1)[1]
+            if not WEEK_RE.match(week_id):
+                return self.send_json({"error": "settimana non valida"}, 400)
+            file = CONTEXT_DIR / f"{week_id}.json"
+            data = json.loads(file.read_text(encoding="utf-8")) if file.exists() else {"articles": {}}
+            return self.send_json(data)
         if path.startswith("/api/week/"):
             try:
                 file = week_path(path.rsplit("/", 1)[1])

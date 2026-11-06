@@ -26,6 +26,10 @@ DEFAULT_MODEL = "gpt-6.1-terra"
 DEFAULT_JSON_DIR = Path("docs/json")
 DEFAULT_INSTRUCTIONS = Path("agent-instructions.md")
 DEFAULT_ENV_FILE = Path(".env")
+# Context sent to the model (Wikipedia summary + Google News items), one file
+# per week. Google News results change over time, so this is the only record
+# of what each description was based on. Not published (outside docs/).
+DEFAULT_CONTEXT_DIR = Path("context")
 OPENAI_RESPONSES_URL = "https://api.openai.com/v1/responses"
 WIKIPEDIA_SUMMARY_URL = "https://it.wikipedia.org/api/rest_v1/page/summary/{title}"
 GOOGLE_NEWS_RSS_URL = "https://news.google.com/rss/search"
@@ -209,6 +213,14 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=10,
         help="Maximum Google News RSS items to pass to OpenAI per article.",
+    )
+    parser.add_argument(
+        "--context-dir",
+        help=(
+            "Where to save the context sent to the model (one JSON per week). "
+            "Default: context/ for files in docs/json, otherwise a context/ "
+            "folder next to the processed file."
+        ),
     )
     parser.add_argument(
         "--no-fetch-context",
@@ -816,6 +828,47 @@ def rewrite_banned_phrases(
 
 
 
+def save_context(
+    path: Path,
+    data: Dict[str, Any],
+    contexts: Dict[str, Dict[str, Any]],
+    args: argparse.Namespace,
+) -> None:
+    """Merge the context used for this run into context/YYYY-WW.json."""
+    if not contexts:
+        return
+    if args.context_dir:
+        out_dir = Path(args.context_dir)
+    elif path.parent.resolve() == Path(args.json_dir).resolve():
+        out_dir = DEFAULT_CONTEXT_DIR
+    else:  # files outside docs/json (tests on copies): keep context next to them
+        out_dir = path.parent / "context"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / path.name
+    saved: Dict[str, Any] = {}
+    if out_path.exists():
+        try:
+            saved = json.loads(out_path.read_text(encoding="utf-8"))
+        except ValueError:
+            saved = {}
+    articles = saved.get("articles", {}) if isinstance(saved.get("articles"), dict) else {}
+    fetched_at = time.strftime("%Y-%m-%dT%H:%M:%S%z")
+    for article, context in contexts.items():
+        articles[article] = {
+            "fetched_at": fetched_at,
+            "model": args.model,
+            **context,
+        }
+    payload = {
+        "week": path.stem,
+        "start_date": data.get("start_date"),
+        "end_date": data.get("end_date"),
+        "articles": articles,
+    }
+    write_json(out_path, payload)
+    log(f"Saved context: {out_path}")
+
+
 def process_file(
     path: Path,
     *,
@@ -840,12 +893,14 @@ def process_file(
         raise SystemExit(f"Environment variable {args.api_key_env} is not set.")
 
     total_updated = 0
+    used_context: Dict[str, Dict[str, Any]] = {}
     batches = list(chunks(articles, args.batch_size))
     for batch_index, batch in enumerate(batches, start=1):
         batch_label = f"batch {batch_index}/{len(batches)}"
         article_names = ", ".join(str(item.get("article", "")) for item in batch)
         log(f"Collecting context for {batch_label}: {article_names}")
         context_by_article = collect_context(batch, data, args=args)
+        used_context.update(context_by_article)
         prompt = build_prompt(instructions, data, batch, context_by_article, path)
         log(f"Sending {batch_label} to OpenAI ({len(batch)} article(s), model {args.model})")
         descriptions = call_openai(
@@ -886,6 +941,7 @@ def process_file(
 
     log(f"Writing updated JSON: {path}")
     write_json(path, data)
+    save_context(path, data, used_context, args)
     load_json(path)
     log(f"Validated JSON: {path}")
     return (len(articles), total_updated)
