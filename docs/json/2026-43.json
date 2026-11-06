@@ -115,7 +115,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 50,
+        "y": 30
+      }
     },
     {
       "rank": 3,
@@ -160,7 +164,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Estranea_Strippoli.jpeg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 51,
+        "y": 39
+      }
     },
     {
       "rank": 4,
@@ -205,7 +213,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Grande_fratello_-_Taricone.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 50,
+        "y": 36
+      }
     },
     {
       "rank": 5,
@@ -250,7 +262,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Christiana_Ruggeri.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 51,
+        "y": 2
+      }
     },
     {
       "rank": 6,
@@ -295,7 +311,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kasia_Smutniak_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 30,
+        "y": 38
+      }
     },
     {
       "rank": 7,
@@ -520,7 +540,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Eugenio_Finardi.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 51,
+        "y": 39
+      }
     },
     {
       "rank": 12,
@@ -565,7 +589,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 54,
+        "y": 49
+      }
     },
     {
       "rank": 13,
@@ -610,7 +638,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Balerdi_asse_om_2425.png",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 39,
+        "y": 13
+      }
     },
     {
       "rank": 14,
@@ -700,7 +732,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gustavo_Varela%2C_Monza_vs._Sassuolo_2026-09-18_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 54,
+        "y": 3
+      }
     },
     {
       "rank": 16,
@@ -745,7 +781,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pino_Daniele_2009.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 58,
+        "y": 17
+      }
     },
     {
       "rank": 17,
@@ -880,7 +920,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2016-02-01_608_Ornella_Muti.JPG",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 46,
+        "y": 19
+      }
     },
     {
       "rank": 20,
@@ -1015,7 +1059,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anna_Safroncik_D%C3%A9luge.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 51,
+        "y": 17
+      }
     },
     {
       "rank": 23,
@@ -1060,7 +1108,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Estranei.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 79,
+        "y": 26
+      }
     },
     {
       "rank": 24,
@@ -1150,7 +1202,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2026-08-23_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2026_STP_3010.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 58,
+        "y": 21
+      }
     },
     {
       "rank": 26,
@@ -1195,7 +1251,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fiori_sopra_l%27inferno_-_I_casi_di_Teresa_Battaglia.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 49,
+        "y": 48
+      }
     },
     {
       "rank": 27,
@@ -1285,7 +1345,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Irama_Musica_e_Tv_2.0_2026.png",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 58,
+        "y": 35
+      }
     },
     {
       "rank": 29,
@@ -1375,7 +1439,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Libera_(serie_TV).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 51,
+        "y": 40
+      }
     }
   ]
 }
