@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=TG_Norba_24",
       "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale all-news regionale del Gruppo Norba, è in classifica da 21 settimane consecutive. Nessun fatto individua il lieve picco del 1° settembre.",
       "image_filename": "Tg_norba24.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 2,
@@ -368,13 +369,14 @@
       "google_news_url": "https://www.google.it/search?q=TeleColor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=TeleColor",
       "article_url": "https://it.wikipedia.org/wiki/TeleColor",
-      "description": "",
+      "description": "Emittente televisiva locale italiana, presente in classifica da sei settimane consecutive. Difficile individuare il motivo del picco del 29 agosto.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 9,
@@ -593,13 +595,14 @@
       "google_news_url": "https://www.google.it/search?q=Emiliano%20Rigoni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=Emiliano_Rigoni",
       "article_url": "https://it.wikipedia.org/wiki/Emiliano_Rigoni",
-      "description": "calciatore argentino",
+      "description": "Calciatore argentino dell'Atalanta, il 27 agosto segna due gol nella vittoria per 4-0 sul Frosinone in Serie A.",
       "image_filename": "Emiliano_Rigoni_2019.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Emiliano_Rigoni_2019.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Emiliano_Rigoni_2019.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 14,
@@ -638,13 +641,14 @@
       "google_news_url": "https://www.google.it/search?q=UEFA%20Champions%20League%202018-2019&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=UEFA_Champions_League_2018-2019",
       "article_url": "https://it.wikipedia.org/wiki/UEFA_Champions_League_2018-2019",
-      "description": "64ª edizione della massima competizione UEFA per club",
+      "description": "Il 30 agosto si svolge a Montecarlo il sorteggio della fase a gironi della Champions League 2018-2019.",
       "image_filename": "LFC_Parade_2019_01.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LFC_Parade_2019_01.jpg/1280px-LFC_Parade_2019_01.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:LFC_Parade_2019_01.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 15,
@@ -683,13 +687,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo: il numero di visite resta nella media per tutta la settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 16,
@@ -728,13 +733,14 @@
       "google_news_url": "https://www.google.it/search?q=Le%20rane&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=Le_rane",
       "article_url": "https://it.wikipedia.org/wiki/Le_rane",
-      "description": "commedia di Aristofane",
+      "description": "Il 1° settembre Rai 3 trasmette Le rane di Aristofane, adattamento teatrale interpretato da Ficarra e Picone.",
       "image_filename": "Dionysos_youth_Louvre_G138.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dionysos_youth_Louvre_G138.jpg/1280px-Dionysos_youth_Louvre_G138.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dionysos_youth_Louvre_G138.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 17,
@@ -773,13 +779,14 @@
       "google_news_url": "https://www.google.it/search?q=John%20McCain&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=John_McCain",
       "article_url": "https://it.wikipedia.org/wiki/John_McCain",
-      "description": "politico e militare statunitense (1936-2018)",
+      "description": "Senatore repubblicano statunitense ed ex candidato alla presidenza, morto il 25 agosto; il 1° settembre si tengono i funerali a Washington.",
       "image_filename": "John_McCain_official_portrait_2009.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/John_McCain_official_portrait_2009.jpg/1280px-John_McCain_official_portrait_2009.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:John_McCain_official_portrait_2009.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 18,
@@ -818,13 +825,14 @@
       "google_news_url": "https://www.google.it/search?q=Marco%20Borriello&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=Marco_Borriello",
       "article_url": "https://it.wikipedia.org/wiki/Marco_Borriello",
-      "description": "dirigente sportivo e calciatore italiano (1982-)",
+      "description": "Ex attaccante italiano, il 28 agosto viene annunciato il suo trasferimento all'UD Ibiza, club della terza serie spagnola.",
       "image_filename": "Marco_Borriello.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Marco_Borriello.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marco_Borriello.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 19,
@@ -863,13 +871,14 @@
       "google_news_url": "https://www.google.it/search?q=Anna%20Magnani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=Anna_Magnani",
       "article_url": "https://it.wikipedia.org/wiki/Anna_Magnani",
-      "description": "attrice italiana (1908-1973)",
+      "description": "Attrice italiana morta nel 1973. Quasi certamente un errore nei dati: 58.504 visite il 2 settembre e zero negli altri giorni.",
       "image_filename": "Anna_Magnani_-_portrait.tif",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Anna_Magnani_-_portrait.tif/lossy-page1-1000px-Anna_Magnani_-_portrait.tif.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anna_Magnani_-_portrait.tif",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 20,
@@ -908,13 +917,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=La_casa_di_carta",
       "article_url": "https://it.wikipedia.org/wiki/La_casa_di_carta",
-      "description": "serie televisiva spagnola (2017-2021)",
+      "description": "Serie spagnola distribuita da Netflix. Nessun picco di rilievo, con visite costanti per tutta la settimana.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 21,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=UEFA%20Nations%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=UEFA_Nations_League",
       "article_url": "https://it.wikipedia.org/wiki/UEFA_Nations_League",
-      "description": "competizione calcistica continentale per squadre nazionali organizzata dalla UEFA",
+      "description": "Nuova competizione UEFA per nazionali, al via il 6 settembre; l'Italia esordisce il 7 settembre contro la Polonia.",
       "image_filename": "UEFA_Nations_League.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/1280px-UEFA_Nations_League.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Nations_League.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=Lady%20Gaga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=Lady_Gaga",
       "article_url": "https://it.wikipedia.org/wiki/Lady_Gaga",
-      "description": "cantautrice, compositrice, attrice e attivista statunitense (1986-)",
+      "description": "Cantante e attrice statunitense, il 31 agosto presenta con Bradley Cooper A Star Is Born alla 75ª Mostra del cinema di Venezia.",
       "image_filename": "Lady_Gaga_at_the_White_House_in_2023_(3).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lady_Gaga_at_the_White_House_in_2023_%283%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lady_Gaga_at_the_White_House_in_2023_(3).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1055,14 @@
       "google_news_url": "https://www.google.it/search?q=Kimi%20R%C3%A4ikk%C3%B6nen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=Kimi_R%C3%A4ikk%C3%B6nen",
       "article_url": "https://it.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
-      "description": "pilota automobilistico finlandese (1979-)",
+      "description": "Pilota finlandese della Ferrari, il 2 settembre arriva secondo al Gran Premio d'Italia di Formula 1, vinto da Lewis Hamilton.",
       "image_filename": "F12019_Schloss_Gabelhofen_(22)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:F12019_Schloss_Gabelhofen_(22)_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1101,14 @@
       "google_news_url": "https://www.google.it/search?q=Vanessa%20Redgrave&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=Vanessa_Redgrave",
       "article_url": "https://it.wikipedia.org/wiki/Vanessa_Redgrave",
-      "description": "attrice e attivista britannica",
+      "description": "Attrice britannica, il 29 agosto riceve il Leone d'oro alla carriera alla 75ª Mostra internazionale d'arte cinematografica di Venezia.",
       "image_filename": "Vanessa_Redgrave_2017.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vanessa_Redgrave_2017.jpg/1280px-Vanessa_Redgrave_2017.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vanessa_Redgrave_2017.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1147,14 @@
       "google_news_url": "https://www.google.it/search?q=Sebastian%20Vettel&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/27/2018,cd_max:09/02/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-27&end=2018-09-02&pages=Sebastian_Vettel",
       "article_url": "https://it.wikipedia.org/wiki/Sebastian_Vettel",
-      "description": "pilota automobilistico tedesco (1987-)",
+      "description": "Pilota tedesco della Ferrari, il 2 settembre chiude quarto il Gran Premio d'Italia dopo un contatto al via con Lewis Hamilton.",
       "image_filename": "Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     }
   ]
 }

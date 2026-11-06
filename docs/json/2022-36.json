@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito dal 1952, muore l'8 settembre nel castello di Balmoral a 96 anni.",
       "image_filename": "Queen_Elizabeth_II_1959.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Queen_Elizabeth_II_1959.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_1959.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Carlo%20III%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Carlo_III_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Carlo_III_del_Regno_Unito",
-      "description": "attuale re del Regno Unito e dei reami del Commonwealth",
+      "description": "Figlio di Elisabetta II, diventa re del Regno Unito l'8 settembre alla morte della madre.",
       "image_filename": "Charles_III_parliamentary_procession_2024_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Charles_III_parliamentary_procession_2024_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Charles_III_parliamentary_procession_2024_(cropped).jpg",
       "image_license": "OGL 3",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Carlo%2C%20principe%20del%20Galles&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Carlo%2C_principe_del_Galles",
       "article_url": "https://it.wikipedia.org/wiki/Carlo%2C_principe_del_Galles",
-      "description": "",
+      "description": "Erede al trono britannico, diventa re Carlo III l'8 settembre dopo la morte di Elisabetta II.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Diana%20Spencer&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Diana_Spencer",
       "article_url": "https://it.wikipedia.org/wiki/Diana_Spencer",
-      "description": "principessa del Galles (1961-1997)",
+      "description": "Principessa del Galles morta nel 1997 ed ex moglie di Carlo III, il picco segue la morte di Elisabetta II l'8 settembre.",
       "image_filename": "Diana,_Princess_of_Wales_1997_(2).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diana%2C_Princess_of_Wales_1997_(2).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorgio%20VI%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Giorgio_VI_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Giorgio_VI_del_Regno_Unito",
-      "description": "re del Regno Unito (r. 1936-1952)",
+      "description": "Re del Regno Unito fino al 1952 e padre di Elisabetta II, è ricordato dopo la morte della figlia l'8 settembre.",
       "image_filename": "King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/1280px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Camilla%20Shand&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Camilla_Shand",
       "article_url": "https://it.wikipedia.org/wiki/Camilla_Shand",
-      "description": "regina consorte del Regno Unito di Gran Bretagna e Irlanda del Nord e dei reami del Commonwealth",
+      "description": "Moglie di Carlo III, diventa regina consorte l'8 settembre con l'ascesa al trono del marito.",
       "image_filename": "Queen_Camilla_(enthroned)_2024.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Queen_Camilla_%28enthroned%29_2024.jpg/1280px-Queen_Camilla_%28enthroned%29_2024.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Camilla_(enthroned)_2024.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Filippo%20di%20Edimburgo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Filippo_di_Edimburgo",
       "article_url": "https://it.wikipedia.org/wiki/Filippo_di_Edimburgo",
-      "description": "membro della famiglia reale britannica, marito di Elisabetta II, duca di Edimburgo (1921-2021)",
+      "description": "Consorte di Elisabetta II morto nel 2021, è ricordato dopo la morte della regina l'8 settembre.",
       "image_filename": "Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Duke_of_Edinburgh_33_Allan_Warren.jpg/1280px-Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20pallavolo%20maschile%202022&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Campionato_mondiale_di_pallavolo_maschile_2022",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_pallavolo_maschile_2022",
-      "description": "",
+      "description": "L'11 settembre l'Italia batte la Polonia 3-1 nella finale e vince il quarto titolo mondiale.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=William%2C%20duca%20di%20Cambridge&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=William%2C_duca_di_Cambridge",
       "article_url": "https://it.wikipedia.org/wiki/William%2C_duca_di_Cambridge",
-      "description": "",
+      "description": "Figlio di Carlo III e Diana Spencer, diventa primo nella successione al trono l'8 settembre e principe del Galles il 9.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Castello%20di%20Balmoral&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Castello_di_Balmoral",
       "article_url": "https://it.wikipedia.org/wiki/Castello_di_Balmoral",
-      "description": "residenza estiva della famiglia reale britannica",
+      "description": "Residenza reale in Scozia, è il luogo in cui Elisabetta II muore l'8 settembre.",
       "image_filename": "Balmoral_Estate_(9)_-_geograph.org.uk_-_5046692.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Balmoral_Estate_%289%29_-_geograph.org.uk_-_5046692.jpg/1280px-Balmoral_Estate_%289%29_-_geograph.org.uk_-_5046692.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Balmoral_Estate_(9)_-_geograph.org.uk_-_5046692.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Elizabeth%20Bowes-Lyon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Elizabeth_Bowes-Lyon",
       "article_url": "https://it.wikipedia.org/wiki/Elizabeth_Bowes-Lyon",
-      "description": "regina consorte del Regno Unito",
+      "description": "Madre di Elisabetta II e moglie di Giorgio VI, è ricordata dopo la morte della figlia l'8 settembre.",
       "image_filename": "Queen_Elizabeth_the_Queen_Mother_portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg/1280px-Queen_Elizabeth_the_Queen_Mother_portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_the_Queen_Mother_portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Nazionale%20di%20pallavolo%20maschile%20dell%27Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Nazionale_di_pallavolo_maschile_dell%27Italia",
       "article_url": "https://it.wikipedia.org/wiki/Nazionale_di_pallavolo_maschile_dell%27Italia",
-      "description": "",
+      "description": "L'11 settembre batte la Polonia 3-1 nella finale dei Mondiali e conquista il quarto titolo iridato.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Edoardo%20VIII%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Edoardo_VIII_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Edoardo_VIII_del_Regno_Unito",
-      "description": "re del Regno Unito (r. 1936)",
+      "description": "Re del Regno Unito nel 1936, abdica in favore del fratello Giorgio VI, padre di Elisabetta II morta l'8 settembre.",
       "image_filename": "King_Edward_VIII_and_Queen_Mary_(1936).1.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/King_Edward_VIII_and_Queen_Mary_%281936%29.1.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:King_Edward_VIII_and_Queen_Mary_(1936).1.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Anna%2C%20principessa%20reale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Anna%2C_principessa_reale",
       "article_url": "https://it.wikipedia.org/wiki/Anna%2C_principessa_reale",
-      "description": "principessa reale britannica",
+      "description": "Figlia di Elisabetta II e sorella di Carlo III, è ricordata dopo la morte della madre l'8 settembre.",
       "image_filename": "Princess_Anne_September_2025.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Princess_Anne_September_2025.jpg/1280px-Princess_Anne_September_2025.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Princess_Anne_September_2025.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Margaret%2C%20contessa%20di%20Snowdon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Margaret%2C_contessa_di_Snowdon",
       "article_url": "https://it.wikipedia.org/wiki/Margaret%2C_contessa_di_Snowdon",
-      "description": "principessa britannica",
+      "description": "Sorella minore di Elisabetta II, morta nel 2002, è ricordata dopo la morte della regina l'8 settembre.",
       "image_filename": "Prinses_Margaret_in_het_Amstel_Hotel_(Bestanddeelnr_917-7739).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Prinses_Margaret_in_het_Amstel_Hotel_%28Bestanddeelnr_917-7739%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prinses_Margaret_in_het_Amstel_Hotel_(Bestanddeelnr_917-7739).jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Henry%2C%20duca%20di%20Sussex&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Henry%2C_duca_di_Sussex",
       "article_url": "https://it.wikipedia.org/wiki/Henry%2C_duca_di_Sussex",
-      "description": "principe britannico",
+      "description": "Figlio minore di Carlo III e Diana Spencer, è ricordato dopo la morte della nonna Elisabetta II l'8 settembre.",
       "image_filename": "Lancering_Invictus_Games_2020-7_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Lancering_Invictus_Games_2020-7_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lancering_Invictus_Games_2020-7_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Edoardo%2C%20conte%20di%20Wessex&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Edoardo%2C_conte_di_Wessex",
       "article_url": "https://it.wikipedia.org/wiki/Edoardo%2C_conte_di_Wessex",
-      "description": "",
+      "description": "Figlio minore di Elisabetta II e fratello di Carlo III, è ricordato dopo la morte della madre l'8 settembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Linea%20di%20successione%20al%20trono%20britannico&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Linea_di_successione_al_trono_britannico",
       "article_url": "https://it.wikipedia.org/wiki/Linea_di_successione_al_trono_britannico",
-      "description": "lista di un progetto Wikimedia",
+      "description": "L'8 settembre, con la morte di Elisabetta II, Carlo III diventa re e William passa al primo posto nella successione.",
       "image_filename": "Coat_of_arms_of_the_United_Kingdom_(2022,_variant_2).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coat_of_arms_of_the_United_Kingdom_%282022%2C_variant_2%29.svg/1280px-Coat_of_arms_of_the_United_Kingdom_%282022%2C_variant_2%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_United_Kingdom_(2022%2C_variant_2).svg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorgio%20V%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Giorgio_V_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Giorgio_V_del_Regno_Unito",
-      "description": "re del Regno Unito (r. 1910-1936)",
+      "description": "Re del Regno Unito dal 1910 al 1936 e nonno di Elisabetta II, è ricordato dopo la morte della regina l'8 settembre.",
       "image_filename": "King_George_1923_LCCN2014715558_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/King_George_1923_LCCN2014715558_%28cropped%29.jpg/1280px-King_George_1923_LCCN2014715558_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:King_George_1923_LCCN2014715558_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Andrea%2C%20duca%20di%20York&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Andrea%2C_duca_di_York",
       "article_url": "https://it.wikipedia.org/wiki/Andrea%2C_duca_di_York",
-      "description": "",
+      "description": "Figlio di Elisabetta II e fratello di Carlo III, è ricordato dopo la morte della madre l'8 settembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Operazione%20London%20Bridge&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Operazione_London_Bridge",
       "article_url": "https://it.wikipedia.org/wiki/Operazione_London_Bridge",
-      "description": "nome in codice del piano per il funerale della Regina Elisabetta II del Regno Unito",
+      "description": "Piano per la morte e le esequie di Elisabetta II, viene attivato l'8 settembre dopo il decesso della regina.",
       "image_filename": "Prime_Minister_Boris_Johnson_G7_Summit_Day_One_(51786436740)_(cropped_2).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Prime_Minister_Boris_Johnson_G7_Summit_Day_One_%2851786436740%29_%28cropped_2%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Boris_Johnson_G7_Summit_Day_One_(51786436740)_(cropped_2).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Vittoria%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Vittoria_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Vittoria_del_Regno_Unito",
-      "description": "regina del Regno Unito (r. 1837-1901)",
+      "description": "Regina del Regno Unito dal 1837 al 1901, è ricordata nel confronto con il lungo regno di Elisabetta II, morta l'8 settembre.",
       "image_filename": "Portrait_photograph_of_Queen_Victoria_dressed_for_the_wedding_of_The_Duke_and_Duchess_of_Albany,_1882.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Portrait_photograph_of_Queen_Victoria_dressed_for_the_wedding_of_The_Duke_and_Duchess_of_Albany%2C_1882.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Portrait_photograph_of_Queen_Victoria_dressed_for_the_wedding_of_The_Duke_and_Duchess_of_Albany%2C_1882.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20pallavolo%20maschile&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Campionato_mondiale_di_pallavolo_maschile",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_pallavolo_maschile",
-      "description": "",
+      "description": "L'11 settembre l'Italia batte la Polonia 3-1 nella finale dei Mondiali e conquista il quarto titolo.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Commonwealth%20delle%20nazioni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Commonwealth_delle_nazioni",
       "article_url": "https://it.wikipedia.org/wiki/Commonwealth_delle_nazioni",
-      "description": "organizzazione intergovernativa di 56 Stati indipendenti, 52 dei quali in precedenza parte dell'Impero britannico",
+      "description": "Organizzazione di 56 Stati in gran parte ex britannici, è al centro delle spiegazioni sulla successione di Carlo III dopo l'8 settembre.",
       "image_filename": "Commonwealth_Icon.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Commonwealth_Icon.svg/1280px-Commonwealth_Icon.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Commonwealth_Icon.svg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Liz%20Truss&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/05/2022,cd_max:09/11/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-09-05&end=2022-09-11&pages=Liz_Truss",
       "article_url": "https://it.wikipedia.org/wiki/Liz_Truss",
-      "description": "politica britannica",
+      "description": "Politica del Partito Conservatore, il 5 settembre viene eletta leader dei Tory e il 6 diventa prima ministra britannica.",
       "image_filename": "Official_portrait_of_Liz_Truss_(3x4_cropped_b).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/1280px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Liz_Truss_(3x4_cropped_b).jpg",
       "image_license": "OGL 3",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     }
   ]
 }

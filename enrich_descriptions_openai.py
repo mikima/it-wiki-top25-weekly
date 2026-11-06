@@ -88,12 +88,14 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--mode",
-        choices=("missing", "stubs", "all"),
+        choices=("missing", "stubs", "wikidata", "all"),
         default="all",
         help=(
             "Which entries to update: missing only blank descriptions; stubs "
-            "also updates short MediaWiki-style descriptions; all rewrites all "
-            "(default)."
+            "also updates short MediaWiki-style descriptions; wikidata updates "
+            "every description not written by OpenAI (description_source other "
+            "than openai/manual); all rewrites all (default). Manual descriptions "
+            "are never rewritten."
         ),
     )
     parser.add_argument(
@@ -255,7 +257,10 @@ def load_json(path: Path) -> Dict[str, Any]:
 def write_json(path: Path, data: Dict[str, Any]) -> None:
     encoded = json.dumps(data, ensure_ascii=False, indent=2)
     json.loads(encoded)
-    path.write_text(encoded + "\n", encoding="utf-8")
+    # write to a temporary file and swap, so an interruption never leaves a broken JSON
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(encoded + "\n", encoding="utf-8")
+    os.replace(tmp, path)
 
 
 def is_stub_description(value: Any) -> bool:
@@ -289,6 +294,8 @@ def selected_articles(
         elif mode == "missing" and not str(description or "").strip():
             selected.append(item)
         elif mode == "stubs" and is_stub_description(description):
+            selected.append(item)
+        elif mode == "wikidata" and item.get("description_source") not in ("openai", "manual"):
             selected.append(item)
     return selected
 

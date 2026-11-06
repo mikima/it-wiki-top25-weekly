@@ -503,13 +503,14 @@
       "google_news_url": "https://www.google.it/search?q=Altiero%20Spinelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Altiero_Spinelli",
       "article_url": "https://it.wikipedia.org/wiki/Altiero_Spinelli",
-      "description": "politico italiano (1907-1986)",
+      "description": "Politico e federalista europeo italiano, il 22 agosto riceve l'omaggio di Renzi, Merkel e Hollande alla sua tomba a Ventotene.",
       "image_filename": "Altiero_Spinelli2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/e/e8/Altiero_Spinelli2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Altiero_Spinelli2.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 12,
@@ -548,13 +549,14 @@
       "google_news_url": "https://www.google.it/search?q=Terremoto%20del%20Centro%20Italia%20del%202016&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Terremoto_del_Centro_Italia_del_2016",
       "article_url": "https://it.wikipedia.org/wiki/Terremoto_del_Centro_Italia_del_2016",
-      "description": "",
+      "description": "Il 24 agosto una scossa di magnitudo 6,0 colpisce il Centro Italia, devastando Amatrice, Accumoli e Arquata del Tronto.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 13,
@@ -593,13 +595,14 @@
       "google_news_url": "https://www.google.it/search?q=Pescara%20del%20Tronto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Pescara_del_Tronto",
       "article_url": "https://it.wikipedia.org/wiki/Pescara_del_Tronto",
-      "description": "frazione del comune italiano di Arquata del Tronto",
+      "description": "Frazione marchigiana di Arquata del Tronto, il 24 agosto viene devastata dal terremoto del Centro Italia.",
       "image_filename": "Pescara_del_Tronto_(AP)_-_28_luglio_2017.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pescara_del_Tronto_%28AP%29_-_28_luglio_2017.jpg/1280px-Pescara_del_Tronto_%28AP%29_-_28_luglio_2017.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pescara_del_Tronto_(AP)_-_28_luglio_2017.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 14,
@@ -638,13 +641,14 @@
       "google_news_url": "https://www.google.it/search?q=Terremoto%20del%20Friuli%20del%201976&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Terremoto_del_Friuli_del_1976",
       "article_url": "https://it.wikipedia.org/wiki/Terremoto_del_Friuli_del_1976",
-      "description": "terremoto del 1976 in Friuli",
+      "description": "Il sisma che colpì il Friuli il 6 maggio 1976 è richiamato nelle cronache dopo il terremoto del Centro Italia del 24 agosto.",
       "image_filename": "USGS_Shakemap_-_1976_Friuli_earthquake.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/USGS_Shakemap_-_1976_Friuli_earthquake.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:USGS_Shakemap_-_1976_Friuli_earthquake.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 15,
@@ -683,13 +687,14 @@
       "google_news_url": "https://www.google.it/search?q=Classificazione%20sismica%20dell%27Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Classificazione_sismica_dell%27Italia",
       "article_url": "https://it.wikipedia.org/wiki/Classificazione_sismica_dell%27Italia",
-      "description": "suddivisione del territorio italiano in aree caratterizzate da un comune rischio sismico",
+      "description": "Suddivisione del territorio per rischio sismico, probabilmente legata al terremoto di magnitudo 6,0 che colpisce il Centro Italia il 24 agosto.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 16,
@@ -728,13 +733,14 @@
       "google_news_url": "https://www.google.it/search?q=Lista%20di%20terremoti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Lista_di_terremoti",
       "article_url": "https://it.wikipedia.org/wiki/Lista_di_terremoti",
-      "description": "lista di un progetto Wikimedia",
+      "description": "Elenco dei principali terremoti mondiali, probabilmente consultato dopo il sisma di magnitudo 6,0 che colpisce il Centro Italia il 24 agosto.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 17,
@@ -773,13 +779,14 @@
       "google_news_url": "https://www.google.it/search?q=Terremoto%20di%20Messina%20del%201908&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Terremoto_di_Messina_del_1908",
       "article_url": "https://it.wikipedia.org/wiki/Terremoto_di_Messina_del_1908",
-      "description": "forte scossa di terremoto con maremoto avvenuta il 28 dicembre 1908 con epicentro lo Stretto di Messina",
+      "description": "Il sisma con maremoto che devastò Messina e Reggio Calabria nel 1908 è richiamato dopo il terremoto del Centro Italia del 24 agosto.",
       "image_filename": "Terremoto_del_1908_-_Antica_cartolina_con_l'indicazione_di_Reggio_e_di_Messina.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Terremoto_del_1908_-_Antica_cartolina_con_l%27indicazione_di_Reggio_e_di_Messina.jpg/1280px-Terremoto_del_1908_-_Antica_cartolina_con_l%27indicazione_di_Reggio_e_di_Messina.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Terremoto_del_1908_-_Antica_cartolina_con_l%27indicazione_di_Reggio_e_di_Messina.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 18,
@@ -818,13 +825,14 @@
       "google_news_url": "https://www.google.it/search?q=Gabriel%20Barbosa%20Almeida&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Gabriel_Barbosa_Almeida",
       "article_url": "https://it.wikipedia.org/wiki/Gabriel_Barbosa_Almeida",
-      "description": "",
+      "description": "Calciatore brasiliano del Santos, il 26 agosto l'Inter raggiunge un accordo per il suo trasferimento.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 19,
@@ -863,13 +871,14 @@
       "google_news_url": "https://www.google.it/search?q=Amatriciana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Amatriciana",
       "article_url": "https://it.wikipedia.org/wiki/Amatriciana",
-      "description": "condimento per pasta italiano",
+      "description": "Piatto tipico di Amatrice, colpita dal terremoto del 24 agosto; nei giorni successivi ristoranti e associazioni promuovono iniziative solidali.",
       "image_filename": "Bucatini_(amatriciana_rossa).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bucatini_%28amatriciana_rossa%29.jpg/1280px-Bucatini_%28amatriciana_rossa%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bucatini_(amatriciana_rossa).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 20,
@@ -908,13 +917,14 @@
       "google_news_url": "https://www.google.it/search?q=Arquata%20del%20Tronto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Arquata_del_Tronto",
       "article_url": "https://it.wikipedia.org/wiki/Arquata_del_Tronto",
-      "description": "comune italiano",
+      "description": "Comune marchigiano in provincia di Ascoli Piceno, il 24 agosto è gravemente colpito dal terremoto del Centro Italia.",
       "image_filename": "Rocca_di_Arquata_del_Tronto_-_panorama.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rocca_di_Arquata_del_Tronto_-_panorama.jpg/1280px-Rocca_di_Arquata_del_Tronto_-_panorama.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rocca_di_Arquata_del_Tronto_-_panorama.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 21,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=Terremoto%20del%20Vulture%20del%201930&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Terremoto_del_Vulture_del_1930",
       "article_url": "https://it.wikipedia.org/wiki/Terremoto_del_Vulture_del_1930",
-      "description": "",
+      "description": "Il sisma dell'Irpinia e del Vulture del 1930 è richiamato nelle cronache dopo il terremoto del Centro Italia del 24 agosto.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=Harley%20Quinn&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Harley_Quinn",
       "article_url": "https://it.wikipedia.org/wiki/Harley_Quinn",
-      "description": "personaggio immaginario dell'Universo DC",
+      "description": "Personaggio DC interpretato da Margot Robbie in Suicide Squad, uscito nelle sale italiane il 13 agosto e presente anche nella settimana precedente.",
       "image_filename": "Harley_Quinn_(Terry_Dodson).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/1d/Harley_Quinn_%28Terry_Dodson%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Harley_Quinn_(Terry_Dodson).jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1055,14 @@
       "google_news_url": "https://www.google.it/search?q=Terremoto%20di%20Umbria%20e%20Marche%20del%201997&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Terremoto_di_Umbria_e_Marche_del_1997",
       "article_url": "https://it.wikipedia.org/wiki/Terremoto_di_Umbria_e_Marche_del_1997",
-      "description": "terremoto del settembre 1997",
+      "description": "Il sisma che colpì Umbria e Marche nel 1997 è richiamato dopo il terremoto del Centro Italia del 24 agosto.",
       "image_filename": "19970926_094026_umbria-marche_shakemap.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/19970926_094026_umbria-marche_shakemap.jpg/1280px-19970926_094026_umbria-marche_shakemap.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:19970926_094026_umbria-marche_shakemap.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1101,14 @@
       "google_news_url": "https://www.google.it/search?q=Scala%20Mercalli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Scala_Mercalli",
       "article_url": "https://it.wikipedia.org/wiki/Scala_Mercalli",
-      "description": "scala di valutazione dell'intensità di un terremoto",
+      "description": "Scala che misura l'intensità dei terremoti dai danni osservati, probabilmente consultata dopo il sisma del Centro Italia del 24 agosto.",
       "image_filename": "Giuseppe_Mercalli_(cropped).JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Giuseppe_Mercalli_%28cropped%29.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Mercalli_(cropped).JPG",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1147,14 @@
       "google_news_url": "https://www.google.it/search?q=Ivan%20Zaytsev&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/22/2016,cd_max:08/28/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-08-22&end=2016-08-28&pages=Ivan_Zaytsev",
       "article_url": "https://it.wikipedia.org/wiki/Ivan_Zaytsev",
-      "description": "pallavolista italiano (1988-)",
+      "description": "Pallavolista della nazionale italiana, il 21 agosto conquista l'argento olimpico a Rio nella finale persa contro il Brasile.",
       "image_filename": "Ivan_Zaytsev_(Legavolley_2019)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ivan_Zaytsev_%28Legavolley_2019%29_%28cropped%29.jpg/1280px-Ivan_Zaytsev_%28Legavolley_2019%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ivan_Zaytsev_(Legavolley_2019)_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     }
   ]
 }

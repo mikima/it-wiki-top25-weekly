@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Oppenheimer%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Oppenheimer_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Oppenheimer_(film)",
-      "description": "film del 2023 diretto da Christopher Nolan",
+      "description": "Film di Christopher Nolan sulla vita del fisico statunitense, uscito nei cinema italiani il 23 agosto, è alla nona settimana consecutiva in classifica.",
       "image_filename": "Oppenheimer_(film).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/ab/Oppenheimer_%28film%29.png/1280px-Oppenheimer_%28film%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Oppenheimer_(film).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Robert%20Oppenheimer&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Robert_Oppenheimer",
       "article_url": "https://it.wikipedia.org/wiki/Robert_Oppenheimer",
-      "description": "",
+      "description": "Fisico statunitense a capo del Progetto Manhattan, è il protagonista del film Oppenheimer di Christopher Nolan, uscito in Italia il 23 agosto.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Myrta%20Merlino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Myrta_Merlino",
       "article_url": "https://it.wikipedia.org/wiki/Myrta_Merlino",
-      "description": "giornalista, conduttrice televisiva e autrice televisiva italiana",
+      "description": "Giornalista e conduttrice italiana, debutta alla guida di Pomeriggio Cinque su Canale 5 il 4 settembre e il 9 settembre è ospite di Verissimo.",
       "image_filename": "Myrta_Merlino.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Myrta_Merlino.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Myrta_Merlino.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=One%20Piece&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=One_Piece",
       "article_url": "https://it.wikipedia.org/wiki/One_Piece",
-      "description": "manga scritto e disegnato da Eiichirō Oda",
+      "description": "Manga di Eiichirō Oda, il cui adattamento live action viene distribuito da Netflix il 31 agosto e diventa la serie più vista in 84 Paesi.",
       "image_filename": "One_Piece_vol_1.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/5/5e/One_Piece_vol_1.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:One_Piece_vol_1.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=One%20Piece%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=One_Piece_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/One_Piece_(serie_televisiva)",
-      "description": "serie televisiva nippo-statunitense del 2023",
+      "description": "Serie live action tratta dal manga di Eiichirō Oda, distribuita da Netflix il 31 agosto, è la più vista sulla piattaforma in 84 Paesi il 4 settembre.",
       "image_filename": "One_Piece_(serie_televisiva).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/85/One_Piece_%28serie_televisiva%29.png/1280px-One_Piece_%28serie_televisiva%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:One_Piece_(serie_televisiva).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Sylvester%20Stallone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Sylvester_Stallone",
       "article_url": "https://it.wikipedia.org/wiki/Sylvester_Stallone",
-      "description": "attore, sceneggiatore, regista, produttore cinematografico e pittore statunitense (1946-)",
+      "description": "Attore statunitense noto per Rocky e Rambo, il 7 settembre riceve la cittadinanza onoraria di Gioia del Colle e l'8 incontra papa Francesco.",
       "image_filename": "Sylvester_Stallone_Cannes_2019.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sylvester_Stallone_Cannes_2019.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_Cannes_2019.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Facebook&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Facebook",
       "article_url": "https://it.wikipedia.org/wiki/Facebook",
-      "description": "social network",
+      "description": "Social network di Meta. Non emerge una causa puntuale: le visite crescono dal 7 settembre e restano alte per il resto della settimana.",
       "image_filename": "Screen_of_Facebook_(2).PNG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/1280px-Screen_of_Facebook_%282%29.PNG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screen_of_Facebook_(2).PNG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 8,
@@ -413,13 +420,14 @@
       "google_news_url": "https://www.google.it/search?q=Episodi%20di%20One%20Piece&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Episodi_di_One_Piece",
       "article_url": "https://it.wikipedia.org/wiki/Episodi_di_One_Piece",
-      "description": "lista episodi",
+      "description": "Elenco degli episodi dell'anime tratto dal manga di Eiichirō Oda, probabilmente legato al successo della serie live action distribuita da Netflix il 31 agosto.",
       "image_filename": "One_Piece_Logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/One_Piece_Logo.svg/1280px-One_Piece_Logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:One_Piece_Logo.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 10,
@@ -458,13 +466,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionati%20mondiali%20maschili%20di%20pallacanestro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Campionati_mondiali_maschili_di_pallacanestro",
       "article_url": "https://it.wikipedia.org/wiki/Campionati_mondiali_maschili_di_pallacanestro",
-      "description": "competizione sportiva internazionale a cadenza quadriennale",
+      "description": "Il 10 settembre la Germania batte la Serbia 83-77 nella finale del Mondiale di pallacanestro e conquista il primo titolo.",
       "image_filename": "FIBA_Basketball_World_Cup_logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/FIBA_Basketball_World_Cup_logo.svg/1280px-FIBA_Basketball_World_Cup_logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FIBA_Basketball_World_Cup_logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 11,
@@ -503,13 +512,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20europeo%20di%20pallavolo%20maschile%202023&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Campionato_europeo_di_pallavolo_maschile_2023",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_europeo_di_pallavolo_maschile_2023",
-      "description": "",
+      "description": "Il 6 settembre l'Italia batte 3-0 la Germania negli ottavi di finale degli Europei, disputati anche in Italia.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 12,
@@ -548,13 +558,14 @@
       "google_news_url": "https://www.google.it/search?q=US%20Open%20%28tennis%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=US_Open_(tennis)",
       "article_url": "https://it.wikipedia.org/wiki/US_Open_(tennis)",
-      "description": "torneo statunitense di tennis",
+      "description": "Ultimo torneo stagionale del Grande Slam, il 4 settembre disputa gli ottavi di finale, tra cui Sinner-Zverev.",
       "image_filename": "Usopen-horizontal-logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Usopen-horizontal-logo.svg/1280px-Usopen-horizontal-logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Usopen-horizontal-logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 13,
@@ -593,13 +604,14 @@
       "google_news_url": "https://www.google.it/search?q=Coppa%20del%20Mondo%20di%20rugby%202023&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Coppa_del_Mondo_di_rugby_2023",
       "article_url": "https://it.wikipedia.org/wiki/Coppa_del_Mondo_di_rugby_2023",
-      "description": "10ª edizione della Coppa del Mondo di rugby",
+      "description": "Il 9 settembre l'Italia esordisce nel Mondiale in Francia battendo la Namibia 52-8; il torneo si apre l'8 settembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 14,
@@ -638,13 +650,14 @@
       "google_news_url": "https://www.google.it/search?q=Sergio%20Ramos&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Sergio_Ramos",
       "article_url": "https://it.wikipedia.org/wiki/Sergio_Ramos",
-      "description": "calciatore spagnolo (1986-)",
+      "description": "Difensore spagnolo ed ex capitano del Real Madrid, il 4 settembre torna al Siviglia, club in cui aveva esordito, dopo 18 anni.",
       "image_filename": "Sergio_Ramos_Euro_2012_vs_France_01.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sergio_Ramos_Euro_2012_vs_France_01.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sergio_Ramos_Euro_2012_vs_France_01.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 15,
@@ -683,13 +696,14 @@
       "google_news_url": "https://www.google.it/search?q=Lucio%20Battisti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Lucio_Battisti",
       "article_url": "https://it.wikipedia.org/wiki/Lucio_Battisti",
-      "description": "cantautore, compositore, polistrumentista, arrangiatore e produttore discografico italiano (1943-1998)",
+      "description": "Cantautore italiano noto per brani come Emozioni e La canzone del sole, muore il 9 settembre 1998: ricorre il 25º anniversario.",
       "image_filename": "BattistiLucio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8d/BattistiLucio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:BattistiLucio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 16,
@@ -728,13 +742,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo: le visite restano nella media, con un lieve aumento il 9 settembre.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 17,
@@ -773,13 +788,14 @@
       "google_news_url": "https://www.google.it/search?q=Antonio%20Ligabue&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Antonio_Ligabue",
       "article_url": "https://it.wikipedia.org/wiki/Antonio_Ligabue",
-      "description": "pittore italiano (1899-1965)",
+      "description": "Pittore e scultore italiano del Novecento, è raccontato nel biopic Volevo nascondermi, trasmesso in prima visione il 7 settembre su Rai 3.",
       "image_filename": "Antonio_Ligabue.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/9/9f/Antonio_Ligabue.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Antonio_Ligabue.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 18,
@@ -818,13 +834,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20maschile%20di%20pallacanestro%202023&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Campionato_mondiale_maschile_di_pallacanestro_2023",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_maschile_di_pallacanestro_2023",
-      "description": "19ª edizione del campionato mondiale maschile di pallacanestro FIBA",
+      "description": "Il 10 settembre la Germania vince il Mondiale battendo la Serbia 83-77 nella finale di Manila.",
       "image_filename": "FIBA2023WorldCup.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/bc/FIBA2023WorldCup.svg/1280px-FIBA2023WorldCup.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FIBA2023WorldCup.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 19,
@@ -863,13 +880,14 @@
       "google_news_url": "https://www.google.it/search?q=Giuliano%20Montaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Giuliano_Montaldo",
       "article_url": "https://it.wikipedia.org/wiki/Giuliano_Montaldo",
-      "description": "regista, sceneggiatore e attore italiano (1930-2023)",
+      "description": "Regista italiano di Sacco e Vanzetti e L'Agnese va a morire, muore il 6 settembre a 93 anni.",
       "image_filename": "Giuliano_Montaldo_-_2012.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Giuliano_Montaldo_-_2012.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuliano_Montaldo_-_2012.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 20,
@@ -908,13 +926,14 @@
       "google_news_url": "https://www.google.it/search?q=Novak%20%C4%90okovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Novak_%C4%90okovi%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Novak_%C4%90okovi%C4%87",
-      "description": "tennista serbo (1987-)",
+      "description": "Tennista serbo, il 10 settembre batte Daniil Medvedev nella finale dello US Open e conquista il 24º titolo del Grande Slam.",
       "image_filename": "Novak_Djokovic_at_2025_Miami_Open_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Novak_Djokovic_at_2025_Miami_Open_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Novak_Djokovic_at_2025_Miami_Open_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 21,
@@ -953,13 +972,14 @@
       "google_news_url": "https://www.google.it/search?q=Luigi%20Datome&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Luigi_Datome",
       "article_url": "https://it.wikipedia.org/wiki/Luigi_Datome",
-      "description": "cestista italiano (1987-)",
+      "description": "Cestista italiano e capitano della nazionale, il 9 settembre disputa contro la Slovenia l'ultima partita della carriera prima del ritiro.",
       "image_filename": "2021-12-03_ALBA_Berlin_gegen_Pallacanestro_Olimpia_Milano_(EuroLeague_2021-22)_by_Sandro_Halank–011.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2021-12-03_ALBA_Berlin_gegen_Pallacanestro_Olimpia_Milano_%28EuroLeague_2021-22%29_by_Sandro_Halank%E2%80%93011.jpg/1280px-2021-12-03_ALBA_Berlin_gegen_Pallacanestro_Olimpia_Milano_%28EuroLeague_2021-22%29_by_Sandro_Halank%E2%80%93011.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2021-12-03_ALBA_Berlin_gegen_Pallacanestro_Olimpia_Milano_(EuroLeague_2021-22)_by_Sandro_Halank%E2%80%93011.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1018,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Last%20Duel&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=The_Last_Duel",
       "article_url": "https://it.wikipedia.org/wiki/The_Last_Duel",
-      "description": "film del 2021 diretto da Ridley Scott",
+      "description": "Film del 2021 diretto da Ridley Scott, va in onda in prima visione l'8 settembre su Canale 5.",
       "image_filename": "The_Last_Duel.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d2/The_Last_Duel.jpg/1280px-The_Last_Duel.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Last_Duel.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1064,14 @@
       "google_news_url": "https://www.google.it/search?q=Povere%20creature%21&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Povere_creature%21",
       "article_url": "https://it.wikipedia.org/wiki/Povere_creature%21",
-      "description": "film del 2023 diretto da Yorgos Lanthimos",
+      "description": "Il 9 settembre vince il Leone d'oro all'80ª Mostra internazionale d'arte cinematografica di Venezia.",
       "image_filename": "PoorThings2023.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/05/PoorThings2023.png/1280px-PoorThings2023.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:PoorThings2023.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1110,14 @@
       "google_news_url": "https://www.google.it/search?q=Guido%20Crosetto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Guido_Crosetto",
       "article_url": "https://it.wikipedia.org/wiki/Guido_Crosetto",
-      "description": "politico italiano (1963-)",
+      "description": "Ministro della Difesa del governo Meloni, il picco del 7 settembre è probabilmente legato agli articoli sulla moglie Gaia Saponaro.",
       "image_filename": "Guido_Crosetto_foto_ufficiale_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Guido_Crosetto_foto_ufficiale_%28cropped%29.jpg/1280px-Guido_Crosetto_foto_ufficiale_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Guido_Crosetto_foto_ufficiale_(cropped).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1156,14 @@
       "google_news_url": "https://www.google.it/search?q=Nazionale%20di%20pallavolo%20maschile%20dell%27Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/04/2023,cd_max:09/10/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-09-04&end=2023-09-10&pages=Nazionale_di_pallavolo_maschile_dell%27Italia",
       "article_url": "https://it.wikipedia.org/wiki/Nazionale_di_pallavolo_maschile_dell%27Italia",
-      "description": "",
+      "description": "Il 6 settembre batte 3-0 la Germania negli ottavi degli Europei di pallavolo maschile; il 9 settembre supera la Macedonia del Nord.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     }
   ]
 }

@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=TG_Norba_24",
       "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale all-news regionale del Gruppo Norba. Difficile dire il motivo del picco di visite.",
       "image_filename": "Tg_norba24.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 2,
@@ -188,13 +189,14 @@
       "google_news_url": "https://www.google.it/search?q=TeleColor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=TeleColor",
       "article_url": "https://it.wikipedia.org/wiki/TeleColor",
-      "description": "",
+      "description": "Emittente televisiva locale italiana. Difficile dire il motivo del picco di visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 5,
@@ -458,13 +460,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo, il numero di visite è nella media.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 11,
@@ -593,13 +596,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=La_casa_di_carta",
       "article_url": "https://it.wikipedia.org/wiki/La_casa_di_carta",
-      "description": "serie televisiva spagnola (2017-2021)",
+      "description": "Serie spagnola distribuita da Netflix. Nessun picco di rilievo, il numero di visite è nella media.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 14,
@@ -773,13 +777,14 @@
       "google_news_url": "https://www.google.it/search?q=Massimo%20Ranieri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=Massimo_Ranieri",
       "article_url": "https://it.wikipedia.org/wiki/Massimo_Ranieri",
-      "description": "cantante, attore, regista teatrale e conduttore televisivo italiano (1951-)",
+      "description": "Cantante e attore italiano. Probabile errore nei dati: 48.353 visite il 25 agosto e zero dal 20 al 24.",
       "image_filename": "Massimo_Ranieri_Concert_2009_Taormina-Sicilia-Italy_-_Creative_Commons_by_gnuckx.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Massimo_Ranieri_Concert_2009_Taormina-Sicilia-Italy_-_Creative_Commons_by_gnuckx.jpg/1280px-Massimo_Ranieri_Concert_2009_Taormina-Sicilia-Italy_-_Creative_Commons_by_gnuckx.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Massimo_Ranieri_Concert_2009_Taormina-Sicilia-Italy_-_Creative_Commons_by_gnuckx.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 18,
@@ -818,13 +823,14 @@
       "google_news_url": "https://www.google.it/search?q=John%20McCain&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=John_McCain",
       "article_url": "https://it.wikipedia.org/wiki/John_McCain",
-      "description": "politico e militare statunitense (1936-2018)",
+      "description": "Senatore repubblicano dell'Arizona ed ex prigioniero di guerra in Vietnam, muore il 25 agosto a 81 anni.",
       "image_filename": "John_McCain_official_portrait_2009.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/John_McCain_official_portrait_2009.jpg/1280px-John_McCain_official_portrait_2009.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:John_McCain_official_portrait_2009.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 19,
@@ -863,13 +869,14 @@
       "google_news_url": "https://www.google.it/search?q=Antonio%20Pennarella&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=Antonio_Pennarella",
       "article_url": "https://it.wikipedia.org/wiki/Antonio_Pennarella",
-      "description": "attore italiano (1960-2018)",
+      "description": "Attore italiano noto per Un posto al sole, muore il 24 agosto a 58 anni.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 20,
@@ -908,13 +915,14 @@
       "google_news_url": "https://www.google.it/search?q=Marco%20Bucci%20%28politico%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=Marco_Bucci_(politico)",
       "article_url": "https://it.wikipedia.org/wiki/Marco_Bucci_(politico)",
-      "description": "politico e dirigente d'azienda italiano (1959-)",
+      "description": "Sindaco di Genova, il picco è probabilmente legato alle conseguenze del crollo del viadotto Polcevera del 14 agosto.",
       "image_filename": "Principe_Alberto_II_di_Monaco_e_Marco_Bucci,_Genova,_2023_-_crop.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Principe_Alberto_II_di_Monaco_e_Marco_Bucci%2C_Genova%2C_2023_-_crop.jpg/1280px-Principe_Alberto_II_di_Monaco_e_Marco_Bucci%2C_Genova%2C_2023_-_crop.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Principe_Alberto_II_di_Monaco_e_Marco_Bucci%2C_Genova%2C_2023_-_crop.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 21,
@@ -953,13 +961,14 @@
       "google_news_url": "https://www.google.it/search?q=Anthony%20Bourdain&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=Anthony_Bourdain",
       "article_url": "https://it.wikipedia.org/wiki/Anthony_Bourdain",
-      "description": "cuoco e scrittore statunitense (1956-2018)",
+      "description": "Cuoco e scrittore statunitense morto nel giugno 2018, è citato il 21 e 22 agosto nel caso Asia Argento-Jimmy Bennett.",
       "image_filename": "Anthony_Bourdain_(14097901240)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Anthony_Bourdain_%2814097901240%29_%28cropped%29.jpg/1170px-Anthony_Bourdain_%2814097901240%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anthony_Bourdain_(14097901240)_(cropped).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1007,14 @@
       "google_news_url": "https://www.google.it/search?q=Stef%C3%A1n%20Karl%20Stef%C3%A1nsson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=Stef%C3%A1n_Karl_Stef%C3%A1nsson",
       "article_url": "https://it.wikipedia.org/wiki/Stef%C3%A1n_Karl_Stef%C3%A1nsson",
-      "description": "attore islandese (1975-2018)",
+      "description": "Attore islandese noto come Robbie Rancido nella serie per ragazzi Lazy Town, muore il 21 agosto a 43 anni.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1053,14 @@
       "google_news_url": "https://www.google.it/search?q=George%20Stinney&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=George_Stinney",
       "article_url": "https://it.wikipedia.org/wiki/George_Stinney",
-      "description": "più giovane statunitense condannato a morte del Novecento",
+      "description": "Ragazzo statunitense giustiziato nel 1944 a 14 anni e riabilitato nel 2014. Difficile dire il motivo del picco di visite.",
       "image_filename": "George_Stinney_Mugshot_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/George_Stinney_Mugshot_%28cropped%29.jpg/1280px-George_Stinney_Mugshot_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:George_Stinney_Mugshot_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1099,14 @@
       "google_news_url": "https://www.google.it/search?q=Virus%20del%20Nilo%20occidentale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=Virus_del_Nilo_occidentale",
       "article_url": "https://it.wikipedia.org/wiki/Virus_del_Nilo_occidentale",
-      "description": "specie di virus della famiglia Flaviviridae",
+      "description": "Il 22 agosto si diffondono notizie sull'aumento delle vittime e dei casi in Italia dell'infezione trasmessa dalle zanzare.",
       "image_filename": "NIAID-west-Nile.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/NIAID-west-Nile.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:NIAID-west-Nile.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1145,14 @@
       "google_news_url": "https://www.google.it/search?q=C%27era%20una%20volta%20il%20West&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:08/20/2018,cd_max:08/26/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-08-20&end=2018-08-26&pages=C%27era_una_volta_il_West",
       "article_url": "https://it.wikipedia.org/wiki/C%27era_una_volta_il_West",
-      "description": "film del 1968 diretto da Sergio Leone",
+      "description": "Film del 1968 diretto da Sergio Leone, va in onda il 25 agosto alle 20.30 su Rai 3.",
       "image_filename": "Armonica_e_Frank.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/ad/Armonica_e_Frank.png/1280px-Armonica_e_Frank.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Armonica_e_Frank.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     }
   ]
 }

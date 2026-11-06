@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Gennaro%20Sangiuliano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Gennaro_Sangiuliano",
       "article_url": "https://it.wikipedia.org/wiki/Gennaro_Sangiuliano",
-      "description": "giornalista, saggista e politico italiano (1962-)",
+      "description": "Ministro della Cultura del governo Meloni, si dimette il 6 settembre dopo il caso con Maria Rosaria Boccia.",
       "image_filename": "Gennaro_Sangiuliano_2022_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gennaro_Sangiuliano_2022_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gennaro_Sangiuliano_2022_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Alessandro%20Giuli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Alessandro_Giuli",
       "article_url": "https://it.wikipedia.org/wiki/Alessandro_Giuli",
-      "description": "giornalista e politico italiano (1975-)",
+      "description": "Giornalista e presidente del Maxxi, il 6 settembre giura ministro della Cultura al posto di Gennaro Sangiuliano.",
       "image_filename": "Alessandro_Giuli.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Alessandro_Giuli.jpg/1280px-Alessandro_Giuli.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alessandro_Giuli.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Jannik_Sinner",
       "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
-      "description": "tennista italiano (2001-)",
+      "description": "Tennista italiano, l'8 settembre batte Taylor Fritz in finale e vince lo US Open, secondo titolo del Grande Slam.",
       "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Taylor%20Fritz&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Taylor_Fritz",
       "article_url": "https://it.wikipedia.org/wiki/Taylor_Fritz",
-      "description": "tennista statunitense (1997–)",
+      "description": "Tennista statunitense, l'8 settembre perde contro Jannik Sinner la finale dello US Open.",
       "image_filename": "Taylor_Fritz_at_2025_Miami_Open_01_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Taylor_Fritz_at_2025_Miami_Open_01_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Taylor_Fritz_at_2025_Miami_Open_01_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Rigivan%20Ganeshamoorthy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Rigivan_Ganeshamoorthy",
       "article_url": "https://it.wikipedia.org/wiki/Rigivan_Ganeshamoorthy",
-      "description": "atleta paralimpico italiano",
+      "description": "Discobolo paralimpico italiano, il 2 settembre vince l'oro e stabilisce il record mondiale F52 alle Paralimpiadi di Parigi.",
       "image_filename": "Rigivan_Ganeshamoorthy_in_2025.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rigivan_Ganeshamoorthy_in_2025.jpg/1280px-Rigivan_Ganeshamoorthy_in_2025.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rigivan_Ganeshamoorthy_in_2025.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=M%C3%A1xima%20Zorreguieta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=M%C3%A1xima_Zorreguieta",
       "article_url": "https://it.wikipedia.org/wiki/M%C3%A1xima_Zorreguieta",
-      "description": "regina consorte dei Paesi Bassi",
+      "description": "Regina consorte dei Paesi Bassi, è raccontata dalla miniserie Máxima, in onda dal 2 settembre su Rai 1.",
       "image_filename": "20240227_visita_Reina_Países_Bajos-Joel_González7461_(cropped_Queen_Maxima).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20240227_visita_Reina_Pa%C3%ADses_Bajos-Joel_Gonz%C3%A1lez7461_%28cropped_Queen_Maxima%29.jpg/1150px-20240227_visita_Reina_Pa%C3%ADses_Bajos-Joel_Gonz%C3%A1lez7461_%28cropped_Queen_Maxima%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:20240227_visita_Reina_Pa%C3%ADses_Bajos-Joel_Gonz%C3%A1lez7461_(cropped_Queen_Maxima).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Jack%20Draper&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Jack_Draper",
       "article_url": "https://it.wikipedia.org/wiki/Jack_Draper",
-      "description": "tennista britannico",
+      "description": "Tennista britannico, il 6 settembre perde contro Jannik Sinner nella semifinale dello US Open.",
       "image_filename": "Draper_MCM23_(55)_(52883527225).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Draper_MCM23_%2855%29_%2852883527225%29.jpg/1280px-Draper_MCM23_%2855%29_%2852883527225%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Draper_MCM23_(55)_(52883527225).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=US%20Open%20%28tennis%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=US_Open_(tennis)",
       "article_url": "https://it.wikipedia.org/wiki/US_Open_(tennis)",
-      "description": "torneo statunitense di tennis",
+      "description": "L'8 settembre Jannik Sinner batte Taylor Fritz nella finale maschile e vince lo US Open.",
       "image_filename": "Usopen-horizontal-logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Usopen-horizontal-logo.svg/1280px-Usopen-horizontal-logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Usopen-horizontal-logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Aryna%20Sabalenka&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Aryna_Sabalenka",
       "article_url": "https://it.wikipedia.org/wiki/Aryna_Sabalenka",
-      "description": "tennista bielorussa (1998-)",
+      "description": "Tennista bielorussa, il 7 settembre batte Jessica Pegula e vince il singolare femminile dello US Open.",
       "image_filename": "Aryna_Sabalenka_(2024_DC_Open)_06.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Aryna_Sabalenka_%282024_DC_Open%29_06.jpg/1128px-Aryna_Sabalenka_%282024_DC_Open%29_06.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Aryna_Sabalenka_(2024_DC_Open)_06.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Beetlejuice%20-%20Spiritello%20porcello&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Beetlejuice_-_Spiritello_porcello",
       "article_url": "https://it.wikipedia.org/wiki/Beetlejuice_-_Spiritello_porcello",
-      "description": "film del 1988 diretto da Tim Burton",
+      "description": "Film del 1988 diretto da Tim Burton, torna al cinema il sequel Beetlejuice Beetlejuice il 5 settembre.",
       "image_filename": "BeetlejuiceMichaelKeaton.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/10/BeetlejuiceMichaelKeaton.png/1254px-BeetlejuiceMichaelKeaton.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:BeetlejuiceMichaelKeaton.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Bebe%20Vio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Bebe_Vio",
       "article_url": "https://it.wikipedia.org/wiki/Bebe_Vio",
-      "description": "schermitrice italiana (1997-)",
+      "description": "Schermitrice paralimpica italiana, il 4 settembre conquista il bronzo nel fioretto individuale alle Paralimpiadi di Parigi.",
       "image_filename": "Beatrice_Vio_2018_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Beatrice_Vio_2018_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Beatrice_Vio_2018_(cropped).jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Omicidio%20di%20Elisa%20Claps&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Omicidio_di_Elisa_Claps",
       "article_url": "https://it.wikipedia.org/wiki/Omicidio_di_Elisa_Claps",
-      "description": "caso di cronaca nera avvenuto a Potenza nel 1993",
+      "description": "Caso dell'uccisione della studentessa sedicenne a Potenza nel 1993, resta in lista dopo l'uscita della miniserie Il caso Claps su Netflix il 12 agosto.",
       "image_filename": "Elisa_Claps_1.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Elisa_Claps_1.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elisa_Claps_1.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=UEFA%20Nations%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=UEFA_Nations_League",
       "article_url": "https://it.wikipedia.org/wiki/UEFA_Nations_League",
-      "description": "competizione calcistica continentale per squadre nazionali organizzata dalla UEFA",
+      "description": "Il 6 settembre l'Italia batte 3-1 la Francia a Parigi nella prima partita della UEFA Nations League 2024-2025.",
       "image_filename": "UEFA_Nations_League.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/1280px-UEFA_Nations_League.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Nations_League.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20Signore%20degli%20Anelli%20-%20Gli%20Anelli%20del%20Potere&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere",
       "article_url": "https://it.wikipedia.org/wiki/Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere",
-      "description": "serie televisiva statunitense del 2022",
+      "description": "Serie fantasy di Prime Video, il 5 settembre pubblica il quarto episodio della seconda stagione.",
       "image_filename": "Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere.png/1280px-Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Sindrome%20di%20Guillain-Barr%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Sindrome_di_Guillain-Barr%C3%A9",
       "article_url": "https://it.wikipedia.org/wiki/Sindrome_di_Guillain-Barr%C3%A9",
-      "description": "radicolo-polinevrite acuta che si manifesta con paralisi progressiva agli arti con andamento disto-prossimale",
+      "description": "Malattia autoimmune del sistema nervoso periferico, il picco è legato all'oro paralimpico di Rigivan Ganeshamoorthy il 2 settembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Simone%20Barlaam&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Simone_Barlaam",
       "article_url": "https://it.wikipedia.org/wiki/Simone_Barlaam",
-      "description": "nuotatore italiano",
+      "description": "Nuotatore paralimpico italiano, il 2 settembre vince l'oro e il record mondiale nei 50 metri stile libero S9 a Parigi.",
       "image_filename": "Simone_Barlaam_2019.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Simone_Barlaam_2019.jpg/1280px-Simone_Barlaam_2019.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Simone_Barlaam_2019.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Veronica%20Yoko%20Plebani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Veronica_Yoko_Plebani",
       "article_url": "https://it.wikipedia.org/wiki/Veronica_Yoko_Plebani",
-      "description": "canoista, snowboarder e triatleta italiana (1996-)",
+      "description": "Triatleta paralimpica italiana, il 2 settembre vince l'argento nel paratriathlon alle Paralimpiadi di Parigi.",
       "image_filename": "Veronica-Yoko-tokyo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Veronica-Yoko-tokyo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Veronica-Yoko-tokyo.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Sara%20Errani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Sara_Errani",
       "article_url": "https://it.wikipedia.org/wiki/Sara_Errani",
-      "description": "tennista italiana (1987-)",
+      "description": "Tennista italiana, il 5 settembre vince con Andrea Vavassori il doppio misto dello US Open.",
       "image_filename": "Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sara_Errani_-_Roland-Garros_-_28.05.2024_%28cropped%29.jpg/1280px-Sara_Errani_-_Roland-Garros_-_28.05.2024_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Valentina%20Petrillo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Valentina_Petrillo",
       "article_url": "https://it.wikipedia.org/wiki/Valentina_Petrillo",
-      "description": "atleta paralimpica italiana (1973-)",
+      "description": "Velocista paralimpica italiana e prima donna transgender ai Giochi, il 6 settembre non raggiunge la finale dei 200 metri T12 a Parigi.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Annalisa%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Annalisa_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Annalisa_(cantante)",
-      "description": "cantautrice italiana (1985-)",
+      "description": "Cantautrice italiana, il 5 settembre Canale 5 trasmette il concerto Annalisa - Tutti in Arena.",
       "image_filename": "Logo_Annalisa.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_Annalisa.svg/1280px-Logo_Annalisa.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Annalisa.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Grande%20Slam%20%28tennis%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Grande_Slam_(tennis)",
       "article_url": "https://it.wikipedia.org/wiki/Grande_Slam_(tennis)",
-      "description": "circuito internazionale comprendente i quattro tornei di tennis più importanti al mondo",
+      "description": "L'8 settembre Jannik Sinner vince lo US Open, il suo secondo titolo del Grande Slam dopo l'Australian Open.",
       "image_filename": "Steffi_Graf_in_Hamburg.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Steffi_Graf_in_Hamburg.jpg/1006px-Steffi_Graf_in_Hamburg.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Steffi_Graf_in_Hamburg.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Mats%20Hummels&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Mats_Hummels",
       "article_url": "https://it.wikipedia.org/wiki/Mats_Hummels",
-      "description": "calciatore tedesco (1988-)",
+      "description": "Difensore tedesco campione del mondo nel 2014, il 4 settembre firma con la Roma da svincolato.",
       "image_filename": "2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_(DFB-Pokal_2023-24)_by_Sandro_Halank–103_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93103_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_(DFB-Pokal_2023-24)_by_Sandro_Halank%E2%80%93103_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Assunta%20Legnante&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Assunta_Legnante",
       "article_url": "https://it.wikipedia.org/wiki/Assunta_Legnante",
-      "description": "pesista e discobola italiana (1978-)",
+      "description": "Pesista e discobola paralimpica italiana, il 3 settembre vince l'argento nel lancio del disco alle Paralimpiadi di Parigi.",
       "image_filename": "Assuntina.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Assuntina.jpg/1280px-Assuntina.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Assuntina.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Stefano%20Raimondi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Stefano_Raimondi",
       "article_url": "https://it.wikipedia.org/wiki/Stefano_Raimondi",
-      "description": "nuotatore paralimpico italiano",
+      "description": "Nuotatore paralimpico italiano, il 3 settembre vince l'oro nei 100 metri farfalla S10 alle Paralimpiadi di Parigi.",
       "image_filename": "Stefano_Raimondi_(cropped).JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Stefano_Raimondi_%28cropped%29.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Stefano_Raimondi_(cropped).JPG",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Meridiano%20Zero%20%28movimento%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/02/2024,cd_max:09/08/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-09-02&end=2024-09-08&pages=Meridiano_Zero_(movimento)",
       "article_url": "https://it.wikipedia.org/wiki/Meridiano_Zero_(movimento)",
-      "description": "movimento politico italiano (1991-1993)",
+      "description": "Movimento neofascista sciolto nel 1993, il picco è legato alla nomina di Alessandro Giuli a ministro della Cultura il 6 settembre, di cui fece parte.",
       "image_filename": "Algiz.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Algiz.svg/1280px-Algiz.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Algiz.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-5.6-terra"
     }
   ]
 }
