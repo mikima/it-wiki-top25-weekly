@@ -13,13 +13,14 @@ on:
         type: boolean
         default: true
       mode:
-        description: "stubs = solo descrizioni brevi o vuote; missing = solo vuote; all = riscrive tutto."
+        description: "wikidata = tutto ciò che non è già OpenAI o manuale; stubs = solo descrizioni brevi o vuote; missing = solo vuote; all = riscrive tutto (mai le manuali)."
         type: choice
         options:
+          - wikidata
           - stubs
           - missing
           - all
-        default: stubs
+        default: wikidata
       dry_run:
         description: "Prova a secco: mostra cosa verrebbe riscritto senza chiamare OpenAI né fare commit."
         type: boolean
