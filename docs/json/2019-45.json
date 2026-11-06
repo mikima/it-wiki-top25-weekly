@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorgia%20Meloni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Giorgia_Meloni",
       "article_url": "https://it.wikipedia.org/wiki/Giorgia_Meloni",
-      "description": "politica italiana, Presidente del Consiglio dei ministri della Repubblica Italiana",
+      "description": "Leader di Fratelli d'Italia, il 6 novembre diventa virale un remix del suo discorso Io sono Giorgia.",
       "image_filename": "Giorgia_Meloni_Official_2024_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
       "image_license": "CC BY 3.0 it",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Muro%20di%20Berlino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Muro_di_Berlino",
       "article_url": "https://it.wikipedia.org/wiki/Muro_di_Berlino",
-      "description": "fortificazione militare costruita dalla Germania Est per circondare Berlino Ovest",
+      "description": "Il 9 novembre ricorre il trentesimo anniversario della caduta del Muro di Berlino.",
       "image_filename": "Berlin_Wall_1961-11-20.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Berlin_Wall_1961-11-20.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Berlin_Wall_1961-11-20.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Concessionaria del servizio pubblico radiotelevisivo, è in classifica per la ventiseiesima settimana consecutiva, senza picchi di rilievo.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Ittiosi%20Arlecchino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Ittiosi_Arlecchino",
       "article_url": "https://it.wikipedia.org/wiki/Ittiosi_Arlecchino",
-      "description": "grave disfunzione congenita della pelle e la più grave forma di ittiosi",
+      "description": "Rara malattia genetica della pelle, il 6 novembre emerge il caso di Giovannino, neonato affetto dalla patologia e abbandonato a Torino.",
       "image_filename": "Harlequin_fetus.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Harlequin_fetus.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Harlequin_fetus.JPG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Fred%20Bongusto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Fred_Bongusto",
       "article_url": "https://it.wikipedia.org/wiki/Fred_Bongusto",
-      "description": "cantante e compositore italiano (1935-2019)",
+      "description": "Cantante italiano noto per Una rotonda sul mare, muore l'8 novembre a 84 anni.",
       "image_filename": "Fred_Bongusto_1975.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Fred_Bongusto_1975.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fred_Bongusto_1975.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Chico%20Forti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Chico_Forti",
       "article_url": "https://it.wikipedia.org/wiki/Chico_Forti",
-      "description": "assassino, velista e produttore televisivo italiano (1959-)",
+      "description": "Produttore televisivo italiano condannato all'ergastolo negli Stati Uniti, il 5 novembre è al centro di un servizio delle Iene su Italia 1.",
       "image_filename": "Enrico_Forti.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Enrico_Forti.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Enrico_Forti.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Liliana%20Segre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Liliana_Segre",
       "article_url": "https://it.wikipedia.org/wiki/Liliana_Segre",
-      "description": "antifascista e politica italiana, superstite dell'Olocausto e testimone attiva della Shoah (1930-)",
+      "description": "Senatrice a vita e superstite della Shoah, il 6 novembre le viene assegnata una scorta dopo le minacce ricevute.",
       "image_filename": "Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Liliana_Segre_%28XVIII_Legislatura_Senato%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_license": "CC BY 1.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20La%20Land%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=La_La_Land_(film)",
       "article_url": "https://it.wikipedia.org/wiki/La_La_Land_(film)",
-      "description": "",
+      "description": "Film del 2016 diretto da Damien Chazelle, va in onda in prima visione il 6 novembre su Rai 1.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Jannik_Sinner",
       "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
-      "description": "tennista italiano (2001-)",
+      "description": "Tennista italiano, il 9 novembre vince a Milano le Next Gen ATP Finals battendo in finale Alex de Minaur.",
       "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=ArcelorMittal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=ArcelorMittal",
       "article_url": "https://it.wikipedia.org/wiki/ArcelorMittal",
-      "description": "azienda leader nel settore dell'acciaio",
+      "description": "Gruppo siderurgico internazionale, il 4 novembre annuncia il recesso dal contratto per l'ex Ilva di Taranto.",
       "image_filename": "Luxembourg_Arcelor_Mittal.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luxembourg_Arcelor_Mittal.jpg/1280px-Luxembourg_Arcelor_Mittal.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luxembourg_Arcelor_Mittal.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=ArcelorMittal%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=ArcelorMittal_Italia",
       "article_url": "https://it.wikipedia.org/wiki/ArcelorMittal_Italia",
-      "description": "",
+      "description": "Società che gestisce gli stabilimenti dell'ex Ilva, il 4 novembre il gruppo ArcelorMittal annuncia il recesso dal contratto.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Caterina%20II%20di%20Russia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Caterina_II_di_Russia",
       "article_url": "https://it.wikipedia.org/wiki/Caterina_II_di_Russia",
-      "description": "imperatrice di Russia (r. 1762-1796)",
+      "description": "Imperatrice di Russia dal 1762 al 1796, è protagonista della miniserie Caterina la Grande, in onda su Sky Atlantic dal 31 ottobre.",
       "image_filename": "Catherine_II_by_V.Eriksen_(1778-9,_David_Coll.,_Denmark).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Catherine_II_by_V.Eriksen_%281778-9%2C_David_Coll.%2C_Denmark%29.jpg/1280px-Catherine_II_by_V.Eriksen_%281778-9%2C_David_Coll.%2C_Denmark%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Catherine_II_by_V.Eriksen_(1778-9%2C_David_Coll.%2C_Denmark).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Enrico%20V%20d%27Inghilterra&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Enrico_V_d%27Inghilterra",
       "article_url": "https://it.wikipedia.org/wiki/Enrico_V_d%27Inghilterra",
-      "description": "re d'Inghilterra (r. 1413-1422)",
+      "description": "Re d'Inghilterra dal 1413 al 1422, è protagonista del film The King, distribuito su Netflix il 1º novembre.",
       "image_filename": "King_Henry_V_from_NPG.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/King_Henry_V_from_NPG.jpg/1280px-King_Henry_V_from_NPG.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:King_Henry_V_from_NPG.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Giornata%20dell%27Unit%C3%A0%20Nazionale%20e%20delle%20Forze%20Armate&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Giornata_dell%27Unit%C3%A0_Nazionale_e_delle_Forze_Armate",
       "article_url": "https://it.wikipedia.org/wiki/Giornata_dell%27Unit%C3%A0_Nazionale_e_delle_Forze_Armate",
-      "description": "",
+      "description": "Celebrata il 4 novembre, la ricorrenza commemora la vittoria italiana nella prima guerra mondiale.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Mormonismo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Mormonismo",
       "article_url": "https://it.wikipedia.org/wiki/Mormonismo",
-      "description": "movimento religioso di origini statunitensi",
+      "description": "Movimento religioso nato negli Stati Uniti, il picco è legato all'agguato del 4 novembre in Messico, in cui muoiono nove membri di una comunità mormone.",
       "image_filename": "Joseph_Smith,_Jr._portrait_owned_by_Joseph_Smith_III.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Joseph_Smith%2C_Jr._portrait_owned_by_Joseph_Smith_III.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joseph_Smith%2C_Jr._portrait_owned_by_Joseph_Smith_III.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Irishman%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=The_Irishman_(film_2019)",
       "article_url": "https://it.wikipedia.org/wiki/The_Irishman_(film_2019)",
-      "description": "film del 2019 diretto da Martin Scorsese",
+      "description": "Film diretto da Martin Scorsese con Robert De Niro e Al Pacino, esce nelle sale italiane il 4 novembre.",
       "image_filename": "Martin_Scorsese_-_The_Irishman.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/22/Martin_Scorsese_-_The_Irishman.png/1280px-Martin_Scorsese_-_The_Irishman.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Martin_Scorsese_-_The_Irishman.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20collegio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Il_collegio",
       "article_url": "https://it.wikipedia.org/wiki/Il_collegio",
-      "description": "programma televisivo italiano",
+      "description": "Il 5 novembre va in onda su Rai 2 la terza puntata della quarta edizione del docu-reality.",
       "image_filename": "Il_Collegio.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Il_Collegio.png/1280px-Il_Collegio.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Collegio.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Joker%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Joker_(film_2019)",
       "article_url": "https://it.wikipedia.org/wiki/Joker_(film_2019)",
-      "description": "film del 2019 diretto da Todd Phillips",
+      "description": "Film di Todd Phillips con Joaquin Phoenix, è nelle sale italiane dal 3 ottobre ed è in classifica per la sesta settimana consecutiva.",
       "image_filename": "Joker_(film_2019).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f2/Joker_%28film_2019%29.png/1280px-Joker_%28film_2019%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joker_(film_2019).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Peaky%20Blinders&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Peaky_Blinders",
       "article_url": "https://it.wikipedia.org/wiki/Peaky_Blinders",
-      "description": "pagina di disambiguazione di un progetto Wikimedia",
+      "description": "Pagina di disambiguazione che comprende la serie britannica, la cui quinta stagione è disponibile su Netflix dal 4 ottobre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20End%20of%20the%20F%2A%2A%2Aing%20World&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=The_End_of_the_F%2A%2A%2Aing_World",
       "article_url": "https://it.wikipedia.org/wiki/The_End_of_the_F%2A%2A%2Aing_World",
-      "description": "serie televisiva britannica (2017-2019)",
+      "description": "Il 5 novembre esce su Netflix la seconda stagione della serie televisiva britannica.",
       "image_filename": "The_End_of_the_F***ING_WORLD_text_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_End_of_the_F%2A%2A%2AING_WORLD_text_logo.png/1280px-The_End_of_the_F%2A%2A%2AING_WORLD_text_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_End_of_the_F%2A%2A%2AING_WORLD_text_logo.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Death%20Stranding&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Death_Stranding",
       "article_url": "https://it.wikipedia.org/wiki/Death_Stranding",
-      "description": "videogioco d'azione del 2019, sviluppato da Kojima Productions",
+      "description": "Videogioco di Hideo Kojima, esce l'8 novembre per PlayStation 4.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo; la pagina è in classifica per la settima settimana consecutiva.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Marracash&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Marracash",
       "article_url": "https://it.wikipedia.org/wiki/Marracash",
-      "description": "rapper italiano (1979-)",
+      "description": "Rapper italiano, il 31 ottobre pubblica l'album Persona.",
       "image_filename": "MarraMan.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MarraMan.jpg/1280px-MarraMan.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:MarraMan.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Mario%20Balotelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Mario_Balotelli",
       "article_url": "https://it.wikipedia.org/wiki/Mario_Balotelli",
-      "description": "calciatore italiano (1990-)",
+      "description": "Attaccante del Brescia, il 3 novembre subisce cori razzisti durante la partita contro il Verona, sospesa per alcuni minuti.",
       "image_filename": "Mario_Balotelli_Euro_2012_vs_England_02.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mario_Balotelli_Euro_2012_vs_England_02.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mario_Balotelli_Euro_2012_vs_England_02.JPG",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Uovo%20dello%20zarevi%C4%8D&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2019,cd_max:11/10/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-04&end=2019-11-10&pages=Uovo_dello_zarevi%C4%8D",
       "article_url": "https://it.wikipedia.org/wiki/Uovo_dello_zarevi%C4%8D",
-      "description": "",
+      "description": "Uovo Fabergé realizzato per la famiglia imperiale russa. Difficile stabilire il motivo delle visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

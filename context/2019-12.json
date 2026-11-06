@@ -1,0 +1,1119 @@
+{
+  "week": "2019-12",
+  "start_date": "2019-03-18",
+  "end_date": "2019-03-24",
+  "articles": {
+    "TG_Norba_24": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "TG Norba 24 è un canale televisivo italiano regionale all-news edito da Gruppo Norba.",
+      "news": []
+    },
+    "Canale_5": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Canale 5 è un canale televisivo italiano privato, edito da Mediaset. La rete è di tipo generalista ed è orientata alle famiglie offrendo principalmente intrattenimento, cinema e telefilm.",
+      "news": [
+        {
+          "title": "Ciao Darwin: Seconda puntata | Family Day vs Gay Pride Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Ciao Darwin: Seconda puntata | Family Day vs Gay Pride Video Mediaset Infinity"
+        },
+        {
+          "title": "Live - Non è la d'Urso: Wanna Marchi e Stefania Nobile: contro tutti Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Live - Non è la d'Urso: Wanna Marchi e Stefania Nobile: contro tutti Video Mediaset Infinity"
+        },
+        {
+          "title": "Avanti un altro!: Momenti XXL Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Avanti un altro!: Momenti XXL Video Mediaset Infinity"
+        },
+        {
+          "title": "Il silenzio dell'acqua: Quarta puntata Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "Il silenzio dell'acqua: Quarta puntata Video Mediaset Infinity"
+        },
+        {
+          "title": "Melaverde: La torta pisanina Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Melaverde: La torta pisanina Video Mediaset Infinity"
+        },
+        {
+          "title": "Ciao Darwin: Il Gran Defilé Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Ciao Darwin: Il Gran Defilé Video Mediaset Infinity"
+        },
+        {
+          "title": "Striscia la notizia: Barbara d'Urso, la gonna birichina durante la diretta Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Striscia la notizia: Barbara d'Urso, la gonna birichina durante la diretta Video Mediaset Infinity"
+        }
+      ]
+    },
+    "RSI_LA1": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA1, noto più semplicemente come LA1, è il primo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR. È stata la prima emittente televisiva internazionale in lingua italiana, avendo cominciato le trasmissioni nel 1958.",
+      "news": []
+    },
+    "Moise_Kean": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Moise Bioty Kean è un calciatore italiano, attaccante del Como, in prestito dalla Fiorentina, e della nazionale italiana.",
+      "news": [
+        {
+          "title": "Kean, viaggio nei luoghi simbolo del predestinato - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Kean, viaggio nei luoghi simbolo del predestinato Sky Sport"
+        },
+        {
+          "title": "Italia, Moise Kean superstar ma il record resta a Bruno Nicolè - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "Italia, Moise Kean superstar ma il record resta a Bruno Nicolè Corriere della Sera"
+        },
+        {
+          "title": "Moise Kean e quei primi gol in bianconero segnati ad Arezzo - ArezzoNotizie",
+          "source": "ArezzoNotizie",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Moise Kean e quei primi gol in bianconero segnati ad Arezzo ArezzoNotizie"
+        },
+        {
+          "title": "Moise Kean, il cittadino del goal: \"Italiano è chiunque vive qui\" - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "Moise Kean, il cittadino del goal: \"Italiano è chiunque vive qui\" HuffPost Italia"
+        },
+        {
+          "title": "Moise Kean ha detto che chi nasce in Italia è italiano. Messaggio a Salvini - Giornalettismo",
+          "source": "Giornalettismo",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Moise Kean ha detto che chi nasce in Italia è italiano. Messaggio a Salvini Giornalettismo"
+        },
+        {
+          "title": "Kean, primo gol in azzurro - Juventus.com",
+          "source": "Juventus.com",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "Kean, primo gol in azzurro Juventus.com"
+        },
+        {
+          "title": "NxGn - Kean, Fagioli e i migliori giovani talenti della Juventus - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "NxGn - Kean, Fagioli e i migliori giovani talenti della Juventus Goal.com"
+        },
+        {
+          "title": "Moise Kean il predestinato: 'Ho tanti record da battere' - ANSA",
+          "source": "ANSA",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Moise Kean il predestinato: 'Ho tanti record da battere' ANSA"
+        },
+        {
+          "title": "Kean va a 2000, gol record in Azzurro: precedenti - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "Kean va a 2000, gol record in Azzurro: precedenti Sky Sport"
+        },
+        {
+          "title": "Moise Kean, le cose che non sapete: è sostenitore dello ius soli, italiano dalla nascita, ha cominciato col Torino - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "Moise Kean, le cose che non sapete: è sostenitore dello ius soli, italiano dalla nascita, ha cominciato col Torino Corriere della Sera"
+        }
+      ]
+    },
+    "RSI_LA2": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA2 è il secondo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR.",
+      "news": []
+    },
+    "Stazione_di_Genova_Piazza_Principe": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La stazione di Genova Piazza Principe è una delle due principali stazioni ferroviarie della città di Genova, insieme alla stazione Brignole. È situata in piazza Acquaverde e occupa l'intero lato settentrionale di via Andrea Doria, dove si trovano gli ingressi di servizio, a poca distanza dal palazzo del Principe, dal quale prende il nome.",
+      "news": [
+        {
+          "title": "Treni, modifiche alla circolazione in Liguria per i lavori del Terzo Valico - IVG.it",
+          "source": "IVG.it",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Treni, modifiche alla circolazione in Liguria per i lavori del Terzo Valico IVG.it"
+        }
+      ]
+    },
+    "Rai_Movie": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai Movie è un canale televisivo tematico italiano edito dalla Rai. È attivo dal 1999 come canale a pagamento, e da metà 2009 come canale gratuito.",
+      "news": [
+        {
+          "title": "I Villani - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "I Villani RaiPlay"
+        },
+        {
+          "title": "Frammenti di un discorso morale - Falcone e Borsellino, la Tv, le parole - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 20 Mar 2019 22:02:15 GMT",
+          "description": "Frammenti di un discorso morale - Falcone e Borsellino, la Tv, le parole RaiPlay"
+        },
+        {
+          "title": "Mini Ninjas - S2E24 - Un potere che mette le ali - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Mini Ninjas - S2E24 - Un potere che mette le ali - Video RaiPlay"
+        },
+        {
+          "title": "Mentre ero via - Backstage - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Mentre ero via - Backstage - Video RaiPlay"
+        },
+        {
+          "title": "Linea Verde - Sicilia: la capra girgentana - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "Linea Verde - Sicilia: la capra girgentana - Video RaiPlay"
+        },
+        {
+          "title": "Noi due soli - Film - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Noi due soli - Film RaiPlay"
+        }
+      ]
+    },
+    "Cristiano_Piccini": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cristiano Piccini è un ex calciatore italiano, di ruolo difensore.",
+      "news": [
+        {
+          "title": "Verso la sfida con la Finlandia. Biraghi: \"Ci aspetta una gara difficile, ma dobbiamo vincere\" - FIGC",
+          "source": "FIGC",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Verso la sfida con la Finlandia. Biraghi: \"Ci aspetta una gara difficile, ma dobbiamo vincere\" FIGC"
+        },
+        {
+          "title": "Bernardeschi: \"Sogno di diventare un simbolo dell’Italia, dobbiamo essere consapevoli della nostra forza\" - FIGC",
+          "source": "FIGC",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Bernardeschi: \"Sogno di diventare un simbolo dell’Italia, dobbiamo essere consapevoli della nostra forza\" FIGC"
+        },
+        {
+          "title": "Tutti gli uomini di Mancini: le scelte per Italia-Finlandia - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Tutti gli uomini di Mancini: le scelte per Italia-Finlandia Virgilio"
+        },
+        {
+          "title": "Astori: la stanza d'hotel in cui morì non esiste più - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Astori: la stanza d'hotel in cui morì non esiste più Virgilio"
+        }
+      ]
+    },
+    "Sindrome_di_Asperger": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La sindrome di Asperger è un disturbo pervasivo dello sviluppo caratterizzato da una persistente difficoltà nelle interazioni sociali e relazionali, schemi di comportamento ripetitivi e stereotipati, tendenze ossessive, difficoltà empatiche e ad interpretare le emozioni altrui, difficoltà a gestire e regolare le proprie emozioni e i propri sentimenti, e attività e interessi in alcuni casi ristretti a determinati ambiti.",
+      "news": [
+        {
+          "title": "Asperger e autismo, la lotta dei fratelli Tercon contro il pregiudizio - Nurse24.it",
+          "source": "Nurse24.it",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Asperger e autismo, la lotta dei fratelli Tercon contro il pregiudizio Nurse24.it"
+        },
+        {
+          "title": "'Una 16enne che soffre di disturbi pervasivi...': il post del leghista Bosco scatena la rete - BolognaToday",
+          "source": "BolognaToday",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "'Una 16enne che soffre di disturbi pervasivi...': il post del leghista Bosco scatena la rete BolognaToday"
+        },
+        {
+          "title": "Greta e l'Asperger: il saggio, lo stolto e la Luna - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Greta e l'Asperger: il saggio, lo stolto e la Luna Il Bo Live"
+        },
+        {
+          "title": "Be Kind - Un viaggio gentile all’interno della diversità, di Sabrina Paravicini e Nino Monteleone. La recensione - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Be Kind - Un viaggio gentile all’interno della diversità, di Sabrina Paravicini e Nino Monteleone. La recensione Sentieri selvaggi"
+        },
+        {
+          "title": "Amy Schumer: \"Mio marito mi ha sedotta con il suo autismo\" - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Amy Schumer: \"Mio marito mi ha sedotta con il suo autismo\" il Giornale"
+        },
+        {
+          "title": "A Trecallo la curva della paura. La battaglia di Marta e Laura: \"Aiutate il nostro Marco\" - ComoZero",
+          "source": "ComoZero",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "A Trecallo la curva della paura. La battaglia di Marta e Laura: \"Aiutate il nostro Marco\" ComoZero"
+        },
+        {
+          "title": "Be Kind - Un viaggio gentile all'interno della diversità - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Be Kind - Un viaggio gentile all'interno della diversità MYmovies"
+        },
+        {
+          "title": "Three Identical Strangers | Recensione del documentario shock di Tim Wardle - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Three Identical Strangers | Recensione del documentario shock di Tim Wardle Il Cineocchio"
+        }
+      ]
+    },
+    "Marco_Pierre_White": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Marco Pierre White è un cuoco e personaggio televisivo britannico.",
+      "news": [
+        {
+          "title": "Il discorso motivazionale di Marco Pierre White - La Cucina Italiana",
+          "source": "La Cucina Italiana",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Il discorso motivazionale di Marco Pierre White La Cucina Italiana"
+        },
+        {
+          "title": "Masterchef 8, Cannavacciuolo si commuove al cospetto dello chef Marco Pierre White - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Masterchef 8, Cannavacciuolo si commuove al cospetto dello chef Marco Pierre White Il Messaggero"
+        },
+        {
+          "title": "Masterchef, Cannavacciuolo si commuove per il magnifico discorso di Marco Pierre White - Grandenapoli.it",
+          "source": "Grandenapoli.it",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Masterchef, Cannavacciuolo si commuove per il magnifico discorso di Marco Pierre White Grandenapoli.it"
+        },
+        {
+          "title": "Conosciamo meglio Marco Pierre White, l'enfant terrible della cucina - Primo Chef",
+          "source": "Primo Chef",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Conosciamo meglio Marco Pierre White, l'enfant terrible della cucina Primo Chef"
+        },
+        {
+          "title": "Masterchef, eliminati Loretta e Giuseppe. Tra minestroni gourmet, il carisma di Marco Pierre White e una squa… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Masterchef, eliminati Loretta e Giuseppe. Tra minestroni gourmet, il carisma di Marco Pierre White e una squa… la Repubblica"
+        },
+        {
+          "title": "Masterchef Italia 8: intervista a Giuseppe Lavecchia e Loretta Rizzotti, concorrenti eliminati - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Masterchef Italia 8: intervista a Giuseppe Lavecchia e Loretta Rizzotti, concorrenti eliminati Movieplayer"
+        },
+        {
+          "title": "MasterChef 8: il racconto della decima puntata - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "MasterChef 8: il racconto della decima puntata Amica.it"
+        },
+        {
+          "title": "Masterchef Italia 8: Joe Bastianich dà una lezione a Gilberto - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Masterchef Italia 8: Joe Bastianich dà una lezione a Gilberto BadTaste"
+        },
+        {
+          "title": "Chi è Paul Hollywood, uno dei volti di Food Network - Primo Chef",
+          "source": "Primo Chef",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Chi è Paul Hollywood, uno dei volti di Food Network Primo Chef"
+        },
+        {
+          "title": "Colorado su Italia 1 | arriva Francesca Cipriani in un ruolo inedito - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Colorado su Italia 1 | arriva Francesca Cipriani in un ruolo inedito Marida Caterini"
+        }
+      ]
+    },
+    "Greta_Thunberg": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Greta Tintin Eleonora Ernman Thunberg è un'attivista svedese, nota per le sue battaglie a favore dello sviluppo sostenibile e contro la crisi climatica.",
+      "news": [
+        {
+          "title": "Tutte le bufale su Greta Thunberg - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Tutte le bufale su Greta Thunberg Wired Italia"
+        },
+        {
+          "title": "L’ambientalismo oltre Greta Thunberg. Perché non basta un’icona green - FIAB - Federazione Italiana Ambiente e Bicicletta",
+          "source": "FIAB - Federazione Italiana Ambiente e Bicicletta",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "L’ambientalismo oltre Greta Thunberg. Perché non basta un’icona green FIAB - Federazione Italiana Ambiente e Bicicletta"
+        },
+        {
+          "title": "Miriam, la Greta Thunberg italiana: «Litigo con mamma per i termosifoni accesi» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Miriam, la Greta Thunberg italiana: «Litigo con mamma per i termosifoni accesi» Vanity Fair Italia"
+        },
+        {
+          "title": "Greta e l'Asperger: il saggio, lo stolto e la Luna - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Greta e l'Asperger: il saggio, lo stolto e la Luna Il Bo Live"
+        },
+        {
+          "title": "Chi vuole essere Greta Thunberg? - www.sinistraitaliana.si",
+          "source": "www.sinistraitaliana.si",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Chi vuole essere Greta Thunberg? www.sinistraitaliana.si"
+        },
+        {
+          "title": "\"Greta strilla perché il pianeta si scalda. Lei che vive nella fredda Svezia dovrebbe essere contenta\" - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "\"Greta strilla perché il pianeta si scalda. Lei che vive nella fredda Svezia dovrebbe essere contenta\" HuffPost Italia"
+        },
+        {
+          "title": "Le sette verità di Greta Thunberg e dei giovani - Strisciarossa",
+          "source": "Strisciarossa",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Le sette verità di Greta Thunberg e dei giovani Strisciarossa"
+        }
+      ]
+    },
+    "Iris_(rete_televisiva)": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Iris è un canale televisivo gratuito italiano edito da Mediaset disponibile sul digitale terrestre italiano e via satellite con la piattaforma Tivùsat, lanciato il 30 novembre 2007.",
+      "news": []
+    },
+    "Bike_Channel": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Bike Channel è un canale televisivo tematico italiano dedicato al mondo del ciclismo.",
+      "news": [
+        {
+          "title": "Poker di Marianne Vos, suo il â€œ21Â° Trofeo Alfredo Binda â€“ Comune di Cittiglioâ - bikenews.it",
+          "source": "bikenews.it",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "Poker di Marianne Vos, suo il â€œ21Â° Trofeo Alfredo Binda â€“ Comune di Cittiglioâ bikenews.it"
+        }
+      ]
+    },
+    "Kayden_Boche": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": []
+    },
+    "Equinozio": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Equinozio è quel momento della rivoluzione terrestre intorno al Sole in cui quest'ultimo si trova allo zenit dell'equatore, per cui i raggi solari giungono perpendicolarmente all'asse di rotazione della Terra. Esso ricorre due volte durante l'anno solare e in quel momento il periodo diurno, ovvero quello di esposizione alla luce del Sole, e quello notturno sono di ugual durata su tutto il pianeta.",
+      "news": [
+        {
+          "title": "L'equinozio di primavera 2019 - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 20 Mar 2019 12:00:20 GMT",
+          "description": "L'equinozio di primavera 2019 Focus.it"
+        },
+        {
+          "title": "Aspettando Pasqua tra equinozio e superluna - Media INAF",
+          "source": "Media INAF",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Aspettando Pasqua tra equinozio e superluna Media INAF"
+        },
+        {
+          "title": "Equinozio di primavera è oggi 20 marzo (e non domani): alle 22.58 finisce l'inverno - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Equinozio di primavera è oggi 20 marzo (e non domani): alle 22.58 finisce l'inverno la Repubblica"
+        },
+        {
+          "title": "In che modo la Super Luna 2019 di questa notte influirà sul nostro umore (e non solo) - ELLE",
+          "source": "ELLE",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "In che modo la Super Luna 2019 di questa notte influirà sul nostro umore (e non solo) ELLE"
+        },
+        {
+          "title": "La data “anomala” della Pasqua 2019 – ArcheoAstronomia UAI - Unione Astrofili Italiani",
+          "source": "Unione Astrofili Italiani",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "La data “anomala” della Pasqua 2019 – ArcheoAstronomia UAI Unione Astrofili Italiani"
+        },
+        {
+          "title": "Equinozio di primavera: le 10 curiosità che non ti aspettavi - Skuola.net",
+          "source": "Skuola.net",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Equinozio di primavera: le 10 curiosità che non ti aspettavi Skuola.net"
+        },
+        {
+          "title": "L’Equinozio di Primavera al Pantheon - Consul Press",
+          "source": "Consul Press",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "L’Equinozio di Primavera al Pantheon Consul Press"
+        },
+        {
+          "title": "Lunatone e Solrock cromatici fanno la loro comparsa in Pokémon GO - Pokémon Millennium",
+          "source": "Pokémon Millennium",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Lunatone e Solrock cromatici fanno la loro comparsa in Pokémon GO Pokémon Millennium"
+        },
+        {
+          "title": "Buon Equinozio di Primavera 2019! Ecco le più belle IMMAGINI, GIF, FRASI, CITAZIONI e VIDEO da condividere oggi - MeteoWeb",
+          "source": "MeteoWeb",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Buon Equinozio di Primavera 2019! Ecco le più belle IMMAGINI, GIF, FRASI, CITAZIONI e VIDEO da condividere oggi MeteoWeb"
+        },
+        {
+          "title": "I luoghi più belli del mondo da vedere negli equinozi e nei solstizi - ViaggiNews.com",
+          "source": "ViaggiNews.com",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "I luoghi più belli del mondo da vedere negli equinozi e nei solstizi ViaggiNews.com"
+        }
+      ]
+    },
+    "Festa_del_papà": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Festa del papà è una ricorrenza civile diffusa in alcune aree del mondo, celebrata in onore della figura del padre, della paternità e dell'influenza sociale dei padri. Nella Svizzera italiana è elevata a festività a tutti gli effetti.",
+      "news": [
+        {
+          "title": "Festa del papà: perché si festeggia il 19 marzo? - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Festa del papà: perché si festeggia il 19 marzo? FocusJunior.it"
+        },
+        {
+          "title": "Festa del Papà, perché (in Italia) si celebra il 19 marzo: storia e curiosità - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Festa del Papà, perché (in Italia) si celebra il 19 marzo: storia e curiosità Corriere della Sera"
+        },
+        {
+          "title": "Festa del papà, le foto con i bambini nati al Niguarda di Milano - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Festa del papà, le foto con i bambini nati al Niguarda di Milano la Repubblica"
+        },
+        {
+          "title": "19 marzo - Festa del Papà: il ricordo di Henry Dunant, padre dei Volontari CRI - Comitato Regionale Sicilia - Croce Rossa Italiana",
+          "source": "Croce Rossa Italiana",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "19 marzo - Festa del Papà: il ricordo di Henry Dunant, padre dei Volontari CRI - Comitato Regionale Sicilia Croce Rossa Italiana"
+        },
+        {
+          "title": "Festa del papà 2019: 10 frasi d’auguri per il 19 marzo - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Festa del papà 2019: 10 frasi d’auguri per il 19 marzo Amica.it"
+        },
+        {
+          "title": "Festa del papà 2019: le ricerche degli utenti in rete e le proposte dei brand - Inside Marketing",
+          "source": "Inside Marketing",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Festa del papà 2019: le ricerche degli utenti in rete e le proposte dei brand Inside Marketing"
+        },
+        {
+          "title": "Festa del papà vip: le dediche più belle delle star, da Marcuzzi a Pieraccioni - Today",
+          "source": "Today",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Festa del papà vip: le dediche più belle delle star, da Marcuzzi a Pieraccioni Today"
+        },
+        {
+          "title": "Festa del papà con due mamme: vignettista minacciato di morte - TrevisoToday",
+          "source": "TrevisoToday",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Festa del papà con due mamme: vignettista minacciato di morte TrevisoToday"
+        },
+        {
+          "title": "Tifosi: padre e figlio, la storia continua. È la festa del papà - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Tifosi: padre e figlio, la storia continua. È la festa del papà La Gazzetta dello Sport"
+        },
+        {
+          "title": "I nostri regali per la festa del papà - La Cucina Italiana",
+          "source": "La Cucina Italiana",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "I nostri regali per la festa del papà La Cucina Italiana"
+        }
+      ]
+    },
+    "Campionato_europeo_di_calcio_2020": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il campionato europeo maschile di calcio 2020 o UEFA EURO 2020, noto anche come Europa 2020, è stata la 16ª edizione dell'omonimo torneo, organizzato dall'UEFA, che si è disputata nel 2021.",
+      "news": [
+        {
+          "title": "Ecco Skillzy, la mascotte di Euro 2020. Oltre 50 anni di personaggi rappresentativi di campionati europei e... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Ecco Skillzy, la mascotte di Euro 2020. Oltre 50 anni di personaggi rappresentativi di campionati europei e... Corriere della Sera"
+        },
+        {
+          "title": "Rivelata la mascotte ufficiale di UEFA Euro 2020: Skillzy fa il suo esordio ad Amsterdam - FIGC",
+          "source": "FIGC",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "Rivelata la mascotte ufficiale di UEFA Euro 2020: Skillzy fa il suo esordio ad Amsterdam FIGC"
+        },
+        {
+          "title": "Euro 2020 a Roma, Totti e Vialli ambasciatori della FIGC - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Euro 2020 a Roma, Totti e Vialli ambasciatori della FIGC Goal.com"
+        },
+        {
+          "title": "Alkemy con BizUp vince la gara FIGC per i social e il reclutamento volontari - youmark.it",
+          "source": "youmark.it",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Alkemy con BizUp vince la gara FIGC per i social e il reclutamento volontari youmark.it"
+        },
+        {
+          "title": "Il calcio friulano in stand by si riscatta con le giocatrici di serie A - UdineToday",
+          "source": "UdineToday",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Il calcio friulano in stand by si riscatta con le giocatrici di serie A UdineToday"
+        },
+        {
+          "title": "Giorgio Armani firma le divise formali della Nazionale di calcio italiana - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Giorgio Armani firma le divise formali della Nazionale di calcio italiana Il Messaggero"
+        },
+        {
+          "title": "Albania, esonerato il Ct Panucci: fatale il ko con la Turchia - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Albania, esonerato il Ct Panucci: fatale il ko con la Turchia Sky Sport"
+        },
+        {
+          "title": "Nazionale Calcio, Armani firma il guardaroba formale - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Nazionale Calcio, Armani firma il guardaroba formale Il Sole 24 ORE"
+        },
+        {
+          "title": "Gli Azzurri vestiranno Emporio Armani: firmato dalla FIGC un accordo quadriennale con lo stilista - FIGC",
+          "source": "FIGC",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Gli Azzurri vestiranno Emporio Armani: firmato dalla FIGC un accordo quadriennale con lo stilista FIGC"
+        },
+        {
+          "title": "Euro 2020, la Figc annuncia: Totti e Vialli gli ambasciatori dell’Italia - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Euro 2020, la Figc annuncia: Totti e Vialli gli ambasciatori dell’Italia Fanpage"
+        }
+      ]
+    },
+    "La_verità_sul_caso_Harry_Quebert": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La verità sul caso Harry Quebert è un romanzo di Joël Dicker del 2012. In Italia è uscito l'anno seguente per Bompiani.",
+      "news": [
+        {
+          "title": "Com'è la serie tv tratta dal bestseller “La verità sul caso Harry Quebert” - Wired",
+          "source": "Wired",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Com'è la serie tv tratta dal bestseller “La verità sul caso Harry Quebert” Wired"
+        },
+        {
+          "title": "«La verità sul caso Harry Quebert»: le ragioni per guardare la serie tv (a parte Patrick Dempsey) - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "«La verità sul caso Harry Quebert»: le ragioni per guardare la serie tv (a parte Patrick Dempsey) Corriere della Sera"
+        },
+        {
+          "title": "“La verità sul caso Harry Quebert”: come la serie tv intacca il mistero - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "“La verità sul caso Harry Quebert”: come la serie tv intacca il mistero Il Fatto Quotidiano"
+        },
+        {
+          "title": "Scopri tutto su La verità sul caso Harry Quebert - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Scopri tutto su La verità sul caso Harry Quebert Sky TG24"
+        },
+        {
+          "title": "Arriva \"La verità sul caso Harry Quebert\" con Patrick Dempsey - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Arriva \"La verità sul caso Harry Quebert\" con Patrick Dempsey Il Sole 24 ORE"
+        },
+        {
+          "title": "I film e le serie tv in streaming della settimana: da The OA 2 a La Verità sul Caso Harry Quebert - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "I film e le serie tv in streaming della settimana: da The OA 2 a La Verità sul Caso Harry Quebert Movieplayer"
+        },
+        {
+          "title": "La verità sul caso Harry Quebert: Su Sky la miniserie con Patrick Dempsey, una clip in anteprima - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "La verità sul caso Harry Quebert: Su Sky la miniserie con Patrick Dempsey, una clip in anteprima ComingSoon.it"
+        },
+        {
+          "title": "La verità sul caso Harry Quebert, anticipazioni sugli episodi 1 e 2 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "La verità sul caso Harry Quebert, anticipazioni sugli episodi 1 e 2 Sky TG24"
+        },
+        {
+          "title": "La verità sul caso Harry Quebert, la nuova clip in anteprima della serie con Patrick Dempsey - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "La verità sul caso Harry Quebert, la nuova clip in anteprima della serie con Patrick Dempsey Best Movie"
+        },
+        {
+          "title": "La verità sul caso Harry Quebert: la clip - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "La verità sul caso Harry Quebert: la clip HuffPost Italia"
+        }
+      ]
+    },
+    "Michael_Jackson": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Michael Joseph Jackson è stato un cantautore, compositore, ballerino, coreografo, produttore discografico, imprenditore e filantropo statunitense.",
+      "news": [
+        {
+          "title": "Leaving Neverland, lo scandalo di Michael Jackson è uno strazio da affrontare - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Leaving Neverland, lo scandalo di Michael Jackson è uno strazio da affrontare Wired Italia"
+        },
+        {
+          "title": "«Leaving Neverland», il documentario su Michael Jackson: cosa aspettarsi? - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "«Leaving Neverland», il documentario su Michael Jackson: cosa aspettarsi? Corriere della Sera"
+        },
+        {
+          "title": "“Leaving Neverland”, il discusso documentario su Michael Jackson - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "“Leaving Neverland”, il discusso documentario su Michael Jackson Il Post"
+        },
+        {
+          "title": "Diana Ross difende Michael Jackson dopo le accuse di ‘Leaving Neverland’ - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Diana Ross difende Michael Jackson dopo le accuse di ‘Leaving Neverland’ Rolling Stone Italia"
+        },
+        {
+          "title": "L'eterna ombra di Michael Jackson - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "L'eterna ombra di Michael Jackson Esquire"
+        },
+        {
+          "title": "Il documentario su Michael Jackson stasera e domani in tv in Italia - AGI",
+          "source": "AGI",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Il documentario su Michael Jackson stasera e domani in tv in Italia AGI"
+        },
+        {
+          "title": "Vuitton ritira i capi ispirati a Michael Jackson dal mercato americano. Stasera il documentario che accusa la star a dieci anni dalla morte - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Vuitton ritira i capi ispirati a Michael Jackson dal mercato americano. Stasera il documentario che accusa la star a dieci anni dalla morte Il Sole 24 ORE"
+        },
+        {
+          "title": "Mediaset Cult: Michael Jackson sale sul palco dei Telegatti 1997 Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Mediaset Cult: Michael Jackson sale sul palco dei Telegatti 1997 Video Mediaset Infinity"
+        },
+        {
+          "title": "Michael Jackson, il nero pentito - Marcello Veneziani",
+          "source": "Marcello Veneziani",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Michael Jackson, il nero pentito Marcello Veneziani"
+        },
+        {
+          "title": "Barbra Streisand su Michael Jackson: \"Credo a quei ragazzi ma quel che è successo non li ha uccisi\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Barbra Streisand su Michael Jackson: \"Credo a quei ragazzi ma quel che è successo non li ha uccisi\" la Repubblica"
+        }
+      ]
+    },
+    "Il_nome_della_rosa_(miniserie_televisiva)": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il nome della rosa è una miniserie televisiva italo-tedesca del 2019, creata e diretta da Giacomo Battiato per Rai Fiction e Tele München. Adattamento televisivo dell'omonimo romanzo di Umberto Eco del 1980, la miniserie è una co-produzione tra le case di produzione italiane 11 Marzo Film e Palomar.",
+      "news": [
+        {
+          "title": "Il nome della rosa di Giacomo Battiato con John Turturro e Rupert Everett, recensione degli episodi 5 e 6 - Daruma View",
+          "source": "Daruma View",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Il nome della rosa di Giacomo Battiato con John Turturro e Rupert Everett, recensione degli episodi 5 e 6 Daruma View"
+        },
+        {
+          "title": "Racconti di Cinema - Il nome della rosa di Jean-Jacques Annaud - Daruma View",
+          "source": "Daruma View",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Racconti di Cinema - Il nome della rosa di Jean-Jacques Annaud Daruma View"
+        },
+        {
+          "title": "Il nome della rosa, Serie/ Ultima puntata, finale: incendio abbazia e scelta di Adso - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Il nome della rosa, Serie/ Ultima puntata, finale: incendio abbazia e scelta di Adso IlSussidiario.net"
+        },
+        {
+          "title": "Il Nome della Rosa: ecco tutto il CAST! - Tvserial.it",
+          "source": "Tvserial.it",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Il Nome della Rosa: ecco tutto il CAST! Tvserial.it"
+        },
+        {
+          "title": "Il nome della rosa 1×05/1×06 – La Disputa che delude - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Il nome della rosa 1×05/1×06 – La Disputa che delude Hall of Series"
+        }
+      ]
+    },
+    "Luca_Casarini": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Luca Casarini è un attivista italiano, noto per essere stato uno dei leader del movimento no-global italiano prima, e poi uno dei co-fondatori dell'ong Mediterranea Saving Humans.",
+      "news": [
+        {
+          "title": "Luca Casarini, chi è l’uomo a capo della nave Ong Mare Jonio - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Luca Casarini, chi è l’uomo a capo della nave Ong Mare Jonio Sky TG24"
+        },
+        {
+          "title": "Chi è Luca Casarini, l'ex attivista no-global che ora salva i migranti - Wired",
+          "source": "Wired",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Chi è Luca Casarini, l'ex attivista no-global che ora salva i migranti Wired"
+        },
+        {
+          "title": "Luca Casarini: «Salvini oggi è il vero disobbediente» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Luca Casarini: «Salvini oggi è il vero disobbediente» Rolling Stone Italia"
+        },
+        {
+          "title": "Chi è Luca Casarini dai centri sociali a Mediterranea - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Chi è Luca Casarini dai centri sociali a Mediterranea RaiNews"
+        },
+        {
+          "title": "Luca Casarini torna in prima linea con la Ong Mare Jonio - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Luca Casarini torna in prima linea con la Ong Mare Jonio Corriere della Sera"
+        },
+        {
+          "title": "Chi è Luca Casarini, dal G8 di Genova ad armatore delle navi Ong - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Chi è Luca Casarini, dal G8 di Genova ad armatore delle navi Ong Il Sole 24 ORE"
+        },
+        {
+          "title": "Chi è Luca Casarini, l’ex no global che ora salva le vite in mare - Open",
+          "source": "Open",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Chi è Luca Casarini, l’ex no global che ora salva le vite in mare Open"
+        },
+        {
+          "title": "Riecco Luca Casarini, dai centri sociali alla nave Ong - AGI",
+          "source": "AGI",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Riecco Luca Casarini, dai centri sociali alla nave Ong AGI"
+        },
+        {
+          "title": "Luca Casarini reati: tutti commessi per la sua militanza, le parole di Salvini - Giornalettismo",
+          "source": "Giornalettismo",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Luca Casarini reati: tutti commessi per la sua militanza, le parole di Salvini Giornalettismo"
+        },
+        {
+          "title": "Casarini dalle Tute Bianche del G8 del 2001 alla missione sulla Mare Jonio - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Casarini dalle Tute Bianche del G8 del 2001 alla missione sulla Mare Jonio la Repubblica"
+        }
+      ]
+    },
+    "Mötley_Crüe": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Mötley Crüe sono un gruppo musicale glam metal statunitense formatosi a Los Angeles nel 1981.",
+      "news": [
+        {
+          "title": "‘The Dirt’, parla il regista: «I Mötley Crüe hanno pianto guardando il film» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "‘The Dirt’, parla il regista: «I Mötley Crüe hanno pianto guardando il film» Rolling Stone Italia"
+        },
+        {
+          "title": "Stranger Things 3, nel trailer The Who e Motley Crue - Musicoff Community",
+          "source": "Musicoff Community",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Stranger Things 3, nel trailer The Who e Motley Crue Musicoff Community"
+        },
+        {
+          "title": "Mötley Crüe, Nikki Sixx: “Spendevo più di 1000 dollari al giorno in droghe, è stata dura vederlo nel film”. Tutti gli eccessi della band - Virgin Radio",
+          "source": "Virgin Radio",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Mötley Crüe, Nikki Sixx: “Spendevo più di 1000 dollari al giorno in droghe, è stata dura vederlo nel film”. Tutti gli eccessi della band Virgin Radio"
+        },
+        {
+          "title": "The Dirt, la recensione: il film Netflix sui Motley Crue è l'anti-Bohemian Rhapsody? - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "The Dirt, la recensione: il film Netflix sui Motley Crue è l'anti-Bohemian Rhapsody? Movieplayer"
+        },
+        {
+          "title": "\"The Dirt\": lo speciale di Metalitalia.com sul film dei MÖTLEY CRÜE - Metalitalia.com",
+          "source": "Metalitalia.com",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "\"The Dirt\": lo speciale di Metalitalia.com sul film dei MÖTLEY CRÜE Metalitalia.com"
+        },
+        {
+          "title": "The Dirt: 5 motivi per vedere il biopic sui Mötley Crüe - The HotCorn",
+          "source": "The HotCorn",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "The Dirt: 5 motivi per vedere il biopic sui Mötley Crüe The HotCorn"
+        },
+        {
+          "title": "‘The Dirt’, il film sui Mötley Crüe, alla prova del fact-checking - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "‘The Dirt’, il film sui Mötley Crüe, alla prova del fact-checking Rolling Stone Italia"
+        },
+        {
+          "title": "Mötley Crüe, The Dirt: la vera storia di quando Ozzy Osbourne ha sniffato le formiche e leccato la pipì - Virgin Radio",
+          "source": "Virgin Radio",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Mötley Crüe, The Dirt: la vera storia di quando Ozzy Osbourne ha sniffato le formiche e leccato la pipì Virgin Radio"
+        },
+        {
+          "title": "Nikki Sixx: «Sono morto e resuscitato come Gesù Cristo» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Nikki Sixx: «Sono morto e resuscitato come Gesù Cristo» Rolling Stone Italia"
+        },
+        {
+          "title": "‘Stranger Things’, guarda il primo trailer dell’attesissima terza stagione - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "‘Stranger Things’, guarda il primo trailer dell’attesissima terza stagione Rolling Stone Italia"
+        }
+      ]
+    },
+    "Premium_Cinema": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Premium Cinema è stato un gruppo di canali televisivi a pagamento editi da Mediaset dedicati al cinema. Ha iniziato la sua programmazione l'8 maggio 2009 con il solo canale Premium Cinema.",
+      "news": [
+        {
+          "title": "Film stasera in TV da non perdere oggi, mercoledì 20 marzo - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Film stasera in TV da non perdere oggi, mercoledì 20 marzo Sky TG24"
+        },
+        {
+          "title": "La rinascita del Nuovo Cinema Aquila Attori, registi e tanti ospiti al Pigneto - Corriere Roma",
+          "source": "Corriere Roma",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "La rinascita del Nuovo Cinema Aquila Attori, registi e tanti ospiti al Pigneto Corriere Roma"
+        },
+        {
+          "title": "Red 11 | La recensione del film horror di Robert Rodriguez (SXSW 2019) - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Red 11 | La recensione del film horror di Robert Rodriguez (SXSW 2019) Il Cineocchio"
+        },
+        {
+          "title": "Justice League, supereroi chiamati a difendere l'umanità - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Justice League, supereroi chiamati a difendere l'umanità Sky TG24"
+        },
+        {
+          "title": "Hanna – Recensione della nuova serie Amazon Prime Video - GameLegends.it",
+          "source": "GameLegends.it",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Hanna – Recensione della nuova serie Amazon Prime Video GameLegends.it"
+        },
+        {
+          "title": "Bentornato Presidente, Claudio Bisio: \"Sono un premier cretino tra due vice litiganti\" - Today",
+          "source": "Today",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Bentornato Presidente, Claudio Bisio: \"Sono un premier cretino tra due vice litiganti\" Today"
+        },
+        {
+          "title": "Peppermint – L’Angelo della Vendetta: le prime due clip italiane - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Peppermint – L’Angelo della Vendetta: le prime due clip italiane BadTaste"
+        },
+        {
+          "title": "Disattivare TIM Prime GO è facile: ecco come fare - SmartWorld",
+          "source": "SmartWorld",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Disattivare TIM Prime GO è facile: ecco come fare SmartWorld"
+        },
+        {
+          "title": "Captive State - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Captive State MYmovies"
+        },
+        {
+          "title": "Tales of the City: Netflix mostra le prime foto del revival - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
+          "description": "Tales of the City: Netflix mostra le prime foto del revival ComingSoon.it"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "N. 484 - Aspetti economici e regolamentari delle «cripto-attività» - Banca d'Italia",
+          "source": "Banca d'Italia",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "N. 484 - Aspetti economici e regolamentari delle «cripto-attività» Banca d'Italia"
+        },
+        {
+          "title": "Blog | Il gender gap dei suicidi in Italia negli ultimi 30 anni - Info Data - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "Blog | Il gender gap dei suicidi in Italia negli ultimi 30 anni - Info Data Il Sole 24 ORE"
+        },
+        {
+          "title": "Italia-Finlandia: i precedenti - Udinese",
+          "source": "Udinese",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Italia-Finlandia: i precedenti Udinese"
+        },
+        {
+          "title": "Pony: Future Team Italia. Ecco i primi cinque qualificati per Piazza di Siena - Federazione Italiana Sport Equestri",
+          "source": "Federazione Italiana Sport Equestri",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "Pony: Future Team Italia. Ecco i primi cinque qualificati per Piazza di Siena Federazione Italiana Sport Equestri"
+        },
+        {
+          "title": "Prodi \"L'Italia si sta risvegliando oggi tutti con la bandiera dell'Europa perché inizia la nostra primavera\" - Partito democratico",
+          "source": "Partito democratico",
+          "pubDate": "Thu, 21 Mar 2019 07:00:00 GMT",
+          "description": "Prodi \"L'Italia si sta risvegliando oggi tutti con la bandiera dell'Europa perché inizia la nostra primavera\" Partito democratico"
+        },
+        {
+          "title": "VI Limes Festival: L’Italia fra America e Russia: con chi stiamo? [video del dibattito] - Limes",
+          "source": "Limes",
+          "pubDate": "Sun, 24 Mar 2019 07:00:00 GMT",
+          "description": "VI Limes Festival: L’Italia fra America e Russia: con chi stiamo? [video del dibattito] Limes"
+        },
+        {
+          "title": "CARACCIOLO (LIMES): PER L’ITALIA IL CNEL NON È MAI STATO IMPORTANTE COME OGGI - CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO",
+          "source": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "CARACCIOLO (LIMES): PER L’ITALIA IL CNEL NON È MAI STATO IMPORTANTE COME OGGI CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO"
+        },
+        {
+          "title": "La questione meridionale? Nasce con l’Unità d’Italia - Lavoce.info",
+          "source": "Lavoce.info",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "La questione meridionale? Nasce con l’Unità d’Italia Lavoce.info"
+        },
+        {
+          "title": "Trascrizione del cambio di residenza o domicilio - Suomi ulkomailla",
+          "source": "Suomi ulkomailla",
+          "pubDate": "Sun, 24 Mar 2019 04:39:22 GMT",
+          "description": "Trascrizione del cambio di residenza o domicilio Suomi ulkomailla"
+        },
+        {
+          "title": "Italia-Cina: cosa c’è negli accordi sulla Via della Seta. Dossier per 20 miliardi potenziali - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Sat, 23 Mar 2019 07:00:00 GMT",
+          "description": "Italia-Cina: cosa c’è negli accordi sulla Via della Seta. Dossier per 20 miliardi potenziali Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Il_nome_della_rosa": {
+      "fetched_at": "2026-11-06T16:08:47+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il nome della rosa, pubblicato nel 1980, è il romanzo d'esordio di Umberto Eco. È un giallo storico ambientato in un imprecisato monastero benedettino del Nord Italia nel novembre dell'anno 1327 che intreccia semiotica, analisi biblica, studi medievali e teoria letteraria. All’epoca Umberto Eco era già un accademico affermato nonché autore prolifico di saggi. Il romanzo è oggi un bestseller che ha venduto oltre 50 milioni di copie in tutto il mondo.",
+      "news": [
+        {
+          "title": "\"Il nome della rosa\", ecco i luoghi dove è stata girata la fiction - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Fri, 22 Mar 2019 07:00:00 GMT",
+          "description": "\"Il nome della rosa\", ecco i luoghi dove è stata girata la fiction TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Il nome della rosa - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Il nome della rosa Rai.it"
+        },
+        {
+          "title": "John Turturro, il suo Nome della rosa: «Le paure del Medioevo sono quelle di oggi» - Famiglia Cristiana",
+          "source": "Famiglia Cristiana",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "John Turturro, il suo Nome della rosa: «Le paure del Medioevo sono quelle di oggi» Famiglia Cristiana"
+        },
+        {
+          "title": "La Sacra di San Michele, che ha ispirato “Il nome della Rosa” di Eco - SiViaggia",
+          "source": "SiViaggia",
+          "pubDate": "Tue, 19 Mar 2019 07:00:00 GMT",
+          "description": "La Sacra di San Michele, che ha ispirato “Il nome della Rosa” di Eco SiViaggia"
+        },
+        {
+          "title": "\"Il nome della Rosa\": trama, cast e anticipazioni - Today",
+          "source": "Today",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "\"Il nome della Rosa\": trama, cast e anticipazioni Today"
+        },
+        {
+          "title": "Effetto «Nome della rosa»: Indiana ci riprova con il Gattopardo - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Effetto «Nome della rosa»: Indiana ci riprova con il Gattopardo Corriere della Sera"
+        },
+        {
+          "title": "Fabrizio Bentivoglio è Remigio in \"Il nome della rosa\" - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 25 Mar 2019 07:00:00 GMT",
+          "description": "Fabrizio Bentivoglio è Remigio in \"Il nome della rosa\" TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Alessio Boni, tra i protagonisti di “Il nome della rosa”: «Combatto per la libertà» - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 18 Mar 2019 07:00:00 GMT",
+          "description": "Alessio Boni, tra i protagonisti di “Il nome della rosa”: «Combatto per la libertà» TV Sorrisi e Canzoni"
+        }
+      ]
+    }
+  }
+}

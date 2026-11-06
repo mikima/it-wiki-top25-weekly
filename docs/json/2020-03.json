@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Bettino%20Craxi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Bettino_Craxi",
       "article_url": "https://it.wikipedia.org/wiki/Bettino_Craxi",
-      "description": "politico italiano (1934-2000)",
+      "description": "Ex presidente del Consiglio e segretario del PSI, muore il 19 gennaio 2000. Dal 9 gennaio è al cinema il film Hammamet.",
       "image_filename": "Bettino_Craxi_MEP_Portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bettino_Craxi_MEP_Portrait.jpg/1280px-Bettino_Craxi_MEP_Portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bettino_Craxi_MEP_Portrait.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Concessionaria del servizio pubblico radiotelevisivo, è in classifica da 27 settimane consecutive.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Pietro%20Anastasi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Pietro_Anastasi",
       "article_url": "https://it.wikipedia.org/wiki/Pietro_Anastasi",
-      "description": "calciatore italiano (1948-2020)",
+      "description": "Ex attaccante della Juventus e campione d'Europa con l'Italia nel 1968, muore il 17 gennaio a 71 anni.",
       "image_filename": "Pietro_Anastasi_-_Juventus_FC_1971-72.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pietro_Anastasi_-_Juventus_FC_1971-72.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pietro_Anastasi_-_Juventus_FC_1971-72.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Jojo%20Rabbit&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Jojo_Rabbit",
       "article_url": "https://it.wikipedia.org/wiki/Jojo_Rabbit",
-      "description": "film del 2019 diretto da Taika Waititi",
+      "description": "Il film di Taika Waititi esce nelle sale italiane il 16 gennaio, dopo aver ottenuto sei candidature agli Oscar.",
       "image_filename": "Jojo_Rabbit.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Jojo_Rabbit.png/1280px-Jojo_Rabbit.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jojo_Rabbit.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Leonardo%20Spinazzola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Leonardo_Spinazzola",
       "article_url": "https://it.wikipedia.org/wiki/Leonardo_Spinazzola",
-      "description": "calciatore italiano (1993-)",
+      "description": "Difensore della Roma, è al centro di uno scambio con Matteo Politano dell'Inter, che salta il 17 gennaio.",
       "image_filename": "Leonardo_Spinazzola_03.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Leonardo_Spinazzola_03.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_Spinazzola_03.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Can%20Yaman&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Can_Yaman",
       "article_url": "https://it.wikipedia.org/wiki/Can_Yaman",
-      "description": "attore e modello turco (1989-)",
+      "description": "Attore turco, è ospite della seconda puntata di C'è posta per te, in onda il 18 gennaio su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Richard%20Jewell%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Richard_Jewell_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Richard_Jewell_(film)",
-      "description": "film biografico drammatico del 2019 diretto da Clint Eastwood",
+      "description": "Il film di Clint Eastwood sulla vicenda di Richard Jewell esce nelle sale italiane il 16 gennaio.",
       "image_filename": "Richard_Jewell_film.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3c/Richard_Jewell_film.jpg/1236px-Richard_Jewell_film.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Richard_Jewell_film.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Sex%20Education&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Sex_Education",
       "article_url": "https://it.wikipedia.org/wiki/Sex_Education",
-      "description": "serie televisiva britannica del 2019",
+      "description": "Il 17 gennaio esce su Netflix la seconda stagione della serie britannica.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, il 13 gennaio concorda un periodo di transizione per l'uscita di Harry e Meghan dagli incarichi reali.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Ashley%20Young&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Ashley_Young",
       "article_url": "https://it.wikipedia.org/wiki/Ashley_Young",
-      "description": "calciatore inglese",
+      "description": "Calciatore inglese del Manchester United, il 17 gennaio passa ufficialmente all'Inter.",
       "image_filename": "Ashley_Young_2018-06-13_1.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ashley_Young_2018-06-13_1.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ashley_Young_2018-06-13_1.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Hammamet%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Hammamet_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Hammamet_(film)",
-      "description": "film del 2020 diretto da Gianni Amelio",
+      "description": "Il film di Gianni Amelio sugli ultimi anni di Bettino Craxi è al cinema dal 9 gennaio, con Pierfrancesco Favino protagonista.",
       "image_filename": "Favino_Craxi_Hammamet_film.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/9a/Favino_Craxi_Hammamet_film.png/1280px-Favino_Craxi_Hammamet_film.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Favino_Craxi_Hammamet_film.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Richard%20Jewell&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Richard_Jewell",
       "article_url": "https://it.wikipedia.org/wiki/Richard_Jewell",
-      "description": "poliziotto statunitense (1962-2007)",
+      "description": "Poliziotto statunitense morto nel 2007, è il protagonista del film di Clint Eastwood uscito al cinema il 16 gennaio.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Morbius&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Morbius",
       "article_url": "https://it.wikipedia.org/wiki/Morbius",
-      "description": "personaggio dei fumetti Marvel Comics",
+      "description": "Personaggio dei fumetti Marvel, il 13 gennaio esce il primo trailer del film che lo vede interpretato da Jared Leto.",
       "image_filename": "Morbius.webp",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Morbius.webp/662px-Morbius.webp.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Morbius.webp",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Tommaso%20Buscetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Tommaso_Buscetta",
       "article_url": "https://it.wikipedia.org/wiki/Tommaso_Buscetta",
-      "description": "mafioso e collaboratore di giustizia italiano (1928-2000)",
+      "description": "Mafioso e collaboratore di giustizia, è interpretato da Pierfrancesco Favino nel film Il traditore. Difficile stabilire il motivo del picco.",
       "image_filename": "Buscetta_tommaso.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Buscetta_tommaso.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Buscetta_tommaso.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Quique%20Seti%C3%A9n&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Quique_Seti%C3%A9n",
       "article_url": "https://it.wikipedia.org/wiki/Quique_Seti%C3%A9n",
-      "description": "allenatore di calcio ed ex calciatore spagnolo (1958-)",
+      "description": "Allenatore spagnolo, il 13 gennaio viene nominato alla guida del Barcellona al posto di Ernesto Valverde.",
       "image_filename": "Quique_setién.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Quique_seti%C3%A9n.jpg/1276px-Quique_seti%C3%A9n.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Quique_seti%C3%A9n.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Matteo%20Politano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Matteo_Politano",
       "article_url": "https://it.wikipedia.org/wiki/Matteo_Politano",
-      "description": "calciatore italiano (1993-)",
+      "description": "Attaccante dell'Inter, il 15 gennaio arriva a Roma per uno scambio con Leonardo Spinazzola, che salta il 17 gennaio.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Christian%20Eriksen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Christian_Eriksen",
       "article_url": "https://it.wikipedia.org/wiki/Christian_Eriksen",
-      "description": "calciatore danese (1992-)",
+      "description": "Centrocampista danese del Tottenham, il 17 gennaio è tra i giocatori trattati dall'Inter sul mercato.",
       "image_filename": "20140904_-_Christian_Eriksen_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/20140904_-_Christian_Eriksen_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:20140904_-_Christian_Eriksen_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Federico%20Fellini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Federico_Fellini",
       "article_url": "https://it.wikipedia.org/wiki/Federico_Fellini",
-      "description": "regista, sceneggiatore, fumettista, attore e scrittore italiano (1920-1993)",
+      "description": "Regista italiano, il 20 gennaio ricorre il centenario della sua nascita.",
       "image_filename": "Federico_Fellini_010.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Federico_Fellini_010.jpg/1280px-Federico_Fellini_010.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Federico_Fellini_010.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Premi%20Oscar%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Premi_Oscar_2020",
       "article_url": "https://it.wikipedia.org/wiki/Premi_Oscar_2020",
-      "description": "92ª edizione della cerimonia degli Oscar",
+      "description": "Il 13 gennaio vengono annunciate le candidature alla 92ª edizione degli Oscar; Jojo Rabbit ne ottiene sei.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20New%20Pope&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=The_New_Pope",
       "article_url": "https://it.wikipedia.org/wiki/The_New_Pope",
-      "description": "miniserie televisiva italo-franco-spagnola-statunitense di Paolo Sorrentino del 2020",
+      "description": "Il 17 gennaio vanno in onda su Sky Atlantic il terzo e il quarto episodio della serie di Paolo Sorrentino.",
       "image_filename": "The_New_Pope.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_New_Pope.jpg/1280px-The_New_Pope.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_New_Pope.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Giampaolo%20Pansa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Giampaolo_Pansa",
       "article_url": "https://it.wikipedia.org/wiki/Giampaolo_Pansa",
-      "description": "giornalista, saggista e scrittore italiano (1935–2020)",
+      "description": "Giornalista e scrittore italiano, autore del libro Il sangue dei vinti, muore il 12 gennaio a 84 anni.",
       "image_filename": "Giampaolo_pansa_rimini_agosto_2010.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Giampaolo_pansa_rimini_agosto_2010.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giampaolo_pansa_rimini_agosto_2010.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Amadeus%20%28conduttore%20televisivo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Amadeus_(conduttore_televisivo)",
       "article_url": "https://it.wikipedia.org/wiki/Amadeus_(conduttore_televisivo)",
-      "description": "conduttore televisivo, conduttore radiofonico, showman e disc jockey italiano (1962-)",
+      "description": "Conduttore di Sanremo 2020, il 14 gennaio presenta le donne del Festival e suscita polemiche per alcune dichiarazioni.",
       "image_filename": "Amadeus_2023.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Amadeus_2023.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amadeus_2023.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Meghan%2C%20duchessa%20di%20Sussex&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Meghan%2C_duchessa_di_Sussex",
       "article_url": "https://it.wikipedia.org/wiki/Meghan%2C_duchessa_di_Sussex",
-      "description": "",
+      "description": "Attrice statunitense e moglie del principe Harry, il 18 gennaio raggiunge con lui un accordo sull'uscita dagli incarichi reali.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Cristiano_Ronaldo",
       "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "description": "calciatore portoghese (1985-)",
+      "description": "Attaccante portoghese della Juventus, il 19 gennaio segna una doppietta nella vittoria per 2-1 contro il Parma.",
       "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Skam%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/13/2020,cd_max:01/19/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-13&end=2020-01-19&pages=Skam_Italia",
       "article_url": "https://it.wikipedia.org/wiki/Skam_Italia",
-      "description": "serie televisiva italiana",
+      "description": "Serie televisiva italiana ideata da Ludovico Bessegato, non presenta un picco di visite riconducibile a un evento preciso.",
       "image_filename": "Skam_Italia_logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Skam_Italia_logo.svg/1280px-Skam_Italia_logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Skam_Italia_logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

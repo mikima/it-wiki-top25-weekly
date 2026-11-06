@@ -1,0 +1,1387 @@
+{
+  "week": "2019-46",
+  "start_date": "2019-11-11",
+  "end_date": "2019-11-17",
+  "articles": {
+    "MOSE": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il MOSE è un sistema di dighe mobili finalizzato alla difesa della città di Venezia e della sua laguna dal fenomeno dell'acqua alta, in concomitanza di eventi meteo-marini avversi nell'Alto Adriatico. È strutturato in quattro barriere collocate alle bocche di porto della laguna di Venezia, composte da settantotto paratoie mobili tra loro indipendenti, incernierate al fondale su un lato e movimentate grazie alla variazione della propria galleggiabilità tramite l'immissione e l'espulsione di acqua e aria.",
+      "news": [
+        {
+          "title": "A che punto è la costruzione del Mose a Venezia? - Wired",
+          "source": "Wired",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "A che punto è la costruzione del Mose a Venezia? Wired"
+        },
+        {
+          "title": "Venezia, viaggio sott’acqua nella «pancia» del Mose - Corriere del Veneto",
+          "source": "Corriere del Veneto",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Venezia, viaggio sott’acqua nella «pancia» del Mose Corriere del Veneto"
+        },
+        {
+          "title": "Venezia, l’acqua alta e il Mose quasi finito. Perché le dighe non sono state usate - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Venezia, l’acqua alta e il Mose quasi finito. Perché le dighe non sono state usate Il Sole 24 ORE"
+        },
+        {
+          "title": "A Chioggia, funziona il mini-Mose - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "A Chioggia, funziona il mini-Mose RaiNews"
+        },
+        {
+          "title": "Venezia, decine di milioni di tangenti e una ventina di condanne: perché non c'è il Mose a proteggere la città - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Venezia, decine di milioni di tangenti e una ventina di condanne: perché non c'è il Mose a proteggere la città Il Fatto Quotidiano"
+        },
+        {
+          "title": "Come funziona e a che punto è il Mose - AGI",
+          "source": "AGI",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Come funziona e a che punto è il Mose AGI"
+        },
+        {
+          "title": "Venezia, perché il Mose non è stato azionato contro l'acqua alta? Parla l'ingegnere che l'ha progettato: «Sarebbe stato un atto incosciente - Open",
+          "source": "Open",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Venezia, perché il Mose non è stato azionato contro l'acqua alta? Parla l'ingegnere che l'ha progettato: «Sarebbe stato un atto incosciente Open"
+        },
+        {
+          "title": "Venezia, l'acqua alta e il Mose che ancora non funziona: a che punto siamo - Today",
+          "source": "Today",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Venezia, l'acqua alta e il Mose che ancora non funziona: a che punto siamo Today"
+        },
+        {
+          "title": "Acqua alta a Venezia: il sistema Mose, la prevenzione e le dighe olandesi - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Acqua alta a Venezia: il sistema Mose, la prevenzione e le dighe olandesi Il Bo Live"
+        },
+        {
+          "title": "Luigi Brugnaro, sindaco di Venezia: \"Io del Mose non so nulla, in tutti questi anni non mi hanno tenuto informato di niente\" - LA7",
+          "source": "LA7",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Luigi Brugnaro, sindaco di Venezia: \"Io del Mose non so nulla, in tutti questi anni non mi hanno tenuto informato di niente\" LA7"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Pezzi unici - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 13 Nov 2019 23:21:39 GMT",
+          "description": "Pezzi unici RaiPlay"
+        },
+        {
+          "title": "Una Storia da Cantare - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 12 Nov 2019 21:21:10 GMT",
+          "description": "Una Storia da Cantare RaiPlay"
+        },
+        {
+          "title": "Mani Rosse - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 15 Nov 2019 05:19:31 GMT",
+          "description": "Mani Rosse RaiPlay"
+        },
+        {
+          "title": "Pane, amore e... - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 11 Nov 2019 11:32:39 GMT",
+          "description": "Pane, amore e... RaiPlay"
+        },
+        {
+          "title": "Maria Lai, \"Legarsi alla montagna\" - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Maria Lai, \"Legarsi alla montagna\" Rai Cultura"
+        },
+        {
+          "title": "Negramaro. L'anima vista da qui - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 15 Nov 2019 12:57:14 GMT",
+          "description": "Negramaro. L'anima vista da qui RaiPlay"
+        }
+      ]
+    },
+    "Enrico_Piaggio": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Enrico Piaggio è stato un imprenditore italiano.",
+      "news": [
+        {
+          "title": "Enrico Piaggio. Un sogno italiano - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Enrico Piaggio. Un sogno italiano Rai.it"
+        },
+        {
+          "title": "Televisione: martedì su Rai Uno il film su Enrico Piaggio - PisaToday",
+          "source": "PisaToday",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Televisione: martedì su Rai Uno il film su Enrico Piaggio PisaToday"
+        },
+        {
+          "title": "Enrico Piaggio: un sogno italiano, questa sera su Rai1 - inSella",
+          "source": "inSella",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Enrico Piaggio: un sogno italiano, questa sera su Rai1 inSella"
+        },
+        {
+          "title": "Dal suo ingegnere che non amava le moto all'origine del nome Vespa: 8 aneddoti su Enrico Piaggio - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Dal suo ingegnere che non amava le moto all'origine del nome Vespa: 8 aneddoti su Enrico Piaggio Corriere della Sera"
+        },
+        {
+          "title": "Il film su Enrico Piaggio in onda su Rai Uno - L'Arno.it",
+          "source": "L'Arno.it",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Il film su Enrico Piaggio in onda su Rai Uno L'Arno.it"
+        },
+        {
+          "title": "Alessio Boni interpreta Enrico Piaggio: su RaiUno rivive il mito della Vespa - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Alessio Boni interpreta Enrico Piaggio: su RaiUno rivive il mito della Vespa BergamoNews"
+        },
+        {
+          "title": "Enrico Piaggio – Un sogno italiano: Alessio Boni, “Piaggio? Un pioniere. Dovremmo prenderlo da esempio” - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Enrico Piaggio – Un sogno italiano: Alessio Boni, “Piaggio? Un pioniere. Dovremmo prenderlo da esempio” Movieplayer"
+        },
+        {
+          "title": "La Vespa e il sogno italiano in tv. Alessio Boni è Enrico Piaggio: «Fu un autentico visionario e pioniere - Agenziaimpress.it",
+          "source": "Agenziaimpress.it",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "La Vespa e il sogno italiano in tv. Alessio Boni è Enrico Piaggio: «Fu un autentico visionario e pioniere Agenziaimpress.it"
+        },
+        {
+          "title": "Enrico Piaggio in Tv con la Vespa dell'arcivescovo - QuiNewsValdera.it",
+          "source": "QuiNewsValdera.it",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Enrico Piaggio in Tv con la Vespa dell'arcivescovo QuiNewsValdera.it"
+        },
+        {
+          "title": "Una Vespa 50 su Rai 1 per Enrica Pintore - La Nuova Sardegna",
+          "source": "La Nuova Sardegna",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Una Vespa 50 su Rai 1 per Enrica Pintore La Nuova Sardegna"
+        }
+      ]
+    },
+    "Morte_di_Stefano_Cucchi": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'omicidio di Stefano Cucchi avvenne a Roma il 22 ottobre 2009, mentre il giovane era sottoposto a custodia cautelare, in seguito a percosse da parte di due carabinieri, che gli hanno causato innumerevoli fratture ed emorragie interne.",
+      "news": [
+        {
+          "title": "Sentenza Cucchi: soddisfazione di Amnesty International Italia - Amnesty International Italia",
+          "source": "Amnesty International Italia",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Sentenza Cucchi: soddisfazione di Amnesty International Italia Amnesty International Italia"
+        },
+        {
+          "title": "Processo bis per la morte di Stefano Cucchi (12.11.2019) - Radio Radicale",
+          "source": "Radio Radicale",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Processo bis per la morte di Stefano Cucchi (12.11.2019) Radio Radicale"
+        },
+        {
+          "title": "Caso Cucchi, fu omicidio preterintenzionale: condannati a 12 anni due carabinieri. Ilaria: \"Stefano ora può … - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Caso Cucchi, fu omicidio preterintenzionale: condannati a 12 anni due carabinieri. Ilaria: \"Stefano ora può … la Repubblica"
+        },
+        {
+          "title": "Ilaria Cucchi racconta i dettagli atroci della morte di Stefano Cucchi - Marie Claire",
+          "source": "Marie Claire",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Ilaria Cucchi racconta i dettagli atroci della morte di Stefano Cucchi Marie Claire"
+        },
+        {
+          "title": "Attesa in serata la sentenza per la morte di Stefano Cucchi - BrindisiReport",
+          "source": "BrindisiReport",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Attesa in serata la sentenza per la morte di Stefano Cucchi BrindisiReport"
+        },
+        {
+          "title": "Morte Stefano Cucchi, condannati due carabinieri. «È stato un omicidio» - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Morte Stefano Cucchi, condannati due carabinieri. «È stato un omicidio» Avvenire"
+        },
+        {
+          "title": "Cucchi, condannati a 12 anni i carabinieri Di Bernardo e D'Alessandro: omicidio preterintenzionale - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Cucchi, condannati a 12 anni i carabinieri Di Bernardo e D'Alessandro: omicidio preterintenzionale Fanpage"
+        },
+        {
+          "title": "Cucchi, sentenza Appello Ter: prescrizione per quattro medici e uno assolto - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Cucchi, sentenza Appello Ter: prescrizione per quattro medici e uno assolto RaiNews"
+        },
+        {
+          "title": "Stefano Cucchi, giudice si astiene nel processo sul depistaggio: \"Sono un ex carabiniere\". Ministero Giustizia si costituisce parte civile - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Stefano Cucchi, giudice si astiene nel processo sul depistaggio: \"Sono un ex carabiniere\". Ministero Giustizia si costituisce parte civile Il Fatto Quotidiano"
+        },
+        {
+          "title": "Stefano Cucchi: 12 anni per omicidio ai due carabinieri. La sorella Ilaria: «Ora potrà riposare in pace» - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Stefano Cucchi: 12 anni per omicidio ai due carabinieri. La sorella Ilaria: «Ora potrà riposare in pace» Leggo.it"
+        }
+      ]
+    },
+    "Venezia": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Venezia è un comune italiano di 249 749 abitanti, capoluogo dell'omonima città metropolitana e della regione del Veneto. Per le peculiarità urbanistiche e per il suo patrimonio artistico è stata dichiarata, assieme alla sua laguna, patrimonio dell'umanità dall'UNESCO, il che ha contribuito a farne la seconda città italiana dopo Roma con il più alto flusso turistico.",
+      "news": [
+        {
+          "title": "La Biennale di Venezia nella storia - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "La Biennale di Venezia nella storia Rai Cultura"
+        },
+        {
+          "title": "Venezia non può morire, Venezia vive! - FAI – Fondo Ambiente Italiano",
+          "source": "FAI – Fondo Ambiente Italiano",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Venezia non può morire, Venezia vive! FAI – Fondo Ambiente Italiano"
+        },
+        {
+          "title": "Patriarca Moraglia: ripensare Venezia, tutele e turismo sostenibile - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Patriarca Moraglia: ripensare Venezia, tutele e turismo sostenibile Vatican News"
+        },
+        {
+          "title": "Quanto è frequente l’acqua alta a Venezia - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Quanto è frequente l’acqua alta a Venezia Il Post"
+        },
+        {
+          "title": "Venezia, l’acqua alta e il Mose quasi finito. Perché le dighe non sono state usate - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Venezia, l’acqua alta e il Mose quasi finito. Perché le dighe non sono state usate Il Sole 24 ORE"
+        },
+        {
+          "title": "Un tempo l'acqua alta a Venezia era una poesia, oggi è una catastrofe che riguarda tutti noi - ELLE Decor",
+          "source": "ELLE Decor",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Un tempo l'acqua alta a Venezia era una poesia, oggi è una catastrofe che riguarda tutti noi ELLE Decor"
+        },
+        {
+          "title": "Domenica In 2019/20 - Il Sindaco Luigi Brugnaro in collegamento da Venezia - 17/11/2019 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Domenica In 2019/20 - Il Sindaco Luigi Brugnaro in collegamento da Venezia - 17/11/2019 - Video RaiPlay"
+        },
+        {
+          "title": "A Venezia un disastro annunciato - WWF Italia",
+          "source": "WWF Italia",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "A Venezia un disastro annunciato WWF Italia"
+        },
+        {
+          "title": "Oltre 1660 interventi portati a termine dai Vigili del fuoco tra Venezia e il Sud Italia - vigilfuoco.it",
+          "source": "vigilfuoco.it",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Oltre 1660 interventi portati a termine dai Vigili del fuoco tra Venezia e il Sud Italia vigilfuoco.it"
+        },
+        {
+          "title": "Venezia e l'acqua granda: la città si deve abituare a fenomeni del genere? - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Venezia e l'acqua granda: la città si deve abituare a fenomeni del genere? Il Bo Live"
+        }
+      ]
+    },
+    "Campionato_europeo_di_calcio_2020": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il campionato europeo maschile di calcio 2020 o UEFA EURO 2020, noto anche come Europa 2020, è stata la 16ª edizione dell'omonimo torneo, organizzato dall'UEFA, che si è disputata nel 2021.",
+      "news": [
+        {
+          "title": "Finlandia e Svezia a Euro 2020: tutti i risultati - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Finlandia e Svezia a Euro 2020: tutti i risultati Sky Sport"
+        },
+        {
+          "title": "Heineken rinnova la partnership con la Champions League e diventa Official Beer partner di Euro 2020 - ADC Group",
+          "source": "ADC Group",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Heineken rinnova la partnership con la Champions League e diventa Official Beer partner di Euro 2020 ADC Group"
+        },
+        {
+          "title": "La più pagata al mondo: al Chelsea arriva Samantha Kerr - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "La più pagata al mondo: al Chelsea arriva Samantha Kerr Euronews.com"
+        },
+        {
+          "title": "Chi sono i 23 calciatori convocati dall’Italia per l’Europeo 2020? - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Chi sono i 23 calciatori convocati dall’Italia per l’Europeo 2020? Fanpage"
+        },
+        {
+          "title": "Calcio femminile, Italia Malta 5-0: una vittoria degna di un 2019 Mondiale - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Calcio femminile, Italia Malta 5-0: una vittoria degna di un 2019 Mondiale iO Donna"
+        },
+        {
+          "title": "Il calcio della Germania Est dopo la caduta del Muro - Archistadia",
+          "source": "Archistadia",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Il calcio della Germania Est dopo la caduta del Muro Archistadia"
+        },
+        {
+          "title": "San Marino - Kazakistan in diretta su Radio San Marino Classic - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "San Marino - Kazakistan in diretta su Radio San Marino Classic San Marino Rtv"
+        },
+        {
+          "title": "Mistero Bale: infortunato per il Real, ma si allena con il Galles - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Mistero Bale: infortunato per il Real, ma si allena con il Galles Fanpage"
+        }
+      ]
+    },
+    "Muro_di_Berlino": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Muro di Berlino fu un sistema di barriere attivo dal 1961 al 1989, eretto da parte del governo della Germania Est per impedire la libera circolazione delle persone verso la Germania Ovest.",
+      "news": [
+        {
+          "title": "Quando 2 studenti italiani aiutarono 29 persone a oltrepassare il muro di Berlino - The Vision",
+          "source": "The Vision",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Quando 2 studenti italiani aiutarono 29 persone a oltrepassare il muro di Berlino The Vision"
+        },
+        {
+          "title": "Muro di Berlino, 30 anni dopo la caduta. Le testimonianze - Radio Popolare",
+          "source": "Radio Popolare",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Muro di Berlino, 30 anni dopo la caduta. Le testimonianze Radio Popolare"
+        },
+        {
+          "title": "Le foto storiche del muro di Berlino - LifeGate",
+          "source": "LifeGate",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Le foto storiche del muro di Berlino LifeGate"
+        },
+        {
+          "title": "I Depeche Mode oltre il muro di Berlino - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "I Depeche Mode oltre il muro di Berlino Esquire"
+        }
+      ]
+    },
+    "Antonella_Bechi_Piaggio": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Antonella Bechi Luserna Piaggio è stata figlia adottiva di Enrico Piaggio e moglie di Umberto Agnelli.",
+      "news": [
+        {
+          "title": "Enrico Piaggio: la storia e le curiosità sul padre della 'Vespa' - Donna Glamour",
+          "source": "Donna Glamour",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Enrico Piaggio: la storia e le curiosità sul padre della 'Vespa' Donna Glamour"
+        }
+      ]
+    },
+    "Adriano_Celentano": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Adriano Celentano è un cantante, showman, attore, regista, sceneggiatore, compositore, conduttore televisivo, umorista, comico, produttore discografico e ballerino italiano.",
+      "news": [
+        {
+          "title": "Adrian di Adriano Celentano, la recensione della sesta puntata della serie - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Adrian di Adriano Celentano, la recensione della sesta puntata della serie Movieplayer"
+        },
+        {
+          "title": "Verissimo: Gerry Scotti e Adriano Celentano Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Verissimo: Gerry Scotti e Adriano Celentano Video Mediaset Infinity"
+        },
+        {
+          "title": "Verissimo, Gerry Scotti ribatte a Celentano: \"Sbaglia. Noi diamo soldi degli sponsor. E non abbiamo l'anello al naso\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Verissimo, Gerry Scotti ribatte a Celentano: \"Sbaglia. Noi diamo soldi degli sponsor. E non abbiamo l'anello al naso\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Adrian, Maria De Filippi e Gianni Morandi ospiti di Adriano Celentano - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Adrian, Maria De Filippi e Gianni Morandi ospiti di Adriano Celentano Mediaset Infinity"
+        },
+        {
+          "title": "Maria De Filippi stasera tra gli ospiti di Adrian - Originals Diario | Witty TV - Witty TV",
+          "source": "Witty TV",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Maria De Filippi stasera tra gli ospiti di Adrian - Originals Diario | Witty TV Witty TV"
+        },
+        {
+          "title": "Striscia la notizia: I nuovi mostri con Adriano Celentano Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Striscia la notizia: I nuovi mostri con Adriano Celentano Video Mediaset Infinity"
+        },
+        {
+          "title": "Maria De Filippi ‘soccorre’ Adriano Celentano, sarà ospite della seconda puntata di Adrian - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Maria De Filippi ‘soccorre’ Adriano Celentano, sarà ospite della seconda puntata di Adrian Fanpage"
+        },
+        {
+          "title": "Adriano Celentano, ecco chi è il 'molleggiato' della musica italiana - PopcornTv.it",
+          "source": "PopcornTv.it",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Adriano Celentano, ecco chi è il 'molleggiato' della musica italiana PopcornTv.it"
+        },
+        {
+          "title": "Adrian diretta 14 novembre – Celentano ospita la De Filippi e Morandi - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Adrian diretta 14 novembre – Celentano ospita la De Filippi e Morandi Marida Caterini"
+        },
+        {
+          "title": "Adrian come C'è posta per te, Maria De Filippi narra l'infanzia di Adriano Celentano poi lo bacia - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Adrian come C'è posta per te, Maria De Filippi narra l'infanzia di Adriano Celentano poi lo bacia Fanpage"
+        }
+      ]
+    },
+    "Lara_Comi": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lara Comi è una politica italiana, europarlamentare dal 2009 al 2019 e dal novembre 2022 al giugno 2024.",
+      "news": [
+        {
+          "title": "Lara Comi e la rapida ascesa politica da Milano a Bruxelles - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Lara Comi e la rapida ascesa politica da Milano a Bruxelles Il Sole 24 ORE"
+        },
+        {
+          "title": "Chi è Lara Comi, la politica millennial da Garbagnate a Strasburgo - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Chi è Lara Comi, la politica millennial da Garbagnate a Strasburgo Corriere Milano"
+        },
+        {
+          "title": "Lara Comi, da assistente di Mariastella Gelmini a vicepresidente del Ppe al Parlamento europeo - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Lara Comi, da assistente di Mariastella Gelmini a vicepresidente del Ppe al Parlamento europeo Il Messaggero"
+        },
+        {
+          "title": "Tangenti in Lombardia, il legale di Lara Comi: \"Convinta di non aver commesso reati. Perché Caianiello la accusa? Non spetta a me dirlo\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Tangenti in Lombardia, il legale di Lara Comi: \"Convinta di non aver commesso reati. Perché Caianiello la accusa? Non spetta a me dirlo\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Chi è Lara Comi, da Garbagnate Milanese all'Ue con Forza Italia - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Chi è Lara Comi, da Garbagnate Milanese all'Ue con Forza Italia Sky TG24"
+        },
+        {
+          "title": "La rapida carriera politica di Lara Comi - AGI",
+          "source": "AGI",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "La rapida carriera politica di Lara Comi AGI"
+        },
+        {
+          "title": "Tangenti, arrestata l’ex eurodeputata Lara Comi - Open",
+          "source": "Open",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Tangenti, arrestata l’ex eurodeputata Lara Comi Open"
+        },
+        {
+          "title": "Arresti domiciliari per l’ex europarlamentare Lara Comi - Eunews",
+          "source": "Eunews",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Arresti domiciliari per l’ex europarlamentare Lara Comi Eunews"
+        },
+        {
+          "title": "Arrestati Lara Comi (Forza Italia) e l'ad dei supermercati Tigros Paolo Orrigoni - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Arrestati Lara Comi (Forza Italia) e l'ad dei supermercati Tigros Paolo Orrigoni MilanoToday"
+        },
+        {
+          "title": "\"L'unico interesse era come garantirsi i voti\": le chat che accusano Lara Comi e gli altri arrestati - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "\"L'unico interesse era come garantirsi i voti\": le chat che accusano Lara Comi e gli altri arrestati la Repubblica"
+        }
+      ]
+    },
+    "Liliana_Segre": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Liliana Segre è una superstite dell'Olocausto, attivista e politica italiana.",
+      "news": [
+        {
+          "title": "Gli insulti a Liliana Segre e i negazionisti dell'odio: Repubblica conferma i dati - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Gli insulti a Liliana Segre e i negazionisti dell'odio: Repubblica conferma i dati la Repubblica"
+        },
+        {
+          "title": "Liliana Segre: «...Finché avrà vita l’ultimo testimone» - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre: «...Finché avrà vita l’ultimo testimone» Il Sole 24 ORE"
+        },
+        {
+          "title": "Liliana Segre: \"Io non perdono e non dimentico, ma non odio\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre: \"Io non perdono e non dimentico, ma non odio\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "L'editoriale. Liliana Segre e l'evoluzione dell'odio in rete - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "L'editoriale. Liliana Segre e l'evoluzione dell'odio in rete Il Bo Live"
+        },
+        {
+          "title": "Liliana Segre: \"Io non perdono e non dimentico. Ma non odio\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre: \"Io non perdono e non dimentico. Ma non odio\" RaiNews"
+        },
+        {
+          "title": "Commissione Segre, Giorgia Meloni: \"Grande ambiguità da parte della sinistra, nella mozione non c'è mai citata la parola Israele perché altrimenti la sinistra non l'avrebbe votata\" - La7",
+          "source": "La7",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Commissione Segre, Giorgia Meloni: \"Grande ambiguità da parte della sinistra, nella mozione non c'è mai citata la parola Israele perché altrimenti la sinistra non l'avrebbe votata\" La7"
+        },
+        {
+          "title": "I fattoidi sul caso Segre e i 200 insulti al giorno antisemiti - Open",
+          "source": "Open",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "I fattoidi sul caso Segre e i 200 insulti al giorno antisemiti Open"
+        },
+        {
+          "title": "Viaggi della Memoria, Unione Istriani invita la senatrice Liliana Segre - TRIESTE.news",
+          "source": "TRIESTE.news",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Viaggi della Memoria, Unione Istriani invita la senatrice Liliana Segre TRIESTE.news"
+        },
+        {
+          "title": "Biella, no di Lega e Fratelli d'Italia alla cittadinanza onoraria a Liliana Segre - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Biella, no di Lega e Fratelli d'Italia alla cittadinanza onoraria a Liliana Segre la Repubblica"
+        },
+        {
+          "title": "Francesco Guccini: “Vergognoso il Parlamento sulla senatrice Liliana Segre\". Il cantautore torna e racconta un incontro con Vasco - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Francesco Guccini: “Vergognoso il Parlamento sulla senatrice Liliana Segre\". Il cantautore torna e racconta un incontro con Vasco Il Fatto Quotidiano"
+        }
+      ]
+    },
+    "Fabrizio_De_André": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fabrizio Cristiano De André è stato un cantautore italiano.",
+      "news": [
+        {
+          "title": "Una Storia da Cantare 2019 - Una storia da cantare - Fabrizio De André - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Una Storia da Cantare 2019 - Una storia da cantare - Fabrizio De André - Video RaiPlay"
+        },
+        {
+          "title": "Fabrizio De André non ha bisogno di orrendi tributi (come quello di Enrico Ruggeri a \"Una storia da cantare\") - Rockit",
+          "source": "Rockit",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Fabrizio De André non ha bisogno di orrendi tributi (come quello di Enrico Ruggeri a \"Una storia da cantare\") Rockit"
+        },
+        {
+          "title": "“Belìn mi dicono che è pericoloso e allora lo faccio”: quando De André incontrò la PFM - L'Eco di Bergamo",
+          "source": "L'Eco di Bergamo",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "“Belìn mi dicono che è pericoloso e allora lo faccio”: quando De André incontrò la PFM L'Eco di Bergamo"
+        },
+        {
+          "title": "Dori Ghezzi: \"Ognuno di noi si porta dentro il suo Fabrizio\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Dori Ghezzi: \"Ognuno di noi si porta dentro il suo Fabrizio\" la Repubblica"
+        },
+        {
+          "title": "Ornella Vanoni dimentica il testo di \"Bocca di rosa\": \"Non vedo un caz*o\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Ornella Vanoni dimentica il testo di \"Bocca di rosa\": \"Non vedo un caz*o\" Fanpage"
+        },
+        {
+          "title": "Enrico Ruggeri e Bianca Guaccero fanno tv nuova: \"Una storia da cantare\" - The Way Magazine",
+          "source": "The Way Magazine",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Enrico Ruggeri e Bianca Guaccero fanno tv nuova: \"Una storia da cantare\" The Way Magazine"
+        },
+        {
+          "title": "Fabrizio De André, come è morto/ La malattia e il rapimento con Dori Ghezzi - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Fabrizio De André, come è morto/ La malattia e il rapimento con Dori Ghezzi IlSussidiario.net"
+        },
+        {
+          "title": "Le mogli di Fabrizio De André: chi è Dori Ghezzi? Chi è Enrica Rignon Puni? - Teleclubitalia",
+          "source": "Teleclubitalia",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Le mogli di Fabrizio De André: chi è Dori Ghezzi? Chi è Enrica Rignon Puni? Teleclubitalia"
+        },
+        {
+          "title": "Una storia da cantare, Rai1 celebra Fabrizio De André, Lucio Dalla e Lucio Battisti - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Una storia da cantare, Rai1 celebra Fabrizio De André, Lucio Dalla e Lucio Battisti Fanpage"
+        },
+        {
+          "title": "Dori Ghezzi: età, genitori, De André, marito, figli e Instagram - Novella 2000",
+          "source": "Novella 2000",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Dori Ghezzi: età, genitori, De André, marito, figli e Instagram Novella 2000"
+        }
+      ]
+    },
+    "Cristiano_Ronaldo": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cristiano Ronaldo dos Santos Aveiro è un calciatore portoghese, attaccante dell'Al-Nassr, di cui è capitano. Con la nazionale portoghese, è diventato campione d'Europa nel 2016 e ha vinto la UEFA Nations League 2018-2019 e 2024-2025.",
+      "news": [
+        {
+          "title": "Europei, le qualificate: c’è anche il Portogallo di Cristiano Ronaldo (che segna il gol n. 99) - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Europei, le qualificate: c’è anche il Portogallo di Cristiano Ronaldo (che segna il gol n. 99) Corriere della Sera"
+        },
+        {
+          "title": "Cosa ha detto veramente Cristiano Ronaldo a Sarri - Ultimo Uomo",
+          "source": "Ultimo Uomo",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Cosa ha detto veramente Cristiano Ronaldo a Sarri Ultimo Uomo"
+        },
+        {
+          "title": "Cosa ha detto Cristiano Ronaldo a Sarri al momento della sostituzione? - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Cosa ha detto Cristiano Ronaldo a Sarri al momento della sostituzione? Fanpage"
+        },
+        {
+          "title": "Cristiano Ronaldo, il cambio e il rientro negli spogliatoi. Sarri: \"Arrabbiato? Mi fa piacere\". Ma dovranno chiarirsi dopo la sosta nazionali - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Cristiano Ronaldo, il cambio e il rientro negli spogliatoi. Sarri: \"Arrabbiato? Mi fa piacere\". Ma dovranno chiarirsi dopo la sosta nazionali Il Fatto Quotidiano"
+        },
+        {
+          "title": "Caso Cristiano Ronaldo, Bonucci gli rivolge parole chiare - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Caso Cristiano Ronaldo, Bonucci gli rivolge parole chiare Virgilio"
+        },
+        {
+          "title": "Cristiano Ronaldo polemico con Lussemburgo: \"Difficile giocare su un campo di patate\" - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Cristiano Ronaldo polemico con Lussemburgo: \"Difficile giocare su un campo di patate\" Goal.com"
+        },
+        {
+          "title": "Fabio Capello: \"Cristiano Ronaldo meno agile per l’età. Meglio se fa il centravanti\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Fabio Capello: \"Cristiano Ronaldo meno agile per l’età. Meglio se fa il centravanti\" la Repubblica"
+        },
+        {
+          "title": "Cristiano Ronaldo, lo strappo e la sosta che arriva nel momento giusto - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Cristiano Ronaldo, lo strappo e la sosta che arriva nel momento giusto Corriere della Sera"
+        },
+        {
+          "title": "Daniele Adani attacca Fabio Capello: \"Frase su Cristiano Ronaldo è una cavolata assurda\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Daniele Adani attacca Fabio Capello: \"Frase su Cristiano Ronaldo è una cavolata assurda\" Fanpage"
+        },
+        {
+          "title": "Cristiano Ronaldo sulla tripletta col Portogallo: \"Adoro questa sensazione\" - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Cristiano Ronaldo sulla tripletta col Portogallo: \"Adoro questa sensazione\" Goal.com"
+        }
+      ]
+    },
+    "Zlatan_Ibrahimović": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Zlatan Ibrahimović è un dirigente sportivo ed ex calciatore svedese, di ruolo attaccante, senior advisor di RedBird Capital Partners e consulente del Milan dal 2023.",
+      "news": [
+        {
+          "title": "Ibrahimovic può davvero tornare in Serie A - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Ibrahimovic può davvero tornare in Serie A Sky Sport"
+        },
+        {
+          "title": "Ibrahimovic e il post di addio ai LA Galaxy sul baseball - Giornalettismo",
+          "source": "Giornalettismo",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Ibrahimovic e il post di addio ai LA Galaxy sul baseball Giornalettismo"
+        },
+        {
+          "title": "\"Mind the gum\", Ibrahimović è il testimonial della start-up milanese - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "\"Mind the gum\", Ibrahimović è il testimonial della start-up milanese MilanoToday"
+        },
+        {
+          "title": "Ibra è il solito, anche negli spot. VIDEO - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Ibra è il solito, anche negli spot. VIDEO Sky Sport"
+        },
+        {
+          "title": "Ibrahimovic saluta i Galaxy: 'Ora potete tornare a guardare baseball' - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Ibrahimovic saluta i Galaxy: 'Ora potete tornare a guardare baseball' Sky TG24"
+        }
+      ]
+    },
+    "Acqua_alta": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'acqua alta è il fenomeno dei picchi di marea particolarmente pronunciati che si verificano con periodicità nell'Adriatico settentrionale e con particolare intensità nella laguna di Venezia tali da provocare allagamenti nelle aree urbane di Venezia e Chioggia e, molto più raramente, di Grado e Trieste. Il fenomeno è frequente soprattutto nel periodo autunnale-primaverile, quando particolari condizioni meteorologiche si combinano con i venti di scirocco che, spirando dal canale d'Otranto lungo tutta la lunghezza del bacino marino, impediscono il regolare deflusso delle acque, o di bora, che ostacolano invece localmente il deflusso delle lagune e dei fiumi del litorale veneto.",
+      "news": [
+        {
+          "title": "A Venezia un'acqua alta del genere non si vedeva da decenni - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "A Venezia un'acqua alta del genere non si vedeva da decenni Wired Italia"
+        },
+        {
+          "title": "Acqua alta: a Grado l'emergenza sta rientrando - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Acqua alta: a Grado l'emergenza sta rientrando RaiNews"
+        },
+        {
+          "title": "Quanto è frequente l’acqua alta a Venezia - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Quanto è frequente l’acqua alta a Venezia Il Post"
+        },
+        {
+          "title": "Acqua alta a Venezia, la marea più devastante dal 1966 - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Acqua alta a Venezia, la marea più devastante dal 1966 Corriere della Sera"
+        },
+        {
+          "title": "Acqua alta a Venezia, le immagini storiche delle annate record dal 1966 a oggi. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Acqua alta a Venezia, le immagini storiche delle annate record dal 1966 a oggi. FOTO Sky TG24"
+        },
+        {
+          "title": "Alluvione storica a Venezia. Il punto sui danni al patrimonio artistico - Artribune",
+          "source": "Artribune",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Alluvione storica a Venezia. Il punto sui danni al patrimonio artistico Artribune"
+        },
+        {
+          "title": "Ristoranti di Venezia: cosa fare dopo l’acqua alta - Dissapore",
+          "source": "Dissapore",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Ristoranti di Venezia: cosa fare dopo l’acqua alta Dissapore"
+        },
+        {
+          "title": "Venezia, l’acqua alta e il Mose quasi finito. Perché le dighe non sono state usate - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Venezia, l’acqua alta e il Mose quasi finito. Perché le dighe non sono state usate Il Sole 24 ORE"
+        },
+        {
+          "title": "Venezia, oggi ancora acqua alta, toccati i 154 cm, San Marco chiusa. Il Comune apre un conto per gli aiuti - Finestre sull'Arte",
+          "source": "Finestre sull'Arte",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Venezia, oggi ancora acqua alta, toccati i 154 cm, San Marco chiusa. Il Comune apre un conto per gli aiuti Finestre sull'Arte"
+        },
+        {
+          "title": "Rimini: L'acqua alta invade spiagge, il porto e l'area del Ponte di Tiberio - RiminiToday",
+          "source": "RiminiToday",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Rimini: L'acqua alta invade spiagge, il porto e l'area del Ponte di Tiberio RiminiToday"
+        }
+      ]
+    },
+    "Le_Mans_'66_-_La_grande_sfida": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le Mans '66 - La grande sfida è un film del 2019 diretto da James Mangold.",
+      "news": [
+        {
+          "title": "Le Mans '66 - La grande sfida. La recensione - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Le Mans '66 - La grande sfida. La recensione Sentieri selvaggi"
+        },
+        {
+          "title": "Ascolta le colonne sonore di Le Mans ’66 – La grande sfida - screenWEEK",
+          "source": "screenWEEK",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Ascolta le colonne sonore di Le Mans ’66 – La grande sfida screenWEEK"
+        },
+        {
+          "title": "Le Mans '66 - La grande sfida (2019) di James Mangold - Recensione - Quinlan.it",
+          "source": "Quinlan.it",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Le Mans '66 - La grande sfida (2019) di James Mangold - Recensione Quinlan.it"
+        },
+        {
+          "title": "«Le Mans '66 - La Grande Sfida», le auto più belle - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "«Le Mans '66 - La Grande Sfida», le auto più belle GQ Italia"
+        },
+        {
+          "title": "Le Mans ’66 – La Grande Sfida, la trama del film - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Le Mans ’66 – La Grande Sfida, la trama del film Sky TG24"
+        },
+        {
+          "title": "Le Mans '66 - La grande sfida, recensione: la Ford duella con la Ferrari, Mangold attacca Hollywood - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Le Mans '66 - La grande sfida, recensione: la Ford duella con la Ferrari, Mangold attacca Hollywood Movieplayer"
+        },
+        {
+          "title": "Le Mans ’66 – La grande sfida: perché il film del weekend non è soltanto per uomini - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Le Mans ’66 – La grande sfida: perché il film del weekend non è soltanto per uomini iO Donna"
+        },
+        {
+          "title": "Le Mans '66. Tutto quello che c'è da sapere prima di andare al cinema - Motor1.com Italia",
+          "source": "Motor1.com Italia",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Le Mans '66. Tutto quello che c'è da sapere prima di andare al cinema Motor1.com Italia"
+        },
+        {
+          "title": "Le Mans '66 - La Grande Sfida | La recensione del film di James Mangold - The HotCorn",
+          "source": "The HotCorn",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Le Mans '66 - La Grande Sfida | La recensione del film di James Mangold The HotCorn"
+        },
+        {
+          "title": "Le Mans 66, la grande sfida: la storia dei pneumatici Goodyear nel film - QN Motori",
+          "source": "QN Motori",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Le Mans 66, la grande sfida: la storia dei pneumatici Goodyear nel film QN Motori"
+        }
+      ]
+    },
+    "Eddie_Edwards_(sciatore)": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Michael Thomas Edwards, detto Eddie, è un ex saltatore con gli sci britannico. Soprannominato The Eagle (L'aquila), divenne celebre per essere stato il primo atleta britannico ad aver partecipato ai giochi olimpici invernali nella specialità del salto con gli sci: alle Olimpiadi di Calgary 1988 giunse ultimo nelle gare dai trampolini K70 e K90.",
+      "news": []
+    },
+    "Qualificazioni_al_campionato_europeo_di_calcio_2020": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Questa voce raccoglie un approfondimento sui risultati degli incontri e sulle classifiche per l'accesso alla fase finale del campionato europeo di calcio 2020.",
+      "news": [
+        {
+          "title": "Finlandia e Svezia a Euro 2020: tutti i risultati - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Finlandia e Svezia a Euro 2020: tutti i risultati Sky Sport"
+        },
+        {
+          "title": "Chi sono i 23 calciatori convocati dall’Italia per l’Europeo 2020? - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Chi sono i 23 calciatori convocati dall’Italia per l’Europeo 2020? Fanpage"
+        },
+        {
+          "title": "Calcio femminile, Italia Malta 5-0: una vittoria degna di un 2019 Mondiale - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Calcio femminile, Italia Malta 5-0: una vittoria degna di un 2019 Mondiale iO Donna"
+        },
+        {
+          "title": "Le nuove maglie adidas per le Nazionali europee - nss sports",
+          "source": "nss sports",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Le nuove maglie adidas per le Nazionali europee nss sports"
+        },
+        {
+          "title": "Nazionale, dopo il verde 'rinascimentale' ecco la nuova maglia da trasferta - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Nazionale, dopo il verde 'rinascimentale' ecco la nuova maglia da trasferta Sky Sport"
+        },
+        {
+          "title": "Bella da impazzire: l’Italia ne fa 9 all’Armenia e centra la decima vittoria nel girone - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Bella da impazzire: l’Italia ne fa 9 all’Armenia e centra la decima vittoria nel girone Fanpage"
+        },
+        {
+          "title": "Non solo Eden e Thorgan, i fratelli in gol nella stessa partita - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Non solo Eden e Thorgan, i fratelli in gol nella stessa partita Sky Sport"
+        },
+        {
+          "title": "Razzismo, Orsato interrompe Romania-Svezia - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Razzismo, Orsato interrompe Romania-Svezia Sky Sport"
+        }
+      ]
+    },
+    "ATP_Finals": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le ATP Finals sono il torneo professionistico di tennis più importante dell'annata dopo le quattro prove del Grande Slam. Equivalenti maschili delle WTA Finals, vi prendono parte gli otto tennisti che hanno conquistato più punti ATP nel corso dell’anno solare del singolare e del doppio.",
+      "news": [
+        {
+          "title": "Berrettini all'Atp Finals batte Thiem. È la prima vittoria italiana - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Berrettini all'Atp Finals batte Thiem. È la prima vittoria italiana Corriere della Sera"
+        },
+        {
+          "title": "Grande affermazione del Next Gen greco - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Grande affermazione del Next Gen greco Sky Sport"
+        },
+        {
+          "title": "Tsitsipas Maestro, l'omaggio del \"suo\" Genoa - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Tsitsipas Maestro, l'omaggio del \"suo\" Genoa La Gazzetta dello Sport"
+        },
+        {
+          "title": "L'Arena di Londra, l'astronave sul Tamigi - SuperTennis",
+          "source": "SuperTennis",
+          "pubDate": "Thu, 14 Nov 2019 15:26:34 GMT",
+          "description": "L'Arena di Londra, l'astronave sul Tamigi SuperTennis"
+        },
+        {
+          "title": "Il tedesco elimina Rafa Nadal - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Il tedesco elimina Rafa Nadal Sky Sport"
+        },
+        {
+          "title": "Atp Finals, fantastica rimonta di Nadal che batte Medvedev - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Atp Finals, fantastica rimonta di Nadal che batte Medvedev Tuttosport"
+        },
+        {
+          "title": "C'era una volta il Masters (e che Masters) - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "C'era una volta il Masters (e che Masters) Il Foglio"
+        },
+        {
+          "title": "Impresa Tsitsipas! Batte Federer in due set ed è in finale - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Impresa Tsitsipas! Batte Federer in due set ed è in finale La Gazzetta dello Sport"
+        },
+        {
+          "title": "10 scatti per rivivere il trionfo di Sinner - SuperTennis",
+          "source": "SuperTennis",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "10 scatti per rivivere il trionfo di Sinner SuperTennis"
+        },
+        {
+          "title": "10 scatti per rivivere il trionfo di Sinner - SuperTennis",
+          "source": "SuperTennis",
+          "pubDate": "Mon, 11 Nov 2019 11:41:24 GMT",
+          "description": "10 scatti per rivivere il trionfo di Sinner SuperTennis"
+        }
+      ]
+    },
+    "Edward_Snowden": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Edward Joseph Snowden è un informatico e attivista statunitense naturalizzato russo, reso famoso dalla sua attività di whistleblower.",
+      "news": [
+        {
+          "title": "Programmi TV di stasera 17 novembre: Monteperdido su Canale 5, Pezzi unici su Rai 1 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Programmi TV di stasera 17 novembre: Monteperdido su Canale 5, Pezzi unici su Rai 1 Fanpage"
+        }
+      ]
+    },
+    "Giorgia_Meloni": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giorgia Meloni è una politica italiana, presidente del Consiglio dei ministri dal 22 ottobre 2022. Prima donna a capo del governo nella storia d'Italia, ha ricoperto precedentemente gli incarichi di vicepresidente della Camera dei deputati dal 2006 al 2008 e di ministro per la gioventù nel quarto governo Berlusconi dal 2008 al 2011.",
+      "news": [
+        {
+          "title": "Unomattina 2019/20 - Giorgia Meloni a Unomattina - 18/11/2019 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Unomattina 2019/20 - Giorgia Meloni a Unomattina - 18/11/2019 - Video RaiPlay"
+        },
+        {
+          "title": "'Io sono Giorgia', virale il remix del discorso di Meloni. VIDEO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "'Io sono Giorgia', virale il remix del discorso di Meloni. VIDEO Sky TG24"
+        },
+        {
+          "title": "Duro scontro tra Lilli Gruber e Giorgia Meloni: \"Non facciamo il solito siparietto altrimenti le faccio togliere l'audio\", \"Mi indispettisco\" - La7",
+          "source": "La7",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Duro scontro tra Lilli Gruber e Giorgia Meloni: \"Non facciamo il solito siparietto altrimenti le faccio togliere l'audio\", \"Mi indispettisco\" La7"
+        },
+        {
+          "title": "Studio Aperto: Giorgia Meloni remix Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Studio Aperto: Giorgia Meloni remix Video Mediaset Infinity"
+        },
+        {
+          "title": "«Io sono Giorgia», sorpresi gli autori del tormentone: «Per lei è diventato un inno, non volevamo» - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "«Io sono Giorgia», sorpresi gli autori del tormentone: «Per lei è diventato un inno, non volevamo» Corriere Milano"
+        },
+        {
+          "title": "\"Io sono Giorgia\": basta un meme per fare propaganda politica? Il caso - Agenda Digitale",
+          "source": "Agenda Digitale",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "\"Io sono Giorgia\": basta un meme per fare propaganda politica? Il caso Agenda Digitale"
+        },
+        {
+          "title": "“Io sono Giorgia” è il manifesto involontario della nostra idiozia - Wired",
+          "source": "Wired",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "“Io sono Giorgia” è il manifesto involontario della nostra idiozia Wired"
+        },
+        {
+          "title": "ANCOROTTI COSMETICS – Giorgia Meloni e Daniela Santanché in visita - Il Nuovo Torrazzo",
+          "source": "Il Nuovo Torrazzo",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "ANCOROTTI COSMETICS – Giorgia Meloni e Daniela Santanché in visita Il Nuovo Torrazzo"
+        },
+        {
+          "title": "Tv Talk 2019/20 - Io sono Giorgia - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Tv Talk 2019/20 - Io sono Giorgia - Video RaiPlay"
+        },
+        {
+          "title": "Commissione Segre, Giorgia Meloni: \"Grande ambiguità da parte della sinistra, nella mozione non c'è mai citata la parola Israele perché altrimenti la sinistra non l'avrebbe votata\" - La7",
+          "source": "La7",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Commissione Segre, Giorgia Meloni: \"Grande ambiguità da parte della sinistra, nella mozione non c'è mai citata la parola Israele perché altrimenti la sinistra non l'avrebbe votata\" La7"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "I nuovi Servizi online della Banca d'Italia - Banca d'Italia",
+          "source": "Banca d'Italia",
+          "pubDate": "Fri, 15 Nov 2019 11:53:18 GMT",
+          "description": "I nuovi Servizi online della Banca d'Italia Banca d'Italia"
+        },
+        {
+          "title": "Italia | UEFA Under 21 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Mon, 11 Nov 2019 13:26:12 GMT",
+          "description": "Italia | UEFA Under 21 UEFA.com"
+        },
+        {
+          "title": "Italia-Montenegro, un \"ponte elettrico\" invisibile da 445 km - Terna spa",
+          "source": "Terna spa",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Italia-Montenegro, un \"ponte elettrico\" invisibile da 445 km Terna spa"
+        },
+        {
+          "title": "Italia ed Europa: nemiche amiche. Da Ventotene a Bruxelles passando per l’Italexit - Eunews",
+          "source": "Eunews",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Italia ed Europa: nemiche amiche. Da Ventotene a Bruxelles passando per l’Italexit Eunews"
+        },
+        {
+          "title": "Il mensile \"Italia Casa\" e la testata online \"Quotidiano del Condomini - Efficienza energetica ENEA",
+          "source": "Efficienza energetica ENEA",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Il mensile \"Italia Casa\" e la testata online \"Quotidiano del Condomini Efficienza energetica ENEA"
+        },
+        {
+          "title": "Maltempo, allerta meteo su gran parte dell'Italia - Ministero dell‘Interno",
+          "source": "Ministero dell‘Interno",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Maltempo, allerta meteo su gran parte dell'Italia Ministero dell‘Interno"
+        },
+        {
+          "title": "Per un'Italia a misura di bambini e bambine: nasce l'Alleanza per l'infanzia - Percorsi di Secondo Welfare",
+          "source": "Percorsi di Secondo Welfare",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Per un'Italia a misura di bambini e bambine: nasce l'Alleanza per l'infanzia Percorsi di Secondo Welfare"
+        },
+        {
+          "title": "Diletta Leotta in vacanza alle Maldive - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Diletta Leotta in vacanza alle Maldive Corriere della Sera"
+        }
+      ]
+    },
+    "ArcelorMittal": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "ArcelorMittal S.A. è un colosso industriale mondiale, operante nel settore dell'acciaio, nato dalla fusione di due tra le più grandi aziende del settore, la Arcelor e la Mittal Steel Company, avvenuta nel 2006. Il quartier generale si trova nella città di Lussemburgo. Oltre ad essere il più grande produttore d'acciaio, è anche attivo nel mercato della fornitura di acciaio per l'industria automobilistica e per i settori delle costruzioni, degli elettrodomestici e degli imballaggi.",
+      "news": [
+        {
+          "title": "Cos’è ArcelorMittal - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Cos’è ArcelorMittal Il Post"
+        },
+        {
+          "title": "Ex Ilva, ArcelorMittal spegne tutti gli altiforni: chiusura definitiva a gennaio - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, ArcelorMittal spegne tutti gli altiforni: chiusura definitiva a gennaio Il Sole 24 ORE"
+        },
+        {
+          "title": "La confusione del governo per la vicenda ArcelorMittal - Orizzonti Politici",
+          "source": "Orizzonti Politici",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "La confusione del governo per la vicenda ArcelorMittal Orizzonti Politici"
+        },
+        {
+          "title": "Chi è Lakshmi Mittal, il miliardario a capo di ArcelorMittal - Forbes Italia",
+          "source": "Forbes Italia",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Chi è Lakshmi Mittal, il miliardario a capo di ArcelorMittal Forbes Italia"
+        },
+        {
+          "title": "Ex Ilva, ArcelorMittal deposita l'atto di recesso dal contratto - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, ArcelorMittal deposita l'atto di recesso dal contratto Corriere della Sera"
+        },
+        {
+          "title": "Lo “scudo penale” sull’Ilva, in quattro fact-checking - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Lo “scudo penale” sull’Ilva, in quattro fact-checking Pagella Politica"
+        },
+        {
+          "title": "Ex Ilva, sindacati a Conte: \"Ripristinare scudo e riportare ArcelorMittal al tavolo. Impedire spegnimento altoforni\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, sindacati a Conte: \"Ripristinare scudo e riportare ArcelorMittal al tavolo. Impedire spegnimento altoforni\" la Repubblica"
+        },
+        {
+          "title": "«ArcelorMittal vuole chiudere la fabbrica» - Collettiva",
+          "source": "Collettiva",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "«ArcelorMittal vuole chiudere la fabbrica» Collettiva"
+        },
+        {
+          "title": "Le mosse dei magistrati di Milano su ArcelorMittal - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Le mosse dei magistrati di Milano su ArcelorMittal AGI"
+        },
+        {
+          "title": "Ex Ilva, si cerca un accordo con ArcelorMittal. Incontro Gualtieri-Morselli - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, si cerca un accordo con ArcelorMittal. Incontro Gualtieri-Morselli Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Pirati_dei_Caraibi": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Pirati dei Caraibi è un media franchise della Disney, incentrato su una serie cinematografica prodotta da Jerry Bruckheimer e basata sull'attrazione Pirates of the Caribbean dei parchi Walt Disney. La serie è composta da cinque film e si è espansa in fumetti, romanzi e altri media. La serie ha come protagonista il pirata Jack Sparrow, interpretato da Johnny Depp, e ha incassato complessivamente quattro miliardi e mezzo di dollari.",
+      "news": [
+        {
+          "title": "Stasera in TV - La maledizione del forziere fantasma: il Vero Mito che ha ispirato Devy Jones - www.lascimmiapensa.com",
+          "source": "www.lascimmiapensa.com",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Stasera in TV - La maledizione del forziere fantasma: il Vero Mito che ha ispirato Devy Jones www.lascimmiapensa.com"
+        },
+        {
+          "title": "La maledizione della prima luna in streaming su Mediaset Play - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "La maledizione della prima luna in streaming su Mediaset Play Mediaset Infinity"
+        },
+        {
+          "title": "Chi sono i pirati (quelli veri, che attaccano le navi) nel 2019? - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Chi sono i pirati (quelli veri, che attaccano le navi) nel 2019? Wired Italia"
+        },
+        {
+          "title": "Sonic il Film, design vecchio e nuovo: le differenze per il personaggio SEGA - Multiplayer",
+          "source": "Multiplayer",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Sonic il Film, design vecchio e nuovo: le differenze per il personaggio SEGA Multiplayer"
+        },
+        {
+          "title": "10 curiosità su Christian Bale - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "10 curiosità su Christian Bale Sky TG24"
+        },
+        {
+          "title": "Alla Spezia una \"Perla nera\" da far girare la testa. Lo yacht da sogno con le vele nere - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Alla Spezia una \"Perla nera\" da far girare la testa. Lo yacht da sogno con le vele nere La Nazione"
+        },
+        {
+          "title": "Avvistato a La Spezia “Pearl Black”, la “perla nera” dei mari - Daily Nautica",
+          "source": "Daily Nautica",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Avvistato a La Spezia “Pearl Black”, la “perla nera” dei mari Daily Nautica"
+        },
+        {
+          "title": "La maledizione del forziere fantasma in streaming su Mediaset Play - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "La maledizione del forziere fantasma in streaming su Mediaset Play Mediaset Infinity"
+        },
+        {
+          "title": "Johnny Depp: fascino, sregolatezza e un Oscar sfiorato 3 volte - PopcornTv.it",
+          "source": "PopcornTv.it",
+          "pubDate": "Wed, 13 Nov 2019 08:00:00 GMT",
+          "description": "Johnny Depp: fascino, sregolatezza e un Oscar sfiorato 3 volte PopcornTv.it"
+        },
+        {
+          "title": "Javier Bardem: chi è il marito di Penelope Cruz? - PopcornTv.it",
+          "source": "PopcornTv.it",
+          "pubDate": "Sun, 17 Nov 2019 08:00:00 GMT",
+          "description": "Javier Bardem: chi è il marito di Penelope Cruz? PopcornTv.it"
+        }
+      ]
+    },
+    "ArcelorMittal_Italia": {
+      "fetched_at": "2026-11-06T16:10:45+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Acciaierie d'Italia in amministrazione straordinaria S.p.A. è un'azienda italiana, attiva nella lavorazione dell'acciaio.",
+      "news": [
+        {
+          "title": "Ex Ilva, si cerca un accordo con ArcelorMittal. Incontro Gualtieri-Morselli - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, si cerca un accordo con ArcelorMittal. Incontro Gualtieri-Morselli Il Sole 24 ORE"
+        },
+        {
+          "title": "La confusione del governo per la vicenda ArcelorMittal - Orizzonti Politici",
+          "source": "Orizzonti Politici",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "La confusione del governo per la vicenda ArcelorMittal Orizzonti Politici"
+        },
+        {
+          "title": "Ex Ilva, l’imprenditrice Franzoso: «ArcelorMittal mi deve 1,7 milioni» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 15 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, l’imprenditrice Franzoso: «ArcelorMittal mi deve 1,7 milioni» Corriere della Sera"
+        },
+        {
+          "title": "Cos’è ArcelorMittal - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Cos’è ArcelorMittal Il Post"
+        },
+        {
+          "title": "Lo “scudo penale” sull’Ilva, in quattro fact-checking - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Lo “scudo penale” sull’Ilva, in quattro fact-checking Pagella Politica"
+        },
+        {
+          "title": "Ex Ilva: la storia infinita di due diritti in bilico - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Tue, 12 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva: la storia infinita di due diritti in bilico Il Bo Live"
+        },
+        {
+          "title": "Chi è Lakshmi Mittal, il miliardario a capo di ArcelorMittal - Forbes Italia",
+          "source": "Forbes Italia",
+          "pubDate": "Mon, 18 Nov 2019 08:00:00 GMT",
+          "description": "Chi è Lakshmi Mittal, il miliardario a capo di ArcelorMittal Forbes Italia"
+        },
+        {
+          "title": "Ex Ilva, chi sono i magistrati che indagheranno sul caso ArcelorMittal - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, chi sono i magistrati che indagheranno sul caso ArcelorMittal Il Sole 24 ORE"
+        },
+        {
+          "title": "Ilva, ArcelorMittal spegnerà gli altiforni di Taranto - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 14 Nov 2019 08:00:00 GMT",
+          "description": "Ilva, ArcelorMittal spegnerà gli altiforni di Taranto Corriere della Sera"
+        },
+        {
+          "title": "Ex-Ilva, la Procura di Taranto indaga per «danno all’economia nazionale» - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Sat, 16 Nov 2019 08:00:00 GMT",
+          "description": "Ex-Ilva, la Procura di Taranto indaga per «danno all’economia nazionale» Il Sole 24 ORE"
+        }
+      ]
+    }
+  }
+}

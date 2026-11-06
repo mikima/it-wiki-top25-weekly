@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Lorenzo%20de%27%20Medici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Lorenzo_de%27_Medici",
       "article_url": "https://it.wikipedia.org/wiki/Lorenzo_de%27_Medici",
-      "description": "politico e umanista italiano, signore di Firenze (de facto) dal 1469 al 1492",
+      "description": "Signore di Firenze e mecenate, è protagonista della terza stagione de I Medici, al via il 2 dicembre su Rai 1.",
       "image_filename": "Capella_sassetti_detail.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Capella_sassetti_detail.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Capella_sassetti_detail.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Tosca%20%28opera%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Tosca_(opera)",
       "article_url": "https://it.wikipedia.org/wiki/Tosca_(opera)",
-      "description": "opera lirica di Giacomo Puccini",
+      "description": "L'opera di Giacomo Puccini inaugura il 7 dicembre la stagione della Scala di Milano, in diretta su Rai 1.",
       "image_filename": "Tosca_(1899).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tosca_%281899%29.jpg/1270px-Tosca_%281899%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tosca_(1899).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Concessionaria del servizio pubblico radiotelevisivo, è in classifica per la ventisettesima settimana consecutiva.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Nilde%20Iotti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Nilde_Iotti",
       "article_url": "https://it.wikipedia.org/wiki/Nilde_Iotti",
-      "description": "politica italiana (1920-1999)",
+      "description": "Prima presidente della Camera, è protagonista di Storia di Nilde, in onda il 5 dicembre su Rai 1, a vent'anni dalla morte.",
       "image_filename": "NildeIotti.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/e/ec/NildeIotti.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:NildeIotti.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Meccanismo%20europeo%20di%20stabilit%C3%A0&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Meccanismo_europeo_di_stabilit%C3%A0",
       "article_url": "https://it.wikipedia.org/wiki/Meccanismo_europeo_di_stabilit%C3%A0",
-      "description": "organizzazione internazionale e intergovernativa dell'Eurozona",
+      "description": "Fondo salva-Stati dell'Eurozona, è al centro di una polemica sulla riforma: il 2 dicembre Conte riferisce alla Camera.",
       "image_filename": "ESM_member_states.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ESM_member_states.svg/1280px-ESM_member_states.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:ESM_member_states.svg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=I%20Medici%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=I_Medici_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/I_Medici_(serie_televisiva)",
-      "description": "serie televisiva anglo-italiana (2016-2019)",
+      "description": "Il 2 e il 3 dicembre vanno in onda su Rai 1 le prime due puntate della terza stagione.",
       "image_filename": "I_Medici_serie_TV.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/af/I_Medici_serie_TV.jpg/1280px-I_Medici_serie_TV.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:I_Medici_serie_TV.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Pallone%20d%27oro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Pallone_d%27oro",
       "article_url": "https://it.wikipedia.org/wiki/Pallone_d%27oro",
-      "description": "riconoscimento calcistico individuale",
+      "description": "Il 2 dicembre Lionel Messi vince per la sesta volta il Pallone d'oro, davanti a Virgil van Dijk e Cristiano Ronaldo.",
       "image_filename": "Camp_Nou_Experience_(Ank_Kumar,_INFOSYS)_02.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Camp_Nou_Experience_%28Ank_Kumar%2C_INFOSYS%29_02.jpg/1280px-Camp_Nou_Experience_%28Ank_Kumar%2C_INFOSYS%29_02.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Camp_Nou_Experience_(Ank_Kumar%2C_INFOSYS)_02.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Irishman%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=The_Irishman_(film_2019)",
       "article_url": "https://it.wikipedia.org/wiki/The_Irishman_(film_2019)",
-      "description": "film del 2019 diretto da Martin Scorsese",
+      "description": "Film diretto da Martin Scorsese, esce su Netflix il 27 novembre ed è in classifica per la seconda settimana.",
       "image_filename": "Martin_Scorsese_-_The_Irishman.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/22/Martin_Scorsese_-_The_Irishman.png/1280px-Martin_Scorsese_-_The_Irishman.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Martin_Scorsese_-_The_Irishman.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Lionel%20Messi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Lionel_Messi",
       "article_url": "https://it.wikipedia.org/wiki/Lionel_Messi",
-      "description": "calciatore argentino (1987-)",
+      "description": "Calciatore argentino del Barcellona, il 2 dicembre vince il suo sesto Pallone d'oro.",
       "image_filename": "Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg/1280px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Girolamo%20Savonarola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Girolamo_Savonarola",
       "article_url": "https://it.wikipedia.org/wiki/Girolamo_Savonarola",
-      "description": "religioso, politico e predicatore italiano (1452-1498)",
+      "description": "Frate e predicatore italiano, è interpretato da Francesco Montanari nella terza stagione de I Medici, su Rai 1 dal 2 dicembre.",
       "image_filename": "Girolamo_Savonarola_by_Fra_Bartolommeo_(1497).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Girolamo_Savonarola_by_Fra_Bartolommeo_%281497%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Girolamo_Savonarola_by_Fra_Bartolommeo_(1497).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Juice%20Wrld&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Juice_Wrld",
       "article_url": "https://it.wikipedia.org/wiki/Juice_Wrld",
-      "description": "rapper e cantautore statunitense (1998-2019)",
+      "description": "Rapper e cantautore statunitense, noto per il brano Lucid Dreams, muore l'8 dicembre a 21 anni dopo un malore all'aeroporto di Chicago.",
       "image_filename": "Juice_Wrld_in_October_2019.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Juice_Wrld_in_October_2019.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juice_Wrld_in_October_2019.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Palmiro%20Togliatti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Palmiro_Togliatti",
       "article_url": "https://it.wikipedia.org/wiki/Palmiro_Togliatti",
-      "description": "politico italiano, leader storico del Partito Comunista Italiano (1893-1964)",
+      "description": "Leader del Partito Comunista Italiano e compagno di Nilde Iotti, è raccontato nel film Storia di Nilde, su Rai 1 il 5 dicembre.",
       "image_filename": "Palmiro-Togliatti-00504708.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Palmiro-Togliatti-00504708.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Palmiro-Togliatti-00504708.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Papa%20Leone%20X&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Papa_Leone_X",
       "article_url": "https://it.wikipedia.org/wiki/Papa_Leone_X",
-      "description": "217° vescovo di Roma e papa della Chiesa cattolica dal 1513 al 1521",
+      "description": "Papa e figlio di Lorenzo de' Medici, il picco è probabilmente legato alla serie I Medici, tornata su Rai 1 il 2 dicembre.",
       "image_filename": "Raffaello,_ritratto_di_papa_leone_X_tra_i_cardinali_luigi_de'_rossi_e_giulio_de'_medici,_1518,_03.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Raffaello%2C_ritratto_di_papa_leone_X_tra_i_cardinali_luigi_de%27_rossi_e_giulio_de%27_medici%2C_1518%2C_03.jpg/1280px-Raffaello%2C_ritratto_di_papa_leone_X_tra_i_cardinali_luigi_de%27_rossi_e_giulio_de%27_medici%2C_1518%2C_03.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Raffaello%2C_ritratto_di_papa_leone_X_tra_i_cardinali_luigi_de%27_rossi_e_giulio_de%27_medici%2C_1518%2C_03.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Papa%20Clemente%20VII&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Papa_Clemente_VII",
       "article_url": "https://it.wikipedia.org/wiki/Papa_Clemente_VII",
-      "description": "219° vescovo di Roma e papa della Chiesa cattolica dal 1523 al 1534",
+      "description": "Papa della famiglia Medici e nipote di Lorenzo il Magnifico, il picco è probabilmente legato alla serie I Medici, su Rai 1 dal 2 dicembre.",
       "image_filename": "El_papa_Clemente_VII,_por_Sebastiano_del_Piombo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/El_papa_Clemente_VII%2C_por_Sebastiano_del_Piombo.jpg/1280px-El_papa_Clemente_VII%2C_por_Sebastiano_del_Piombo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:El_papa_Clemente_VII%2C_por_Sebastiano_del_Piombo.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Immacolata%20Concezione&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Immacolata_Concezione",
       "article_url": "https://it.wikipedia.org/wiki/Immacolata_Concezione",
-      "description": "dogma cattolico secondo cui la Vergine Maria è stata concepita senza peccato originale",
+      "description": "La festa cattolica che celebra il concepimento di Maria senza peccato originale ricorre l'8 dicembre.",
       "image_filename": "Imaculada_-_Murillo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Imaculada_-_Murillo.jpg/1280px-Imaculada_-_Murillo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Imaculada_-_Murillo.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Clarice%20Orsini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Clarice_Orsini",
       "article_url": "https://it.wikipedia.org/wiki/Clarice_Orsini",
-      "description": "nobildonna fiorentina (1453-1488), moglie di Lorenzo de' Medici",
+      "description": "Nobildonna e moglie di Lorenzo de' Medici, è tra i personaggi della serie I Medici, tornata su Rai 1 il 2 dicembre.",
       "image_filename": "Clarice_Orsini_de_Medici.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Clarice_Orsini_de_Medici.JPG/1280px-Clarice_Orsini_de_Medici.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Clarice_Orsini_de_Medici.JPG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Jimmy%20Hoffa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Jimmy_Hoffa",
       "article_url": "https://it.wikipedia.org/wiki/Jimmy_Hoffa",
-      "description": "sindacalista statunitense (1913-1975)",
+      "description": "Sindacalista statunitense scomparso nel 1975, è interpretato da Al Pacino in The Irishman, su Netflix dal 27 novembre.",
       "image_filename": "James_R._Hoffa_NYWTS.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/James_R._Hoffa_NYWTS.jpg/1172px-James_R._Hoffa_NYWTS.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:James_R._Hoffa_NYWTS.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=L%27immortale%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=L%27immortale_(film_2019)",
       "article_url": "https://it.wikipedia.org/wiki/L%27immortale_(film_2019)",
-      "description": "film del 2019 diretto da Marco D'Amore",
+      "description": "Film diretto e interpretato da Marco D'Amore, legato alla serie Gomorra, esce al cinema il 5 dicembre.",
       "image_filename": "L'immortale.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e8/L%27immortale.png/1280px-L%27immortale.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:L%27immortale.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, è protagonista di The Crown, la cui terza stagione esce su Netflix il 17 novembre.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Medici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Medici",
       "article_url": "https://it.wikipedia.org/wiki/Medici",
-      "description": "famiglia nobile italiana",
+      "description": "Famiglia che governò Firenze, è protagonista della serie I Medici, la cui terza stagione debutta il 2 dicembre su Rai 1.",
       "image_filename": "Coat_of_arms_of_the_House_of_de'_Medici.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Coat_of_arms_of_the_House_of_de%27_Medici.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_House_of_de%27_Medici.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Cristiano_Ronaldo",
       "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "description": "calciatore portoghese (1985-)",
+      "description": "Calciatore portoghese della Juventus, il 2 dicembre arriva terzo al Pallone d'oro, vinto da Lionel Messi.",
       "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Oblivion%20%28film%202013%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Oblivion_(film_2013)",
       "article_url": "https://it.wikipedia.org/wiki/Oblivion_(film_2013)",
-      "description": "film del 2013 diretto da Joseph Kosinski",
+      "description": "Film di fantascienza del 2013 diretto da Joseph Kosinski. Non è riconoscibile il motivo del picco di visite.",
       "image_filename": "Oblivion-2013-Movie-Title.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Oblivion-2013-Movie-Title.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Oblivion-2013-Movie-Title.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Mandalorian&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=The_Mandalorian",
       "article_url": "https://it.wikipedia.org/wiki/The_Mandalorian",
-      "description": "serie televisiva statunitense dell'universo di Guerre Stellari del 2020",
+      "description": "Serie ambientata nell'universo di Guerre stellari, il 6 dicembre esce con il quinto episodio su Disney+ negli Stati Uniti.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Pezzi%20unici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Pezzi_unici",
       "article_url": "https://it.wikipedia.org/wiki/Pezzi_unici",
-      "description": "serie televisiva italiana del 2019",
+      "description": "L'8 dicembre va in onda su Rai 1 la quarta puntata della serie diretta da Cinzia TH Torrini.",
       "image_filename": "Pezzi_unici.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c4/Pezzi_unici.png/1280px-Pezzi_unici.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzi_unici.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Carnival%20Row&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/02/2019,cd_max:12/08/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-12-02&end=2019-12-08&pages=Carnival_Row",
       "article_url": "https://it.wikipedia.org/wiki/Carnival_Row",
-      "description": "serie televisiva statunitense del 2019",
+      "description": "Serie statunitense disponibile su Prime Video dal 30 agosto, non presenta un picco di rilievo nella settimana.",
       "image_filename": "CarnivalRowLogo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/ee/CarnivalRowLogo.png/1280px-CarnivalRowLogo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:CarnivalRowLogo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

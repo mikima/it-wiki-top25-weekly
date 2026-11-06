@@ -1,0 +1,1261 @@
+{
+  "week": "2020-04",
+  "start_date": "2020-01-20",
+  "end_date": "2020-01-26",
+  "articles": {
+    "Kobe_Bryant": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Kobe Bean Bryant è stato un cestista statunitense.",
+      "news": [
+        {
+          "title": "Morto Kobe Bryant con la figlia 13enne: incidente in elicottero. La leggenda Nba aveva 41 anni - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Morto Kobe Bryant con la figlia 13enne: incidente in elicottero. La leggenda Nba aveva 41 anni La Gazzetta dello Sport"
+        },
+        {
+          "title": "Dieci grandi momenti della carriera di Kobe Bryant - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Dieci grandi momenti della carriera di Kobe Bryant Il Post"
+        },
+        {
+          "title": "13 foto che raccontano la leggenda Kobe Bryant - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "13 foto che raccontano la leggenda Kobe Bryant Wired Italia"
+        },
+        {
+          "title": "Kobe Bryant in Italia da bambino: tutte le sue foto - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Kobe Bryant in Italia da bambino: tutte le sue foto Sky Sport"
+        },
+        {
+          "title": "Che cosa è stato Kobe Bryant - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Che cosa è stato Kobe Bryant Rolling Stone Italia"
+        },
+        {
+          "title": "Kobe Bryant. Storia del campione dei Lakers cresciuto in Toscana - Firenze Made in Tuscany",
+          "source": "Firenze Made in Tuscany",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Kobe Bryant. Storia del campione dei Lakers cresciuto in Toscana Firenze Made in Tuscany"
+        },
+        {
+          "title": "Anche Milano piange Kobe Bryant, il \"Dio del basket\" che stravedeva per il Milan - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Anche Milano piange Kobe Bryant, il \"Dio del basket\" che stravedeva per il Milan MilanoToday"
+        },
+        {
+          "title": "Kobe Bryant e «Dear basketball», la lettera che ispirò il cortometraggio premio Oscar - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Kobe Bryant e «Dear basketball», la lettera che ispirò il cortometraggio premio Oscar Corriere della Sera"
+        },
+        {
+          "title": "Kobe Bryant, la leggenda del basket tra killer instinct e umanità - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Kobe Bryant, la leggenda del basket tra killer instinct e umanità RaiNews"
+        },
+        {
+          "title": "La mia intervista a Kobe Bryant. Quel ragazzino convinto: \"Giocherò a basket\" - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "La mia intervista a Kobe Bryant. Quel ragazzino convinto: \"Giocherò a basket\" La Nazione"
+        }
+      ]
+    },
+    "Coronavirus": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Orthocoronavirinae è una sottofamiglia di virus, noti anche come coronavirus, della famiglia Coronaviridae, del sottordine Cornidovirineae, dell'ordine Nidovirales. In passato era classificata come genere.",
+      "news": [
+        {
+          "title": "Nuovo coronavirus isolato in Cina, il punto con l’infettivologo del Gemelli Roberto Cauda - Policlinico Universitario Agostino Gemelli IRCCS",
+          "source": "Policlinico Universitario Agostino Gemelli IRCCS",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Nuovo coronavirus isolato in Cina, il punto con l’infettivologo del Gemelli Roberto Cauda Policlinico Universitario Agostino Gemelli IRCCS"
+        },
+        {
+          "title": "Coronavirus in Cina, l'epidemia da Wuhan a Pechino - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Coronavirus in Cina, l'epidemia da Wuhan a Pechino Corriere della Sera"
+        },
+        {
+          "title": "Il nuovo coronavirus, spiegato bene - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Il nuovo coronavirus, spiegato bene Il Post"
+        },
+        {
+          "title": "Cina, cosa sappiamo finora del nuovo virus - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Cina, cosa sappiamo finora del nuovo virus Il Bo Live"
+        },
+        {
+          "title": "Coronavirus dalla Cina: l'infezione si trasmette da uomo a uomo - Fondazione Umberto Veronesi",
+          "source": "Fondazione Umberto Veronesi",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Coronavirus dalla Cina: l'infezione si trasmette da uomo a uomo Fondazione Umberto Veronesi"
+        },
+        {
+          "title": "Coronavirus cinese: cosa sappiamo sull’origine - www.medicalfacts.it",
+          "source": "www.medicalfacts.it",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Coronavirus cinese: cosa sappiamo sull’origine www.medicalfacts.it"
+        },
+        {
+          "title": "Coronavirus: domande dei consumatori e risposte degli esperti - Il Fatto Alimentare",
+          "source": "Il Fatto Alimentare",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Coronavirus: domande dei consumatori e risposte degli esperti Il Fatto Alimentare"
+        },
+        {
+          "title": "Coronavirus: L’OMS ci ripensa - ISPI",
+          "source": "ISPI",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Coronavirus: L’OMS ci ripensa ISPI"
+        },
+        {
+          "title": "In Cina si vuole costruire un nuovo ospedale per il coronavirus in pochi giorni - Wired",
+          "source": "Wired",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "In Cina si vuole costruire un nuovo ospedale per il coronavirus in pochi giorni Wired"
+        },
+        {
+          "title": "Virus Cina: è davvero colpa dei serpenti? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Virus Cina: è davvero colpa dei serpenti? Focus.it"
+        }
+      ]
+    },
+    "Toque_blanche": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La toque blanche, o toque da cuoco, è il tipico cappello da cuoco.",
+      "news": []
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Meraviglie 2020 - Genova - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Meraviglie 2020 - Genova - Video RaiPlay"
+        },
+        {
+          "title": "Linea Bianca 2019/20 - Alla scoperta del'Etna - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Linea Bianca 2019/20 - Alla scoperta del'Etna - Video RaiPlay"
+        },
+        {
+          "title": "Gianni Rodari, il profeta della fantasia - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 22 Jan 2020 20:38:01 GMT",
+          "description": "Gianni Rodari, il profeta della fantasia RaiPlay"
+        },
+        {
+          "title": "Oleg Mandić, il bambino che ha chiuso i cancelli di Auschwitz - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Oleg Mandić, il bambino che ha chiuso i cancelli di Auschwitz Rai Cultura"
+        }
+      ]
+    },
+    "Persona_dell'anno": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il premio di Persona dell'anno viene assegnato con cadenza annuale dal settimanale di attualità statunitense Time. Negli anni è stato assegnato a uomini, donne, coppie, gruppi di persone, idee, luoghi o macchinari che \"nel bene o nel male, hanno fatto il massimo per influire sugli eventi dell'anno\".",
+      "news": [
+        {
+          "title": "HPV e cancro, un problema non solo femminile - AIRC",
+          "source": "AIRC",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "HPV e cancro, un problema non solo femminile AIRC"
+        },
+        {
+          "title": "GLI ALPINI \"AMBASCIATORI\" DI AISLA - AISLA | Associazione Italiana Sclerosi Laterale Amiotrofica",
+          "source": "AISLA | Associazione Italiana Sclerosi Laterale Amiotrofica",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "GLI ALPINI \"AMBASCIATORI\" DI AISLA AISLA | Associazione Italiana Sclerosi Laterale Amiotrofica"
+        },
+        {
+          "title": "Socio o tesserato? Differenza per Associazioni e Società Sportive - Tutto Non Profit",
+          "source": "Tutto Non Profit",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Socio o tesserato? Differenza per Associazioni e Società Sportive Tutto Non Profit"
+        },
+        {
+          "title": "Tumore del colon-retto nei giovani: una crescita di cui non sono ancora chiare le ragioni - AIRC",
+          "source": "AIRC",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Tumore del colon-retto nei giovani: una crescita di cui non sono ancora chiare le ragioni AIRC"
+        }
+      ]
+    },
+    "SARS": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La SARS o sindrome respiratoria acuta grave, è una forma atipica di polmonite causata dal virus SARS-CoV-1, apparsa per la prima volta nel novembre 2002 nella provincia del Guangdong (Canton) in Cina.",
+      "news": [
+        {
+          "title": "Sars, che fine ha fatto? Nel 2003 fece 800 vittime - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Sars, che fine ha fatto? Nel 2003 fece 800 vittime Corriere della Sera"
+        },
+        {
+          "title": "Nuovo coronavirus isolato in Cina, il punto con l’infettivologo del Gemelli Roberto Cauda - Policlinico Universitario Agostino Gemelli IRCCS",
+          "source": "Policlinico Universitario Agostino Gemelli IRCCS",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Nuovo coronavirus isolato in Cina, il punto con l’infettivologo del Gemelli Roberto Cauda Policlinico Universitario Agostino Gemelli IRCCS"
+        },
+        {
+          "title": "Il nuovo coronavirus, spiegato bene - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Il nuovo coronavirus, spiegato bene Il Post"
+        },
+        {
+          "title": "Da Sars a Ebola, i virus più pericolosi degli ultimi 25 anni - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Da Sars a Ebola, i virus più pericolosi degli ultimi 25 anni Sky TG24"
+        },
+        {
+          "title": "La Cina minacciata dal coronavirus: la causa è un mercato di animali selvatici - National Geographic",
+          "source": "National Geographic",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "La Cina minacciata dal coronavirus: la causa è un mercato di animali selvatici National Geographic"
+        },
+        {
+          "title": "Virus cinese, la moglie dell’infettivologo che scoprì la Sars: «Carlo ne morì. Rivivo quelle ore» - Corriere Roma",
+          "source": "Corriere Roma",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Virus cinese, la moglie dell’infettivologo che scoprì la Sars: «Carlo ne morì. Rivivo quelle ore» Corriere Roma"
+        },
+        {
+          "title": "Il coronavirus fa paura: in ospedale a Treviso un ambulatorio dedicato - Il Gazzettino",
+          "source": "Il Gazzettino",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Il coronavirus fa paura: in ospedale a Treviso un ambulatorio dedicato Il Gazzettino"
+        },
+        {
+          "title": "Quanto dobbiamo preoccuparci per l’emergenza coronavirus in Cina? - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Quanto dobbiamo preoccuparci per l’emergenza coronavirus in Cina? Rolling Stone Italia"
+        },
+        {
+          "title": "Il ‘misterioso’ coronavirus si trasmette da uomo a uomo, la conferma dalla task force cinese - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Il ‘misterioso’ coronavirus si trasmette da uomo a uomo, la conferma dalla task force cinese Il Riformista"
+        },
+        {
+          "title": "Cina, il misterioso virus a Wuhan simile alla Sars - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Cina, il misterioso virus a Wuhan simile alla Sars Corriere della Sera"
+        }
+      ]
+    },
+    "Blue_Monday_(data)": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il termine inglese Blue Monday indica un particolare giorno dell'anno, solitamente il terzo lunedì del mese di gennaio, ritenuto essere il giorno dell'anno più triste per gli abitanti dell'emisfero boreale. Il concetto è stato originariamente reso pubblico nel 2005 all'interno di un comunicato stampa del canale televisivo britannico Sky Travel, in cui si affermava di avere calcolato la data utilizzando un'equazione. L'intera idea rientra nell'ambito della pseudoscienza, e l'equazione che ne è alla base viene ritenuta priva di alcun fondamento.",
+      "news": [
+        {
+          "title": "Il 20 gennaio è il «Blue Monday», il giorno più triste dell’anno (o forse no) - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Il 20 gennaio è il «Blue Monday», il giorno più triste dell’anno (o forse no) Vanity Fair Italia"
+        },
+        {
+          "title": "Il Rile si colora di blu Scattano i controlli - La Provincia Pavese",
+          "source": "La Provincia Pavese",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Il Rile si colora di blu Scattano i controlli La Provincia Pavese"
+        },
+        {
+          "title": "È la Giornata mondiale degli abbracci: coccoliamoci di più non solo oggi - greenMe",
+          "source": "greenMe",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "È la Giornata mondiale degli abbracci: coccoliamoci di più non solo oggi greenMe"
+        }
+      ]
+    },
+    "Sex_Education": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Sex Education è una serie televisiva britannica, creata da Laurie Nunn e distribuita su Netflix dal'11 gennaio 2019 al 21 settembre 2023.",
+      "news": [
+        {
+          "title": "Cosa non va nel sesso raccontato in Sex Education 2 - Esquire",
+          "source": "Esquire",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Cosa non va nel sesso raccontato in Sex Education 2 Esquire"
+        },
+        {
+          "title": "Sex Education 2: Il cast della serie gioca a Italians do it better - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Sex Education 2: Il cast della serie gioca a Italians do it better ComingSoon.it"
+        },
+        {
+          "title": "Perché «Sex Education» merita (subito) una terza stagione - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Perché «Sex Education» merita (subito) una terza stagione Vanity Fair Italia"
+        },
+        {
+          "title": "QUELLA GRAN VOGLIA DI SEX EDUCATION - wumagazine.com",
+          "source": "wumagazine.com",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "QUELLA GRAN VOGLIA DI SEX EDUCATION wumagazine.com"
+        },
+        {
+          "title": "Maaa Sex Education 3 si farà, vero? Nell'attesa, questo è tutto quello che già sappiamo - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Maaa Sex Education 3 si farà, vero? Nell'attesa, questo è tutto quello che già sappiamo Cosmopolitan"
+        },
+        {
+          "title": "Quale personaggio di Sex Education sei? - Skuola.net",
+          "source": "Skuola.net",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Quale personaggio di Sex Education sei? Skuola.net"
+        },
+        {
+          "title": "Sex Education, quando la 2ª stagione supera la 1ª, tra accettazione e amore LGBT - Gay.it",
+          "source": "Gay.it",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Sex Education, quando la 2ª stagione supera la 1ª, tra accettazione e amore LGBT Gay.it"
+        },
+        {
+          "title": "Sex Education - MovieMag",
+          "source": "MovieMag",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Sex Education MovieMag"
+        },
+        {
+          "title": "Sex Education, Gillian Anderson aveva gettato il copione nella spazzatura - www.lascimmiapensa.com",
+          "source": "www.lascimmiapensa.com",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Sex Education, Gillian Anderson aveva gettato il copione nella spazzatura www.lascimmiapensa.com"
+        },
+        {
+          "title": "Sex Education 2: la showrunner rivela che le molestie subite da Aimee si basano sulla sua esperienza personale - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Sex Education 2: la showrunner rivela che le molestie subite da Aimee si basano sulla sua esperienza personale BadTaste"
+        }
+      ]
+    },
+    "Bettino_Craxi": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Benedetto Craxi, detto Bettino, è stato un politico italiano, presidente del Consiglio dei ministri dal 4 agosto 1983 al 18 aprile 1987 e segretario del Partito Socialista Italiano dal 16 luglio 1976 all'11 febbraio 1993.",
+      "news": [
+        {
+          "title": "Una vita da Bettino Craxi - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Una vita da Bettino Craxi Wired Italia"
+        },
+        {
+          "title": "Viaggio ad Hammamet, Tunisia: l'eredità divisa di Bettino Craxi - La7",
+          "source": "La7",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Viaggio ad Hammamet, Tunisia: l'eredità divisa di Bettino Craxi La7"
+        },
+        {
+          "title": "Claudio Martelli: «Vidi il corpo di Bettino Craxi, una scena insopportabile» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Claudio Martelli: «Vidi il corpo di Bettino Craxi, una scena insopportabile» Corriere della Sera"
+        },
+        {
+          "title": "In pellegrinaggio sulla tomba di Bettino Craxi - Corriere Romagna",
+          "source": "Corriere Romagna",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "In pellegrinaggio sulla tomba di Bettino Craxi Corriere Romagna"
+        },
+        {
+          "title": "Craxi, la rabbia di Antonio Di Pietro: \"Che c'azzecco io col fatto che quello ha rubato? Intitolategli una strada ma resta un latitante condannato per corruzione\" - La7",
+          "source": "La7",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Craxi, la rabbia di Antonio Di Pietro: \"Che c'azzecco io col fatto che quello ha rubato? Intitolategli una strada ma resta un latitante condannato per corruzione\" La7"
+        }
+      ]
+    },
+    "1917_(film)": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "1917 è un film del 2019 diretto da Sam Mendes.",
+      "news": [
+        {
+          "title": "1917, Mendes trascina lo spettatore tra le trincee della Grande Guerra - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "1917, Mendes trascina lo spettatore tra le trincee della Grande Guerra Wired Italia"
+        },
+        {
+          "title": "1917: il film di guerra in piano sequenza che incanta gli Oscar ma è una delusione [recensione] - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "1917: il film di guerra in piano sequenza che incanta gli Oscar ma è una delusione [recensione] Anonima Cinefili"
+        },
+        {
+          "title": "1917, la trama del film - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "1917, la trama del film Sky TG24"
+        },
+        {
+          "title": "1917 e i film del weekend - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "1917 e i film del weekend Internazionale"
+        },
+        {
+          "title": "Perché il favorito all’Oscar 1917 è il film da vedere al cinema nel weekend - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Perché il favorito all’Oscar 1917 è il film da vedere al cinema nel weekend Amica.it"
+        },
+        {
+          "title": "1917, di Sam Mendes. La recensione - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "1917, di Sam Mendes. La recensione Sentieri selvaggi"
+        },
+        {
+          "title": "La storia vera di 1917 che ha ispirato il film di Sam Mendes - The HotCorn",
+          "source": "The HotCorn",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "La storia vera di 1917 che ha ispirato il film di Sam Mendes The HotCorn"
+        },
+        {
+          "title": "1917, dove è stato girato il film di Sam Mendes? - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "1917, dove è stato girato il film di Sam Mendes? BadTaste"
+        },
+        {
+          "title": "«1917», la guerra di Sam Mendes è un viaggio straziante - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "«1917», la guerra di Sam Mendes è un viaggio straziante Corriere della Sera"
+        },
+        {
+          "title": "1917 (2019) di Sam Mendes - Recensione - Quinlan.it",
+          "source": "Quinlan.it",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "1917 (2019) di Sam Mendes - Recensione Quinlan.it"
+        }
+      ]
+    },
+    "Victor_Moses": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Victor Moses è un calciatore nigeriano con cittadinanza britannica, centrocampista o attaccante del Qaisar.",
+      "news": [
+        {
+          "title": "Victor Moses è un nuovo giocatore dell'Inter - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Victor Moses è un nuovo giocatore dell'Inter Inter.it"
+        },
+        {
+          "title": "L'incredibile storia di Moses, pupillo di Conte - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "L'incredibile storia di Moses, pupillo di Conte Sky Sport"
+        },
+        {
+          "title": "Il dramma di Moses: perse i genitori a 11 anni in un attentato a cui sopravvisse - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Il dramma di Moses: perse i genitori a 11 anni in un attentato a cui sopravvisse Goal.com"
+        },
+        {
+          "title": "Inter, cena di gruppo: c’è Victor Moses, assenti Vecino e Politano - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Inter, cena di gruppo: c’è Victor Moses, assenti Vecino e Politano Fanpage"
+        },
+        {
+          "title": "Inter, chi è Victor Moses: l’assassinio dei genitori, la fuga in Inghilterra e il rapporto con Conte - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Inter, chi è Victor Moses: l’assassinio dei genitori, la fuga in Inghilterra e il rapporto con Conte Corriere della Sera"
+        },
+        {
+          "title": "Inter, ufficiale Moses: Conte gli cambiò la vita, ora gli dà la maglia numero 11 - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Inter, ufficiale Moses: Conte gli cambiò la vita, ora gli dà la maglia numero 11 La Gazzetta dello Sport"
+        },
+        {
+          "title": "Mercato Inter: due sacrifici per arrivare a Eriksen e Moses - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Mercato Inter: due sacrifici per arrivare a Eriksen e Moses Virgilio"
+        },
+        {
+          "title": "Inter, per Lazaro la spunta il Newcastle: prestito con riscatto a 23,5 milioni - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Inter, per Lazaro la spunta il Newcastle: prestito con riscatto a 23,5 milioni Goal.com"
+        },
+        {
+          "title": "Da Jonathan a Erkin: quanti errori sul mercato dei laterali dopo il Triplete per l’Inter - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Da Jonathan a Erkin: quanti errori sul mercato dei laterali dopo il Triplete per l’Inter Fanpage"
+        },
+        {
+          "title": "Inter, Moses arriva carico: \"Lotteremo per lo Scudetto\" - QS Quotidiano Sportivo",
+          "source": "QS Quotidiano Sportivo",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Inter, Moses arriva carico: \"Lotteremo per lo Scudetto\" QS Quotidiano Sportivo"
+        }
+      ]
+    },
+    "Jojo_Rabbit": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Jojo Rabbit è un film del 2019 scritto, diretto, co-prodotto e co-interpretato da Taika Waititi.",
+      "news": [
+        {
+          "title": "La recensione di Jojo Rabbit - Cineforum",
+          "source": "Cineforum",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "La recensione di Jojo Rabbit Cineforum"
+        },
+        {
+          "title": "La (terribile) storia vera dietro a Jojo Rabbit - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "La (terribile) storia vera dietro a Jojo Rabbit GQ Italia"
+        },
+        {
+          "title": "Come raccontare la Shoah? Jojo Rabbit: il nazismo spiegato ai bambini - Doppiozero",
+          "source": "Doppiozero",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Come raccontare la Shoah? Jojo Rabbit: il nazismo spiegato ai bambini Doppiozero"
+        },
+        {
+          "title": "IL FILM. Jojo Rabbit, la commedia (riuscita) sul nazismo - Arci",
+          "source": "Arci",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "IL FILM. Jojo Rabbit, la commedia (riuscita) sul nazismo Arci"
+        },
+        {
+          "title": "\"Un incrocio magistrale fra commedia nera e dramma storico\": Fabiano Massimi racconta Jojo Rabbit - ilLibraio.it",
+          "source": "ilLibraio.it",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "\"Un incrocio magistrale fra commedia nera e dramma storico\": Fabiano Massimi racconta Jojo Rabbit ilLibraio.it"
+        },
+        {
+          "title": "Recensione del film: \"Jojo Rabbit\" è una storia toccante sulla tolleranza - Digitec",
+          "source": "Digitec",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Recensione del film: \"Jojo Rabbit\" è una storia toccante sulla tolleranza Digitec"
+        },
+        {
+          "title": "Scarlett madre coraggio, doppia nomination agli Oscar - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Scarlett madre coraggio, doppia nomination agli Oscar Corriere della Sera"
+        },
+        {
+          "title": "I 10 più grandi film sulla Shoah - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "I 10 più grandi film sulla Shoah Rolling Stone Italia"
+        },
+        {
+          "title": "«Jojo Rabbit», come è un cult e perché deve vincere agli Oscar 2020 - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "«Jojo Rabbit», come è un cult e perché deve vincere agli Oscar 2020 GQ Italia"
+        },
+        {
+          "title": "Taika Waititi: 10 cose che non sai sul regista - Cinefilos.it",
+          "source": "Cinefilos.it",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Taika Waititi: 10 cose che non sai sul regista Cinefilos.it"
+        }
+      ]
+    },
+    "Luis_Alberto_Spinetta": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Luis Alberto Spinetta, noto anche con lo pseudonimo di El Flaco, Luigi, Luisito, El Capitán e Luis Alberto, è stato un cantante, chitarrista, compositore, tastierista e bassista argentino, considerato spesso il fulcro della scena rock del suo paese.",
+      "news": [
+        {
+          "title": "La storia di Luis Alberto Spinetta - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "La storia di Luis Alberto Spinetta Il Post"
+        },
+        {
+          "title": "Luis Alberto Spinetta: a lui Google dedica il doodle - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Luis Alberto Spinetta: a lui Google dedica il doodle Focus.it"
+        },
+        {
+          "title": "Chi è Luis Alberto Spinetta, icona del rock argentino - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Chi è Luis Alberto Spinetta, icona del rock argentino Wired Italia"
+        },
+        {
+          "title": "LUIS ALBERTO SPINETTA “EL FLACO”/ Il tentativo fallito di sfondare negli Stati Uniti - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "LUIS ALBERTO SPINETTA “EL FLACO”/ Il tentativo fallito di sfondare negli Stati Uniti IlSussidiario.net"
+        }
+      ]
+    },
+    "Anna_May_Wong": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Anna May Wong, nata Wong Liu-tsong, è stata un'attrice statunitense.",
+      "news": [
+        {
+          "title": "Chi era Anna May Wong - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Chi era Anna May Wong Il Post"
+        },
+        {
+          "title": "Chi era Anna May Wong, la prima diva di Hollywood di origini cinesi - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Chi era Anna May Wong, la prima diva di Hollywood di origini cinesi Wired Italia"
+        },
+        {
+          "title": "Anna May Wong: chi è la donna del doodle di oggi - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Anna May Wong: chi è la donna del doodle di oggi Focus.it"
+        },
+        {
+          "title": "Rick and Morty e Pringles, lo spot è geniale [VIDEO] - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Rick and Morty e Pringles, lo spot è geniale [VIDEO] LaScimmiaPensa.com"
+        },
+        {
+          "title": "Luis Alberto Spinetta: a lui Google dedica il doodle - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Luis Alberto Spinetta: a lui Google dedica il doodle Focus.it"
+        }
+      ]
+    },
+    "Time": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Time è una rivista statunitense con sede a New York. Time è un giornale di informazione, pubblicato settimanalmente. Fu pubblicata per la prima volta a New York, negli Stati Uniti, il 3 marzo 1923 e per molti anni fu gestita dal suo influente cofondatore Henry Robinson Luce.",
+      "news": [
+        {
+          "title": "No Time to Die - Apulia Film Commission",
+          "source": "Apulia Film Commission",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "No Time to Die Apulia Film Commission"
+        },
+        {
+          "title": "L’Amerique è di Face Time Bourbon, e parla anche un po’ napoletano - Cavallo Magazine",
+          "source": "Cavallo Magazine",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "L’Amerique è di Face Time Bourbon, e parla anche un po’ napoletano Cavallo Magazine"
+        },
+        {
+          "title": "Gestione remota e real time degli UPS direttamente dallo smartphone - Automazione Plus",
+          "source": "Automazione Plus",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Gestione remota e real time degli UPS direttamente dallo smartphone Automazione Plus"
+        },
+        {
+          "title": "\"The real housewives di Napoli\" su Real Time, che lusso sotto il Vesuvio - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "\"The real housewives di Napoli\" su Real Time, che lusso sotto il Vesuvio TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "La ristrutturazione BIM della sede del Financial Times di Londra - ACCA software",
+          "source": "ACCA software",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "La ristrutturazione BIM della sede del Financial Times di Londra ACCA software"
+        },
+        {
+          "title": "La pole dancer Chiara Peirone si racconta negli studi di Riviera Time - Riviera Time",
+          "source": "Riviera Time",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "La pole dancer Chiara Peirone si racconta negli studi di Riviera Time Riviera Time"
+        },
+        {
+          "title": "That Time i Got Reincarnated as a Slime: la seconda stagione dell'anime arriverà in autunno - Akiba Gamers",
+          "source": "Akiba Gamers",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "That Time i Got Reincarnated as a Slime: la seconda stagione dell'anime arriverà in autunno Akiba Gamers"
+        },
+        {
+          "title": "Puntata del 25/01/2020 - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Puntata del 25/01/2020 Radio Deejay"
+        },
+        {
+          "title": "No Time to Die in copertina su Entertainment Weekly, ecco nuove immagini - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "No Time to Die in copertina su Entertainment Weekly, ecco nuove immagini BadTaste"
+        },
+        {
+          "title": "No Time to Die, i protagonisti sulla prima volta che hanno visto un film di James Bond - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "No Time to Die, i protagonisti sulla prima volta che hanno visto un film di James Bond BadTaste"
+        }
+      ]
+    },
+    "Antonella_Elia": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Antonella Elia è una showgirl, attrice e conduttrice televisiva italiana.",
+      "news": [
+        {
+          "title": "Antonella Elia è la fuoriclasse dei reality show e il motivo è più semplice di quello che si possa immaginare - ELLE",
+          "source": "ELLE",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Antonella Elia è la fuoriclasse dei reality show e il motivo è più semplice di quello che si possa immaginare ELLE"
+        },
+        {
+          "title": "Mattino Cinque: GFVIP: Taylor Mega vs Antonella Elia Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Mattino Cinque: GFVIP: Taylor Mega vs Antonella Elia Video Mediaset Infinity"
+        },
+        {
+          "title": "Gf Vip, Antonella Elia accoglie il fidanzato Pietro con il bacio più lungo della storia (VIDEO) - Today",
+          "source": "Today",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Gf Vip, Antonella Elia accoglie il fidanzato Pietro con il bacio più lungo della storia (VIDEO) Today"
+        },
+        {
+          "title": "Antonella Elia, il lunghissimo bacio con il fidanzato al GF Vip commuove il web - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Antonella Elia, il lunghissimo bacio con il fidanzato al GF Vip commuove il web Il Mattino"
+        },
+        {
+          "title": "Grande Fratello Vip, Antonella Elia: «Francesca Barra? Non può prendermi per il c... La rivedo fuori». La replica: «Mi stai minacciando» - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Grande Fratello Vip, Antonella Elia: «Francesca Barra? Non può prendermi per il c... La rivedo fuori». La replica: «Mi stai minacciando» Il Messaggero"
+        },
+        {
+          "title": "Antonella Elia contro Valeria Marini: \"Sei tutta tirata\" - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Antonella Elia contro Valeria Marini: \"Sei tutta tirata\" Mediaset Infinity"
+        },
+        {
+          "title": "Grande Fratello Vip, Licia Nunez trova il bagno della casa sporco e s'infuria: \"Water sudicio, che schifo. Ecco chi è stato\". Antonella Elia: \"Lui? Non ci credo\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Grande Fratello Vip, Licia Nunez trova il bagno della casa sporco e s'infuria: \"Water sudicio, che schifo. Ecco chi è stato\". Antonella Elia: \"Lui? Non ci credo\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Il fidanzato di Antonella Elia: “Abbiamo parlato di figli, sono aperto a ogni soluzione” - Today",
+          "source": "Today",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Il fidanzato di Antonella Elia: “Abbiamo parlato di figli, sono aperto a ogni soluzione” Today"
+        },
+        {
+          "title": "Mattino Cinque: GFVIP: scontro tra Antonella Elia e Fernanda Lessa Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Mattino Cinque: GFVIP: scontro tra Antonella Elia e Fernanda Lessa Video Mediaset Infinity"
+        },
+        {
+          "title": "Grande Fratello Vip, Antonella Elia su Fernanda Lessa: \"La odio\" - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Grande Fratello Vip, Antonella Elia su Fernanda Lessa: \"La odio\" Mediaset Infinity"
+        }
+      ]
+    },
+    "Federico_Fellini": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Federico Fellini è stato un regista, sceneggiatore, fumettista e scrittore italiano.",
+      "news": [
+        {
+          "title": "Federico Fellini: chi era il regista, scrittore e fumettista nato 100 anni fa - SoloLibri.net",
+          "source": "SoloLibri.net",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Federico Fellini: chi era il regista, scrittore e fumettista nato 100 anni fa SoloLibri.net"
+        },
+        {
+          "title": "Non Mi Piace Mi Piace – la lista di Federico Fellini per ricordarlo a 100 anni dalla nascita - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Non Mi Piace Mi Piace – la lista di Federico Fellini per ricordarlo a 100 anni dalla nascita Anonima Cinefili"
+        },
+        {
+          "title": "Federico Fellini e le donne - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Federico Fellini e le donne Sky TG24"
+        },
+        {
+          "title": "Omaggio a Federico Fellini - L'ape musicale",
+          "source": "L'ape musicale",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Omaggio a Federico Fellini L'ape musicale"
+        },
+        {
+          "title": "Fellini, quando sognare è geniale - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Fellini, quando sognare è geniale GQ Italia"
+        },
+        {
+          "title": "I 5 migliori film di Federico Fellini - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "I 5 migliori film di Federico Fellini Movieplayer"
+        },
+        {
+          "title": "100 anni fa nasceva Fellini: gli aspetti inediti della sua fede - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "100 anni fa nasceva Fellini: gli aspetti inediti della sua fede Vatican News"
+        },
+        {
+          "title": "Intervista, di Federico Fellini. La recensione - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Intervista, di Federico Fellini. La recensione Sentieri selvaggi"
+        },
+        {
+          "title": "Dall'Italia - Cuochi a teatro per Federico Fellini - Identità Golose Web",
+          "source": "Identità Golose Web",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Dall'Italia - Cuochi a teatro per Federico Fellini Identità Golose Web"
+        },
+        {
+          "title": "I cent’anni di Federico Fellini - Poliziamoderna",
+          "source": "Poliziamoderna",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "I cent’anni di Federico Fellini Poliziamoderna"
+        }
+      ]
+    },
+    "Liliana_Segre": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Liliana Segre è una superstite dell'Olocausto, attivista e politica italiana.",
+      "news": [
+        {
+          "title": "Giornata della Memoria, Liliana Segre: raccontare l’orrore senza seminare odio - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Giornata della Memoria, Liliana Segre: raccontare l’orrore senza seminare odio Vatican News"
+        },
+        {
+          "title": "Le voci di Liliana Segre e Edith Bruck - Università di Macerata",
+          "source": "Università di Macerata",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Le voci di Liliana Segre e Edith Bruck Università di Macerata"
+        },
+        {
+          "title": "Che tempo che fa 2019/20 - Liliana Segre - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Che tempo che fa 2019/20 - Liliana Segre - Video RaiPlay"
+        },
+        {
+          "title": "Giornata della memoria, Liliana Segre spiega tutto il male dell'indifferenza - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Giornata della memoria, Liliana Segre spiega tutto il male dell'indifferenza la Repubblica"
+        },
+        {
+          "title": "Antisemitismo: perché ha ragione Liliana Segre - Gariwo",
+          "source": "Gariwo",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Antisemitismo: perché ha ragione Liliana Segre Gariwo"
+        },
+        {
+          "title": "Liliana Segre, a 89 anni, interrompe gli incontri con gli studenti. Il figlio: «Ma parlerà ancora» - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Liliana Segre, a 89 anni, interrompe gli incontri con gli studenti. Il figlio: «Ma parlerà ancora» Corriere Milano"
+        },
+        {
+          "title": "Giornata memoria, Segre: mio marito scelse fra me e Almirante - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Giornata memoria, Segre: mio marito scelse fra me e Almirante Il Sole 24 ORE"
+        },
+        {
+          "title": "L'amore di Liliana Segre per un marito conservatore: parla il figlio Alberto - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "L'amore di Liliana Segre per un marito conservatore: parla il figlio Alberto La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Segre: \"Andrea Schivo scelse di essere uomo e non si girò dall'altra parte\" - Quotidiano del Ministero della giustizia",
+          "source": "Quotidiano del Ministero della giustizia",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Segre: \"Andrea Schivo scelse di essere uomo e non si girò dall'altra parte\" Quotidiano del Ministero della giustizia"
+        },
+        {
+          "title": "Liliana Segre ci racconta l'inferno di Auschwitz - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Liliana Segre ci racconta l'inferno di Auschwitz Euronews.com"
+        }
+      ]
+    },
+    "Giorno_della_Memoria": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Giorno della Memoria, detto anche Giornata della Memoria, è una ricorrenza internazionale, celebrata il 27 gennaio di ogni anno come giornata per commemorare le vittime dell'Olocausto. È stato così designato dalla risoluzione 60/7 dell'Assemblea generale delle Nazioni Unite del 1º novembre 2005 durante la 42ª riunione plenaria. La risoluzione fu preceduta da una sessione speciale tenuta il 24 gennaio 2005 durante la quale l'Assemblea generale delle Nazioni Unite celebrò il sessantesimo anniversario della liberazione dei campi di concentramento nazisti e la fine della Shoah.",
+      "news": [
+        {
+          "title": "Comunicazione e stampa | Giorno della Memoria: il 27 gennaio si ricordano medici e infermieri vittime dell'Olocausto - Ausl Parma",
+          "source": "Ausl Parma",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Comunicazione e stampa | Giorno della Memoria: il 27 gennaio si ricordano medici e infermieri vittime dell'Olocausto Ausl Parma"
+        },
+        {
+          "title": "Giornata della Memoria 2020: i libri nuovi per non dimenticare la Shoah - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Giornata della Memoria 2020: i libri nuovi per non dimenticare la Shoah Amica.it"
+        },
+        {
+          "title": "Giorno della Memoria: ricordi e testimonianze per non dimenticare le vittime dell'Olocausto - National Geographic",
+          "source": "National Geographic",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Giorno della Memoria: ricordi e testimonianze per non dimenticare le vittime dell'Olocausto National Geographic"
+        },
+        {
+          "title": "27 gennaio - Giorno della Memoria - Provincia di Pesaro e Urbino",
+          "source": "Provincia di Pesaro e Urbino",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "27 gennaio - Giorno della Memoria Provincia di Pesaro e Urbino"
+        },
+        {
+          "title": "Anche a Palermo si ricorda la \"Shoah\": cosa c'è da fare per il giorno della Memoria - Balarm.it",
+          "source": "Balarm.it",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Anche a Palermo si ricorda la \"Shoah\": cosa c'è da fare per il giorno della Memoria Balarm.it"
+        },
+        {
+          "title": "Giornata della Memoria, Liliana Segre: raccontare l’orrore senza seminare odio - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Giornata della Memoria, Liliana Segre: raccontare l’orrore senza seminare odio Vatican News"
+        },
+        {
+          "title": "Giorno della Memoria 2020 - cultura.trentino",
+          "source": "cultura.trentino",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Giorno della Memoria 2020 cultura.trentino"
+        },
+        {
+          "title": "“Giorno della Memoria”: le riflessioni dei ragazzi - Centumcellae News",
+          "source": "Centumcellae News",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "“Giorno della Memoria”: le riflessioni dei ragazzi Centumcellae News"
+        },
+        {
+          "title": "Giornata della memoria, Liliana Segre spiega tutto il male dell'indifferenza - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Giornata della memoria, Liliana Segre spiega tutto il male dell'indifferenza la Repubblica"
+        },
+        {
+          "title": "Giornata della Memoria: film da vedere per non dimenticare la Shoah - Osservatorio Diritti",
+          "source": "Osservatorio Diritti",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Giornata della Memoria: film da vedere per non dimenticare la Shoah Osservatorio Diritti"
+        }
+      ]
+    },
+    "Junior_Cally": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Junior Cally, pseudonimo di Antonio Signore, è un rapper e produttore discografico italiano.",
+      "news": [
+        {
+          "title": "Junior Cally fuori dal Festival? Ecco le frasi «oscene» che lo mettono sotto accusa - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Junior Cally fuori dal Festival? Ecco le frasi «oscene» che lo mettono sotto accusa Vanity Fair Italia"
+        },
+        {
+          "title": "Junior Cally, il rapper delle polemiche a Sanremo 2020. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Junior Cally, il rapper delle polemiche a Sanremo 2020. FOTO Sky TG24"
+        },
+        {
+          "title": "Squalificare Junior Cally significa non capire che cos’è il rap - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Squalificare Junior Cally significa non capire che cos’è il rap Rolling Stone Italia"
+        },
+        {
+          "title": "Chi è Junior Cally, il rapper che ha mandato in tilt Sanremo 2020 - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Chi è Junior Cally, il rapper che ha mandato in tilt Sanremo 2020 Corriere Style"
+        },
+        {
+          "title": "Junior Cally, chi è il rapper con la maschera - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Junior Cally, chi è il rapper con la maschera TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Sanremo: Junior Cally, violenza su donne insopportabile - ANSA",
+          "source": "ANSA",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Sanremo: Junior Cally, violenza su donne insopportabile ANSA"
+        },
+        {
+          "title": "Salvini e il tweet a Junior Cally: «Se paragoni le donne come t***e lo fai a casa tua» - Open",
+          "source": "Open",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Salvini e il tweet a Junior Cally: «Se paragoni le donne come t***e lo fai a casa tua» Open"
+        },
+        {
+          "title": "Junior Cally a Sanremo 2020, la polemica e la biografia artistica del rapper mascherato - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Junior Cally a Sanremo 2020, la polemica e la biografia artistica del rapper mascherato GQ Italia"
+        },
+        {
+          "title": "Chi è Junior Cally, il rapper delle polemiche a Sanremo che ha qualcosa in comune con Beyoncé - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Chi è Junior Cally, il rapper delle polemiche a Sanremo che ha qualcosa in comune con Beyoncé Cosmopolitan"
+        },
+        {
+          "title": "Junior Cally parteciperà a Sanremo - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Junior Cally parteciperà a Sanremo AGI"
+        }
+      ]
+    },
+    "Christian_Eriksen": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Christian Dannemann Eriksen è un calciatore danese, centrocampista svincolato e della nazionale danese.",
+      "news": [
+        {
+          "title": "Mercato Inter: due sacrifici per arrivare a Eriksen e Moses - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Mercato Inter: due sacrifici per arrivare a Eriksen e Moses Virgilio"
+        },
+        {
+          "title": "UOL: \"Flamengo e Inter in trattativa per il futuro di Gabigol\" - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "UOL: \"Flamengo e Inter in trattativa per il futuro di Gabigol\" Tuttosport"
+        },
+        {
+          "title": "Gli acquisti ufficiali del mercato di gennaio - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Gli acquisti ufficiali del mercato di gennaio Sky Sport"
+        },
+        {
+          "title": "La rabbia di Vieri: Basta ca... quando si parla dell'Inter - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "La rabbia di Vieri: Basta ca... quando si parla dell'Inter Virgilio"
+        }
+      ]
+    },
+    "Cristiano_Ronaldo": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cristiano Ronaldo dos Santos Aveiro è un calciatore portoghese, attaccante dell'Al-Nassr, di cui è capitano. Con la nazionale portoghese, è diventato campione d'Europa nel 2016 e ha vinto la UEFA Nations League 2018-2019 e 2024-2025.",
+      "news": [
+        {
+          "title": "La dieta di Cristiano Ronaldo: molte proteine, niente alcolici e tanto riposo - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "La dieta di Cristiano Ronaldo: molte proteine, niente alcolici e tanto riposo La Gazzetta dello Sport"
+        },
+        {
+          "title": "HIGHLIGHTS: Juventus vs Parma - 2-1 - Cristiano Ronaldo at the double! Video - Juventus.com",
+          "source": "Juventus.com",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "HIGHLIGHTS: Juventus vs Parma - 2-1 - Cristiano Ronaldo at the double! Video Juventus.com"
+        },
+        {
+          "title": "La nuova casa di Cristiano Ronaldo a Lisbona è costata 7,2 milioni - Idealista",
+          "source": "Idealista",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "La nuova casa di Cristiano Ronaldo a Lisbona è costata 7,2 milioni Idealista"
+        },
+        {
+          "title": "Ronaldo in gol in 7 gare di fila: la top 10 - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 20 Jan 2020 08:00:00 GMT",
+          "description": "Ronaldo in gol in 7 gare di fila: la top 10 Sky Sport"
+        },
+        {
+          "title": "Cristiano Ronaldo va a lezione di sprint da Obikwelu, primatista europeo sui 100 metri - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Cristiano Ronaldo va a lezione di sprint da Obikwelu, primatista europeo sui 100 metri Corriere della Sera"
+        },
+        {
+          "title": "I 5 gol più belli di Cristiano Ronaldo - Sisal",
+          "source": "Sisal",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "I 5 gol più belli di Cristiano Ronaldo Sisal"
+        }
+      ]
+    },
+    "Jack_lo_squartatore": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Jack lo Squartatore è l'appellativo dato a uno sconosciuto serial killer che agì tra l'estate e l'autunno del 1888 nel degradato quartiere di Whitechapel, nell'East End di Londra.",
+      "news": [
+        {
+          "title": "Carnival Row: La recensione della serie di Amazon Prime Video - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Tue, 21 Jan 2020 08:00:00 GMT",
+          "description": "Carnival Row: La recensione della serie di Amazon Prime Video ComingSoon.it"
+        }
+      ]
+    },
+    "Wuhan": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Wuhan è una città sub-provinciale della Cina, capoluogo e città più popolosa della provincia di Hubei. Posta alla confluenza del fiume Azzurro e del fiume Han, negli anni '20 la città fu capitale del governo nazionalista di sinistra di Wang Jingwei, in opposizione a quello di Chiang Kai-shek. Qui ebbe origine la pandemia da SARS-CoV-2, nel 2019.",
+      "news": [
+        {
+          "title": "Coronavirus in Cina, l'epidemia da Wuhan a Pechino - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Coronavirus in Cina, l'epidemia da Wuhan a Pechino Corriere della Sera"
+        },
+        {
+          "title": "Cina, cosa sappiamo finora del nuovo virus - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Cina, cosa sappiamo finora del nuovo virus Il Bo Live"
+        },
+        {
+          "title": "Coronavirus: domande dei consumatori e risposte degli esperti - Il Fatto Alimentare",
+          "source": "Il Fatto Alimentare",
+          "pubDate": "Mon, 27 Jan 2020 08:00:00 GMT",
+          "description": "Coronavirus: domande dei consumatori e risposte degli esperti Il Fatto Alimentare"
+        },
+        {
+          "title": "Nel mercato di Wuhan dove è nato il virus: “Noi città in quarantena” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 22 Jan 2020 08:00:00 GMT",
+          "description": "Nel mercato di Wuhan dove è nato il virus: “Noi città in quarantena” la Repubblica"
+        },
+        {
+          "title": "Coronavirus cinese: cosa sappiamo sull’origine - www.medicalfacts.it",
+          "source": "www.medicalfacts.it",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Coronavirus cinese: cosa sappiamo sull’origine www.medicalfacts.it"
+        },
+        {
+          "title": "Wuhan, i medici-eroi contro il virus tra piaghe e crisi di nervi: «Siamo stremati» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Wuhan, i medici-eroi contro il virus tra piaghe e crisi di nervi: «Siamo stremati» Corriere della Sera"
+        },
+        {
+          "title": "Si può davvero isolare un’intera grande città? - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "Si può davvero isolare un’intera grande città? Il Post"
+        },
+        {
+          "title": "Il racconto di Lorenzo Di Berardino bloccato a Wuhan per il coronavirus a \"La vita in diretta\" [VIDEO] - IlPescara",
+          "source": "IlPescara",
+          "pubDate": "Sat, 25 Jan 2020 08:00:00 GMT",
+          "description": "Il racconto di Lorenzo Di Berardino bloccato a Wuhan per il coronavirus a \"La vita in diretta\" [VIDEO] IlPescara"
+        },
+        {
+          "title": "Coronavirus: “canale sanitario” dedicato a Fiumicino per 202 viaggiatori provenienti da Wuhan - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Coronavirus: “canale sanitario” dedicato a Fiumicino per 202 viaggiatori provenienti da Wuhan San Marino Rtv"
+        },
+        {
+          "title": "La Cina minacciata dal coronavirus: la causa è un mercato di animali selvatici - National Geographic",
+          "source": "National Geographic",
+          "pubDate": "Fri, 24 Jan 2020 08:00:00 GMT",
+          "description": "La Cina minacciata dal coronavirus: la causa è un mercato di animali selvatici National Geographic"
+        }
+      ]
+    },
+    "Charles_Lindbergh": {
+      "fetched_at": "2026-11-06T16:15:36+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Charles Augustus Lindbergh è stato un aviatore statunitense.",
+      "news": [
+        {
+          "title": "Il rapimento di Baby Lindbergh: il sequestro che commosse il Mondo - Vanilla Magazine",
+          "source": "Vanilla Magazine",
+          "pubDate": "Sun, 26 Jan 2020 08:00:00 GMT",
+          "description": "Il rapimento di Baby Lindbergh: il sequestro che commosse il Mondo Vanilla Magazine"
+        },
+        {
+          "title": "Chi vuol essere milionario?, prima puntata con assegno da 300mila euro - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "Chi vuol essere milionario?, prima puntata con assegno da 300mila euro Mediaset Infinity"
+        },
+        {
+          "title": "23 Gennaio, accadde oggi: eventi storici, santi e ricorrenze - ZON.it",
+          "source": "ZON.it",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "23 Gennaio, accadde oggi: eventi storici, santi e ricorrenze ZON.it"
+        },
+        {
+          "title": "CHI VUOL ESSERE MILIONARIO: ABRUZZESE ALL'ULTIMA DOMANDA VERSO IL MILIONE - Abruzzo Web",
+          "source": "Abruzzo Web",
+          "pubDate": "Thu, 23 Jan 2020 08:00:00 GMT",
+          "description": "CHI VUOL ESSERE MILIONARIO: ABRUZZESE ALL'ULTIMA DOMANDA VERSO IL MILIONE Abruzzo Web"
+        }
+      ]
+    }
+  }
+}

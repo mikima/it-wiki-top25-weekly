@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Kobe%20Bryant&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Kobe_Bryant",
       "article_url": "https://it.wikipedia.org/wiki/Kobe_Bryant",
-      "description": "cestista statunitense (1978-2020)",
+      "description": "Campione di basket statunitense dei Los Angeles Lakers, muore il 26 gennaio a 41 anni in un incidente in elicottero.",
       "image_filename": "KBryant8.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/KBryant8.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:KBryant8.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Coronavirus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Coronavirus",
       "article_url": "https://it.wikipedia.org/wiki/Coronavirus",
-      "description": "",
+      "description": "Famiglia di virus a cui appartiene quello responsabile dell'epidemia partita da Wuhan, città cinese isolata il 23 gennaio.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Toque%20blanche&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Toque_blanche",
       "article_url": "https://it.wikipedia.org/wiki/Toque_blanche",
-      "description": "cappello da cuoco",
+      "description": "Cappello da cuoco, il picco del 22 gennaio è forse legato alla puntata di Chi vuol essere milionario? su Canale 5.",
       "image_filename": "Cooks_050918_154402.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cooks_050918_154402.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cooks_050918_154402.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Concessionaria del servizio pubblico radiotelevisivo, è in classifica da oltre sei mesi.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Persona%20dell%27anno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Persona_dell%27anno",
       "article_url": "https://it.wikipedia.org/wiki/Persona_dell%27anno",
-      "description": "",
+      "description": "Riconoscimento assegnato dal settimanale Time; il picco del 22 gennaio è forse legato a Chi vuol essere milionario? su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=SARS&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=SARS",
       "article_url": "https://it.wikipedia.org/wiki/SARS",
-      "description": "sindrome respiratoria acuta grave",
+      "description": "Malattia respiratoria causata da un coronavirus, viene confrontata con l'epidemia partita da Wuhan, isolata il 23 gennaio.",
       "image_filename": "Coronaviruses_004_lores.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/1280px-Coronaviruses_004_lores.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronaviruses_004_lores.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Blue%20Monday%20%28data%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Blue_Monday_(data)",
       "article_url": "https://it.wikipedia.org/wiki/Blue_Monday_(data)",
-      "description": "giorno più deprimente dell'anno per gli abitanti dell'emisfero boreale (nord).",
+      "description": "Il 20 gennaio cade il presunto giorno più triste dell'anno, definizione priva di fondamento scientifico.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Sex%20Education&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Sex_Education",
       "article_url": "https://it.wikipedia.org/wiki/Sex_Education",
-      "description": "serie televisiva britannica del 2019",
+      "description": "Il 17 gennaio esce su Netflix la seconda stagione della serie britannica, ancora in classifica la settimana successiva.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Bettino%20Craxi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Bettino_Craxi",
       "article_url": "https://it.wikipedia.org/wiki/Bettino_Craxi",
-      "description": "politico italiano (1934-2000)",
+      "description": "Ex presidente del Consiglio e segretario del PSI, il 19 gennaio ricorre il ventesimo anniversario della sua morte. Dal 9 gennaio è al cinema Hammamet.",
       "image_filename": "Bettino_Craxi_MEP_Portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bettino_Craxi_MEP_Portrait.jpg/1280px-Bettino_Craxi_MEP_Portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bettino_Craxi_MEP_Portrait.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=1917%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=1917_(film)",
       "article_url": "https://it.wikipedia.org/wiki/1917_(film)",
-      "description": "film del 2019 diretto da Sam Mendes",
+      "description": "Il film di guerra diretto da Sam Mendes esce nelle sale italiane il 23 gennaio.",
       "image_filename": "1917logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/1917logo.svg/1280px-1917logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:1917logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Victor%20Moses&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Victor_Moses",
       "article_url": "https://it.wikipedia.org/wiki/Victor_Moses",
-      "description": "calciatore nigeriano (1990-)",
+      "description": "Calciatore nigeriano, il 23 gennaio passa ufficialmente dal Chelsea all'Inter in prestito.",
       "image_filename": "Victor_Moses_(SPA-AKH).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Victor_Moses_%28SPA-AKH%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Victor_Moses_(SPA-AKH).jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Jojo%20Rabbit&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Jojo_Rabbit",
       "article_url": "https://it.wikipedia.org/wiki/Jojo_Rabbit",
-      "description": "film del 2019 diretto da Taika Waititi",
+      "description": "Il film di Taika Waititi è al cinema dal 16 gennaio, dopo aver ottenuto sei candidature agli Oscar.",
       "image_filename": "Jojo_Rabbit.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Jojo_Rabbit.png/1280px-Jojo_Rabbit.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jojo_Rabbit.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Luis%20Alberto%20Spinetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Luis_Alberto_Spinetta",
       "article_url": "https://it.wikipedia.org/wiki/Luis_Alberto_Spinetta",
-      "description": "cantante, chitarrista e compositore argentino",
+      "description": "Cantautore e chitarrista argentino, il 23 gennaio Google gli dedica un Doodle per il 70° anniversario della nascita.",
       "image_filename": "Luisalbertospinetta.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Luisalbertospinetta.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luisalbertospinetta.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Anna%20May%20Wong&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Anna_May_Wong",
       "article_url": "https://it.wikipedia.org/wiki/Anna_May_Wong",
-      "description": "attrice statunitense (1905-1961)",
+      "description": "Attrice statunitense di origini cinesi, il 22 gennaio Google le dedica un Doodle.",
       "image_filename": "Anna_May_Wong_Stars_of_the_Photoplay.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Anna_May_Wong_Stars_of_the_Photoplay.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anna_May_Wong_Stars_of_the_Photoplay.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Time&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Time",
       "article_url": "https://it.wikipedia.org/wiki/Time",
-      "description": "settimanale statunitense",
+      "description": "Settimanale statunitense che assegna il riconoscimento di Persona dell'anno; il picco del 22 gennaio è forse legato a Chi vuol essere milionario?.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Antonella%20Elia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Antonella_Elia",
       "article_url": "https://it.wikipedia.org/wiki/Antonella_Elia",
-      "description": "attrice, conduttrice televisiva e showgirl italiana (1963-)",
+      "description": "Showgirl italiana e concorrente del Grande Fratello VIP, partecipa alla puntata del 24 gennaio su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Federico%20Fellini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Federico_Fellini",
       "article_url": "https://it.wikipedia.org/wiki/Federico_Fellini",
-      "description": "regista, sceneggiatore, fumettista, attore e scrittore italiano (1920-1993)",
+      "description": "Regista italiano, il 20 gennaio ricorre il centenario della sua nascita.",
       "image_filename": "Federico_Fellini_010.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Federico_Fellini_010.jpg/1280px-Federico_Fellini_010.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Federico_Fellini_010.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Liliana%20Segre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Liliana_Segre",
       "article_url": "https://it.wikipedia.org/wiki/Liliana_Segre",
-      "description": "antifascista e politica italiana, superstite dell'Olocausto e testimone attiva della Shoah (1930-)",
+      "description": "Senatrice a vita e superstite della Shoah, il 26 gennaio è ospite di Che tempo che fa su Rai 2.",
       "image_filename": "Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Liliana_Segre_%28XVIII_Legislatura_Senato%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_license": "CC BY 1.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorno%20della%20Memoria&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Giorno_della_Memoria",
       "article_url": "https://it.wikipedia.org/wiki/Giorno_della_Memoria",
-      "description": "giornata internazionale per la commemorazione delle vittime dell'Olocausto",
+      "description": "Il 27 gennaio si commemorano le vittime dell'Olocausto, nel 75° anniversario della liberazione di Auschwitz.",
       "image_filename": "Auschwitz_I_entrance_snow.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Auschwitz_I_entrance_snow.jpg/1280px-Auschwitz_I_entrance_snow.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_entrance_snow.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Junior%20Cally&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Junior_Cally",
       "article_url": "https://it.wikipedia.org/wiki/Junior_Cally",
-      "description": "rapper italiano (1991-)",
+      "description": "Rapper italiano in gara a Sanremo 2020, il 20 gennaio viene criticato da Matteo Salvini per i testi delle sue canzoni.",
       "image_filename": "Junior_Cally_Funweek.it_2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Junior_Cally_Funweek.it_2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Junior_Cally_Funweek.it_2024.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Christian%20Eriksen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Christian_Eriksen",
       "article_url": "https://it.wikipedia.org/wiki/Christian_Eriksen",
-      "description": "calciatore danese (1992-)",
+      "description": "Centrocampista danese del Tottenham, dal 17 gennaio è tra i giocatori trattati dall'Inter sul mercato.",
       "image_filename": "20140904_-_Christian_Eriksen_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/20140904_-_Christian_Eriksen_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:20140904_-_Christian_Eriksen_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Cristiano_Ronaldo",
       "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "description": "calciatore portoghese (1985-)",
+      "description": "Attaccante portoghese della Juventus, il 19 gennaio segna una doppietta nella vittoria per 2-1 contro il Parma.",
       "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Jack%20lo%20squartatore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Jack_lo_squartatore",
       "article_url": "https://it.wikipedia.org/wiki/Jack_lo_squartatore",
-      "description": "serial killer ignoto che agì a Londra nel 1888",
+      "description": "Assassino seriale ignoto attivo a Londra nel 1888; il picco del 22 gennaio è forse legato a Chi vuol essere milionario? su Canale 5.",
       "image_filename": "Jack-the-Ripper-The-Nemesis-of-Neglect-Punch-London-Charivari-cartoon-poem-1888-09-29.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Jack-the-Ripper-The-Nemesis-of-Neglect-Punch-London-Charivari-cartoon-poem-1888-09-29.jpg/1117px-Jack-the-Ripper-The-Nemesis-of-Neglect-Punch-London-Charivari-cartoon-poem-1888-09-29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jack-the-Ripper-The-Nemesis-of-Neglect-Punch-London-Charivari-cartoon-poem-1888-09-29.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Wuhan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Wuhan",
       "article_url": "https://it.wikipedia.org/wiki/Wuhan",
-      "description": "città cinese",
+      "description": "Città cinese da cui parte l'epidemia del nuovo coronavirus, viene isolata il 23 gennaio per limitare i contagi.",
       "image_filename": "WuhanSkyline.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WuhanSkyline.jpg/1280px-WuhanSkyline.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:WuhanSkyline.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Charles%20Lindbergh&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/20/2020,cd_max:01/26/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-20&end=2020-01-26&pages=Charles_Lindbergh",
       "article_url": "https://it.wikipedia.org/wiki/Charles_Lindbergh",
-      "description": "aviatore statunitense (1902-1974)",
+      "description": "Aviatore statunitense, il picco del 22 gennaio è forse legato alla puntata di Chi vuol essere milionario? su Canale 5.",
       "image_filename": "Col_Charles_Lindbergh,_original,_hec.21329.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Col_Charles_Lindbergh%2C_original%2C_hec.21329.jpg/1280px-Col_Charles_Lindbergh%2C_original%2C_hec.21329.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Col_Charles_Lindbergh%2C_original%2C_hec.21329.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

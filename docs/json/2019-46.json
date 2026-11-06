@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=MOSE&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=MOSE",
       "article_url": "https://it.wikipedia.org/wiki/MOSE",
-      "description": "sistema di barriere elettromeccaniche per difendere Venezia dal fenomeno dell'acqua alta",
+      "description": "Sistema di dighe mobili ancora incompleto, non viene usato durante l'eccezionale acqua alta che colpisce Venezia il 12 novembre.",
       "image_filename": "05_bocca_di_lido.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/05_bocca_di_lido.jpg/1024px-05_bocca_di_lido.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:05_bocca_di_lido.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Concessionaria del servizio pubblico radiotelevisivo, è in classifica per la ventisettesima settimana consecutiva.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Enrico%20Piaggio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Enrico_Piaggio",
       "article_url": "https://it.wikipedia.org/wiki/Enrico_Piaggio",
-      "description": "imprenditore italiano",
+      "description": "Imprenditore italiano legato alla nascita della Vespa, è protagonista del film Enrico Piaggio - Un sogno italiano, in onda il 12 novembre su Rai 1.",
       "image_filename": "Enrico_piaggio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/6/64/Enrico_piaggio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Enrico_piaggio.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Morte%20di%20Stefano%20Cucchi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Morte_di_Stefano_Cucchi",
       "article_url": "https://it.wikipedia.org/wiki/Morte_di_Stefano_Cucchi",
-      "description": "",
+      "description": "Il 14 novembre due carabinieri vengono condannati a 12 anni per omicidio preterintenzionale nel processo sulla morte di Cucchi, avvenuta nel 2009.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Venezia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Venezia",
       "article_url": "https://it.wikipedia.org/wiki/Venezia",
-      "description": "comune italiano, capoluogo dell'omonima città metropolitana e della regione Veneto",
+      "description": "Il 12 novembre la città viene colpita da un'eccezionale acqua alta, la più grave dal 1966.",
       "image_filename": "Flag_of_Venice.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Venice.svg/1280px-Flag_of_Venice.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Venice.svg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20europeo%20di%20calcio%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Campionato_europeo_di_calcio_2020",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_europeo_di_calcio_2020",
-      "description": "",
+      "description": "Il 15 novembre Finlandia e Svezia si qualificano a Euro 2020; il 17 novembre ottiene il pass anche il Portogallo.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Muro%20di%20Berlino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Muro_di_Berlino",
       "article_url": "https://it.wikipedia.org/wiki/Muro_di_Berlino",
-      "description": "fortificazione militare costruita dalla Germania Est per circondare Berlino Ovest",
+      "description": "Il 9 novembre ricorre il trentesimo anniversario della caduta del Muro di Berlino.",
       "image_filename": "Berlin_Wall_1961-11-20.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Berlin_Wall_1961-11-20.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Berlin_Wall_1961-11-20.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Antonella%20Bechi%20Piaggio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Antonella_Bechi_Piaggio",
       "article_url": "https://it.wikipedia.org/wiki/Antonella_Bechi_Piaggio",
-      "description": "nobildonna italiana",
+      "description": "Figlia adottiva di Enrico Piaggio, è legata al film su di lui Enrico Piaggio - Un sogno italiano, in onda il 12 novembre su Rai 1.",
       "image_filename": "Antonella_Piaggio_1960_Olympics_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Antonella_Piaggio_1960_Olympics_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Antonella_Piaggio_1960_Olympics_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Adriano%20Celentano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Adriano_Celentano",
       "article_url": "https://it.wikipedia.org/wiki/Adriano_Celentano",
-      "description": "cantante, showman, attore, regista, sceneggiatore, ballerino, compositore, cabarettista, autore televisivo e produttore discografico italiano (1938-)",
+      "description": "Cantante e showman, il 14 novembre presenta su Canale 5 una nuova puntata di Adrian, con ospiti Maria De Filippi e Gianni Morandi.",
       "image_filename": "Celentano_1961_Salsomaggiore_Terme.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Celentano_1961_Salsomaggiore_Terme.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Celentano_1961_Salsomaggiore_Terme.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Lara%20Comi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Lara_Comi",
       "article_url": "https://it.wikipedia.org/wiki/Lara_Comi",
-      "description": "politica italiana",
+      "description": "Ex europarlamentare di Forza Italia, il 14 novembre viene posta agli arresti domiciliari nell'ambito di un'inchiesta sulle tangenti in Lombardia.",
       "image_filename": "Lara_Comi_MEP,_2019.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lara_Comi_MEP%2C_2019.jpg/1280px-Lara_Comi_MEP%2C_2019.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lara_Comi_MEP%2C_2019.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Liliana%20Segre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Liliana_Segre",
       "article_url": "https://it.wikipedia.org/wiki/Liliana_Segre",
-      "description": "antifascista e politica italiana, superstite dell'Olocausto e testimone attiva della Shoah (1930-)",
+      "description": "Senatrice a vita e superstite della Shoah, il 6 novembre le viene assegnata una scorta dopo le minacce ricevute.",
       "image_filename": "Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Liliana_Segre_%28XVIII_Legislatura_Senato%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_license": "CC BY 1.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Fabrizio%20De%20Andr%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Fabrizio_De_Andr%C3%A9",
       "article_url": "https://it.wikipedia.org/wiki/Fabrizio_De_Andr%C3%A9",
-      "description": "cantautore italiano (1940-1999)",
+      "description": "Cantautore italiano morto nel 1999, è ricordato nella prima puntata di Una storia da cantare, in onda il 16 novembre su Rai 1.",
       "image_filename": "De_André_backstage.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/9/9f/De_Andr%C3%A9_backstage.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:De_Andr%C3%A9_backstage.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Cristiano_Ronaldo",
       "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "description": "calciatore portoghese (1985-)",
+      "description": "Attaccante portoghese della Juventus, il 14 novembre segna una tripletta contro la Lituania nelle qualificazioni a Euro 2020.",
       "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Zlatan%20Ibrahimovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Zlatan_Ibrahimovi%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87",
-      "description": "dirigente sportivo e calciatore svedese (1981-)",
+      "description": "Attaccante svedese, il 13 novembre annuncia il suo addio ai Los Angeles Galaxy.",
       "image_filename": "Zlatan_Ibrahimović_June_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Acqua%20alta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Acqua_alta",
       "article_url": "https://it.wikipedia.org/wiki/Acqua_alta",
-      "description": "alta marea che interessa Venezia, allagandola, e più raramente altre località del nord Adriatico",
+      "description": "Il 12 novembre una marea eccezionale allaga Venezia, con il livello dell'acqua più alto dal 1966.",
       "image_filename": "Chilone-San_Marco_Flooded.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Chilone-San_Marco_Flooded.jpg/1280px-Chilone-San_Marco_Flooded.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Chilone-San_Marco_Flooded.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Le%20Mans%20%2766%20-%20La%20grande%20sfida&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Le_Mans_%2766_-_La_grande_sfida",
       "article_url": "https://it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida",
-      "description": "film del 2019 diretto da James Mangold",
+      "description": "Film diretto da James Mangold con Matt Damon e Christian Bale, esce nelle sale italiane il 14 novembre.",
       "image_filename": "Le_Mans_'66_-_La_grande_sfida.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/7/78/Le_Mans_%2766_-_La_grande_sfida.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Le_Mans_%2766_-_La_grande_sfida.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Eddie%20Edwards%20%28sciatore%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Eddie_Edwards_(sciatore)",
       "article_url": "https://it.wikipedia.org/wiki/Eddie_Edwards_(sciatore)",
-      "description": "saltatore con gli sci britannico (1963)",
+      "description": "Ex saltatore con gli sci britannico, noto per la partecipazione alle Olimpiadi di Calgary 1988. Difficile stabilire il motivo delle visite.",
       "image_filename": "Eddie_\"The_Eagle\"_Edwards_in_Calgary_2017-03-05_(crop).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eddie_%22The_Eagle%22_Edwards_in_Calgary_2017-03-05_%28crop%29.jpg/1280px-Eddie_%22The_Eagle%22_Edwards_in_Calgary_2017-03-05_%28crop%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Eddie_%22The_Eagle%22_Edwards_in_Calgary_2017-03-05_(crop).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Qualificazioni%20al%20campionato%20europeo%20di%20calcio%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Qualificazioni_al_campionato_europeo_di_calcio_2020",
       "article_url": "https://it.wikipedia.org/wiki/Qualificazioni_al_campionato_europeo_di_calcio_2020",
-      "description": "",
+      "description": "Il 15 novembre Finlandia e Svezia si qualificano a Euro 2020; il 17 novembre si qualifica anche il Portogallo.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=ATP%20Finals&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=ATP_Finals",
       "article_url": "https://it.wikipedia.org/wiki/ATP_Finals",
-      "description": "torneo di chiusura della stagione professionistica tennistica maschile",
+      "description": "Il torneo di fine stagione si disputa a Londra: il 14 novembre Matteo Berrettini batte Dominic Thiem e il 17 Stefanos Tsitsipas vince la finale.",
       "image_filename": "Nitto_ATP_Finals_logo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nitto_ATP_Finals_logo.jpg/1280px-Nitto_ATP_Finals_logo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nitto_ATP_Finals_logo.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Edward%20Snowden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Edward_Snowden",
       "article_url": "https://it.wikipedia.org/wiki/Edward_Snowden",
-      "description": "informatico statunitense",
+      "description": "Informatico statunitense noto per le rivelazioni sulla sorveglianza della NSA. Dati probabilmente incompleti: 56.984 visite il 17 novembre e zero nei sei giorni precedenti.",
       "image_filename": "Edward_Snowden_2013-10-9_(1)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Edward_Snowden_2013-10-9_(1)_(cropped).jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorgia%20Meloni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Giorgia_Meloni",
       "article_url": "https://it.wikipedia.org/wiki/Giorgia_Meloni",
-      "description": "politica italiana, Presidente del Consiglio dei ministri della Repubblica Italiana",
+      "description": "Leader di Fratelli d'Italia, il 6 novembre diventa virale un remix del suo discorso Io sono Giorgia.",
       "image_filename": "Giorgia_Meloni_Official_2024_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
       "image_license": "CC BY 3.0 it",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo; la pagina è in classifica per l'ottava settimana consecutiva.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=ArcelorMittal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=ArcelorMittal",
       "article_url": "https://it.wikipedia.org/wiki/ArcelorMittal",
-      "description": "azienda leader nel settore dell'acciaio",
+      "description": "Gruppo siderurgico internazionale, il 12 novembre deposita l'atto di recesso dal contratto per l'ex Ilva di Taranto.",
       "image_filename": "Luxembourg_Arcelor_Mittal.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luxembourg_Arcelor_Mittal.jpg/1280px-Luxembourg_Arcelor_Mittal.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luxembourg_Arcelor_Mittal.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Pirati%20dei%20Caraibi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=Pirati_dei_Caraibi",
       "article_url": "https://it.wikipedia.org/wiki/Pirati_dei_Caraibi",
-      "description": "serie di film",
+      "description": "Serie di film Disney con Johnny Depp, il picco è probabilmente legato alla trasmissione dell'11 novembre di La maledizione della prima luna.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=ArcelorMittal%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/11/2019,cd_max:11/17/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-11&end=2019-11-17&pages=ArcelorMittal_Italia",
       "article_url": "https://it.wikipedia.org/wiki/ArcelorMittal_Italia",
-      "description": "",
+      "description": "Società che gestisce gli stabilimenti dell'ex Ilva; il 12 novembre il gruppo ArcelorMittal deposita l'atto di recesso dal contratto.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

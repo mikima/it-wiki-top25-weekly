@@ -1,0 +1,1256 @@
+{
+  "week": "2020-01",
+  "start_date": "2019-12-30",
+  "end_date": "2020-01-05",
+  "articles": {
+    "Qasem_Soleimani": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Qasem Soleimani è stato un generale e agente segreto iraniano.",
+      "news": [
+        {
+          "title": "Chi era il generale Soleimani: uomo chiave dell’influenza iraniana in Medio Oriente - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Chi era il generale Soleimani: uomo chiave dell’influenza iraniana in Medio Oriente Corriere della Sera"
+        },
+        {
+          "title": "USA-Iran: le conseguenze della morte di Soleimani - ISPI",
+          "source": "ISPI",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "USA-Iran: le conseguenze della morte di Soleimani ISPI"
+        },
+        {
+          "title": "Perché l'uccisione di Soleimani è così importante - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Perché l'uccisione di Soleimani è così importante Wired Italia"
+        },
+        {
+          "title": "Qassem Soleimani, l'uomo più potente del Medio Oriente che voleva \"punire\" l'America - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Qassem Soleimani, l'uomo più potente del Medio Oriente che voleva \"punire\" l'America la Repubblica"
+        },
+        {
+          "title": "Chi era Qassem Soleimani, il generale iraniano più potente del Medio Oriente - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Chi era Qassem Soleimani, il generale iraniano più potente del Medio Oriente Sky TG24"
+        },
+        {
+          "title": "La morte di Soleimani, il viceré persiano in Medio Oriente - Limes - Rivista Italiana di geopolitica",
+          "source": "Limes - Rivista Italiana di geopolitica",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "La morte di Soleimani, il viceré persiano in Medio Oriente Limes - Rivista Italiana di geopolitica"
+        },
+        {
+          "title": "Chi era Qassem Suleimani, spiegato bene - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Chi era Qassem Suleimani, spiegato bene Il Post"
+        },
+        {
+          "title": "Chi era Qassem Soleimani, il più potente generale iraniano ucciso dagli USA - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Chi era Qassem Soleimani, il più potente generale iraniano ucciso dagli USA Euronews.com"
+        },
+        {
+          "title": "Soleimani ucciso a Bagdad su ordine di Trump. Iran: «Ci vendicheremo» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Soleimani ucciso a Bagdad su ordine di Trump. Iran: «Ci vendicheremo» Corriere della Sera"
+        },
+        {
+          "title": "Attacco Usa all'aeroporto di Baghdad, ucciso il generale iraniano Qassem Soleimani - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Attacco Usa all'aeroporto di Baghdad, ucciso il generale iraniano Qassem Soleimani Sky TG24"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Sant'Agostino - S1E1 - Episodio 1 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Sant'Agostino - S1E1 - Episodio 1 - Video RaiPlay"
+        },
+        {
+          "title": "Sant'Agostino - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 03 Jan 2020 01:22:26 GMT",
+          "description": "Sant'Agostino RaiPlay"
+        },
+        {
+          "title": "Punto di svolta - E5 - Thomas Mann - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Punto di svolta - E5 - Thomas Mann - Video RaiPlay"
+        },
+        {
+          "title": "Sant'Agostino - S1E2 - Episodio 2 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Sant'Agostino - S1E2 - Episodio 2 - Video RaiPlay"
+        },
+        {
+          "title": "Ogni ragazza vuol marito - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 03 Jan 2020 14:06:15 GMT",
+          "description": "Ogni ragazza vuol marito RaiPlay"
+        },
+        {
+          "title": "Don Matteo - S12E1 - Non avrai altro Dio all'infuori di me - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Don Matteo - S12E1 - Non avrai altro Dio all'infuori di me - Video RaiPlay"
+        },
+        {
+          "title": "La Regina delle Nevi 3 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 05 Jan 2020 05:56:41 GMT",
+          "description": "La Regina delle Nevi 3 RaiPlay"
+        },
+        {
+          "title": "Un nuovo Museo della Radio e della Tv - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Un nuovo Museo della Radio e della Tv Rai.it"
+        },
+        {
+          "title": "Meraviglie 2020 - Roma, la regina delle acque - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Meraviglie 2020 - Roma, la regina delle acque - Video RaiPlay"
+        }
+      ]
+    },
+    "Zlatan_Ibrahimović": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Zlatan Ibrahimović è un dirigente sportivo ed ex calciatore svedese, di ruolo attaccante, senior advisor di RedBird Capital Partners e consulente del Milan dal 2023.",
+      "news": [
+        {
+          "title": "Ibra, la Befana e l'esorcismo Samp: mai un gol ai blucerchiati da milanista - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Ibra, la Befana e l'esorcismo Samp: mai un gol ai blucerchiati da milanista La Gazzetta dello Sport"
+        },
+        {
+          "title": "Ibrahimović sceglie il 21, il numero della perfezione - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Ibrahimović sceglie il 21, il numero della perfezione GQ Italia"
+        },
+        {
+          "title": "Dal Milan al ... Milan-bis: il decennio di Zlatan - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Dal Milan al ... Milan-bis: il decennio di Zlatan Sky Sport"
+        },
+        {
+          "title": "\"Se credo in Dio? Dov'era quando è morto mio fratello? I miei figli non li lascio vincere, devono guadagnarselo\" - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "\"Se credo in Dio? Dov'era quando è morto mio fratello? I miei figli non li lascio vincere, devono guadagnarselo\" HuffPost Italia"
+        },
+        {
+          "title": "Zlatan Ibrahimovic, è ufficiale: al Milan avrà la maglia numero 21 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Zlatan Ibrahimovic, è ufficiale: al Milan avrà la maglia numero 21 Fanpage"
+        },
+        {
+          "title": "Ibrahimovic, cinque cose che non sapete: Helena, il neologismo, la suite - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Ibrahimovic, cinque cose che non sapete: Helena, il neologismo, la suite Corriere della Sera"
+        },
+        {
+          "title": "\"Sono Ibra e non sono qui per fare la comparsa\" - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "\"Sono Ibra e non sono qui per fare la comparsa\" San Marino Rtv"
+        },
+        {
+          "title": "Milan, Ibrahimovic ha firmato per sei mesi - Corriere dello Sport",
+          "source": "Corriere dello Sport",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Milan, Ibrahimovic ha firmato per sei mesi Corriere dello Sport"
+        },
+        {
+          "title": "Milan, gli 'altri' 21 prima di Ibrahimovic - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Milan, gli 'altri' 21 prima di Ibrahimovic Sky Sport"
+        },
+        {
+          "title": "Ibrahimovic, le foto a Casa Milan con maglia e dirigenza - Milanlive.it",
+          "source": "Milanlive.it",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Ibrahimovic, le foto a Casa Milan con maglia e dirigenza Milanlive.it"
+        }
+      ]
+    },
+    "Tolo_Tolo": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Tolo tolo è un film del 2020 co-scritto, diretto, interpretato e co-musicato da Luca Medici, al suo debutto alla regia.",
+      "news": [
+        {
+          "title": "Tolo Tolo, di Checco Zalone. La recensione - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Tolo Tolo, di Checco Zalone. La recensione Sentieri selvaggi"
+        },
+        {
+          "title": "Tolo Tolo: perché quello di Checco Zalone è il film da vedere al cinema nel weekend - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Tolo Tolo: perché quello di Checco Zalone è il film da vedere al cinema nel weekend Amica.it"
+        },
+        {
+          "title": "Tolo Tolo: che significa il titolo del film di Checco Zalone? - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Tolo Tolo: che significa il titolo del film di Checco Zalone? Movieplayer"
+        },
+        {
+          "title": "La recensione di Tolo Tolo - Cineforum",
+          "source": "Cineforum",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "La recensione di Tolo Tolo Cineforum"
+        },
+        {
+          "title": "“Tolo Tolo” visto in mezzo al pubblico tra risate e sbadigli - Cinemonitor -",
+          "source": "Cinemonitor -",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "“Tolo Tolo” visto in mezzo al pubblico tra risate e sbadigli Cinemonitor -"
+        },
+        {
+          "title": "Cosa si dice di “Tolo Tolo” - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Cosa si dice di “Tolo Tolo” Il Post"
+        },
+        {
+          "title": "Checco Zalone, \"'Tolo Tolo', la mia commedia piena di neri nell'Italia di oggi\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Checco Zalone, \"'Tolo Tolo', la mia commedia piena di neri nell'Italia di oggi\" la Repubblica"
+        },
+        {
+          "title": "«Tolo Tolo», Zalone passa alla regia per una commedia sul tema dei migranti - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "«Tolo Tolo», Zalone passa alla regia per una commedia sul tema dei migranti Il Sole 24 ORE"
+        },
+        {
+          "title": "È ufficiale: ‘Tolo Tolo’ ha battuto ogni record d’incasso - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "È ufficiale: ‘Tolo Tolo’ ha battuto ogni record d’incasso Rolling Stone Italia"
+        },
+        {
+          "title": "Debutto con record per \"Tolo Tolo\" di Checco Zalone - Canale 7 TV",
+          "source": "Canale 7 TV",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Debutto con record per \"Tolo Tolo\" di Checco Zalone Canale 7 TV"
+        }
+      ]
+    },
+    "Checco_Zalone": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Checco Zalone, pseudonimo di Luca Pasquale Medici, è un comico, sceneggiatore, attore, imitatore e cantante italiano.",
+      "news": [
+        {
+          "title": "Il vero segreto della comicità (e del successo) di Checco Zalone - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Il vero segreto della comicità (e del successo) di Checco Zalone Wired Italia"
+        },
+        {
+          "title": "Tolo Tolo: perché quello di Checco Zalone è il film da vedere al cinema nel weekend - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Tolo Tolo: perché quello di Checco Zalone è il film da vedere al cinema nel weekend Amica.it"
+        },
+        {
+          "title": "Cosa significa Checco Zalone? Ecco come è nato il nome d'arte - www.bestmovie.it",
+          "source": "www.bestmovie.it",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Cosa significa Checco Zalone? Ecco come è nato il nome d'arte www.bestmovie.it"
+        },
+        {
+          "title": "I migliori film di Checco Zalone - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "I migliori film di Checco Zalone Movieplayer"
+        },
+        {
+          "title": "Checco Zalone, né di destra né di sinistra: libertà senza complessi - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Checco Zalone, né di destra né di sinistra: libertà senza complessi Corriere della Sera"
+        },
+        {
+          "title": "Checco Zalone double face - Marcello Veneziani",
+          "source": "Marcello Veneziani",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Checco Zalone double face Marcello Veneziani"
+        },
+        {
+          "title": "Tolo Tolo, Checco Zalone vola a 30 milioni di euro: una manna dal cielo per i cinema italiani - Open",
+          "source": "Open",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Tolo Tolo, Checco Zalone vola a 30 milioni di euro: una manna dal cielo per i cinema italiani Open"
+        },
+        {
+          "title": "Cosa pensano i critici di “Tolo Tolo” di Checco Zalone - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Cosa pensano i critici di “Tolo Tolo” di Checco Zalone Il Post"
+        },
+        {
+          "title": "Checco Zalone, \"'Tolo Tolo', la mia commedia piena di neri nell'Italia di oggi\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Checco Zalone, \"'Tolo Tolo', la mia commedia piena di neri nell'Italia di oggi\" la Repubblica"
+        },
+        {
+          "title": "La questione Zalone sta diventando un mindfuck senza fine - VICE",
+          "source": "VICE",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "La questione Zalone sta diventando un mindfuck senza fine VICE"
+        }
+      ]
+    },
+    "The_Witcher_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The Witcher è una serie televisiva polacco-statunitense ideata da Lauren Schmidt Hissrich e basata sulla Saga di Geralt di Rivia dell'autore polacco Andrzej Sapkowski. Vede come protagonisti Henry Cavill, Liam Hemsworth, Anya Chalotra e Freya Allan ed è distribuita dal 20 dicembre 2019 sulla piattaforma di streaming Netflix.",
+      "news": [
+        {
+          "title": "The Witcher: le nove principali differenze tra la serie Netflix e i libri - 4news.it",
+          "source": "4news.it",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "The Witcher: le nove principali differenze tra la serie Netflix e i libri 4news.it"
+        },
+        {
+          "title": "Come guardare “The Witcher” senza fare confusione: la guida alla serie fantasy Netflix - NientePopcorn",
+          "source": "NientePopcorn",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Come guardare “The Witcher” senza fare confusione: la guida alla serie fantasy Netflix NientePopcorn"
+        },
+        {
+          "title": "The Witcher, il successo della serie TV fa volare anche il gioco - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "The Witcher, il successo della serie TV fa volare anche il gioco Rolling Stone Italia"
+        },
+        {
+          "title": "The Witcher – Guida alla timeline della prima stagione - Uagna",
+          "source": "Uagna",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "The Witcher – Guida alla timeline della prima stagione Uagna"
+        },
+        {
+          "title": "Netflix, le dieci Serie TV più popolari del 2019 in Italia e negli USA - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Netflix, le dieci Serie TV più popolari del 2019 in Italia e negli USA ComingSoon.it"
+        },
+        {
+          "title": "Chi è Henry Cavill, l’attore di The Witcher - DiLei",
+          "source": "DiLei",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Chi è Henry Cavill, l’attore di The Witcher DiLei"
+        },
+        {
+          "title": "The Witcher, la storia dietro il film e la Serie Tv del 2001 - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "The Witcher, la storia dietro il film e la Serie Tv del 2001 Hall of Series"
+        },
+        {
+          "title": "The Witcher - La recensione senza spoiler della nuova serie Netflix - AnimeClick",
+          "source": "AnimeClick",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "The Witcher - La recensione senza spoiler della nuova serie Netflix AnimeClick"
+        },
+        {
+          "title": "The Witcher – L’attrice di Yennefer ha voluto girare da sé le scene più spinte - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "The Witcher – L’attrice di Yennefer ha voluto girare da sé le scene più spinte Hall of Series"
+        },
+        {
+          "title": "10 citazioni già iconiche di The Witcher - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "10 citazioni già iconiche di The Witcher Hall of Series"
+        }
+      ]
+    },
+    "I_miserabili": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I miserabili  è un romanzo sociale di Victor Hugo, pubblicato nel 1862 e considerato uno dei migliori romanzi europei del XIX secolo, fra i più popolari e letti dell'epoca. Suddiviso in 5 volumi, il libro è ambientato in un arco temporale che va dal 1815 al 1832, dalla Francia della Restaurazione post-napoleonica alla \nrivolta antimonarchica del giugno 1832. L'opera narra le vicende di numerosi personaggi: in particolare la vita dell'ex galeotto Jean Valjean e le sue lotte per la redenzione durante 20 anni di storia francese, con digressioni sulle vicende della Rivoluzione francese, sulle Guerre napoleoniche - in particolare sulla battaglia di Waterloo - fino alla Monarchia di luglio.",
+      "news": [
+        {
+          "title": "«I Miserabili», una sontuosa ricostruzione ma senza ritmo - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "«I Miserabili», una sontuosa ricostruzione ma senza ritmo Corriere della Sera"
+        },
+        {
+          "title": "«Ballerina» e «Vasco NonStop Live»: ascolti tv di lunedì 30 dicembre 2019 - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "«Ballerina» e «Vasco NonStop Live»: ascolti tv di lunedì 30 dicembre 2019 TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Miss Peregrine – La Casa dei Ragazzi Speciali: la recensione del film di Tim Burton - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Miss Peregrine – La Casa dei Ragazzi Speciali: la recensione del film di Tim Burton Il Cineocchio"
+        },
+        {
+          "title": "I Miserabili, stasera la seconda puntata: anticipazioni, cast e curiosità della miniserie - Blog Tivvù",
+          "source": "Blog Tivvù",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "I Miserabili, stasera la seconda puntata: anticipazioni, cast e curiosità della miniserie Blog Tivvù"
+        },
+        {
+          "title": "Programmi TV di stasera, domenica 5 gennaio 2020. Su Canale5 «La Banda dei Babbi Natale - Davide Maggio",
+          "source": "Davide Maggio",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Programmi TV di stasera, domenica 5 gennaio 2020. Su Canale5 «La Banda dei Babbi Natale Davide Maggio"
+        },
+        {
+          "title": "Fai sul serio o no? Quando lui sparisce e torna - Psicoadvisor",
+          "source": "Psicoadvisor",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Fai sul serio o no? Quando lui sparisce e torna Psicoadvisor"
+        }
+      ]
+    },
+    "Roberto_Bolle": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Roberto Bolle è un ballerino italiano.",
+      "news": [
+        {
+          "title": "Alberto Angela racconta la vita a corte di Luigi XIV e introduce Roberto Bolle - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Alberto Angela racconta la vita a corte di Luigi XIV e introduce Roberto Bolle RaiPlay"
+        },
+        {
+          "title": "Roberto Bolle, Dirty Dancing o i Legnanesi? La tv del 1° gennaio - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Roberto Bolle, Dirty Dancing o i Legnanesi? La tv del 1° gennaio BergamoNews"
+        },
+        {
+          "title": "Roberto Bolle torna in tv con \"Danza con me\". Appuntamento il primo gennaio - Vogue",
+          "source": "Vogue",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Roberto Bolle torna in tv con \"Danza con me\". Appuntamento il primo gennaio Vogue"
+        },
+        {
+          "title": "Roberto Bolle prepara «Danza con Me 2020», il video del siparietto con Geppi Cucciari - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Roberto Bolle prepara «Danza con Me 2020», il video del siparietto con Geppi Cucciari Corriere della Sera"
+        },
+        {
+          "title": "Roberto Bolle - Danza con me 2020 - Marracash canta \"Greta Thunberg\" - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Roberto Bolle - Danza con me 2020 - Marracash canta \"Greta Thunberg\" - Video RaiPlay"
+        },
+        {
+          "title": "L'emozione di Tommaso Spadaccino. Dopo un anno il ritorno su Rai1 con Roberto Bolle - Il Biellese",
+          "source": "Il Biellese",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "L'emozione di Tommaso Spadaccino. Dopo un anno il ritorno su Rai1 con Roberto Bolle Il Biellese"
+        },
+        {
+          "title": "Ascolti tv, Roberto Bolle vince ancora: ‘Danza con me’ è il programma più visto di Capodanno - Today",
+          "source": "Today",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Ascolti tv, Roberto Bolle vince ancora: ‘Danza con me’ è il programma più visto di Capodanno Today"
+        },
+        {
+          "title": "Samuele Gamba alla corte di Roberto Bolle - Terni in Rete",
+          "source": "Terni in Rete",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Samuele Gamba alla corte di Roberto Bolle Terni in Rete"
+        },
+        {
+          "title": "Roberto Bolle - Danza con me 2020 - Virginia Raffaele balla con Roberto Bolle - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Roberto Bolle - Danza con me 2020 - Virginia Raffaele balla con Roberto Bolle - Video RaiPlay"
+        },
+        {
+          "title": "Nina Zilli e Roberto Bolle omaggiano Studio 1 e la danza in tv negli anni '60 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Nina Zilli e Roberto Bolle omaggiano Studio 1 e la danza in tv negli anni '60 RaiPlay"
+        }
+      ]
+    },
+    "Dejan_Kulusevski": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Dejan Kulusevski è un calciatore svedese con cittadinanza macedone, centrocampista del Tottenham.",
+      "news": [
+        {
+          "title": "Dejan Kulusevski è un giocatore della Juventus! - Juventus.com",
+          "source": "Juventus.com",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Dejan Kulusevski è un giocatore della Juventus! Juventus.com"
+        },
+        {
+          "title": "Kulusevski, con 44 milioni è della Juve. Visite mediche in settimana, ma arriva a giugno - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Kulusevski, con 44 milioni è della Juve. Visite mediche in settimana, ma arriva a giugno La Gazzetta dello Sport"
+        },
+        {
+          "title": "Dejan Kulusevski alla Juventus - Atalanta",
+          "source": "Atalanta",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Dejan Kulusevski alla Juventus Atalanta"
+        },
+        {
+          "title": "Colpo di scena: niente Inter, Kulusevski alla Juventus per 44 milioni di euro - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Colpo di scena: niente Inter, Kulusevski alla Juventus per 44 milioni di euro BergamoNews"
+        },
+        {
+          "title": "Kulusevski alla Juventus, è ufficiale: rimarrà a Parma fino a giugno - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Kulusevski alla Juventus, è ufficiale: rimarrà a Parma fino a giugno Goal.com"
+        },
+        {
+          "title": "Kulusevski-Juve è ufficiale. A Parma fino a giugno - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Kulusevski-Juve è ufficiale. A Parma fino a giugno Sky Sport"
+        },
+        {
+          "title": "La Juventus beffa l'Inter: Dejan Kulusevski in bianconero - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "La Juventus beffa l'Inter: Dejan Kulusevski in bianconero Virgilio"
+        },
+        {
+          "title": "Kulusevski, pazza voglia di Juve - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Kulusevski, pazza voglia di Juve Sky Sport"
+        },
+        {
+          "title": "Alla Juve sono già pazzi di Kulusesvki: accoglienza da star per le visite mediche - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Alla Juve sono già pazzi di Kulusesvki: accoglienza da star per le visite mediche BergamoNews"
+        },
+        {
+          "title": "L’Atalanta saluta Kulusevski: “Arrivato bambino e destinato a un futuro radioso” - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "L’Atalanta saluta Kulusevski: “Arrivato bambino e destinato a un futuro radioso” BergamoNews"
+        }
+      ]
+    },
+    "Elettra_Lamborghini": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elettra Miura Lamborghini è una cantante, showgirl e conduttrice televisiva italiana.",
+      "news": [
+        {
+          "title": "Striscia la notizia: Elettra Lamborghini a cavallo Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Striscia la notizia: Elettra Lamborghini a cavallo Video Mediaset Infinity"
+        },
+        {
+          "title": "Elettra Lamborghini, Sanremo e il matrimonio. \"Io e la mia canzone non vi deluderemo\" - Il Resto del Carlino",
+          "source": "Il Resto del Carlino",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Elettra Lamborghini, Sanremo e il matrimonio. \"Io e la mia canzone non vi deluderemo\" Il Resto del Carlino"
+        },
+        {
+          "title": "Sanremo, Elettra Lamborghini divide già tutti - Ticinonline",
+          "source": "Ticinonline",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Sanremo, Elettra Lamborghini divide già tutti Ticinonline"
+        },
+        {
+          "title": "Elettra Lamborghini si sposa, l'annuncio social su Instagram (con foto dell'anello) - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Elettra Lamborghini si sposa, l'annuncio social su Instagram (con foto dell'anello) Il Messaggero"
+        },
+        {
+          "title": "Sanremo, solo 5 donne tra i 22 big: dalla sorpresa Lamborghini alla certezza Levante - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Sanremo, solo 5 donne tra i 22 big: dalla sorpresa Lamborghini alla certezza Levante Fanpage"
+        },
+        {
+          "title": "Elettra lamborghini e Afrojack presto sposi: le foto dell’anello - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Elettra lamborghini e Afrojack presto sposi: le foto dell’anello Radio Deejay"
+        },
+        {
+          "title": "Elettra Lamborghini a cavallo - Striscia la notizia",
+          "source": "Striscia la notizia",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Elettra Lamborghini a cavallo Striscia la notizia"
+        },
+        {
+          "title": "Elettra Lamborghini sposa il fidanzato Afrojack: il post su Instagram - Radio RDS",
+          "source": "Radio RDS",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Elettra Lamborghini sposa il fidanzato Afrojack: il post su Instagram Radio RDS"
+        },
+        {
+          "title": "Chi è Elettra Lamborghini: età e vita privata dell’ereditiera concorrente di Sanremo - Italia Sera",
+          "source": "Italia Sera",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Chi è Elettra Lamborghini: età e vita privata dell’ereditiera concorrente di Sanremo Italia Sera"
+        },
+        {
+          "title": "Elettra Lamborghini completamente struccata: la [FOTO] ha sconvolto il web - Velvet Gossip",
+          "source": "Velvet Gossip",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Elettra Lamborghini completamente struccata: la [FOTO] ha sconvolto il web Velvet Gossip"
+        }
+      ]
+    },
+    "Tommaso_Buscetta": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Tommaso Buscetta, detto anche Il boss dei due mondi e don Masino, è stato un mafioso e collaboratore di giustizia italiano.",
+      "news": [
+        {
+          "title": "Piersanti Mattarella, 40 anni fa il delitto: la visita del capo dello Stato alla tomba e l’omaggio di Palermo - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Piersanti Mattarella, 40 anni fa il delitto: la visita del capo dello Stato alla tomba e l’omaggio di Palermo Corriere della Sera"
+        },
+        {
+          "title": "I Migliori Film del 2019 secondo La Scimmia [LISTA] - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "I Migliori Film del 2019 secondo La Scimmia [LISTA] LaScimmiaPensa.com"
+        },
+        {
+          "title": "40 anni fa a Palermo veniva ucciso Piersanti Mattarella - Panorama",
+          "source": "Panorama",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "40 anni fa a Palermo veniva ucciso Piersanti Mattarella Panorama"
+        },
+        {
+          "title": "«Hammamet», Bettino, ma anche Anna e Stefania: ecco chi fa chi nel film sull’ultimo Craxi - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "«Hammamet», Bettino, ma anche Anna e Stefania: ecco chi fa chi nel film sull’ultimo Craxi Corriere della Sera"
+        },
+        {
+          "title": "Piersanti Mattarella, 40 anni dopo: gli speciali Rai - TvBlog",
+          "source": "TvBlog",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Piersanti Mattarella, 40 anni dopo: gli speciali Rai TvBlog"
+        },
+        {
+          "title": "Pierfrancesco Favino sfida Totti a beach volley alle Maldive, nel resort anche Icardi e Ezio Greggio - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Pierfrancesco Favino sfida Totti a beach volley alle Maldive, nel resort anche Icardi e Ezio Greggio Fanpage"
+        }
+      ]
+    },
+    "Mary_Poppins_(film)": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mary Poppins è un film del 1964 diretto da Robert Stevenson.",
+      "news": [
+        {
+          "title": "Mary Poppins stasera su Rai 1: gli oggetti che hanno creato il mito - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Mary Poppins stasera su Rai 1: gli oggetti che hanno creato il mito iO Donna"
+        },
+        {
+          "title": "Che fine ha fatto Julie Andrews, attrice di Mary Poppins - DiLei",
+          "source": "DiLei",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Che fine ha fatto Julie Andrews, attrice di Mary Poppins DiLei"
+        },
+        {
+          "title": "His Dark Materials, Lin-Manuel Miranda è Lee Scoresby: 5 cose da sapere - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "His Dark Materials, Lin-Manuel Miranda è Lee Scoresby: 5 cose da sapere Sky TG24"
+        },
+        {
+          "title": "Il regalo di Natale per le detenute del carcere femminile di Napoli - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Il regalo di Natale per le detenute del carcere femminile di Napoli Corriere della Sera"
+        },
+        {
+          "title": "Mary Poppins – il vero significato del primo “non cartone” Disney - Spettacolo Periodico Daily",
+          "source": "Spettacolo Periodico Daily",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Mary Poppins – il vero significato del primo “non cartone” Disney Spettacolo Periodico Daily"
+        },
+        {
+          "title": "Che fine ha fatto il cast di Mary Poppins: il piccolo Michael Banks morì a soli 21 anni - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Che fine ha fatto il cast di Mary Poppins: il piccolo Michael Banks morì a soli 21 anni Fanpage"
+        },
+        {
+          "title": "Il cast di Mary Poppins a 55 anni dal successo del film Disney - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Il cast di Mary Poppins a 55 anni dal successo del film Disney Fanpage"
+        },
+        {
+          "title": "Australia – recensione del film con Hugh Jackman e Nicole Kidman - Spettacolo Periodico Daily",
+          "source": "Spettacolo Periodico Daily",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Australia – recensione del film con Hugh Jackman e Nicole Kidman Spettacolo Periodico Daily"
+        }
+      ]
+    },
+    "Terza_guerra_mondiale": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La terza guerra mondiale è un'ipotesi storica di conflitto mondiale, esaminata e presentata dai media di massa in più occasioni, già a partire dal periodo immediatamente successivo alla fine del più grande conflitto armato della storia, la seconda guerra mondiale, a causa della guerra fredda. È un tema spesso dibattuto da molti giornalisti, scienziati e politici ed è stato narrato, oppure è presente come antefatto, in molte opere di fantascienza apocalittica e postapocalittica, oltre ad essere stata oggetto di studi e pianificazioni sui possibili scenari da parte delle autorità militari e civili.",
+      "news": [
+        {
+          "title": "Il punto sulla presenza militare Usa in Italia - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Il punto sulla presenza militare Usa in Italia San Marino Rtv"
+        },
+        {
+          "title": "Le Profezie Nostradamus per il 2020 - Il Futuro Quotidiano",
+          "source": "Il Futuro Quotidiano",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Le Profezie Nostradamus per il 2020 Il Futuro Quotidiano"
+        }
+      ]
+    },
+    "Rula_Jebreal": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rula Jebreal è una giornalista, scrittrice e docente palestinese con cittadinanza israeliana naturalizzata italiana.",
+      "news": [
+        {
+          "title": "Rula Jebreal e l’idea di portare a Sanremo Michelle Obama - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Rula Jebreal e l’idea di portare a Sanremo Michelle Obama Corriere della Sera"
+        },
+        {
+          "title": "Rula Jebreal: “Io censurata perché rappresento l’Italia inclusiva e tollerante E questo fa paura” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Rula Jebreal: “Io censurata perché rappresento l’Italia inclusiva e tollerante E questo fa paura” la Repubblica"
+        },
+        {
+          "title": "Rula Jebreal e Sanremo: 'L’Italia inclusiva spaventa' - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Rula Jebreal e Sanremo: 'L’Italia inclusiva spaventa' Sky TG24"
+        },
+        {
+          "title": "Polemica su Rula Jebreal, il caso finisce in Vigilanza - ANSA",
+          "source": "ANSA",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Polemica su Rula Jebreal, il caso finisce in Vigilanza ANSA"
+        },
+        {
+          "title": "Sanremo 2020, parla Rula Jebreal: «Censurata perché la mia diversità fa paura» - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Sanremo 2020, parla Rula Jebreal: «Censurata perché la mia diversità fa paura» Leggo.it"
+        },
+        {
+          "title": "Rula Jebreal, giallo sulla sua presenza a Sanremo dopo lo scontro politico - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Rula Jebreal, giallo sulla sua presenza a Sanremo dopo lo scontro politico Corriere della Sera"
+        },
+        {
+          "title": "Sanremo, Rula Jebreal non ci sarà: stop dai vertici Rai alla giornalista - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Sanremo, Rula Jebreal non ci sarà: stop dai vertici Rai alla giornalista Il Mattino"
+        },
+        {
+          "title": "Sanremo, adesso la Rai è pronta a fare retromarcia sul no a Rula Jebreal - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Sanremo, adesso la Rai è pronta a fare retromarcia sul no a Rula Jebreal la Repubblica"
+        },
+        {
+          "title": "Capezzone strapazza la Jebreal: quel tweet su Soleimani... - Secolo d'Italia",
+          "source": "Secolo d'Italia",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Capezzone strapazza la Jebreal: quel tweet su Soleimani... Secolo d'Italia"
+        },
+        {
+          "title": "Sanremo: ipotesi Rula Jebreal, divampa la polemica social - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Sanremo: ipotesi Rula Jebreal, divampa la polemica social La Stampa"
+        }
+      ]
+    },
+    "Patrick_Swayze": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Patrick Wayne Swayze è stato un attore, cantante e ballerino statunitense.",
+      "news": [
+        {
+          "title": "Dirty Dancing - Balli proibiti. La recensione - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Dirty Dancing - Balli proibiti. La recensione Sentieri selvaggi"
+        },
+        {
+          "title": "Dirty Dancing raccontato da Roberto Recchioni: quel ballo è puro cinema - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Dirty Dancing raccontato da Roberto Recchioni: quel ballo è puro cinema Best Movie"
+        },
+        {
+          "title": "DIRTY DANCING, ITALIA 1/ Curiosità sul film con Patrick Swayze (1 gennaio 2020) - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "DIRTY DANCING, ITALIA 1/ Curiosità sul film con Patrick Swayze (1 gennaio 2020) IlSussidiario.net"
+        }
+      ]
+    },
+    "You_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "You è una serie televisiva statunitense, di genere thriller psicologico e basata sull'omonimo romanzo, nonché sul suo seguito Hidden Bodies, scritti da Caroline Kepnes.",
+      "news": [
+        {
+          "title": "You 2, recensione: una trama surreale con un killer convincente - Libero Pensiero",
+          "source": "Libero Pensiero",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "You 2, recensione: una trama surreale con un killer convincente Libero Pensiero"
+        },
+        {
+          "title": "Le più belle storie d'amore delle serie Tv che vogliamo nella vita reale - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Le più belle storie d'amore delle serie Tv che vogliamo nella vita reale Vanity Fair Italia"
+        },
+        {
+          "title": "Ryan Reynolds è diventato l'eroe dei fan della serie Netflix \"Chiamatemi Anna\" - Mashable Italia",
+          "source": "Mashable Italia",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Ryan Reynolds è diventato l'eroe dei fan della serie Netflix \"Chiamatemi Anna\" Mashable Italia"
+        },
+        {
+          "title": "In “Sorry we missed you” Ken Loach vi racconta cosa comportano l’e-commerce e il food delivery - L'Eco di Bergamo",
+          "source": "L'Eco di Bergamo",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "In “Sorry we missed you” Ken Loach vi racconta cosa comportano l’e-commerce e il food delivery L'Eco di Bergamo"
+        }
+      ]
+    },
+    "Riverdale_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Riverdale è una serie televisiva statunitense di genere teen drama e thriller basata sui personaggi della serie a fumetti Archie della Archie Comics, già adattati in sceneggiati radiofonici, cartoni animati e film. La serie è stata adattata per The CW dal capo creativo degli Archie Comics, Roberto Aguirre-Sacasa, ed è prodotta dalla Warner Bros. Television e dalla CBS Television Studios, in associazione con Berlanti Productions e Archie Comics. Originariamente concepita come adattamento cinematografico per la Warner Bros. Pictures, l'idea è stata reimmaginata come serie televisiva per la Fox. Nel 2015, lo sviluppo del progetto è passato alla The CW, dove la serie è stata ordinata per un pilot. Le riprese si svolgono a Vancouver, in British Columbia.",
+      "news": [
+        {
+          "title": "5 motivi per vedere “A un metro da te” al cinema - www.teamworld.it",
+          "source": "www.teamworld.it",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "5 motivi per vedere “A un metro da te” al cinema www.teamworld.it"
+        },
+        {
+          "title": "Le serie senza tempo | Beverly Hills 90210 - iCrewPlay Cinema",
+          "source": "iCrewPlay Cinema",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Le serie senza tempo | Beverly Hills 90210 iCrewPlay Cinema"
+        }
+      ]
+    },
+    "Guerre_stellari": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Guerre stellari è un media franchise e universo condiviso creato da George Lucas, che si sviluppa da una serie cinematografica iniziata nel 1977 col film Guerre stellari, sottotitolato retroattivamente Episodio IV - Una nuova speranza. A questo film sono seguite altre due pellicole, distribuite a tre anni di distanza l'una dall'altra: L'Impero colpisce ancora (1980) e Il ritorno dello Jedi (1983). Questi tre film costituiscono la cosiddetta \"trilogia originale\". Sedici anni dopo l'uscita dell'ultimo film, Lucas decise di girare una trilogia prequel, composta da La minaccia fantasma (1999), L'attacco dei cloni (2002) e La vendetta dei Sith (2005). Nel 2012 The Walt Disney Company acquistò i diritti del franchise e avviò la produzione di una trilogia sequel, composta da Il risveglio della Forza (2015), Gli ultimi Jedi (2017) e L'ascesa di Skywalker (2019), e di altri film indipendenti: The Clone Wars (2008), Rogue One (2016), Solo (2018), The Mandalorian and Grogu (2026) e Starfighter (2027).",
+      "news": [
+        {
+          "title": "Da Guerre Stellari a Star Wars, la fine di un’epoca - Sugarpulp",
+          "source": "Sugarpulp",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Da Guerre Stellari a Star Wars, la fine di un’epoca Sugarpulp"
+        },
+        {
+          "title": "Star Wars: La nuova arte della Forza - N3rdcore",
+          "source": "N3rdcore",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Star Wars: La nuova arte della Forza N3rdcore"
+        },
+        {
+          "title": "Star Wars, un fan crea la prima vera Spada Laser [VIDEO] - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Star Wars, un fan crea la prima vera Spada Laser [VIDEO] LaScimmiaPensa.com"
+        },
+        {
+          "title": "Capelli per Capodanno: come raccogliere il caschetto, stile Daisy Ridley e Cara Delevingne - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Capelli per Capodanno: come raccogliere il caschetto, stile Daisy Ridley e Cara Delevingne iO Donna"
+        },
+        {
+          "title": "Star Wars: il riassunto dell’arco di Mortis sulla questione Prescelto - Star Wars News Italia",
+          "source": "Star Wars News Italia",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Star Wars: il riassunto dell’arco di Mortis sulla questione Prescelto Star Wars News Italia"
+        },
+        {
+          "title": "Epilessia fotosensibile, le 10 regole per prevenire le crisi durante le feste - OMaR – Osservatorio Malattie Rare",
+          "source": "OMaR – Osservatorio Malattie Rare",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Epilessia fotosensibile, le 10 regole per prevenire le crisi durante le feste OMaR – Osservatorio Malattie Rare"
+        },
+        {
+          "title": "Star Wars online, occhio ai siti pericolosi - Alessandro Nardone",
+          "source": "Alessandro Nardone",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Star Wars online, occhio ai siti pericolosi Alessandro Nardone"
+        }
+      ]
+    },
+    "Michael_J._Fox": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Michael J. Fox, pseudonimo di Michael Andrew Fox, è un attore, produttore cinematografico e attivista canadese naturalizzato statunitense.",
+      "news": [
+        {
+          "title": "\"Ritorno al futuro\", i tre film su Italia 1 sabato sera - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "\"Ritorno al futuro\", i tre film su Italia 1 sabato sera TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "“Ritorno al futuro”compie 35 anni: stasera su Italia 1 tutta la trilogia - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "“Ritorno al futuro”compie 35 anni: stasera su Italia 1 tutta la trilogia iO Donna"
+        },
+        {
+          "title": "Ritorno al Futuro - 15 curiosità che non conoscevi su un cult immortale - www.lascimmiapensa.com",
+          "source": "www.lascimmiapensa.com",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "Ritorno al Futuro - 15 curiosità che non conoscevi su un cult immortale www.lascimmiapensa.com"
+        },
+        {
+          "title": "Riflessione: L’Implacabile di Paul Michael Glaser, un film profetico e attualissimo - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Riflessione: L’Implacabile di Paul Michael Glaser, un film profetico e attualissimo Il Cineocchio"
+        },
+        {
+          "title": "Intervista a Maccio Capatonda: dai suoi gusti di cinefilo al suo nuovo film - www.lascimmiapensa.com",
+          "source": "www.lascimmiapensa.com",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Intervista a Maccio Capatonda: dai suoi gusti di cinefilo al suo nuovo film www.lascimmiapensa.com"
+        },
+        {
+          "title": "Recensione story | Primer di Shane Carruth - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Recensione story | Primer di Shane Carruth Il Cineocchio"
+        },
+        {
+          "title": "Riflessione: Nel Paese della Creature Selvagge di Spike Jonze, fuggire dalla realtà per crescere - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "Riflessione: Nel Paese della Creature Selvagge di Spike Jonze, fuggire dalla realtà per crescere Il Cineocchio"
+        },
+        {
+          "title": "Grande Giove! Fisico dichiara che si può costruire una macchina del tempo - www.lascimmiapensa.com",
+          "source": "www.lascimmiapensa.com",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Grande Giove! Fisico dichiara che si può costruire una macchina del tempo www.lascimmiapensa.com"
+        }
+      ]
+    },
+    "Cristiano_Malgioglio": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cristiano Giuseppe Malgioglio, noto come Cristiano Malgioglio, è un cantautore, paroliere e personaggio televisivo italiano.",
+      "news": [
+        {
+          "title": "“L’Anno che verrà”: il Capodanno di Rai 1 - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "“L’Anno che verrà”: il Capodanno di Rai 1 TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "L'Anno che verrà - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "L'Anno che verrà Rai.it"
+        },
+        {
+          "title": "CON L’ANNO CHE VERRÀ,POTENZA ENTRA NEL 2020 - Le Cronache Lucane",
+          "source": "Le Cronache Lucane",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "CON L’ANNO CHE VERRÀ,POTENZA ENTRA NEL 2020 Le Cronache Lucane"
+        },
+        {
+          "title": "Capodanno Potenza, Amadeus si racconta: «Dopo il countdown un bacio dietro le quinte a mia moglie e mio figlio» - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Capodanno Potenza, Amadeus si racconta: «Dopo il countdown un bacio dietro le quinte a mia moglie e mio figlio» La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "All Together Now, Sonia Mosca vince la seconda edizione: ma spunta quel video con Gigi D'Alessio di 10 anni fa - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "All Together Now, Sonia Mosca vince la seconda edizione: ma spunta quel video con Gigi D'Alessio di 10 anni fa Il Messaggero"
+        },
+        {
+          "title": "L’anno che verrà 2020, Capodanno Rai con Amadeus: ospiti e anticipazioni - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "L’anno che verrà 2020, Capodanno Rai con Amadeus: ospiti e anticipazioni Fanpage"
+        }
+      ]
+    },
+    "Julie_Andrews": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Dame Julie Andrews, nata Julia Elizabeth Wells, è un'attrice, cantante e scrittrice britannica.",
+      "news": [
+        {
+          "title": "La vita segreta di Mary Poppins: ecco cosa fa adesso - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "La vita segreta di Mary Poppins: ecco cosa fa adesso Virgilio"
+        },
+        {
+          "title": "Che fine ha fatto Julie Andrews, attrice di Mary Poppins - DiLei",
+          "source": "DiLei",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "Che fine ha fatto Julie Andrews, attrice di Mary Poppins DiLei"
+        },
+        {
+          "title": "Mary Poppins stasera su Rai 1: gli oggetti che hanno creato il mito - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Mary Poppins stasera su Rai 1: gli oggetti che hanno creato il mito iO Donna"
+        },
+        {
+          "title": "Che fine ha fatto il cast di Mary Poppins: il piccolo Michael Banks morì a soli 21 anni - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Che fine ha fatto il cast di Mary Poppins: il piccolo Michael Banks morì a soli 21 anni Fanpage"
+        },
+        {
+          "title": "Mary Poppins – il vero significato del primo “non cartone” Disney - Spettacolo Periodico Daily",
+          "source": "Spettacolo Periodico Daily",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Mary Poppins – il vero significato del primo “non cartone” Disney Spettacolo Periodico Daily"
+        },
+        {
+          "title": "Il cast di Mary Poppins a 55 anni dal successo del film Disney - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Il cast di Mary Poppins a 55 anni dal successo del film Disney Fanpage"
+        }
+      ]
+    },
+    "La_dea_fortuna": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La dea Fortuna è un film del 2019 diretto da Ferzan Özpetek.",
+      "news": [
+        {
+          "title": "La Dea Fortuna, Accorsi, Leo e Trinca tris di genitori: \"Non bisogna aver paura dei sentimenti\" - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "La Dea Fortuna, Accorsi, Leo e Trinca tris di genitori: \"Non bisogna aver paura dei sentimenti\" Movieplayer"
+        },
+        {
+          "title": "LA DEA FORTUNA - Spietati",
+          "source": "Spietati",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "LA DEA FORTUNA Spietati"
+        },
+        {
+          "title": "La Dea Fortuna : trama e recensione del film di Ozpetek - culturaeculture.it",
+          "source": "culturaeculture.it",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "La Dea Fortuna : trama e recensione del film di Ozpetek culturaeculture.it"
+        },
+        {
+          "title": "La dea Fortuna: recensione del film di Ferzan Özpetek - Questione Giustizia",
+          "source": "Questione Giustizia",
+          "pubDate": "Sat, 04 Jan 2020 08:00:00 GMT",
+          "description": "La dea Fortuna: recensione del film di Ferzan Özpetek Questione Giustizia"
+        },
+        {
+          "title": "Non avremmo mai pensato di parlarvi di un film di Ozpetek, ma stiamo per farlo - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Non avremmo mai pensato di parlarvi di un film di Ozpetek, ma stiamo per farlo Esquire"
+        },
+        {
+          "title": "La Dea Fortuna fa scoprire Palestrina: sabato il matrimonio tra Ozpetek e la città - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "La Dea Fortuna fa scoprire Palestrina: sabato il matrimonio tra Ozpetek e la città Il Messaggero"
+        },
+        {
+          "title": "Ozpetek e il suo poker d’assi - Heraldo - magazine",
+          "source": "Heraldo - magazine",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Ozpetek e il suo poker d’assi Heraldo - magazine"
+        },
+        {
+          "title": "Video: DIODATO – Che vita meravigliosa - Newsic.it",
+          "source": "Newsic.it",
+          "pubDate": "Mon, 06 Jan 2020 08:00:00 GMT",
+          "description": "Video: DIODATO – Che vita meravigliosa Newsic.it"
+        },
+        {
+          "title": "Palestrina e l’effetto cinema al museo: chi è la Dea Fortuna? - Monti Prenestini",
+          "source": "Monti Prenestini",
+          "pubDate": "Thu, 02 Jan 2020 11:27:44 GMT",
+          "description": "Palestrina e l’effetto cinema al museo: chi è la Dea Fortuna? Monti Prenestini"
+        }
+      ]
+    },
+    "Matthew_Garber": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Matthew Garber è stato un attore britannico, attivo come attore bambino tra il 1963 e il 1967, noto soprattutto per aver interpretato il ruolo di Michael Banks nel film della Walt Disney, Mary Poppins (1964).",
+      "news": [
+        {
+          "title": "Che fine ha fatto il cast di Mary Poppins: il piccolo Michael Banks morì a soli 21 anni - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "Che fine ha fatto il cast di Mary Poppins: il piccolo Michael Banks morì a soli 21 anni Fanpage"
+        }
+      ]
+    },
+    "His_Dark_Materials_-_Queste_oscure_materie": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "His Dark Materials - Queste oscure materie è una serie televisiva anglo-statunitense della BBC in collaborazione con HBO basata sull'omonima trilogia letteraria scritta da Philip Pullman. È prodotta da Bad Wolf e New Line Productions, per BBC One e HBO, con quest'ultima che ne detiene la distribuzione internazionale. La serie segue l'orfana Lyra, interpretata da Dafne Keen, mentre è alla ricerca di un amico scomparso e scopre dei rapimenti collegati a una sostanza cosmica invisibile chiamata Polvere.",
+      "news": [
+        {
+          "title": "His Dark Materials - Queste oscure materie: 5 motivi per non perderlo - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "His Dark Materials - Queste oscure materie: 5 motivi per non perderlo Wired Italia"
+        },
+        {
+          "title": "His Dark Materials, Lin-Manuel Miranda è Lee Scoresby: 5 cose da sapere - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "His Dark Materials, Lin-Manuel Miranda è Lee Scoresby: 5 cose da sapere Sky TG24"
+        },
+        {
+          "title": "Arriva su Sky la serie \"His Dark Materials-Queste Oscure Materie\" - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Arriva su Sky la serie \"His Dark Materials-Queste Oscure Materie\" Il Sole 24 ORE"
+        },
+        {
+          "title": "His Dark Materials: Trama, cast e curiosità sulla serie in onda su Sky Atlantic - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "His Dark Materials: Trama, cast e curiosità sulla serie in onda su Sky Atlantic ComingSoon.it"
+        },
+        {
+          "title": "Queste oscure materie, una serie imperdibile per adulti e ragazzi - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "Queste oscure materie, una serie imperdibile per adulti e ragazzi MYmovies"
+        },
+        {
+          "title": "8 libri da leggere se Harry Potter è l'ossessione di cui non ti sei più liberata - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 02 Jan 2020 08:00:00 GMT",
+          "description": "8 libri da leggere se Harry Potter è l'ossessione di cui non ti sei più liberata Cosmopolitan"
+        },
+        {
+          "title": "14 serie tv che andranno in onda su Sky Atlantic nel 2020 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 03 Jan 2020 08:00:00 GMT",
+          "description": "14 serie tv che andranno in onda su Sky Atlantic nel 2020 Sky TG24"
+        },
+        {
+          "title": "I migliori film di James McAvoy - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 30 Dec 2019 08:00:00 GMT",
+          "description": "I migliori film di James McAvoy Sky TG24"
+        },
+        {
+          "title": "His Dark Materials - Queste Oscure Materie da stasera su Sky Atlantic e NOW TV - Digital-News.it",
+          "source": "Digital-News.it",
+          "pubDate": "Wed, 01 Jan 2020 08:00:00 GMT",
+          "description": "His Dark Materials - Queste Oscure Materie da stasera su Sky Atlantic e NOW TV Digital-News.it"
+        }
+      ]
+    },
+    "Anno_bisestile": {
+      "fetched_at": "2026-11-06T16:14:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Un anno bisestile è un anno solare in cui avviene la periodica intercalazione di un giorno aggiuntivo nell'anno stesso, un accorgimento utilizzato in quasi tutti i calendari solari per evitare lo slittamento delle stagioni. Per correggere questo slittamento, agli anni \"normali\" di 365 giorni si intercalano gli anni \"bisestili\" di 366: il giorno in più viene inserito nel mese di febbraio, il più corto dell'anno, che negli anni bisestili quindi conta 29 giorni anziché 28. In questo modo si può ottenere una durata media dell'anno pari a un numero non intero di giorni.",
+      "news": [
+        {
+          "title": "Il 2020 è bisestile: cos'è e cosa significa nascere in un anno bisestile - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Tue, 31 Dec 2019 08:00:00 GMT",
+          "description": "Il 2020 è bisestile: cos'è e cosa significa nascere in un anno bisestile GQ Italia"
+        },
+        {
+          "title": "Aprire per i Clash a Milano: la parola ai Not Moving - Rockol",
+          "source": "Rockol",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Aprire per i Clash a Milano: la parola ai Not Moving Rockol"
+        },
+        {
+          "title": "Superstizione: i giorni e le date sfavorevoli - Abitare A Roma",
+          "source": "Abitare A Roma",
+          "pubDate": "Sun, 05 Jan 2020 08:00:00 GMT",
+          "description": "Superstizione: i giorni e le date sfavorevoli Abitare A Roma"
+        }
+      ]
+    }
+  }
+}

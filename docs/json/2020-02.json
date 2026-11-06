@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Bettino%20Craxi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Bettino_Craxi",
       "article_url": "https://it.wikipedia.org/wiki/Bettino_Craxi",
-      "description": "politico italiano (1934-2000)",
+      "description": "Ex presidente del Consiglio e segretario del PSI, è interpretato da Pierfrancesco Favino in Hammamet, al cinema dal 9 gennaio.",
       "image_filename": "Bettino_Craxi_MEP_Portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bettino_Craxi_MEP_Portrait.jpg/1280px-Bettino_Craxi_MEP_Portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bettino_Craxi_MEP_Portrait.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Concessionaria del servizio pubblico radiotelevisivo, è in classifica da 27 settimane consecutive.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Qasem%20Soleimani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Qasem_Soleimani",
       "article_url": "https://it.wikipedia.org/wiki/Qasem_Soleimani",
-      "description": "generale iraniano (1957-2020)",
+      "description": "Generale iraniano ucciso dagli Stati Uniti il 3 gennaio, l'8 gennaio l'Iran colpisce basi in Iraq per rappresaglia.",
       "image_filename": "Qasem_Soleimani_with_Zolfaghar_Order.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Qasem_Soleimani_with_Zolfaghar_Order.jpg/1280px-Qasem_Soleimani_with_Zolfaghar_Order.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Qasem_Soleimani_with_Zolfaghar_Order.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Malattia%20di%20Lyme&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Malattia_di_Lyme",
       "article_url": "https://it.wikipedia.org/wiki/Malattia_di_Lyme",
-      "description": "patologia di origine batterica",
+      "description": "Infezione batterica trasmessa dalle zecche, l'8 gennaio il cantante Justin Bieber rivela di soffrirne.",
       "image_filename": "Bullseye_Lyme_Disease_Rash.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bullseye_Lyme_Disease_Rash.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bullseye_Lyme_Disease_Rash.jpg",
       "image_license": "CC BY-SA 2.5",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Licia%20Nunez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Licia_Nunez",
       "article_url": "https://it.wikipedia.org/wiki/Licia_Nunez",
-      "description": "attrice italiana (1978-)",
+      "description": "Attrice italiana e concorrente del Grande Fratello VIP, il 10 gennaio si confronta con l'ex compagna Imma Battaglia su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Diego%20Demme&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Diego_Demme",
       "article_url": "https://it.wikipedia.org/wiki/Diego_Demme",
-      "description": "calciatore tedesco",
+      "description": "Centrocampista tedesco del Lipsia, l'8 gennaio si diffonde la notizia del suo trasferimento al Napoli, ufficializzato l'11.",
       "image_filename": "Diego_Demme.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Diego_Demme.JPG/1078px-Diego_Demme.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diego_Demme.JPG",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Zlatan%20Ibrahimovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Zlatan_Ibrahimovi%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87",
-      "description": "dirigente sportivo e calciatore svedese (1981-)",
+      "description": "Attaccante svedese, il 6 gennaio torna in campo con il Milan contro la Sampdoria e l'11 segna contro il Cagliari.",
       "image_filename": "Zlatan_Ibrahimović_June_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Hammamet%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Hammamet_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Hammamet_(film)",
-      "description": "film del 2020 diretto da Gianni Amelio",
+      "description": "Il film di Gianni Amelio sugli ultimi anni di Bettino Craxi esce al cinema il 9 gennaio, con Pierfrancesco Favino protagonista.",
       "image_filename": "Favino_Craxi_Hammamet_film.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/9a/Favino_Craxi_Hammamet_film.png/1280px-Favino_Craxi_Hammamet_film.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Favino_Craxi_Hammamet_film.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Iran&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Iran",
       "article_url": "https://it.wikipedia.org/wiki/Iran",
-      "description": "stato del Medio Oriente",
+      "description": "L'8 gennaio lancia missili contro basi in Iraq usate dagli Stati Uniti, dopo l'uccisione del generale Qasem Soleimani.",
       "image_filename": "Flag_of_Iran.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Iran.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, l'8 gennaio il nipote Harry e Meghan annunciano di voler lasciare i principali incarichi reali.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Rula%20Jebreal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Rula_Jebreal",
       "article_url": "https://it.wikipedia.org/wiki/Rula_Jebreal",
-      "description": "giornalista e scrittrice palestinese con cittadinanza israeliana e italiana",
+      "description": "Giornalista palestinese, il 7 gennaio viene confermata la sua partecipazione al Festival di Sanremo dopo le polemiche.",
       "image_filename": "Rula_Jebreal,_portrait_by_Fabrizio_Ferri.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rula_Jebreal%2C_portrait_by_Fabrizio_Ferri.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rula_Jebreal%2C_portrait_by_Fabrizio_Ferri.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20New%20Pope&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=The_New_Pope",
       "article_url": "https://it.wikipedia.org/wiki/The_New_Pope",
-      "description": "miniserie televisiva italo-franco-spagnola-statunitense di Paolo Sorrentino del 2020",
+      "description": "La serie di Paolo Sorrentino debutta il 10 gennaio su Sky Atlantic con i primi due episodi.",
       "image_filename": "The_New_Pope.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_New_Pope.jpg/1280px-The_New_Pope.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_New_Pope.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Checco%20Zalone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Checco_Zalone",
       "article_url": "https://it.wikipedia.org/wiki/Checco_Zalone",
-      "description": "comico, sceneggiatore, attore e imitatore italiano (1977-)",
+      "description": "Comico e attore italiano, il 1º gennaio esce al cinema Tolo Tolo, suo debutto alla regia.",
       "image_filename": "Checco_Zalone.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Checco_Zalone.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Checco_Zalone.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Dogman%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Dogman_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Dogman_(film)",
-      "description": "",
+      "description": "Film del 2018 diretto da Matteo Garrone, va in onda l'11 gennaio su Rai 3.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Witcher%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=The_Witcher_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Witcher_(serie_televisiva)",
-      "description": "serie televisiva polacco-statunitense del 2019",
+      "description": "La prima stagione della serie fantasy esce su Netflix il 20 dicembre 2019; è la quarta settimana consecutiva in classifica.",
       "image_filename": "The_Witcher_serie_TV.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8a/The_Witcher_serie_TV.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Witcher_serie_TV.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Tolo%20Tolo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Tolo_Tolo",
       "article_url": "https://it.wikipedia.org/wiki/Tolo_Tolo",
-      "description": "",
+      "description": "Il film diretto e interpretato da Checco Zalone esce al cinema il 1º gennaio.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Imma%20Battaglia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Imma_Battaglia",
       "article_url": "https://it.wikipedia.org/wiki/Imma_Battaglia",
-      "description": "attivista e politica italiana",
+      "description": "Attivista per i diritti LGBT, il 10 gennaio si confronta con l'ex compagna Licia Nunez al Grande Fratello VIP su Canale 5.",
       "image_filename": "Imma_Battaglia_2015.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Imma_Battaglia_2015.jpg/1200px-Imma_Battaglia_2015.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Imma_Battaglia_2015.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -863,13 +880,14 @@
       "google_news_url": "https://www.google.it/search?q=Johnny%20Depp&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Johnny_Depp",
       "article_url": "https://it.wikipedia.org/wiki/Johnny_Depp",
-      "description": "attore, regista, produttore cinematografico e musicista statunitense (1963-)",
+      "description": "Attore statunitense, è ospite della prima puntata di C'è posta per te, in onda l'11 gennaio su Canale 5.",
       "image_filename": "Johnny_Depp_2020.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Johnny_Depp_2020.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Johnny_Depp_2020.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +926,14 @@
       "google_news_url": "https://www.google.it/search?q=Terza%20guerra%20mondiale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Terza_guerra_mondiale",
       "article_url": "https://it.wikipedia.org/wiki/Terza_guerra_mondiale",
-      "description": "ipotetico conflitto mondiale",
+      "description": "Il picco è probabilmente legato alle tensioni tra Stati Uniti e Iran dopo l'uccisione del generale Qasem Soleimani il 3 gennaio.",
       "image_filename": "Operation_Upshot-Knothole_-_Badger_001.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Operation_Upshot-Knothole_-_Badger_001.jpg/1140px-Operation_Upshot-Knothole_-_Badger_001.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Operation_Upshot-Knothole_-_Badger_001.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +972,14 @@
       "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Cristiano_Ronaldo",
       "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "description": "calciatore portoghese (1985-)",
+      "description": "Attaccante portoghese della Juventus, il 6 gennaio segna una tripletta contro il Cagliari in Serie A.",
       "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1018,14 @@
       "google_news_url": "https://www.google.it/search?q=Vicente%20Huidobro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Vicente_Huidobro",
       "article_url": "https://it.wikipedia.org/wiki/Vicente_Huidobro",
-      "description": "poeta cileno (1893–1948)",
+      "description": "Poeta cileno e fondatore del creazionismo, il 10 gennaio Google gli dedica un Doodle per l'anniversario della nascita.",
       "image_filename": "Vicente_huidobro.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vicente_huidobro.jpg/1096px-Vicente_huidobro.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vicente_huidobro.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1064,14 @@
       "google_news_url": "https://www.google.it/search?q=Eleonora%20Daniele&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Eleonora_Daniele",
       "article_url": "https://it.wikipedia.org/wiki/Eleonora_Daniele",
-      "description": "giornalista e conduttrice televisiva italiana",
+      "description": "Conduttrice italiana, il 7 gennaio annuncia la gravidanza a Storie Italiane e il 12 è ospite di Domenica In su Rai 1.",
       "image_filename": "Grande_Fratello_-_Daniele.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/b/bd/Grande_Fratello_-_Daniele.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Grande_Fratello_-_Daniele.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1110,14 @@
       "google_news_url": "https://www.google.it/search?q=Golden%20Globe%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Golden_Globe_2020",
       "article_url": "https://it.wikipedia.org/wiki/Golden_Globe_2020",
-      "description": "77ª edizione della cerimonia di premiazione dei Golden Globe",
+      "description": "La 77ª cerimonia dei Golden Globe si svolge il 5 gennaio a Beverly Hills, condotta da Ricky Gervais.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1156,14 @@
       "google_news_url": "https://www.google.it/search?q=Don%20Matteo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/06/2020,cd_max:01/12/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-06&end=2020-01-12&pages=Don_Matteo",
       "article_url": "https://it.wikipedia.org/wiki/Don_Matteo",
-      "description": "serie televisiva italiana del 2000",
+      "description": "Il 9 gennaio va in onda su Rai 1 la prima puntata della dodicesima stagione della serie.",
       "image_filename": "Logo_Don_Matteo_14.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Don_Matteo_14.svg/1280px-Logo_Don_Matteo_14.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Don_Matteo_14.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

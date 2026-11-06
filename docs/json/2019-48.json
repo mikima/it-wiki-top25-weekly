@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Irishman%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=The_Irishman_(film_2019)",
       "article_url": "https://it.wikipedia.org/wiki/The_Irishman_(film_2019)",
-      "description": "film del 2019 diretto da Martin Scorsese",
+      "description": "Film diretto da Martin Scorsese, esce su Netflix il 27 novembre.",
       "image_filename": "Martin_Scorsese_-_The_Irishman.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/22/Martin_Scorsese_-_The_Irishman.png/1280px-Martin_Scorsese_-_The_Irishman.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Martin_Scorsese_-_The_Irishman.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Concessionaria del servizio pubblico radiotelevisivo, è in classifica per la ventisettesima settimana consecutiva.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Luisa%20Spagnoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Luisa_Spagnoli",
       "article_url": "https://it.wikipedia.org/wiki/Luisa_Spagnoli",
-      "description": "imprenditrice italiana",
+      "description": "Imprenditrice italiana, ideatrice del Bacio Perugina, è protagonista della fiction Luisa Spagnoli, in onda il 26 novembre su Rai 1.",
       "image_filename": "Luisa-spagnoli.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/a/aa/Luisa-spagnoli.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luisa-spagnoli.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Black%20Friday%20%28shopping%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Black_Friday_(shopping)",
       "article_url": "https://it.wikipedia.org/wiki/Black_Friday_(shopping)",
-      "description": "",
+      "description": "La giornata di sconti di origine statunitense cade il 29 novembre, dopo il Giorno del ringraziamento.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20europeo%20di%20calcio%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Campionato_europeo_di_calcio_2020",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_europeo_di_calcio_2020",
-      "description": "",
+      "description": "Il 30 novembre vengono sorteggiati i gironi di Euro 2020: l'Italia affronterà Turchia, Svizzera e Galles.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorno%20del%20ringraziamento&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Giorno_del_ringraziamento",
       "article_url": "https://it.wikipedia.org/wiki/Giorno_del_ringraziamento",
-      "description": "festa religiosa statunitense e canadese",
+      "description": "La festa nazionale statunitense si celebra il 28 novembre, il giorno prima del Black Friday.",
       "image_filename": "The_First_Thanksgiving_cph.3g04961.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_First_Thanksgiving_cph.3g04961.jpg/1280px-The_First_Thanksgiving_cph.3g04961.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_First_Thanksgiving_cph.3g04961.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Jimmy%20Hoffa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Jimmy_Hoffa",
       "article_url": "https://it.wikipedia.org/wiki/Jimmy_Hoffa",
-      "description": "sindacalista statunitense (1913-1975)",
+      "description": "Sindacalista statunitense scomparso nel 1975, è interpretato da Al Pacino in The Irishman, su Netflix dal 27 novembre.",
       "image_filename": "James_R._Hoffa_NYWTS.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/James_R._Hoffa_NYWTS.jpg/1172px-James_R._Hoffa_NYWTS.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:James_R._Hoffa_NYWTS.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Meccanismo%20europeo%20di%20stabilit%C3%A0&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Meccanismo_europeo_di_stabilit%C3%A0",
       "article_url": "https://it.wikipedia.org/wiki/Meccanismo_europeo_di_stabilit%C3%A0",
-      "description": "organizzazione internazionale e intergovernativa dell'Eurozona",
+      "description": "Fondo salva-Stati dell'Eurozona, è oggetto di una polemica politica sulla sua riforma, che il 28 novembre sfocia in una rissa alla Camera.",
       "image_filename": "ESM_member_states.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ESM_member_states.svg/1280px-ESM_member_states.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:ESM_member_states.svg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Frank%20Sheeran&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Frank_Sheeran",
       "article_url": "https://it.wikipedia.org/wiki/Frank_Sheeran",
-      "description": "criminale statunitense (1920-2003)",
+      "description": "Sindacalista e mafioso statunitense, è interpretato da Robert De Niro in The Irishman, su Netflix dal 27 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, è protagonista di The Crown, la cui terza stagione esce su Netflix il 17 novembre.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Frozen%20II%20-%20Il%20segreto%20di%20Arendelle&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Frozen_II_-_Il_segreto_di_Arendelle",
       "article_url": "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle",
-      "description": "film d'animazione del 2019 diretto da Chris Buck e Jennifer Lee",
+      "description": "Il film d'animazione Disney, seguito di Frozen - Il regno di ghiaccio, esce nelle sale italiane il 27 novembre.",
       "image_filename": "Frozen2.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b3/Frozen2.png/1280px-Frozen2.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Frozen2.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20collegio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Il_collegio",
       "article_url": "https://it.wikipedia.org/wiki/Il_collegio",
-      "description": "programma televisivo italiano",
+      "description": "Il 26 novembre va in onda su Rai 2 la sesta e ultima puntata della quarta edizione del programma.",
       "image_filename": "Il_Collegio.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Il_Collegio.png/1280px-Il_Collegio.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Collegio.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Frozen%20-%20Il%20regno%20di%20ghiaccio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Frozen_-_Il_regno_di_ghiaccio",
       "article_url": "https://it.wikipedia.org/wiki/Frozen_-_Il_regno_di_ghiaccio",
-      "description": "film d'animazione del 2013 diretto da Chris Buck e Jennifer Lee",
+      "description": "Film d'animazione Disney del 2013, va in onda il 28 novembre su Rai 2, mentre il seguito è nelle sale italiane.",
       "image_filename": "Elsa&Anna.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/71/Elsa%26Anna.png/1280px-Elsa%26Anna.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elsa%26Anna.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Mandalorian&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=The_Mandalorian",
       "article_url": "https://it.wikipedia.org/wiki/The_Mandalorian",
-      "description": "serie televisiva statunitense dell'universo di Guerre Stellari del 2020",
+      "description": "Serie ambientata nell'universo di Guerre stellari, il 29 novembre esce con il quarto episodio su Disney+ negli Stati Uniti.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Joe%20Pesci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Joe_Pesci",
       "article_url": "https://it.wikipedia.org/wiki/Joe_Pesci",
-      "description": "attore e musicista statunitense",
+      "description": "Attore statunitense, è nel cast di The Irishman, il film di Martin Scorsese su Netflix dal 27 novembre.",
       "image_filename": "JoePesci-2009.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/JoePesci-2009.jpg/1280px-JoePesci-2009.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:JoePesci-2009.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo; la pagina è in classifica per la decima settimana consecutiva.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Robert%20De%20Niro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Robert_De_Niro",
       "article_url": "https://it.wikipedia.org/wiki/Robert_De_Niro",
-      "description": "attore e produttore cinematografico statunitense",
+      "description": "Attore statunitense, interpreta Frank Sheeran in The Irishman, su Netflix dal 27 novembre.",
       "image_filename": "Robert_de_Niro-9578.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Robert_de_Niro-9578.jpg/1280px-Robert_de_Niro-9578.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Robert_de_Niro-9578.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Pezzi%20unici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Pezzi_unici",
       "article_url": "https://it.wikipedia.org/wiki/Pezzi_unici",
-      "description": "serie televisiva italiana del 2019",
+      "description": "Il 1º dicembre va in onda su Rai 1 la terza puntata della serie diretta da Cinzia TH Torrini.",
       "image_filename": "Pezzi_unici.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c4/Pezzi_unici.png/1280px-Pezzi_unici.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzi_unici.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Romelu%20Lukaku&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Romelu_Lukaku",
       "article_url": "https://it.wikipedia.org/wiki/Romelu_Lukaku",
-      "description": "calciatore belga (1993-)",
+      "description": "Attaccante belga dell'Inter, il 27 novembre segna nella vittoria per 3-1 contro lo Slavia Praga in Champions League.",
       "image_filename": "Romelu_Lukaku_2021.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Romelu_Lukaku_2021.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Romelu_Lukaku_2021.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20processo%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Il_processo_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Il_processo_(serie_televisiva)",
-      "description": "miniserie televisiva del 2019",
+      "description": "La serie italiana con Vittoria Puccini debutta il 29 novembre su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Freddie%20Mercury&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Freddie_Mercury",
       "article_url": "https://it.wikipedia.org/wiki/Freddie_Mercury",
-      "description": "cantautore e compositore britannico (1946-1991)",
+      "description": "Cantante dei Queen, il 24 novembre ricorre il 28º anniversario della sua morte.",
       "image_filename": "Freddie_Mercury_a_Sanremo_1984_(colori).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/9/9b/Freddie_Mercury_a_Sanremo_1984_%28colori%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_a_Sanremo_1984_(colori).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Lucio%20Battisti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Lucio_Battisti",
       "article_url": "https://it.wikipedia.org/wiki/Lucio_Battisti",
-      "description": "cantautore, compositore, polistrumentista, arrangiatore e produttore discografico italiano (1943-1998)",
+      "description": "Cantautore italiano, è ricordato il 30 novembre nell'ultima puntata di Una storia da cantare su Rai 1.",
       "image_filename": "BattistiLucio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8d/BattistiLucio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:BattistiLucio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Margaret%2C%20contessa%20di%20Snowdon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Margaret%2C_contessa_di_Snowdon",
       "article_url": "https://it.wikipedia.org/wiki/Margaret%2C_contessa_di_Snowdon",
-      "description": "principessa britannica",
+      "description": "Principessa britannica e sorella di Elisabetta II, è tra i personaggi di The Crown, la cui terza stagione esce il 17 novembre su Netflix.",
       "image_filename": "Prinses_Margaret_in_het_Amstel_Hotel_(Bestanddeelnr_917-7739).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Prinses_Margaret_in_het_Amstel_Hotel_%28Bestanddeelnr_917-7739%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prinses_Margaret_in_het_Amstel_Hotel_(Bestanddeelnr_917-7739).jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Al%20Pacino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=Al_Pacino",
       "article_url": "https://it.wikipedia.org/wiki/Al_Pacino",
-      "description": "attore statunitense (1940-)",
+      "description": "Attore statunitense, interpreta Jimmy Hoffa in The Irishman, su Netflix dal 27 novembre.",
       "image_filename": "Al_Pacino_2016_(30401544240).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Al_Pacino_2016_%2830401544240%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Al_Pacino_2016_(30401544240).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=In%20punta%20di%20piedi%20%28film%202018%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/25/2019,cd_max:12/01/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-25&end=2019-12-01&pages=In_punta_di_piedi_(film_2018)",
       "article_url": "https://it.wikipedia.org/wiki/In_punta_di_piedi_(film_2018)",
-      "description": "",
+      "description": "Film televisivo del 2018 diretto da Alessandro D'Alatri, va in onda il 25 novembre su Rai 1.",
       "image_filename": "In_punta_di_piedi_-_film_Rai.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/80/In_punta_di_piedi_-_film_Rai.png/1280px-In_punta_di_piedi_-_film_Rai.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:In_punta_di_piedi_-_film_Rai.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

@@ -1,0 +1,1338 @@
+{
+  "week": "2019-45",
+  "start_date": "2019-11-04",
+  "end_date": "2019-11-10",
+  "articles": {
+    "Giorgia_Meloni": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giorgia Meloni è una politica italiana, presidente del Consiglio dei ministri dal 22 ottobre 2022. Prima donna a capo del governo nella storia d'Italia, ha ricoperto precedentemente gli incarichi di vicepresidente della Camera dei deputati dal 2006 al 2008 e di ministro per la gioventù nel quarto governo Berlusconi dal 2008 al 2011.",
+      "news": [
+        {
+          "title": "Rendere Giorgia Meloni una hit virale è una buona idea? - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Rendere Giorgia Meloni una hit virale è una buona idea? Wired Italia"
+        },
+        {
+          "title": "Studio Aperto: Giorgia Meloni remix Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Studio Aperto: Giorgia Meloni remix Video Mediaset Infinity"
+        },
+        {
+          "title": "Giorgia Meloni all'Ancorotti Cosmetics: 'Eccellenza italiana' - La Provincia di Cremona",
+          "source": "La Provincia di Cremona",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "Giorgia Meloni all'Ancorotti Cosmetics: 'Eccellenza italiana' La Provincia di Cremona"
+        },
+        {
+          "title": "Maurizio Costanzo Show, Giorgia Meloni: \"Sono stata la babysitter della figlia di Fiorello\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Maurizio Costanzo Show, Giorgia Meloni: \"Sono stata la babysitter della figlia di Fiorello\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "\"Io sono Giorgia\": basta un meme per fare propaganda politica? Il caso - Agenda Digitale",
+          "source": "Agenda Digitale",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "\"Io sono Giorgia\": basta un meme per fare propaganda politica? Il caso Agenda Digitale"
+        },
+        {
+          "title": "Giorgia Meloni: la prima volta al Maurizio Costanzo Show - Maurizio Costanzo Show Clip | Witty TV - Witty TV",
+          "source": "Witty TV",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Giorgia Meloni: la prima volta al Maurizio Costanzo Show - Maurizio Costanzo Show Clip | Witty TV Witty TV"
+        },
+        {
+          "title": "Fratelli d'Italia, lite tra Giorgia Meloni e il giornalista di Report: \"Da voi solo falsità, inchiesta vergognosa\". \"E allora ci denunci\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Fratelli d'Italia, lite tra Giorgia Meloni e il giornalista di Report: \"Da voi solo falsità, inchiesta vergognosa\". \"E allora ci denunci\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Giorgia Meloni canta Sapore di sale e Thriller - Maurizio Costanzo Show Clip | Witty TV - Witty TV",
+          "source": "Witty TV",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Giorgia Meloni canta Sapore di sale e Thriller - Maurizio Costanzo Show Clip | Witty TV Witty TV"
+        },
+        {
+          "title": "MARTINELLI: Giorgia Meloni: dal comizio a X Factor, Malgioglio permettendo - Le Iene",
+          "source": "Le Iene",
+          "pubDate": "Sun, 10 Nov 2019 08:00:00 GMT",
+          "description": "MARTINELLI: Giorgia Meloni: dal comizio a X Factor, Malgioglio permettendo Le Iene"
+        },
+        {
+          "title": "\"Sono Giorgia, sono una madre, sono cristiana\": il remix del discorso di Meloni diventa una hit virale - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "\"Sono Giorgia, sono una madre, sono cristiana\": il remix del discorso di Meloni diventa una hit virale Il Fatto Quotidiano"
+        }
+      ]
+    },
+    "Muro_di_Berlino": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Muro di Berlino fu un sistema di barriere attivo dal 1961 al 1989, eretto da parte del governo della Germania Est per impedire la libera circolazione delle persone verso la Germania Ovest.",
+      "news": [
+        {
+          "title": "Caduta del Muro di Berlino: la fine di un simbolo - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Caduta del Muro di Berlino: la fine di un simbolo Focus.it"
+        },
+        {
+          "title": "La caduta del Muro di Berlino e le sue conseguenze - ISPI",
+          "source": "ISPI",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "La caduta del Muro di Berlino e le sue conseguenze ISPI"
+        },
+        {
+          "title": "L'italiano che fece cadere il Muro di Berlino - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "L'italiano che fece cadere il Muro di Berlino Wired Italia"
+        },
+        {
+          "title": "Muro di Berlino, Désirée, la prima a varcare il confine - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Muro di Berlino, Désirée, la prima a varcare il confine Vanity Fair Italia"
+        },
+        {
+          "title": "I concerti che hanno fatto tremare il Muro di Berlino, a 30 anni dalla caduta - Latitudes",
+          "source": "Latitudes",
+          "pubDate": "Sat, 09 Nov 2019 08:33:09 GMT",
+          "description": "I concerti che hanno fatto tremare il Muro di Berlino, a 30 anni dalla caduta Latitudes"
+        },
+        {
+          "title": "Il muro di Berlino in 20 foto - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Il muro di Berlino in 20 foto Il Post"
+        },
+        {
+          "title": "Il Muro di Berlino, la storia e gli incredibili tentativi di fuga - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "Il Muro di Berlino, la storia e gli incredibili tentativi di fuga GQ Italia"
+        },
+        {
+          "title": "La caduta del Muro - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Fri, 08 Nov 2019 11:32:07 GMT",
+          "description": "La caduta del Muro Rai Cultura"
+        },
+        {
+          "title": "Il Muro di Berlino raccontato in 10 canzoni - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "Il Muro di Berlino raccontato in 10 canzoni Rolling Stone Italia"
+        },
+        {
+          "title": "Trabant, l'automobile che ha attraversato il Muro di Berlino. E ha cambiato la storia - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Trabant, l'automobile che ha attraversato il Muro di Berlino. E ha cambiato la storia Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "La Melevisione - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 08 Nov 2019 11:56:29 GMT",
+          "description": "La Melevisione RaiPlay"
+        },
+        {
+          "title": "RAGAZZICONTRO - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 05 Nov 2019 12:40:23 GMT",
+          "description": "RAGAZZICONTRO RaiPlay"
+        },
+        {
+          "title": "La caduta del Muro - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Fri, 08 Nov 2019 11:32:07 GMT",
+          "description": "La caduta del Muro Rai Cultura"
+        },
+        {
+          "title": "Cartoni per bambini - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 08 Nov 2019 20:32:31 GMT",
+          "description": "Cartoni per bambini RaiPlay"
+        },
+        {
+          "title": "Penny on M.A.R.S. - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 08 Nov 2019 05:10:20 GMT",
+          "description": "Penny on M.A.R.S. RaiPlay"
+        },
+        {
+          "title": "Film di animazione - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 08 Nov 2019 20:32:31 GMT",
+          "description": "Film di animazione RaiPlay"
+        }
+      ]
+    },
+    "Ittiosi_Arlecchino": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Ittiosi Arlecchino, conosciuta anche come feto Arlecchino, ittiosi diffusa o cheratosi fetale diffusa, è una grave disfunzione congenita della pelle e la più grave forma di ittiosi. La patologia è estremamente rara e in mancanza di dati epidemiologici esatti se ne stima una prevalenza inferiore ad un caso su un milione.",
+      "news": [
+        {
+          "title": "Ittiosi Arlecchino, cos'è e come si diagnostica questa grave malattia della pelle - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Ittiosi Arlecchino, cos'è e come si diagnostica questa grave malattia della pelle Sky TG24"
+        },
+        {
+          "title": "Ittiosi Arlecchino: cos’è la malattia genetica di cui è affetto Giovannino - nextQuotidiano",
+          "source": "nextQuotidiano",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Ittiosi Arlecchino: cos’è la malattia genetica di cui è affetto Giovannino nextQuotidiano"
+        },
+        {
+          "title": "Che cos'è l'Ittiosi Arlecchino, la malattia che colpisce un neonato su un milione - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Che cos'è l'Ittiosi Arlecchino, la malattia che colpisce un neonato su un milione Il Riformista"
+        },
+        {
+          "title": "Ittiosi Arlecchino, rarissima malattia genetica che colpisce la pelle - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Ittiosi Arlecchino, rarissima malattia genetica che colpisce la pelle Il Messaggero"
+        },
+        {
+          "title": "Alena Seredova su Giovannino: «Conosco quel bimbo, ebbi problemi simili alla pelle da piccola» - Corriere Torino",
+          "source": "Corriere Torino",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Alena Seredova su Giovannino: «Conosco quel bimbo, ebbi problemi simili alla pelle da piccola» Corriere Torino"
+        },
+        {
+          "title": "Bimbo con malattia rara abbandonato: «Ha diritto a cure, ora l’affidamento» - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Bimbo con malattia rara abbandonato: «Ha diritto a cure, ora l’affidamento» Il Sole 24 ORE"
+        },
+        {
+          "title": "Ittiosi Arlecchino, neonato con patologia rara abbandonato in ospedale - Responsabile Civile",
+          "source": "Responsabile Civile",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Ittiosi Arlecchino, neonato con patologia rara abbandonato in ospedale Responsabile Civile"
+        },
+        {
+          "title": "Caso Giovannino, il ginecologo Silvio Viale: «Gara di adozioni penosa: vi spiego cosa significa davvero curarlo - Open",
+          "source": "Open",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Caso Giovannino, il ginecologo Silvio Viale: «Gara di adozioni penosa: vi spiego cosa significa davvero curarlo Open"
+        },
+        {
+          "title": "Ittiosi Arlecchino: cos’è, cause, sintomi e possibili trattamenti della rara malattia genetica di Giovannino - greenMe",
+          "source": "greenMe",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Ittiosi Arlecchino: cos’è, cause, sintomi e possibili trattamenti della rara malattia genetica di Giovannino greenMe"
+        },
+        {
+          "title": "Ittiosi arlecchino, cos'è la malattia rara del bimbo abbandonato a Torino - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Ittiosi arlecchino, cos'è la malattia rara del bimbo abbandonato a Torino Mediaset Infinity"
+        }
+      ]
+    },
+    "Fred_Bongusto": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fred Bongusto, pseudonimo di Alfredo Antonio Carlo Buongusto, è stato un cantautore e produttore discografico italiano.",
+      "news": [
+        {
+          "title": "Morto Fred Bongusto, cantante di tutti gli amori «nati a Malaga» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Morto Fred Bongusto, cantante di tutti gli amori «nati a Malaga» Vanity Fair Italia"
+        },
+        {
+          "title": "Vita in diretta 2019/20 - Fred Bongusto, addio al cantante dell'amore - 08/11/2019 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Vita in diretta 2019/20 - Fred Bongusto, addio al cantante dell'amore - 08/11/2019 - Video RaiPlay"
+        },
+        {
+          "title": "Fred Bongusto - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Fri, 08 Nov 2019 15:30:30 GMT",
+          "description": "Fred Bongusto Rai Cultura"
+        },
+        {
+          "title": "Ritratto sentimentale di Fred Bongusto, il nostro crooner migliore - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Ritratto sentimentale di Fred Bongusto, il nostro crooner migliore Rolling Stone Italia"
+        },
+        {
+          "title": "Fred Bongusto, la voce di 'Una rotonda sul mare'. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Fred Bongusto, la voce di 'Una rotonda sul mare'. FOTO Sky TG24"
+        },
+        {
+          "title": "Fred Bongusto, una vita da raccontare - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Fred Bongusto, una vita da raccontare la Repubblica"
+        },
+        {
+          "title": "Morto Fred Bongusto, cantò l’Italia del boom - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Morto Fred Bongusto, cantò l’Italia del boom Corriere della Sera"
+        },
+        {
+          "title": "L’ultimo saluto a Fred Bongusto - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sun, 10 Nov 2019 08:00:00 GMT",
+          "description": "L’ultimo saluto a Fred Bongusto RaiNews"
+        },
+        {
+          "title": "Addio a Fred Bongusto: il cantante è scomparso oggi ad 84 anni - Onda Musicale",
+          "source": "Onda Musicale",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Addio a Fred Bongusto: il cantante è scomparso oggi ad 84 anni Onda Musicale"
+        },
+        {
+          "title": "Bongusto, una via all’alunno modello - L'Arena",
+          "source": "L'Arena",
+          "pubDate": "Sun, 10 Nov 2019 08:00:00 GMT",
+          "description": "Bongusto, una via all’alunno modello L'Arena"
+        }
+      ]
+    },
+    "Chico_Forti": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Enrico Forti, detto Chico, è un assassino, ex velista e produttore televisivo italiano.",
+      "news": [
+        {
+          "title": "Chico Forti, italiano da vent'anni in carcere negli Stati Uniti: «Il più grande errore giudiziario mai visto» - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Chico Forti, italiano da vent'anni in carcere negli Stati Uniti: «Il più grande errore giudiziario mai visto» Leggo.it"
+        },
+        {
+          "title": "Chico Forti: Gianni e Wilma ascoltano il nipote nel nostro servizio - Le Iene",
+          "source": "Le Iene",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Chico Forti: Gianni e Wilma ascoltano il nipote nel nostro servizio Le Iene"
+        },
+        {
+          "title": "CASO CHICO FORTI, DOTTOR CLAUDIO GIUSTI: CHICO È SFACCIATAMENTE COLPEVOLE, TUTTO IL CASO MONTATO È UN IMBROGLIO - Le Cronache Lucane",
+          "source": "Le Cronache Lucane",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "CASO CHICO FORTI, DOTTOR CLAUDIO GIUSTI: CHICO È SFACCIATAMENTE COLPEVOLE, TUTTO IL CASO MONTATO È UN IMBROGLIO Le Cronache Lucane"
+        },
+        {
+          "title": "Le Iene: Chico Forti: Gianni e Wilma ascoltano il nipote nel nostro servizio Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Le Iene: Chico Forti: Gianni e Wilma ascoltano il nipote nel nostro servizio Video Mediaset Infinity"
+        },
+        {
+          "title": "GASTON ZAMA: Il caso Chico Forti: un innocente da 20 anni all'ergastolo a Miami? - Le Iene",
+          "source": "Le Iene",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "GASTON ZAMA: Il caso Chico Forti: un innocente da 20 anni all'ergastolo a Miami? Le Iene"
+        },
+        {
+          "title": "Chico Forti, un italiano all'ergastolo da 20 anni negli Usa da innocente? | VIDEO - Le Iene",
+          "source": "Le Iene",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Chico Forti, un italiano all'ergastolo da 20 anni negli Usa da innocente? | VIDEO Le Iene"
+        },
+        {
+          "title": "Le Iene: GASTON ZAMA: Il caso Chico Forti: un innocente da 20 anni all'ergastolo a Miami? Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Le Iene: GASTON ZAMA: Il caso Chico Forti: un innocente da 20 anni all'ergastolo a Miami? Video Mediaset Infinity"
+        },
+        {
+          "title": "Aggiornamenti Iene.it: arrestato il prete accusato di abusi, la sorella della vittima: “Adesso la piccola sta meglio” - Le Iene",
+          "source": "Le Iene",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Aggiornamenti Iene.it: arrestato il prete accusato di abusi, la sorella della vittima: “Adesso la piccola sta meglio” Le Iene"
+        },
+        {
+          "title": "Petizione per riaprire il caso di Chico Forti, ingiustamente condannato all’ergastolo in USA - Imola Oggi",
+          "source": "Imola Oggi",
+          "pubDate": "Sun, 10 Nov 2019 08:00:00 GMT",
+          "description": "Petizione per riaprire il caso di Chico Forti, ingiustamente condannato all’ergastolo in USA Imola Oggi"
+        }
+      ]
+    },
+    "Liliana_Segre": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Liliana Segre è una superstite dell'Olocausto, attivista e politica italiana.",
+      "news": [
+        {
+          "title": "Liliana Segre sotto scorta, dopo le minacce assegnata la tutela alla senatrice a vita. Il Centro Wiesenthal: … - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre sotto scorta, dopo le minacce assegnata la tutela alla senatrice a vita. Il Centro Wiesenthal: … la Repubblica"
+        },
+        {
+          "title": "Testimonianza di Liliana Segre - al Giardino dei Giusti di Milano [editoriale] - Gariwo",
+          "source": "Gariwo",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Testimonianza di Liliana Segre - al Giardino dei Giusti di Milano [editoriale] Gariwo"
+        },
+        {
+          "title": "La scorta a Liliana Segre: un fatto che deve far riflettere gli italiani - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "La scorta a Liliana Segre: un fatto che deve far riflettere gli italiani Il Bo Live"
+        },
+        {
+          "title": "Liliana Segre: «...Finché avrà vita l’ultimo testimone» - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre: «...Finché avrà vita l’ultimo testimone» Il Sole 24 ORE"
+        },
+        {
+          "title": "Liliana Segre con la scorta. «Mai provare vergogna per essere italiani» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre con la scorta. «Mai provare vergogna per essere italiani» Corriere della Sera"
+        },
+        {
+          "title": "Da oggi la senatrice a vita Liliana Segre avrà la scorta - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Da oggi la senatrice a vita Liliana Segre avrà la scorta Il Post"
+        },
+        {
+          "title": "Liliana Segre, assegnata la scorta alla senatrice a vita - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre, assegnata la scorta alla senatrice a vita Sky TG24"
+        },
+        {
+          "title": "Liliana Segre sotto scorta, Vittorio Sgarbi: \"E' l'ammissione di un rischio che io non vedo\" - La7",
+          "source": "La7",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre sotto scorta, Vittorio Sgarbi: \"E' l'ammissione di un rischio che io non vedo\" La7"
+        },
+        {
+          "title": "Liliana Segre sotto scorta - RSI Radiotelevisione svizzera",
+          "source": "RSI Radiotelevisione svizzera",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre sotto scorta RSI Radiotelevisione svizzera"
+        },
+        {
+          "title": "Liliana Segre racconta la shoah dei medici milanesi - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Liliana Segre racconta la shoah dei medici milanesi MilanoToday"
+        }
+      ]
+    },
+    "La_La_Land_(film)": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La La Land è un film del 2016 scritto e diretto da Damien Chazelle.",
+      "news": [
+        {
+          "title": "5 motivi per vedere assolutamente \"La La Land\" - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "5 motivi per vedere assolutamente \"La La Land\" Sky TG24"
+        },
+        {
+          "title": "Emma Stone, la ragazza di «La La Land» da «The Help» a «Zombieland 2» - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Emma Stone, la ragazza di «La La Land» da «The Help» a «Zombieland 2» GQ Italia"
+        },
+        {
+          "title": "La La Land, stasera in prima tv il film: i sogni non sono solo nostalgia - Famiglia Cristiana",
+          "source": "Famiglia Cristiana",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "La La Land, stasera in prima tv il film: i sogni non sono solo nostalgia Famiglia Cristiana"
+        },
+        {
+          "title": "La La Land | Da City of Stars ad Antoher Day of Sun: le canzoni del film - The HotCorn",
+          "source": "The HotCorn",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "La La Land | Da City of Stars ad Antoher Day of Sun: le canzoni del film The HotCorn"
+        },
+        {
+          "title": "La La Land: recensione e trama del film Premio Oscar - culturaeculture.it",
+          "source": "culturaeculture.it",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "La La Land: recensione e trama del film Premio Oscar culturaeculture.it"
+        },
+        {
+          "title": "Emma Stone: i migliori film della star di La La Land - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Emma Stone: i migliori film della star di La La Land Movieplayer"
+        },
+        {
+          "title": "«La La Land» in tv , Emma contro Emma e la gaffe agli Oscar: ecco i quindici segreti del film - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 06 Nov 2019 11:38:50 GMT",
+          "description": "«La La Land» in tv , Emma contro Emma e la gaffe agli Oscar: ecco i quindici segreti del film Corriere della Sera"
+        },
+        {
+          "title": "I migliori film di Emma Stone - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "I migliori film di Emma Stone Sky TG24"
+        },
+        {
+          "title": "Parasite: il visionario capolavoro di Bong Joon-ho racconta il darwinismo sociale [recensione] - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Parasite: il visionario capolavoro di Bong Joon-ho racconta il darwinismo sociale [recensione] Anonima Cinefili"
+        },
+        {
+          "title": "Oggi spegne le candeline la bella di la la land - Spettacolo Periodico Daily",
+          "source": "Spettacolo Periodico Daily",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Oggi spegne le candeline la bella di la la land Spettacolo Periodico Daily"
+        }
+      ]
+    },
+    "Jannik_Sinner": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Jannik Sinner è un tennista italiano.",
+      "news": [
+        {
+          "title": "Il tennista italiano Jannik Sinner ha vinto la terza edizione delle Next Gen ATP Finals - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sun, 10 Nov 2019 08:00:00 GMT",
+          "description": "Il tennista italiano Jannik Sinner ha vinto la terza edizione delle Next Gen ATP Finals Il Post"
+        },
+        {
+          "title": "Innamorati di Jannik, dalla testa ai piedi - SuperTennis",
+          "source": "SuperTennis",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Innamorati di Jannik, dalla testa ai piedi SuperTennis"
+        },
+        {
+          "title": "Sinner, il futuro è adesso: che trionfo al Next Gen! - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "Sinner, il futuro è adesso: che trionfo al Next Gen! La Gazzetta dello Sport"
+        },
+        {
+          "title": "Jannik Sinner trionfa al Next Gen: «Non mi fermo» - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Sun, 10 Nov 2019 08:00:00 GMT",
+          "description": "Jannik Sinner trionfa al Next Gen: «Non mi fermo» GQ Italia"
+        },
+        {
+          "title": "Jannik Sinner, il campioncino di tennis rubato allo sci - DoveSciare",
+          "source": "DoveSciare",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Jannik Sinner, il campioncino di tennis rubato allo sci DoveSciare"
+        },
+        {
+          "title": "Jannik Sinner, il freddo caldo: «Gestisco le emozioni. Di me si parla troppo» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Jannik Sinner, il freddo caldo: «Gestisco le emozioni. Di me si parla troppo» Corriere della Sera"
+        },
+        {
+          "title": "Jannik Sinner, trionfo alla Next Gen Finals. E 18 anni fa a vincere fu un certo Roger Federer - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 10 Nov 2019 08:00:00 GMT",
+          "description": "Jannik Sinner, trionfo alla Next Gen Finals. E 18 anni fa a vincere fu un certo Roger Federer Il Fatto Quotidiano"
+        },
+        {
+          "title": "Tennis, impresa del 18enne Jannik Sinner: l'azzurro è il più giovane a trionfare nella finale del Next Gen Atp - Il video - Open",
+          "source": "Open",
+          "pubDate": "Sun, 10 Nov 2019 08:00:00 GMT",
+          "description": "Tennis, impresa del 18enne Jannik Sinner: l'azzurro è il più giovane a trionfare nella finale del Next Gen Atp - Il video Open"
+        },
+        {
+          "title": "Sinner ha vinto le Next Gen Atp Finals e sogna un posto tra i \"grandi\" del tennis - AGI",
+          "source": "AGI",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "Sinner ha vinto le Next Gen Atp Finals e sogna un posto tra i \"grandi\" del tennis AGI"
+        },
+        {
+          "title": "Sinner, chi è il nuovo astro nascente italiano? - Sportellate",
+          "source": "Sportellate",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Sinner, chi è il nuovo astro nascente italiano? Sportellate"
+        }
+      ]
+    },
+    "ArcelorMittal": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "ArcelorMittal S.A. è un colosso industriale mondiale, operante nel settore dell'acciaio, nato dalla fusione di due tra le più grandi aziende del settore, la Arcelor e la Mittal Steel Company, avvenuta nel 2006. Il quartier generale si trova nella città di Lussemburgo. Oltre ad essere il più grande produttore d'acciaio, è anche attivo nel mercato della fornitura di acciaio per l'industria automobilistica e per i settori delle costruzioni, degli elettrodomestici e degli imballaggi.",
+      "news": [
+        {
+          "title": "Ex Ilva, il piano di Conte per ArcelorMittal: tre punti per convincere l’azienda - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, il piano di Conte per ArcelorMittal: tre punti per convincere l’azienda Corriere della Sera"
+        },
+        {
+          "title": "La lettera di ArcelorMittal ai commissari Ilva: ecco perché ce ne andiamo - Zingaretti apre a un nuovo scudo - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "La lettera di ArcelorMittal ai commissari Ilva: ecco perché ce ne andiamo - Zingaretti apre a un nuovo scudo Il Sole 24 ORE"
+        },
+        {
+          "title": "Cos’è ArcelorMittal - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Cos’è ArcelorMittal Il Post"
+        },
+        {
+          "title": "ArcelorMittal lascia ex Ilva: cos’è lo scudo penale, tra le cause del recesso di contratto - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "ArcelorMittal lascia ex Ilva: cos’è lo scudo penale, tra le cause del recesso di contratto Sky TG24"
+        },
+        {
+          "title": "ArcelorMittal annuncia lo scioglimento del contratto e 5mila licenziamenti. In sciopero anche l'indotto dei servizi di pulizia e ristorazione e i lavoratori in somministrazione - Fisascat",
+          "source": "Fisascat",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "ArcelorMittal annuncia lo scioglimento del contratto e 5mila licenziamenti. In sciopero anche l'indotto dei servizi di pulizia e ristorazione e i lavoratori in somministrazione Fisascat"
+        },
+        {
+          "title": "La confusione del governo per la vicenda ArcelorMittal - Orizzonti Politici",
+          "source": "Orizzonti Politici",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "La confusione del governo per la vicenda ArcelorMittal Orizzonti Politici"
+        },
+        {
+          "title": "Le cose da sapere su ArcelorMittal che vuole lasciare l’Ilva di Taranto - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Le cose da sapere su ArcelorMittal che vuole lasciare l’Ilva di Taranto Wired Italia"
+        },
+        {
+          "title": "ArcelorMittal, Andrea Pezzi: \"Calenda avrebbe dovuto fare un passaggio di consegne senza polemica con Di Maio\" - LA7",
+          "source": "LA7",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "ArcelorMittal, Andrea Pezzi: \"Calenda avrebbe dovuto fare un passaggio di consegne senza polemica con Di Maio\" LA7"
+        },
+        {
+          "title": "Ex Ilva, Conte incontra gli operai: \"Se ArcelorMittal se ne va, battaglia legale durissima. Taranto è una città ferita, combattiamo tutti insieme\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, Conte incontra gli operai: \"Se ArcelorMittal se ne va, battaglia legale durissima. Taranto è una città ferita, combattiamo tutti insieme\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Ex Ilva, ArcelorMittal: anche con scudo penale impossibile eseguire contratto - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, ArcelorMittal: anche con scudo penale impossibile eseguire contratto Il Sole 24 ORE"
+        }
+      ]
+    },
+    "ArcelorMittal_Italia": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Acciaierie d'Italia in amministrazione straordinaria S.p.A. è un'azienda italiana, attiva nella lavorazione dell'acciaio.",
+      "news": [
+        {
+          "title": "ArcelorMittal restituisce l’Ilva allo Stato italiano. Colpa di “scudo”, interventi magistratura e crisi acciaio - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "ArcelorMittal restituisce l’Ilva allo Stato italiano. Colpa di “scudo”, interventi magistratura e crisi acciaio Il Sole 24 ORE"
+        },
+        {
+          "title": "Ilva, ArcelorMittal abbandona. Perdite e immunità penale - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Ilva, ArcelorMittal abbandona. Perdite e immunità penale Corriere della Sera"
+        },
+        {
+          "title": "La confusione del governo per la vicenda ArcelorMittal - Orizzonti Politici",
+          "source": "Orizzonti Politici",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "La confusione del governo per la vicenda ArcelorMittal Orizzonti Politici"
+        },
+        {
+          "title": "Qualunque sarà il destino di Arcelor Mittal, a Taranto di acciaio si muore - Valori.it",
+          "source": "Valori.it",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Qualunque sarà il destino di Arcelor Mittal, a Taranto di acciaio si muore Valori.it"
+        },
+        {
+          "title": "Ex Ilva di Taranto, ArcelorMittal annuncia il ritiro - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva di Taranto, ArcelorMittal annuncia il ritiro Sky TG24"
+        },
+        {
+          "title": "Ex Ilva, che cosa ha scritto Arcelor Mittal ai dipendenti - Startmag",
+          "source": "Startmag",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Ex Ilva, che cosa ha scritto Arcelor Mittal ai dipendenti Startmag"
+        },
+        {
+          "title": "Ilva, il negoziato estremo di Lucia Morselli - Fortune Italia",
+          "source": "Fortune Italia",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Ilva, il negoziato estremo di Lucia Morselli Fortune Italia"
+        },
+        {
+          "title": "Renzi non dice la verità sull’Ilva - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Renzi non dice la verità sull’Ilva Pagella Politica"
+        },
+        {
+          "title": "ArcelorMittal lascia Taranto: \"Colpa dello scudo penale\". Adesso 20mila persone rischiano il lavoro - Il Corriere del Giorno",
+          "source": "Il Corriere del Giorno",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "ArcelorMittal lascia Taranto: \"Colpa dello scudo penale\". Adesso 20mila persone rischiano il lavoro Il Corriere del Giorno"
+        },
+        {
+          "title": "ArcelorMittal e Ilva: nella crisi dell’acciaio l’Italia paga il prezzo più alto - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "ArcelorMittal e Ilva: nella crisi dell’acciaio l’Italia paga il prezzo più alto Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Caterina_II_di_Russia": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Caterina II di Russia conosciuta come Caterina la Grande, fu imperatrice di Russia dal 1762 alla morte. Fu uno dei più significativi esempi di dispotismo illuminato.",
+      "news": [
+        {
+          "title": "A fine ottobre è sbarcata su Sky-NowTv la serie HBO \"Caterina la Grande\" con Helen Mirren - La Difesa del Popolo",
+          "source": "La Difesa del Popolo",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "A fine ottobre è sbarcata su Sky-NowTv la serie HBO \"Caterina la Grande\" con Helen Mirren La Difesa del Popolo"
+        },
+        {
+          "title": "\"Caterina la Grande\", la serie TV sulla regina femminista - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "\"Caterina la Grande\", la serie TV sulla regina femminista Libreriamo"
+        },
+        {
+          "title": "Caterina la Grande, le anticipazioni degli episodi 3 e 4 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Caterina la Grande, le anticipazioni degli episodi 3 e 4 Sky TG24"
+        },
+        {
+          "title": "\"Caterina La Grande\", l'amore quando sei una donna al potere - Roba da Donne",
+          "source": "Roba da Donne",
+          "pubDate": "Mon, 04 Nov 2019 09:55:24 GMT",
+          "description": "\"Caterina La Grande\", l'amore quando sei una donna al potere Roba da Donne"
+        },
+        {
+          "title": "Caterina la Grande, la recensione del quarto episodio, il finale - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "Caterina la Grande, la recensione del quarto episodio, il finale Sky TG24"
+        },
+        {
+          "title": "6 Novembre, accadde oggi: eventi storici, santi e ricorrenze - ZON.it",
+          "source": "ZON.it",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "6 Novembre, accadde oggi: eventi storici, santi e ricorrenze ZON.it"
+        }
+      ]
+    },
+    "Enrico_V_d'Inghilterra": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Enrico V fu re d'Inghilterra dal 1413 alla sua morte. Nonostante abbia regnato soltanto per nove anni, l'azione politico-militare esercitata da Enrico V fu assai notevole sullo scacchiere europeo, tanto da renderlo uno dei più popolari sovrani del Medioevo. Enrico, infatti, fu capace di portare nuovamente il Regno d'Inghilterra tra le prime potenze europee grazie alla brillante vittoria conseguita ad Azincourt sui francesi, in seguito alla quale riuscì a farsi nominare erede del trono di Francia.",
+      "news": [
+        {
+          "title": "“The King”: Enrico V come non l’avete mai visto al cinema - Cinemonitor -",
+          "source": "Cinemonitor -",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "“The King”: Enrico V come non l’avete mai visto al cinema Cinemonitor -"
+        },
+        {
+          "title": "Il Re: La recensione del film di David Michôd su Enrico V (per Netflix) - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Il Re: La recensione del film di David Michôd su Enrico V (per Netflix) Il Cineocchio"
+        },
+        {
+          "title": "Il discorso di Enrico V dal film Il Re di Netflix - MovieTele.it",
+          "source": "MovieTele.it",
+          "pubDate": "Sat, 09 Nov 2019 13:46:40 GMT",
+          "description": "Il discorso di Enrico V dal film Il Re di Netflix MovieTele.it"
+        },
+        {
+          "title": "«The King», il Re di Shakespeare che parla al presente - NPC Magazine",
+          "source": "NPC Magazine",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "«The King», il Re di Shakespeare che parla al presente NPC Magazine"
+        },
+        {
+          "title": "La recensione di The King - Cineforum",
+          "source": "Cineforum",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "La recensione di The King Cineforum"
+        }
+      ]
+    },
+    "Giornata_dell'Unità_Nazionale_e_delle_Forze_Armate": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Giornata dell'Unità nazionale e delle Forze armate è una giornata celebrativa nazionale italiana che si celebra ogni 4 novembre. Fu istituita per commemorare la vittoria italiana nella prima guerra mondiale contro l'impero austro-ungarico, sancita dall'entrata in vigore dell'armistizio di Villa Giusti, evento che permise all'Italia l'annessione delle terre irredente di Trento e Trieste. Per tale motivo, l'intervento italiano nella prima guerra mondiale è stato anche considerato il completamento del processo di unificazione risorgimentale come quarta guerra d'indipendenza italiana.",
+      "news": [
+        {
+          "title": "4 novembre: Giorno dell’Unità Nazionale e Giornata delle Forze Armate - Ministero dell‘Interno",
+          "source": "Ministero dell‘Interno",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "4 novembre: Giorno dell’Unità Nazionale e Giornata delle Forze Armate Ministero dell‘Interno"
+        },
+        {
+          "title": "Arma di Taggia, oggi le celebrazioni per la Giornata dell'Unità Nazionale e Festa delle Forze Armate - Riviera Time",
+          "source": "Riviera Time",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Arma di Taggia, oggi le celebrazioni per la Giornata dell'Unità Nazionale e Festa delle Forze Armate Riviera Time"
+        },
+        {
+          "title": "Festa del 4 novembre, il presidente Bui si rivolge ai ragazzi: \"Fate domande, cercate le vostre radici e visitate i luoghi della storia\" | Provincia di Padova - Provincia di Padova |",
+          "source": "Provincia di Padova |",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Festa del 4 novembre, il presidente Bui si rivolge ai ragazzi: \"Fate domande, cercate le vostre radici e visitate i luoghi della storia\" | Provincia di Padova Provincia di Padova |"
+        },
+        {
+          "title": "Bari celebra il 4 novembre, cerimonia al Sacrario con il presidente della Camera Fico: \"Unità valore fondante della Repubblica\" - BariToday",
+          "source": "BariToday",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Bari celebra il 4 novembre, cerimonia al Sacrario con il presidente della Camera Fico: \"Unità valore fondante della Repubblica\" BariToday"
+        },
+        {
+          "title": "Festa del 4 novembre, il 51° Stormo ha ospitato centinaia di studenti e cittadini - TrevisoToday",
+          "source": "TrevisoToday",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Festa del 4 novembre, il 51° Stormo ha ospitato centinaia di studenti e cittadini TrevisoToday"
+        },
+        {
+          "title": "Frecce Tricolori a Napoli per la Giornata dell’Unità nazionale e delle Forze Armate | 4 novembre 2019 - Napoli da Vivere",
+          "source": "Napoli da Vivere",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Frecce Tricolori a Napoli per la Giornata dell’Unità nazionale e delle Forze Armate | 4 novembre 2019 Napoli da Vivere"
+        },
+        {
+          "title": "LESEGNO/ In tanti alle celebrazioni del IV novembre in ricordo dei tanti caduti delle guerre - Cuneocronaca.it",
+          "source": "Cuneocronaca.it",
+          "pubDate": "Tue, 05 Nov 2019 17:11:32 GMT",
+          "description": "LESEGNO/ In tanti alle celebrazioni del IV novembre in ricordo dei tanti caduti delle guerre Cuneocronaca.it"
+        },
+        {
+          "title": "Le Celebrazioni del 4 novembre ad Albenga - AlbengaCorsara",
+          "source": "AlbengaCorsara",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Le Celebrazioni del 4 novembre ad Albenga AlbengaCorsara"
+        },
+        {
+          "title": "Giornata dell’Unità Nazionale, commemorazione a Montemarciano - Cronache Ancona",
+          "source": "Cronache Ancona",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Giornata dell’Unità Nazionale, commemorazione a Montemarciano Cronache Ancona"
+        },
+        {
+          "title": "Pesaro, festa delle forze armate per ricordare i valori dell’unità nazionale - CentroPagina",
+          "source": "CentroPagina",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Pesaro, festa delle forze armate per ricordare i valori dell’unità nazionale CentroPagina"
+        }
+      ]
+    },
+    "Mormonismo": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il mormonismo è una dottrina religiosa \"restaurata\" da Joseph Smith, che disse di aver ricevuto per rivelazione il Libro di Mormon ed è considerato profeta dai suoi seguaci.",
+      "news": [
+        {
+          "title": "I mormoni, chi sono e come vivono - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "I mormoni, chi sono e come vivono Sky TG24"
+        },
+        {
+          "title": "Mormoni, tra morale, divieti e tradizioni: ecco chi sono i 16 milioni di fedeli. In Italia sono 26mila - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Mormoni, tra morale, divieti e tradizioni: ecco chi sono i 16 milioni di fedeli. In Italia sono 26mila la Repubblica"
+        }
+      ]
+    },
+    "The_Irishman_(film_2019)": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The Irishman è un film del 2019 diretto da Martin Scorsese.",
+      "news": [
+        {
+          "title": "I film della Festa in sala | “The Irishman” di Martin Scorsese - Fondazione Cinema per Roma",
+          "source": "Fondazione Cinema per Roma",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "I film della Festa in sala | “The Irishman” di Martin Scorsese Fondazione Cinema per Roma"
+        },
+        {
+          "title": "Martin Scorsese - The Irishman Recensione - Mescalina.it",
+          "source": "Mescalina.it",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "Martin Scorsese - The Irishman Recensione Mescalina.it"
+        },
+        {
+          "title": "“The Irishman”, la trama del film - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "“The Irishman”, la trama del film Sky TG24"
+        },
+        {
+          "title": "The Irishman – L’età del silenzio - Birdmen Magazine",
+          "source": "Birdmen Magazine",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "The Irishman – L’età del silenzio Birdmen Magazine"
+        },
+        {
+          "title": "The Irishman al cinema. Intervista a Robert De Niro e Al Pacino - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "The Irishman al cinema. Intervista a Robert De Niro e Al Pacino Corriere Style"
+        },
+        {
+          "title": "The Irishman: dove vedere il film al cinema nel weekend e su Netflix in streaming - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "The Irishman: dove vedere il film al cinema nel weekend e su Netflix in streaming Amica.it"
+        },
+        {
+          "title": "Al Pacino per 'The Irishman': \"Per Scorsese sono Jimmy Hoffa, sindacalista con luci e ombre\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Al Pacino per 'The Irishman': \"Per Scorsese sono Jimmy Hoffa, sindacalista con luci e ombre\" la Repubblica"
+        },
+        {
+          "title": "The Irishman: tre vecchi gangster e l'America d'oggi - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "The Irishman: tre vecchi gangster e l'America d'oggi La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "The Irishman: la recensione del film di gangster di Martin Scorsese (per Netflix) - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "The Irishman: la recensione del film di gangster di Martin Scorsese (per Netflix) Il Cineocchio"
+        },
+        {
+          "title": "The Irishman, il cast del film - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "The Irishman, il cast del film Sky TG24"
+        }
+      ]
+    },
+    "Il_collegio": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il collegio è un programma televisivo italiano prodotto da Rai e Magnolia-Banijay Italia e andato in onda su Rai 2 dal 2 gennaio 2017 al 17 ottobre 2017, dal 12 febbraio 2019 al 5 novembre 2023 e nuovamente dal 23 ottobre 2025 su RaiPlay. Si tratta di un docu-reality ambientato in un preciso periodo storico, in cui un gruppo di adolescenti viene radunato in un collegio con l'obiettivo di superare l'esame di terza media e ottenere il diploma. Il programma è basato sul format britannico That'll Teach 'Em, trasmesso tra il 2003 e il 2006 ed esportato in varie nazioni.",
+      "news": [
+        {
+          "title": "Tv Talk 2019/20 - Il Collegio - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Tv Talk 2019/20 - Il Collegio - Video RaiPlay"
+        },
+        {
+          "title": "«Il Collegio»: quando la maleducazione raggiunge il limite - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "«Il Collegio»: quando la maleducazione raggiunge il limite Vanity Fair Italia"
+        },
+        {
+          "title": "Il Collegio 2019 - Una partita di calcio \"mondiale\" - 05/11/2019 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Il Collegio 2019 - Una partita di calcio \"mondiale\" - 05/11/2019 - Video RaiPlay"
+        },
+        {
+          "title": "Il Collegio 2019 - Tutti in campo! - 05/11/2019 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Il Collegio 2019 - Tutti in campo! - 05/11/2019 - Video RaiPlay"
+        },
+        {
+          "title": "Il Collegio 2019 - Il taglio dei capelli di Chiara e Andrea - 05/11/2019 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Il Collegio 2019 - Il taglio dei capelli di Chiara e Andrea - 05/11/2019 - Video RaiPlay"
+        },
+        {
+          "title": "Il Collegio 2019 - Francesco affronta un nuovo taglio di capelli - 05/11/2019 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Il Collegio 2019 - Francesco affronta un nuovo taglio di capelli - 05/11/2019 - Video RaiPlay"
+        }
+      ]
+    },
+    "Joker_(film_2019)": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Joker è un film del 2019 co-scritto, diretto e co-prodotto da Todd Phillips.",
+      "news": [
+        {
+          "title": "I fantasmi di Joker siamo noi - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "I fantasmi di Joker siamo noi Internazionale"
+        },
+        {
+          "title": "Blog | Joker è un film pericoloso? Ma per chi? - Alley Oop - ilSole24ORE",
+          "source": "Alley Oop - ilSole24ORE",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Blog | Joker è un film pericoloso? Ma per chi? Alley Oop - ilSole24ORE"
+        },
+        {
+          "title": "Ricchi contro poveri: Civil War - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Ricchi contro poveri: Civil War Esquire"
+        }
+      ]
+    },
+    "Peaky_Blinders": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "«Peaky Blinders», anche la quinta stagione è perfetta - NPC Magazine",
+          "source": "NPC Magazine",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "«Peaky Blinders», anche la quinta stagione è perfetta NPC Magazine"
+        },
+        {
+          "title": "Otamendi, tatuaggi ispirati a 3 serie tv. FOTO - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Otamendi, tatuaggi ispirati a 3 serie tv. FOTO Sky Sport"
+        },
+        {
+          "title": "Perché il music supervisor è il lavoro dei vostri sogni - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Perché il music supervisor è il lavoro dei vostri sogni Rolling Stone Italia"
+        },
+        {
+          "title": "Netflix, le Serie TV migliori del 2019 - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Netflix, le Serie TV migliori del 2019 ComingSoon.it"
+        },
+        {
+          "title": "5 attori delle Serie Tv che per qualche strano motivo non hanno mai vinto un Emmy - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "5 attori delle Serie Tv che per qualche strano motivo non hanno mai vinto un Emmy Hall of Series"
+        },
+        {
+          "title": "Tatuaggio Otamendi - Breaking Bad, Vikings e Peaky Blinders: la sua schiena ha un abbonamento Netflix! [FOTO] - www.sportfair.it",
+          "source": "www.sportfair.it",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Tatuaggio Otamendi - Breaking Bad, Vikings e Peaky Blinders: la sua schiena ha un abbonamento Netflix! [FOTO] www.sportfair.it"
+        },
+        {
+          "title": "La musica incontra il cinema nel nuovo album di Marracash - CiakClub",
+          "source": "CiakClub",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "La musica incontra il cinema nel nuovo album di Marracash CiakClub"
+        }
+      ]
+    },
+    "The_End_of_the_F***ing_World": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The End of the F***ing World è una serie televisiva britannica creata da Jonathan Entwistle e interpretata da Alex Lawther e Jessica Barden.",
+      "news": [
+        {
+          "title": "M¥SS KETA spirito guida di The End of The F***ing World 2: su Netflix - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "M¥SS KETA spirito guida di The End of The F***ing World 2: su Netflix Radio Deejay"
+        },
+        {
+          "title": "La seconda stagione di The End of the F*** ing World è inutile, ma anche meglio della prima - VICE",
+          "source": "VICE",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "La seconda stagione di The End of the F*** ing World è inutile, ma anche meglio della prima VICE"
+        },
+        {
+          "title": "«The End of the F***ing World 2» è (quasi) meglio della prima stagione - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "«The End of the F***ing World 2» è (quasi) meglio della prima stagione Vanity Fair Italia"
+        },
+        {
+          "title": "\"The End of the F***ing World\": la seconda stagione su Netflix - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "\"The End of the F***ing World\": la seconda stagione su Netflix TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "The End of the F***ing World: il momento del dopo – Recensione della seconda stagione della serie Netflix - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "The End of the F***ing World: il momento del dopo – Recensione della seconda stagione della serie Netflix Telefilm Central"
+        },
+        {
+          "title": "The End of the F***ing World: La nostra recensione della seconda stagione - Lega Nerd",
+          "source": "Lega Nerd",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "The End of the F***ing World: La nostra recensione della seconda stagione Lega Nerd"
+        },
+        {
+          "title": "‘The End of the F***ing World’ era perfetta, poi è arrivata la seconda stagione - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "‘The End of the F***ing World’ era perfetta, poi è arrivata la seconda stagione Rolling Stone Italia"
+        },
+        {
+          "title": "Tutti i brani in The End of the F***ing World 2 - DLSO",
+          "source": "DLSO",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Tutti i brani in The End of the F***ing World 2 DLSO"
+        },
+        {
+          "title": "The End of the F***ing World, la seconda stagione è un altro intrigante buco nero - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "The End of the F***ing World, la seconda stagione è un altro intrigante buco nero Wired Italia"
+        },
+        {
+          "title": "The End of the F***king World 2, la recensione: su Netflix la seconda stagione della serie dark comedy - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "The End of the F***king World 2, la recensione: su Netflix la seconda stagione della serie dark comedy Movieplayer"
+        }
+      ]
+    },
+    "Death_Stranding": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Death Stranding   è un videogioco sviluppato da Kojima Productions con la collaborazione di Guerrilla Games e pubblicato da Sony Interactive Entertainment per PlayStation 4, PlayStation 5, Xbox, Windows e dispositivi Apple. Si tratta del primo titolo realizzato da Hideo Kojima e dal suo studio di programmazione dopo la scissione da Konami avvenuta nel 2015. Dopo essere stato annunciato ufficialmente all'Electronic Entertainment Expo 2016, è uscito in tutto il mondo l'8 novembre 2019 su PlayStation 4 e il 14 luglio 2020 su Microsoft Windows; inoltre, è stato pubblicato su iPhone con chip A17 Pro e su dispositivi macOS e iPadOS dotati di chip M1 il 30 gennaio 2024. Il 7 novembre 2024 è stata pubblicata una versione per Xbox Series X/S e Amazon Luna.",
+      "news": [
+        {
+          "title": "Ho giocato a Death Stranding (in modalità difficile) soltanto per ammettere: \"Mi sono sbagliata\" - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Ho giocato a Death Stranding (in modalità difficile) soltanto per ammettere: \"Mi sono sbagliata\" IGN Italia"
+        },
+        {
+          "title": "Death Stranding: 20 fondamentali consigli di gioco per aiutarvi a riconnettere il mondo - PlayStation",
+          "source": "PlayStation",
+          "pubDate": "Thu, 07 Nov 2019 08:00:00 GMT",
+          "description": "Death Stranding: 20 fondamentali consigli di gioco per aiutarvi a riconnettere il mondo PlayStation"
+        },
+        {
+          "title": "Giocare a ‘Death Stranding’ è un lavoro faticosissimo - VICE",
+          "source": "VICE",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Giocare a ‘Death Stranding’ è un lavoro faticosissimo VICE"
+        },
+        {
+          "title": "Death Stranding: guida al gameplay - Multiplayer",
+          "source": "Multiplayer",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Death Stranding: guida al gameplay Multiplayer"
+        },
+        {
+          "title": "Death Stranding Easter Egg: tutti i personaggi famosi e dove trovarli - Everyeye.it",
+          "source": "Everyeye.it",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Death Stranding Easter Egg: tutti i personaggi famosi e dove trovarli Everyeye.it"
+        },
+        {
+          "title": "Death Stranding è un affascinante capolavoro di fantascienza - Mashable Italia",
+          "source": "Mashable Italia",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Death Stranding è un affascinante capolavoro di fantascienza Mashable Italia"
+        },
+        {
+          "title": "Death Stranding - La recensione - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Death Stranding - La recensione IGN Italia"
+        },
+        {
+          "title": "Hideo Kojima sull'accoglienza ricevuta da Death Stranding e la sensibilità degli italiani - Everyeye.it",
+          "source": "Everyeye.it",
+          "pubDate": "Fri, 08 Nov 2019 08:00:00 GMT",
+          "description": "Hideo Kojima sull'accoglienza ricevuta da Death Stranding e la sensibilità degli italiani Everyeye.it"
+        },
+        {
+          "title": "Death Stranding, i commenti dei lettori - Multiplayer",
+          "source": "Multiplayer",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Death Stranding, i commenti dei lettori Multiplayer"
+        },
+        {
+          "title": "Assieme senza vedersi: il multiplayer di Death Stranding crea una comunità - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Assieme senza vedersi: il multiplayer di Death Stranding crea una comunità IGN Italia"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": []
+    },
+    "Marracash": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Marracash, pseudonimo di Fabio Bartolo Rizzo, è un rapper italiano.",
+      "news": [
+        {
+          "title": "\"Appartengo\", il testo della canzone di Marracash e Massimo Pericolo - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "\"Appartengo\", il testo della canzone di Marracash e Massimo Pericolo Sky TG24"
+        },
+        {
+          "title": "Marracash: Persona. Rap e Psicoanalisi mai così vicini - ExitWell",
+          "source": "ExitWell",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Marracash: Persona. Rap e Psicoanalisi mai così vicini ExitWell"
+        },
+        {
+          "title": "Marracash in «Persona», il nuovo album è una bomba - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Marracash in «Persona», il nuovo album è una bomba GQ Italia"
+        },
+        {
+          "title": "Persona, il kolossal dualistico di Marracash - Le Rane",
+          "source": "Le Rane",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Persona, il kolossal dualistico di Marracash Le Rane"
+        },
+        {
+          "title": "Marracash - S.e.n.i.c.a.r. ft. Gué Pequeno - www.rockit.it",
+          "source": "www.rockit.it",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Marracash - S.e.n.i.c.a.r. ft. Gué Pequeno www.rockit.it"
+        },
+        {
+          "title": "Marracash, “Persona”: la recensione - www.musictraks.com",
+          "source": "www.musictraks.com",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Marracash, “Persona”: la recensione www.musictraks.com"
+        },
+        {
+          "title": "Novemila biglietti in dodici ore: sold-out il concerto di Marracash al Forum, arriva il bis - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Mon, 11 Nov 2019 08:00:00 GMT",
+          "description": "Novemila biglietti in dodici ore: sold-out il concerto di Marracash al Forum, arriva il bis MilanoToday"
+        },
+        {
+          "title": "Marracash - NEMESI (feat. BLANCO) - www.rockit.it",
+          "source": "www.rockit.it",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Marracash - NEMESI (feat. BLANCO) www.rockit.it"
+        },
+        {
+          "title": "La storia e il significato dei featuring nel rap: Da Marracash a Salmo, da Sfera a Neffa - www.rockit.it",
+          "source": "www.rockit.it",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "La storia e il significato dei featuring nel rap: Da Marracash a Salmo, da Sfera a Neffa www.rockit.it"
+        }
+      ]
+    },
+    "Mario_Balotelli": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mario Balotelli Barwuah, nato Mario Barwuah e noto semplicemente come Mario Balotelli, è un calciatore ghanese naturalizzato italiano, attaccante dell'Al-Ittifaq. Con la nazionale italiana è diventato vicecampione d'Europa nel 2012.",
+      "news": [
+        {
+          "title": "Verona-Brescia: cori a Balotelli, l’arbitro ferma il gioco per 4 minuti - Corriere del Veneto",
+          "source": "Corriere del Veneto",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Verona-Brescia: cori a Balotelli, l’arbitro ferma il gioco per 4 minuti Corriere del Veneto"
+        },
+        {
+          "title": "Razzismo, reazione social di Balotelli dopo l'episodio di Verona - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Razzismo, reazione social di Balotelli dopo l'episodio di Verona Il Sole 24 ORE"
+        },
+        {
+          "title": "Perché con Balotelli non è cambiato niente - Ultimo Uomo",
+          "source": "Ultimo Uomo",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Perché con Balotelli non è cambiato niente Ultimo Uomo"
+        },
+        {
+          "title": "Razzismo, ennesimo episodio contro Balotelli. Ultrà Verona: non sarà mai italiano - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Razzismo, ennesimo episodio contro Balotelli. Ultrà Verona: non sarà mai italiano Tv2000"
+        },
+        {
+          "title": "Cori contro Balotelli, il capo ultrà del Verona: \"Lui non sarà mai del tutto italiano. Non siamo razzisti, a… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Cori contro Balotelli, il capo ultrà del Verona: \"Lui non sarà mai del tutto italiano. Non siamo razzisti, a… la Repubblica"
+        },
+        {
+          "title": "Hellas Verona, il capo ultras: \"Balotelli non potrà mai essere del tutto italiano\". Salvini: \"Un operaio Ilva vale più di dieci Mario\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 04 Nov 2019 08:00:00 GMT",
+          "description": "Hellas Verona, il capo ultras: \"Balotelli non potrà mai essere del tutto italiano\". Salvini: \"Un operaio Ilva vale più di dieci Mario\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Raffaella Fico con Balotelli: \"Mario italiano a tutti gli effetti. Facinorosi da isolare\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Raffaella Fico con Balotelli: \"Mario italiano a tutti gli effetti. Facinorosi da isolare\" Fanpage"
+        },
+        {
+          "title": "Il capo ultrà del Verona contro Balotelli: \"Non potrà mai essere del tutto italiano\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 05 Nov 2019 08:00:00 GMT",
+          "description": "Il capo ultrà del Verona contro Balotelli: \"Non potrà mai essere del tutto italiano\" RaiNews"
+        },
+        {
+          "title": "Raffaella Fico si schiera con l'ex Mario Balotelli: «È italiano a tutti gli effetti. Tornare insieme? Mai dire mai» - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Wed, 06 Nov 2019 08:00:00 GMT",
+          "description": "Raffaella Fico si schiera con l'ex Mario Balotelli: «È italiano a tutti gli effetti. Tornare insieme? Mai dire mai» Leggo.it"
+        },
+        {
+          "title": "Mario Balotelli consolato dalla sua Pia: «Papà, non ascoltarli» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Sat, 09 Nov 2019 08:00:00 GMT",
+          "description": "Mario Balotelli consolato dalla sua Pia: «Papà, non ascoltarli» Vanity Fair Italia"
+        }
+      ]
+    },
+    "Uovo_dello_zarevič": {
+      "fetched_at": "2026-11-06T16:10:09+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": []
+    }
+  }
+}

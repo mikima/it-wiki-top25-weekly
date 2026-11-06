@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Adriano%20Olivetti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Adriano_Olivetti",
       "article_url": "https://it.wikipedia.org/wiki/Adriano_Olivetti",
-      "description": "imprenditore, ingegnere e politico italiano (1901-1960)",
+      "description": "Imprenditore italiano, è protagonista della fiction Adriano Olivetti - La forza di un sogno, in onda il 19 novembre su Rai 1.",
       "image_filename": "Adriano_Olivetti_fotoritratto.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Adriano_Olivetti_fotoritratto.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Adriano_Olivetti_fotoritratto.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Concessionaria del servizio pubblico radiotelevisivo, è in classifica per la ventisettesima settimana consecutiva.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20europeo%20di%20calcio%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Campionato_europeo_di_calcio_2020",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_europeo_di_calcio_2020",
-      "description": "",
+      "description": "Il 18 novembre l'Italia batte l'Armenia 9-1 e conclude il girone di qualificazione a Euro 2020 con dieci vittorie.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, il 20 novembre festeggia 72 anni di matrimonio con Filippo. Il 17 esce su Netflix la terza stagione di The Crown.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Margaret%2C%20contessa%20di%20Snowdon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Margaret%2C_contessa_di_Snowdon",
       "article_url": "https://it.wikipedia.org/wiki/Margaret%2C_contessa_di_Snowdon",
-      "description": "principessa britannica",
+      "description": "Principessa britannica e sorella di Elisabetta II, è tra i personaggi di The Crown, la cui terza stagione esce il 17 novembre su Netflix.",
       "image_filename": "Prinses_Margaret_in_het_Amstel_Hotel_(Bestanddeelnr_917-7739).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Prinses_Margaret_in_het_Amstel_Hotel_%28Bestanddeelnr_917-7739%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prinses_Margaret_in_het_Amstel_Hotel_(Bestanddeelnr_917-7739).jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Mandalorian&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=The_Mandalorian",
       "article_url": "https://it.wikipedia.org/wiki/The_Mandalorian",
-      "description": "serie televisiva statunitense dell'universo di Guerre Stellari del 2020",
+      "description": "Serie ambientata nell'universo di Guerre stellari, debutta il 12 novembre su Disney+ negli Stati Uniti; il terzo episodio esce il 22 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Qualificazioni%20al%20campionato%20europeo%20di%20calcio%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Qualificazioni_al_campionato_europeo_di_calcio_2020",
       "article_url": "https://it.wikipedia.org/wiki/Qualificazioni_al_campionato_europeo_di_calcio_2020",
-      "description": "",
+      "description": "Il 18 novembre l'Italia batte l'Armenia 9-1, chiudendo il girone di qualificazione a Euro 2020 con dieci vittorie su dieci.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Freddie%20Mercury&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Freddie_Mercury",
       "article_url": "https://it.wikipedia.org/wiki/Freddie_Mercury",
-      "description": "cantautore e compositore britannico (1946-1991)",
+      "description": "Cantante dei Queen, il 24 novembre ricorre il 28° anniversario della sua morte.",
       "image_filename": "Freddie_Mercury_a_Sanremo_1984_(colori).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/9/9b/Freddie_Mercury_a_Sanremo_1984_%28colori%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_a_Sanremo_1984_(colori).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=MOSE&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=MOSE",
       "article_url": "https://it.wikipedia.org/wiki/MOSE",
-      "description": "sistema di barriere elettromeccaniche per difendere Venezia dal fenomeno dell'acqua alta",
+      "description": "Sistema di dighe mobili per proteggere Venezia, è ancora incompleto durante l'eccezionale acqua alta del 12 novembre.",
       "image_filename": "05_bocca_di_lido.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/05_bocca_di_lido.jpg/1024px-05_bocca_di_lido.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:05_bocca_di_lido.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Nazionale%20di%20calcio%20dell%27Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Nazionale_di_calcio_dell%27Italia",
       "article_url": "https://it.wikipedia.org/wiki/Nazionale_di_calcio_dell%27Italia",
-      "description": "",
+      "description": "Il 18 novembre batte l'Armenia 9-1 a Palermo e chiude il girone di qualificazione a Euro 2020 con dieci vittorie.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Affare%20Dreyfus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Affare_Dreyfus",
       "article_url": "https://it.wikipedia.org/wiki/Affare_Dreyfus",
-      "description": "caso politico in Francia (1894-1906)",
+      "description": "Caso politico francese legato alla condanna di un ufficiale innocente, è raccontato nel film L'ufficiale e la spia, uscito il 21 novembre.",
       "image_filename": "Degradation_alfred_dreyfus.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Degradation_alfred_dreyfus.jpg/1280px-Degradation_alfred_dreyfus.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Degradation_alfred_dreyfus.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Heather%20Parisi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Heather_Parisi",
       "article_url": "https://it.wikipedia.org/wiki/Heather_Parisi",
-      "description": "ballerina, cantante, attrice teatrale e showgirl statunitense naturalizzata italiana (1960-)",
+      "description": "Ballerina e showgirl, il 19 novembre racconta di aver subito violenze da un ex compagno per sette anni.",
       "image_filename": "Heather_Parisi_-_Fantastico_(1979).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/6/67/Heather_Parisi_-_Fantastico_%281979%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Heather_Parisi_-_Fantastico_(1979).jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorgia%20Meloni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Giorgia_Meloni",
       "article_url": "https://it.wikipedia.org/wiki/Giorgia_Meloni",
-      "description": "politica italiana, Presidente del Consiglio dei ministri della Repubblica Italiana",
+      "description": "Leader di Fratelli d'Italia, è in classifica per la terza settimana consecutiva dopo la diffusione virale del remix Io sono Giorgia il 6 novembre.",
       "image_filename": "Giorgia_Meloni_Official_2024_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
       "image_license": "CC BY 3.0 it",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Filippo%20di%20Edimburgo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Filippo_di_Edimburgo",
       "article_url": "https://it.wikipedia.org/wiki/Filippo_di_Edimburgo",
-      "description": "membro della famiglia reale britannica, marito di Elisabetta II, duca di Edimburgo (1921-2021)",
+      "description": "Marito della regina Elisabetta II, il 20 novembre festeggia con lei 72 anni di matrimonio; è anche tra i personaggi della serie The Crown.",
       "image_filename": "Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Duke_of_Edinburgh_33_Allan_Warren.jpg/1280px-Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Crown%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=The_Crown_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Crown_(serie_televisiva)",
-      "description": "serie televisiva anglo-statunitense (2016-2023)",
+      "description": "Il 17 novembre esce su Netflix la terza stagione della serie sulla regina Elisabetta II e la famiglia reale britannica.",
       "image_filename": "The_Crown_Logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/ff/The_Crown_Logo.png/1280px-The_Crown_Logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Crown_Logo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20Volo%20%28gruppo%20musicale%20anni%202010%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Il_Volo_(gruppo_musicale_anni_2010)",
       "article_url": "https://it.wikipedia.org/wiki/Il_Volo_(gruppo_musicale_anni_2010)",
-      "description": "",
+      "description": "Trio musicale italiano, il 19 novembre celebra i dieci anni di attività con il concerto Il Volo - 10 anni insieme, su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Pirati%20dei%20Caraibi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Pirati_dei_Caraibi",
       "article_url": "https://it.wikipedia.org/wiki/Pirati_dei_Caraibi",
-      "description": "serie di film",
+      "description": "Serie di film Disney con Johnny Depp, il 18 novembre va in onda su Italia 1 La maledizione del forziere fantasma.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Maude%20Bonney&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Maude_Bonney",
       "article_url": "https://it.wikipedia.org/wiki/Maude_Bonney",
-      "description": "aviatrice australiana (1897-1994)",
+      "description": "Aviatrice australiana, il 20 novembre Google le dedica un Doodle per il 122° anniversario della nascita.",
       "image_filename": "Maude_'Lores'_Bonney.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Maude_%27Lores%27_Bonney.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maude_%27Lores%27_Bonney.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo; la pagina è in classifica per la nona settimana consecutiva.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Chico%20Forti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Chico_Forti",
       "article_url": "https://it.wikipedia.org/wiki/Chico_Forti",
-      "description": "assassino, velista e produttore televisivo italiano (1959-)",
+      "description": "Ex velista e produttore televisivo italiano, condannato all'ergastolo negli Stati Uniti, è al centro di un servizio de Le Iene il 19 novembre.",
       "image_filename": "Enrico_Forti.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Enrico_Forti.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Enrico_Forti.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Ezio%20Greggio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Ezio_Greggio",
       "article_url": "https://it.wikipedia.org/wiki/Ezio_Greggio",
-      "description": "conduttore televisivo, comico, cabarettista, regista e attore italiano (1954-)",
+      "description": "Conduttore televisivo e comico, il 19 novembre rifiuta la cittadinanza onoraria di Biella dopo il mancato conferimento a Liliana Segre.",
       "image_filename": "Ezio_Greggio_cropped.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ezio_Greggio_cropped.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ezio_Greggio_cropped.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20collegio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Il_collegio",
       "article_url": "https://it.wikipedia.org/wiki/Il_collegio",
-      "description": "programma televisivo italiano",
+      "description": "Il 19 novembre va in onda su Rai 2 la quinta puntata della quarta edizione del programma.",
       "image_filename": "Il_Collegio.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Il_Collegio.png/1280px-Il_Collegio.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Collegio.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20Trenta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Elisabetta_Trenta",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_Trenta",
-      "description": "politica italiana",
+      "description": "Ex ministra della Difesa, il 19 novembre annuncia che lascerà l'alloggio di servizio assegnato al marito dopo le polemiche.",
       "image_filename": "Ministro_Elisabetta_Trenta_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ministro_Elisabetta_Trenta_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ministro_Elisabetta_Trenta_(cropped).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Le%20Mans%20%2766%20-%20La%20grande%20sfida&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Le_Mans_%2766_-_La_grande_sfida",
       "article_url": "https://it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida",
-      "description": "film del 2019 diretto da James Mangold",
+      "description": "Film diretto da James Mangold con Matt Damon e Christian Bale, è nelle sale italiane dal 14 novembre.",
       "image_filename": "Le_Mans_'66_-_La_grande_sfida.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/7/78/Le_Mans_%2766_-_La_grande_sfida.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Le_Mans_%2766_-_La_grande_sfida.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Morte%20di%20Stefano%20Cucchi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/18/2019,cd_max:11/24/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-11-18&end=2019-11-24&pages=Morte_di_Stefano_Cucchi",
       "article_url": "https://it.wikipedia.org/wiki/Morte_di_Stefano_Cucchi",
-      "description": "",
+      "description": "Il 14 novembre due carabinieri vengono condannati a 12 anni per omicidio preterintenzionale nel processo sulla morte di Cucchi, avvenuta nel 2009.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }
