@@ -1,0 +1,763 @@
+{
+  "week": "2016-04",
+  "start_date": "2016-01-25",
+  "end_date": "2016-01-31",
+  "articles": {
+    "Cinquanta_sfumature_di_rosso": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cinquanta sfumature di rosso è un romanzo erotico scritto nel 2012 dalla scrittrice inglese E. L. James. Si tratta dell'ultimo di una trilogia di romanzi.",
+      "news": [
+        {
+          "title": "Cinquanta Sfumature di Nero: Kim Basinger sarà Elena Lincoln - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Cinquanta Sfumature di Nero: Kim Basinger sarà Elena Lincoln Everyeye Cinema"
+        },
+        {
+          "title": "Kim Basinger sarà l ex amante di Christian Grey in Cinquanta sfumature di Nero - Film.it",
+          "source": "Film.it",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Kim Basinger sarà l ex amante di Christian Grey in Cinquanta sfumature di Nero Film.it"
+        },
+        {
+          "title": "50 Sfumature di Grigio: tutto quello che sappiamo sui sequel - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "50 Sfumature di Grigio: tutto quello che sappiamo sui sequel BadTaste"
+        },
+        {
+          "title": "Kim Basinger in 50 sfumature di nero - ELLE",
+          "source": "ELLE",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Kim Basinger in 50 sfumature di nero ELLE"
+        },
+        {
+          "title": "\"50 sfumature di grigio\" in prima serata: bufera su Mediaset - Today",
+          "source": "Today",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "\"50 sfumature di grigio\" in prima serata: bufera su Mediaset Today"
+        },
+        {
+          "title": "'50 sfumature di grigio' in prima serata su Canale 5 perde gara ascolti tv - ANSA",
+          "source": "ANSA",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "'50 sfumature di grigio' in prima serata su Canale 5 perde gara ascolti tv ANSA"
+        },
+        {
+          "title": "Cinquanta sfumature di grigio in prima serata su Canale5. Il Moige chiede alle aziende di ritirare gli spot - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Cinquanta sfumature di grigio in prima serata su Canale5. Il Moige chiede alle aziende di ritirare gli spot Il Fatto Quotidiano"
+        },
+        {
+          "title": "I look glam-chic di Dakota Johnson - Grazia",
+          "source": "Grazia",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "I look glam-chic di Dakota Johnson Grazia"
+        },
+        {
+          "title": "Kim Basinger sarà Mrs. Robinson, dominatrice di Christian Grey in ’50 sfumature di Nero’ - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Kim Basinger sarà Mrs. Robinson, dominatrice di Christian Grey in ’50 sfumature di Nero’ Fanpage"
+        },
+        {
+          "title": "Dakota Johnson FOTO com’era e com’è: vita privata e curiosità - LadyBlitz",
+          "source": "LadyBlitz",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Dakota Johnson FOTO com’era e com’è: vita privata e curiosità LadyBlitz"
+        }
+      ]
+    },
+    "Luisa_Spagnoli": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Luisa Spagnoli, nata Sargentini, è stata un'imprenditrice italiana, nota soprattutto per l'ideazione del Bacio Perugina e per la catena di negozi d'abbigliamento che porta il suo nome.",
+      "news": [
+        {
+          "title": "Luisa Spagnoli - EP 01 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Luisa Spagnoli - EP 01 - Video RaiPlay"
+        },
+        {
+          "title": "Luisa Ranieri nei panni di Luisa Spagnoli - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Sat, 30 Jan 2016 08:00:00 GMT",
+          "description": "Luisa Ranieri nei panni di Luisa Spagnoli iO Donna"
+        },
+        {
+          "title": "Luisa Spagnoli: 5 cose da sapere sulla fiction di Rai Uno - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Luisa Spagnoli: 5 cose da sapere sulla fiction di Rai Uno www.panorama.it"
+        },
+        {
+          "title": "Luisa Spagnoli in una fiction su Rai Uno che racconta la sua storia - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Luisa Spagnoli in una fiction su Rai Uno che racconta la sua storia ELLE"
+        },
+        {
+          "title": "Luisa Ranieri: \"Luisa Spagnoli donna forte e vera\" - Famiglia Cristiana",
+          "source": "Famiglia Cristiana",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Luisa Ranieri: \"Luisa Spagnoli donna forte e vera\" Famiglia Cristiana"
+        },
+        {
+          "title": "Stasera fiction su Luisa Spagnoli (la donna che creò il Bacio perugina) - Sito della Rivista Millionaire",
+          "source": "Sito della Rivista Millionaire",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Stasera fiction su Luisa Spagnoli (la donna che creò il Bacio perugina) Sito della Rivista Millionaire"
+        },
+        {
+          "title": "Luisa Ranieri è Luisa Spagnoli, la donna che inventò i Baci - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Luisa Ranieri è Luisa Spagnoli, la donna che inventò i Baci RaiNews"
+        },
+        {
+          "title": "Ranieri è Luisa Spagnoli, dalla cioccolata alla moda dettò regole donna moderna - ANSA",
+          "source": "ANSA",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Ranieri è Luisa Spagnoli, dalla cioccolata alla moda dettò regole donna moderna ANSA"
+        },
+        {
+          "title": "Luisa Spagnoli, tra amori e Baci Perugina. Videointerviste a Luisa Ranieri e Vinicio Marchioni - SpettacoloMania.it -",
+          "source": "SpettacoloMania.it -",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Luisa Spagnoli, tra amori e Baci Perugina. Videointerviste a Luisa Ranieri e Vinicio Marchioni SpettacoloMania.it -"
+        },
+        {
+          "title": "Luisa Ranieri: «Spagnoli, donna forte e visionaria» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Luisa Ranieri: «Spagnoli, donna forte e visionaria» Corriere della Sera"
+        }
+      ]
+    },
+    "Leonardo_DiCaprio": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Leonardo Wilhelm DiCaprio è un attore, produttore cinematografico e ambientalista statunitense.",
+      "news": [
+        {
+          "title": "Oscar 2016: Leonardo DiCaprio in 14 film da rivedere - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Oscar 2016: Leonardo DiCaprio in 14 film da rivedere ELLE"
+        },
+        {
+          "title": "Leonardo DiCaprio ricevuto in udienza da Papa Francesco in Vaticano (FOTO) - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Leonardo DiCaprio ricevuto in udienza da Papa Francesco in Vaticano (FOTO) Il Fatto Quotidiano"
+        },
+        {
+          "title": "Papa Francesco riceve in Vaticano Leonardo DiCaprio e parla di clima - ANSA",
+          "source": "ANSA",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Papa Francesco riceve in Vaticano Leonardo DiCaprio e parla di clima ANSA"
+        },
+        {
+          "title": "Dal cinema alla passerella. Vestire come DiCaprio e i cowboy di Tarantino - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Dal cinema alla passerella. Vestire come DiCaprio e i cowboy di Tarantino GQ Italia"
+        },
+        {
+          "title": "Leonardo Di Caprio e Rihanna: il bacio della verità - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Leonardo Di Caprio e Rihanna: il bacio della verità www.panorama.it"
+        },
+        {
+          "title": "DiCaprio ricevuto dal Papa parla in italiano: «Grazie per l’udienza» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "DiCaprio ricevuto dal Papa parla in italiano: «Grazie per l’udienza» Corriere della Sera"
+        },
+        {
+          "title": "Leonardo DiCaprio incontra Papa Francesco: le foto - Giornale di Sicilia",
+          "source": "Giornale di Sicilia",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Leonardo DiCaprio incontra Papa Francesco: le foto Giornale di Sicilia"
+        },
+        {
+          "title": "Leonardo DiCaprio sarà Lenin sul grande schermo? La somiglianza è notevole - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Leonardo DiCaprio sarà Lenin sul grande schermo? La somiglianza è notevole Radio Deejay"
+        },
+        {
+          "title": "Papa Francesco riceve Leonardo DiCaprio - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Papa Francesco riceve Leonardo DiCaprio La Stampa"
+        },
+        {
+          "title": "Papa Francesco riceve Leonardo DiCaprio e parla di clima - ANSA",
+          "source": "ANSA",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Papa Francesco riceve Leonardo DiCaprio e parla di clima ANSA"
+        }
+      ]
+    },
+    "Il_paradiso_delle_signore": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il paradiso delle signore è una serie televisiva italiana, trasmessa su Rai 1 dall'8 dicembre 2015.",
+      "news": [
+        {
+          "title": "Il Paradiso delle Signore, Pietro è sposato. Un finale aperto in attesa della seconda stagione - www.si24.it",
+          "source": "www.si24.it",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "Il Paradiso delle Signore, Pietro è sposato. Un finale aperto in attesa della seconda stagione www.si24.it"
+        },
+        {
+          "title": "Il Paradiso delle Signore, la trama delle ultime due puntate - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Il Paradiso delle Signore, la trama delle ultime due puntate TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Zeno, il volto nuovo della serie tv che punta sui giovani attori - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Zeno, il volto nuovo della serie tv che punta sui giovani attori Corriere della Sera"
+        },
+        {
+          "title": "Il Paradiso delle Signore, penultima puntata. Vittorio finalmente capisce: Teresa e Pietro si amano - www.si24.it",
+          "source": "www.si24.it",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Il Paradiso delle Signore, penultima puntata. Vittorio finalmente capisce: Teresa e Pietro si amano www.si24.it"
+        },
+        {
+          "title": "Vittorio Conti: Il Paradiso delle Signore aspetta il suo ritorno - Magazine Delle Donne",
+          "source": "Magazine Delle Donne",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "Vittorio Conti: Il Paradiso delle Signore aspetta il suo ritorno Magazine Delle Donne"
+        },
+        {
+          "title": "Giuseppe Zeno, è lui Il Paradiso delle Signore - La Gazzetta dello Spettacolo",
+          "source": "La Gazzetta dello Spettacolo",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Giuseppe Zeno, è lui Il Paradiso delle Signore La Gazzetta dello Spettacolo"
+        },
+        {
+          "title": "Giuseppe Zeno, da Il Paradiso delle Signore alla fiction spagnola - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Giuseppe Zeno, da Il Paradiso delle Signore alla fiction spagnola Marida Caterini"
+        }
+      ]
+    },
+    "Stella_Musy": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Maria Stella Musy è una doppiatrice e direttrice del doppiaggio italiana.",
+      "news": []
+    },
+    "Paulo_Dybala": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Paulo Exequiel Dybala è un calciatore argentino con cittadinanza italiana, attaccante della Roma. Con la nazionale argentina è diventato campione del mondo nel 2022.",
+      "news": [
+        {
+          "title": "Juventus, alfabeto Dybala: da Del Piero a Messi passando per Sivori. Ecco il Fenomeno Juve - Corriere dello Sport",
+          "source": "Corriere dello Sport",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Juventus, alfabeto Dybala: da Del Piero a Messi passando per Sivori. Ecco il Fenomeno Juve Corriere dello Sport"
+        },
+        {
+          "title": "Cosa diavolo è la “dab dance” - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Cosa diavolo è la “dab dance” Il Post"
+        },
+        {
+          "title": "Juve: Dybala, è la fidanzata Antonella Cavalieri il segreto del suo successo - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Juve: Dybala, è la fidanzata Antonella Cavalieri il segreto del suo successo La Gazzetta dello Sport"
+        },
+        {
+          "title": "Gossip, il segreto del successo di Dybala? La bellissima fidanzata Antonella Cavalieri /FOTO - www.si24.it",
+          "source": "www.si24.it",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "Gossip, il segreto del successo di Dybala? La bellissima fidanzata Antonella Cavalieri /FOTO www.si24.it"
+        },
+        {
+          "title": "Juve-Napoli, storia di grandi sfide: da Maradona-Platini a Higuain-Dybala - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Juve-Napoli, storia di grandi sfide: da Maradona-Platini a Higuain-Dybala Tgcom24"
+        },
+        {
+          "title": "Juve 12 meraviglie: da Conte ad Allegri, la rivoluzione bianconera - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Juve 12 meraviglie: da Conte ad Allegri, la rivoluzione bianconera Sky Sport"
+        },
+        {
+          "title": "Juventus, doppio Dybala a Vinovo. Ecco il cugino Lautaro - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Juventus, doppio Dybala a Vinovo. Ecco il cugino Lautaro Tuttosport"
+        },
+        {
+          "title": "Juventus, Pogba e gli altri: è ?dab mania? e impazza anche sul web - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Juventus, Pogba e gli altri: è ?dab mania? e impazza anche sul web La Gazzetta dello Sport"
+        },
+        {
+          "title": "Paulo Dybala tra gloria e nostalgia: \"mi manca mio padre ma sono felice di aver realizzato il suo sogno\" - www.sportfair.it",
+          "source": "www.sportfair.it",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "Paulo Dybala tra gloria e nostalgia: \"mi manca mio padre ma sono felice di aver realizzato il suo sogno\" www.sportfair.it"
+        },
+        {
+          "title": "Paulo Dybala, la fidanzata del gioiello della Juve è Antonella Cavalieri - Gossip.it",
+          "source": "Gossip.it",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Paulo Dybala, la fidanzata del gioiello della Juve è Antonella Cavalieri Gossip.it"
+        }
+      ]
+    },
+    "X-Files": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "X-Files è una serie televisiva statunitense ideata da Chris Carter e trasmessa dalla Fox dal 10 settembre 1993 al 19 maggio 2002 e successivamente dal 24 gennaio 2016 al 21 marzo 2018. La serie vede protagonisti due agenti dell'FBI, interpretati da David Duchovny e Gillian Anderson, che indagano su casi di natura paranormale. Gli episodi richiamano varie tematiche del cinema dell'orrore e della fantascienza, tra i quali creature leggendarie, teorie del complotto, mutazioni genetiche, percezioni extrasensoriali, psicocinesi, intelligenza artificiale, UFO e alieni. Il termine X-Files è riferito all'archiviazione sui computer dei casi attinenti al paranormale che avveniva sotto la lettera X, quella riferita all'incognita. Molti degli episodi sono autoconclusivi, presentando la formula del \"mostro della settimana\", ma alcuni presentano in tutto o in parte temi ricorrenti, sviluppi narrativi nel loro insieme noti come la \"mitologia\" della serie.",
+      "news": [
+        {
+          "title": "X-Files: cosa ha significato per noi la serie di Chris Carter? - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "X-Files: cosa ha significato per noi la serie di Chris Carter? Movieplayer"
+        },
+        {
+          "title": "X-Files: gli episodi imperdibili della 9° stagione - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "X-Files: gli episodi imperdibili della 9° stagione BadTaste"
+        },
+        {
+          "title": "X-Files: dove eravamo rimasti - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "X-Files: dove eravamo rimasti IGN Italia"
+        },
+        {
+          "title": "Cosa nasconde la paranoia di X-Files - VICE",
+          "source": "VICE",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Cosa nasconde la paranoia di X-Files VICE"
+        },
+        {
+          "title": "The X-Files: il ritorno degli anni Novanta. Nel bene, nel male, e nella nostalgia. :-) - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "The X-Files: il ritorno degli anni Novanta. Nel bene, nel male, e nella nostalgia. :-) Serial Minds"
+        },
+        {
+          "title": "X-Files 2016 – Episodio Pilota - Stay Nerd",
+          "source": "Stay Nerd",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "X-Files 2016 – Episodio Pilota Stay Nerd"
+        },
+        {
+          "title": "Su Fox al via questa sera la nuova serie di X Files con due episodi - Brand News",
+          "source": "Brand News",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "Su Fox al via questa sera la nuova serie di X Files con due episodi Brand News"
+        },
+        {
+          "title": "Il ritorno di X-Files e l'universo complottista che ha contribuito a creare - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Il ritorno di X-Files e l'universo complottista che ha contribuito a creare Il Foglio"
+        },
+        {
+          "title": "X Files: il ritorno di Mulder e Scully (e degli alieni) - ELLE",
+          "source": "ELLE",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "X Files: il ritorno di Mulder e Scully (e degli alieni) ELLE"
+        },
+        {
+          "title": "Usa: Cia pubblica suoi 'X-Files', si ispira a serie Tv - ANSA",
+          "source": "ANSA",
+          "pubDate": "Sun, 31 Jan 2016 08:00:00 GMT",
+          "description": "Usa: Cia pubblica suoi 'X-Files', si ispira a serie Tv ANSA"
+        }
+      ]
+    },
+    "Jamie_Dornan": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "James Peter Maxwell Dornan, detto Jamie, è un attore, supermodello e musicista nordirlandese.",
+      "news": [
+        {
+          "title": "\"50 sfumature di grigio\" in prima serata: bufera su Mediaset - Today",
+          "source": "Today",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "\"50 sfumature di grigio\" in prima serata: bufera su Mediaset Today"
+        },
+        {
+          "title": "50 Sfumature di Nero: Scelta l’attrice che interpreterà ‘Mrs Robinson’ - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Sat, 30 Jan 2016 08:00:00 GMT",
+          "description": "50 Sfumature di Nero: Scelta l’attrice che interpreterà ‘Mrs Robinson’ Telefilm Central"
+        },
+        {
+          "title": "Cinquanta Sfumature di Nero: Kim Basinger sarà Elena Lincoln - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Cinquanta Sfumature di Nero: Kim Basinger sarà Elena Lincoln Everyeye Cinema"
+        },
+        {
+          "title": "Kim Basinger sarà l ex amante di Christian Grey in Cinquanta sfumature di Nero - Film.it",
+          "source": "Film.it",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Kim Basinger sarà l ex amante di Christian Grey in Cinquanta sfumature di Nero Film.it"
+        },
+        {
+          "title": "KIM BASINGER SARÀ LA SENSUALE MRS. ROBINSON IN \"CINQUANTA SFUMATURE DI NERO\" - Ciak Magazine",
+          "source": "Ciak Magazine",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "KIM BASINGER SARÀ LA SENSUALE MRS. ROBINSON IN \"CINQUANTA SFUMATURE DI NERO\" Ciak Magazine"
+        },
+        {
+          "title": "Kim Basinger in 50 sfumature di nero - ELLE",
+          "source": "ELLE",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Kim Basinger in 50 sfumature di nero ELLE"
+        },
+        {
+          "title": "50 Sfumature di Grigio: chi è Jamie Dornan, l’attore che fa Mr.Grey? - Blog di Cultura",
+          "source": "Blog di Cultura",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "50 Sfumature di Grigio: chi è Jamie Dornan, l’attore che fa Mr.Grey? Blog di Cultura"
+        },
+        {
+          "title": "5 cose di Jamie Dornan che ti faranno sembrare meno sexy Christian Grey - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "5 cose di Jamie Dornan che ti faranno sembrare meno sexy Christian Grey Fanpage"
+        },
+        {
+          "title": "Jamie Dornan: tutto sulla storia d’amore con la moglie Amelia - Gossip e TV",
+          "source": "Gossip e TV",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Jamie Dornan: tutto sulla storia d’amore con la moglie Amelia Gossip e TV"
+        },
+        {
+          "title": "Kim Basinger sarà Mrs. Robinson, dominatrice di Christian Grey in ’50 sfumature di Nero’ - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Kim Basinger sarà Mrs. Robinson, dominatrice di Christian Grey in ’50 sfumature di Nero’ Fanpage"
+        }
+      ]
+    },
+    "Joy_(film)": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Joy - Onda Cinema",
+          "source": "Onda Cinema",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Joy Onda Cinema"
+        },
+        {
+          "title": "Chi è Joy Mangano, a cui è ispirato il film “Joy” - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sat, 30 Jan 2016 08:00:00 GMT",
+          "description": "Chi è Joy Mangano, a cui è ispirato il film “Joy” Il Post"
+        },
+        {
+          "title": "Joy (2015) di David O. Russell - Recensione - Quinlan.it",
+          "source": "Quinlan.it",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Joy (2015) di David O. Russell - Recensione Quinlan.it"
+        },
+        {
+          "title": "Joy: Jennifer Lawrence e la scopa miracolosa nel nuovo film di David O. Russell - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Joy: Jennifer Lawrence e la scopa miracolosa nel nuovo film di David O. Russell Movieplayer"
+        },
+        {
+          "title": "Joy, di David O. Russell - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "Joy, di David O. Russell Sentieri selvaggi"
+        },
+        {
+          "title": "La recensione di Joy - Cineforum",
+          "source": "Cineforum",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "La recensione di Joy Cineforum"
+        },
+        {
+          "title": "Joy - La nostra recensione - Film.it",
+          "source": "Film.it",
+          "pubDate": "Sun, 31 Jan 2016 08:00:00 GMT",
+          "description": "Joy - La nostra recensione Film.it"
+        },
+        {
+          "title": "Joy, Jennifer Lawrence 'self made woman' in un mondo di squali maschi: nel film di David O.Russell va in scena il sogno americano - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Joy, Jennifer Lawrence 'self made woman' in un mondo di squali maschi: nel film di David O.Russell va in scena il sogno americano Il Fatto Quotidiano"
+        },
+        {
+          "title": "Joy: la recensione - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Joy: la recensione IGN Italia"
+        },
+        {
+          "title": "Joy, la recensione del film di David O. Russell con Jennifer Lawrence e un mocio magico - Mauxa.com",
+          "source": "Mauxa.com",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Joy, la recensione del film di David O. Russell con Jennifer Lawrence e un mocio magico Mauxa.com"
+        }
+      ]
+    },
+    "Giorni_della_merla": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I giorni della merla sono gli ultimi tre giorni di gennaio e secondo la tradizione sarebbero i tre giorni più freddi dell'anno nell'emisfero boreale.",
+      "news": [
+        {
+          "title": "Rinascere alle terme: i migliori indirizzi a un’ora da Brescia - Corriere Brescia",
+          "source": "Corriere Brescia",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Rinascere alle terme: i migliori indirizzi a un’ora da Brescia Corriere Brescia"
+        },
+        {
+          "title": "Ardesio caccia via l’inverno con la «Scasada del Zenerù» - L'Eco di Bergamo",
+          "source": "L'Eco di Bergamo",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Ardesio caccia via l’inverno con la «Scasada del Zenerù» L'Eco di Bergamo"
+        },
+        {
+          "title": "Croce rossa: stasera la cena solidale per i senzatetto a Pescara - La Porzione",
+          "source": "La Porzione",
+          "pubDate": "Sat, 30 Jan 2016 08:00:00 GMT",
+          "description": "Croce rossa: stasera la cena solidale per i senzatetto a Pescara La Porzione"
+        }
+      ]
+    },
+    "Fisting": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il fisting, è una pratica sessuale umana estrema che consiste nell'introduzione dell'intera mano e, in alcuni casi, anche di due mani contemporaneamente all'interno della vagina o del retto.",
+      "news": []
+    },
+    "Premi_Oscar_2016": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'88ª edizione della cerimonia dei Premi Oscar si è tenuta al Dolby Theatre di Los Angeles il 28 febbraio 2016.",
+      "news": [
+        {
+          "title": "I poster “onesti” dei film candidati agli Oscar 2016 - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "I poster “onesti” dei film candidati agli Oscar 2016 Il Post"
+        },
+        {
+          "title": "Leonardo Di Caprio trionfa ai Sag Awards, premi di Hollywood agli attori che invertono la rotta sull’esclusione dei neri. Ora l’Oscar è più vicino? - Artribune",
+          "source": "Artribune",
+          "pubDate": "Sun, 31 Jan 2016 08:00:00 GMT",
+          "description": "Leonardo Di Caprio trionfa ai Sag Awards, premi di Hollywood agli attori che invertono la rotta sull’esclusione dei neri. Ora l’Oscar è più vicino? Artribune"
+        },
+        {
+          "title": "\"Rosa Excelsa\": tre premi oscar per uno spot siciliano - Balarm.it",
+          "source": "Balarm.it",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "\"Rosa Excelsa\": tre premi oscar per uno spot siciliano Balarm.it"
+        },
+        {
+          "title": "Oscar 2016: Leonardo DiCaprio in 14 film da rivedere - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Oscar 2016: Leonardo DiCaprio in 14 film da rivedere ELLE"
+        },
+        {
+          "title": "Loren, Tornatore, Morricone. Tre Oscar per uno spot - Agenzia Dire",
+          "source": "Agenzia Dire",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Loren, Tornatore, Morricone. Tre Oscar per uno spot Agenzia Dire"
+        },
+        {
+          "title": "Papa Francesco riceve in Vaticano Leonardo DiCaprio e parla di clima - ANSA",
+          "source": "ANSA",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Papa Francesco riceve in Vaticano Leonardo DiCaprio e parla di clima ANSA"
+        },
+        {
+          "title": "«Il silenzio degli innocenti» ha 25 anni. E Hannibal Lecter fa ancora paura - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 30 Jan 2016 08:00:00 GMT",
+          "description": "«Il silenzio degli innocenti» ha 25 anni. E Hannibal Lecter fa ancora paura Corriere della Sera"
+        },
+        {
+          "title": "The Revenant: cosa si è disposti a fare per un Oscar 26/01/2016 - L'eco del sud",
+          "source": "L'eco del sud",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "The Revenant: cosa si è disposti a fare per un Oscar 26/01/2016 L'eco del sud"
+        },
+        {
+          "title": "“Vestido de novia”, la miglior pellicola latina dell’anno a New York - Granma",
+          "source": "Granma",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "“Vestido de novia”, la miglior pellicola latina dell’anno a New York Granma"
+        }
+      ]
+    },
+    "Virus_Zika": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il virus Zika (ZIKV) è un virus a RNA della famiglia Flaviviridae, isolato per la prima volta nel 1947 da un primate nella Foresta Zika, una riserva naturale vicino a Entebbe in Uganda. Negli esseri umani provoca una malattia nota come \"febbre Zika\". Il virus è strettamente correlato a quelli che provocano la dengue, la febbre gialla, l'encefalite del Nilo occidentale e l'encefalite giapponese, tutti trasmessi soprattutto da punture d'insetto e pertanto definiti arbovirus.",
+      "news": [
+        {
+          "title": "Quel virus Zika che si può “dribblare” - IAPB Italia ETS",
+          "source": "IAPB Italia ETS",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Quel virus Zika che si può “dribblare” IAPB Italia ETS"
+        },
+        {
+          "title": "OMS, il virus Zika si diffonde in maniera esplosiva. Allarme per le complicazioni dell'infezione - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Tue, 26 Jan 2016 08:00:00 GMT",
+          "description": "OMS, il virus Zika si diffonde in maniera esplosiva. Allarme per le complicazioni dell'infezione Euronews.com"
+        },
+        {
+          "title": "Zika, quali sono i rischi in Europa e come riconoscere i sintomi - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Zika, quali sono i rischi in Europa e come riconoscere i sintomi Corriere della Sera"
+        },
+        {
+          "title": "In America Latina le donne colpite dallo zika non possono abortire - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Sun, 31 Jan 2016 08:00:00 GMT",
+          "description": "In America Latina le donne colpite dallo zika non possono abortire Internazionale"
+        },
+        {
+          "title": "Virus Zika, paura per le Olimpiadi a Rio de Janeiro: \"Una minaccia\" - Today",
+          "source": "Today",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Virus Zika, paura per le Olimpiadi a Rio de Janeiro: \"Una minaccia\" Today"
+        },
+        {
+          "title": "Dovremmo sterminare tutte le zanzare? - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Dovremmo sterminare tutte le zanzare? Il Post"
+        },
+        {
+          "title": "Il virus Zika e i pericoli in Italia - nextQuotidiano",
+          "source": "nextQuotidiano",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Il virus Zika e i pericoli in Italia nextQuotidiano"
+        },
+        {
+          "title": "Cosa sappiamo del virus Zika - nextQuotidiano",
+          "source": "nextQuotidiano",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Cosa sappiamo del virus Zika nextQuotidiano"
+        },
+        {
+          "title": "Fidel Castro ha ricevuto l’ex presidente Mujica - Granma",
+          "source": "Granma",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Fidel Castro ha ricevuto l’ex presidente Mujica Granma"
+        },
+        {
+          "title": "Le prime pagine di venerdì 29 gennaio 2016 - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Le prime pagine di venerdì 29 gennaio 2016 Il Post"
+        }
+      ]
+    },
+    "Quentin_Tarantino": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Quentin Jerome Tarantino è un regista, sceneggiatore, attore, produttore cinematografico e scrittore statunitense.",
+      "news": [
+        {
+          "title": "The Hateful Eight: Quentin Tarantino tra giallo, Sartre, western e cliché [recensione] - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "The Hateful Eight: Quentin Tarantino tra giallo, Sartre, western e cliché [recensione] Anonima Cinefili"
+        },
+        {
+          "title": "Quentin Tarantino, 10 connessioni nascoste nei suoi film - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "Quentin Tarantino, 10 connessioni nascoste nei suoi film TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "\"Per Fellini avrei fatto l'attore\". Quentin Tarantino nel magico Teatro 5 di Cinecittà - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "\"Per Fellini avrei fatto l'attore\". Quentin Tarantino nel magico Teatro 5 di Cinecittà RaiNews"
+        },
+        {
+          "title": "Quentin Tarantino e tutte le \"sue\" donne. Nella vita e sul set - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Wed, 27 Jan 2016 08:00:00 GMT",
+          "description": "Quentin Tarantino e tutte le \"sue\" donne. Nella vita e sul set iO Donna"
+        },
+        {
+          "title": "Verissimo: Gloria Guida intervista Quentin Tarantino Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 30 Jan 2016 08:00:00 GMT",
+          "description": "Verissimo: Gloria Guida intervista Quentin Tarantino Video Mediaset Infinity"
+        },
+        {
+          "title": "The Hateful Eight, l’ottavo film di Quentin Tarantino. An honour beyond words - ArtsLife",
+          "source": "ArtsLife",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "The Hateful Eight, l’ottavo film di Quentin Tarantino. An honour beyond words ArtsLife"
+        },
+        {
+          "title": "The Hateful Eight, arriva in sala l'ottavo film di Quentin Tarantino: \"Le Iene formato western, con un chiaro influsso de La cosa di Carpenter\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 28 Jan 2016 08:00:00 GMT",
+          "description": "The Hateful Eight, arriva in sala l'ottavo film di Quentin Tarantino: \"Le Iene formato western, con un chiaro influsso de La cosa di Carpenter\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Quentin Tarantino presenta The Hateful Eight: “Le mie Iene che giocano nel Far West” - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Quentin Tarantino presenta The Hateful Eight: “Le mie Iene che giocano nel Far West” Movieplayer"
+        },
+        {
+          "title": "Quentin Tarantino a Roma. Grande festa al Teatro 5 di Cinecittà per l’anteprima evento del suo film The Hateful Eight - Artribune",
+          "source": "Artribune",
+          "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+          "description": "Quentin Tarantino a Roma. Grande festa al Teatro 5 di Cinecittà per l’anteprima evento del suo film The Hateful Eight Artribune"
+        },
+        {
+          "title": "Quentin Tarantino: il red carpet dell'evento a Roma Foto 2 - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Fri, 29 Jan 2016 08:00:00 GMT",
+          "description": "Quentin Tarantino: il red carpet dell'evento a Roma Foto 2 Amica.it"
+        }
+      ]
+    },
+    "Fury_(film_2014)": {
+      "fetched_at": "2026-11-06T15:56:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fury è un film del 2014 scritto, diretto e co-prodotto da David Ayer.",
+      "news": []
+    }
+  }
+}

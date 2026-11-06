@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Pier%20Paolo%20Pasolini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Pier_Paolo_Pasolini",
       "article_url": "https://it.wikipedia.org/wiki/Pier_Paolo_Pasolini",
-      "description": "poeta, scrittore, regista, sceneggiatore, attore italiano (1922-1975)",
+      "description": "Poeta, scrittore e regista italiano, il 2 novembre ricorre il 40º anniversario della sua uccisione.",
       "image_filename": "Pier_Paolo_Pasolini2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/Pier_Paolo_Pasolini2.jpg/1280px-Pier_Paolo_Pasolini2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pier_Paolo_Pasolini2.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Antonio%20Iovine&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Antonio_Iovine",
       "article_url": "https://it.wikipedia.org/wiki/Antonio_Iovine",
-      "description": "mafioso italiano (1964)",
+      "description": "Boss del clan dei Casalesi e collaboratore di giustizia, la sua cattura è raccontata in Sotto copertura, su Rai 1 il 2 e il 3 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Valentino%20Rossi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Valentino_Rossi",
       "article_url": "https://it.wikipedia.org/wiki/Valentino_Rossi",
-      "description": "pilota motociclistico, pilota automobilistico e dirigente sportivo italiano (1979-)",
+      "description": "Pilota motociclistico italiano, l'8 novembre arriva quarto a Valencia e perde il titolo MotoGP a favore di Jorge Lorenzo.",
       "image_filename": "Valentino_Rossi_2017.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Valentino_Rossi_2017.jpg/1280px-Valentino_Rossi_2017.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Valentino_Rossi_2017.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Adolphe%20Sax&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Adolphe_Sax",
       "article_url": "https://it.wikipedia.org/wiki/Adolphe_Sax",
-      "description": "inventore belga",
+      "description": "Inventore belga del sassofono, il 6 novembre Google gli dedica un Doodle per il 201º anniversario della nascita.",
       "image_filename": "Adolphe_Sax.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Adolphe_Sax.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Adolphe_Sax.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Giornata%20dell%27Unit%C3%A0%20Nazionale%20e%20delle%20Forze%20Armate&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Giornata_dell%27Unit%C3%A0_Nazionale_e_delle_Forze_Armate",
       "article_url": "https://it.wikipedia.org/wiki/Giornata_dell%27Unit%C3%A0_Nazionale_e_delle_Forze_Armate",
-      "description": "",
+      "description": "Si celebra il 4 novembre, anniversario dell'entrata in vigore dell'armistizio che sancisce la vittoria italiana nella prima guerra mondiale.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Lexus%20CT&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Lexus_CT",
       "article_url": "https://it.wikipedia.org/wiki/Lexus_CT",
-      "description": "autovettura del 2011 prodotta dalla Lexus",
+      "description": "Autovettura ibrida Lexus: probabilmente un errore nei dati, con 83.852 visite il 6 novembre e zero negli altri giorni.",
       "image_filename": "Lexus_CT200h.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lexus_CT200h.jpg/1280px-Lexus_CT200h.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lexus_CT200h.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Guerre%20stellari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Guerre_stellari",
       "article_url": "https://it.wikipedia.org/wiki/Guerre_stellari",
-      "description": "franchise creato da George Lucas",
+      "description": "La saga cinematografica di George Lucas va in onda dal 7 novembre su un canale dedicato di Sky Cinema.",
       "image_filename": "Star_Wars_Logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1280px-Star_Wars_Logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_Wars_Logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Spectre%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Spectre_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Spectre_(film)",
-      "description": "film del 2015 diretto da Sam Mendes",
+      "description": "Film di James Bond diretto da Sam Mendes e interpretato da Daniel Craig, esce nei cinema italiani il 5 novembre.",
       "image_filename": "Spectre007Film.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/de/Spectre007Film.png/1248px-Spectre007Film.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Spectre007Film.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Cuscinetto%20%28meccanica%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Cuscinetto_(meccanica)",
       "article_url": "https://it.wikipedia.org/wiki/Cuscinetto_(meccanica)",
-      "description": "meccanismo utilizzato per ridurre l'attrito tra due oggetti in movimento rotatorio o lineare tra loro.",
+      "description": "Meccanismo che riduce l'attrito: probabilmente un errore nei dati, con 74.178 visite il 5 novembre e zero negli altri giorni.",
       "image_filename": "BallBearing.gif",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/BallBearing.gif",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:BallBearing.gif",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Jorge%20Lorenzo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Jorge_Lorenzo",
       "article_url": "https://it.wikipedia.org/wiki/Jorge_Lorenzo",
-      "description": "pilota motociclistico spagnolo",
+      "description": "Pilota motociclistico spagnolo della Yamaha, l'8 novembre vince a Valencia e conquista il titolo mondiale MotoGP.",
       "image_filename": "Jorge_Lorenzo_2010_Indianapolis.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jorge_Lorenzo_2010_Indianapolis.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jorge_Lorenzo_2010_Indianapolis.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Michele%20Zagaria&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Michele_Zagaria",
       "article_url": "https://it.wikipedia.org/wiki/Michele_Zagaria",
-      "description": "mafioso italiano (1958)",
+      "description": "Boss del clan dei Casalesi, il picco è probabilmente legato a Sotto copertura, su Rai 1 il 2 e il 3 novembre, sulla cattura di Antonio Iovine.",
       "image_filename": "Foto_segnaletica_Zagaria_Michele.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/5/5b/Foto_segnaletica_Zagaria_Michele.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Foto_segnaletica_Zagaria_Michele.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Motomondiale%202015&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Motomondiale_2015",
       "article_url": "https://it.wikipedia.org/wiki/Motomondiale_2015",
-      "description": "edizione del motomondiale",
+      "description": "L'8 novembre si conclude a Valencia il campionato: Jorge Lorenzo vince la gara e il titolo MotoGP davanti a Valentino Rossi.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Marc%20M%C3%A1rquez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Marc_M%C3%A1rquez",
       "article_url": "https://it.wikipedia.org/wiki/Marc_M%C3%A1rquez",
-      "description": "pilota motociclistico spagnolo",
+      "description": "Pilota motociclistico spagnolo della Honda, l'8 novembre arriva secondo a Valencia dietro Jorge Lorenzo, che vince il titolo MotoGP.",
       "image_filename": "Marc_Márquez_walking_at_Merdeka_Palace_(2025-09-30).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Marc_M%C3%A1rquez_walking_at_Merdeka_Palace_%282025-09-30%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marc_M%C3%A1rquez_walking_at_Merdeka_Palace_(2025-09-30).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Walking%20Dead%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=The_Walking_Dead_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Walking_Dead_(serie_televisiva)",
-      "description": "serie televisiva statunitense (2010-2022)",
+      "description": "Il quarto episodio della sesta stagione va in onda il 1º novembre su AMC negli Stati Uniti e il 2 novembre su Fox in Italia.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Albo%20d%27oro%20del%20motomondiale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Albo_d%27oro_del_motomondiale",
       "article_url": "https://it.wikipedia.org/wiki/Albo_d%27oro_del_motomondiale",
-      "description": "lista di un progetto Wikimedia",
+      "description": "Elenco dei campioni del mondo di motociclismo: l'8 novembre Jorge Lorenzo conquista a Valencia il titolo MotoGP.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Transgender&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Transgender",
       "article_url": "https://it.wikipedia.org/wiki/Transgender",
-      "description": "identità o espressione di genere che non corrisponde al sesso determinato alla nascita",
+      "description": "Termine per persone la cui identità di genere non corrisponde al sesso assegnato alla nascita. La settimana precedente Loiza Lamers vince Holland's Next Top Model.",
       "image_filename": "Transgender_Pride_flag.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/1280px-Transgender_Pride_flag.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Transgender_Pride_flag.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Kolors&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=The_Kolors",
       "article_url": "https://it.wikipedia.org/wiki/The_Kolors",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale italiano vincitore di Amici, è protagonista del film Stash & The Kolors, in onda l'8 novembre su Italia 1.",
       "image_filename": "The_Kolors_RadioBruno_Sanremo2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Kolors_RadioBruno_Sanremo2024.png/1280px-The_Kolors_RadioBruno_Sanremo2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Kolors_RadioBruno_Sanremo2024.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Grease&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Grease",
       "article_url": "https://it.wikipedia.org/wiki/Grease",
-      "description": "",
+      "description": "Film musicale del 1978 diretto da Randal Kleiser. Il motivo del picco di visite dell'8 novembre non è riconoscibile.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Grey%27s_Anatomy",
       "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
-      "description": "serie televisiva statunitense del 2005",
+      "description": "Serie televisiva medica statunitense, è per la diciannovesima settimana consecutiva tra le pagine più viste.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Rita%20Ora&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Rita_Ora",
       "article_url": "https://it.wikipedia.org/wiki/Rita_Ora",
-      "description": "cantante, attrice e personaggio televisivo britannica",
+      "description": "Cantante e attrice britannica, senza un picco di rilievo né una causa riconoscibile per la presenza in classifica.",
       "image_filename": "Oliver_Mark_-_Rita_Ora,_Berlin_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oliver_Mark_-_Rita_Ora%2C_Berlin_2018.jpg/1280px-Oliver_Mark_-_Rita_Ora%2C_Berlin_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Oliver_Mark_-_Rita_Ora%2C_Berlin_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -998,13 +1018,14 @@
       "google_news_url": "https://www.google.it/search?q=James%20Bond&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=James_Bond",
       "article_url": "https://it.wikipedia.org/wiki/James_Bond",
-      "description": "personaggio immaginario protagonista della saga 007 ideata da Ian Fleming",
+      "description": "Agente segreto creato da Ian Fleming, torna al cinema in Spectre, uscito nelle sale italiane il 5 novembre.",
       "image_filename": "Bond_james_bond.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/96/Bond_james_bond.jpg/1280px-Bond_james_bond.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bond_james_bond.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1064,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo; è l'ottava settimana consecutiva in classifica.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1110,14 @@
       "google_news_url": "https://www.google.it/search?q=MotoGP&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=MotoGP",
       "article_url": "https://it.wikipedia.org/wiki/MotoGP",
-      "description": "massima categoria del motomondiale",
+      "description": "Nella massima categoria del motomondiale, l'8 novembre Jorge Lorenzo vince a Valencia la gara e il titolo mondiale.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1156,14 @@
       "google_news_url": "https://www.google.it/search?q=Template%3AGeoTemplate&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2015,cd_max:11/08/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-02&end=2015-11-08&pages=Template%3AGeoTemplate",
       "article_url": "https://it.wikipedia.org/wiki/Template%3AGeoTemplate",
-      "description": "template di un progetto Wikimedia",
+      "description": "Template di Wikipedia per i dati geografici, presente in classifica da 19 settimane consecutive senza un picco di rilievo.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

@@ -1,0 +1,536 @@
+{
+  "week": "2016-11",
+  "start_date": "2016-03-14",
+  "end_date": "2016-03-20",
+  "articles": {
+    "Donald_Trump": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Donald John Trump è un politico, imprenditore e personaggio televisivo statunitense, 47º Presidente degli Stati Uniti d'America dal 2025, in precedenza è stato 45º presidente dal 2017 al 2021.",
+      "news": [
+        {
+          "title": "Keith Richards minacciò di cacciare Donald Trump con un coltello - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "Keith Richards minacciò di cacciare Donald Trump con un coltello Rolling Stone Italia"
+        },
+        {
+          "title": "L’episodio dei Simpson andato in onda nel 2000 con Donald Trump presidente - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 17 Mar 2016 07:00:00 GMT",
+          "description": "L’episodio dei Simpson andato in onda nel 2000 con Donald Trump presidente Il Post"
+        },
+        {
+          "title": "La “prova” definitiva che Donald Trump è un Lannister - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "La “prova” definitiva che Donald Trump è un Lannister Sky TG24"
+        },
+        {
+          "title": "Rossano Rubicondi: «Donald Trump? - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 17 Mar 2016 07:00:00 GMT",
+          "description": "Rossano Rubicondi: «Donald Trump? Corriere della Sera"
+        },
+        {
+          "title": "Elezioni Americane: Trump vs Clinton, programmi a confronto - Startmag",
+          "source": "Startmag",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "Elezioni Americane: Trump vs Clinton, programmi a confronto Startmag"
+        },
+        {
+          "title": "Trump nella top ten dei rischi mondiali - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Thu, 17 Mar 2016 07:00:00 GMT",
+          "description": "Trump nella top ten dei rischi mondiali San Marino Rtv"
+        },
+        {
+          "title": "Dalla figlia Ivanka ai problemi con i numeri, 10 cose che non sapete di Donald Trump - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "Dalla figlia Ivanka ai problemi con i numeri, 10 cose che non sapete di Donald Trump Corriere della Sera"
+        },
+        {
+          "title": "Insulti e promesse. Donald Trump divide l’America e il mondo - ArtsLife",
+          "source": "ArtsLife",
+          "pubDate": "Sat, 19 Mar 2016 07:00:00 GMT",
+          "description": "Insulti e promesse. Donald Trump divide l’America e il mondo ArtsLife"
+        }
+      ]
+    },
+    "Fear_the_Walking_Dead": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fear the Walking Dead è una serie televisiva statunitense ideata da Robert Kirkman e Dave Erickson.",
+      "news": [
+        {
+          "title": "\"Fear The Walking Dead” arriva in Italia. Guarda un anticipo sui primi due episodi - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "\"Fear The Walking Dead” arriva in Italia. Guarda un anticipo sui primi due episodi Rolling Stone Italia"
+        },
+        {
+          "title": "Fear The Walking Dead 2: gli zombie sanno nuotare o no? Ecco la risposta (insieme ad altre) - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "Fear The Walking Dead 2: gli zombie sanno nuotare o no? Ecco la risposta (insieme ad altre) BadTaste"
+        },
+        {
+          "title": "Primo trailer per La Casa per bambini speciali di Miss Peregrine di Tim Burton - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "Primo trailer per La Casa per bambini speciali di Miss Peregrine di Tim Burton Il Cineocchio"
+        },
+        {
+          "title": "Risorto, Joseph Fiennes: \"Per me il film è stato un viaggio interiore basato sulla redenzione\" - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "Risorto, Joseph Fiennes: \"Per me il film è stato un viaggio interiore basato sulla redenzione\" Movieplayer"
+        },
+        {
+          "title": "Daredevil 2: Netflix rilascia un trailer finale italiano diverso da quello americano - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "Daredevil 2: Netflix rilascia un trailer finale italiano diverso da quello americano Il Cineocchio"
+        }
+      ]
+    },
+    "Batman_v_Superman:_Dawn_of_Justice": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Batman v Superman: Dawn of Justice è un film del 2016 diretto da Zack Snyder.",
+      "news": [
+        {
+          "title": "35 cose da sapere su Batman v Superman: Dawn of Justice di Zack Snyder - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "35 cose da sapere su Batman v Superman: Dawn of Justice di Zack Snyder Il Cineocchio"
+        },
+        {
+          "title": "Jeep Renegade Batman V Superman - Newsauto.it",
+          "source": "Newsauto.it",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "Jeep Renegade Batman V Superman Newsauto.it"
+        },
+        {
+          "title": "Già disponibile la prima Jeep® italiana protagonista del film d’azione e avventura “Batman v Superman: Dawn of Justice” di Warner Bros. Pictures - Stellantis Media",
+          "source": "Stellantis Media",
+          "pubDate": "Mon, 14 Mar 2016 07:00:00 GMT",
+          "description": "Già disponibile la prima Jeep® italiana protagonista del film d’azione e avventura “Batman v Superman: Dawn of Justice” di Warner Bros. Pictures Stellantis Media"
+        }
+      ]
+    },
+    "Mr._Robot": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mr. Robot è una serie televisiva statunitense di genere drammatico-thriller, creata dallo sceneggiatore Sam Esmail e trasmessa dall'emittente USA Network dal 24 giugno 2015 al 22 dicembre 2019.",
+      "news": [
+        {
+          "title": "Mr. Robot: il creatore Sam Esmail parla dei temi che verranno affrontati nella stagione 2 - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "Mr. Robot: il creatore Sam Esmail parla dei temi che verranno affrontati nella stagione 2 Il Cineocchio"
+        },
+        {
+          "title": "Uomini e Donne: amore tra Lucas Peracchi e Giulia Carnevali? - www.droppergen.net",
+          "source": "www.droppergen.net",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "Uomini e Donne: amore tra Lucas Peracchi e Giulia Carnevali? www.droppergen.net"
+        }
+      ]
+    },
+    "Episodi_di_The_Walking_Dead_(sesta_stagione)": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La sesta stagione della serie televisiva The Walking Dead, composta da sedici episodi, è stata trasmessa in prima visione negli Stati Uniti d'America dall'emittente AMC dall'11 ottobre 2015 al 3 aprile 2016.",
+      "news": [
+        {
+          "title": "The Walking Dead recap: la rivincita degli incapaci in un episodio di transizione - Film.it",
+          "source": "Film.it",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "The Walking Dead recap: la rivincita degli incapaci in un episodio di transizione Film.it"
+        },
+        {
+          "title": "The Walking Dead 6, un tesissimo episodio al femminile conferma che non ci sono più \"buoni\" - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 14 Mar 2016 07:00:00 GMT",
+          "description": "The Walking Dead 6, un tesissimo episodio al femminile conferma che non ci sono più \"buoni\" Movieplayer"
+        },
+        {
+          "title": "Fear The Walking Dead 2: gli zombie sanno nuotare o no? Ecco la risposta (insieme ad altre) - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "Fear The Walking Dead 2: gli zombie sanno nuotare o no? Ecco la risposta (insieme ad altre) BadTaste"
+        },
+        {
+          "title": "I 15 peggiori papà delle serie TV che non possiamo non amare - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sat, 19 Mar 2016 07:00:00 GMT",
+          "description": "I 15 peggiori papà delle serie TV che non possiamo non amare Movieplayer"
+        },
+        {
+          "title": "The Walking Dead 6x13 - Di che cosa hai paura? - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "The Walking Dead 6x13 - Di che cosa hai paura? Hall of Series"
+        },
+        {
+          "title": "6 personaggi in cerca di morte in The Walking Dead - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Sat, 19 Mar 2016 07:00:00 GMT",
+          "description": "6 personaggi in cerca di morte in The Walking Dead Hall of Series"
+        }
+      ]
+    },
+    "Claudia_Galanti": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Claudia Galanti è una modella, showgirl e attrice paraguaiana, nota soprattutto in Francia e in Italia.",
+      "news": [
+        {
+          "title": "Claudia Galanti nei guai. L'ex marito Arnaud Mimran: Ecco perchè l'ho denunciata - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "Claudia Galanti nei guai. L'ex marito Arnaud Mimran: Ecco perchè l'ho denunciata Leggo.it"
+        },
+        {
+          "title": "Arnaud Mimran: Claudia Galanti falsa, pago gli alimenti per i miei figli - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Thu, 17 Mar 2016 07:00:00 GMT",
+          "description": "Arnaud Mimran: Claudia Galanti falsa, pago gli alimenti per i miei figli Tgcom24"
+        },
+        {
+          "title": "Claudia Galanti ribatte (ancora) all'ex Arnaud Mimran: \"È tutto vero: non paga gli alimenti ai figli\" - Oggi",
+          "source": "Oggi",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "Claudia Galanti ribatte (ancora) all'ex Arnaud Mimran: \"È tutto vero: non paga gli alimenti ai figli\" Oggi"
+        },
+        {
+          "title": "Claudia Galanti infuriata con l'ex Il legale: Ecco cosa sta succedendo - Corriere Adriatico",
+          "source": "Corriere Adriatico",
+          "pubDate": "Thu, 17 Mar 2016 07:00:00 GMT",
+          "description": "Claudia Galanti infuriata con l'ex Il legale: Ecco cosa sta succedendo Corriere Adriatico"
+        },
+        {
+          "title": "\"Arnaud Mimran non paga gli alimenti\": la conferma dell'avvocato di Claudia Galanti - Today",
+          "source": "Today",
+          "pubDate": "Thu, 17 Mar 2016 07:00:00 GMT",
+          "description": "\"Arnaud Mimran non paga gli alimenti\": la conferma dell'avvocato di Claudia Galanti Today"
+        },
+        {
+          "title": "\"L'Isola dei Famosi\" tra colpi di scena e nuove nomination: fuori la Galanti, Matteo Cambi si ritira - Giornale di Sicilia",
+          "source": "Giornale di Sicilia",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "\"L'Isola dei Famosi\" tra colpi di scena e nuove nomination: fuori la Galanti, Matteo Cambi si ritira Giornale di Sicilia"
+        },
+        {
+          "title": "Isola dei famosi, si decide il futuro di Claudia Galanti e Jonas Berami - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Mon, 14 Mar 2016 07:00:00 GMT",
+          "description": "Isola dei famosi, si decide il futuro di Claudia Galanti e Jonas Berami La Stampa"
+        },
+        {
+          "title": "Arnaud Mimran risponde alle accuse di Claudia Galanti: \"I miei figli sono la mia vita\" - Today",
+          "source": "Today",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "Arnaud Mimran risponde alle accuse di Claudia Galanti: \"I miei figli sono la mia vita\" Today"
+        },
+        {
+          "title": "Claudia Galanti, il suo avvocato: \"Arnaud Mimran non paga il mantenimento dei figli\" - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Thu, 17 Mar 2016 07:00:00 GMT",
+          "description": "Claudia Galanti, il suo avvocato: \"Arnaud Mimran non paga il mantenimento dei figli\" Leggo.it"
+        },
+        {
+          "title": "Mimran su Claudia Galanti: “L’ho denunciata, non è vero che non do soldi ai nostri figli” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "Mimran su Claudia Galanti: “L’ho denunciata, non è vero che non do soldi ai nostri figli” Fanpage"
+        }
+      ]
+    },
+    "Il_gladiatore": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il gladiatore (Gladiator) è un film del 2000 diretto da Ridley Scott.",
+      "news": [
+        {
+          "title": "Russell Crowe Dimagrito | Ingrassato | Foto - Giornalettismo",
+          "source": "Giornalettismo",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "Russell Crowe Dimagrito | Ingrassato | Foto Giornalettismo"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Dna dell’olio extravergine contro frodi - SanteramoLive.it",
+          "source": "SanteramoLive.it",
+          "pubDate": "Thu, 17 Mar 2016 07:00:00 GMT",
+          "description": "Dna dell’olio extravergine contro frodi SanteramoLive.it"
+        }
+      ]
+    },
+    "Domenica_delle_palme": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Domenica delle palme è una ricorrenza cristiana osservata la domenica che precede la Pasqua da cattolici, ortodossi e alcune Chiese protestanti. In questo giorno si ricorda l'ingresso a Gerusalemme di Gesù, in sella a un asino e osannato dalla folla che lo salutava agitando rami di palma ; la folla, radunata dalle voci dell'arrivo di Gesù, stese a terra i mantelli, mentre altri tagliavano rami dagli alberi intorno, e agitandoli festosamente gli rendevano onore.",
+      "news": [
+        {
+          "title": "Domenica delle Palme in Duomo, Scola: \"Accordo Ue-Turchia è poca cosa\" - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "Domenica delle Palme in Duomo, Scola: \"Accordo Ue-Turchia è poca cosa\" Il Giorno"
+        },
+        {
+          "title": "Domenica delle Palme nella parrocchia di San Pietro Apostolo a Cassino - Diocesi Sora Cassino Aquino Pontecorvo",
+          "source": "Diocesi Sora Cassino Aquino Pontecorvo",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Domenica delle Palme nella parrocchia di San Pietro Apostolo a Cassino Diocesi Sora Cassino Aquino Pontecorvo"
+        },
+        {
+          "title": "Domenica la benedizione delle palme - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "Domenica la benedizione delle palme Tv2000"
+        },
+        {
+          "title": "Il Papa: \"Il Crocifisso è la Cattedra di Dio\" - ACI Stampa",
+          "source": "ACI Stampa",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "Il Papa: \"Il Crocifisso è la Cattedra di Dio\" ACI Stampa"
+        },
+        {
+          "title": "Fondi, il calendario per le celebrazioni della Pasqua - h24 notizie - portale indipendente di news dalla provincia - h24 notizie",
+          "source": "h24 notizie",
+          "pubDate": "Sat, 19 Mar 2016 07:00:00 GMT",
+          "description": "Fondi, il calendario per le celebrazioni della Pasqua - h24 notizie - portale indipendente di news dalla provincia h24 notizie"
+        },
+        {
+          "title": "Sora e i riti della Settimana Santa: tra fede e devozione - Diocesi Sora Cassino Aquino Pontecorvo",
+          "source": "Diocesi Sora Cassino Aquino Pontecorvo",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "Sora e i riti della Settimana Santa: tra fede e devozione Diocesi Sora Cassino Aquino Pontecorvo"
+        },
+        {
+          "title": "L’antico crocifisso di Priero “restituito” agli occhi dei fedeli - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "L’antico crocifisso di Priero “restituito” agli occhi dei fedeli La Stampa"
+        },
+        {
+          "title": "Papa Francesco tra la folla di fedeli nel giorno della Domenica delle Palme - ANSA",
+          "source": "ANSA",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "Papa Francesco tra la folla di fedeli nel giorno della Domenica delle Palme ANSA"
+        },
+        {
+          "title": "Nuovo parroco a Capezzana, è il cappellano dell'ospedale - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "Nuovo parroco a Capezzana, è il cappellano dell'ospedale La Nazione"
+        },
+        {
+          "title": "Domenica delle Palme, iniziano i riti della Settimana Santa - TraniViva",
+          "source": "TraniViva",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "Domenica delle Palme, iniziano i riti della Settimana Santa TraniViva"
+        }
+      ]
+    },
+    "Rocco_Siffredi": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rocco Siffredi, pseudonimo di Rocco Antonio Tano, è un attore pornografico italiano.",
+      "news": [
+        {
+          "title": "Rocco Siffredi: «Siamo i migliori ristoratori al mondo» - MixerPlanet",
+          "source": "MixerPlanet",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "Rocco Siffredi: «Siamo i migliori ristoratori al mondo» MixerPlanet"
+        },
+        {
+          "title": "Referendum No Trivelle 17 aprile, anche Rocco Siffredi voterà Si - IlPescara",
+          "source": "IlPescara",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "Referendum No Trivelle 17 aprile, anche Rocco Siffredi voterà Si IlPescara"
+        },
+        {
+          "title": "Case chiuse, dietrofront di Siffredi: \"Non parteciperà\" - FirenzeToday",
+          "source": "FirenzeToday",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "Case chiuse, dietrofront di Siffredi: \"Non parteciperà\" FirenzeToday"
+        },
+        {
+          "title": "Rocco: «In Casa Siffredi mi metto per la prima volta a nudo» - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 14 Mar 2016 07:00:00 GMT",
+          "description": "Rocco: «In Casa Siffredi mi metto per la prima volta a nudo» iO Donna"
+        },
+        {
+          "title": "Rocco Siffredi dà forfait a incontro - ANSA",
+          "source": "ANSA",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "Rocco Siffredi dà forfait a incontro ANSA"
+        },
+        {
+          "title": "\"Casa Siffredi\", Rocco apre le porte del suo mondo - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Wed, 16 Mar 2016 07:00:00 GMT",
+          "description": "\"Casa Siffredi\", Rocco apre le porte del suo mondo Tgcom24"
+        },
+        {
+          "title": "Rocco Siffredi, reality in famiglia«E cerco l’erede nella mia accademia» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 14 Mar 2016 07:00:00 GMT",
+          "description": "Rocco Siffredi, reality in famiglia«E cerco l’erede nella mia accademia» Corriere della Sera"
+        },
+        {
+          "title": "Casa Siffredi, quello che c'è da sapere sul reality di Rocco (e famiglia) - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "Casa Siffredi, quello che c'è da sapere sul reality di Rocco (e famiglia) GQ Italia"
+        },
+        {
+          "title": "«Casa Siffredi» – Il reality che mette a nudo Rocco - Il Martino",
+          "source": "Il Martino",
+          "pubDate": "Mon, 14 Mar 2016 07:00:00 GMT",
+          "description": "«Casa Siffredi» – Il reality che mette a nudo Rocco Il Martino"
+        },
+        {
+          "title": "Casa Siffredi, una famiglia poco convenzionale: Rocco seleziona peni e vulve nella lussuosa magione mentre la moglie sfila in passerella con i bimbi - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "Casa Siffredi, una famiglia poco convenzionale: Rocco seleziona peni e vulve nella lussuosa magione mentre la moglie sfila in passerella con i bimbi Il Fatto Quotidiano"
+        }
+      ]
+    },
+    "Margareth_Madè": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Margareth Madè, pseudonimo di Margareth Tamara Maccarrone, è un'attrice e modella italiana.",
+      "news": [
+        {
+          "title": "Ballando con le stelle, la rumba di Asia è sexy. Peron-Madè \"La Argento è troppo coccolata\" - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "Ballando con le stelle, la rumba di Asia è sexy. Peron-Madè \"La Argento è troppo coccolata\" Il Mattino"
+        },
+        {
+          "title": "Selvaggia Lucarelli e la lite con Sandro Mayer… sul parrucchino: guarda il video - Oggi",
+          "source": "Oggi",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Selvaggia Lucarelli e la lite con Sandro Mayer… sul parrucchino: guarda il video Oggi"
+        },
+        {
+          "title": "BALLANDO CON LE STELLE 2016 - SELVAGGIA LUCARELLI: \"HO PROBLEMI CON TUTTI QUELLI CON LA PARRUCCA\". SOTTILE ELIMINATO - Davide Maggio",
+          "source": "Davide Maggio",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "BALLANDO CON LE STELLE 2016 - SELVAGGIA LUCARELLI: \"HO PROBLEMI CON TUTTI QUELLI CON LA PARRUCCA\". SOTTILE ELIMINATO Davide Maggio"
+        },
+        {
+          "title": "‘Ballando con Le Stelle 11’: Salvo Sottile eliminato dalla gara - Gossip.it",
+          "source": "Gossip.it",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "‘Ballando con Le Stelle 11’: Salvo Sottile eliminato dalla gara Gossip.it"
+        }
+      ]
+    },
+    "Leicester_City_Football_Club": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Leicester City Football Club è una società calcistica inglese con sede nella città di Leicester. Milita in Football League One, la terza divisione del campionato inglese. Disputa le gare interne al King Power Stadium, un impianto da circa 32.000 posti a sedere.",
+      "news": []
+    },
+    "House_of_Cards_-_Gli_intrighi_del_potere": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "House of Cards - Gli intrighi del potere è una serie televisiva statunitense, concepita e prodotta da Beau Willimon. È un adattamento dell'omonima miniserie televisiva prodotta dalla BBC, a sua volta basata sull'omonimo romanzo di Michael Dobbs. Prodotta per sei stagioni, è stata pubblicata sulla piattaforma di streaming Netflix dal 1º febbraio 2013 al 2 novembre 2018.",
+      "news": []
+    },
+    "Il_commissario_Montalbano": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il commissario Montalbano è una serie televisiva italiana, prodotta dal 1999 al 2021 e trasmessa dalla Rai.",
+      "news": [
+        {
+          "title": "Blog | Il Commissario Montalbano e l’obbligo di piacere per forza - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Blog | Il Commissario Montalbano e l’obbligo di piacere per forza Il Fatto Quotidiano"
+        },
+        {
+          "title": "Carmen Longo, straordinaria interpretazione nella fiction \"Il Commissario Montalbano\" - Vai Taormina",
+          "source": "Vai Taormina",
+          "pubDate": "Mon, 14 Mar 2016 07:00:00 GMT",
+          "description": "Carmen Longo, straordinaria interpretazione nella fiction \"Il Commissario Montalbano\" Vai Taormina"
+        },
+        {
+          "title": "Montalbano e la sindrome di Homer Simpson - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "Montalbano e la sindrome di Homer Simpson Wired Italia"
+        },
+        {
+          "title": "Carlo Degli Esposti: \"Vi spiego i segreti di Montalbano\" - Panorama",
+          "source": "Panorama",
+          "pubDate": "Tue, 15 Mar 2016 07:00:00 GMT",
+          "description": "Carlo Degli Esposti: \"Vi spiego i segreti di Montalbano\" Panorama"
+        },
+        {
+          "title": "Ciao Darwin 7-La Resurrezione arresta il Commissario Montalbano - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Sat, 19 Mar 2016 07:00:00 GMT",
+          "description": "Ciao Darwin 7-La Resurrezione arresta il Commissario Montalbano Marida Caterini"
+        }
+      ]
+    },
+    "Equinozio": {
+      "fetched_at": "2026-11-06T15:59:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Equinozio è quel momento della rivoluzione terrestre intorno al Sole in cui quest'ultimo si trova allo zenit dell'equatore, per cui i raggi solari giungono perpendicolarmente all'asse di rotazione della Terra. Esso ricorre due volte durante l'anno solare e in quel momento il periodo diurno, ovvero quello di esposizione alla luce del Sole, e quello notturno sono di ugual durata su tutto il pianeta.",
+      "news": [
+        {
+          "title": "Equinozio di primavera: arrivano i fiori e le giornate più lunghe! - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Sat, 19 Mar 2016 07:00:00 GMT",
+          "description": "Equinozio di primavera: arrivano i fiori e le giornate più lunghe! FocusJunior.it"
+        },
+        {
+          "title": "Bari, l'alba è uno spettacolo per l'equinozio di primavera - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 20 Mar 2016 07:00:00 GMT",
+          "description": "Bari, l'alba è uno spettacolo per l'equinozio di primavera la Repubblica"
+        },
+        {
+          "title": "Equinozio a Chichen Itza: la misteriosa ombra del dio - Turismo.it",
+          "source": "Turismo.it",
+          "pubDate": "Sat, 19 Mar 2016 07:00:00 GMT",
+          "description": "Equinozio a Chichen Itza: la misteriosa ombra del dio Turismo.it"
+        },
+        {
+          "title": "Cefalea a grappolo, per quasi 600mila persone è “maledetta primavera” - Humanitas Salute",
+          "source": "Humanitas Salute",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Cefalea a grappolo, per quasi 600mila persone è “maledetta primavera” Humanitas Salute"
+        },
+        {
+          "title": "Oggi giornata della poesia: ecco i dieci poeti gay più famosi - Gay.it",
+          "source": "Gay.it",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Oggi giornata della poesia: ecco i dieci poeti gay più famosi Gay.it"
+        },
+        {
+          "title": "Arriva l’equinozio di marzo 2016: arrivederci all’inverno, inizia la primavera astronomica - MeteoWeb",
+          "source": "MeteoWeb",
+          "pubDate": "Fri, 18 Mar 2016 07:00:00 GMT",
+          "description": "Arriva l’equinozio di marzo 2016: arrivederci all’inverno, inizia la primavera astronomica MeteoWeb"
+        }
+      ]
+    }
+  }
+}

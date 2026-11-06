@@ -503,13 +503,14 @@
       "google_news_url": "https://www.google.it/search?q=San%20Valentino%20%28festa%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=San_Valentino_(festa)",
       "article_url": "https://it.wikipedia.org/wiki/San_Valentino_(festa)",
-      "description": "festività dedicata agli innamorati",
+      "description": "La festa degli innamorati si celebra il 14 febbraio, giorno in cui Google le dedica un Doodle.",
       "image_filename": "BigPinkHeart.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/BigPinkHeart.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:BigPinkHeart.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +549,14 @@
       "google_news_url": "https://www.google.it/search?q=Pooh&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Pooh",
       "article_url": "https://it.wikipedia.org/wiki/Pooh",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale italiano, si esibisce l'11 febbraio al Festival di Sanremo con il rientrante Riccardo Fogli.",
       "image_filename": "Pooh_72.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pooh_72.jpg/1280px-Pooh_72.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pooh_72.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +595,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Hateful%20Eight&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=The_Hateful_Eight",
       "article_url": "https://it.wikipedia.org/wiki/The_Hateful_Eight",
-      "description": "film del 2015 diretto da Quentin Tarantino",
+      "description": "Film di Quentin Tarantino, è uscito nelle sale italiane il 28 gennaio ed è in classifica per la seconda settimana.",
       "image_filename": "The_Hateful_8.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/The_Hateful_8.png/1280px-The_Hateful_8.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Hateful_8.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +641,14 @@
       "google_news_url": "https://www.google.it/search?q=Angelo%20Vassallo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Angelo_Vassallo",
       "article_url": "https://it.wikipedia.org/wiki/Angelo_Vassallo",
-      "description": "politico italiano (1953-2010)",
+      "description": "Sindaco di Pollica ucciso nel 2010, è il protagonista del film Il sindaco pescatore, in onda l'8 febbraio su Rai 1.",
       "image_filename": "Angelo_Vassallo_foto.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Angelo_Vassallo_foto.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Angelo_Vassallo_foto.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +687,14 @@
       "google_news_url": "https://www.google.it/search?q=Eros%20Ramazzotti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Eros_Ramazzotti",
       "article_url": "https://it.wikipedia.org/wiki/Eros_Ramazzotti",
-      "description": "cantautore italiano (1963-)",
+      "description": "Cantautore italiano, è ospite della seconda serata del Festival di Sanremo il 10 febbraio.",
       "image_filename": "Eros_Ramazzotti_(21738687382)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eros_Ramazzotti_%2821738687382%29_%28cropped%29.jpg/1280px-Eros_Ramazzotti_%2821738687382%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Eros_Ramazzotti_(21738687382)_(cropped).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +733,14 @@
       "google_news_url": "https://www.google.it/search?q=Onda%20gravitazionale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Onda_gravitazionale",
       "article_url": "https://it.wikipedia.org/wiki/Onda_gravitazionale",
-      "description": "deformazione dello spaziotempo",
+      "description": "L'11 febbraio viene annunciata la prima osservazione diretta delle onde gravitazionali da parte di LIGO.",
       "image_filename": "Spacetime_curvature.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Spacetime_curvature.png",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +779,14 @@
       "google_news_url": "https://www.google.it/search?q=Dmitrij%20Ivanovi%C4%8D%20Mendeleev&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Dmitrij_Ivanovi%C4%8D_Mendeleev",
       "article_url": "https://it.wikipedia.org/wiki/Dmitrij_Ivanovi%C4%8D_Mendeleev",
-      "description": "chimico russo (1834-1907)",
+      "description": "Chimico russo e ideatore della tavola periodica, nasce l'8 febbraio 1834: ricorre il 182° anniversario della sua nascita.",
       "image_filename": "DIMendeleevCab.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DIMendeleevCab.jpg/1134px-DIMendeleevCab.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:DIMendeleevCab.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +825,14 @@
       "google_news_url": "https://www.google.it/search?q=Massacri%20delle%20foibe&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Massacri_delle_foibe",
       "article_url": "https://it.wikipedia.org/wiki/Massacri_delle_foibe",
-      "description": "eccidi della popolazione italiana di Venezia Giulia, Istria, Quarnaro e Dalmazia nel 1943-1945",
+      "description": "Il 10 febbraio si celebra il Giorno del ricordo, dedicato alle vittime delle foibe e all'esodo giuliano-dalmata.",
       "image_filename": "Cossiga_a_Basovizza.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/0/05/Cossiga_a_Basovizza.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cossiga_a_Basovizza.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +871,14 @@
       "google_news_url": "https://www.google.it/search?q=Elton%20John&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Elton_John",
       "article_url": "https://it.wikipedia.org/wiki/Elton_John",
-      "description": "cantante, compositore e musicista britannico (1947-)",
+      "description": "Cantante e pianista britannico, è ospite della prima serata del Festival di Sanremo il 9 febbraio.",
       "image_filename": "Elton_John_2023.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Elton_John_2023.jpg/1280px-Elton_John_2023.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elton_John_2023.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +917,14 @@
       "google_news_url": "https://www.google.it/search?q=Gravity%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Gravity_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Gravity_(film)",
-      "description": "film del 2013 diretto da Alfonso Cuarón",
+      "description": "Film del 2013 diretto da Alfonso Cuarón, l'8 febbraio è oggetto di una guida pubblicata dal Post.",
       "image_filename": "Gravity_2013.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d0/Gravity_2013.jpg/1280px-Gravity_2013.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gravity_2013.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=Gaetano%20Curreri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Gaetano_Curreri",
       "article_url": "https://it.wikipedia.org/wiki/Gaetano_Curreri",
-      "description": "cantante, tastierista e compositore italiano (1952-)",
+      "description": "Cantante degli Stadio, vince con il gruppo il Festival di Sanremo il 14 febbraio con Un giorno mi dirai.",
       "image_filename": "Gaetano_Curreri_2016.jpeg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gaetano_Curreri_2016.jpeg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gaetano_Curreri_2016.jpeg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=Laura%20Pausini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Laura_Pausini",
       "article_url": "https://it.wikipedia.org/wiki/Laura_Pausini",
-      "description": "cantautrice italiana (1974-)",
+      "description": "Cantautrice italiana, è ospite della prima serata del Festival di Sanremo il 9 febbraio.",
       "image_filename": "Laura_Pausini_2009.04.30_021.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Laura_Pausini_2009.04.30_021.jpg/1280px-Laura_Pausini_2009.04.30_021.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Laura_Pausini_2009.04.30_021.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1055,14 @@
       "google_news_url": "https://www.google.it/search?q=Quentin%20Tarantino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Quentin_Tarantino",
       "article_url": "https://it.wikipedia.org/wiki/Quentin_Tarantino",
-      "description": "regista, sceneggiatore, attore e produttore cinematografico (1963-)",
+      "description": "Regista statunitense, è al cinema con The Hateful Eight, uscito in Italia il 28 gennaio.",
       "image_filename": "Quentin_Tarantino_by_Gage_Skidmore.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/1280px-Quentin_Tarantino_by_Gage_Skidmore.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Quentin_Tarantino_by_Gage_Skidmore.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1101,14 @@
       "google_news_url": "https://www.google.it/search?q=Renato%20Zero&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Renato_Zero",
       "article_url": "https://it.wikipedia.org/wiki/Renato_Zero",
-      "description": "cantautore e produttore discografico italiano (1950-)",
+      "description": "Cantautore italiano, è ospite della finale del Festival di Sanremo il 13 febbraio.",
       "image_filename": "Renato_Zero.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Renato_Zero.jpg/1280px-Renato_Zero.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Renato_Zero.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1147,14 @@
       "google_news_url": "https://www.google.it/search?q=Carlo%20Conti%20%28conduttore%20televisivo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/08/2016,cd_max:02/14/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-02-08&end=2016-02-14&pages=Carlo_Conti_(conduttore_televisivo)",
       "article_url": "https://it.wikipedia.org/wiki/Carlo_Conti_(conduttore_televisivo)",
-      "description": "conduttore televisivo, conduttore radiofonico, autore televisivo e disc jockey italiano (1961-)",
+      "description": "Conduttore televisivo, presenta il Festival di Sanremo su Rai 1 dal 9 al 13 febbraio.",
       "image_filename": "Carlo_Conti_-_Arena_della_Versilia,_Cinquale_(MS).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Carlo_Conti_-_Arena_della_Versilia%2C_Cinquale_%28MS%29.jpg/1280px-Carlo_Conti_-_Arena_della_Versilia%2C_Cinquale_%28MS%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carlo_Conti_-_Arena_della_Versilia%2C_Cinquale_(MS).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

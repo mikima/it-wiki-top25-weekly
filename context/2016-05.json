@@ -1,0 +1,537 @@
+{
+  "week": "2016-05",
+  "start_date": "2016-02-01",
+  "end_date": "2016-02-07",
+  "articles": {
+    "Revenant_-_Redivivo": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Revenant - Redivivo è un film del 2015 diretto da Alejandro González Iñárritu.",
+      "news": [
+        {
+          "title": "Revenant: ecco come è stato creato l'attacco dell'orso - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "Revenant: ecco come è stato creato l'attacco dell'orso Movieplayer"
+        },
+        {
+          "title": "Revenant - Redivivo (2015) - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Sat, 06 Feb 2016 08:00:00 GMT",
+          "description": "Revenant - Redivivo (2015) MYmovies"
+        },
+        {
+          "title": "DGA 2016: Iñárritu miglior regista per “Revenant – Redivivo” - RB Casting",
+          "source": "RB Casting",
+          "pubDate": "Sun, 07 Feb 2016 08:00:00 GMT",
+          "description": "DGA 2016: Iñárritu miglior regista per “Revenant – Redivivo” RB Casting"
+        }
+      ]
+    },
+    "Candelora": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Candelora è il nome con cui è popolarmente nota in italiano la festa della Presentazione di Gesù al Tempio, celebrata dalla Chiesa cattolica il 2 febbraio. Nella celebrazione liturgica si benedicono le candele, simbolo di Cristo «luce per illuminare le genti», come il bambino Gesù venne chiamato dal vecchio Simeone al momento della presentazione al Tempio di Gerusalemme, che era prescritta dalla Legge giudaica per i primogeniti maschi.",
+      "news": [
+        {
+          "title": "Proverbi trentini di febbraio - TrentoToday",
+          "source": "TrentoToday",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Proverbi trentini di febbraio TrentoToday"
+        },
+        {
+          "title": "Candelora day a Montevergine: non solo i femminielli ma anche i pro family day per curiosare - AvellinoToday",
+          "source": "AvellinoToday",
+          "pubDate": "Tue, 02 Feb 2016 08:00:00 GMT",
+          "description": "Candelora day a Montevergine: non solo i femminielli ma anche i pro family day per curiosare AvellinoToday"
+        },
+        {
+          "title": "Sessant'anni fa \"la nevicata del secolo\": testimonianze in bianco e nero - Ciociaria Oggi",
+          "source": "Ciociaria Oggi",
+          "pubDate": "Tue, 02 Feb 2016 08:00:00 GMT",
+          "description": "Sessant'anni fa \"la nevicata del secolo\": testimonianze in bianco e nero Ciociaria Oggi"
+        },
+        {
+          "title": "Il monastero delle monache di San Vincenzo ricorda Caterina de Ricci - Diocesi di Prato",
+          "source": "Diocesi di Prato",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Il monastero delle monache di San Vincenzo ricorda Caterina de Ricci Diocesi di Prato"
+        },
+        {
+          "title": "Matrimonio transgender sul Vesuvio. Poi sposi a Montevergine per la processione dei «femminielli» | Vd e ft - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "Matrimonio transgender sul Vesuvio. Poi sposi a Montevergine per la processione dei «femminielli» | Vd e ft Il Mattino"
+        },
+        {
+          "title": "Magenta, furto in basilica: rubata collana d’oro da statua della Vergine - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Tue, 02 Feb 2016 08:00:00 GMT",
+          "description": "Magenta, furto in basilica: rubata collana d’oro da statua della Vergine Corriere Milano"
+        }
+      ]
+    },
+    "Django_Unchained": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Django Unchained è un film del 2012 scritto e diretto da Quentin Tarantino, con protagonisti Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington e Samuel L. Jackson.",
+      "news": [
+        {
+          "title": "Tarantino in The hateful eight mette in scena un balletto in forma di duello - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "Tarantino in The hateful eight mette in scena un balletto in forma di duello Internazionale"
+        },
+        {
+          "title": "The Hateful Height, ancora un western per Quentin Tarantino - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "The Hateful Height, ancora un western per Quentin Tarantino Tuttosport"
+        },
+        {
+          "title": "The Hateful Eight: le opinioni della redazione - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "The Hateful Eight: le opinioni della redazione Movieplayer"
+        },
+        {
+          "title": "Quentin Tarantino & le sue girls - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Fri, 05 Feb 2016 08:00:00 GMT",
+          "description": "Quentin Tarantino & le sue girls Amica.it"
+        },
+        {
+          "title": "Gli odiosi otto di Tarantino - Corriere del Ticino",
+          "source": "Corriere del Ticino",
+          "pubDate": "Sat, 06 Feb 2016 08:00:00 GMT",
+          "description": "Gli odiosi otto di Tarantino Corriere del Ticino"
+        },
+        {
+          "title": "Recensione Il Grande Silenzio - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Wed, 03 Feb 2016 08:00:00 GMT",
+          "description": "Recensione Il Grande Silenzio Everyeye Cinema"
+        },
+        {
+          "title": "The Hateful Eight - Onda Cinema",
+          "source": "Onda Cinema",
+          "pubDate": "Fri, 05 Feb 2016 08:00:00 GMT",
+          "description": "The Hateful Eight Onda Cinema"
+        },
+        {
+          "title": "Perché The Hateful Eight è il film più nichilista e spietato di Quentin Tarantino - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sat, 06 Feb 2016 08:00:00 GMT",
+          "description": "Perché The Hateful Eight è il film più nichilista e spietato di Quentin Tarantino Movieplayer"
+        },
+        {
+          "title": "The Hateful Eight, lo schiaffo di Tarantino - 2duerighe",
+          "source": "2duerighe",
+          "pubDate": "Sun, 07 Feb 2016 08:00:00 GMT",
+          "description": "The Hateful Eight, lo schiaffo di Tarantino 2duerighe"
+        }
+      ]
+    },
+    "Troy_(film)": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Troy è un film del 2004 diretto e co-prodotto da Wolfgang Petersen.",
+      "news": [
+        {
+          "title": "Diane Kruger (attrice Troy) chi è il fidanzato Joshua Jackson FOTO - LadyBlitz",
+          "source": "LadyBlitz",
+          "pubDate": "Wed, 03 Feb 2016 08:00:00 GMT",
+          "description": "Diane Kruger (attrice Troy) chi è il fidanzato Joshua Jackson FOTO LadyBlitz"
+        },
+        {
+          "title": "Checco Zalone e Leonardo Pieraccioni si dividono gli ascolti del 3 febbraio 2016 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "Checco Zalone e Leonardo Pieraccioni si dividono gli ascolti del 3 febbraio 2016 Fanpage"
+        },
+        {
+          "title": "Brad Pitt FOTO com’era e com’è: vita privata e curiosità - LadyBlitz",
+          "source": "LadyBlitz",
+          "pubDate": "Wed, 03 Feb 2016 08:00:00 GMT",
+          "description": "Brad Pitt FOTO com’era e com’è: vita privata e curiosità LadyBlitz"
+        }
+      ]
+    },
+    "Carnevale": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Carnevale, detto anche Carnesciale o Carnasciale nell'antichità, è una festa mobile e un periodo dell'anno che precede il tempo liturgico della Quaresima, che dura da febbraio a marzo e prevede celebrazioni pubbliche, tra cui eventi come parate, giochi di strada e altri intrattenimenti, che combinano alcuni elementi di un circo.",
+      "news": [
+        {
+          "title": "Un Carnevale all'Opera dei Pupi - Notizie ed Eventi - Portale del Turismo - Comune di Palermo",
+          "source": "Comune di Palermo",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "Un Carnevale all'Opera dei Pupi - Notizie ed Eventi - Portale del Turismo Comune di Palermo"
+        },
+        {
+          "title": "Carri, musica e coriandoli, a Brindisi va in scena il carnevale - BrindisiReport",
+          "source": "BrindisiReport",
+          "pubDate": "Sun, 07 Feb 2016 08:00:00 GMT",
+          "description": "Carri, musica e coriandoli, a Brindisi va in scena il carnevale BrindisiReport"
+        },
+        {
+          "title": "Carnevale: i costumi dei cartoni anni 80 - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Fri, 05 Feb 2016 08:00:00 GMT",
+          "description": "Carnevale: i costumi dei cartoni anni 80 Amica.it"
+        },
+        {
+          "title": "Quando Bari aveva un suo Carnevale: tra grida e falò si celebrava il \"funerale di Rocco\" - Barinedita",
+          "source": "Barinedita",
+          "pubDate": "Tue, 02 Feb 2016 08:00:00 GMT",
+          "description": "Quando Bari aveva un suo Carnevale: tra grida e falò si celebrava il \"funerale di Rocco\" Barinedita"
+        },
+        {
+          "title": "Una frappa lunga cento metri protagonista del Carnevale di Monti Tiburtini - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Wed, 03 Feb 2016 08:00:00 GMT",
+          "description": "Una frappa lunga cento metri protagonista del Carnevale di Monti Tiburtini RomaToday"
+        },
+        {
+          "title": "Brasile, spettacolo a ritmo di samba: al via il Carnevale - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 06 Feb 2016 08:00:00 GMT",
+          "description": "Brasile, spettacolo a ritmo di samba: al via il Carnevale la Repubblica"
+        },
+        {
+          "title": "Venezia, viaggio nel carnevale smascherato: “Non abbiamo paura di niente” - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Venezia, viaggio nel carnevale smascherato: “Non abbiamo paura di niente” La Stampa"
+        },
+        {
+          "title": "Carnevale 2016, dalla guerra di Troia a Pinocchio. Le contrade in maschera sfilano a Urbino - FOTO - Ifg Urbino",
+          "source": "Ifg Urbino",
+          "pubDate": "Sun, 07 Feb 2016 08:00:00 GMT",
+          "description": "Carnevale 2016, dalla guerra di Troia a Pinocchio. Le contrade in maschera sfilano a Urbino - FOTO Ifg Urbino"
+        },
+        {
+          "title": "Varenna, pienone a Villa Monastero per la festa di Carnevale - LeccoToday",
+          "source": "LeccoToday",
+          "pubDate": "Mon, 08 Feb 2016 08:00:00 GMT",
+          "description": "Varenna, pienone a Villa Monastero per la festa di Carnevale LeccoToday"
+        },
+        {
+          "title": "Minions o gran ballo in maschera? Programma il tuo Carnevale - L'Eco di Bergamo",
+          "source": "L'Eco di Bergamo",
+          "pubDate": "Tue, 02 Feb 2016 08:00:00 GMT",
+          "description": "Minions o gran ballo in maschera? Programma il tuo Carnevale L'Eco di Bergamo"
+        }
+      ]
+    },
+    "Now_You_See_Me_-_I_maghi_del_crimine": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Now You See Me - I maghi del crimine è un film del 2013 diretto da Louis Leterrier.",
+      "news": []
+    },
+    "Jude_Law": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "David Jude Heyworth Law è un attore britannico.",
+      "news": [
+        {
+          "title": "Stasera in TV: Il talento di Mr. Ripley. Hollywood arriva in Italia su una scia di sangue - Film.it",
+          "source": "Film.it",
+          "pubDate": "Sat, 06 Feb 2016 08:00:00 GMT",
+          "description": "Stasera in TV: Il talento di Mr. Ripley. Hollywood arriva in Italia su una scia di sangue Film.it"
+        },
+        {
+          "title": "Jude Law saluta… - C'è posta per te Archivio | Witty TV - Witty TV",
+          "source": "Witty TV",
+          "pubDate": "Sat, 06 Feb 2016 08:00:00 GMT",
+          "description": "Jude Law saluta… - C'è posta per te Archivio | Witty TV Witty TV"
+        },
+        {
+          "title": "Intervista a Stefania Rocca in Scandalo di Schnitzler: siamo più attenti al pregiudizio che all'essenza - SpettacoloMania.it -",
+          "source": "SpettacoloMania.it -",
+          "pubDate": "Tue, 02 Feb 2016 08:00:00 GMT",
+          "description": "Intervista a Stefania Rocca in Scandalo di Schnitzler: siamo più attenti al pregiudizio che all'essenza SpettacoloMania.it -"
+        },
+        {
+          "title": "Dylan Lee, figlio di Pamela Anderson, e i modelli scelti per il Dna «famoso» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 03 Feb 2016 08:00:00 GMT",
+          "description": "Dylan Lee, figlio di Pamela Anderson, e i modelli scelti per il Dna «famoso» Corriere della Sera"
+        },
+        {
+          "title": "Jude Law FOTO com’era e com’è: vita privata e curiosità - LadyBlitz",
+          "source": "LadyBlitz",
+          "pubDate": "Sat, 06 Feb 2016 08:00:00 GMT",
+          "description": "Jude Law FOTO com’era e com’è: vita privata e curiosità LadyBlitz"
+        },
+        {
+          "title": "C’è posta per te: Jude Law è l’ospite internazionale di Maria De Filippi - LaNostraTv",
+          "source": "LaNostraTv",
+          "pubDate": "Wed, 03 Feb 2016 08:00:00 GMT",
+          "description": "C’è posta per te: Jude Law è l’ospite internazionale di Maria De Filippi LaNostraTv"
+        },
+        {
+          "title": "Jude Law ospite a C’è posta per te il regalo ad una fan - Tuttouomini",
+          "source": "Tuttouomini",
+          "pubDate": "Fri, 05 Feb 2016 08:00:00 GMT",
+          "description": "Jude Law ospite a C’è posta per te il regalo ad una fan Tuttouomini"
+        },
+        {
+          "title": "Sogno e Son Desto 3, Massimo Ranieri chiude senza ‘Perdere l’amore’ (e non va bene) - TvBlog",
+          "source": "TvBlog",
+          "pubDate": "Sat, 06 Feb 2016 08:00:00 GMT",
+          "description": "Sogno e Son Desto 3, Massimo Ranieri chiude senza ‘Perdere l’amore’ (e non va bene) TvBlog"
+        }
+      ]
+    },
+    "Leonardo_DiCaprio": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Leonardo Wilhelm DiCaprio è un attore, produttore cinematografico e ambientalista statunitense.",
+      "news": [
+        {
+          "title": "Oscar 2016: Leonardo DiCaprio in 14 film da rivedere - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Oscar 2016: Leonardo DiCaprio in 14 film da rivedere ELLE"
+        },
+        {
+          "title": "Leonardo DiCaprio e Kate Winslet: il ritorno di Jack e Rose sul red carpet - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Leonardo DiCaprio e Kate Winslet: il ritorno di Jack e Rose sul red carpet ELLE"
+        }
+      ]
+    },
+    "Bacio_Perugina": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Bacio Perugina è un cioccolatino dalla forma irregolare e tondeggiante, farcito con gianduia, granella di nocciola e ricoperto di cioccolato fondente. È prodotto dalla Perugina a Perugia.",
+      "news": [
+        {
+          "title": "Stasera fiction su Luisa Spagnoli (la donna che creò il Bacio perugina) - Sito della Rivista Millionaire",
+          "source": "Sito della Rivista Millionaire",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Stasera fiction su Luisa Spagnoli (la donna che creò il Bacio perugina) Sito della Rivista Millionaire"
+        },
+        {
+          "title": "Luisa Spagnoli, 8 milioni di spettatori per la fiction sul genio (sconosciuto ai più) del marketing - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "Luisa Spagnoli, 8 milioni di spettatori per la fiction sul genio (sconosciuto ai più) del marketing Il Fatto Quotidiano"
+        },
+        {
+          "title": "Luisa Spagnoli in una fiction su Rai Uno che racconta la sua storia - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Luisa Spagnoli in una fiction su Rai Uno che racconta la sua storia ELLE"
+        },
+        {
+          "title": "Bacio da record. San Valentino, Firenze invita gli innamorati per entrare nel Guinness - Agenziaimpress.it",
+          "source": "Agenziaimpress.it",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "Bacio da record. San Valentino, Firenze invita gli innamorati per entrare nel Guinness Agenziaimpress.it"
+        }
+      ]
+    },
+    "Mark_Zuckerberg": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mark Elliot Zuckerberg è un informatico e imprenditore statunitense, conosciuto per essere uno dei fondatori del social network Facebook.\nDal 2004 Zuckerberg è presidente e amministratore delegato di Meta Platforms.",
+      "news": [
+        {
+          "title": "Il video di auguri di Mark Zuckerberg per il Capodanno cinese, in mandarino - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 08 Feb 2016 08:00:00 GMT",
+          "description": "Il video di auguri di Mark Zuckerberg per il Capodanno cinese, in mandarino Il Post"
+        }
+      ]
+    },
+    "Gabriel_Garko": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gabriel Garko, pseudonimo di Dario Oliviero è un attore ed ex modello italiano.",
+      "news": [
+        {
+          "title": "Esplode villa che ospita Garko, l’attore ferito in ospedale - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Esplode villa che ospita Garko, l’attore ferito in ospedale Corriere della Sera"
+        },
+        {
+          "title": "Sanremo 2016, Gabriel Garko: ritratto del \"bello che non balla\". Dalle fiction inguardabili al palco dell'Ariston: Gabriel, stupiscici - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "Sanremo 2016, Gabriel Garko: ritratto del \"bello che non balla\". Dalle fiction inguardabili al palco dell'Ariston: Gabriel, stupiscici Il Fatto Quotidiano"
+        },
+        {
+          "title": "Gabriel Garko dopo l'incidente: \"Quello che provo rimarrà solo mio\". A Sanremo l'attore ci sarà - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 05 Feb 2016 08:00:00 GMT",
+          "description": "Gabriel Garko dopo l'incidente: \"Quello che provo rimarrà solo mio\". A Sanremo l'attore ci sarà RaiNews"
+        },
+        {
+          "title": "Esplode la villa che ospita Gabriel Garko, morta la proprietaria - TorinoToday",
+          "source": "TorinoToday",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Esplode la villa che ospita Gabriel Garko, morta la proprietaria TorinoToday"
+        },
+        {
+          "title": "L’attore Gabriel Garko è stato ricoverato in ospedale dopo un’esplosione avvenuta nella casa dove viveva temporaneamente a Sanremo - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "L’attore Gabriel Garko è stato ricoverato in ospedale dopo un’esplosione avvenuta nella casa dove viveva temporaneamente a Sanremo Il Post"
+        },
+        {
+          "title": "Sanremo, esplode villa che ospita Gabriel Garko, muore l'anziana proprietaria (video-foto) - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Sanremo, esplode villa che ospita Gabriel Garko, muore l'anziana proprietaria (video-foto) la Repubblica"
+        },
+        {
+          "title": "Sanremo 2016, Gabriel Garko: \"Sto bene, condurrò con questa banda di pazzi\" - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Mon, 08 Feb 2016 08:00:00 GMT",
+          "description": "Sanremo 2016, Gabriel Garko: \"Sto bene, condurrò con questa banda di pazzi\" Tgcom24"
+        },
+        {
+          "title": "Gabriel Garko su Facebook, nulla sarà come prima - AGI",
+          "source": "AGI",
+          "pubDate": "Fri, 05 Feb 2016 08:00:00 GMT",
+          "description": "Gabriel Garko su Facebook, nulla sarà come prima AGI"
+        },
+        {
+          "title": "11 uomini al posto di Gabriel Garko a Sanremo - ELLE",
+          "source": "ELLE",
+          "pubDate": "Sun, 07 Feb 2016 08:00:00 GMT",
+          "description": "11 uomini al posto di Gabriel Garko a Sanremo ELLE"
+        },
+        {
+          "title": "Gabriel Garko dopo l'esplosione: \"Pensavo di morire\" - Today",
+          "source": "Today",
+          "pubDate": "Tue, 02 Feb 2016 08:00:00 GMT",
+          "description": "Gabriel Garko dopo l'esplosione: \"Pensavo di morire\" Today"
+        }
+      ]
+    },
+    "Festival_di_Sanremo_2016": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il sessantaseiesimo Festival di Sanremo si è svolto al teatro Ariston di Sanremo dal 9 al 13 febbraio 2016 con la conduzione, per il secondo anno consecutivo, di Carlo Conti. Nell'occasione è stato affiancato dall'attore Gabriel Garko, dalla modella e attrice rumena Mădălina Ghenea e dall'attrice comica Virginia Raffaele, la quale ha interpretato un diverso personaggio per ogni serata: Sabrina Ferilli nella prima, Carla Fracci nella seconda, Donatella Versace nella terza, Belén Rodríguez nella quarta e, infine, sé stessa nella serata finale.",
+      "news": [
+        {
+          "title": "Sanremo 2016, tutti i testi delle canzoni - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Sanremo 2016, tutti i testi delle canzoni TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Festival di Sanremo 2016 – il programma delle serate: ospiti e cantanti in gara - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 08 Feb 2016 08:00:00 GMT",
+          "description": "Festival di Sanremo 2016 – il programma delle serate: ospiti e cantanti in gara Il Fatto Quotidiano"
+        },
+        {
+          "title": "Festival di Sanremo 2016: Morgan, Elio, Dear Jack e Noemi tra i Big di Carlo Conti - ANSA",
+          "source": "ANSA",
+          "pubDate": "Tue, 02 Feb 2016 08:00:00 GMT",
+          "description": "Festival di Sanremo 2016: Morgan, Elio, Dear Jack e Noemi tra i Big di Carlo Conti ANSA"
+        },
+        {
+          "title": "Rai Uno - Sanremo 2016 - L'offerta web di #sanremo2016 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 08 Feb 2016 08:00:00 GMT",
+          "description": "Rai Uno - Sanremo 2016 - L'offerta web di #sanremo2016 RaiPlay"
+        },
+        {
+          "title": "Festival di Sanremo 2016, Lorenzo Fragola canta ‘Siamo uguali’ - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 08 Feb 2016 08:00:00 GMT",
+          "description": "Festival di Sanremo 2016, Lorenzo Fragola canta ‘Siamo uguali’ Fanpage"
+        },
+        {
+          "title": "Sanremo 2016, ritratto di Carlo Conti: l'uomo-azienda pronto a farsi concavo e convesso per mamma Rai - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 02 Feb 2016 08:00:00 GMT",
+          "description": "Sanremo 2016, ritratto di Carlo Conti: l'uomo-azienda pronto a farsi concavo e convesso per mamma Rai Il Fatto Quotidiano"
+        },
+        {
+          "title": "Sanremo 2016, l'analisi dei testi delle canzoni: è Lorenzo Fragola a cantare le parole più brutte, ma anche i Dear Jack non scherzano - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "Sanremo 2016, l'analisi dei testi delle canzoni: è Lorenzo Fragola a cantare le parole più brutte, ma anche i Dear Jack non scherzano Il Fatto Quotidiano"
+        },
+        {
+          "title": "FESTIVAL DI SANREMO 2016: ALESSIO BERNABEI - Davide Maggio",
+          "source": "Davide Maggio",
+          "pubDate": "Mon, 08 Feb 2016 08:00:00 GMT",
+          "description": "FESTIVAL DI SANREMO 2016: ALESSIO BERNABEI Davide Maggio"
+        },
+        {
+          "title": "FESTIVAL DI SANREMO 2016: MORGAN E I BLUVERTIGO - Davide Maggio",
+          "source": "Davide Maggio",
+          "pubDate": "Sun, 07 Feb 2016 08:00:00 GMT",
+          "description": "FESTIVAL DI SANREMO 2016: MORGAN E I BLUVERTIGO Davide Maggio"
+        },
+        {
+          "title": "FESTIVAL DI SANREMO 2016: DOLCENERA - Davide Maggio",
+          "source": "Davide Maggio",
+          "pubDate": "Sun, 07 Feb 2016 08:00:00 GMT",
+          "description": "FESTIVAL DI SANREMO 2016: DOLCENERA Davide Maggio"
+        }
+      ]
+    },
+    "Grey's_Anatomy": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Grey's Anatomy è una serie televisiva statunitense prodotta dal 2005 e trasmessa da ABC.",
+      "news": [
+        {
+          "title": "OTP Weekly: L’angolo delle Shipper vol. 26 – Supergirl e Undateable - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Sun, 07 Feb 2016 08:00:00 GMT",
+          "description": "OTP Weekly: L’angolo delle Shipper vol. 26 – Supergirl e Undateable Telefilm Central"
+        },
+        {
+          "title": "#FriendsDay: Le 16 amicizie più belle delle serie tv - alfemminile",
+          "source": "alfemminile",
+          "pubDate": "Thu, 04 Feb 2016 08:00:00 GMT",
+          "description": "#FriendsDay: Le 16 amicizie più belle delle serie tv alfemminile"
+        }
+      ]
+    },
+    "Fast_&_Furious_6": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fast & Furious 6, conosciuto anche come Furious 6, è un film del 2013 diretto da Justin Lin.",
+      "news": [
+        {
+          "title": "Breve guida a Fast & Furious 6, con riassunto dei primi 5 - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 01 Feb 2016 08:00:00 GMT",
+          "description": "Breve guida a Fast & Furious 6, con riassunto dei primi 5 Il Post"
+        },
+        {
+          "title": "\"Fast and furious\" in salsa triestina: due ventenni fermati dai Carabinieri - TriestePrima",
+          "source": "TriestePrima",
+          "pubDate": "Sat, 06 Feb 2016 08:00:00 GMT",
+          "description": "\"Fast and furious\" in salsa triestina: due ventenni fermati dai Carabinieri TriestePrima"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T15:56:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "E' online Motorsport.com Italia - Motor1.com Italia",
+          "source": "Motor1.com Italia",
+          "pubDate": "Mon, 08 Feb 2016 08:00:00 GMT",
+          "description": "E' online Motorsport.com Italia Motor1.com Italia"
+        }
+      ]
+    }
+  }
+}

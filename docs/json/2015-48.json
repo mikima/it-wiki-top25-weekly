@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Black%20Friday%20%28shopping%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Black_Friday_(shopping)",
       "article_url": "https://it.wikipedia.org/wiki/Black_Friday_(shopping)",
-      "description": "",
+      "description": "Il 27 novembre cade il Black Friday, giornata di offerte commerciali successiva al Ringraziamento negli Stati Uniti.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorno%20del%20ringraziamento&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Giorno_del_ringraziamento",
       "article_url": "https://it.wikipedia.org/wiki/Giorno_del_ringraziamento",
-      "description": "festa religiosa statunitense e canadese",
+      "description": "Il 26 novembre si celebra negli Stati Uniti il Giorno del Ringraziamento, seguito dal Black Friday.",
       "image_filename": "The_First_Thanksgiving_cph.3g04961.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_First_Thanksgiving_cph.3g04961.jpg/1280px-The_First_Thanksgiving_cph.3g04961.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_First_Thanksgiving_cph.3g04961.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Australopithecus%20afarensis&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Australopithecus_afarensis",
       "article_url": "https://it.wikipedia.org/wiki/Australopithecus_afarensis",
-      "description": "specie di animali della famiglia Hominidae",
+      "description": "Specie di ominide estinta, cui appartiene Lucy: il 24 novembre cade il 41° anniversario della scoperta del suo fossile.",
       "image_filename": "Lucy_Mexico.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lucy_Mexico.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lucy_Mexico.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Stato%20Islamico&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Stato_Islamico",
       "article_url": "https://it.wikipedia.org/wiki/Stato_Islamico",
-      "description": "",
+      "description": "Organizzazione jihadista nota come ISIS, il 14 novembre rivendica gli attentati compiuti a Parigi la sera precedente.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Luca%20De%20Filippo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Luca_De_Filippo",
       "article_url": "https://it.wikipedia.org/wiki/Luca_De_Filippo",
-      "description": "attore e regista teatrale italiano (1948-2015)",
+      "description": "Attore e regista teatrale italiano, figlio di Eduardo De Filippo, muore il 27 novembre a 67 anni.",
       "image_filename": "Luca_De_FilippoNazionale.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Luca_De_FilippoNazionale.jpg/1280px-Luca_De_FilippoNazionale.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luca_De_FilippoNazionale.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Adele%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Adele_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Adele_(cantante)",
-      "description": "cantautrice e produttrice discografica britannica",
+      "description": "Cantautrice britannica, il 26 novembre annuncia due concerti all'Arena di Verona per il 2016.",
       "image_filename": "Adele_2016.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/1280px-Adele_2016.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Adele_2016.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Attentati%20del%2013%20novembre%202015%20a%20Parigi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Attentati_del_13_novembre_2015_a_Parigi",
       "article_url": "https://it.wikipedia.org/wiki/Attentati_del_13_novembre_2015_a_Parigi",
-      "description": "",
+      "description": "Il 13 novembre gli attacchi a Parigi e Saint-Denis provocano 130 morti; lo Stato Islamico li rivendica il giorno seguente.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Ron%20Howard&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Ron_Howard",
       "article_url": "https://it.wikipedia.org/wiki/Ron_Howard",
-      "description": "regista, produttore cinematografico e attore statunitense",
+      "description": "Regista e attore statunitense, il 29 novembre è ospite di Che tempo che fa su Rai 3.",
       "image_filename": "RonHoward2023.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RonHoward2023.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RonHoward2023.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Giubileo%20universale%20della%20Chiesa%20cattolica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Giubileo_universale_della_Chiesa_cattolica",
       "article_url": "https://it.wikipedia.org/wiki/Giubileo_universale_della_Chiesa_cattolica",
-      "description": "celebrazione religiosa della Chiesa cattolica",
+      "description": "Anno di riconciliazione e penitenza per i cattolici: il 29 novembre papa Francesco apre la porta santa a Bangui.",
       "image_filename": "Giubileo_della_Redenzione_-_Apertura_della_Porta_Santa.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Giubileo_della_Redenzione_-_Apertura_della_Porta_Santa.jpg/1280px-Giubileo_della_Redenzione_-_Apertura_della_Porta_Santa.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giubileo_della_Redenzione_-_Apertura_della_Porta_Santa.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Quantico%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Quantico_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Quantico_(serie_televisiva)",
-      "description": "serie televisiva statunitense",
+      "description": "La serie statunitense, trasmessa in Italia su Fox dal 18 novembre, va in onda anche il 25 novembre.",
       "image_filename": "Quantico_serie_TV.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/c/c2/Quantico_serie_TV.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Quantico_serie_TV.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Jamie%20Vardy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Jamie_Vardy",
       "article_url": "https://it.wikipedia.org/wiki/Jamie_Vardy",
-      "description": "calciatore inglese (1987-)",
+      "description": "Attaccante inglese del Leicester, il 28 novembre segna contro il Manchester United nell'undicesima partita consecutiva di Premier League.",
       "image_filename": "Jamie_Vardy_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jamie_Vardy_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jamie_Vardy_2018.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Walking%20Dead%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=The_Walking_Dead_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Walking_Dead_(serie_televisiva)",
-      "description": "serie televisiva statunitense (2010-2022)",
+      "description": "Il 23 novembre va in onda su Fox il settimo episodio della sesta stagione della serie.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Guerre%20stellari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Guerre_stellari",
       "article_url": "https://it.wikipedia.org/wiki/Guerre_stellari",
-      "description": "franchise creato da George Lucas",
+      "description": "Saga creata da George Lucas, attende l'uscita italiana di Il risveglio della Forza il 16 dicembre.",
       "image_filename": "Star_Wars_Logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1280px-Star_Wars_Logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_Wars_Logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Vladimir%20Putin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Vladimir_Putin",
       "article_url": "https://it.wikipedia.org/wiki/Vladimir_Putin",
-      "description": "politico e agente segreto russo, funzionario del KGB e presidente della Federazione Russa (2000–2008, 2012–oggi)",
+      "description": "Presidente russo, il 24 novembre condanna l'abbattimento di un jet russo da parte della Turchia al confine con la Siria.",
       "image_filename": "Владимир_Путин_(2025-09-30).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%282025-09-30%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(2025-09-30).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Hunger%20Games%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Hunger_Games_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Hunger_Games_(film)",
-      "description": "film del 2012 diretto da Gary Ross",
+      "description": "Film del 2012 diretto da Gary Ross, è il primo della saga il cui capitolo finale esce al cinema il 18 novembre.",
       "image_filename": "Hunger_Games.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a2/Hunger_Games.png/1280px-Hunger_Games.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hunger_Games.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Grey%27s_Anatomy",
       "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
-      "description": "serie televisiva statunitense del 2005",
+      "description": "La dodicesima stagione va in onda su Fox Life dal 9 novembre; è la 22ª settimana consecutiva in classifica.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Visit%20%28film%202015%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=The_Visit_(film_2015)",
       "article_url": "https://it.wikipedia.org/wiki/The_Visit_(film_2015)",
-      "description": "film del 2015 diretto da M. Night Shyamalan",
+      "description": "Film horror diretto da M. Night Shyamalan, esce nelle sale italiane il 26 novembre.",
       "image_filename": "The_Visit.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6b/The_Visit.png/1280px-The_Visit.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Visit.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Jessica%20Jones%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Jessica_Jones_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Jessica_Jones_(serie_televisiva)",
-      "description": "serie televisiva statunitense (2015-2019)",
+      "description": "La prima stagione della serie Marvel viene pubblicata su Netflix il 20 novembre.",
       "image_filename": "Jessica_Jones_Logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/4/49/Jessica_Jones_Logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jessica_Jones_Logo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=George%20Best&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=George_Best",
       "article_url": "https://it.wikipedia.org/wiki/George_Best",
-      "description": "calciatore nordirlandese (1946-2005)",
+      "description": "Calciatore nordirlandese e stella del Manchester United, il 25 novembre ricorre il decimo anniversario della sua morte.",
       "image_filename": "George_Best_(1976).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/George_Best_%281976%29.jpg/1280px-George_Best_%281976%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:George_Best_(1976).jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Questo%20%C3%A8%20il%20mio%20paese&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Questo_%C3%A8_il_mio_paese",
       "article_url": "https://it.wikipedia.org/wiki/Questo_%C3%A8_il_mio_paese",
-      "description": "serie televisiva italiana",
+      "description": "La miniserie italiana diretta da Michele Soavi va in onda il 23 novembre su Rai 1.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Io%20sono%20leggenda%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Io_sono_leggenda_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Io_sono_leggenda_(film)",
-      "description": "film del 2007 diretto da Francis Lawrence",
+      "description": "Film del 2007 diretto da Francis Lawrence, con Will Smith. Il motivo del picco del 26 novembre non è chiaro.",
       "image_filename": "Io_sono_leggenda_(film).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/03/Io_sono_leggenda_%28film%29.png/1280px-Io_sono_leggenda_%28film%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Io_sono_leggenda_(film).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Sukhoi%20Su-24&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Sukhoi_Su-24",
       "article_url": "https://it.wikipedia.org/wiki/Sukhoi_Su-24",
-      "description": "cacciabombardiere Sukhoi",
+      "description": "Bombardiere di fabbricazione sovietica, il 24 novembre un esemplare russo viene abbattuto dalla Turchia al confine con la Siria.",
       "image_filename": "Sukhoi_Su-24_inflight_Mishin-2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sukhoi_Su-24_inflight_Mishin-2.jpg/1024px-Sukhoi_Su-24_inflight_Mishin-2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-24_inflight_Mishin-2.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Vampire%20Diaries&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=The_Vampire_Diaries",
       "article_url": "https://it.wikipedia.org/wiki/The_Vampire_Diaries",
-      "description": "serie televisiva statunitense (2009-2017)",
+      "description": "Serie televisiva statunitense basata sui romanzi di Lisa J. Smith; nessun picco di rilievo nella settimana.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Episodi%20di%20The%20Walking%20Dead%20%28sesta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/23/2015,cd_max:11/29/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-23&end=2015-11-29&pages=Episodi_di_The_Walking_Dead_(sesta_stagione)",
       "article_url": "https://it.wikipedia.org/wiki/Episodi_di_The_Walking_Dead_(sesta_stagione)",
-      "description": "stagione televisiva",
+      "description": "Il settimo episodio della sesta stagione va in onda il 23 novembre su Fox.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

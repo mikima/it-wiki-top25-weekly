@@ -503,13 +503,14 @@
       "google_news_url": "https://www.google.it/search?q=Dart%20Fener&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Dart_Fener",
       "article_url": "https://it.wikipedia.org/wiki/Dart_Fener",
-      "description": "personaggio dell'universo di Guerre stellari",
+      "description": "Antagonista della saga di Guerre stellari, il picco è probabilmente legato all'uscita de Il risveglio della Forza il 16 dicembre.",
       "image_filename": "Dartfener.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/0/08/Dartfener.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dartfener.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +549,14 @@
       "google_news_url": "https://www.google.it/search?q=Adele%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Adele_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Adele_(cantante)",
-      "description": "cantautrice e produttrice discografica britannica",
+      "description": "Cantautrice britannica, il 13 dicembre si esibisce nella finale di X Factor UK; il 6 dicembre è ospite di Che tempo che fa su Rai 3.",
       "image_filename": "Adele_2016.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/1280px-Adele_2016.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Adele_2016.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +595,14 @@
       "google_news_url": "https://www.google.it/search?q=Daisy%20Ridley&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Daisy_Ridley",
       "article_url": "https://it.wikipedia.org/wiki/Daisy_Ridley",
-      "description": "attrice britannica",
+      "description": "Attrice britannica, interpreta Rey in Star Wars: Il risveglio della Forza, uscito nelle sale italiane il 16 dicembre.",
       "image_filename": "Daisy_Ridley_Our_Movie_Guide_2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Daisy_Ridley_Our_Movie_Guide_2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Daisy_Ridley_Our_Movie_Guide_2024.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +641,14 @@
       "google_news_url": "https://www.google.it/search?q=Mark%20Hamill&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Mark_Hamill",
       "article_url": "https://it.wikipedia.org/wiki/Mark_Hamill",
-      "description": "attore e doppiatore statunitense (1951-)",
+      "description": "Attore statunitense, torna nel ruolo di Luke Skywalker in Star Wars: Il risveglio della Forza, uscito in Italia il 16 dicembre.",
       "image_filename": "Mark_Hamill_by_Gage_Skidmore_4.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mark_Hamill_by_Gage_Skidmore_4.jpg/1280px-Mark_Hamill_by_Gage_Skidmore_4.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mark_Hamill_by_Gage_Skidmore_4.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +687,14 @@
       "google_news_url": "https://www.google.it/search?q=Leicester%20City%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Leicester_City_Football_Club",
       "article_url": "https://it.wikipedia.org/wiki/Leicester_City_Football_Club",
-      "description": "club calcistico inglese di Leicester",
+      "description": "Il 14 dicembre il Leicester batte il Chelsea 2-1 in Premier League, con un gol di Jamie Vardy.",
       "image_filename": "Leicester_City_Logo_(2009).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a3/Leicester_City_Logo_%282009%29.svg/1280px-Leicester_City_Logo_%282009%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leicester_City_Logo_(2009).svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +733,14 @@
       "google_news_url": "https://www.google.it/search?q=Ho%20cercato%20il%20tuo%20nome%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Ho_cercato_il_tuo_nome_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Ho_cercato_il_tuo_nome_(film)",
-      "description": "film del 2012 diretto da Scott Hicks",
+      "description": "Film del 2012 diretto da Scott Hicks, non emerge una causa certa per il picco del 15 dicembre.",
       "image_filename": "Ho_cercato_il_tuo_nome.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/85/Ho_cercato_il_tuo_nome.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ho_cercato_il_tuo_nome.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +779,14 @@
       "google_news_url": "https://www.google.it/search?q=Star%20Wars%3A%20Episodio%20I%20-%20La%20minaccia%20fantasma&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Star_Wars%3A_Episodio_I_-_La_minaccia_fantasma",
       "article_url": "https://it.wikipedia.org/wiki/Star_Wars%3A_Episodio_I_-_La_minaccia_fantasma",
-      "description": "",
+      "description": "Film del 1999 di George Lucas, la presenza in classifica è probabilmente legata all'uscita de Il risveglio della Forza il 16 dicembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +825,14 @@
       "google_news_url": "https://www.google.it/search?q=Adam%20Driver&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Adam_Driver",
       "article_url": "https://it.wikipedia.org/wiki/Adam_Driver",
-      "description": "attore statunitense (1983-)",
+      "description": "Attore statunitense, interpreta Kylo Ren in Star Wars: Il risveglio della Forza, uscito in Italia il 16 dicembre.",
       "image_filename": "Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_(27163437599)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_%2827163437599%29_%28cropped%29.jpg/1280px-Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_%2827163437599%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Star_Wars-_The_Last_Jedi_Japan_Premiere_Red_Carpet-_Adam_Driver_(27163437599)_(cropped).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +871,14 @@
       "google_news_url": "https://www.google.it/search?q=Carrie%20Fisher&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Carrie_Fisher",
       "article_url": "https://it.wikipedia.org/wiki/Carrie_Fisher",
-      "description": "attrice, cabarettista, sceneggiatrice e scrittrice statunitense (1956-2016)",
+      "description": "Attrice statunitense, torna nel ruolo di Leila in Star Wars: Il risveglio della Forza, uscito in Italia il 16 dicembre.",
       "image_filename": "Carrie_Fisher_2013.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Carrie_Fisher_2013.jpg/1280px-Carrie_Fisher_2013.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carrie_Fisher_2013.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +917,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20ritorno%20dello%20Jedi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Il_ritorno_dello_Jedi",
       "article_url": "https://it.wikipedia.org/wiki/Il_ritorno_dello_Jedi",
-      "description": "film del 1983 diretto da Richard Marquand",
+      "description": "Film del 1983 di Richard Marquand, il picco è probabilmente legato all'uscita de Il risveglio della Forza il 16 dicembre.",
       "image_filename": "Il_ritorno_dello_Jedi.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d0/Il_ritorno_dello_Jedi.png/1280px-Il_ritorno_dello_Jedi.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_ritorno_dello_Jedi.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=Jamie%20Vardy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Jamie_Vardy",
       "article_url": "https://it.wikipedia.org/wiki/Jamie_Vardy",
-      "description": "calciatore inglese (1987-)",
+      "description": "Attaccante inglese del Leicester, il 14 dicembre segna nella vittoria per 2-1 contro il Chelsea in Premier League.",
       "image_filename": "Jamie_Vardy_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jamie_Vardy_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jamie_Vardy_2018.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Vampire%20Diaries&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=The_Vampire_Diaries",
       "article_url": "https://it.wikipedia.org/wiki/The_Vampire_Diaries",
-      "description": "serie televisiva statunitense (2009-2017)",
+      "description": "Serie televisiva statunitense, è in classifica per la quarta settimana consecutiva; non emerge una causa certa per il picco del 15 dicembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1088,13 +1100,14 @@
       "google_news_url": "https://www.google.it/search?q=Harrison%20Ford&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Harrison_Ford",
       "article_url": "https://it.wikipedia.org/wiki/Harrison_Ford",
-      "description": "attore statunitense (1942-)",
+      "description": "Attore statunitense, torna nel ruolo di Han Solo in Star Wars: Il risveglio della Forza, uscito in Italia il 16 dicembre.",
       "image_filename": "Harrison_Ford_-_Televerse_2025_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Harrison_Ford_-_Televerse_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Harrison_Ford_-_Televerse_2025_(cropped).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1146,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/14/2015,cd_max:12/20/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-12-14&end=2015-12-20&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

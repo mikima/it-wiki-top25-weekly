@@ -1,0 +1,518 @@
+{
+  "week": "2015-53",
+  "start_date": "2015-12-28",
+  "end_date": "2016-01-03",
+  "articles": {
+    "Medicus_(romanzo)": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Medicus è il primo della trilogia dei libri di Noah Gordon che racconta la storia dei medici della famiglia Cole: la storia si svolge intorno all'anno 1000, inizialmente nel Regno Unito e poi in Persia.",
+      "news": []
+    },
+    "Gotham_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gotham è una serie televisiva statunitense ideata da Bruno Heller e prodotta da Warner Bros. Television dal 22 settembre 2014 al 25 aprile 2019 sull'emittente Fox, basata sui personaggi della DC Comics che appaiono nel franchise di Batman.",
+      "news": [
+        {
+          "title": "Amori da telefilm, le 10 coppie nate sui set delle serie tv - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Wed, 30 Dec 2015 08:00:00 GMT",
+          "description": "Amori da telefilm, le 10 coppie nate sui set delle serie tv TV Sorrisi e Canzoni"
+        }
+      ]
+    },
+    "Motörhead": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Motörhead sono stati un gruppo musicale hard & heavy britannico, formatosi a Londra nel 1975 per iniziativa del cantante, bassista e leader Lemmy Kilmister e scioltosi alla fine del 2015 in seguito alla sua morte.",
+      "news": [
+        {
+          "title": "Il batterista: «I Motörhead sono finiti, ovviamente. Lemmy era i Motörhead». Una playlist per ricordare - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Il batterista: «I Motörhead sono finiti, ovviamente. Lemmy era i Motörhead». Una playlist per ricordare Rolling Stone Italia"
+        },
+        {
+          "title": "Muore Lemmy, leader dei Motorhead, eroe hard rock e metal: tumore fulminante lo uccide in 2 giorni - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Muore Lemmy, leader dei Motorhead, eroe hard rock e metal: tumore fulminante lo uccide in 2 giorni RaiNews"
+        },
+        {
+          "title": "Lemmy dei Motörhead è morto - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Lemmy dei Motörhead è morto Il Post"
+        },
+        {
+          "title": "Addio a Lemmy, leader dei Motörhead - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Addio a Lemmy, leader dei Motörhead Sky TG24"
+        },
+        {
+          "title": "Addio a Lemmy: i 5 brani indimenticabili dei Motorhead - Panorama",
+          "source": "Panorama",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Addio a Lemmy: i 5 brani indimenticabili dei Motorhead Panorama"
+        },
+        {
+          "title": "È morto Lemmy Kilmister, leggenda rock dagli Hawkwind ai Motörhead - sentireascoltare",
+          "source": "sentireascoltare",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "È morto Lemmy Kilmister, leggenda rock dagli Hawkwind ai Motörhead sentireascoltare"
+        },
+        {
+          "title": "È morto Lemmy Kilmister, fondatore e bassista dei Motörhead - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "È morto Lemmy Kilmister, fondatore e bassista dei Motörhead Fanpage"
+        },
+        {
+          "title": "È morto a 70 anni Lemmy Kilmister, fondatore e cantante dei Motörhead - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "È morto a 70 anni Lemmy Kilmister, fondatore e cantante dei Motörhead Euronews.com"
+        },
+        {
+          "title": "È morto Lemmy Kilmister, leader del gruppo rock Motörhead - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "È morto Lemmy Kilmister, leader del gruppo rock Motörhead Internazionale"
+        },
+        {
+          "title": "Addio a Lemmy dei Motörhead - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Addio a Lemmy dei Motörhead IGN Italia"
+        }
+      ]
+    },
+    "Andrea_Bocelli": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Andrea Bocelli è un cantante e tenore italiano.",
+      "news": [
+        {
+          "title": "Unici 2016 - Il mondo di Andrea Bocelli del 01/01/2016 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 01 Jan 2016 08:00:00 GMT",
+          "description": "Unici 2016 - Il mondo di Andrea Bocelli del 01/01/2016 - Video RaiPlay"
+        },
+        {
+          "title": "Facebook: i 40 cantanti italiani più amati nel 2015 - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Mon, 28 Dec 2015 08:00:00 GMT",
+          "description": "Facebook: i 40 cantanti italiani più amati nel 2015 www.panorama.it"
+        },
+        {
+          "title": "Addio Natalie Cole: una vita tra successi, droga e il ricordo del padre Nat King Cole - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 01 Jan 2016 08:00:00 GMT",
+          "description": "Addio Natalie Cole: una vita tra successi, droga e il ricordo del padre Nat King Cole la Repubblica"
+        }
+      ]
+    },
+    "Film_con_maggiori_incassi_nella_storia_del_cinema": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Questa è la classifica dei film con maggiori incassi nella storia del cinema; gli incassi sono espressi in dollari statunitensi e non viene tenuto conto del tasso d'inflazione.",
+      "news": [
+        {
+          "title": "Gli incassi dei film di Natale nei cinema italiani - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 28 Dec 2015 08:00:00 GMT",
+          "description": "Gli incassi dei film di Natale nei cinema italiani Il Post"
+        },
+        {
+          "title": "Zalone stellare, superati Harry Potter, Star Wars e tutti i suoi film - RB Casting",
+          "source": "RB Casting",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "Zalone stellare, superati Harry Potter, Star Wars e tutti i suoi film RB Casting"
+        },
+        {
+          "title": "Box-Office: tutti i peggiori flop al botteghino del 2015! - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sun, 03 Jan 2016 08:00:00 GMT",
+          "description": "Box-Office: tutti i peggiori flop al botteghino del 2015! BadTaste"
+        },
+        {
+          "title": "'Quo vado?' nuovo record, 22 milioni in 3 giorni per Zalone - ANSA",
+          "source": "ANSA",
+          "pubDate": "Mon, 04 Jan 2016 08:00:00 GMT",
+          "description": "'Quo vado?' nuovo record, 22 milioni in 3 giorni per Zalone ANSA"
+        },
+        {
+          "title": "In Cina i cinema vanno benissimo - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "In Cina i cinema vanno benissimo Il Post"
+        }
+      ]
+    },
+    "Renzo_Arbore": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lorenzo Giovanni Arbore, detto Renzo, è un cantautore, disc jockey, autore televisivo, autore radiofonico, conduttore radiofonico, conduttore televisivo, clarinettista, umorista, showman, sceneggiatore, regista, comico e talent scout italiano.",
+      "news": [
+        {
+          "title": "I ragazzi scatenati di Alto Gradimento - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Wed, 30 Dec 2015 08:00:00 GMT",
+          "description": "I ragazzi scatenati di Alto Gradimento Rai.it"
+        },
+        {
+          "title": "Vita in diretta - La vita in diretta del 28/12/2015 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 28 Dec 2015 08:00:00 GMT",
+          "description": "Vita in diretta - La vita in diretta del 28/12/2015 - Video RaiPlay"
+        },
+        {
+          "title": "“L’anno che verrà 2016”. In diretta da Matera su Rai Uno c’è un pò di Calabria con Vincenzo Capua, insieme a Renga, Marisa Ayane, Arbore - StrettoWeb",
+          "source": "StrettoWeb",
+          "pubDate": "Wed, 30 Dec 2015 08:00:00 GMT",
+          "description": "“L’anno che verrà 2016”. In diretta da Matera su Rai Uno c’è un pò di Calabria con Vincenzo Capua, insieme a Renga, Marisa Ayane, Arbore StrettoWeb"
+        }
+      ]
+    },
+    "Anno_bisestile": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Un anno bisestile è un anno solare in cui avviene la periodica intercalazione di un giorno aggiuntivo nell'anno stesso, un accorgimento utilizzato in quasi tutti i calendari solari per evitare lo slittamento delle stagioni. Per correggere questo slittamento, agli anni \"normali\" di 365 giorni si intercalano gli anni \"bisestili\" di 366: il giorno in più viene inserito nel mese di febbraio, il più corto dell'anno, che negli anni bisestili quindi conta 29 giorni anziché 28. In questo modo si può ottenere una durata media dell'anno pari a un numero non intero di giorni.",
+      "news": [
+        {
+          "title": "Meno vacanze nel 2016, tre giorni lavorativi in più - - Osservatore Libero",
+          "source": "Osservatore Libero",
+          "pubDate": "Sun, 03 Jan 2016 08:00:00 GMT",
+          "description": "Meno vacanze nel 2016, tre giorni lavorativi in più - Osservatore Libero"
+        },
+        {
+          "title": "\"Giove, Saturno e Venere vegliano su Prato. E i cinesi sentiranno la crisi\" - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Wed, 30 Dec 2015 08:00:00 GMT",
+          "description": "\"Giove, Saturno e Venere vegliano su Prato. E i cinesi sentiranno la crisi\" La Nazione"
+        }
+      ]
+    },
+    "Julie_Andrews": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Dame Julie Andrews, nata Julia Elizabeth Wells, è un'attrice, cantante e scrittrice britannica.",
+      "news": []
+    },
+    "Tiziano_Ferro": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Tiziano Ferro è un cantautore e produttore discografico italiano.",
+      "news": [
+        {
+          "title": "Tiziano Ferro – Lo Stadio su Raiuno: un uomo e l’amore - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Thu, 31 Dec 2015 08:00:00 GMT",
+          "description": "Tiziano Ferro – Lo Stadio su Raiuno: un uomo e l’amore www.panorama.it"
+        },
+        {
+          "title": "Alessandra Amoroso: anche Elisa, oltre a Ferro, nel prossimo album ‘Vivere a colori’ - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 04 Jan 2016 08:00:00 GMT",
+          "description": "Alessandra Amoroso: anche Elisa, oltre a Ferro, nel prossimo album ‘Vivere a colori’ Fanpage"
+        },
+        {
+          "title": "Alberto Salerno, l’autore vagabondo - Spettakolo!",
+          "source": "Spettakolo!",
+          "pubDate": "Sun, 03 Jan 2016 08:00:00 GMT",
+          "description": "Alberto Salerno, l’autore vagabondo Spettakolo!"
+        },
+        {
+          "title": "Alessandra Amoroso, nel nuovo album una canzone scritta con Elisa - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Sun, 03 Jan 2016 08:00:00 GMT",
+          "description": "Alessandra Amoroso, nel nuovo album una canzone scritta con Elisa TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "\"Volevo te\" lancia gli hits di Giusi Ferreri - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 04 Jan 2016 08:00:00 GMT",
+          "description": "\"Volevo te\" lancia gli hits di Giusi Ferreri la Repubblica"
+        },
+        {
+          "title": "Mauro Ermanno Giovanardi: il disco italiano del 2015, Pop con la P maiuscola - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Mauro Ermanno Giovanardi: il disco italiano del 2015, Pop con la P maiuscola Fanpage"
+        },
+        {
+          "title": "Facebook: i 40 cantanti italiani più amati nel 2015 - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Mon, 28 Dec 2015 08:00:00 GMT",
+          "description": "Facebook: i 40 cantanti italiani più amati nel 2015 www.panorama.it"
+        },
+        {
+          "title": "Tiziano Ferro prima e dopo: com’era all’inizio? FOTO - LadyBlitz",
+          "source": "LadyBlitz",
+          "pubDate": "Wed, 30 Dec 2015 08:00:00 GMT",
+          "description": "Tiziano Ferro prima e dopo: com’era all’inizio? FOTO LadyBlitz"
+        },
+        {
+          "title": "MICHELE BRAVI: \"Addio Youtube!\" E nel 2016 torna dal vivo con un lungo tour italiano dedicato all'album \"I hate music\" (DATE) - All Music Italia",
+          "source": "All Music Italia",
+          "pubDate": "Thu, 31 Dec 2015 08:00:00 GMT",
+          "description": "MICHELE BRAVI: \"Addio Youtube!\" E nel 2016 torna dal vivo con un lungo tour italiano dedicato all'album \"I hate music\" (DATE) All Music Italia"
+        }
+      ]
+    },
+    "Capodanno_a_New_York": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Capodanno a New York è un film del 2011 diretto da Garry Marshall.",
+      "news": [
+        {
+          "title": "New York: il tradizionale bagno di Capodanno degli «Orsi polari» a Coney Island - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 01 Jan 2016 08:00:00 GMT",
+          "description": "New York: il tradizionale bagno di Capodanno degli «Orsi polari» a Coney Island Corriere della Sera"
+        },
+        {
+          "title": "Abiti da sera vintage - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Abiti da sera vintage Il Post"
+        },
+        {
+          "title": "Capodanno nel mondo: le immagini Paura a Dubai, grattacielo in fiamme - L'Eco di Bergamo",
+          "source": "L'Eco di Bergamo",
+          "pubDate": "Fri, 01 Jan 2016 08:00:00 GMT",
+          "description": "Capodanno nel mondo: le immagini Paura a Dubai, grattacielo in fiamme L'Eco di Bergamo"
+        },
+        {
+          "title": "Rai avvia inchiesta su countdown sbagliato di Capodanno - AGI",
+          "source": "AGI",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "Rai avvia inchiesta su countdown sbagliato di Capodanno AGI"
+        },
+        {
+          "title": "Capodanno di speranza per il Pastificio Rummo: riprende la produzione - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Capodanno di speranza per il Pastificio Rummo: riprende la produzione la Repubblica"
+        },
+        {
+          "title": "Capodanno nelle metropoli, festa e paura attacchi - GiornaleSM",
+          "source": "GiornaleSM",
+          "pubDate": "Thu, 31 Dec 2015 08:00:00 GMT",
+          "description": "Capodanno nelle metropoli, festa e paura attacchi GiornaleSM"
+        },
+        {
+          "title": "Harry Styles e Kendall Jenner, Capodanno insieme tra teneri baci sullo yacht -Foto - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sun, 03 Jan 2016 08:00:00 GMT",
+          "description": "Harry Styles e Kendall Jenner, Capodanno insieme tra teneri baci sullo yacht -Foto Il Mattino"
+        },
+        {
+          "title": "Andrea Agnelli, prima foto social da New York con Deniz Akalin - Gossip.it",
+          "source": "Gossip.it",
+          "pubDate": "Mon, 04 Jan 2016 08:00:00 GMT",
+          "description": "Andrea Agnelli, prima foto social da New York con Deniz Akalin Gossip.it"
+        }
+      ]
+    },
+    "Revenant_-_Redivivo": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Revenant - Redivivo è un film del 2015 diretto da Alejandro González Iñárritu.",
+      "news": [
+        {
+          "title": "Revenant – Redivivo: la storia di sopravvivenza di Mauro Prosperi - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Thu, 31 Dec 2015 08:00:00 GMT",
+          "description": "Revenant – Redivivo: la storia di sopravvivenza di Mauro Prosperi www.panorama.it"
+        },
+        {
+          "title": "Star Wars e tutti i grandi rifiuti di Leonardo DiCaprio - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Thu, 31 Dec 2015 08:00:00 GMT",
+          "description": "Star Wars e tutti i grandi rifiuti di Leonardo DiCaprio Rolling Stone Italia"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "I temi più sentiti del 2015: la maternità in Italia, la guerra in Siria, la crisi dei rifugiati - Save the Children Italia",
+          "source": "Save the Children Italia",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "I temi più sentiti del 2015: la maternità in Italia, la guerra in Siria, la crisi dei rifugiati Save the Children Italia"
+        },
+        {
+          "title": "Famiglie a metà. L'omogenitorialità in Italia - inGenere",
+          "source": "inGenere",
+          "pubDate": "Mon, 28 Dec 2015 08:00:00 GMT",
+          "description": "Famiglie a metà. L'omogenitorialità in Italia inGenere"
+        },
+        {
+          "title": "Le 10 strade più belle d'Italia - Motor1.com Italia",
+          "source": "Motor1.com Italia",
+          "pubDate": "Fri, 01 Jan 2016 08:00:00 GMT",
+          "description": "Le 10 strade più belle d'Italia Motor1.com Italia"
+        }
+      ]
+    },
+    "Gianluca_Grignani": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gianluca Grignani è un cantautore, chitarrista e produttore discografico italiano.",
+      "news": [
+        {
+          "title": "Gianluca Grignani imbarazza Gigi D'Alessio: figuraccia in diretta a Capodanno - Today",
+          "source": "Today",
+          "pubDate": "Fri, 01 Jan 2016 08:00:00 GMT",
+          "description": "Gianluca Grignani imbarazza Gigi D'Alessio: figuraccia in diretta a Capodanno Today"
+        },
+        {
+          "title": "Gigi D’Alessio difende Gianluca Grignani: «Non era ubriaco, solo euforico» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 03 Jan 2016 08:00:00 GMT",
+          "description": "Gigi D’Alessio difende Gianluca Grignani: «Non era ubriaco, solo euforico» Corriere della Sera"
+        },
+        {
+          "title": "Grignani ubriaco sul palco con Gigi D'Alessio: l'ironia degli utenti di Twitter -Leggi - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "Grignani ubriaco sul palco con Gigi D'Alessio: l'ironia degli utenti di Twitter -Leggi Leggo.it"
+        },
+        {
+          "title": "Canale 5, esplode l’ironia sui social dopo il live di Grignani: “E’ ubriaco” - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 01 Jan 2016 08:00:00 GMT",
+          "description": "Canale 5, esplode l’ironia sui social dopo il live di Grignani: “E’ ubriaco” Il Fatto Quotidiano"
+        },
+        {
+          "title": "Grignani ubriaco, l'ironia degli utenti di Twitter. E Selvaggia Lucarelli attacca D'Alessio - Il Gazzettino",
+          "source": "Il Gazzettino",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "Grignani ubriaco, l'ironia degli utenti di Twitter. E Selvaggia Lucarelli attacca D'Alessio Il Gazzettino"
+        },
+        {
+          "title": "Grignani \"ubriaco\" sul palco con D'Alessio? La sua replica è su Facebook - Today",
+          "source": "Today",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "Grignani \"ubriaco\" sul palco con D'Alessio? La sua replica è su Facebook Today"
+        },
+        {
+          "title": "Gianluca Grignani «su di giri» al concerto di Capodanno di D’Alessio - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 01 Jan 2016 08:00:00 GMT",
+          "description": "Gianluca Grignani «su di giri» al concerto di Capodanno di D’Alessio Corriere della Sera"
+        },
+        {
+          "title": "Grignani ubriaco, la risposta del cantante. Gigi D'Alessio: Era solo euforico -Foto/Video - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Sun, 03 Jan 2016 08:00:00 GMT",
+          "description": "Grignani ubriaco, la risposta del cantante. Gigi D'Alessio: Era solo euforico -Foto/Video Leggo.it"
+        },
+        {
+          "title": "Anna Tatangelo accende il Capodanno di Canale 5 - GenteVip.it Gossip News",
+          "source": "GenteVip.it Gossip News",
+          "pubDate": "Mon, 04 Jan 2016 08:00:00 GMT",
+          "description": "Anna Tatangelo accende il Capodanno di Canale 5 GenteVip.it Gossip News"
+        }
+      ]
+    },
+    "Guerre_stellari_(film)": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Guerre stellari, successivamente rinominato Star Wars - Episodio IV - Una nuova speranza è un film del 1977 scritto e diretto da George Lucas, che ne è stato anche produttore esecutivo.",
+      "news": [
+        {
+          "title": "Mark Hamill, da Jedi a Joker: Il principe dei nerd - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 04 Jan 2016 08:00:00 GMT",
+          "description": "Mark Hamill, da Jedi a Joker: Il principe dei nerd Movieplayer"
+        },
+        {
+          "title": "George Lucas boccia il nuovo Star Wars: «È un’operazione “retrò”» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 31 Dec 2015 08:00:00 GMT",
+          "description": "George Lucas boccia il nuovo Star Wars: «È un’operazione “retrò”» Corriere della Sera"
+        },
+        {
+          "title": "Star Wars: in che ordine guardare l'intera saga? - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Mon, 04 Jan 2016 08:00:00 GMT",
+          "description": "Star Wars: in che ordine guardare l'intera saga? IGN Italia"
+        },
+        {
+          "title": "Le migliori citazioni di Star Wars nell’universo Simpson - Stay Nerd",
+          "source": "Stay Nerd",
+          "pubDate": "Wed, 30 Dec 2015 08:00:00 GMT",
+          "description": "Le migliori citazioni di Star Wars nell’universo Simpson Stay Nerd"
+        },
+        {
+          "title": "Harrison Ford dice sì, torna Indiana Jones - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "Harrison Ford dice sì, torna Indiana Jones La Stampa"
+        },
+        {
+          "title": "Focus on: Mark Hamill - Illyon, l'isola di informazione fantasy",
+          "source": "Illyon, l'isola di informazione fantasy",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "Focus on: Mark Hamill Illyon, l'isola di informazione fantasy"
+        },
+        {
+          "title": "Star Wars, il Millennium Falcon di Lego più grande che mai - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Star Wars, il Millennium Falcon di Lego più grande che mai la Repubblica"
+        },
+        {
+          "title": "I 5 migliori film del 2015 secondo DarksideCinema.it - www.darksidecinema.it",
+          "source": "www.darksidecinema.it",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "I 5 migliori film del 2015 secondo DarksideCinema.it www.darksidecinema.it"
+        },
+        {
+          "title": "Star Wars, insulti a Carrie Fisher principessa Leia: \"Invecchiata troppo e male\". E lei risponde su Twitter ai fan | Libero Quotidiano.it - Libero Quotidiano",
+          "source": "Libero Quotidiano",
+          "pubDate": "Fri, 01 Jan 2016 08:00:00 GMT",
+          "description": "Star Wars, insulti a Carrie Fisher principessa Leia: \"Invecchiata troppo e male\". E lei risponde su Twitter ai fan | Libero Quotidiano.it Libero Quotidiano"
+        },
+        {
+          "title": "Millennium Falcon: costruisci l’astronave di Han Solo con De Agostini - Cinefilos.it",
+          "source": "Cinefilos.it",
+          "pubDate": "Tue, 29 Dec 2015 08:00:00 GMT",
+          "description": "Millennium Falcon: costruisci l’astronave di Han Solo con De Agostini Cinefilos.it"
+        }
+      ]
+    },
+    "Kingsman_-_Secret_Service": {
+      "fetched_at": "2026-11-06T15:53:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Kingsman: Secret Service è un film del 2015, diretto da Matthew Vaughn.",
+      "news": [
+        {
+          "title": "I 5 migliori film del 2015 secondo DarksideCinema.it - www.darksidecinema.it",
+          "source": "www.darksidecinema.it",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "I 5 migliori film del 2015 secondo DarksideCinema.it www.darksidecinema.it"
+        },
+        {
+          "title": "Mark Hamill, da Jedi a Joker: Il principe dei nerd - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 04 Jan 2016 08:00:00 GMT",
+          "description": "Mark Hamill, da Jedi a Joker: Il principe dei nerd Movieplayer"
+        },
+        {
+          "title": "Focus on: Mark Hamill - Illyon, l'isola di informazione fantasy",
+          "source": "Illyon, l'isola di informazione fantasy",
+          "pubDate": "Sat, 02 Jan 2016 08:00:00 GMT",
+          "description": "Focus on: Mark Hamill Illyon, l'isola di informazione fantasy"
+        }
+      ]
+    }
+  }
+}

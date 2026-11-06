@@ -503,13 +503,14 @@
       "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Donald_Trump",
       "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
-      "description": "politico e imprenditore statunitense, 45º e 47º presidente degli Stati Uniti d'America",
+      "description": "Imprenditore e candidato repubblicano alle presidenziali statunitensi, il 15 marzo vince le primarie in Florida, Illinois e Carolina del Nord.",
       "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +549,14 @@
       "google_news_url": "https://www.google.it/search?q=Fear%20the%20Walking%20Dead&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Fear_the_Walking_Dead",
       "article_url": "https://it.wikipedia.org/wiki/Fear_the_Walking_Dead",
-      "description": "serie televisiva statunitense (2015-2023)",
+      "description": "Serie spin-off di The Walking Dead, debutta in Italia il 16 marzo su MTV.",
       "image_filename": "Fear_the_Walking_Dead-Logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fear_the_Walking_Dead-Logo.svg/1280px-Fear_the_Walking_Dead-Logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fear_the_Walking_Dead-Logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +595,14 @@
       "google_news_url": "https://www.google.it/search?q=Batman%20v%20Superman%3A%20Dawn%20of%20Justice&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Batman_v_Superman%3A_Dawn_of_Justice",
       "article_url": "https://it.wikipedia.org/wiki/Batman_v_Superman%3A_Dawn_of_Justice",
-      "description": "film del 2016 diretto da Zack Snyder",
+      "description": "Film di Zack Snyder, esce nei cinema italiani il 23 marzo.",
       "image_filename": "Batman_Superman_Dawn_of_Justice.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e1/Batman_Superman_Dawn_of_Justice.jpg/1225px-Batman_Superman_Dawn_of_Justice.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Batman_Superman_Dawn_of_Justice.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +641,14 @@
       "google_news_url": "https://www.google.it/search?q=Mr.%20Robot&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Mr._Robot",
       "article_url": "https://it.wikipedia.org/wiki/Mr._Robot",
-      "description": "serie televisiva statunitense",
+      "description": "Serie televisiva statunitense, la prima stagione va in onda su Premium Stories dal 3 marzo. È la quarta settimana consecutiva in classifica.",
       "image_filename": "MrRobot_intertitle.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/MrRobot_intertitle.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:MrRobot_intertitle.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +687,14 @@
       "google_news_url": "https://www.google.it/search?q=Episodi%20di%20The%20Walking%20Dead%20%28sesta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Episodi_di_The_Walking_Dead_(sesta_stagione)",
       "article_url": "https://it.wikipedia.org/wiki/Episodi_di_The_Walking_Dead_(sesta_stagione)",
-      "description": "stagione televisiva",
+      "description": "Il 14 marzo va in onda su Fox il tredicesimo episodio della sesta stagione.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +733,14 @@
       "google_news_url": "https://www.google.it/search?q=Claudia%20Galanti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Claudia_Galanti",
       "article_url": "https://it.wikipedia.org/wiki/Claudia_Galanti",
-      "description": "modella, showgirl e attrice paraguaiana",
+      "description": "Modella e showgirl paraguaiana, viene eliminata dall'Isola dei famosi nella puntata del 14 marzo su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +779,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20gladiatore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Il_gladiatore",
       "article_url": "https://it.wikipedia.org/wiki/Il_gladiatore",
-      "description": "film del 2000 diretto da Ridley Scott",
+      "description": "Film del 2000 di Ridley Scott. Probabile errore nei dati: circa 1.250 visite al giorno dal 17 al 19 marzo, oltre 46.000 il 20.",
       "image_filename": "Il_gladiatore.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Il_gladiatore.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_gladiatore.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +825,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +871,14 @@
       "google_news_url": "https://www.google.it/search?q=Domenica%20delle%20palme&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Domenica_delle_palme",
       "article_url": "https://it.wikipedia.org/wiki/Domenica_delle_palme",
-      "description": "festività cristiana celebrata la domenica precedente la Pasqua",
+      "description": "La ricorrenza cristiana che precede la Pasqua cade il 20 marzo.",
       "image_filename": "Giotto_di_Bondone_-_No._26_Scenes_from_the_Life_of_Christ_-_10._Entry_into_Jerusalem_-_WGA09206.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Giotto_di_Bondone_-_No._26_Scenes_from_the_Life_of_Christ_-_10._Entry_into_Jerusalem_-_WGA09206.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_No._26_Scenes_from_the_Life_of_Christ_-_10._Entry_into_Jerusalem_-_WGA09206.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +917,14 @@
       "google_news_url": "https://www.google.it/search?q=Rocco%20Siffredi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Rocco_Siffredi",
       "article_url": "https://it.wikipedia.org/wiki/Rocco_Siffredi",
-      "description": "attore pornografico italiano (1964-)",
+      "description": "Attore pornografico italiano, è protagonista del reality Casa Siffredi, al via il 16 marzo su La5.",
       "image_filename": "Rocco_Siffredi_at_Berlinale_2024.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rocco_Siffredi_at_Berlinale_2024.jpg/1280px-Rocco_Siffredi_at_Berlinale_2024.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rocco_Siffredi_at_Berlinale_2024.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=Margareth%20Mad%C3%A8&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Margareth_Mad%C3%A8",
       "article_url": "https://it.wikipedia.org/wiki/Margareth_Mad%C3%A8",
-      "description": "attrice e modella italiana",
+      "description": "Attrice e modella italiana, partecipa a Ballando con le stelle, in onda il 12 e il 19 marzo su Rai 1.",
       "image_filename": "Margareth_Made_Venice09_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Margareth_Made_Venice09_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Margareth_Made_Venice09_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=Leicester%20City%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Leicester_City_Football_Club",
       "article_url": "https://it.wikipedia.org/wiki/Leicester_City_Football_Club",
-      "description": "club calcistico inglese di Leicester",
+      "description": "La squadra inglese allenata da Claudio Ranieri batte il Newcastle il 14 marzo e il Crystal Palace il 19 marzo in Premier League.",
       "image_filename": "Leicester_City_Logo_(2009).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a3/Leicester_City_Logo_%282009%29.svg/1280px-Leicester_City_Logo_%282009%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leicester_City_Logo_(2009).svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1055,14 @@
       "google_news_url": "https://www.google.it/search?q=House%20of%20Cards%20-%20Gli%20intrighi%20del%20potere&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=House_of_Cards_-_Gli_intrighi_del_potere",
       "article_url": "https://it.wikipedia.org/wiki/House_of_Cards_-_Gli_intrighi_del_potere",
-      "description": "serie televisiva statunitense (2013-2018)",
+      "description": "La quarta stagione della serie statunitense viene pubblicata il 4 marzo negli Stati Uniti.",
       "image_filename": "House_of_Cards.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/56/House_of_Cards.png/1280px-House_of_Cards.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:House_of_Cards.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1101,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20commissario%20Montalbano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Il_commissario_Montalbano",
       "article_url": "https://it.wikipedia.org/wiki/Il_commissario_Montalbano",
-      "description": "serie televisiva italiana (1999-2021)",
+      "description": "La serie televisiva italiana va in onda il 14 marzo su Rai 1.",
       "image_filename": "Il_commissario_Montalbano.PNG",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/0/0e/Il_commissario_Montalbano.PNG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_commissario_Montalbano.PNG",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1147,14 @@
       "google_news_url": "https://www.google.it/search?q=Equinozio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/14/2016,cd_max:03/20/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-03-14&end=2016-03-20&pages=Equinozio",
       "article_url": "https://it.wikipedia.org/wiki/Equinozio",
-      "description": "istante nel corso dell'anno in cui il Sole si presenta all'intersezione tra l'eclittica e l'equatore celeste",
+      "description": "Il 20 marzo cade l'equinozio che segna l'inizio della primavera astronomica nell'emisfero nord.",
       "image_filename": "Equinozio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Equinozio.jpg/1280px-Equinozio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Equinozio.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

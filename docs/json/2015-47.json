@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Stato%20Islamico&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Stato_Islamico",
       "article_url": "https://it.wikipedia.org/wiki/Stato_Islamico",
-      "description": "",
+      "description": "Organizzazione jihadista nota come ISIS, il 14 novembre rivendica gli attentati compiuti a Parigi la sera precedente.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Mali&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Mali",
       "article_url": "https://it.wikipedia.org/wiki/Mali",
-      "description": "stato dell'Africa occidentale",
+      "description": "Stato dell'Africa occidentale, il 20 novembre un commando attacca l'hotel Radisson Blu nella capitale Bamako.",
       "image_filename": "Flag_of_Mali.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Mali.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Attentati%20del%2013%20novembre%202015%20a%20Parigi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Attentati_del_13_novembre_2015_a_Parigi",
       "article_url": "https://it.wikipedia.org/wiki/Attentati_del_13_novembre_2015_a_Parigi",
-      "description": "",
+      "description": "Il 13 novembre una serie di attacchi a Parigi e Saint-Denis provoca 130 morti; lo Stato Islamico li rivendica il giorno seguente.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Lea%20Garofalo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Lea_Garofalo",
       "article_url": "https://it.wikipedia.org/wiki/Lea_Garofalo",
-      "description": "testimone di giustizia italiana",
+      "description": "Testimone di giustizia uccisa dalla 'ndrangheta nel 2009, la sua storia è raccontata nel film Lea, su Rai 1 il 18 novembre.",
       "image_filename": "LEAGarofal.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/LEAGarofal.jpg/1280px-LEAGarofal.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:LEAGarofal.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Giubileo%20universale%20della%20Chiesa%20cattolica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Giubileo_universale_della_Chiesa_cattolica",
       "article_url": "https://it.wikipedia.org/wiki/Giubileo_universale_della_Chiesa_cattolica",
-      "description": "celebrazione religiosa della Chiesa cattolica",
+      "description": "Anno di riconciliazione e penitenza per i cattolici, il picco è forse legato ai timori per la sicurezza dopo gli attentati di Parigi del 13 novembre.",
       "image_filename": "Giubileo_della_Redenzione_-_Apertura_della_Porta_Santa.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Giubileo_della_Redenzione_-_Apertura_della_Porta_Santa.jpg/1280px-Giubileo_della_Redenzione_-_Apertura_della_Porta_Santa.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giubileo_della_Redenzione_-_Apertura_della_Porta_Santa.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Teorema%20del%20coseno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Teorema_del_coseno",
       "article_url": "https://it.wikipedia.org/wiki/Teorema_del_coseno",
-      "description": "teorema della geometria Euclidea",
+      "description": "Probabilmente un errore nella raccolta dei dati: 124.091 visite il 18 novembre e nessuna negli altri giorni.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Jonah%20Lomu&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Jonah_Lomu",
       "article_url": "https://it.wikipedia.org/wiki/Jonah_Lomu",
-      "description": "rugbista a 15 neozelandese",
+      "description": "Rugbista neozelandese e leggenda degli All Blacks, muore il 18 novembre a 40 anni.",
       "image_filename": "Jonah_Lomu_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jonah_Lomu_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jonah_Lomu_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Moira%20Orfei&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Moira_Orfei",
       "article_url": "https://it.wikipedia.org/wiki/Moira_Orfei",
-      "description": "circense, attrice e personaggio televisivo italiana (1931-2015)",
+      "description": "Circense e attrice italiana, nota come la regina del circo, muore il 15 novembre a 83 anni.",
       "image_filename": "Signore&signori-Orfei.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/7/70/Signore%26signori-Orfei.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Signore%26signori-Orfei.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Charlie%20Sheen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Charlie_Sheen",
       "article_url": "https://it.wikipedia.org/wiki/Charlie_Sheen",
-      "description": "attore statunitense",
+      "description": "Attore statunitense, il 17 novembre dichiara nel programma televisivo Today di essere sieropositivo.",
       "image_filename": "Charlie_Sheen_2012.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Charlie_Sheen_2012.jpg/1280px-Charlie_Sheen_2012.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Charlie_Sheen_2012.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Vladimir%20Putin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Vladimir_Putin",
       "article_url": "https://it.wikipedia.org/wiki/Vladimir_Putin",
-      "description": "politico e agente segreto russo, funzionario del KGB e presidente della Federazione Russa (2000–2008, 2012–oggi)",
+      "description": "Presidente russo, il 17 novembre ordina di trovare i responsabili dell'attentato all'aereo russo precipitato nel Sinai.",
       "image_filename": "Владимир_Путин_(2025-09-30).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%282025-09-30%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(2025-09-30).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Anonymous&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Anonymous",
       "article_url": "https://it.wikipedia.org/wiki/Anonymous",
-      "description": "fenomeno di Internet e comunità di hacktivisti/hacker",
+      "description": "Movimento di hacktivisti, dopo gli attentati di Parigi del 13 novembre annuncia una campagna contro lo Stato Islamico.",
       "image_filename": "Anonymous_emblem.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/1280px-Anonymous_emblem.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anonymous_emblem.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Abu%20Bakr%20al-Baghdadi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Abu_Bakr_al-Baghdadi",
       "article_url": "https://it.wikipedia.org/wiki/Abu_Bakr_al-Baghdadi",
-      "description": "terrorista iracheno (1971-2019)",
+      "description": "Leader iracheno dello Stato Islamico, il gruppo che il 14 novembre rivendica gli attentati di Parigi della sera precedente.",
       "image_filename": "Mugshot_of_Abu_Bakr_al-Baghdadi,_2004.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mugshot_of_Abu_Bakr_al-Baghdadi%2C_2004.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mugshot_of_Abu_Bakr_al-Baghdadi%2C_2004.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20Marsigliese&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=La_Marsigliese",
       "article_url": "https://it.wikipedia.org/wiki/La_Marsigliese",
-      "description": "inno nazionale francese, originariamente canto patriottico rivoluzionario",
+      "description": "Inno nazionale francese, viene cantato il 17 novembre a Wembley prima di Inghilterra-Francia, in omaggio alle vittime degli attentati di Parigi.",
       "image_filename": "Marseillaise01.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marseillaise01.jpg/1280px-Marseillaise01.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marseillaise01.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Oriana%20Fallaci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Oriana_Fallaci",
       "article_url": "https://it.wikipedia.org/wiki/Oriana_Fallaci",
-      "description": "giornalista e scrittrice italiana (1929-2006)",
+      "description": "Giornalista e scrittrice italiana morta nel 2006, i suoi scritti sull'Islam vengono ripresi dopo gli attentati di Parigi del 13 novembre.",
       "image_filename": "Oriana_Fallaci_2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/3/35/Oriana_Fallaci_2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Oriana_Fallaci_2.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Siria&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Siria",
       "article_url": "https://it.wikipedia.org/wiki/Siria",
-      "description": "stato del Vicino Oriente",
+      "description": "Il 15 novembre la Francia bombarda Raqqa, roccaforte dello Stato Islamico in Siria, dopo gli attentati di Parigi.",
       "image_filename": "Flag_of_Syria_(2025-).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/1280px-Flag_of_Syria_%282025-%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Syria_(2025-).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Islam&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Islam",
       "article_url": "https://it.wikipedia.org/wiki/Islam",
-      "description": "religione monoteista fondata nel VII secolo da Maometto, basata sui suoi insegnamenti contenuti nel Corano",
+      "description": "Religione monoteista fondata nel VII secolo, il picco è probabilmente legato agli attentati di Parigi del 13 novembre, rivendicati dall'ISIS.",
       "image_filename": "Allah11.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Allah11.svg/1280px-Allah11.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Allah11.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Quantico%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Quantico_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Quantico_(serie_televisiva)",
-      "description": "serie televisiva statunitense",
+      "description": "La serie televisiva statunitense debutta in Italia il 18 novembre su Fox.",
       "image_filename": "Quantico_serie_TV.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/c/c2/Quantico_serie_TV.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Quantico_serie_TV.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Hunger%20Games%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Hunger_Games_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Hunger_Games_(film)",
-      "description": "film del 2012 diretto da Gary Ross",
+      "description": "Film del 2012 diretto da Gary Ross, il picco è probabilmente legato all'uscita al cinema del capitolo finale della saga il 18 novembre.",
       "image_filename": "Hunger_Games.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a2/Hunger_Games.png/1280px-Hunger_Games.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hunger_Games.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Jihad&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Jihad",
       "article_url": "https://it.wikipedia.org/wiki/Jihad",
-      "description": "",
+      "description": "Termine islamico che indica lo sforzo spirituale o la guerra per la fede, il picco è probabilmente legato agli attentati di Parigi del 13 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Giubileo%20straordinario%20della%20misericordia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Giubileo_straordinario_della_misericordia",
       "article_url": "https://it.wikipedia.org/wiki/Giubileo_straordinario_della_misericordia",
-      "description": "giubileo cattolico straordinario del 2015-16",
+      "description": "Indetto da papa Francesco dall'8 dicembre, è al centro di timori per la sicurezza dopo gli attentati di Parigi del 13 novembre.",
       "image_filename": "Opening_of_the_Holy_Door_2015.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Opening_of_the_Holy_Door_2015.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Opening_of_the_Holy_Door_2015.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Corano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Corano",
       "article_url": "https://it.wikipedia.org/wiki/Corano",
-      "description": "testo sacro dell'Islam",
+      "description": "Testo sacro dell'Islam, il picco è forse legato all'attacco del 20 novembre a Bamako, dove alcuni ostaggi vengono liberati dopo averne recitato dei versetti.",
       "image_filename": "Koran.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Koran.JPG/1280px-Koran.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Koran.JPG",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Eagles%20of%20Death%20Metal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Eagles_of_Death_Metal",
       "article_url": "https://it.wikipedia.org/wiki/Eagles_of_Death_Metal",
-      "description": "gruppo musicale statunitense",
+      "description": "Gruppo rock statunitense, si esibisce al Bataclan di Parigi quando il locale viene attaccato dai terroristi il 13 novembre.",
       "image_filename": "Eagles_of_Death_Metal_on_stage_at_the_Commodore_Ballroom_July_20th_2009.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Eagles_of_Death_Metal_on_stage_at_the_Commodore_Ballroom_July_20th_2009.jpg/1280px-Eagles_of_Death_Metal_on_stage_at_the_Commodore_Ballroom_July_20th_2009.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Eagles_of_Death_Metal_on_stage_at_the_Commodore_Ballroom_July_20th_2009.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Guerra%20civile%20siriana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Guerra_civile_siriana",
       "article_url": "https://it.wikipedia.org/wiki/Guerra_civile_siriana",
-      "description": "conflitto armato in corso in Siria dal 2011",
+      "description": "Conflitto iniziato nel 2011, il picco è probabilmente legato ai bombardamenti francesi del 15 novembre contro l'ISIS a Raqqa.",
       "image_filename": "Syrian_Civil_War_map.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Syrian_Civil_War_map.svg/1280px-Syrian_Civil_War_map.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Syrian_Civil_War_map.svg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Grey%27s_Anatomy",
       "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
-      "description": "serie televisiva statunitense del 2005",
+      "description": "La dodicesima stagione della serie medica va in onda su Fox Life dal 9 novembre; è la 21ª settimana consecutiva in classifica.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Bashar%20al-Assad&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2015,cd_max:11/22/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-11-16&end=2015-11-22&pages=Bashar_al-Assad",
       "article_url": "https://it.wikipedia.org/wiki/Bashar_al-Assad",
-      "description": "politico e militare siriano, ex presidente della Siria",
+      "description": "Presidente della Siria, il picco è forse legato ai bombardamenti francesi del 15 novembre contro l'ISIS a Raqqa.",
       "image_filename": "Bashar_al-Assad_in_Russia_(2015-10-21)_08.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bashar_al-Assad_in_Russia_%282015-10-21%29_08.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bashar_al-Assad_in_Russia_(2015-10-21)_08.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

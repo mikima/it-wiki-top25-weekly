@@ -1,0 +1,598 @@
+{
+  "week": "2015-50",
+  "start_date": "2015-12-07",
+  "end_date": "2015-12-13",
+  "articles": {
+    "Frank_Sinatra": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Francis Albert Sinatra, detto Frank, è stato un cantante e attore statunitense.",
+      "news": [
+        {
+          "title": "Frank Sinatra, 102 anni dalla nascita: i 5 album più belli - Panorama",
+          "source": "Panorama",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Frank Sinatra, 102 anni dalla nascita: i 5 album più belli Panorama"
+        },
+        {
+          "title": "100 anni fa nasceva Frank Sinatra: \"The Voice\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "100 anni fa nasceva Frank Sinatra: \"The Voice\" RaiNews"
+        },
+        {
+          "title": "I cento anni di Frank Sinatra - Musicoff Community",
+          "source": "Musicoff Community",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "I cento anni di Frank Sinatra Musicoff Community"
+        },
+        {
+          "title": "Frank Sinatra: 10 canzoni per i 100 anni dalla nascita - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Frank Sinatra: 10 canzoni per i 100 anni dalla nascita TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Frank Sinatra (1915-1998): il fotoracconto a cent'anni dalla nascita - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 07 Dec 2015 08:00:00 GMT",
+          "description": "Frank Sinatra (1915-1998): il fotoracconto a cent'anni dalla nascita la Repubblica"
+        },
+        {
+          "title": "100 anni di Frank Sinatra: Un Oscar, i bulli e (tante) pupe - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sat, 12 Dec 2015 08:00:00 GMT",
+          "description": "100 anni di Frank Sinatra: Un Oscar, i bulli e (tante) pupe Movieplayer"
+        },
+        {
+          "title": "Lady Gaga omaggia Frank Sinatra con \"New York New York\" - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "Lady Gaga omaggia Frank Sinatra con \"New York New York\" Rolling Stone Italia"
+        },
+        {
+          "title": "Sky Arte Updates: Frank Sinatra, cento anni dopo. I successi e l'eredità di The Voice, nel giorno dell'anniversario di nascita - Artribune",
+          "source": "Artribune",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Sky Arte Updates: Frank Sinatra, cento anni dopo. I successi e l'eredità di The Voice, nel giorno dell'anniversario di nascita Artribune"
+        },
+        {
+          "title": "Frank Sinatra per giovani - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sat, 12 Dec 2015 08:00:00 GMT",
+          "description": "Frank Sinatra per giovani Il Post"
+        },
+        {
+          "title": "Frank Sinatra, 100 anni fa nasceva “The Voice” - ANSA",
+          "source": "ANSA",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Frank Sinatra, 100 anni fa nasceva “The Voice” ANSA"
+        }
+      ]
+    },
+    "Davide_Marotta": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Davide Marotta è un attore italiano.",
+      "news": [
+        {
+          "title": "Il professor Cenerentolo - Onda Cinema",
+          "source": "Onda Cinema",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Il professor Cenerentolo Onda Cinema"
+        },
+        {
+          "title": "Ciribiribì è tornato, sarà nel nuovo film di Pieraccioni - Kika Press",
+          "source": "Kika Press",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Ciribiribì è tornato, sarà nel nuovo film di Pieraccioni Kika Press"
+        },
+        {
+          "title": "Il professor Cenerentolo, Pieraccioni: la squadra è forza - La Gazzetta dello Spettacolo",
+          "source": "La Gazzetta dello Spettacolo",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Il professor Cenerentolo, Pieraccioni: la squadra è forza La Gazzetta dello Spettacolo"
+        }
+      ]
+    },
+    "Papa_Francesco": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Papa Francesco è stato il 266º papa della Chiesa cattolica e vescovo di Roma, 8º sovrano dello Stato della Città del Vaticano e primate d'Italia, oltre agli altri titoli propri del romano pontefice, dal 13 marzo 2013 fino alla morte.",
+      "news": [
+        {
+          "title": "«Chiamatemi Francesco - Il Papa della gente» - Questione Giustizia",
+          "source": "Questione Giustizia",
+          "pubDate": "Sat, 12 Dec 2015 08:00:00 GMT",
+          "description": "«Chiamatemi Francesco - Il Papa della gente» Questione Giustizia"
+        },
+        {
+          "title": "Si apre la Porta Santa per il Giubileo. Papa Francesco: \"Abbandoniamo ogni forma di paura\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 08 Dec 2015 08:00:00 GMT",
+          "description": "Si apre la Porta Santa per il Giubileo. Papa Francesco: \"Abbandoniamo ogni forma di paura\" RaiNews"
+        },
+        {
+          "title": "Papa Francesco, una sua preghiera di fronte all'Immacolata di Piazza di Spagna - ACI Stampa",
+          "source": "ACI Stampa",
+          "pubDate": "Tue, 08 Dec 2015 08:00:00 GMT",
+          "description": "Papa Francesco, una sua preghiera di fronte all'Immacolata di Piazza di Spagna ACI Stampa"
+        },
+        {
+          "title": "Il Giubileo di Francesco contro la globalizzazione dell'indifferenza - Limes - Rivista Italiana di geopolitica",
+          "source": "Limes - Rivista Italiana di geopolitica",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "Il Giubileo di Francesco contro la globalizzazione dell'indifferenza Limes - Rivista Italiana di geopolitica"
+        },
+        {
+          "title": "Peta: Papa Francesco persona dell’anno 2015 - Vegolosi",
+          "source": "Vegolosi",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Peta: Papa Francesco persona dell’anno 2015 Vegolosi"
+        },
+        {
+          "title": "Domenica 13 dicembre Papa Francesco apre la Porta Santa della Basilica di San Giovanni in Laterano - Abitare A Roma",
+          "source": "Abitare A Roma",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Domenica 13 dicembre Papa Francesco apre la Porta Santa della Basilica di San Giovanni in Laterano Abitare A Roma"
+        },
+        {
+          "title": "Giubileo, papa Francesco apre Porta Santa di San Giovanni in Laterano - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 13 Dec 2015 08:00:00 GMT",
+          "description": "Giubileo, papa Francesco apre Porta Santa di San Giovanni in Laterano la Repubblica"
+        }
+      ]
+    },
+    "X_Factor_(Italia)": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "X Factor è un programma televisivo italiano di genere talent show musicale, versione italiana del format britannico The X Factor. Le prime quattro edizioni sono andate in onda su Rai 2. Dopo la rinuncia da parte della Rai, per via degli alti costi di produzione, dal 2011 è in onda su Sky Uno, a cui dal 2014 si aggiunge il relativo servizio streaming Now, con repliche in chiaro dal 2011 al 2018 su Cielo e dal 2015 su TV8. Nel 2024 Sky Italia, dopo aver avuto l'esclusiva per otto stagioni, ha prolungato la trasmissione del talent fino alla stagione 2026. Dall'undicesima edizione RTL 102.5 diventa la radio ufficiale del programma, subentrando a Radio Deejay e Radio 105.",
+      "news": [
+        {
+          "title": "Giosada, abbiamo vinto X-Factor - Le Nius",
+          "source": "Le Nius",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Giosada, abbiamo vinto X-Factor Le Nius"
+        },
+        {
+          "title": "X Factor 2015: \"Una finale all’insegna del brillìo\" - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "X Factor 2015: \"Una finale all’insegna del brillìo\" Sky TG24"
+        },
+        {
+          "title": "X Factor: trionfa Giosada, secondi gli Urban Strangers - AGI",
+          "source": "AGI",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "X Factor: trionfa Giosada, secondi gli Urban Strangers AGI"
+        },
+        {
+          "title": "X Factor 9, la sera della Finale: Enrica sul palco per vincere - LatinaToday",
+          "source": "LatinaToday",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "X Factor 9, la sera della Finale: Enrica sul palco per vincere LatinaToday"
+        },
+        {
+          "title": "Adele e Coldplay si sono esibiti durante la finale di X Factor UK - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 14 Dec 2015 08:00:00 GMT",
+          "description": "Adele e Coldplay si sono esibiti durante la finale di X Factor UK Rolling Stone Italia"
+        },
+        {
+          "title": "Live Cronaca: la Finale! - XFactor/Sky",
+          "source": "XFactor/Sky",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Live Cronaca: la Finale! XFactor/Sky"
+        },
+        {
+          "title": "X Factor 9, la finale: vince Giosada, al 2° posto Urban Strangers, al 3° Davide, al 4° Enrica - TvBlog",
+          "source": "TvBlog",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "X Factor 9, la finale: vince Giosada, al 2° posto Urban Strangers, al 3° Davide, al 4° Enrica TvBlog"
+        },
+        {
+          "title": "ELODIE: ad Amici dopo le esperienze House e Jazz, passando per Fedez... ma tutto iniziò a X Factor 2008 (VIDEO) - All Music Italia",
+          "source": "All Music Italia",
+          "pubDate": "Sat, 12 Dec 2015 08:00:00 GMT",
+          "description": "ELODIE: ad Amici dopo le esperienze House e Jazz, passando per Fedez... ma tutto iniziò a X Factor 2008 (VIDEO) All Music Italia"
+        },
+        {
+          "title": "MANUEL MOSCATI: dopo X-Factor Albania arriva al festival Kenga Magjike con \"Ti Mos u ndal\" (VIDEO) - All Music Italia",
+          "source": "All Music Italia",
+          "pubDate": "Sun, 13 Dec 2015 08:00:00 GMT",
+          "description": "MANUEL MOSCATI: dopo X-Factor Albania arriva al festival Kenga Magjike con \"Ti Mos u ndal\" (VIDEO) All Music Italia"
+        },
+        {
+          "title": "FRATELLI D’ITAlent: le romane TEA ROCK verso l’X FACTOR rumeno? (VIDEO) - All Music Italia",
+          "source": "All Music Italia",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "FRATELLI D’ITAlent: le romane TEA ROCK verso l’X FACTOR rumeno? (VIDEO) All Music Italia"
+        }
+      ]
+    },
+    "Grey's_Anatomy": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Grey's Anatomy è una serie televisiva statunitense prodotta dal 2005 e trasmessa da ABC.",
+      "news": [
+        {
+          "title": "Le serie tv americane più viste nei vari paesi del mondo - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Le serie tv americane più viste nei vari paesi del mondo GQ Italia"
+        },
+        {
+          "title": "Morto Robert Loggia, indimenticato Frank Lopez di Scarface - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Mon, 14 Dec 2015 08:00:00 GMT",
+          "description": "Morto Robert Loggia, indimenticato Frank Lopez di Scarface Il Mattino"
+        },
+        {
+          "title": "I Muppet sono diventati grandi: litigano come i veri divi della tv - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "I Muppet sono diventati grandi: litigano come i veri divi della tv La Stampa"
+        }
+      ]
+    },
+    "Donald_Trump": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Donald John Trump è un politico, imprenditore e personaggio televisivo statunitense, 47º Presidente degli Stati Uniti d'America dal 2025, in precedenza è stato 45º presidente dal 2017 al 2021.",
+      "news": [
+        {
+          "title": "Il razzismo di Donald Trump ha successo perché non ha niente di comico - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "Il razzismo di Donald Trump ha successo perché non ha niente di comico Internazionale"
+        },
+        {
+          "title": "Il video di Donald Trump, candidato alla presidenza degli Stati Uniti, faticosamente alle prese con un’aquila - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Il video di Donald Trump, candidato alla presidenza degli Stati Uniti, faticosamente alle prese con un’aquila Il Post"
+        },
+        {
+          "title": "L'aquila \"Zio Sam\" attacca Donald Trump: il candidato non piace al simbolo degli Stati Uniti - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "L'aquila \"Zio Sam\" attacca Donald Trump: il candidato non piace al simbolo degli Stati Uniti RaiNews"
+        },
+        {
+          "title": "Le peggiori bufale di Donald Trump - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Le peggiori bufale di Donald Trump Wired Italia"
+        },
+        {
+          "title": "Trump insiste: non mi pento, stop ai musulmani è giusto - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "Trump insiste: non mi pento, stop ai musulmani è giusto Sky TG24"
+        },
+        {
+          "title": "Donald Trump: “maligno e ripugnante” - Radio Popolare",
+          "source": "Radio Popolare",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "Donald Trump: “maligno e ripugnante” Radio Popolare"
+        },
+        {
+          "title": "Donald Trump posa per il Time accanto all’aquila Sam che però si ribella e lo attacca - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Donald Trump posa per il Time accanto all’aquila Sam che però si ribella e lo attacca Il Fatto Quotidiano"
+        },
+        {
+          "title": "L'aquila calva non ama Trump: l'attacco davanti al fotografo - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "L'aquila calva non ama Trump: l'attacco davanti al fotografo la Repubblica"
+        },
+        {
+          "title": "Boxe, diretto di Ali a Trump: \"Non si usa l'Islam per fini elettorali\" - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Boxe, diretto di Ali a Trump: \"Non si usa l'Islam per fini elettorali\" La Gazzetta dello Sport"
+        },
+        {
+          "title": "Trump posa con un'aquila, ma lei lo attacca - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Trump posa con un'aquila, ma lei lo attacca Quotidiano Nazionale"
+        }
+      ]
+    },
+    "Andrea_Bocelli": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Andrea Bocelli è un cantante e tenore italiano.",
+      "news": [
+        {
+          "title": "Sanremo 2016: ecco i nomi dei Big e i titoli delle canzoni - Radio Italia",
+          "source": "Radio Italia",
+          "pubDate": "Sun, 13 Dec 2015 08:00:00 GMT",
+          "description": "Sanremo 2016: ecco i nomi dei Big e i titoli delle canzoni Radio Italia"
+        },
+        {
+          "title": "Massimo Giletti - Radio NBC Rete Regione",
+          "source": "Radio NBC Rete Regione",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Massimo Giletti Radio NBC Rete Regione"
+        },
+        {
+          "title": "Pacifico con \"Le Mosche\" - Puglia Eccellente",
+          "source": "Puglia Eccellente",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "Pacifico con \"Le Mosche\" Puglia Eccellente"
+        },
+        {
+          "title": "Bruno Casini: la vita, l'amore, le canzoni - QuiNewsValdera.it",
+          "source": "QuiNewsValdera.it",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Bruno Casini: la vita, l'amore, le canzoni QuiNewsValdera.it"
+        },
+        {
+          "title": "Video. Higuain scatenato: tango con Belen e omaggio a Bocelli e Giletti - Vesuvio Live",
+          "source": "Vesuvio Live",
+          "pubDate": "Sat, 12 Dec 2015 08:00:00 GMT",
+          "description": "Video. Higuain scatenato: tango con Belen e omaggio a Bocelli e Giletti Vesuvio Live"
+        },
+        {
+          "title": "CLASSIFICA & CERTIFICAZIONI: MARCO MENGONI Re \"matto\" sul podio, debutto tiepido per le \"Hits\" di GIUSY FERRERI e URBAN STRANGERS primi nei singoli - All Music Italia",
+          "source": "All Music Italia",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "CLASSIFICA & CERTIFICAZIONI: MARCO MENGONI Re \"matto\" sul podio, debutto tiepido per le \"Hits\" di GIUSY FERRERI e URBAN STRANGERS primi nei singoli All Music Italia"
+        }
+      ]
+    },
+    "Il_cavaliere_oscuro": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il cavaliere oscuro è un film del 2008 co-scritto, diretto e co-prodotto da Christopher Nolan.",
+      "news": [
+        {
+          "title": "DK3 – The Master Race #1: ritorno alle origini - Lo Spazio Bianco",
+          "source": "Lo Spazio Bianco",
+          "pubDate": "Sat, 12 Dec 2015 08:00:00 GMT",
+          "description": "DK3 – The Master Race #1: ritorno alle origini Lo Spazio Bianco"
+        },
+        {
+          "title": "‘Gioco finale’, l’eterno scontro tra Batman e Joker - Fumettologica",
+          "source": "Fumettologica",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "‘Gioco finale’, l’eterno scontro tra Batman e Joker Fumettologica"
+        },
+        {
+          "title": "Batman v Superman: la Batmobile diventa... ibrida! - Automoto.it",
+          "source": "Automoto.it",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Batman v Superman: la Batmobile diventa... ibrida! Automoto.it"
+        },
+        {
+          "title": "Il production designer di Batman v Superman rivela che Doomsday non sarà quello che conosciamo - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Mon, 14 Dec 2015 08:00:00 GMT",
+          "description": "Il production designer di Batman v Superman rivela che Doomsday non sarà quello che conosciamo Il Cineocchio"
+        },
+        {
+          "title": "DC Comics, Batman and Robin: Tomasi e Gleason commentano il loro ciclo di storie - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 14 Dec 2015 08:00:00 GMT",
+          "description": "DC Comics, Batman and Robin: Tomasi e Gleason commentano il loro ciclo di storie BadTaste"
+        },
+        {
+          "title": "Assassin's Creed Syndicate: il DLC Jack lo Squartatore arriva il 15 dicembre; trailer - MondoXbox",
+          "source": "MondoXbox",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Assassin's Creed Syndicate: il DLC Jack lo Squartatore arriva il 15 dicembre; trailer MondoXbox"
+        },
+        {
+          "title": "Albion Online - SpazioGames",
+          "source": "SpazioGames",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Albion Online SpazioGames"
+        },
+        {
+          "title": "Batman V Superman: Doomsday non sarà l'unico villain della pellicola? - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 14 Dec 2015 08:00:00 GMT",
+          "description": "Batman V Superman: Doomsday non sarà l'unico villain della pellicola? BadTaste"
+        },
+        {
+          "title": "Deus Ex: Revision - SpazioGames",
+          "source": "SpazioGames",
+          "pubDate": "Tue, 08 Dec 2015 08:00:00 GMT",
+          "description": "Deus Ex: Revision SpazioGames"
+        }
+      ]
+    },
+    "Skin_(cantante)": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Skin, pseudonimo di Deborah Anne Dyer, è una cantante britannica, leader della band londinese Skunk Anansie; dal 2001 al 2009 ha lavorato da solista.",
+      "news": [
+        {
+          "title": "100 anni fa nasceva Frank Sinatra: \"The Voice\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "100 anni fa nasceva Frank Sinatra: \"The Voice\" RaiNews"
+        },
+        {
+          "title": "Giosada vince a sorpresa X Factor 9. Sul podio anche Urban Strangers e Davide - www.si24.it",
+          "source": "www.si24.it",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Giosada vince a sorpresa X Factor 9. Sul podio anche Urban Strangers e Davide www.si24.it"
+        },
+        {
+          "title": "XF9, la finale. Le dichiarazioni al veleno di Skin: “Fedez è…” - VNews24",
+          "source": "VNews24",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "XF9, la finale. Le dichiarazioni al veleno di Skin: “Fedez è…” VNews24"
+        }
+      ]
+    },
+    "Vladimir_Putin": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Vladimir Vladimirovič Putin è un politico ed ex militare russo, primo ministro e attuale presidente della Russia.",
+      "news": [
+        {
+          "title": "Putin visto da Gasparri, Quagliariello e Violante - Formiche.net",
+          "source": "Formiche.net",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Putin visto da Gasparri, Quagliariello e Violante Formiche.net"
+        },
+        {
+          "title": "Italia vuole altre discussioni prima di estendere sanzioni Russia - Reuters",
+          "source": "Reuters",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "Italia vuole altre discussioni prima di estendere sanzioni Russia Reuters"
+        },
+        {
+          "title": "La Russia. Intensifica i raid in Siria. Putin: speriamo non sia necessaria l’atomica - GiornaleSM",
+          "source": "GiornaleSM",
+          "pubDate": "Wed, 09 Dec 2015 08:00:00 GMT",
+          "description": "La Russia. Intensifica i raid in Siria. Putin: speriamo non sia necessaria l’atomica GiornaleSM"
+        }
+      ]
+    },
+    "Leopolda_(convention)": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Chi è stato invitato da Renzi alla Leopolda 2015. Tutte le foto - Formiche.net",
+          "source": "Formiche.net",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Chi è stato invitato da Renzi alla Leopolda 2015. Tutte le foto Formiche.net"
+        },
+        {
+          "title": "Rimini. Il treno del Pd riminese non ferma più alla Leopolda - GiornaleSM",
+          "source": "GiornaleSM",
+          "pubDate": "Sun, 13 Dec 2015 08:00:00 GMT",
+          "description": "Rimini. Il treno del Pd riminese non ferma più alla Leopolda GiornaleSM"
+        },
+        {
+          "title": "Leopolda: parla il pm Corona ed entra in \"toto-nomi\" per la candidatura a sindaco di Napoli - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 12 Dec 2015 08:00:00 GMT",
+          "description": "Leopolda: parla il pm Corona ed entra in \"toto-nomi\" per la candidatura a sindaco di Napoli la Repubblica"
+        },
+        {
+          "title": "Tutte le mosse di Matteo Renzi alla Leopolda 2015. Le foto - Formiche.net",
+          "source": "Formiche.net",
+          "pubDate": "Mon, 14 Dec 2015 08:00:00 GMT",
+          "description": "Tutte le mosse di Matteo Renzi alla Leopolda 2015. Le foto Formiche.net"
+        }
+      ]
+    },
+    "The_Walking_Dead_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The Walking Dead è una serie televisiva statunitense ideata da Frank Darabont.",
+      "news": [
+        {
+          "title": "The Walking Dead: le uccisioni di zombi più brutali - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Sat, 12 Dec 2015 08:00:00 GMT",
+          "description": "The Walking Dead: le uccisioni di zombi più brutali IGN Italia"
+        },
+        {
+          "title": "Le 10 serie TV più popolari del 2015 - MangaForever.net",
+          "source": "MangaForever.net",
+          "pubDate": "Tue, 08 Dec 2015 08:00:00 GMT",
+          "description": "Le 10 serie TV più popolari del 2015 MangaForever.net"
+        },
+        {
+          "title": "Adele da Fazio: «In pace con me stessa» Video - Concerti a Verona già sold out - L'Eco di Bergamo",
+          "source": "L'Eco di Bergamo",
+          "pubDate": "Mon, 07 Dec 2015 08:00:00 GMT",
+          "description": "Adele da Fazio: «In pace con me stessa» Video - Concerti a Verona già sold out L'Eco di Bergamo"
+        },
+        {
+          "title": "Le migliori gif del “Confused Travolta” virale sul web - Left - Un pensiero nuovo a sinistra",
+          "source": "Left - Un pensiero nuovo a sinistra",
+          "pubDate": "Tue, 08 Dec 2015 08:00:00 GMT",
+          "description": "Le migliori gif del “Confused Travolta” virale sul web Left - Un pensiero nuovo a sinistra"
+        },
+        {
+          "title": "Sheldon Cooper in altre 7 Serie Tv - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Sheldon Cooper in altre 7 Serie Tv Hall of Series"
+        }
+      ]
+    },
+    "The_Vampire_Diaries": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The Vampire Diaries è una serie televisiva statunitense ideata da Kevin Williamson e Julie Plec, basata sulla serie di romanzi Il diario del vampiro scritta da Lisa J. Smith. La serie venne trasmessa su The CW dal 10 settembre 2009 al 10 marzo 2017, per un totale di 171 episodi distribuiti in otto stagioni.",
+      "news": [
+        {
+          "title": "Il meglio del 2015 in musica secondo Rolling Stone. GALLERY - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 12 Dec 2015 08:00:00 GMT",
+          "description": "Il meglio del 2015 in musica secondo Rolling Stone. GALLERY Sky TG24"
+        },
+        {
+          "title": "The Vampire Diaries 7×08 – Amori, confessioni e addii - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Mon, 07 Dec 2015 08:00:00 GMT",
+          "description": "The Vampire Diaries 7×08 – Amori, confessioni e addii Hall of Series"
+        },
+        {
+          "title": "2 Broke Girls 5x04 - Un episodio gay friendly - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Sun, 13 Dec 2015 08:00:00 GMT",
+          "description": "2 Broke Girls 5x04 - Un episodio gay friendly Hall of Series"
+        },
+        {
+          "title": "Sheldon Cooper in altre 7 Serie Tv - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Sheldon Cooper in altre 7 Serie Tv Hall of Series"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Semaforo sempre verde per i ciclisti ad Aarhus - FIAB - Federazione Italiana Ambiente e Bicicletta",
+          "source": "FIAB - Federazione Italiana Ambiente e Bicicletta",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Semaforo sempre verde per i ciclisti ad Aarhus FIAB - Federazione Italiana Ambiente e Bicicletta"
+        }
+      ]
+    },
+    "Sophia_Loren": {
+      "fetched_at": "2026-11-06T15:51:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Sophia Loren, pseudonimo di Sofia Costanza Brigida Villani Scicolone, è un'attrice italiana con cittadinanza francese.",
+      "news": [
+        {
+          "title": "Massimo Giletti - Radio NBC Rete Regione",
+          "source": "Radio NBC Rete Regione",
+          "pubDate": "Fri, 11 Dec 2015 08:00:00 GMT",
+          "description": "Massimo Giletti Radio NBC Rete Regione"
+        },
+        {
+          "title": "Frank Sinatra, 100 anni fa nasceva “The Voice” - ANSA",
+          "source": "ANSA",
+          "pubDate": "Thu, 10 Dec 2015 08:00:00 GMT",
+          "description": "Frank Sinatra, 100 anni fa nasceva “The Voice” ANSA"
+        },
+        {
+          "title": "Tatuaggi, anfibi e lam?: alla Scala look eccentrici (non solo nero) - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 08 Dec 2015 08:00:00 GMT",
+          "description": "Tatuaggi, anfibi e lam?: alla Scala look eccentrici (non solo nero) La Stampa"
+        }
+      ]
+    }
+  }
+}

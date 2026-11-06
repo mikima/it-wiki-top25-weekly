@@ -503,13 +503,14 @@
       "google_news_url": "https://www.google.it/search?q=Don%20Matteo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Don_Matteo",
       "article_url": "https://it.wikipedia.org/wiki/Don_Matteo",
-      "description": "serie televisiva italiana del 2000",
+      "description": "Il 7 gennaio va in onda su Rai 1 la prima puntata della decima stagione della serie.",
       "image_filename": "Logo_Don_Matteo_14.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Don_Matteo_14.svg/1280px-Logo_Don_Matteo_14.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Don_Matteo_14.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +549,14 @@
       "google_news_url": "https://www.google.it/search?q=Film%20con%20maggiori%20incassi%20nella%20storia%20del%20cinema&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Film_con_maggiori_incassi_nella_storia_del_cinema",
       "article_url": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_nella_storia_del_cinema",
-      "description": "lista di un progetto Wikipedia",
+      "description": "Il 4 gennaio Quo vado? di Checco Zalone raggiunge 22 milioni di euro d'incasso in tre giorni.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +595,14 @@
       "google_news_url": "https://www.google.it/search?q=Befana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Befana",
       "article_url": "https://it.wikipedia.org/wiki/Befana",
-      "description": "figura folcloristica italiana legata all'Epifania",
+      "description": "Figura del folclore italiano, porta doni ai bambini nella notte tra il 5 e il 6 gennaio, festa dell'Epifania.",
       "image_filename": "Befana1.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Befana1.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Befana1.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +641,14 @@
       "google_news_url": "https://www.google.it/search?q=Revenant%20-%20Redivivo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Revenant_-_Redivivo",
       "article_url": "https://it.wikipedia.org/wiki/Revenant_-_Redivivo",
-      "description": "film del 2015 diretto da Alejandro González Iñárritu",
+      "description": "Film del 2015 di Alejandro González Iñárritu con Leonardo DiCaprio, esce nelle sale italiane il 14 gennaio.",
       "image_filename": "The_Revenant.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/71/The_Revenant.png/1280px-The_Revenant.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Revenant.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +687,14 @@
       "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Grey%27s_Anatomy",
       "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
-      "description": "serie televisiva statunitense del 2005",
+      "description": "Serie televisiva statunitense, è per la 27ª settimana consecutiva tra le pagine più viste.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +733,14 @@
       "google_news_url": "https://www.google.it/search?q=Gli%20Aristogatti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Gli_Aristogatti",
       "article_url": "https://it.wikipedia.org/wiki/Gli_Aristogatti",
-      "description": "film d'animazione del 1970 diretto da Wolfgang Reitherman",
+      "description": "Film d'animazione Disney del 1970, va in onda il 6 gennaio sulla Rai.",
       "image_filename": "Gli_Aristogatti.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Gli_Aristogatti.png/1280px-Gli_Aristogatti.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gli_Aristogatti.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +779,14 @@
       "google_news_url": "https://www.google.it/search?q=Gotham%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Gotham_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Gotham_(serie_televisiva)",
-      "description": "serie televisiva statunitense (2014-2019)",
+      "description": "Serie televisiva statunitense basata sui personaggi di Batman, va in onda il 5 gennaio su Italia 1.",
       "image_filename": "Gotham_(serie_televisiva).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1c/Gotham_%28serie_televisiva%29.png/1280px-Gotham_%28serie_televisiva%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gotham_(serie_televisiva).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +825,14 @@
       "google_news_url": "https://www.google.it/search?q=Laura%20Morante&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Laura_Morante",
       "article_url": "https://it.wikipedia.org/wiki/Laura_Morante",
-      "description": "attrice, doppiatrice e regista italiana",
+      "description": "Attrice e regista italiana, il 5 gennaio esce al cinema Assolo, film che dirige e interpreta.",
       "image_filename": "Laura_Morante_Cannes_2017.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Laura_Morante_Cannes_2017.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Laura_Morante_Cannes_2017.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +871,14 @@
       "google_news_url": "https://www.google.it/search?q=Corea%20del%20Nord&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Corea_del_Nord",
       "article_url": "https://it.wikipedia.org/wiki/Corea_del_Nord",
-      "description": "stato dell'Asia orientale",
+      "description": "Il 6 gennaio il paese dichiara di aver sperimentato con successo la sua prima bomba all'idrogeno.",
       "image_filename": "Flag_of_North_Korea.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1280px-Flag_of_North_Korea.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Korea.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +917,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Imitation%20Game&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=The_Imitation_Game",
       "article_url": "https://it.wikipedia.org/wiki/The_Imitation_Game",
-      "description": "film del 2014 diretto da Morten Tyldum",
+      "description": "Film del 2014 su Alan Turing, il picco del 4 gennaio potrebbe essere legato alla sua trasmissione su Sky.",
       "image_filename": "The_Imitation_Game.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a1/The_Imitation_Game.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Imitation_Game.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20ponte%20delle%20spie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Il_ponte_delle_spie",
       "article_url": "https://it.wikipedia.org/wiki/Il_ponte_delle_spie",
-      "description": "film del 2015 diretto da Steven Spielberg",
+      "description": "Film del 2015 diretto da Steven Spielberg, esce nelle sale italiane il 16 dicembre 2015.",
       "image_filename": "Bridge_of_Spies.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/3/31/Bridge_of_Spies.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bridge_of_Spies.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=Luciano%20Pavarotti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Luciano_Pavarotti",
       "article_url": "https://it.wikipedia.org/wiki/Luciano_Pavarotti",
-      "description": "tenore italiano (1935-2007)",
+      "description": "Tenore italiano morto nel 2007, è ricordato l'8 gennaio su Rai 2 in una puntata di Unici.",
       "image_filename": "Luciano_Pavarotti_2004.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Luciano_Pavarotti_2004.jpg/1029px-Luciano_Pavarotti_2004.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luciano_Pavarotti_2004.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1055,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1101,14 @@
       "google_news_url": "https://www.google.it/search?q=Gianni%20Bella&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Gianni_Bella",
       "article_url": "https://it.wikipedia.org/wiki/Gianni_Bella",
-      "description": "cantautore italiano (1947-)",
+      "description": "Cantautore e compositore italiano, non emerge una causa certa per il picco del 5 gennaio.",
       "image_filename": "Gianni_Bella_crop.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Gianni_Bella_crop.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gianni_Bella_crop.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1147,14 @@
       "google_news_url": "https://www.google.it/search?q=Riccardo%20Muti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/04/2016,cd_max:01/10/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-01-04&end=2016-01-10&pages=Riccardo_Muti",
       "article_url": "https://it.wikipedia.org/wiki/Riccardo_Muti",
-      "description": "direttore d'orchestra italiano (1941-)",
+      "description": "Direttore d'orchestra italiano, il picco del 10 gennaio potrebbe essere legato alla puntata di Che tempo che fa su Rai 3.",
       "image_filename": "Embajador_Wayne_asiste_a_la_clase_magistral_impartida_por_el_Maestro_Riccardo_Muti_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Embajador_Wayne_asiste_a_la_clase_magistral_impartida_por_el_Maestro_Riccardo_Muti_%28cropped%29.jpg/1280px-Embajador_Wayne_asiste_a_la_clase_magistral_impartida_por_el_Maestro_Riccardo_Muti_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Embajador_Wayne_asiste_a_la_clase_magistral_impartida_por_el_Maestro_Riccardo_Muti_(cropped).jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }
