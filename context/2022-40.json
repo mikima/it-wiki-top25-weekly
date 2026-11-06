@@ -1,0 +1,99 @@
+{
+  "week": "2022-40",
+  "start_date": "2022-10-03",
+  "end_date": "2022-10-09",
+  "articles": {
+    "Marilyn_Monroe": {
+      "fetched_at": "2026-11-06T18:23:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Marilyn Monroe, pseudonimo di Norma Jeane Mortenson Baker, nata Norma Jeane Mortenson, è stata un'attrice, cantante, modella e produttrice cinematografica statunitense, tra le più celebri della storia del cinema.",
+      "news": [
+        {
+          "title": "Blonde e gli amori di Marilyn Monroe: è vera la storia del triangolo? - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 03 Oct 2022 07:00:00 GMT",
+          "description": "Blonde e gli amori di Marilyn Monroe: è vera la storia del triangolo? Vanity Fair Italia"
+        },
+        {
+          "title": "Tutti gli uomini di Marilyn Monroe (mariti e no) - Vogue",
+          "source": "Vogue",
+          "pubDate": "Wed, 05 Oct 2022 07:00:00 GMT",
+          "description": "Tutti gli uomini di Marilyn Monroe (mariti e no) Vogue"
+        },
+        {
+          "title": "Ana De Armas, la metamorfosi in Marilyn Monroe in time-lapse - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Wed, 05 Oct 2022 07:00:00 GMT",
+          "description": "Ana De Armas, la metamorfosi in Marilyn Monroe in time-lapse iO Donna"
+        },
+        {
+          "title": "Il nuovo film su Marilyn Monroe è un disastro e ha un problema con l’aborto - VICE",
+          "source": "VICE",
+          "pubDate": "Thu, 06 Oct 2022 07:00:00 GMT",
+          "description": "Il nuovo film su Marilyn Monroe è un disastro e ha un problema con l’aborto VICE"
+        },
+        {
+          "title": "Quel giorno in cui la regina Elisabetta e Marilyn Monroe si ritrovarono nella stessa stanza - Marie Claire",
+          "source": "Marie Claire",
+          "pubDate": "Tue, 04 Oct 2022 07:00:00 GMT",
+          "description": "Quel giorno in cui la regina Elisabetta e Marilyn Monroe si ritrovarono nella stessa stanza Marie Claire"
+        },
+        {
+          "title": "Tutto ciò che c'è da sapere sull'unica foto di Marilyn Monroe e John F. Kennedy insieme - Harper's BAZAAR",
+          "source": "Harper's BAZAAR",
+          "pubDate": "Sat, 08 Oct 2022 07:00:00 GMT",
+          "description": "Tutto ciò che c'è da sapere sull'unica foto di Marilyn Monroe e John F. Kennedy insieme Harper's BAZAAR"
+        },
+        {
+          "title": "Blonde e Marilyn, identiche: le foto dei look a confronto - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Tue, 04 Oct 2022 07:00:00 GMT",
+          "description": "Blonde e Marilyn, identiche: le foto dei look a confronto Amica.it"
+        },
+        {
+          "title": "Il nuovo film su Marilyn Monroe e il perché delle polemiche - Artribune",
+          "source": "Artribune",
+          "pubDate": "Tue, 04 Oct 2022 07:00:00 GMT",
+          "description": "Il nuovo film su Marilyn Monroe e il perché delle polemiche Artribune"
+        },
+        {
+          "title": "È morto il fotografo che fece di Marilyn Monroe una leggenda - laRegione",
+          "source": "laRegione",
+          "pubDate": "Mon, 03 Oct 2022 07:00:00 GMT",
+          "description": "È morto il fotografo che fece di Marilyn Monroe una leggenda laRegione"
+        },
+        {
+          "title": "Blonde – Marilyn Monroe tra denuncia e pornografia del dolore - ArteSettima",
+          "source": "ArteSettima",
+          "pubDate": "Wed, 05 Oct 2022 07:00:00 GMT",
+          "description": "Blonde – Marilyn Monroe tra denuncia e pornografia del dolore ArteSettima"
+        }
+      ]
+    },
+    "Giorgia_Meloni": {
+      "fetched_at": "2026-11-06T18:23:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giorgia Meloni è una politica italiana, presidente del Consiglio dei ministri dal 22 ottobre 2022. Prima donna a capo del governo nella storia d'Italia, ha ricoperto precedentemente gli incarichi di vicepresidente della Camera dei deputati dal 2006 al 2008 e di ministro per la gioventù nel quarto governo Berlusconi dal 2008 al 2011.",
+      "news": [
+        {
+          "title": "Alla corte di Giorgia Meloni - Le Grand Continent",
+          "source": "Le Grand Continent",
+          "pubDate": "Sun, 09 Oct 2022 07:00:00 GMT",
+          "description": "Alla corte di Giorgia Meloni Le Grand Continent"
+        },
+        {
+          "title": "Governo, dai sindaci alle professioni: chi sostiene Giorgia Meloni - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 10 Oct 2022 07:00:00 GMT",
+          "description": "Governo, dai sindaci alle professioni: chi sostiene Giorgia Meloni Il Sole 24 ORE"
+        },
+        {
+          "title": "Boschi: \"Il Pd è finito per sempre, Giorgia Meloni è stata brava ma deve anche dire grazie a Letta \" - Secolo d'Italia",
+          "source": "Secolo d'Italia",
+          "pubDate": "Tue, 04 Oct 2022 07:00:00 GMT",
+          "description": "Boschi: \"Il Pd è finito per sempre, Giorgia Meloni è stata brava ma deve anche dire grazie a Letta \" Secolo d'Italia"
+        }
+      ]
+    }
+  }
+}

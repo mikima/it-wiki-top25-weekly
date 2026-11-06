@@ -233,13 +233,14 @@
       "google_news_url": "https://www.google.it/search?q=Marilyn%20Monroe&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2022,cd_max:10/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-10-03&end=2022-10-09&pages=Marilyn_Monroe",
       "article_url": "https://it.wikipedia.org/wiki/Marilyn_Monroe",
-      "description": "attrice, cantante, modella e produttrice cinematografica statunitense (1926–1962)",
+      "description": "Attrice statunitense morta nel 1962, è protagonista del film Blonde, distribuito su Netflix il 28 settembre.",
       "image_filename": "Marilyn_Monroe,_Photoplay_1953.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Marilyn_Monroe%2C_Photoplay_1953.jpg/1280px-Marilyn_Monroe%2C_Photoplay_1953.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marilyn_Monroe%2C_Photoplay_1953.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -863,13 +864,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorgia%20Meloni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2022,cd_max:10/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-10-03&end=2022-10-09&pages=Giorgia_Meloni",
       "article_url": "https://it.wikipedia.org/wiki/Giorgia_Meloni",
-      "description": "politica italiana, Presidente del Consiglio dei ministri della Repubblica Italiana",
+      "description": "Presidente di Fratelli d'Italia, guida la coalizione di centrodestra vincitrice delle elezioni politiche del 25 settembre.",
       "image_filename": "Giorgia_Meloni_Official_2024_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
       "image_license": "CC BY 3.0 it",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,

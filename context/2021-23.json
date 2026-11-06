@@ -1,0 +1,99 @@
+{
+  "week": "2021-23",
+  "start_date": "2021-06-07",
+  "end_date": "2021-06-13",
+  "articles": {
+    "G7": {
+      "fetched_at": "2026-11-06T18:23:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Gruppo dei Sette, di solito abbreviato in G7, è un forum intergovernativo composto da Canada, Francia, Germania, Giappone, Italia, Regno Unito e Stati Uniti d'America, nazioni sviluppate il cui peso politico, economico, industriale e militare è ritenuto di centrale importanza su scala globale. Sono i 7 paesi avanzati con i maggiori PIL, come calcolato dal Fondo Monetario Internazionale. L'Unione europea partecipa alle riunioni, con la presenza di una propria rappresentanza, in qualità di invitato permanente.",
+      "news": [
+        {
+          "title": "Vertice del G7, Cornovaglia, Regno Unito, 11-13.6.2021, 11-13 giugno 2021 - Council, European Union",
+          "source": "Council, European Union",
+          "pubDate": "Fri, 11 Jun 2021 07:00:00 GMT",
+          "description": "Vertice del G7, Cornovaglia, Regno Unito, 11-13.6.2021, 11-13 giugno 2021 Council, European Union"
+        },
+        {
+          "title": "G7: tutti in Cornovaglia - ISPI",
+          "source": "ISPI",
+          "pubDate": "Thu, 10 Jun 2021 07:00:00 GMT",
+          "description": "G7: tutti in Cornovaglia ISPI"
+        },
+        {
+          "title": "Di cosa si parla al G7 - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sun, 13 Jun 2021 07:00:00 GMT",
+          "description": "Di cosa si parla al G7 Il Post"
+        },
+        {
+          "title": "Dalle foto sulla spiaggia alla cena con la Regina: i leader mondiali al G7 in Cornovaglia - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Sat, 12 Jun 2021 07:00:00 GMT",
+          "description": "Dalle foto sulla spiaggia alla cena con la Regina: i leader mondiali al G7 in Cornovaglia Il Sole 24 ORE"
+        },
+        {
+          "title": "G7, Draghi: 'Contro autocrazie posizioni condivise' - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sun, 13 Jun 2021 07:00:00 GMT",
+          "description": "G7, Draghi: 'Contro autocrazie posizioni condivise' Sky TG24"
+        },
+        {
+          "title": "G7, bilaterale tra Draghi e Johnson Clima, 100 miliardi ai Paesi poveri - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 11 Jun 2021 07:00:00 GMT",
+          "description": "G7, bilaterale tra Draghi e Johnson Clima, 100 miliardi ai Paesi poveri Corriere della Sera"
+        },
+        {
+          "title": "G7, al via il summit. Johnson: \"Occasione per uscire dalla miseria della pandemia\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 11 Jun 2021 07:00:00 GMT",
+          "description": "G7, al via il summit. Johnson: \"Occasione per uscire dalla miseria della pandemia\" RaiNews"
+        },
+        {
+          "title": "Clima, dai leader G7 impegno condiviso a dimezzare le emissioni di gas serra entro il 2030 - Eunews",
+          "source": "Eunews",
+          "pubDate": "Mon, 14 Jun 2021 07:00:00 GMT",
+          "description": "Clima, dai leader G7 impegno condiviso a dimezzare le emissioni di gas serra entro il 2030 Eunews"
+        },
+        {
+          "title": "Il G7 donerà 1 miliardo di dosi di vaccino ai Paesi poveri - ANSA",
+          "source": "ANSA",
+          "pubDate": "Fri, 11 Jun 2021 07:00:00 GMT",
+          "description": "Il G7 donerà 1 miliardo di dosi di vaccino ai Paesi poveri ANSA"
+        },
+        {
+          "title": "G7 vista mare in Cornovaglia. Tutte le foto dei leader - Formiche.net",
+          "source": "Formiche.net",
+          "pubDate": "Fri, 11 Jun 2021 07:00:00 GMT",
+          "description": "G7 vista mare in Cornovaglia. Tutte le foto dei leader Formiche.net"
+        }
+      ]
+    },
+    "Grande_Slam_(tennis)": {
+      "fetched_at": "2026-11-06T18:23:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Nel tennis, il Grande Slam è la vittoria dei quattro tornei più importanti nello stesso anno solare.",
+      "news": [
+        {
+          "title": "Djokovic - Nadal stellare: Nole vince e punta al Grande Slam - SuperTennis",
+          "source": "SuperTennis",
+          "pubDate": "Fri, 11 Jun 2021 07:00:00 GMT",
+          "description": "Djokovic - Nadal stellare: Nole vince e punta al Grande Slam SuperTennis"
+        },
+        {
+          "title": "Il mondo del tennis commenta il forfait di Roger Federer - bluewin.ch",
+          "source": "bluewin.ch",
+          "pubDate": "Mon, 07 Jun 2021 13:58:37 GMT",
+          "description": "Il mondo del tennis commenta il forfait di Roger Federer bluewin.ch"
+        },
+        {
+          "title": "Sakkari, sulle orme di Tsitsipas: storico “quarto” per la Grecia - SuperTennis",
+          "source": "SuperTennis",
+          "pubDate": "Mon, 07 Jun 2021 07:00:00 GMT",
+          "description": "Sakkari, sulle orme di Tsitsipas: storico “quarto” per la Grecia SuperTennis"
+        }
+      ]
+    }
+  }
+}

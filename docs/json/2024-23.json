@@ -1133,13 +1133,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionati%20europei%20di%20atletica%20leggera%202024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/03/2024,cd_max:06/09/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-06-03&end=2024-06-09&pages=Campionati_europei_di_atletica_leggera_2024",
       "article_url": "https://it.wikipedia.org/wiki/Campionati_europei_di_atletica_leggera_2024",
-      "description": "26ª edizione dei campionati europei di atletica leggera",
+      "description": "Si disputano a Roma dal 7 al 12 giugno; l'8 giugno Marcell Jacobs vince l'oro nei 100 metri.",
       "image_filename": "Roma_2024_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f7/Roma_2024_logo.png/1206px-Roma_2024_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roma_2024_logo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

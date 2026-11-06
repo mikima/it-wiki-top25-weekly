@@ -1,0 +1,87 @@
+{
+  "week": "2016-40",
+  "start_date": "2016-10-03",
+  "end_date": "2016-10-09",
+  "articles": {
+    "Bruce_Lee": {
+      "fetched_at": "2026-11-06T18:22:21+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Bruce Lee, all'anagrafe Lee Jun-fan è stato un artista marziale, attore, regista, sceneggiatore e produttore cinematografico hongkonghese con cittadinanza statunitense.",
+      "news": [
+        {
+          "title": "Il discorso \"I have a dream\" di Martin Luther King: un esempio di appuntamento - Cultura Cattolica",
+          "source": "Cultura Cattolica",
+          "pubDate": "Mon, 10 Oct 2016 07:00:00 GMT",
+          "description": "Il discorso \"I have a dream\" di Martin Luther King: un esempio di appuntamento Cultura Cattolica"
+        }
+      ]
+    },
+    "Eleonora_Brigliadori": {
+      "fetched_at": "2026-11-06T18:22:21+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Eleonora Brigliadori è un'attrice, personaggio televisivo e annunciatrice televisiva italiana.",
+      "news": [
+        {
+          "title": "Che cos'è il metodo Hamer che Eleonora Brigliadori (sbagliando) consiglia - Wired",
+          "source": "Wired",
+          "pubDate": "Mon, 03 Oct 2016 07:00:00 GMT",
+          "description": "Che cos'è il metodo Hamer che Eleonora Brigliadori (sbagliando) consiglia Wired"
+        },
+        {
+          "title": "Eleonora Brigliadori, lite con Nadia Toffa de Le Iene sulla chemioterapia - Corriere Adriatico",
+          "source": "Corriere Adriatico",
+          "pubDate": "Tue, 04 Oct 2016 07:00:00 GMT",
+          "description": "Eleonora Brigliadori, lite con Nadia Toffa de Le Iene sulla chemioterapia Corriere Adriatico"
+        },
+        {
+          "title": "Eleonora Brigliadori aggredisce Nadia Toffa de Le Iene durante il servizio sui tumori e la chemio - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Mon, 03 Oct 2016 07:00:00 GMT",
+          "description": "Eleonora Brigliadori aggredisce Nadia Toffa de Le Iene durante il servizio sui tumori e la chemio Il Mattino"
+        },
+        {
+          "title": "La coscienza sporca delle Iene - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 05 Oct 2016 07:00:00 GMT",
+          "description": "La coscienza sporca delle Iene Il Post"
+        },
+        {
+          "title": "Dopo il servizio de “Le Iene”, contro la Brigliadori adesso arriva un esposto in Procura - IVG.it",
+          "source": "IVG.it",
+          "pubDate": "Mon, 03 Oct 2016 07:00:00 GMT",
+          "description": "Dopo il servizio de “Le Iene”, contro la Brigliadori adesso arriva un esposto in Procura IVG.it"
+        },
+        {
+          "title": "TOFFA: Consigli maligni di una Showgirl - Le Iene",
+          "source": "Le Iene",
+          "pubDate": "Tue, 04 Oct 2016 07:00:00 GMT",
+          "description": "TOFFA: Consigli maligni di una Showgirl Le Iene"
+        },
+        {
+          "title": "Eleonora Brigliadori contro la chemio, Renato Giusto: “L’ordine dei medici faccia intervenire la magistratura” - IVG.it",
+          "source": "IVG.it",
+          "pubDate": "Mon, 10 Oct 2016 07:00:00 GMT",
+          "description": "Eleonora Brigliadori contro la chemio, Renato Giusto: “L’ordine dei medici faccia intervenire la magistratura” IVG.it"
+        },
+        {
+          "title": "Brigliadori a Le Iene: non si muore per un tumore. Polemica sui social - Video - Giornale di Sicilia",
+          "source": "Giornale di Sicilia",
+          "pubDate": "Mon, 03 Oct 2016 07:00:00 GMT",
+          "description": "Brigliadori a Le Iene: non si muore per un tumore. Polemica sui social - Video Giornale di Sicilia"
+        },
+        {
+          "title": "Rosanna Banfi: \"Ho sconfitto il cancro con la chemio, la Brigliadori dice cose assurde\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 06 Oct 2016 07:00:00 GMT",
+          "description": "Rosanna Banfi: \"Ho sconfitto il cancro con la chemio, la Brigliadori dice cose assurde\" Fanpage"
+        },
+        {
+          "title": "Eleonora Brigliadori, l’ex conduttrice anti-chemio aggredisce Nadia Toffa di Le Iene - Gossip.it",
+          "source": "Gossip.it",
+          "pubDate": "Mon, 03 Oct 2016 07:00:00 GMT",
+          "description": "Eleonora Brigliadori, l’ex conduttrice anti-chemio aggredisce Nadia Toffa di Le Iene Gossip.it"
+        }
+      ]
+    }
+  }
+}

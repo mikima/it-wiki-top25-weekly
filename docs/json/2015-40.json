@@ -818,13 +818,14 @@
       "google_news_url": "https://www.google.it/search?q=Coppa%20del%20Mondo%20di%20rugby%202015&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/28/2015,cd_max:10/04/2015&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-09-28&end=2015-10-04&pages=Coppa_del_Mondo_di_rugby_2015",
       "article_url": "https://it.wikipedia.org/wiki/Coppa_del_Mondo_di_rugby_2015",
-      "description": "8ª edizione della Coppa del Mondo di rugby",
+      "description": "Il 4 ottobre l'Italia perde 16-9 contro l'Irlanda nella fase a gironi della Coppa del Mondo di rugby.",
       "image_filename": "2015_Rugby_World_Cup.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/2015_Rugby_World_Cup.svg/1280px-2015_Rugby_World_Cup.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2015_Rugby_World_Cup.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,

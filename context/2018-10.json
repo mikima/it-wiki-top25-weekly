@@ -1,0 +1,87 @@
+{
+  "week": "2018-10",
+  "start_date": "2018-03-05",
+  "end_date": "2018-03-11",
+  "articles": {
+    "Le_armi_segrete": {
+      "fetched_at": "2026-11-06T18:22:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le armi segrete è una raccolta di racconti dello scrittore argentino Julio Cortázar pubblicato nel 1959. Contiene due dei racconti più famosi dello scrittore, Il persecutore, racconto a chiave sugli ultimi giorni di Charlie Parker, e Le bave del diavolo, dal quale Michelangelo Antonioni trarrà ispirazione per il film Blow-up.",
+      "news": [
+        {
+          "title": "Bloodborne: le build che abbiamo usato e quelle consigliate - Multiplayer",
+          "source": "Multiplayer",
+          "pubDate": "Sat, 10 Mar 2018 08:00:00 GMT",
+          "description": "Bloodborne: le build che abbiamo usato e quelle consigliate Multiplayer"
+        },
+        {
+          "title": "Vladimir Putin presenta un super missile nucleare - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Fri, 09 Mar 2018 08:00:00 GMT",
+          "description": "Vladimir Putin presenta un super missile nucleare Focus.it"
+        },
+        {
+          "title": "Così la Cia spiava il Pci a Cremona: organizzazione, armi e un infiltrato nel partito - Cremonaoggi",
+          "source": "Cremonaoggi",
+          "pubDate": "Wed, 07 Mar 2018 08:00:00 GMT",
+          "description": "Così la Cia spiava il Pci a Cremona: organizzazione, armi e un infiltrato nel partito Cremonaoggi"
+        },
+        {
+          "title": "Worms: la guerra è una cosa da vermi - Player.it",
+          "source": "Player.it",
+          "pubDate": "Fri, 09 Mar 2018 08:00:00 GMT",
+          "description": "Worms: la guerra è una cosa da vermi Player.it"
+        }
+      ]
+    },
+    "Silvio_Berlusconi": {
+      "fetched_at": "2026-11-06T18:22:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Silvio Berlusconi è stato un imprenditore e politico italiano, fondatore del gruppo Fininvest e di Forza Italia, quattro volte Presidente del Consiglio dei ministri della Repubblica Italiana, il che lo rende attualmente il più longevo dell'Italia repubblicana.",
+      "news": [
+        {
+          "title": "Loro di Paolo Sorrentino: il primo trailer del film su Silvio Berlusconi - www.madmass.it",
+          "source": "www.madmass.it",
+          "pubDate": "Mon, 12 Mar 2018 07:00:00 GMT",
+          "description": "Loro di Paolo Sorrentino: il primo trailer del film su Silvio Berlusconi www.madmass.it"
+        },
+        {
+          "title": "\"Volevo essere il più amato\". Berlusconi secondo Sorrentino, ecco le prime immagini - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 12 Mar 2018 07:00:00 GMT",
+          "description": "\"Volevo essere il più amato\". Berlusconi secondo Sorrentino, ecco le prime immagini la Repubblica"
+        },
+        {
+          "title": "Loro: olgettine e bunga bunga nel teaser trailer del film di Paolo Sorrentino su Silvio Berlusconi! - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 12 Mar 2018 07:00:00 GMT",
+          "description": "Loro: olgettine e bunga bunga nel teaser trailer del film di Paolo Sorrentino su Silvio Berlusconi! BadTaste"
+        },
+        {
+          "title": "\"Berlusconi aveva bisogno di avere sopra di sé una donna che non aveva pagato, è codardo\" - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Thu, 08 Mar 2018 08:00:00 GMT",
+          "description": "\"Berlusconi aveva bisogno di avere sopra di sé una donna che non aveva pagato, è codardo\" MilanoToday"
+        },
+        {
+          "title": "Sexy agguato a Berlusconi, parla la femen: \"Per la prima volta sopra di sé una donna che non aveva pagato\" - Today",
+          "source": "Today",
+          "pubDate": "Wed, 07 Mar 2018 08:00:00 GMT",
+          "description": "Sexy agguato a Berlusconi, parla la femen: \"Per la prima volta sopra di sé una donna che non aveva pagato\" Today"
+        },
+        {
+          "title": "Le Femen spiegano perché se la prendono sempre con Berlusconi - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 05 Mar 2018 08:00:00 GMT",
+          "description": "Le Femen spiegano perché se la prendono sempre con Berlusconi AGI"
+        },
+        {
+          "title": "Silvio Berlusconi e le bellissime nuove onorevoli di Forza Italia, da Matilde Siracusano ad Annaelsa Tartaglione - Libero Quotidiano",
+          "source": "Libero Quotidiano",
+          "pubDate": "Mon, 12 Mar 2018 07:00:00 GMT",
+          "description": "Silvio Berlusconi e le bellissime nuove onorevoli di Forza Italia, da Matilde Siracusano ad Annaelsa Tartaglione Libero Quotidiano"
+        }
+      ]
+    }
+  }
+}

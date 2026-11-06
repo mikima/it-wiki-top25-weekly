@@ -188,13 +188,14 @@
       "google_news_url": "https://www.google.it/search?q=UEFA%20Nations%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/06/2022,cd_max:06/12/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-06-06&end=2022-06-12&pages=UEFA_Nations_League",
       "article_url": "https://it.wikipedia.org/wiki/UEFA_Nations_League",
-      "description": "competizione calcistica continentale per squadre nazionali organizzata dalla UEFA",
+      "description": "Il 7 giugno l'Italia batte l'Ungheria 2-1 in Nations League; l'11 giugno pareggia 0-0 con l'Inghilterra.",
       "image_filename": "UEFA_Nations_League.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/1280px-UEFA_Nations_League.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Nations_League.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -908,13 +909,14 @@
       "google_news_url": "https://www.google.it/search?q=UEFA%20Nations%20League%202022-2023&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/06/2022,cd_max:06/12/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-06-06&end=2022-06-12&pages=UEFA_Nations_League_2022-2023",
       "article_url": "https://it.wikipedia.org/wiki/UEFA_Nations_League_2022-2023",
-      "description": "3ª edizione della UEFA Nations League",
+      "description": "Nella terza edizione della Nations League, il 7 giugno l'Italia batte 2-1 l'Ungheria allenata da Marco Rossi.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,

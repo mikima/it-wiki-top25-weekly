@@ -323,13 +323,14 @@
       "google_news_url": "https://www.google.it/search?q=Clacson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/18/2017,cd_max:12/24/2017&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-12-18&end=2017-12-24&pages=Clacson",
       "article_url": "https://it.wikipedia.org/wiki/Clacson",
-      "description": "dispositivo di segnalazione acustica per mezzi di trasporto",
+      "description": "Dispositivo di segnalazione acustica per mezzi di trasporto: probabilmente un errore nei dati, con 78.719 visite il 20 dicembre e quattro giorni a zero.",
       "image_filename": "Hansa_1100_Cabrio_dashboard_MTP07.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hansa_1100_Cabrio_dashboard_MTP07.jpg/1280px-Hansa_1100_Cabrio_dashboard_MTP07.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hansa_1100_Cabrio_dashboard_MTP07.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -998,13 +999,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/18/2017,cd_max:12/24/2017&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-12-18&end=2017-12-24&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo durante la settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,

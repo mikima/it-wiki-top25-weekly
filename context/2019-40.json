@@ -1,0 +1,123 @@
+{
+  "week": "2019-40",
+  "start_date": "2019-09-30",
+  "end_date": "2019-10-06",
+  "articles": {
+    "Sindrome_di_Asperger": {
+      "fetched_at": "2026-11-06T18:23:18+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La sindrome di Asperger è un disturbo pervasivo dello sviluppo caratterizzato da una persistente difficoltà nelle interazioni sociali e relazionali, schemi di comportamento ripetitivi e stereotipati, tendenze ossessive, difficoltà empatiche e ad interpretare le emozioni altrui, difficoltà a gestire e regolare le proprie emozioni e i propri sentimenti, e attività e interessi in alcuni casi ristretti a determinati ambiti.",
+      "news": [
+        {
+          "title": "Grunya Sukhareva, la psichiatra che descrisse prima di tutti la sindrome di Asperger - OggiScienza",
+          "source": "OggiScienza",
+          "pubDate": "Thu, 03 Oct 2019 07:00:00 GMT",
+          "description": "Grunya Sukhareva, la psichiatra che descrisse prima di tutti la sindrome di Asperger OggiScienza"
+        },
+        {
+          "title": "\"Greta non ha malizia o secondi fini. L'Asperger ci fa sentire il dolore della natura\" - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Thu, 03 Oct 2019 07:00:00 GMT",
+          "description": "\"Greta non ha malizia o secondi fini. L'Asperger ci fa sentire il dolore della natura\" HuffPost Italia"
+        },
+        {
+          "title": "Torna L’Ora Solare con Paola Saluzzi - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Fri, 04 Oct 2019 07:00:00 GMT",
+          "description": "Torna L’Ora Solare con Paola Saluzzi Tv2000"
+        },
+        {
+          "title": "Bloodline | La recensione del thriller con Seann William Scott (Sitges 52) - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Sun, 06 Oct 2019 07:00:00 GMT",
+          "description": "Bloodline | La recensione del thriller con Seann William Scott (Sitges 52) Il Cineocchio"
+        },
+        {
+          "title": "\"The Rider\" i selvaggi cavalieri Sioux - Strisciarossa",
+          "source": "Strisciarossa",
+          "pubDate": "Wed, 02 Oct 2019 07:00:00 GMT",
+          "description": "\"The Rider\" i selvaggi cavalieri Sioux Strisciarossa"
+        },
+        {
+          "title": "L’Ora Solare: Catena Fiorello, Reginald e Margaret Green, Oreste Lionello, Raffaele Paganini - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Fri, 04 Oct 2019 07:00:00 GMT",
+          "description": "L’Ora Solare: Catena Fiorello, Reginald e Margaret Green, Oreste Lionello, Raffaele Paganini Tv2000"
+        },
+        {
+          "title": "Radio Maria fa disinformazione sul riscaldamento globale - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Tue, 01 Oct 2019 07:00:00 GMT",
+          "description": "Radio Maria fa disinformazione sul riscaldamento globale Pagella Politica"
+        }
+      ]
+    },
+    "Francesco_Nuti": {
+      "fetched_at": "2026-11-06T18:23:18+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Francesco Nuti è stato un attore, regista, sceneggiatore, comico, musicista, produttore cinematografico e cantante italiano.",
+      "news": [
+        {
+          "title": "Vieni da Me, la figlia di Francesco Nuti: \"Sono la tutrice di mio padre\". E Caterina Balivo si commuove - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 02 Oct 2019 07:00:00 GMT",
+          "description": "Vieni da Me, la figlia di Francesco Nuti: \"Sono la tutrice di mio padre\". E Caterina Balivo si commuove Il Fatto Quotidiano"
+        },
+        {
+          "title": "Francesco Nuti, la figlia da Caterina Balivo: «Sono la sua tutrice da quando ho 18 anni» - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Wed, 02 Oct 2019 07:00:00 GMT",
+          "description": "Francesco Nuti, la figlia da Caterina Balivo: «Sono la sua tutrice da quando ho 18 anni» Il Messaggero"
+        },
+        {
+          "title": "Caterina Balivo in lacrime per il racconto della figlia di Francesco Nuti: «Sono la sua tutrice» - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Tue, 01 Oct 2019 07:00:00 GMT",
+          "description": "Caterina Balivo in lacrime per il racconto della figlia di Francesco Nuti: «Sono la sua tutrice» Leggo.it"
+        },
+        {
+          "title": "Vieni da me, la figlia di Francesco Nuti: \"Sono la tutrice di mio padre\" - Giornale di Sicilia",
+          "source": "Giornale di Sicilia",
+          "pubDate": "Tue, 01 Oct 2019 07:00:00 GMT",
+          "description": "Vieni da me, la figlia di Francesco Nuti: \"Sono la tutrice di mio padre\" Giornale di Sicilia"
+        },
+        {
+          "title": "\"A 18 anni sono diventata tutrice di mio padre. Parliamo con gli sguardi. Mi manca averlo come guida\" - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Wed, 02 Oct 2019 07:00:00 GMT",
+          "description": "\"A 18 anni sono diventata tutrice di mio padre. Parliamo con gli sguardi. Mi manca averlo come guida\" HuffPost Italia"
+        },
+        {
+          "title": "Colonne Sonore Italiane anni ’80: la TOP 10 - Indie For Bunnies",
+          "source": "Indie For Bunnies",
+          "pubDate": "Thu, 03 Oct 2019 07:00:00 GMT",
+          "description": "Colonne Sonore Italiane anni ’80: la TOP 10 Indie For Bunnies"
+        },
+        {
+          "title": "Sant'Anna, undici toscani fra le sessanta matricole - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Tue, 01 Oct 2019 07:00:00 GMT",
+          "description": "Sant'Anna, undici toscani fra le sessanta matricole La Nazione"
+        },
+        {
+          "title": "Tiziano Ferro pubblica la sua chat privata con Marco Mengoni: \"Qui giochiamo sporco\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 02 Oct 2019 07:00:00 GMT",
+          "description": "Tiziano Ferro pubblica la sua chat privata con Marco Mengoni: \"Qui giochiamo sporco\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Come sta Francesco Nuti, la figlia Ginevra: \"Sono la sua tutrice, è stazionario\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 01 Oct 2019 07:00:00 GMT",
+          "description": "Come sta Francesco Nuti, la figlia Ginevra: \"Sono la sua tutrice, è stazionario\" Fanpage"
+        },
+        {
+          "title": "La figlia di Francesco Nuti: “Dopo l’incidente ho visto un papà cambiato, però sempre papà” - Perizona Magazine",
+          "source": "Perizona Magazine",
+          "pubDate": "Tue, 01 Oct 2019 07:00:00 GMT",
+          "description": "La figlia di Francesco Nuti: “Dopo l’incidente ho visto un papà cambiato, però sempre papà” Perizona Magazine"
+        }
+      ]
+    }
+  }
+}

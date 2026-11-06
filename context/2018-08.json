@@ -1,0 +1,50 @@
+{
+  "week": "2018-08",
+  "start_date": "2018-02-19",
+  "end_date": "2018-02-25",
+  "articles": {
+    "Italia": {
+      "fetched_at": "2026-11-06T18:22:46+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Avviso - Segnalazione di tentativi fraudolenti di mail-phishing con allegati malevoli e uso improprio del nome della Banca d'Italia - Banca d'Italia",
+          "source": "Banca d'Italia",
+          "pubDate": "Tue, 20 Feb 2018 08:00:00 GMT",
+          "description": "Avviso - Segnalazione di tentativi fraudolenti di mail-phishing con allegati malevoli e uso improprio del nome della Banca d'Italia Banca d'Italia"
+        },
+        {
+          "title": "Eugenio Franceschini: «’Sconnessi’ è meglio» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Sun, 25 Feb 2018 08:00:00 GMT",
+          "description": "Eugenio Franceschini: «’Sconnessi’ è meglio» Rolling Stone Italia"
+        },
+        {
+          "title": "LA FORMAZIONE DELL’ITALIA U20 PER LA SFIDA ALLA FRANCIA A GUEUGNON - Federazione Italiana Rugby",
+          "source": "Federazione Italiana Rugby",
+          "pubDate": "Thu, 22 Feb 2018 08:00:00 GMT",
+          "description": "LA FORMAZIONE DELL’ITALIA U20 PER LA SFIDA ALLA FRANCIA A GUEUGNON Federazione Italiana Rugby"
+        },
+        {
+          "title": "Polizia di Stato e BT Italia insieme per contrastare il cybercrime - Polizia Postale",
+          "source": "Polizia Postale",
+          "pubDate": "Thu, 22 Feb 2018 08:00:00 GMT",
+          "description": "Polizia di Stato e BT Italia insieme per contrastare il cybercrime Polizia Postale"
+        },
+        {
+          "title": "Italia-Tunisia. Accordi tra repressione e falsità - Progetto Melting Pot Europa",
+          "source": "Progetto Melting Pot Europa",
+          "pubDate": "Sat, 24 Feb 2018 08:00:00 GMT",
+          "description": "Italia-Tunisia. Accordi tra repressione e falsità Progetto Melting Pot Europa"
+        },
+        {
+          "title": "Fiorella Mannoia e Carlo Di Francesco, saluti da New York - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 22 Feb 2018 08:00:00 GMT",
+          "description": "Fiorella Mannoia e Carlo Di Francesco, saluti da New York Vanity Fair Italia"
+        }
+      ]
+    }
+  }
+}

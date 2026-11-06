@@ -143,13 +143,14 @@
       "google_news_url": "https://www.google.it/search?q=Lory%20Del%20Santo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/01/2018,cd_max:10/07/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-10-01&end=2018-10-07&pages=Lory_Del_Santo",
       "article_url": "https://it.wikipedia.org/wiki/Lory_Del_Santo",
-      "description": "personaggio televisivo, attrice, regista, fotografa e showgirl italiana",
+      "description": "Showgirl italiana, il 1º ottobre entra nella casa del Grande Fratello VIP dopo la morte del figlio Loren.",
       "image_filename": "Lory_Del_Santo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lory_Del_Santo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lory_Del_Santo.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -863,13 +864,14 @@
       "google_news_url": "https://www.google.it/search?q=Walter%20Zenga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/01/2018,cd_max:10/07/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-10-01&end=2018-10-07&pages=Walter_Zenga",
       "article_url": "https://it.wikipedia.org/wiki/Walter_Zenga",
-      "description": "allenatore di calcio, dirigente sportivo, opinionista sportivo ed ex calciatore italiano (1960-)",
+      "description": "Ex portiere e allenatore italiano, il figlio Andrea parla del loro rapporto a Temptation Island VIP il 2 ottobre su Canale 5.",
       "image_filename": "Walter_Zenga_-_FC_Internazionale_Milano_1987-88.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/14/Walter_Zenga_-_FC_Internazionale_Milano_1987-88.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Walter_Zenga_-_FC_Internazionale_Milano_1987-88.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,

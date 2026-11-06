@@ -1,0 +1,32 @@
+{
+  "week": "2017-48",
+  "start_date": "2017-11-27",
+  "end_date": "2017-12-03",
+  "articles": {
+    "Italia": {
+      "fetched_at": "2026-11-06T18:22:32+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Il sistema della prevenzione della corruzione in Italia - ANAC",
+          "source": "ANAC",
+          "pubDate": "Mon, 27 Nov 2017 08:00:00 GMT",
+          "description": "Il sistema della prevenzione della corruzione in Italia ANAC"
+        },
+        {
+          "title": "Dossier: “I sistemi elettorali in Italia dal proporzionale al Rosatellum” - Acli - Associazioni Cristiane Lavoratori Italiani.",
+          "source": "Acli - Associazioni Cristiane Lavoratori Italiani.",
+          "pubDate": "Tue, 28 Nov 2017 08:00:00 GMT",
+          "description": "Dossier: “I sistemi elettorali in Italia dal proporzionale al Rosatellum” Acli - Associazioni Cristiane Lavoratori Italiani."
+        },
+        {
+          "title": "I 20 paesi più belli d’Italia del 2017 - Skyscanner Italia",
+          "source": "Skyscanner Italia",
+          "pubDate": "Mon, 27 Nov 2017 08:00:00 GMT",
+          "description": "I 20 paesi più belli d’Italia del 2017 Skyscanner Italia"
+        }
+      ]
+    }
+  }
+}

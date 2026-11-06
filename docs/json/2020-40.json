@@ -233,13 +233,14 @@
       "google_news_url": "https://www.google.it/search?q=Myriam%20Catania&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/28/2020,cd_max:10/04/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-09-28&end=2020-10-04&pages=Myriam_Catania",
       "article_url": "https://it.wikipedia.org/wiki/Myriam_Catania",
-      "description": "attrice, doppiatrice, direttrice del doppiaggio e dialoghista italiana (1979-)",
+      "description": "Attrice e doppiatrice italiana, il 28 settembre parla dell'ex marito Luca Argentero al Grande Fratello VIP su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -503,13 +504,14 @@
       "google_news_url": "https://www.google.it/search?q=James%20Naismith&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/28/2020,cd_max:10/04/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-09-28&end=2020-10-04&pages=James_Naismith",
       "article_url": "https://it.wikipedia.org/wiki/James_Naismith",
-      "description": "insegnante, allenatore di pallacanestro e inventore di nazionalità canadese",
+      "description": "Inventore canadese della pallacanestro, il picco è probabilmente legato a Chi vuol essere milionario?, in onda il 1 ottobre su Canale 5.",
       "image_filename": "James_Naismith_at_Springfield_College_circa_1920.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/James_Naismith_at_Springfield_College_circa_1920.jpg/1080px-James_Naismith_at_Springfield_College_circa_1920.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:James_Naismith_at_Springfield_College_circa_1920.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -818,13 +820,14 @@
       "google_news_url": "https://www.google.it/search?q=Joe%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/28/2020,cd_max:10/04/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-09-28&end=2020-10-04&pages=Joe_Biden",
       "article_url": "https://it.wikipedia.org/wiki/Joe_Biden",
-      "description": "politico statunitense (1942–), 46º presidente degli Stati Uniti d'America (2021–2025)",
+      "description": "Candidato democratico alle presidenziali statunitensi, il 29 settembre affronta Donald Trump nel primo dibattito televisivo.",
       "image_filename": "Joe_Biden_presidential_portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1280px-Joe_Biden_presidential_portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +866,14 @@
       "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/28/2020,cd_max:10/04/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-09-28&end=2020-10-04&pages=Donald_Trump",
       "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
-      "description": "politico e imprenditore statunitense, 45º e 47º presidente degli Stati Uniti d'America",
+      "description": "Presidente degli Stati Uniti e candidato repubblicano alle presidenziali, il 2 ottobre annuncia di essere positivo al COVID-19.",
       "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -998,13 +1002,14 @@
       "google_news_url": "https://www.google.it/search?q=Johnny%20Dorelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/28/2020,cd_max:10/04/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-09-28&end=2020-10-04&pages=Johnny_Dorelli",
       "article_url": "https://it.wikipedia.org/wiki/Johnny_Dorelli",
-      "description": "cantante, pianista, conduttore radiofonico, attore e conduttore televisivo italiano",
+      "description": "Cantante e attore italiano, il picco del 4 ottobre è forse legato alla puntata di Che tempo che fa su Rai 3.",
       "image_filename": "Johnny_Dorelli_58.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Johnny_Dorelli_58.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Johnny_Dorelli_58.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,

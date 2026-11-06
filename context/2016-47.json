@@ -1,0 +1,44 @@
+{
+  "week": "2016-47",
+  "start_date": "2016-11-21",
+  "end_date": "2016-11-27",
+  "articles": {
+    "Italia": {
+      "fetched_at": "2026-11-06T18:22:26+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Infografica sulla natalità e fecondità - Istat",
+          "source": "Istat",
+          "pubDate": "Mon, 28 Nov 2016 08:00:00 GMT",
+          "description": "Infografica sulla natalità e fecondità Istat"
+        },
+        {
+          "title": "Geotermia e società: quale rapporto? Il primo caso studio in centro Italia - La Statale News",
+          "source": "La Statale News",
+          "pubDate": "Mon, 21 Nov 2016 08:00:00 GMT",
+          "description": "Geotermia e società: quale rapporto? Il primo caso studio in centro Italia La Statale News"
+        },
+        {
+          "title": "Per il 90% dei cittadini, l’Italia è un Paese violento con le donne - Eunews",
+          "source": "Eunews",
+          "pubDate": "Thu, 24 Nov 2016 08:00:00 GMT",
+          "description": "Per il 90% dei cittadini, l’Italia è un Paese violento con le donne Eunews"
+        },
+        {
+          "title": "Monfalcone, come nasce Seaside, la nave più grande d'Italia - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 28 Nov 2016 08:00:00 GMT",
+          "description": "Monfalcone, come nasce Seaside, la nave più grande d'Italia la Repubblica"
+        },
+        {
+          "title": "Samsung porta in Italia il nuovo Gear S3: un prodotto che va oltre l’orologio per innovazione e design - samsung.com",
+          "source": "samsung.com",
+          "pubDate": "Wed, 23 Nov 2016 08:00:00 GMT",
+          "description": "Samsung porta in Italia il nuovo Gear S3: un prodotto che va oltre l’orologio per innovazione e design samsung.com"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "week": "2020-23",
+  "start_date": "2020-06-01",
+  "end_date": "2020-06-07",
+  "articles": {
+    "Elon_Musk": {
+      "fetched_at": "2026-11-06T18:23:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elon Reeve Musk è un imprenditore sudafricano con cittadinanza canadese naturalizzato statunitense.",
+      "news": [
+        {
+          "title": "Elon Musk contro Jeff Bezos: «Amazon è un monopolio e va diviso» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 08 Jun 2020 07:00:00 GMT",
+          "description": "Elon Musk contro Jeff Bezos: «Amazon è un monopolio e va diviso» Corriere della Sera"
+        },
+        {
+          "title": "Come vedere Il lancio dello SpaceX di Elon Musk in streaming - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 01 Jun 2020 07:00:00 GMT",
+          "description": "Come vedere Il lancio dello SpaceX di Elon Musk in streaming Mediaset Infinity"
+        }
+      ]
+    },
+    "Donald_Trump": {
+      "fetched_at": "2026-11-06T18:23:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Donald John Trump è un politico, imprenditore e personaggio televisivo statunitense, 47º Presidente degli Stati Uniti d'America dal 2025, in precedenza è stato 45º presidente dal 2017 al 2021.",
+      "news": [
+        {
+          "title": "Chi sono gli Antifa, il movimento che Trump vuole mettere al bando - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 01 Jun 2020 07:00:00 GMT",
+          "description": "Chi sono gli Antifa, il movimento che Trump vuole mettere al bando Sky TG24"
+        },
+        {
+          "title": "Trump Presidente degli Stati Divisi d’America - ISPI",
+          "source": "ISPI",
+          "pubDate": "Fri, 05 Jun 2020 07:00:00 GMT",
+          "description": "Trump Presidente degli Stati Divisi d’America ISPI"
+        },
+        {
+          "title": "Dwayne Johnson, \"The Rock\" attacca Donald Trump: \"Dove sei? Dove è il nostro leader mentre il Paese è in ginocchio?\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 04 Jun 2020 07:00:00 GMT",
+          "description": "Dwayne Johnson, \"The Rock\" attacca Donald Trump: \"Dove sei? Dove è il nostro leader mentre il Paese è in ginocchio?\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Rivolte, pandemia e crisi economica: è davvero la fine di Donald Trump? - Esquire",
+          "source": "Esquire",
+          "pubDate": "Sun, 07 Jun 2020 07:00:00 GMT",
+          "description": "Rivolte, pandemia e crisi economica: è davvero la fine di Donald Trump? Esquire"
+        },
+        {
+          "title": "Com’è fatto il bunker sotto la Casa Bianca dov’è stato trasportato Trump - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 04 Jun 2020 07:00:00 GMT",
+          "description": "Com’è fatto il bunker sotto la Casa Bianca dov’è stato trasportato Trump Il Sole 24 ORE"
+        },
+        {
+          "title": "Quarta Repubblica: Puntata dell'8 giugno Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 08 Jun 2020 07:00:00 GMT",
+          "description": "Quarta Repubblica: Puntata dell'8 giugno Video Mediaset Infinity"
+        },
+        {
+          "title": "Lo Stato profondo e i generali assediano Donald Trump - InsideOver - Inside the news Over the world",
+          "source": "InsideOver - Inside the news Over the world",
+          "pubDate": "Fri, 05 Jun 2020 07:00:00 GMT",
+          "description": "Lo Stato profondo e i generali assediano Donald Trump InsideOver - Inside the news Over the world"
+        }
+      ]
+    }
+  }
+}

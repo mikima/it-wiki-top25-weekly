@@ -548,13 +548,14 @@
       "google_news_url": "https://www.google.it/search?q=Le%20armi%20segrete&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Le_armi_segrete",
       "article_url": "https://it.wikipedia.org/wiki/Le_armi_segrete",
-      "description": "raccolta di racconti di Julio Cortázar",
+      "description": "Raccolta di racconti di Julio Cortázar, probabilmente soggetta a un errore nei dati: zero visite per cinque giorni, poi 5.286 e 79.619.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -908,13 +909,14 @@
       "google_news_url": "https://www.google.it/search?q=Delitto%20di%20Avetrana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/12/2018,cd_max:03/18/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-12&end=2018-03-18&pages=Delitto_di_Avetrana",
       "article_url": "https://it.wikipedia.org/wiki/Delitto_di_Avetrana",
-      "description": "caso di omicidio avvenuto ad Avetrana nel 2010",
+      "description": "Il caso dell'omicidio di Sarah Scazzi nel 2010 è trattato da Franca Leosini a Storie maledette, su Rai 3, l'11 e il 18 marzo.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,

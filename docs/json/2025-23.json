@@ -908,13 +908,14 @@
       "google_news_url": "https://www.google.it/search?q=Grande%20Slam%20%28tennis%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/02/2025,cd_max:06/08/2025&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-06-02&end=2025-06-08&pages=Grande_Slam_(tennis)",
       "article_url": "https://it.wikipedia.org/wiki/Grande_Slam_(tennis)",
-      "description": "circuito internazionale comprendente i quattro tornei di tennis più importanti al mondo",
+      "description": "Nel tennis indica la vittoria dei quattro tornei maggiori nello stesso anno. L'8 giugno Alcaraz batte Sinner nella finale del Roland Garros.",
       "image_filename": "Steffi_Graf_in_Hamburg.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Steffi_Graf_in_Hamburg.jpg/1006px-Steffi_Graf_in_Hamburg.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Steffi_Graf_in_Hamburg.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -1043,13 +1044,14 @@
       "google_news_url": "https://www.google.it/search?q=Coppa%20del%20mondo%20per%20club%20FIFA%202025&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/02/2025,cd_max:06/08/2025&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-06-02&end=2025-06-08&pages=Coppa_del_mondo_per_club_FIFA_2025",
       "article_url": "https://it.wikipedia.org/wiki/Coppa_del_mondo_per_club_FIFA_2025",
-      "description": "21ª edizione della competizione calcistica per club organizzata dalla FIFA",
+      "description": "Il torneo a 32 squadre inizia il 14 giugno negli Stati Uniti; il 1º giugno si completa l'elenco delle qualificate.",
       "image_filename": "Coppa_del_mondo_per_club_FIFA_2025.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d5/Coppa_del_mondo_per_club_FIFA_2025.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coppa_del_mondo_per_club_FIFA_2025.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,

@@ -1,0 +1,32 @@
+{
+  "week": "2016-46",
+  "start_date": "2016-11-14",
+  "end_date": "2016-11-20",
+  "articles": {
+    "Italia": {
+      "fetched_at": "2026-11-06T18:22:24+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Diretta Rai 1 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 17 Nov 2016 08:34:11 GMT",
+          "description": "Diretta Rai 1 RaiPlay"
+        },
+        {
+          "title": "I PFAS e altri PFC mettono a rischio la salute - Greenpeace",
+          "source": "Greenpeace",
+          "pubDate": "Mon, 14 Nov 2016 08:00:00 GMT",
+          "description": "I PFAS e altri PFC mettono a rischio la salute Greenpeace"
+        },
+        {
+          "title": "Rai 2 - La diretta in streaming video su RaiPlay - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 17 Nov 2016 17:22:39 GMT",
+          "description": "Rai 2 - La diretta in streaming video su RaiPlay RaiPlay"
+        }
+      ]
+    }
+  }
+}

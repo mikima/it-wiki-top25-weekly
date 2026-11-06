@@ -188,13 +188,14 @@
       "google_news_url": "https://www.google.it/search?q=Le%20armi%20segrete&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/26/2018,cd_max:03/04/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-02-26&end=2018-03-04&pages=Le_armi_segrete",
       "article_url": "https://it.wikipedia.org/wiki/Le_armi_segrete",
-      "description": "raccolta di racconti di Julio Cortázar",
+      "description": "Raccolta di racconti di Julio Cortázar; non emerge una causa riconoscibile per le visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,

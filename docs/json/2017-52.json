@@ -278,13 +278,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/25/2017,cd_max:12/31/2017&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-12-25&end=2017-12-31&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, è una discendente della regina Vittoria, protagonista della serie Victoria, in onda il 26 dicembre su Canale 5.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -908,13 +909,14 @@
       "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/25/2017,cd_max:12/31/2017&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-12-25&end=2017-12-31&pages=Iris_(rete_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Rete televisiva italiana di Mediaset, è difficile stabilire il motivo del picco di visite.",
       "image_filename": "Iris_-_Logo_2013.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,

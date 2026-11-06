@@ -458,13 +458,14 @@
       "google_news_url": "https://www.google.it/search?q=Sindrome%20di%20Asperger&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/30/2019,cd_max:10/06/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-09-30&end=2019-10-06&pages=Sindrome_di_Asperger",
       "article_url": "https://it.wikipedia.org/wiki/Sindrome_di_Asperger",
-      "description": "categoria diagnostica usata fino al 2013 per un disturbo dello spettro autistico",
+      "description": "Condizione dello spettro autistico di Greta Thunberg, che il 23 settembre parla al vertice ONU sul clima.",
       "image_filename": "Riboflavin_penicillinamide.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Riboflavin_penicillinamide.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Riboflavin_penicillinamide.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -638,13 +639,14 @@
       "google_news_url": "https://www.google.it/search?q=Francesco%20Nuti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:09/30/2019,cd_max:10/06/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-09-30&end=2019-10-06&pages=Francesco_Nuti",
       "article_url": "https://it.wikipedia.org/wiki/Francesco_Nuti",
-      "description": "attore, regista, sceneggiatore, produttore cinematografico e cantante italiano (1955–2023)",
+      "description": "Attore e regista italiano, il 1º ottobre la figlia Ginevra parla di lui a Vieni da me su Rai 1.",
       "image_filename": "Francesco_Nuti_1990.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/6/66/Francesco_Nuti_1990.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesco_Nuti_1990.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,

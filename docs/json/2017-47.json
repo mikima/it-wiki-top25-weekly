@@ -638,13 +638,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/20/2017,cd_max:11/26/2017&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2017-11-20&end=2017-11-26&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo, il numero di visite è nella media.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,

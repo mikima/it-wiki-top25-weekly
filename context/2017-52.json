@@ -1,0 +1,32 @@
+{
+  "week": "2017-52",
+  "start_date": "2017-12-25",
+  "end_date": "2017-12-31",
+  "articles": {
+    "Elisabetta_II_del_Regno_Unito": {
+      "fetched_at": "2026-11-06T18:22:39+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elisabetta II è stata regina del Regno Unito di Gran Bretagna e Irlanda del Nord e degli altri reami del Commonwealth dal 6 febbraio 1952 fino alla sua morte.",
+      "news": [
+        {
+          "title": "The Crown e le altre: le serie tv sulla famiglia reale inglese - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Sun, 31 Dec 2017 08:00:00 GMT",
+          "description": "The Crown e le altre: le serie tv sulla famiglia reale inglese www.panorama.it"
+        },
+        {
+          "title": "Gli 80 anni di Sir Anthony Hopkins, gentleman trasformista: \"Rimango un comune mortale\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 30 Dec 2017 08:00:00 GMT",
+          "description": "Gli 80 anni di Sir Anthony Hopkins, gentleman trasformista: \"Rimango un comune mortale\" la Repubblica"
+        }
+      ]
+    },
+    "Iris_(rete_televisiva)": {
+      "fetched_at": "2026-11-06T18:22:39+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Iris è un canale televisivo gratuito italiano edito da Mediaset disponibile sul digitale terrestre italiano e via satellite con la piattaforma Tivùsat, lanciato il 30 novembre 2007.",
+      "news": []
+    }
+  }
+}

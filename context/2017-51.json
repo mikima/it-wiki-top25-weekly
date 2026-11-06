@@ -1,0 +1,38 @@
+{
+  "week": "2017-51",
+  "start_date": "2017-12-18",
+  "end_date": "2017-12-24",
+  "articles": {
+    "Clacson": {
+      "fetched_at": "2026-11-06T18:22:35+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il clacson, ma anche segnalatore acustico o avvisatore acustico, è un dispositivo elettromeccanico di segnalazione acustica per mezzi di trasporto.",
+      "news": []
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T18:22:35+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Un sistema di fratture profonde allontana la Sicilia dal resto dell'Italia - Consiglio Nazionale delle Ricerche",
+          "source": "Consiglio Nazionale delle Ricerche",
+          "pubDate": "Fri, 22 Dec 2017 08:00:00 GMT",
+          "description": "Un sistema di fratture profonde allontana la Sicilia dal resto dell'Italia Consiglio Nazionale delle Ricerche"
+        },
+        {
+          "title": "Gli studenti di Biotecnologie in visita alla Lesaffre Italia di Trecasali - Università degli studi di Parma",
+          "source": "Università degli studi di Parma",
+          "pubDate": "Mon, 18 Dec 2017 08:00:00 GMT",
+          "description": "Gli studenti di Biotecnologie in visita alla Lesaffre Italia di Trecasali Università degli studi di Parma"
+        },
+        {
+          "title": "‘Adulti Vaccinati’, l’impatto fiscale delle vaccinazioni in Italia - insalutenews.it",
+          "source": "insalutenews.it",
+          "pubDate": "Thu, 21 Dec 2017 08:00:00 GMT",
+          "description": "‘Adulti Vaccinati’, l’impatto fiscale delle vaccinazioni in Italia insalutenews.it"
+        }
+      ]
+    }
+  }
+}

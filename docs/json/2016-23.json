@@ -638,13 +638,14 @@
       "google_news_url": "https://www.google.it/search?q=Copa%20Am%C3%A9rica%20Centenario&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/06/2016,cd_max:06/12/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-06-06&end=2016-06-12&pages=Copa_Am%C3%A9rica_Centenario",
       "article_url": "https://it.wikipedia.org/wiki/Copa_Am%C3%A9rica_Centenario",
-      "description": "45ª edizione della Copa América",
+      "description": "La 45ª edizione della Copa América, organizzata per il centenario del torneo, si disputa negli Stati Uniti dal 3 giugno.",
       "image_filename": "Logo_Copa_Amèrica_Centenario_USA_2016.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Logo_Copa_Am%C3%A8rica_Centenario_USA_2016.png/1280px-Logo_Copa_Am%C3%A8rica_Centenario_USA_2016.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Copa_Am%C3%A8rica_Centenario_USA_2016.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,

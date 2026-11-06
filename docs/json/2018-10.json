@@ -683,13 +683,14 @@
       "google_news_url": "https://www.google.it/search?q=Le%20armi%20segrete&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/05/2018,cd_max:03/11/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-05&end=2018-03-11&pages=Le_armi_segrete",
       "article_url": "https://it.wikipedia.org/wiki/Le_armi_segrete",
-      "description": "raccolta di racconti di Julio Cortázar",
+      "description": "Raccolta di racconti di Julio Cortázar, è in classifica da quattro settimane senza una causa riconoscibile.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -998,13 +999,14 @@
       "google_news_url": "https://www.google.it/search?q=Silvio%20Berlusconi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/05/2018,cd_max:03/11/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-03-05&end=2018-03-11&pages=Silvio_Berlusconi",
       "article_url": "https://it.wikipedia.org/wiki/Silvio_Berlusconi",
-      "description": "imprenditore e politico italiano (1936–2023)",
+      "description": "Leader di Forza Italia, alle elezioni politiche del 4 marzo il suo partito è superato dalla Lega nella coalizione di centrodestra.",
       "image_filename": "Silvio_Berlusconi_(2010)_cropped.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Silvio_Berlusconi_%282010%29_cropped.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Silvio_Berlusconi_(2010)_cropped.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,

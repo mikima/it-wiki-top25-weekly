@@ -514,13 +514,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202026&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Campionato_mondiale_di_calcio_2026",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2026",
-      "description": "23ª edizione del campionato mondiale di calcio FIFA",
+      "description": "La 23ª edizione dei Mondiali di calcio inizia l'11 giugno in Canada, Messico e Stati Uniti.",
       "image_filename": "Campionato_mondiale_di_calcio_2026.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/e/e6/Campionato_mondiale_di_calcio_2026.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Campionato_mondiale_di_calcio_2026.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -604,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Marjane%20Satrapi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Marjane_Satrapi",
       "article_url": "https://it.wikipedia.org/wiki/Marjane_Satrapi",
-      "description": "fumettista, regista, sceneggiatrice e illustratrice iraniana naturalizzata francese (1969-2026)",
+      "description": "Fumettista e regista iraniana, autrice di Persepolis, il 4 giugno viene annunciata la sua morte a 56 anni.",
       "image_filename": "Marjane_Satrapi_Cannes_2008.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Marjane_Satrapi_Cannes_2008.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marjane_Satrapi_Cannes_2008.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -1144,13 +1146,14 @@
       "google_news_url": "https://www.google.it/search?q=Michael%20Jackson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2026,cd_max:06/07/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-06-01&end=2026-06-07&pages=Michael_Jackson",
       "article_url": "https://it.wikipedia.org/wiki/Michael_Jackson",
-      "description": "cantautore, ballerino, coreografo, compositore, produttore discografico e filantropo statunitense (1958–2009)",
+      "description": "Cantante e ballerino statunitense, è per la settima settimana consecutiva in classifica. Il 3 giugno escono gli ultimi due episodi di The Michael Jackson Story.",
       "image_filename": "Michael_Jackson_at_the_1984_Grammy's_by_Scott_Garrity.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Michael_Jackson_at_the_1984_Grammy%27s_by_Scott_Garrity.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_at_the_1984_Grammy%27s_by_Scott_Garrity.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 26,

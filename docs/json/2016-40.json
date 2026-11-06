@@ -593,13 +593,14 @@
       "google_news_url": "https://www.google.it/search?q=Bruce%20Lee&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Bruce_Lee",
       "article_url": "https://it.wikipedia.org/wiki/Bruce_Lee",
-      "description": "artista marziale, attore, regista, sceneggiatore e produttore cinematografico cinese con cittadinanza statunitense (1940-1973)",
+      "description": "Attore e artista marziale hongkonghese, morto nel 1973. Probabile errore nei dati: 64.166 visite il 9 ottobre, dopo cinque giorni a zero.",
       "image_filename": "Bruce_Lee_1973.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bruce_Lee_1973.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -998,13 +999,14 @@
       "google_news_url": "https://www.google.it/search?q=Eleonora%20Brigliadori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/03/2016,cd_max:10/09/2016&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2016-10-03&end=2016-10-09&pages=Eleonora_Brigliadori",
       "article_url": "https://it.wikipedia.org/wiki/Eleonora_Brigliadori",
-      "description": "attrice, personaggio televisivo e annunciatrice televisiva italiana (1960-)",
+      "description": "Attrice e conduttrice italiana, litiga con Nadia Toffa in un servizio sulla chemioterapia trasmesso da Le Iene il 2 ottobre su Italia 1.",
       "image_filename": "Cintura_-_Brigliadori.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b6/Cintura_-_Brigliadori.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cintura_-_Brigliadori.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,

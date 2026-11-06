@@ -548,13 +548,14 @@
       "google_news_url": "https://www.google.it/search?q=Elon%20Musk&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2020,cd_max:06/07/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-06-01&end=2020-06-07&pages=Elon_Musk",
       "article_url": "https://it.wikipedia.org/wiki/Elon_Musk",
-      "description": "imprenditore e politico sudafricano, con cittadinanza canadese, naturalizzato statunitense (1971–)",
+      "description": "Imprenditore a capo di SpaceX, il 30 maggio lancia la missione Crew Dragon Demo-2, che attracca alla Stazione Spaziale Internazionale il 31 maggio.",
       "image_filename": "Elon_Musk_-_54820081119_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/1280px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_-_54820081119_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -1043,13 +1044,14 @@
       "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/01/2020,cd_max:06/07/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-06-01&end=2020-06-07&pages=Donald_Trump",
       "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
-      "description": "politico e imprenditore statunitense, 45º e 47º presidente degli Stati Uniti d'America",
+      "description": "Presidente degli Stati Uniti, il 31 maggio annuncia di voler designare Antifa come organizzazione terroristica, durante le proteste per George Floyd.",
       "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,

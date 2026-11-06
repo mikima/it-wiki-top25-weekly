@@ -1,0 +1,44 @@
+{
+  "week": "2017-45",
+  "start_date": "2017-11-06",
+  "end_date": "2017-11-12",
+  "articles": {
+    "Italia": {
+      "fetched_at": "2026-11-06T18:22:28+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "L’Italia resta fuori dal Mondiale, Azzurri in lacrime dopo lo 0-0 con la Svezia - FIGC",
+          "source": "FIGC",
+          "pubDate": "Mon, 13 Nov 2017 08:00:00 GMT",
+          "description": "L’Italia resta fuori dal Mondiale, Azzurri in lacrime dopo lo 0-0 con la Svezia FIGC"
+        },
+        {
+          "title": "Italia fuori dai Mondiali. Italia-Svezia finisce 0-0. È la prima volta dal 1958 - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Mon, 13 Nov 2017 08:00:00 GMT",
+          "description": "Italia fuori dai Mondiali. Italia-Svezia finisce 0-0. È la prima volta dal 1958 Euronews.com"
+        },
+        {
+          "title": "Garage Italia, la risto-officina di Lapo e Cracco: com'è (e cosa si mangia) - Identità Golose Web",
+          "source": "Identità Golose Web",
+          "pubDate": "Tue, 07 Nov 2017 08:00:00 GMT",
+          "description": "Garage Italia, la risto-officina di Lapo e Cracco: com'è (e cosa si mangia) Identità Golose Web"
+        },
+        {
+          "title": "Lotteria Italia dell’accoglienza - Oxfam Italia",
+          "source": "Oxfam Italia",
+          "pubDate": "Wed, 08 Nov 2017 08:00:00 GMT",
+          "description": "Lotteria Italia dell’accoglienza Oxfam Italia"
+        },
+        {
+          "title": "L’Italia ha perso 1-0 contro la Svezia nell’andata dello spareggio per i Mondiali - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 10 Nov 2017 08:00:00 GMT",
+          "description": "L’Italia ha perso 1-0 contro la Svezia nell’andata dello spareggio per i Mondiali Il Post"
+        }
+      ]
+    }
+  }
+}

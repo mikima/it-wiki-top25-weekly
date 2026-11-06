@@ -1,0 +1,141 @@
+{
+  "week": "2022-23",
+  "start_date": "2022-06-06",
+  "end_date": "2022-06-12",
+  "articles": {
+    "UEFA_Nations_League": {
+      "fetched_at": "2026-11-06T18:23:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La UEFA Nations League è una competizione calcistica continentale per squadre nazionali, riservata alle Federazioni affiliate all'UEFA e disputata con cadenza biennale.",
+      "news": [
+        {
+          "title": "Statistiche squadra - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Sat, 11 Jun 2022 17:49:31 GMT",
+          "description": "Statistiche squadra UEFA.com"
+        },
+        {
+          "title": "Turchia | Squadra | UEFA Nations League - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Tue, 07 Jun 2022 21:20:50 GMT",
+          "description": "Turchia | Squadra | UEFA Nations League UEFA.com"
+        },
+        {
+          "title": "Italia-Ungheria | UEFA Nations League 2023 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Tue, 07 Jun 2022 07:00:00 GMT",
+          "description": "Italia-Ungheria | UEFA Nations League 2023 UEFA.com"
+        },
+        {
+          "title": "Spagna-Cechia | UEFA Nations League 2023 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Sun, 12 Jun 2022 07:00:00 GMT",
+          "description": "Spagna-Cechia | UEFA Nations League 2023 UEFA.com"
+        },
+        {
+          "title": "Inghilterra-Italia 0-0: pari al Molineux, Azzurri sempre primi | UEFA Nations League 2023 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Sat, 11 Jun 2022 07:00:00 GMT",
+          "description": "Inghilterra-Italia 0-0: pari al Molineux, Azzurri sempre primi | UEFA Nations League 2023 UEFA.com"
+        },
+        {
+          "title": "Croazia-Francia | UEFA Nations League 2023 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Mon, 06 Jun 2022 07:00:00 GMT",
+          "description": "Croazia-Francia | UEFA Nations League 2023 UEFA.com"
+        },
+        {
+          "title": "Islanda-Albania | Info partita | UEFA Nations League 2023 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Mon, 06 Jun 2022 07:00:00 GMT",
+          "description": "Islanda-Albania | Info partita | UEFA Nations League 2023 UEFA.com"
+        },
+        {
+          "title": "Andorra-Liechtenstein | Info partita | UEFA Nations League 2023 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Fri, 10 Jun 2022 07:00:00 GMT",
+          "description": "Andorra-Liechtenstein | Info partita | UEFA Nations League 2023 UEFA.com"
+        },
+        {
+          "title": "Danimarca - Austria 2-0: Wind decide la partita con un gol e un assist - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Mon, 13 Jun 2022 07:00:00 GMT",
+          "description": "Danimarca - Austria 2-0: Wind decide la partita con un gol e un assist UEFA.com"
+        },
+        {
+          "title": "Spagna - Repubblica Ceca 2-0: furie rosse in testa al Gruppo A2 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Sun, 12 Jun 2022 07:00:00 GMT",
+          "description": "Spagna - Repubblica Ceca 2-0: furie rosse in testa al Gruppo A2 UEFA.com"
+        }
+      ]
+    },
+    "UEFA_Nations_League_2022-2023": {
+      "fetched_at": "2026-11-06T18:23:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La UEFA Nations League 2022-2023 è stata la terza edizione della competizione calcistica UEFA Nations League. È iniziata il 1º giugno 2022 e si è conclusa il 26 marzo 2024. La nazionale campione in carica era la Francia. Ad aggiudicarsi l'edizione è stata la Spagna, al primo titolo nella manifestazione, che ha prevalso in finale sulla Croazia per 5-4 ai tiri di rigore, dopo lo 0-0 dei tempi supplementari.",
+      "news": [
+        {
+          "title": "Perché Inghilterra-Italia si gioca a porte chiuse e non è a Wembley: lo stadio della partita - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 11 Jun 2022 07:00:00 GMT",
+          "description": "Perché Inghilterra-Italia si gioca a porte chiuse e non è a Wembley: lo stadio della partita Fanpage"
+        },
+        {
+          "title": "Chi è Marco Rossi, il ct italiano dell'Ungheria dei miracoli. Dal possibile ritiro alle imprese in Nazionale - www.eurosport.it",
+          "source": "www.eurosport.it",
+          "pubDate": "Tue, 07 Jun 2022 07:00:00 GMT",
+          "description": "Chi è Marco Rossi, il ct italiano dell'Ungheria dei miracoli. Dal possibile ritiro alle imprese in Nazionale www.eurosport.it"
+        },
+        {
+          "title": "Chi è Federico Gatti: in 5 anni da muratore ad Inghilterra-Italia - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Sat, 11 Jun 2022 07:00:00 GMT",
+          "description": "Chi è Federico Gatti: in 5 anni da muratore ad Inghilterra-Italia Eurosport.it"
+        },
+        {
+          "title": "Il difensore lo insulta, Haaland fa gol e gli esulta in faccia: poi svela le minacce in campo - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 06 Jun 2022 07:00:00 GMT",
+          "description": "Il difensore lo insulta, Haaland fa gol e gli esulta in faccia: poi svela le minacce in campo Fanpage"
+        },
+        {
+          "title": "Son è una star del calcio mondiale, ma non ha impressionato il padre: \"La crisi è in arrivo\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 13 Jun 2022 07:00:00 GMT",
+          "description": "Son è una star del calcio mondiale, ma non ha impressionato il padre: \"La crisi è in arrivo\" Fanpage"
+        },
+        {
+          "title": "Quanto costava vedere il calcio in TV 20 anni fa, quando la Serie A era una cosa seria - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 10 Jun 2022 07:00:00 GMT",
+          "description": "Quanto costava vedere il calcio in TV 20 anni fa, quando la Serie A era una cosa seria Fanpage"
+        },
+        {
+          "title": "L'ultima frontiera del CSKA Sofia: scritte in Braille sulle maglie \"per chi vede il calcio col cuore\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 07 Jun 2022 07:00:00 GMT",
+          "description": "L'ultima frontiera del CSKA Sofia: scritte in Braille sulle maglie \"per chi vede il calcio col cuore\" Fanpage"
+        },
+        {
+          "title": "Sky Sport Nations League 2022/23 Diretta 4a Giornata, Palinsesto Telecronisti NOW - Digital-News.it",
+          "source": "Digital-News.it",
+          "pubDate": "Sun, 12 Jun 2022 07:00:00 GMT",
+          "description": "Sky Sport Nations League 2022/23 Diretta 4a Giornata, Palinsesto Telecronisti NOW Digital-News.it"
+        },
+        {
+          "title": "Samuele Ricci, chi è il calciatore della Nazionale italiana: stipendio, numero di maglia, fidanzata - Il Giornale d'Italia",
+          "source": "Il Giornale d'Italia",
+          "pubDate": "Sat, 11 Jun 2022 07:00:00 GMT",
+          "description": "Samuele Ricci, chi è il calciatore della Nazionale italiana: stipendio, numero di maglia, fidanzata Il Giornale d'Italia"
+        },
+        {
+          "title": "Matteo Cancellieri, chi è: stipendio, genitori, mamma, altezza, calciomercato, contratto - Il Giornale d'Italia",
+          "source": "Il Giornale d'Italia",
+          "pubDate": "Fri, 10 Jun 2022 07:00:00 GMT",
+          "description": "Matteo Cancellieri, chi è: stipendio, genitori, mamma, altezza, calciomercato, contratto Il Giornale d'Italia"
+        }
+      ]
+    }
+  }
+}

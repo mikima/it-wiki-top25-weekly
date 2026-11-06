@@ -458,13 +458,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202018&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/04/2018,cd_max:06/10/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-04&end=2018-06-10&pages=Campionato_mondiale_di_calcio_2018",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2018",
-      "description": "21ª edizione del campionato mondiale di calcio FIFA",
+      "description": "La 21ª edizione dei Mondiali di calcio inizia il 14 giugno in Russia.",
       "image_filename": "FIFA_World_Cup_Russia_2018_Logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/26/FIFA_World_Cup_Russia_2018_Logo.svg/1280px-FIFA_World_Cup_Russia_2018_Logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_Russia_2018_Logo.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -998,13 +999,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%201958&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/04/2018,cd_max:06/10/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-06-04&end=2018-06-10&pages=Campionato_mondiale_di_calcio_1958",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_1958",
-      "description": "6ª edizione del campionato mondiale di calcio FIFA",
+      "description": "Sesta edizione dei Mondiali, vinta dal Brasile di Pelé nel 1958; non è chiaro il motivo del picco del 5 giugno.",
       "image_filename": "1958_Football_World_Cup_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/4/48/1958_Football_World_Cup_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:1958_Football_World_Cup_logo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,

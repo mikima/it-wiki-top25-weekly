@@ -143,13 +143,14 @@
       "google_news_url": "https://www.google.it/search?q=UEFA%20Nations%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/04/2021,cd_max:10/10/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-10-04&end=2021-10-10&pages=UEFA_Nations_League",
       "article_url": "https://it.wikipedia.org/wiki/UEFA_Nations_League",
-      "description": "competizione calcistica continentale per squadre nazionali organizzata dalla UEFA",
+      "description": "Il 6 ottobre l'Italia perde 2-1 contro la Spagna in semifinale; il 10 la Francia vince la finale contro la Spagna.",
       "image_filename": "UEFA_Nations_League.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/1280px-UEFA_Nations_League.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Nations_League.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -503,13 +504,14 @@
       "google_news_url": "https://www.google.it/search?q=Stan%20Laurel&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/04/2021,cd_max:10/10/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-10-04&end=2021-10-10&pages=Stan_Laurel",
       "article_url": "https://it.wikipedia.org/wiki/Stan_Laurel",
-      "description": "attore, comico, regista, produttore cinematografico e sceneggiatore britannico naturalizzato statunitense (1890–1965)",
+      "description": "Attore e comico britannico, noto come Stanlio, è protagonista del film Stanlio & Ollio, in onda il 9 ottobre su Rai 1.",
       "image_filename": "Stan_Laurel_c1920.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Stan_Laurel_c1920.jpg/1280px-Stan_Laurel_c1920.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Stan_Laurel_c1920.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -683,13 +685,14 @@
       "google_news_url": "https://www.google.it/search?q=UEFA%20Nations%20League%202020-2021&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/04/2021,cd_max:10/10/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-10-04&end=2021-10-10&pages=UEFA_Nations_League_2020-2021",
       "article_url": "https://it.wikipedia.org/wiki/UEFA_Nations_League_2020-2021",
-      "description": "2ª edizione della UEFA Nations League",
+      "description": "Il 10 ottobre la Francia batte 2-1 la Spagna in finale; l'Italia vince la partita per il terzo posto contro il Belgio.",
       "image_filename": "Starting_UEFA_Nations_League_2021.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Starting_UEFA_Nations_League_2021.jpg/1280px-Starting_UEFA_Nations_League_2021.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Starting_UEFA_Nations_League_2021.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,

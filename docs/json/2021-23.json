@@ -953,13 +953,14 @@
       "google_news_url": "https://www.google.it/search?q=G7&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/07/2021,cd_max:06/13/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-06-07&end=2021-06-13&pages=G7",
       "article_url": "https://it.wikipedia.org/wiki/G7",
-      "description": "riunione intergovernativa annuale tra Canada, Francia, Germania, Giappone, Italia, Regno Unito e Stati Uniti d'America",
+      "description": "Il vertice del G7 si svolge dall'11 al 13 giugno in Cornovaglia, nel Regno Unito.",
       "image_filename": "Group_of_Seven_(G7)_Countries.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Group_of_Seven_%28G7%29_Countries.svg/1280px-Group_of_Seven_%28G7%29_Countries.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Group_of_Seven_(G7)_Countries.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -1043,13 +1044,14 @@
       "google_news_url": "https://www.google.it/search?q=Grande%20Slam%20%28tennis%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:06/07/2021,cd_max:06/13/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-06-07&end=2021-06-13&pages=Grande_Slam_(tennis)",
       "article_url": "https://it.wikipedia.org/wiki/Grande_Slam_(tennis)",
-      "description": "circuito internazionale comprendente i quattro tornei di tennis più importanti al mondo",
+      "description": "Vittoria dei quattro maggiori tornei di tennis nello stesso anno: il 13 giugno Novak Đoković conquista il secondo, il Roland Garros.",
       "image_filename": "Steffi_Graf_in_Hamburg.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Steffi_Graf_in_Hamburg.jpg/1006px-Steffi_Graf_in_Hamburg.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Steffi_Graf_in_Hamburg.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,

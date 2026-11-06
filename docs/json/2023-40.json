@@ -413,13 +413,14 @@
       "google_news_url": "https://www.google.it/search?q=Conflitto%20israelo-palestinese&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Conflitto_israelo-palestinese",
       "article_url": "https://it.wikipedia.org/wiki/Conflitto_israelo-palestinese",
-      "description": "conflitto politico-militare tra israeliani e palestinesi, parte della questione arabo-israeliana",
+      "description": "Il 7 ottobre Hamas attacca Israele dalla Striscia di Gaza; Israele risponde con bombardamenti sul territorio palestinese.",
       "image_filename": "Occupied_Palestinian_Territories.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/1280px-Occupied_Palestinian_Territories.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Occupied_Palestinian_Territories.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -683,13 +684,14 @@
       "google_news_url": "https://www.google.it/search?q=Amanda%20Lear&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:10/02/2023,cd_max:10/08/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-10-02&end=2023-10-08&pages=Amanda_Lear",
       "article_url": "https://it.wikipedia.org/wiki/Amanda_Lear",
-      "description": "cantante, attrice, conduttrice televisiva e modella francese naturalizzata britannica",
+      "description": "Cantante e conduttrice televisiva, è ospite il 5 ottobre a Splendida cornice su Rai 3 e l'8 ottobre a Verissimo su Canale 5.",
       "image_filename": "Amanda_Lear_2010_a.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Amanda_Lear_2010_a.jpg/1280px-Amanda_Lear_2010_a.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amanda_Lear_2010_a.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,

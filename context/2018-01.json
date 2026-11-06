@@ -1,0 +1,45 @@
+{
+  "week": "2018-01",
+  "start_date": "2018-01-01",
+  "end_date": "2018-01-07",
+  "articles": {
+    "Elisabetta_II_del_Regno_Unito": {
+      "fetched_at": "2026-11-06T18:22:44+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elisabetta II è stata regina del Regno Unito di Gran Bretagna e Irlanda del Nord e degli altri reami del Commonwealth dal 6 febbraio 1952 fino alla sua morte.",
+      "news": [
+        {
+          "title": "Regina Elisabetta II, beauty evolution Foto 7 - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Wed, 03 Jan 2018 08:00:00 GMT",
+          "description": "Regina Elisabetta II, beauty evolution Foto 7 Amica.it"
+        },
+        {
+          "title": "Regno Unito, primo giorno di scuola per la principessa Charlotte - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 08 Jan 2018 08:00:00 GMT",
+          "description": "Regno Unito, primo giorno di scuola per la principessa Charlotte Sky TG24"
+        }
+      ]
+    },
+    "Victoria_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T18:22:44+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Victoria è una serie televisiva britannica basata sulla vita della regina Vittoria, trasmessa nel Regno Unito dal 2016 al 2019 su ITV.",
+      "news": [
+        {
+          "title": "‘Victoria 2’ non verrà trasmessa da Canale 5, la serie tv è in prima visione su LaEffe - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 07 Jan 2018 08:00:00 GMT",
+          "description": "‘Victoria 2’ non verrà trasmessa da Canale 5, la serie tv è in prima visione su LaEffe Fanpage"
+        }
+      ]
+    },
+    "Iris_(rete_televisiva)": {
+      "fetched_at": "2026-11-06T18:22:44+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Iris è un canale televisivo gratuito italiano edito da Mediaset disponibile sul digitale terrestre italiano e via satellite con la piattaforma Tivùsat, lanciato il 30 novembre 2007.",
+      "news": []
+    }
+  }
+}
