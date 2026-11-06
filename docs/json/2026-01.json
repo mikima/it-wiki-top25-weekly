@@ -29,7 +29,7 @@
   "articles": [
     {
       "rank": 1,
-      "article": "Nicol\u00e1s_Maduro",
+      "article": "Nicolás_Maduro",
       "views": 411581,
       "daily_views": [
         {
@@ -69,7 +69,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Nicolas_Maduro_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nicolas_Maduro_2025_(cropped).jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 2,
@@ -113,7 +114,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Stranger_Things_logo.png",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 3,
@@ -157,7 +159,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/CHE_Crans-Montana_Flag.svg/1280px-CHE_Crans-Montana_Flag.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:CHE_Crans-Montana_Flag.svg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 4,
@@ -201,7 +204,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 5,
@@ -245,7 +249,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Buen_Camino.png/1280px-Buen_Camino.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Buen_Camino.png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 6,
@@ -289,7 +294,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brigitte_Bardot_-_1962.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brigitte_Bardot_-_1962.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 7,
@@ -333,7 +339,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Francesca_Cabrini.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesca_Cabrini.JPG",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 8,
@@ -377,7 +384,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1280px-Flag_of_Venezuela.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Venezuela.svg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 9,
@@ -421,7 +429,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/82/Norimberga_%28film%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Norimberga_(film).jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 10,
@@ -465,11 +474,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Checco_Zalone.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Checco_Zalone.jpg",
       "image_license": "CC BY-SA 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 11,
-      "article": "Hugo_Ch\u00e1vez",
+      "article": "Hugo_Chávez",
       "views": 94922,
       "daily_views": [
         {
@@ -505,11 +515,12 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-12-29&end=2026-01-04&pages=Hugo_Ch%C3%A1vez",
       "article_url": "https://it.wikipedia.org/wiki/Hugo_Ch%C3%A1vez",
       "description": "politico venezuelano (1954-2013)",
-      "image_filename": "Hugo_Rafael_Ch\u00e1vez_Fr\u00edas.jpeg",
+      "image_filename": "Hugo_Rafael_Chávez_Frías.jpeg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hugo_Rafael_Ch%C3%A1vez_Fr%C3%ADas.jpeg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hugo_Rafael_Ch%C3%A1vez_Fr%C3%ADas.jpeg",
       "image_license": "CC BY-SA 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 12,
@@ -553,11 +564,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Millie_Bobby_Brown_2025_%281%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Millie_Bobby_Brown_2025_(1).png",
       "image_license": "CC BY 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 13,
-      "article": "Jo\u00e3o_Cancelo",
+      "article": "João_Cancelo",
       "views": 81643,
       "daily_views": [
         {
@@ -597,7 +609,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/CanceloCity23.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:CanceloCity23.jpg",
       "image_license": "CC BY-SA 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 14,
@@ -641,7 +654,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Buen_Camino_logo.png/1280px-Buen_Camino_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Buen_Camino_logo.png",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 15,
@@ -685,7 +699,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Avatar_-_Fuoco_e_cenere.jpg/1280px-Avatar_-_Fuoco_e_cenere.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Avatar_-_Fuoco_e_cenere.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 16,
@@ -729,11 +744,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sal_Da_Vinci_Napoli_2025-06-23_%284%29_%28cropped%29.jpg/1280px-Sal_Da_Vinci_Napoli_2025-06-23_%284%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sal_Da_Vinci_Napoli_2025-06-23_(4)_(cropped).jpg",
       "image_license": "CC BY 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 17,
-      "article": "Hermann_G\u00f6ring",
+      "article": "Hermann_Göring",
       "views": 69056,
       "daily_views": [
         {
@@ -769,11 +785,12 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-12-29&end=2026-01-04&pages=Hermann_G%C3%B6ring",
       "article_url": "https://it.wikipedia.org/wiki/Hermann_G%C3%B6ring",
       "description": "politico, generale e criminale di guerra tedesco (1893-1946)",
-      "image_filename": "Hermann_G\u00f6ring_-_R\u00f6hr.jpg",
+      "image_filename": "Hermann_Göring_-_Röhr.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg/1280px-Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 18,
@@ -817,7 +834,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/bf/Killers_of_the_Flower_Moon.jpg/1280px-Killers_of_the_Flower_Moon.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Killers_of_the_Flower_Moon.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 19,
@@ -861,7 +879,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": ""
     },
     {
       "rank": 20,
@@ -905,7 +924,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ennio_Doris_UFFICIALE_nospilla_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ennio_Doris_UFFICIALE_nospilla_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 21,
@@ -949,11 +969,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/78/AcqueProfonde.png/1280px-AcqueProfonde.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:AcqueProfonde.png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 22,
-      "article": "Yannick_N\u00e9zet-S\u00e9guin",
+      "article": "Yannick_Nézet-Séguin",
       "views": 62479,
       "daily_views": [
         {
@@ -989,11 +1010,12 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-12-29&end=2026-01-04&pages=Yannick_N%C3%A9zet-S%C3%A9guin",
       "article_url": "https://it.wikipedia.org/wiki/Yannick_N%C3%A9zet-S%C3%A9guin",
       "description": "direttore d'orchestra canadese",
-      "image_filename": "Yannick_N\u00e9zet-S\u00e9guin.jpg",
+      "image_filename": "Yannick_Nézet-Séguin.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Yannick_N%C3%A9zet-S%C3%A9guin.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Yannick_N%C3%A9zet-S%C3%A9guin.jpg",
       "image_license": "CC0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 23,
@@ -1037,7 +1059,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2025-10-25_11-06-00_Jamie_Campbell_Bower_in_2025.jpg/1280px-2025-10-25_11-06-00_Jamie_Campbell_Bower_in_2025.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2025-10-25_11-06-00_Jamie_Campbell_Bower_in_2025.jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 24,
@@ -1081,7 +1104,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfonso_Signorini_-_Archivi_Mondadori_%28cropped%29.jpg/1280px-Alfonso_Signorini_-_Archivi_Mondadori_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alfonso_Signorini_-_Archivi_Mondadori_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 25,
@@ -1125,7 +1149,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 26,
@@ -1169,7 +1194,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Manor_Solomon_-_Press_Conference_-_Israel_Football_Association_-_26_May_2022_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Manor_Solomon_-_Press_Conference_-_Israel_Football_Association_-_26_May_2022_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 27,
@@ -1213,7 +1239,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/3/38/L%27impero_del_sole_1987.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:L%27impero_del_sole_1987.png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 28,
@@ -1257,7 +1284,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Baby_K_Funweek.it_2024_upscaled.png/1280px-Baby_K_Funweek.it_2024_upscaled.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Baby_K_Funweek.it_2024_upscaled.png",
       "image_license": "CC BY 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 29,
@@ -1301,7 +1329,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/14/Ivan_Cattaneo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ivan_Cattaneo.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 30,
@@ -1345,7 +1374,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Gaten_matarazzo_2022_1.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gaten_matarazzo_2022_1.jpg",
       "image_license": "CC BY 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     }
   ]
 }

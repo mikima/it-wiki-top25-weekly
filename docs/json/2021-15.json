@@ -58,7 +58,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 2,
@@ -102,7 +103,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo_self.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_self.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 3,
@@ -146,7 +148,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Duke_of_Edinburgh_33_Allan_Warren.jpg/1280px-Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_license": "CC BY-SA 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 4,
@@ -190,7 +193,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Helen_McCrory_2017_%28Extract%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Helen_McCrory_2017_(Extract).jpg",
       "image_license": "CC BY-SA 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 5,
@@ -234,7 +238,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pio_e_Amedeo_Radio_Bruno_2025.png/1200px-Pio_e_Amedeo_Radio_Bruno_2025.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pio_e_Amedeo_Radio_Bruno_2025.png",
       "image_license": "CC BY 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 6,
@@ -278,11 +283,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Leonardo_da_Vinci_Anghiarischlacht.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_Anghiarischlacht.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 7,
-      "article": "LOL_-_Chi_ride_\u00e8_fuori",
+      "article": "LOL_-_Chi_ride_è_fuori",
       "views": 135993,
       "daily_views": [
         {
@@ -317,12 +323,13 @@
       "google_news_url": "https://www.google.it/search?q=LOL%20-%20Chi%20ride%20%C3%A8%20fuori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/12/2021,cd_max:04/18/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-04-12&end=2021-04-18&pages=LOL_-_Chi_ride_%C3%A8_fuori",
       "article_url": "https://it.wikipedia.org/wiki/LOL_-_Chi_ride_%C3%A8_fuori",
-      "description": "Programma comico di Prime Video, e disponibile sulla piattaforma dal 1\u00ba aprile 2021.",
-      "image_filename": "LOL-_Chi_ride_\u00e8_fuori.jpg",
+      "description": "Programma comico di Prime Video, e disponibile sulla piattaforma dal 1º aprile 2021.",
+      "image_filename": "LOL-_Chi_ride_è_fuori.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/63/LOL-_Chi_ride_%C3%A8_fuori.jpg/1280px-LOL-_Chi_ride_%C3%A8_fuori.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:LOL-_Chi_ride_%C3%A8_fuori.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 8,
@@ -366,7 +373,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 9,
@@ -410,7 +418,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Trooping_the_Colour_2023_%2806%29.jpg/1280px-Trooping_the_Colour_2023_%2806%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Trooping_the_Colour_2023_(06).jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 10,
@@ -454,7 +463,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Welcome_Ramadhan.jpg/1280px-Welcome_Ramadhan.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Welcome_Ramadhan.jpg",
       "image_license": "CC BY-SA 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 11,
@@ -498,7 +508,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Prinses_Margaret_in_het_Amstel_Hotel_%28Bestanddeelnr_917-7739%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prinses_Margaret_in_het_Amstel_Hotel_(Bestanddeelnr_917-7739).jpg",
       "image_license": "CC0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 12,
@@ -542,7 +553,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/1280px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 13,
@@ -586,7 +598,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 14,
@@ -630,7 +643,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/5/53/Sotto_copertura.PNG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sotto_copertura.PNG",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 15,
@@ -674,7 +688,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/5/5b/Foto_segnaletica_Zagaria_Michele.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Foto_segnaletica_Zagaria_Michele.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 16,
@@ -718,7 +733,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Laura_Bassi_-_Carlo_Vandi.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Laura_Bassi_-_Carlo_Vandi.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 17,
@@ -762,7 +778,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BernardMadoff.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:BernardMadoff.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 18,
@@ -806,7 +823,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Emanuele_Filiberto_di_Savoia_-_Capitolo_Generale_degli_Ordini_Dinastici_di_Casa_Savoia_2025.jpg/1280px-Emanuele_Filiberto_di_Savoia_-_Capitolo_Generale_degli_Ordini_Dinastici_di_Casa_Savoia_2025.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Emanuele_Filiberto_di_Savoia_-_Capitolo_Generale_degli_Ordini_Dinastici_di_Casa_Savoia_2025.jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 19,
@@ -845,12 +863,13 @@
       "google_news_url": "https://www.google.it/search?q=Caterina%20Guzzanti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/12/2021,cd_max:04/18/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-04-12&end=2021-04-18&pages=Caterina_Guzzanti",
       "article_url": "https://it.wikipedia.org/wiki/Caterina_Guzzanti",
-      "description": "Attrice e comica italiana, e tra i concorrenti di LOL: Chi ride e fuori disponibile dal 1\u00ba aprile 2021.",
+      "description": "Attrice e comica italiana, e tra i concorrenti di LOL: Chi ride e fuori disponibile dal 1º aprile 2021.",
       "image_filename": "Caterina_Guzzanti.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Caterina_Guzzanti.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Caterina_Guzzanti.jpg",
       "image_license": "CC BY 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 20,
@@ -894,7 +913,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diana%2C_Princess_of_Wales_1997_(2).jpg",
       "image_license": "CC BY-SA 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 21,
@@ -938,7 +958,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 22,
@@ -982,7 +1003,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1c/Leonardo_%28serie_televisiva%29.jpg/1280px-Leonardo_%28serie_televisiva%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_(serie_televisiva).jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 23,
@@ -1026,7 +1048,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 24,
@@ -1070,7 +1093,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 25,
@@ -1114,7 +1138,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg/1280px-Queen_Elizabeth_the_Queen_Mother_portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_the_Queen_Mother_portrait.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     }
   ]
 }

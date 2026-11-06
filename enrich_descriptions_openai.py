@@ -543,6 +543,7 @@ def call_openai(
 def apply_descriptions(
     data: Dict[str, Any],
     descriptions: Sequence[Dict[str, str]],
+    model: str = "",
 ) -> int:
     by_article = {
         normalize_article_title(str(item.get("article", ""))): item
@@ -564,6 +565,8 @@ def apply_descriptions(
             log(f"WARNING OpenAI returned a manual article, not applied: {article}")
             continue
         target["description"] = description
+        target["description_source"] = "openai"
+        target["description_model"] = model
         updated += 1
     return updated
 
@@ -607,7 +610,7 @@ def process_file(
             timeout=args.timeout,
         )
         log(f"Received OpenAI response for {batch_label}: {len(descriptions)} description(s)")
-        updated = apply_descriptions(data, descriptions)
+        updated = apply_descriptions(data, descriptions, args.model)
         total_updated += updated
         log(f"Applied {updated} description(s) from {batch_label}")
         if args.sleep:

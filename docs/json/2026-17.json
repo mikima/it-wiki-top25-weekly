@@ -69,7 +69,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Emblem_of_Italy.svg/1280px-Emblem_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Emblem_of_Italy.svg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 2,
@@ -113,7 +114,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 3,
@@ -157,7 +159,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Brigitte_Nielsen.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brigitte_Nielsen.jpg",
       "image_license": "CC BY-SA 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 4,
@@ -201,7 +204,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/1280px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 5,
@@ -245,7 +249,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Screenshot_da_me_realizzato_dal_trailer_ufficiale_del_film_Michael.png/1280px-Screenshot_da_me_realizzato_dal_trailer_ufficiale_del_film_Michael.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screenshot_da_me_realizzato_dal_trailer_ufficiale_del_film_Michael.png",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 6,
@@ -289,7 +294,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Shiva_%28rapper%292.jpg/1280px-Shiva_%28rapper%292.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Shiva_(rapper)2.jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 7,
@@ -333,7 +339,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Silvia_Salis_2025.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg",
       "image_license": "CC BY 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 8,
@@ -377,7 +384,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/6/61/Roberta_Valente_-_Notaio_in_Sorrento.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roberta_Valente_-_Notaio_in_Sorrento.png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 9,
@@ -421,7 +429,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tyra_Caterina_Grant_%282023_French_Open%29_01.jpg/1280px-Tyra_Caterina_Grant_%282023_French_Open%29_01.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tyra_Caterina_Grant_(2023_French_Open)_01.jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 10,
@@ -465,11 +474,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b9/ICesaroni.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:ICesaroni.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 11,
-      "article": "Lidia_Po\u00ebt",
+      "article": "Lidia_Poët",
       "views": 54311,
       "daily_views": [
         {
@@ -505,11 +515,12 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-20&end=2026-04-26&pages=Lidia_Po%C3%ABt",
       "article_url": "https://it.wikipedia.org/wiki/Lidia_Po%C3%ABt",
       "description": "Avvocata italiana, la terza e ultima stagione della serie Netflix ispirata alla sua figura è disponibile dal 15 aprile 2026.",
-      "image_filename": "Lidia-po\u00ebt.jpg",
+      "image_filename": "Lidia-poët.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8d/Lidia-po%C3%ABt.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lidia-po%C3%ABt.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 12,
@@ -553,7 +564,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 13,
@@ -597,7 +609,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 14,
@@ -641,7 +654,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 15,
@@ -685,11 +699,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Juventus_-_2010_-_Alexander_Manninger.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_-_2010_-_Alexander_Manninger.jpg",
       "image_license": "CC BY 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 16,
-      "article": "Disastro_di_\u010cernobyl'",
+      "article": "Disastro_di_Černobyl'",
       "views": 41455,
       "daily_views": [
         {
@@ -729,7 +744,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/1280px-IAEA_02790015_%285613115146%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:IAEA_02790015_(5613115146).jpg",
       "image_license": "CC BY-SA 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 17,
@@ -773,7 +789,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 18,
@@ -817,7 +834,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Boys_TV_series_logo.svg/1280px-The_Boys_TV_series_logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Boys_TV_series_logo.svg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 19,
@@ -861,7 +879,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d9/La_buona_stella.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_buona_stella.png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 20,
@@ -905,7 +924,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-2_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 21,
@@ -949,7 +969,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ronaldinho_in_2019.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg",
       "image_license": "CC BY 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 22,
@@ -993,7 +1014,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/e/ed/Uno_sbirro_in_Appennino.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Uno_sbirro_in_Appennino.png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 23,
@@ -1037,7 +1059,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Enrico_Berlinguer.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Enrico_Berlinguer.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 24,
@@ -1081,7 +1104,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f1/Logo_BH90210.gif",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_BH90210.gif",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 25,
@@ -1125,7 +1149,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ricin_structure.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ricin_structure.png",
       "image_license": "CC BY 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 26,
@@ -1169,7 +1194,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matilda_De_Angelis-7948.jpg/1280px-Matilda_De_Angelis-7948.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matilda_De_Angelis-7948.jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 27,
@@ -1213,7 +1239,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mutua_Madrid_Open_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mutua_Madrid_Open_logo.png",
       "image_license": "CC BY-SA 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 28,
@@ -1257,7 +1284,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Roberto_Vannacci_MEP_%282024%29.jpg/1280px-Roberto_Vannacci_MEP_%282024%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roberto_Vannacci_MEP_(2024).jpg",
       "image_license": "Attribution",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 29,
@@ -1301,7 +1329,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/5f/From_%28TV_series%29.png/1280px-From_%28TV_series%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:From_(TV_series).png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 30,
@@ -1345,7 +1374,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/FabrizioMiccoli.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FabrizioMiccoli.jpg",
       "image_license": "CC BY-SA 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     }
   ]
 }

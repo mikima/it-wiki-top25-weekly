@@ -18,7 +18,7 @@
   "articles": [
     {
       "rank": 1,
-      "article": "Pel\u00e9",
+      "article": "Pelé",
       "views": 699436,
       "daily_views": [
         {
@@ -58,7 +58,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pele_con_brasil_(cropped).jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 2,
@@ -97,12 +98,13 @@
       "google_news_url": "https://www.google.it/search?q=Papa%20Benedetto%20XVI&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/26/2022,cd_max:01/01/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-26&end=2023-01-01&pages=Papa_Benedetto_XVI",
       "article_url": "https://it.wikipedia.org/wiki/Papa_Benedetto_XVI",
-      "description": "265\u00ba vescovo di Roma e papa della Chiesa cattolica dal 2005 al 2013",
+      "description": "265º vescovo di Roma e papa della Chiesa cattolica dal 2005 al 2013",
       "image_filename": "Benedykt_XVI_(2010-10-17)_4.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Benedykt_XVI_%282010-10-17%29_4.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Benedykt_XVI_(2010-10-17)_4.jpg",
       "image_license": "GFDL 1.2",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 3,
@@ -146,7 +148,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 4,
@@ -190,7 +193,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f7/Avatar_film_2009.JPG/1280px-Avatar_film_2009.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Avatar_film_2009.JPG",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 5,
@@ -234,7 +238,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": ""
     },
     {
       "rank": 6,
@@ -278,7 +283,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Franco_Frattini_2012.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Franco_Frattini_2012.jpg",
       "image_license": "CC BY 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 7,
@@ -322,7 +328,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e1/Avatar_-_La_via_dell%27acqua.png/1280px-Avatar_-_La_via_dell%27acqua.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Avatar_-_La_via_dell%27acqua.png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 8,
@@ -361,12 +368,13 @@
       "google_news_url": "https://www.google.it/search?q=Andrew%20Tate&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/26/2022,cd_max:01/01/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-26&end=2023-01-01&pages=Andrew_Tate",
       "article_url": "https://it.wikipedia.org/wiki/Andrew_Tate",
-      "description": "personaggio dei social media ed ex kickboxer statunitense (1986\u2013)",
+      "description": "personaggio dei social media ed ex kickboxer statunitense (1986–)",
       "image_filename": "Andrew_Tate_-_James_Tamim_Upload_(Cropped_Wide_Portrait).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Andrew_Tate_-_James_Tamim_Upload_%28Cropped_Wide_Portrait%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Andrew_Tate_-_James_Tamim_Upload_(Cropped_Wide_Portrait).png",
       "image_license": "CC BY 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 9,
@@ -410,7 +418,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/5a/C%27era_una_volta_in_America.jpg/1019px-C%27era_una_volta_in_America.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:C%27era_una_volta_in_America.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 10,
@@ -449,12 +458,13 @@
       "google_news_url": "https://www.google.it/search?q=Papa%20Francesco&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/26/2022,cd_max:01/01/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-26&end=2023-01-01&pages=Papa_Francesco",
       "article_url": "https://it.wikipedia.org/wiki/Papa_Francesco",
-      "description": "266\u00ba vescovo di Roma e papa della Chiesa cattolica dal 2013 al 2025",
+      "description": "266º vescovo di Roma e papa della Chiesa cattolica dal 2013 al 2025",
       "image_filename": "Portrait_of_Pope_Francis_(2021)_FXD.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Portrait_of_Pope_Francis_%282021%29_FXD.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Francis_(2021)_FXD.jpg",
       "image_license": "Attribution",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 11,
@@ -498,7 +508,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Elisabeth_of_Austria%2C_by_Franz_Xaver_Winterhalter.jpg/1280px-Elisabeth_of_Austria%2C_by_Franz_Xaver_Winterhalter.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elisabeth_of_Austria%2C_by_Franz_Xaver_Winterhalter.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 12,
@@ -542,7 +553,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Maradona_gol_Napoli_1987-1988.jpg/1280px-Maradona_gol_Napoli_1987-1988.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maradona_gol_Napoli_1987-1988.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 13,
@@ -581,16 +593,17 @@
       "google_news_url": "https://www.google.it/search?q=Papa%20Giovanni%20Paolo%20II&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/26/2022,cd_max:01/01/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-26&end=2023-01-01&pages=Papa_Giovanni_Paolo_II",
       "article_url": "https://it.wikipedia.org/wiki/Papa_Giovanni_Paolo_II",
-      "description": "264\u00ba vescovo di Roma e papa della Chiesa cattolica dal 1978 al 2005",
+      "description": "264º vescovo di Roma e papa della Chiesa cattolica dal 1978 al 2005",
       "image_filename": "Gpii.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/5/5b/Gpii.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gpii.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 14,
-      "article": "Mercoled\u00ec_(serie_televisiva)",
+      "article": "Mercoledì_(serie_televisiva)",
       "views": 81116,
       "daily_views": [
         {
@@ -630,7 +643,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mercoledi-logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mercoledi-logo.png",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     },
     {
       "rank": 15,
@@ -674,7 +688,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg/1280px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 16,
@@ -718,7 +733,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/1c/Righeira.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Righeira.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 17,
@@ -762,7 +778,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Roberto_bolle_2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roberto_bolle_2.jpg",
       "image_license": "CC BY-SA 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 18,
@@ -806,11 +823,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6e/Alice_in_borderland_screenshot_logo.jpg/1280px-Alice_in_borderland_screenshot_logo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alice_in_borderland_screenshot_logo.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 19,
-      "article": "Jos\u00e9_Altafini",
+      "article": "José_Altafini",
       "views": 67201,
       "daily_views": [
         {
@@ -846,11 +864,12 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-26&end=2023-01-01&pages=Jos%C3%A9_Altafini",
       "article_url": "https://it.wikipedia.org/wiki/Jos%C3%A9_Altafini",
       "description": "calciatore brasiliano naturalizzato italiano (1938-)",
-      "image_filename": "Jos\u00e9_Altafini_(1974).jpg",
+      "image_filename": "José_Altafini_(1974).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jos%C3%A9_Altafini_%281974%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Altafini_(1974).jpg",
       "image_license": "CC BY-SA 3.0 nl",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 20,
@@ -889,12 +908,13 @@
       "google_news_url": "https://www.google.it/search?q=Al-Nassr%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/26/2022,cd_max:01/01/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-12-26&end=2023-01-01&pages=Al-Nassr_Football_Club",
       "article_url": "https://it.wikipedia.org/wiki/Al-Nassr_Football_Club",
-      "description": "societ\u00e0 calcistica saudita di Riad",
+      "description": "società calcistica saudita di Riad",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 21,
@@ -938,7 +958,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 22,
@@ -982,7 +1003,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jenna_Ortega-63799_%28cropped%29.jpg/1280px-Jenna_Ortega-63799_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jenna_Ortega-63799_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "wikidata"
     },
     {
       "rank": 23,
@@ -1026,7 +1048,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/5a/Knives_Out_film.jpg/1280px-Knives_Out_film.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Knives_Out_film.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 24,
@@ -1070,7 +1093,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/0/0a/Billy_Elliot.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Billy_Elliot.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "wikidata"
     },
     {
       "rank": 25,
@@ -1114,7 +1138,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/71_Ricchi_e_Poveri.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:71_Ricchi_e_Poveri.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "wikidata"
     }
   ]
 }

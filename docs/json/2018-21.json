@@ -148,7 +148,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 4,
@@ -237,7 +238,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 6,
@@ -641,7 +643,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 15,
@@ -955,7 +958,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 22,
@@ -999,7 +1003,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 23,
@@ -1043,7 +1048,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Andrea_Pirlo_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Andrea_Pirlo_(cropped).jpg",
       "image_license": "CC BY-SA 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 24,
@@ -1087,7 +1093,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sergio_Mattarella_Presidente_della_Repubblica_Italiana.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sergio_Mattarella_Presidente_della_Repubblica_Italiana.jpg",
       "image_license": "Attribution",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 25,
@@ -1131,7 +1138,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/0/0e/Donatella-rosaria_lopez.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Donatella-rosaria_lopez.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     }
   ]
 }

@@ -69,7 +69,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Juventus_-_2010_-_Alexander_Manninger.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_-_2010_-_Alexander_Manninger.jpg",
       "image_license": "CC BY 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 2,
@@ -113,7 +114,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Silvia_Salis_2025.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg",
       "image_license": "CC BY 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 3,
@@ -157,7 +159,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b9/ICesaroni.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:ICesaroni.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 4,
@@ -201,11 +204,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Giulia_Michelini.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giulia_Michelini.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 5,
-      "article": "P\u00e9ter_Magyar",
+      "article": "Péter_Magyar",
       "views": 127921,
       "daily_views": [
         {
@@ -241,11 +245,12 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-13&end=2026-04-19&pages=P%C3%A9ter_Magyar",
       "article_url": "https://it.wikipedia.org/wiki/P%C3%A9ter_Magyar",
       "description": "Politico ungherese e leader del partito Tisza, vince le elezioni parlamentari ungheresi del 12 aprile 2026 contro Viktor Orbán.",
-      "image_filename": "P\u00e9ter_Magyar_MEP_(2024).jpg",
+      "image_filename": "Péter_Magyar_MEP_(2024).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/P%C3%A9ter_Magyar_MEP_%282024%29.jpg/1280px-P%C3%A9ter_Magyar_MEP_%282024%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:P%C3%A9ter_Magyar_MEP_(2024).jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 6,
@@ -289,7 +294,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matilda_De_Angelis-7948.jpg/1280px-Matilda_De_Angelis-7948.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matilda_De_Angelis-7948.jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 7,
@@ -333,7 +339,8 @@
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 8,
@@ -377,7 +384,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 9,
@@ -421,11 +429,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/6/61/Roberta_Valente_-_Notaio_in_Sorrento.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roberta_Valente_-_Notaio_in_Sorrento.png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 10,
-      "article": "Partito_del_Rispetto_e_della_Libert\u00e0",
+      "article": "Partito_del_Rispetto_e_della_Libertà",
       "views": 58801,
       "daily_views": [
         {
@@ -465,7 +474,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/TISZA_2024.svg/1280px-TISZA_2024.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:TISZA_2024.svg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 11,
@@ -509,7 +519,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 12,
@@ -553,7 +564,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_Boys_TV_series_logo.png/1280px-The_Boys_TV_series_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Boys_TV_series_logo.png",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 13,
@@ -593,11 +605,12 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-13&end=2026-04-19&pages=Michael_Olise",
       "article_url": "https://it.wikipedia.org/wiki/Michael_Olise",
       "description": "Calciatore francese del Bayern Monaco, segna il gol del 4-3 contro il Real Madrid il 15 aprile 2026 e porta il Bayern in semifinale di Champions League.",
-      "image_filename": "FC_RB_Salzburg_gegen_FC_Bayern_M\u00fcnchen_(2026-01-06_Testspiel)_10.jpg",
+      "image_filename": "FC_RB_Salzburg_gegen_FC_Bayern_München_(2026-01-06_Testspiel)_10.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_10.jpg/1280px-FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_10.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_(2026-01-06_Testspiel)_10.jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 14,
@@ -641,11 +654,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 15,
-      "article": "Viktor_Orb\u00e1n",
+      "article": "Viktor_Orbán",
       "views": 52051,
       "daily_views": [
         {
@@ -681,11 +695,12 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-13&end=2026-04-19&pages=Viktor_Orb%C3%A1n",
       "article_url": "https://it.wikipedia.org/wiki/Viktor_Orb%C3%A1n",
       "description": "Politico ungherese e primo ministro uscente, ammette la sconfitta nelle elezioni parlamentari del 12 aprile 2026 dopo sedici anni di governo.",
-      "image_filename": "Viktor_Orb\u00e1n,_2025.06.26_(02)_(cropped).jpg",
+      "image_filename": "Viktor_Orbán,_2025.06.26_(02)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Viktor_Orb%C3%A1n%2C_2025.06.26_%2802%29_%28cropped%29.jpg/1280px-Viktor_Orb%C3%A1n%2C_2025.06.26_%2802%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n%2C_2025.06.26_(02)_(cropped).jpg",
       "image_license": "Attribution",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 16,
@@ -729,11 +744,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fausto_Brizzi_2012_cropped.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fausto_Brizzi_2012_cropped.jpg",
       "image_license": "CC BY-SA 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 17,
-      "article": "Lidia_Po\u00ebt",
+      "article": "Lidia_Poët",
       "views": 50999,
       "daily_views": [
         {
@@ -769,11 +785,12 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-04-13&end=2026-04-19&pages=Lidia_Po%C3%ABt",
       "article_url": "https://it.wikipedia.org/wiki/Lidia_Po%C3%ABt",
       "description": "Avvocata italiana e prima donna iscritta all'Ordine degli avvocati in Italia, la terza e ultima stagione della serie Netflix a lei dedicata è disponibile dal 15 aprile 2026.",
-      "image_filename": "Lidia-po\u00ebt.jpg",
+      "image_filename": "Lidia-poët.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8d/Lidia-po%C3%ABt.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lidia-po%C3%ABt.jpg",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 18,
@@ -817,7 +834,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Oscar_Schmidt_%283x4%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Oscar_Schmidt_(3x4).jpg",
       "image_license": "CC BY 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 19,
@@ -861,7 +879,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f1/Logo_BH90210.gif",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_BH90210.gif",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 20,
@@ -905,7 +924,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/1f/Antonello_Fassari_%28Camerieri_1995%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Antonello_Fassari_(Camerieri_1995).png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 21,
@@ -949,7 +969,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Matteo_Branciamore_cropped.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Branciamore_cropped.jpg",
       "image_license": "CC BY 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 22,
@@ -993,7 +1014,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_Boys_TV_series_logo.png/1280px-The_Boys_TV_series_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Boys_TV_series_logo.png",
       "image_license": "Public domain",
-      "image_copyrighted": "False"
+      "image_copyrighted": "False",
+      "description_source": "openai"
     },
     {
       "rank": 23,
@@ -1037,7 +1059,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/04/Non_abbiam_bisogno_di_parole.png/1280px-Non_abbiam_bisogno_di_parole.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Non_abbiam_bisogno_di_parole.png",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 24,
@@ -1081,11 +1104,12 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Next_Generation_Trophy_2017_Dritter_Tag_01.jpg/1280px-Next_Generation_Trophy_2017_Dritter_Tag_01.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Next_Generation_Trophy_2017_Dritter_Tag_01.jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 25,
-      "article": "The_Drama_-_Un_segreto_\u00e8_per_sempre",
+      "article": "The_Drama_-_Un_segreto_è_per_sempre",
       "views": 44107,
       "daily_views": [
         {
@@ -1125,7 +1149,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/The_Drama.jpg/1280px-The_Drama.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Drama.jpg",
       "image_license": "",
-      "image_copyrighted": ""
+      "image_copyrighted": "",
+      "description_source": "openai"
     },
     {
       "rank": 26,
@@ -1169,7 +1194,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Antonio_Percassi_2012.JPG/1280px-Antonio_Percassi_2012.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Antonio_Percassi_2012.JPG",
       "image_license": "CC BY-SA 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 27,
@@ -1213,7 +1239,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Diego_Simeone_-_240422_192621-2_%28cropped%29.jpg/1280px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Diego_Simeone_-_240422_192621-2_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Diego_Simeone_-_240422_192621-2_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 28,
@@ -1257,7 +1284,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Federico_Russo_Lega_Nerd_2020.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Federico_Russo_Lega_Nerd_2020.png",
       "image_license": "CC BY 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 29,
@@ -1301,7 +1329,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ronaldinho_in_2019.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg",
       "image_license": "CC BY 2.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     },
     {
       "rank": 30,
@@ -1345,7 +1374,8 @@
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Marta_Filippi_Inside_Out_2_2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marta_Filippi_Inside_Out_2_2024.png",
       "image_license": "CC BY 3.0",
-      "image_copyrighted": "True"
+      "image_copyrighted": "True",
+      "description_source": "openai"
     }
   ]
 }

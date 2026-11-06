@@ -659,6 +659,7 @@ def main() -> int:
         if description is None:
             description = descriptions.get(article.replace("_", " "), "")
         item["description"] = description
+        item["description_source"] = "wikidata" if description else ""
         item["image_filename"] = ""
         item["image_url"] = ""
         item["image_commons_url"] = ""
