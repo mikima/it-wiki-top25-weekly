@@ -1,0 +1,1830 @@
+{
+  "week": "2026-02",
+  "start_date": "2026-01-05",
+  "end_date": "2026-01-11",
+  "articles": {
+    "Stranger_Things": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Stranger Things è una serie televisiva statunitense ideata dai Duffer Brothers e distribuita da Netflix.",
+      "news": [
+        {
+          "title": "Stranger Things è davvero finito? Non proprio, anzi… - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things è davvero finito? Non proprio, anzi… Vanity Fair Italia"
+        },
+        {
+          "title": "Tra lacrime e ricordi: l’eredità di Stranger Things - Banquo Magazine",
+          "source": "Banquo Magazine",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Tra lacrime e ricordi: l’eredità di Stranger Things Banquo Magazine"
+        },
+        {
+          "title": "Uscire dal basement: gli ultimi quaranta minuti di Stranger Things - La Balena Bianca",
+          "source": "La Balena Bianca",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Uscire dal basement: gli ultimi quaranta minuti di Stranger Things La Balena Bianca"
+        },
+        {
+          "title": "Stranger Things 5 - Un finale (im)perfetto, le teorie dei fan e il capolinea della tv generazionale - FRAMED Magazine",
+          "source": "FRAMED Magazine",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things 5 - Un finale (im)perfetto, le teorie dei fan e il capolinea della tv generazionale FRAMED Magazine"
+        },
+        {
+          "title": "Stranger Things: la top 5 delle stagioni, dalla peggiore alla migliore. L'ordine stupirà i fan più accaniti - Libero",
+          "source": "Libero",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things: la top 5 delle stagioni, dalla peggiore alla migliore. L'ordine stupirà i fan più accaniti Libero"
+        },
+        {
+          "title": "Stranger Things è finita, ma il nostro rapporto con la sua squadra di eroi no. Ecco quando e dove li rivedremo - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things è finita, ma il nostro rapporto con la sua squadra di eroi no. Ecco quando e dove li rivedremo GQ Italia"
+        },
+        {
+          "title": "Perché tutti gli adulti dovrebbero guardare il finale di Stranger Things - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Perché tutti gli adulti dovrebbero guardare il finale di Stranger Things Avvenire"
+        },
+        {
+          "title": "Stranger Things non così strane - Doppiozero",
+          "source": "Doppiozero",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things non così strane Doppiozero"
+        },
+        {
+          "title": "Stranger Things, la teoria del 'Conformity Gate'. Nuovo episodio? - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things, la teoria del 'Conformity Gate'. Nuovo episodio? Sky TG24"
+        },
+        {
+          "title": "Significato e Psicologia di Stranger Things: il mondo di chi resta - ArteSettima",
+          "source": "ArteSettima",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Significato e Psicologia di Stranger Things: il mondo di chi resta ArteSettima"
+        }
+      ]
+    },
+    "Groenlandia": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Groenlandia è un'isola collocata nell'estremo nord dell'Oceano Atlantico tra il Canada a ovest, l'Islanda a sud-est e il Mar Glaciale Artico a nord.",
+      "news": [
+        {
+          "title": "L’Artico e la Groenlandia non sono in vendita! - Greenpeace",
+          "source": "Greenpeace",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "L’Artico e la Groenlandia non sono in vendita! Greenpeace"
+        },
+        {
+          "title": "La Groenlandia contesa fra geopolitica e clima - Secondo Tempo",
+          "source": "Secondo Tempo",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "La Groenlandia contesa fra geopolitica e clima Secondo Tempo"
+        },
+        {
+          "title": "Perché Trump vuole “comprare” la Groenlandia? Per gli Stati uniti è una questione di prestigio globale - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Perché Trump vuole “comprare” la Groenlandia? Per gli Stati uniti è una questione di prestigio globale Wired Italia"
+        },
+        {
+          "title": "Trump vuole la Groenlandia \"con ogni mezzo\", muro della UE: \"È del suo popolo\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Trump vuole la Groenlandia \"con ogni mezzo\", muro della UE: \"È del suo popolo\" RaiNews"
+        },
+        {
+          "title": "Un ripasso su perché Trump vuole la Groenlandia - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Un ripasso su perché Trump vuole la Groenlandia Il Post"
+        },
+        {
+          "title": "In mezz'ora 2025/26 - Groenlandia contesa: le parole degli abitanti - 11/01/2026 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "In mezz'ora 2025/26 - Groenlandia contesa: le parole degli abitanti - 11/01/2026 - Video RaiPlay"
+        },
+        {
+          "title": "Groenlandia: si può comprare un Paese? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Groenlandia: si può comprare un Paese? Focus.it"
+        },
+        {
+          "title": "Trump: «Prenderemo la Groenlandia con le buone o con le cattive». I partiti locali vogliono l’autonomia - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Trump: «Prenderemo la Groenlandia con le buone o con le cattive». I partiti locali vogliono l’autonomia Il Sole 24 ORE"
+        },
+        {
+          "title": "Le mire di Trump sulla Groenlandia. La reazione dei leader dell'Unione europea - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Le mire di Trump sulla Groenlandia. La reazione dei leader dell'Unione europea Vatican News"
+        },
+        {
+          "title": "Quanto potrebbe costare agli Usa l'acquisto della Groenlandia? - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Quanto potrebbe costare agli Usa l'acquisto della Groenlandia? Sky TG24"
+        }
+      ]
+    },
+    "Nicolás_Maduro": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Nicolás Maduro Moros è un politico e sindacalista venezuelano. È Presidente della Repubblica Bolivariana del Venezuela dal 19 aprile 2013, formalmente ancora in carica benché di fatto prigioniero degli Stati Uniti d'America dal 3 gennaio 2026. Aveva ricoperto il medesimo incarico dal 5 marzo al 19 aprile 2013 ad interim.",
+      "news": [
+        {
+          "title": "Paura e divisioni tra i venezuelani nel mondo dopo l'arresto di Maduro da parte degli USA - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Paura e divisioni tra i venezuelani nel mondo dopo l'arresto di Maduro da parte degli USA Wired Italia"
+        },
+        {
+          "title": "New York, Maduro in tribunale respinge le accuse - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "New York, Maduro in tribunale respinge le accuse Vatican News"
+        },
+        {
+          "title": "Il leader venezuelano deposto, Nicolás Maduro, e la moglie Cilia Flores sono arrivati a Manhattan a bordo di un elicottero e sono stati trasferiti al tribunale federale di New York. Maduro, 63 anni, dovrà comparire davanti a un giudice per rispondere delle accus - Facebook",
+          "source": "Facebook",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Il leader venezuelano deposto, Nicolás Maduro, e la moglie Cilia Flores sono arrivati a Manhattan a bordo di un elicottero e sono stati trasferiti al tribunale federale di New York. Maduro, 63 anni, dovrà comparire davanti a un giudice per rispondere delle accus Facebook"
+        },
+        {
+          "title": "Cosa aspettarsi dal processo contro Nicolás Maduro - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Cosa aspettarsi dal processo contro Nicolás Maduro Il Post"
+        },
+        {
+          "title": "Il silenzio di Gustave Dudamel su Nicolás Maduro - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Il silenzio di Gustave Dudamel su Nicolás Maduro Il Foglio"
+        },
+        {
+          "title": "Dalla tuta di Nicolás Maduro al maglione di Luigi Mangione: perché i vestiti dei protagonisti della cronaca vanno a ruba? - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Dalla tuta di Nicolás Maduro al maglione di Luigi Mangione: perché i vestiti dei protagonisti della cronaca vanno a ruba? Vanity Fair Italia"
+        },
+        {
+          "title": "Maduro, ora gli Usa cambiano idea: non è il leader di un cartello di narcos - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Maduro, ora gli Usa cambiano idea: non è il leader di un cartello di narcos Tgcom24"
+        },
+        {
+          "title": "Nicolás Maduro arrestato in Venezuela rischia l'ergastolo, il suo avvocato è lo stesso di Julian Assange - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Nicolás Maduro arrestato in Venezuela rischia l'ergastolo, il suo avvocato è lo stesso di Julian Assange Virgilio"
+        },
+        {
+          "title": "Cosa succederà dopo l’attacco statunitense al Venezuela - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Cosa succederà dopo l’attacco statunitense al Venezuela Internazionale"
+        },
+        {
+          "title": "Nicolás Maduro Guerra, alias “Nicolasito”. Chi è il figlio del leader che pesa sul futuro di Caracas - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Nicolás Maduro Guerra, alias “Nicolasito”. Chi è il figlio del leader che pesa sul futuro di Caracas la Repubblica"
+        }
+      ]
+    },
+    "Buen_camino": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Buen camino è un film del 2025 co-scritto, diretto e co-montato da Gennaro Nunziante.",
+      "news": [
+        {
+          "title": "Buen Camino. «Un film che illumina la vita» - Comunione e Liberazione",
+          "source": "Comunione e Liberazione",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Buen Camino. «Un film che illumina la vita» Comunione e Liberazione"
+        },
+        {
+          "title": "Buen Camino: Zalone, il cammino della realtà e la beffa della sinistra radical chic - Centro Studi Rosario Livatino",
+          "source": "Centro Studi Rosario Livatino",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Buen Camino: Zalone, il cammino della realtà e la beffa della sinistra radical chic Centro Studi Rosario Livatino"
+        },
+        {
+          "title": "Il Buen Camino di Checco Zalone prosegue, il primato degli incassi di sempre è ormai a pochi passi - Radio RTL 102.5",
+          "source": "Radio RTL 102.5",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Il Buen Camino di Checco Zalone prosegue, il primato degli incassi di sempre è ormai a pochi passi Radio RTL 102.5"
+        },
+        {
+          "title": "\"Buen camino\" è il film italiano che ha incassato di più nella storia - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "\"Buen camino\" è il film italiano che ha incassato di più nella storia RaiNews"
+        },
+        {
+          "title": "Non si ferma il Buen camino di Checco Zalone - Cinematografo",
+          "source": "Cinematografo",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Non si ferma il Buen camino di Checco Zalone Cinematografo"
+        },
+        {
+          "title": "Checco Zalone (ancora) re del Box Office, Buen Camino a un passo dal record assoluto e sogna il trono di Avatar - Libero",
+          "source": "Libero",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone (ancora) re del Box Office, Buen Camino a un passo dal record assoluto e sogna il trono di Avatar Libero"
+        },
+        {
+          "title": "Tutti i segreti di \"Buen camino\" di Checco Zalone - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Tutti i segreti di \"Buen camino\" di Checco Zalone TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Buen camino va di corsa, Zalone punta a record di Avatar - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Buen camino va di corsa, Zalone punta a record di Avatar AGI"
+        },
+        {
+          "title": "Buen Camino supera i 60 milioni - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Buen Camino supera i 60 milioni MYmovies"
+        },
+        {
+          "title": "Checco Zalone, con 59 milioni di incassi “Buen camino” è il film record delle feste al box office - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone, con 59 milioni di incassi “Buen camino” è il film record delle feste al box office la Repubblica"
+        }
+      ]
+    },
+    "Film_con_maggiori_incassi_in_Italia": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Questa è la classifica dei film con maggiori incassi in Italia; gli incassi sono espressi in euro e non viene tenuto conto del tasso d'inflazione.",
+      "news": [
+        {
+          "title": "I 10 film con i maggiori incassi in Italia nel 2025. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "I 10 film con i maggiori incassi in Italia nel 2025. FOTO Sky TG24"
+        },
+        {
+          "title": "È diventato il secondo film per incassi nella storia del cinema italiano. In sala adesso - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "È diventato il secondo film per incassi nella storia del cinema italiano. In sala adesso Esquire"
+        },
+        {
+          "title": "Abbiamo ufficialmente il secondo film con più incassi nella storia del cinema italiano - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Abbiamo ufficialmente il secondo film con più incassi nella storia del cinema italiano Everyeye Cinema"
+        },
+        {
+          "title": "I 10 maggiori incassi in Italia: i migliori al botteghino - I Soliti Cinefili",
+          "source": "I Soliti Cinefili",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "I 10 maggiori incassi in Italia: i migliori al botteghino I Soliti Cinefili"
+        },
+        {
+          "title": "Buen Camino ce l’ha fatta! Sarà il film italiano con il maggior incasso della storia - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Buen Camino ce l’ha fatta! Sarà il film italiano con il maggior incasso della storia Best Movie"
+        },
+        {
+          "title": "È stato un anno di grandi incassi per il cinema italiano - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "È stato un anno di grandi incassi per il cinema italiano Il Post"
+        },
+        {
+          "title": "Checco Zalone, con 59 milioni di incassi “Buen camino” è il film record delle feste al box office - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone, con 59 milioni di incassi “Buen camino” è il film record delle feste al box office la Repubblica"
+        },
+        {
+          "title": "Checco Zalone senza rivali al box office delle feste: tutti i record di “Buen Camino” - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone senza rivali al box office delle feste: tutti i record di “Buen Camino” Corriere Style"
+        },
+        {
+          "title": "Perché Checco Zalone è deluso dagli incassi di Buen Camino - AGI",
+          "source": "AGI",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Perché Checco Zalone è deluso dagli incassi di Buen Camino AGI"
+        },
+        {
+          "title": "Tra Checco Zalone e Avatar ha stravinto Zalone - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Tra Checco Zalone e Avatar ha stravinto Zalone Il Post"
+        }
+      ]
+    },
+    "Crans-Montana": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Crans-Montana è un comune svizzero di 10 711 abitanti del Canton Vallese, nel distretto di Sierre.",
+      "news": [
+        {
+          "title": "Incendio di Crans-Montana, Santa Messa in memoria delle vittime - Governo.it",
+          "source": "Governo.it",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Incendio di Crans-Montana, Santa Messa in memoria delle vittime Governo.it"
+        },
+        {
+          "title": "Incidente Crans-Montana: l’intervento italiano - Dipartimento Protezione Civile",
+          "source": "Dipartimento Protezione Civile",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Incidente Crans-Montana: l’intervento italiano Dipartimento Protezione Civile"
+        },
+        {
+          "title": "Solidarietà dopo la tragedia di Crans-Montana - Schweizerisches Rotes Kreuz",
+          "source": "Schweizerisches Rotes Kreuz",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Solidarietà dopo la tragedia di Crans-Montana Schweizerisches Rotes Kreuz"
+        },
+        {
+          "title": "Comunicato stampa – Minuto di silenzio per vittime di Crans Montana - Ufficio Scolastico Regionale per la Sicilia – Direzione Generale",
+          "source": "Ufficio Scolastico Regionale per la Sicilia – Direzione Generale",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Comunicato stampa – Minuto di silenzio per vittime di Crans Montana Ufficio Scolastico Regionale per la Sicilia – Direzione Generale"
+        },
+        {
+          "title": "Crans Montana, in passato due indagini sui Moretti. Leonardo Bove arrivato al Niguarda da Zurigo - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Crans Montana, in passato due indagini sui Moretti. Leonardo Bove arrivato al Niguarda da Zurigo Il Sole 24 ORE"
+        },
+        {
+          "title": "Crans-Montana, la simulazione della strage: “Hanno avuto solo 140 secondi per salvarsi” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Crans-Montana, la simulazione della strage: “Hanno avuto solo 140 secondi per salvarsi” la Repubblica"
+        },
+        {
+          "title": "Porta a porta 2025/26 - Strage di Crans-Montana, i mancati controlli: il punto sull'inchiesta - 07/01/2026 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Porta a porta 2025/26 - Strage di Crans-Montana, i mancati controlli: il punto sull'inchiesta - 07/01/2026 - Video RaiPlay"
+        },
+        {
+          "title": "Crans-Montana: il gestore del bar Moretti dice che una porta di servizio era chiusa - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Crans-Montana: il gestore del bar Moretti dice che una porta di servizio era chiusa Euronews.com"
+        },
+        {
+          "title": "Garlasco, interogativi sui contenuti dei pc di Stasi e della vittima. Temi e ospiti di Quarto Grado - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Garlasco, interogativi sui contenuti dei pc di Stasi e della vittima. Temi e ospiti di Quarto Grado Il Messaggero"
+        }
+      ]
+    },
+    "Norimberga_(film)": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Norimberga (Nuremberg) è un film del 2025 sceneggiato, diretto e co-prodotto da James Vanderbilt.",
+      "news": [
+        {
+          "title": "CINEMA – Norimberga, quando la storia replica alla propaganda - moked",
+          "source": "moked",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "CINEMA – Norimberga, quando la storia replica alla propaganda moked"
+        },
+        {
+          "title": "’Norimberga’ e ’Buen Camino’ in sala ai Fluttuanti - Il Resto del Carlino",
+          "source": "Il Resto del Carlino",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "’Norimberga’ e ’Buen Camino’ in sala ai Fluttuanti Il Resto del Carlino"
+        },
+        {
+          "title": "Questo film riapre vecchie ferite e mette in guardia sul futuro - Harper's BAZAAR",
+          "source": "Harper's BAZAAR",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Questo film riapre vecchie ferite e mette in guardia sul futuro Harper's BAZAAR"
+        },
+        {
+          "title": "“NORIMBERGA”: NEL FILM DI JAMES VANDERBILT, IL LUNGO DUELLO TRA IL NAZISTA E LO PSICHIATRA - L'Opinione delle Libertà",
+          "source": "L'Opinione delle Libertà",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "“NORIMBERGA”: NEL FILM DI JAMES VANDERBILT, IL LUNGO DUELLO TRA IL NAZISTA E LO PSICHIATRA L'Opinione delle Libertà"
+        },
+        {
+          "title": "Russell Crowe, Hermann Göring e l'ambiguità del male - L'Osservatore Romano",
+          "source": "L'Osservatore Romano",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Russell Crowe, Hermann Göring e l'ambiguità del male L'Osservatore Romano"
+        },
+        {
+          "title": "Da Edda Göring un esempio di colpa che oltrepassa la storia - Il Roma",
+          "source": "Il Roma",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Da Edda Göring un esempio di colpa che oltrepassa la storia Il Roma"
+        },
+        {
+          "title": "NORIMBERGA – VO INGLESE CON SOTTOTITOLI - Barz And Hippo",
+          "source": "Barz And Hippo",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "NORIMBERGA – VO INGLESE CON SOTTOTITOLI Barz And Hippo"
+        },
+        {
+          "title": "Checco Zalone col botto nelle sale: \"Pienone che non si vedeva da anni. Bene anche ’Avatar’ e ’Norimberga’\" - Il Resto del Carlino",
+          "source": "Il Resto del Carlino",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone col botto nelle sale: \"Pienone che non si vedeva da anni. Bene anche ’Avatar’ e ’Norimberga’\" Il Resto del Carlino"
+        },
+        {
+          "title": "Savignano sul Rubicone, cinema: al Moderno la storia con “Norimberga” e l’animazione per le famiglie - GiornaleSM",
+          "source": "GiornaleSM",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Savignano sul Rubicone, cinema: al Moderno la storia con “Norimberga” e l’animazione per le famiglie GiornaleSM"
+        }
+      ]
+    },
+    "Tragedia_della_discoteca_Kiss": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La tragedia della discoteca Kiss è avvenuta in una discoteca di Santa Maria, in Brasile, il 27 gennaio 2013.",
+      "news": [
+        {
+          "title": "Quell'incendio nella discoteca Kiss, in Brasile, che ricorda Crans-Montana: i fuochi d'artificio, le 242 vittime e le condanne lievi - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Quell'incendio nella discoteca Kiss, in Brasile, che ricorda Crans-Montana: i fuochi d'artificio, le 242 vittime e le condanne lievi Corriere della Sera"
+        },
+        {
+          "title": "Crans-Montana, una serie tv racconta una tragedia simile avvenuta in Brasile nel 2013 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Crans-Montana, una serie tv racconta una tragedia simile avvenuta in Brasile nel 2013 Sky TG24"
+        },
+        {
+          "title": "Crans Montana, su Netflix spopola una vecchia serie che ricorda (molto) la tragedia - Libero",
+          "source": "Libero",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Crans Montana, su Netflix spopola una vecchia serie che ricorda (molto) la tragedia Libero"
+        },
+        {
+          "title": "“La notte che non passerà”, quella serie che richiama la tragedia di Crans-Montana - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "“La notte che non passerà”, quella serie che richiama la tragedia di Crans-Montana La Stampa"
+        },
+        {
+          "title": "Strage di Crans-Montana, una tragedia evitabile: il precedente raccontato dalla serie Netflix - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Strage di Crans-Montana, una tragedia evitabile: il precedente raccontato dalla serie Netflix Il Riformista"
+        },
+        {
+          "title": "Crans-Montana, ragazzi uccisi dalle esalazioni tossiche? L'ipotesi: combustione della schiuma dei pannelli fonoassorbenti - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Crans-Montana, ragazzi uccisi dalle esalazioni tossiche? L'ipotesi: combustione della schiuma dei pannelli fonoassorbenti Il Messaggero"
+        },
+        {
+          "title": "Crans-Montana, su Netflix torna in Top 10 una serie che rievoca una tragedia analoga avvenuta in Brasile - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Crans-Montana, su Netflix torna in Top 10 una serie che rievoca una tragedia analoga avvenuta in Brasile ComingSoon.it"
+        },
+        {
+          "title": "'La notte che non passerà' la storia vera dietro la miniserie Netflix - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "'La notte che non passerà' la storia vera dietro la miniserie Netflix Taxidrivers.it"
+        },
+        {
+          "title": "La notte che non passerà, spiegazione del finale: qual è stata la decisione della corte? - Cinefilos.it",
+          "source": "Cinefilos.it",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "La notte che non passerà, spiegazione del finale: qual è stata la decisione della corte? Cinefilos.it"
+        },
+        {
+          "title": "La notte che non passerà, la storia vera dietro la serie Netflix - Cinefilos.it",
+          "source": "Cinefilos.it",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "La notte che non passerà, la storia vera dietro la serie Netflix Cinefilos.it"
+        }
+      ]
+    },
+    "Petar_Ratkov": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Petar Ratkov è un calciatore serbo, attaccante del Levante, in prestito dalla Lazio, e della nazionale serba.",
+      "news": [
+        {
+          "title": "Ufficiale, Ratkov è della Lazio: chi è il centravanti che Sarri non conosce - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Ufficiale, Ratkov è della Lazio: chi è il centravanti che Sarri non conosce Eurosport.it"
+        },
+        {
+          "title": "A 16 anni pensava di smettere, ora è il nuovo bomber della Lazio: chi è Petar Ratkov - Sportmediaset",
+          "source": "Sportmediaset",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "A 16 anni pensava di smettere, ora è il nuovo bomber della Lazio: chi è Petar Ratkov Sportmediaset"
+        },
+        {
+          "title": "Chi è Petar Ratkov, nuovo acquisto ufficiale della Lazio: il classe 2003 è l'erede di Castellanos - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Chi è Petar Ratkov, nuovo acquisto ufficiale della Lazio: il classe 2003 è l'erede di Castellanos Goal.com"
+        },
+        {
+          "title": "Lazio, ufficiale l'acquisto di Ratkov - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Lazio, ufficiale l'acquisto di Ratkov Sky Sport"
+        },
+        {
+          "title": "Petar Ratkov alla Lazio: chi è il nuovo attaccante di Maurizio Sarri - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Petar Ratkov alla Lazio: chi è il nuovo attaccante di Maurizio Sarri RomaToday"
+        },
+        {
+          "title": "Chi è Petar Ratkov, l'attaccante che sostituirà Castellanos alla Lazio: nel 2024 segnò un gol folle - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Chi è Petar Ratkov, l'attaccante che sostituirà Castellanos alla Lazio: nel 2024 segnò un gol folle Fanpage"
+        },
+        {
+          "title": "Lazio, Ratkov è il primo acquisto per Sarri: il comunicato ufficiale - Corriere dello Sport",
+          "source": "Corriere dello Sport",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Lazio, Ratkov è il primo acquisto per Sarri: il comunicato ufficiale Corriere dello Sport"
+        },
+        {
+          "title": "Ratkov è della Lazio: cosa fare al Fantacalcio, slot e quanti crediti spendere - Sisal",
+          "source": "Sisal",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Ratkov è della Lazio: cosa fare al Fantacalcio, slot e quanti crediti spendere Sisal"
+        },
+        {
+          "title": "Ratkov, chi è il nuovo attaccante della Lazio: età, altezza, carriera, stipendio, vita privata, famiglia, i problemi muscolari e il... - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Ratkov, chi è il nuovo attaccante della Lazio: età, altezza, carriera, stipendio, vita privata, famiglia, i problemi muscolari e il... Il Messaggero"
+        },
+        {
+          "title": "Lazio, preso Ratkov. Ora Sarri aspetta Fabbian e Maldini - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Lazio, preso Ratkov. Ora Sarri aspetta Fabbian e Maldini La Gazzetta dello Sport"
+        }
+      ]
+    },
+    "Episodi_di_Stranger_Things_(quinta_stagione)": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La quinta e ultima stagione della serie televisiva Stranger Things, distribuita da Netflix con il titolo Stranger Things 5, composta da otto episodi, è divisa in tre volumi: il primo è stato pubblicato il 26 novembre 2025; il secondo il 25 dicembre 2025; il terzo il 31 dicembre 2025, in tutti i Paesi in cui il servizio è disponibile.",
+      "news": [
+        {
+          "title": "Stranger Things, la teoria del 'Conformity Gate'. Nuovo episodio? - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things, la teoria del 'Conformity Gate'. Nuovo episodio? Sky TG24"
+        },
+        {
+          "title": "Stranger Things 5, esiste davvero un nono episodio? Arriva la risposta secca di Netflix - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things 5, esiste davvero un nono episodio? Arriva la risposta secca di Netflix Movieplayer"
+        },
+        {
+          "title": "Stranger Things 5 ha davvero un episodio 9 in uscita? Ecco le ipotesi, gli indizi a loro supporto, e i fatti - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things 5 ha davvero un episodio 9 in uscita? Ecco le ipotesi, gli indizi a loro supporto, e i fatti GQ Italia"
+        },
+        {
+          "title": "Stranger Things 5, Netflix fa luce sull'episodio 9 e sul Conformity Gate: la verità - Libero",
+          "source": "Libero",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things 5, Netflix fa luce sull'episodio 9 e sul Conformity Gate: la verità Libero"
+        },
+        {
+          "title": "Cos'è questa storia del finto finale di Stranger Things 5 e di un possibile nuovo episodio? - Wired",
+          "source": "Wired",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Cos'è questa storia del finto finale di Stranger Things 5 e di un possibile nuovo episodio? Wired"
+        },
+        {
+          "title": "Stranger Things è finito: non ci saranno altri episodi, Netflix interviene sui rumors degli ultimi giorni - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things è finito: non ci saranno altri episodi, Netflix interviene sui rumors degli ultimi giorni ComingSoon.it"
+        },
+        {
+          "title": "\"Quando Stranger Things 5 è iniziato, il finale non era scritto\": le rivelazioni inedite dei fratelli Duffer - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "\"Quando Stranger Things 5 è iniziato, il finale non era scritto\": le rivelazioni inedite dei fratelli Duffer Fanpage"
+        },
+        {
+          "title": "Uscire dal basement: gli ultimi quaranta minuti di Stranger Things - La Balena Bianca",
+          "source": "La Balena Bianca",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Uscire dal basement: gli ultimi quaranta minuti di Stranger Things La Balena Bianca"
+        },
+        {
+          "title": "Netflix ha messo a tacere la più assurda teoria sul finale di Stranger Things - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Netflix ha messo a tacere la più assurda teoria sul finale di Stranger Things Best Movie"
+        },
+        {
+          "title": "“Stranger Things 5”, la teoria dei fan sul 7 gennaio e l’episodio 9 segreto - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "“Stranger Things 5”, la teoria dei fan sul 7 gennaio e l’episodio 9 segreto TV Sorrisi e Canzoni"
+        }
+      ]
+    },
+    "Strage_di_Acca_Larenzia": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Strage di Acca Larenzia è la denominazione giornalistica del pluriomicidio a sfondo politico avvenuto a Roma il 7 gennaio 1978, per opera di un gruppo armato afferente alla estrema sinistra, nel quale due giovani appartenenti al Fronte della Gioventù, Franco Bigonzetti e Francesco Ciavatta, furono assassinati davanti alla sede del Movimento Sociale Italiano in via Acca Larenzia, nel quartiere Tuscolano.",
+      "news": [
+        {
+          "title": "Roma ricorda Bigonzetti e Ciavatta, 48 anni dalla strage di Acca Larentia - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Roma ricorda Bigonzetti e Ciavatta, 48 anni dalla strage di Acca Larentia RaiNews"
+        },
+        {
+          "title": "Roma, striscioni fascisti all’Appio Latino alla vigilia dell’anniversario di Acca Larentia - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Roma, striscioni fascisti all’Appio Latino alla vigilia dell’anniversario di Acca Larentia RomaToday"
+        },
+        {
+          "title": "7 gennaio 1978, Acca Larenzia: una data simbolo della destra italiana - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "7 gennaio 1978, Acca Larenzia: una data simbolo della destra italiana Il Messaggero"
+        },
+        {
+          "title": "Acca Larentia, saluti romani al rito del 'Presente' - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Acca Larentia, saluti romani al rito del 'Presente' Il Sole 24 ORE"
+        },
+        {
+          "title": "Acca Larenzia, 4 attivisti di Gioventù nazionale aggrediti con le spranghe a Roma - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Acca Larenzia, 4 attivisti di Gioventù nazionale aggrediti con le spranghe a Roma Sky TG24"
+        },
+        {
+          "title": "Comunicazione Italiana - Comunicazione Italiana",
+          "source": "Comunicazione Italiana",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Comunicazione Italiana Comunicazione Italiana"
+        },
+        {
+          "title": "Acca Larenzia, Meloni invoca la «pacificazione» - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Acca Larenzia, Meloni invoca la «pacificazione» il manifesto"
+        },
+        {
+          "title": "L'aggressione ai militanti di destra nel giorno di Acca Larentia diventa un caso politico - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "L'aggressione ai militanti di destra nel giorno di Acca Larentia diventa un caso politico Avvenire"
+        },
+        {
+          "title": "Acca Larentia, Meloni: “Violenza politica mai giustificabile, non deve tornare” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Acca Larentia, Meloni: “Violenza politica mai giustificabile, non deve tornare” la Repubblica"
+        },
+        {
+          "title": "Acca Larentia, spranghe e bastoni contro i militanti di «Gioventù Nazionale»: il video dell'aggressione alla Tuscolana - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Acca Larentia, spranghe e bastoni contro i militanti di «Gioventù Nazionale»: il video dell'aggressione alla Tuscolana Corriere della Sera"
+        }
+      ]
+    },
+    "Checco_Zalone": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Checco Zalone, pseudonimo di Luca Pasquale Medici, è un comico, sceneggiatore, attore, imitatore e cantante italiano.",
+      "news": [
+        {
+          "title": "La volta buona 2025/26 - Sorrentino sul successo di Checco Zalone: \"Non saprei gestirlo\" - 12/01/2026 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "La volta buona 2025/26 - Sorrentino sul successo di Checco Zalone: \"Non saprei gestirlo\" - 12/01/2026 - Video RaiPlay"
+        },
+        {
+          "title": "Il Buen Camino di Checco Zalone prosegue, il primato degli incassi di sempre è ormai a pochi passi - Radio RTL 102.5",
+          "source": "Radio RTL 102.5",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Il Buen Camino di Checco Zalone prosegue, il primato degli incassi di sempre è ormai a pochi passi Radio RTL 102.5"
+        },
+        {
+          "title": "Checco Zalone si conferma campione d’incassi con Buen Camino: forse meno scorretto, ma più umano - Banquo Magazine",
+          "source": "Banquo Magazine",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone si conferma campione d’incassi con Buen Camino: forse meno scorretto, ma più umano Banquo Magazine"
+        },
+        {
+          "title": "Checco Zalone (ancora) re del Box Office, Buen Camino a un passo dal record assoluto e sogna il trono di Avatar - Libero",
+          "source": "Libero",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone (ancora) re del Box Office, Buen Camino a un passo dal record assoluto e sogna il trono di Avatar Libero"
+        },
+        {
+          "title": "Checco Zalone col botto nelle sale: \"Pienone che non si vedeva da anni. Bene anche ’Avatar’ e ’Norimberga’\" - Il Resto del Carlino",
+          "source": "Il Resto del Carlino",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone col botto nelle sale: \"Pienone che non si vedeva da anni. Bene anche ’Avatar’ e ’Norimberga’\" Il Resto del Carlino"
+        },
+        {
+          "title": "Tra Checco Zalone e Avatar ha stravinto Zalone - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Tra Checco Zalone e Avatar ha stravinto Zalone Il Post"
+        },
+        {
+          "title": "Checco Zalone inarrestabile, \"Buen Camino\" re del box office - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone inarrestabile, \"Buen Camino\" re del box office Il Sole 24 ORE"
+        },
+        {
+          "title": "Buen Camino, il cast del film di Checco Zalone. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Buen Camino, il cast del film di Checco Zalone. FOTO Sky TG24"
+        },
+        {
+          "title": "Checco Zalone, con 59 milioni di incassi “Buen camino” è il film record delle feste al box office - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone, con 59 milioni di incassi “Buen camino” è il film record delle feste al box office la Repubblica"
+        },
+        {
+          "title": "Perché Checco Zalone è deluso dagli incassi di Buen Camino - AGI",
+          "source": "AGI",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Perché Checco Zalone è deluso dagli incassi di Buen Camino AGI"
+        }
+      ]
+    },
+    "David_Bowie": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "David Bowie, pseudonimo di David Robert Jones, è stato un cantautore, polistrumentista e attore britannico.",
+      "news": [
+        {
+          "title": "Dieci anni senza David Bowie - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Dieci anni senza David Bowie RaiNews"
+        },
+        {
+          "title": "David Bowie attore: film e ruoli al cinema, dieci anni dopo la morte - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "David Bowie attore: film e ruoli al cinema, dieci anni dopo la morte Sky TG24"
+        },
+        {
+          "title": "Casa d'infanzia di David Bowie apre al pubblico per workshop creativi - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Casa d'infanzia di David Bowie apre al pubblico per workshop creativi Euronews.com"
+        },
+        {
+          "title": "L’immortale importanza del design per David Bowie, a dieci anni dalla morte - Domus Web",
+          "source": "Domus Web",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "L’immortale importanza del design per David Bowie, a dieci anni dalla morte Domus Web"
+        },
+        {
+          "title": "Dieci anni senza David Bowie - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Dieci anni senza David Bowie Il Bo Live"
+        },
+        {
+          "title": "La casa londinese in cui è cresciuto David Bowie sarà aperta al pubblico - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "La casa londinese in cui è cresciuto David Bowie sarà aperta al pubblico Rolling Stone Italia"
+        },
+        {
+          "title": "David Bowie, oltre lo spazio e il tempo - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "David Bowie, oltre lo spazio e il tempo Rai.it"
+        },
+        {
+          "title": "David Bowie, immortale - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "David Bowie, immortale il manifesto"
+        },
+        {
+          "title": "Dieci anni fa moriva David Bowie lasciandoci il suo ultimo e indimenticabile capolavoro, Blackstar - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Dieci anni fa moriva David Bowie lasciandoci il suo ultimo e indimenticabile capolavoro, Blackstar Wired Italia"
+        },
+        {
+          "title": "Quando David Bowie recitò in un western con Leonardo Pieraccioni - Rockol",
+          "source": "Rockol",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Quando David Bowie recitò in un western con Leonardo Pieraccioni Rockol"
+        }
+      ]
+    },
+    "Hugo_Chávez": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Hugo Rafael Chávez Frías è stato un politico e militare venezuelano. È stato presidente del Venezuela dal 1999 fino alla sua morte, tranne durante la breve parentesi del colpo di Stato del 2002.",
+      "news": [
+        {
+          "title": "Non dimentichiamo la rivoluzione bolivariana - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Non dimentichiamo la rivoluzione bolivariana il manifesto"
+        },
+        {
+          "title": "Chi è Cilia Flores, la “prima combattente” del chavismo - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Chi è Cilia Flores, la “prima combattente” del chavismo Il Foglio"
+        },
+        {
+          "title": "Nazionalizzazioni, sequestri e golpe militari: 23 anni di guerra per il petrolio tra Usa e Venezuela - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Nazionalizzazioni, sequestri e golpe militari: 23 anni di guerra per il petrolio tra Usa e Venezuela Il Fatto Quotidiano"
+        },
+        {
+          "title": "Chi è “el Pollo” Hugo Carvajal Barrios, il potenziale super testimone contro Maduro - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Chi è “el Pollo” Hugo Carvajal Barrios, il potenziale super testimone contro Maduro Sky TG24"
+        },
+        {
+          "title": "Perché Stati Uniti e Venezuela si scontrano da oltre 20 anni - Policy Maker",
+          "source": "Policy Maker",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Perché Stati Uniti e Venezuela si scontrano da oltre 20 anni Policy Maker"
+        },
+        {
+          "title": "Perché il Venezuela è ricco di petrolio ma ne estrae poco: geologia e storia per capire l'attualità - Geopop",
+          "source": "Geopop",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Perché il Venezuela è ricco di petrolio ma ne estrae poco: geologia e storia per capire l'attualità Geopop"
+        },
+        {
+          "title": "Il sorriso del Sudamerica: Andrea Zanettin racconta la speranza del Venezuela dopo la cattura di Maduro - La Nuova Provincia",
+          "source": "La Nuova Provincia",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Il sorriso del Sudamerica: Andrea Zanettin racconta la speranza del Venezuela dopo la cattura di Maduro La Nuova Provincia"
+        },
+        {
+          "title": "Tutti gli interventi militari USA in America Latina, dai golpe della CIA all’Operazione Condor - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Tutti gli interventi militari USA in America Latina, dai golpe della CIA all’Operazione Condor Fanpage"
+        },
+        {
+          "title": "Chi è Delcy Rodriguez, la fedelissima di Maduro che guiderà il Venezuela: per 20 anni figura di spicco del chavismo - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Chi è Delcy Rodriguez, la fedelissima di Maduro che guiderà il Venezuela: per 20 anni figura di spicco del chavismo Il Messaggero"
+        },
+        {
+          "title": "Rafael Ramirez: “Il greggio è nostro, non dell’America. Eliminare Maduro non salverà il Paese” - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Rafael Ramirez: “Il greggio è nostro, non dell’America. Eliminare Maduro non salverà il Paese” La Stampa"
+        }
+      ]
+    },
+    "Fabrizio_Corona": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fabrizio Maria Corona è un personaggio televisivo e imprenditore italiano.",
+      "news": [
+        {
+          "title": "Fabrizio Corona nella docu-serie Netflix a lui dedicata: «Nella bicicletta di mio figlio c’era un sedile che si alzava. Lì sotto avevo nascosto 100mila euro» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Fabrizio Corona nella docu-serie Netflix a lui dedicata: «Nella bicicletta di mio figlio c’era un sedile che si alzava. Lì sotto avevo nascosto 100mila euro» Vanity Fair Italia"
+        },
+        {
+          "title": "Il Trailer Di 'Fabrizio Corona: Io sono notizia': La Docuserie in 5 Episodi In Arrivo Solo Su Netflix Dal 9 Gennaio - About Netflix",
+          "source": "About Netflix",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Il Trailer Di 'Fabrizio Corona: Io sono notizia': La Docuserie in 5 Episodi In Arrivo Solo Su Netflix Dal 9 Gennaio About Netflix"
+        },
+        {
+          "title": "Dopo il caso Signorini, Fabrizio Corona si mette a nudo: l'ex Re dei paparazzi e il lato oscuro del gossip - Libero",
+          "source": "Libero",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Dopo il caso Signorini, Fabrizio Corona si mette a nudo: l'ex Re dei paparazzi e il lato oscuro del gossip Libero"
+        },
+        {
+          "title": "Fabrizio Corona - Io sono notizia : la docuserie di Netflix ha perso un'opportunità - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Fabrizio Corona - Io sono notizia : la docuserie di Netflix ha perso un'opportunità Vanity Fair Italia"
+        }
+      ]
+    },
+    "Millie_Bobby_Brown": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Millie Bobby Brown, pseudonimo di Millie Bonnie Brown, coniugata Bongiovi è un'attrice britannica.",
+      "news": [
+        {
+          "title": "Millie Bobby Brown e le lacrime per la fine di Undici in Stranger Things - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Millie Bobby Brown e le lacrime per la fine di Undici in Stranger Things Vanity Fair Italia"
+        },
+        {
+          "title": "Stranger Things 5, Millie Bobby Brown rompe il silenzio sul destino di Undici - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things 5, Millie Bobby Brown rompe il silenzio sul destino di Undici ComingSoon.it"
+        },
+        {
+          "title": "Millie Bobby Brown lancia un brand di moda teen - FashionNetwork Italia",
+          "source": "FashionNetwork Italia",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Millie Bobby Brown lancia un brand di moda teen FashionNetwork Italia"
+        },
+        {
+          "title": "Nel futuro di Netflix c’è ancora Millie Bobby Brown - Cinecittà News",
+          "source": "Cinecittà News",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Nel futuro di Netflix c’è ancora Millie Bobby Brown Cinecittà News"
+        },
+        {
+          "title": "Millie Bobby Brown dopo 'Stranger Things': film e serie in arrivo - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Millie Bobby Brown dopo 'Stranger Things': film e serie in arrivo Taxidrivers.it"
+        },
+        {
+          "title": "Dopo Stranger Things, Millie Bobby Brown è di nuovo Enola Holmes! Ecco il primo sguardo al nuovo film Netflix [FOTO] - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Dopo Stranger Things, Millie Bobby Brown è di nuovo Enola Holmes! Ecco il primo sguardo al nuovo film Netflix [FOTO] Best Movie"
+        },
+        {
+          "title": "Millie Bobby Brown si commuove con QUELLA scena - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Millie Bobby Brown si commuove con QUELLA scena LaScimmiaPensa.com"
+        },
+        {
+          "title": "Stranger Things 5: Millie Bobby Brown dice la sua sul destino di Undici dopo il finale - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Stranger Things 5: Millie Bobby Brown dice la sua sul destino di Undici dopo il finale Il Cineocchio"
+        },
+        {
+          "title": "Enola Holmes 3, Millie Bobby Brown è già pronta a tornare su Netflix dopo Stranger Things - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Enola Holmes 3, Millie Bobby Brown è già pronta a tornare su Netflix dopo Stranger Things Everyeye Cinema"
+        },
+        {
+          "title": "Netflix svela il suo 2026: ecco date di uscita e altre novità attesissime, da One Piece 2 a Enola Holmes 3 - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Netflix svela il suo 2026: ecco date di uscita e altre novità attesissime, da One Piece 2 a Enola Holmes 3 Movieplayer"
+        }
+      ]
+    },
+    "Kenneth_Taylor_(calciatore)": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Kenneth Ina Dorothea Taylor, noto semplicemente come Kenneth Taylor, è un calciatore olandese, centrocampista della Lazio e della nazionale olandese.",
+      "news": [
+        {
+          "title": "Lazio, Taylor è ufficiale: visite mediche e firma, tutti i dettagli - Corriere dello Sport",
+          "source": "Corriere dello Sport",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Lazio, Taylor è ufficiale: visite mediche e firma, tutti i dettagli Corriere dello Sport"
+        },
+        {
+          "title": "Taylor alla Lazio: Lotito tratta con l'Ajax per il post Guendouzi - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Taylor alla Lazio: Lotito tratta con l'Ajax per il post Guendouzi RomaToday"
+        },
+        {
+          "title": "Chi è Kenneth Taylor, l'erede di Guendouzi che la Lazio ha preso dall'Ajax: caratteristiche tecniche e in quali ruoli può giocare - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Chi è Kenneth Taylor, l'erede di Guendouzi che la Lazio ha preso dall'Ajax: caratteristiche tecniche e in quali ruoli può giocare Goal.com"
+        },
+        {
+          "title": "Taylor verso la Lazio: il ruolo, le caratteristiche tecniche e lo stipendio - Sisal",
+          "source": "Sisal",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Taylor verso la Lazio: il ruolo, le caratteristiche tecniche e lo stipendio Sisal"
+        },
+        {
+          "title": "Kenneth Taylor alla Lazio, lo sfottò alla Roma nel video di presentazione: la reazione del giocatore - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Kenneth Taylor alla Lazio, lo sfottò alla Roma nel video di presentazione: la reazione del giocatore Fanpage"
+        },
+        {
+          "title": "Ecco chi è Taylor, il sostituto di Guendouzi alla Lazio - Diretta",
+          "source": "Diretta",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Ecco chi è Taylor, il sostituto di Guendouzi alla Lazio Diretta"
+        },
+        {
+          "title": "Perché Kenneth Taylor è diventato un idolo dei tifosi della Lazio molto prima di segnare un gol - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Perché Kenneth Taylor è diventato un idolo dei tifosi della Lazio molto prima di segnare un gol GQ Italia"
+        },
+        {
+          "title": "Lazio, è fatta per Kenneth Taylor dell'Ajax: ecco la mossa per il dopo Guendouzi - Sportmediaset",
+          "source": "Sportmediaset",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Lazio, è fatta per Kenneth Taylor dell'Ajax: ecco la mossa per il dopo Guendouzi Sportmediaset"
+        },
+        {
+          "title": "Kenneth Taylor alla Lazio ha tutto il potenziale per essere un grande colpo di mercato - Rivista Undici",
+          "source": "Rivista Undici",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Kenneth Taylor alla Lazio ha tutto il potenziale per essere un grande colpo di mercato Rivista Undici"
+        },
+        {
+          "title": "UFFICIALE - Lazio, ecco Taylor: ruolo, quotazione e FVM al Fantacalcio - Fantacalcio",
+          "source": "Fantacalcio",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "UFFICIALE - Lazio, ecco Taylor: ruolo, quotazione e FVM al Fantacalcio Fantacalcio"
+        }
+      ]
+    },
+    "Prima_di_noi": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Prima di noi è una serie televisiva italiana trasmessa in prima visione su Rai 1 dal 4 al 25 gennaio 2026, tratta dall'omonima saga di Giorgio Fontana e diretta da Daniele Luchetti e Valia Santella la quale ha curato anche la sceneggiatura insieme a Giulia Calenda.",
+      "news": [
+        {
+          "title": "Prima di noi: la fiction di Rai1 con Linda Caridi e Andrea Arcangeli è la nuova Amica geniale - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Prima di noi: la fiction di Rai1 con Linda Caridi e Andrea Arcangeli è la nuova Amica geniale Vanity Fair Italia"
+        },
+        {
+          "title": "Da noi... a ruota libera 2025/26 - Romana Maggiora Vergano e Linda Caridi in \"Prima di noi\" - 11/01/2026 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Da noi... a ruota libera 2025/26 - Romana Maggiora Vergano e Linda Caridi in \"Prima di noi\" - 11/01/2026 - Video RaiPlay"
+        },
+        {
+          "title": "Ma che friulano si parla in \"Prima di noi\", la nuova fiction di Rai1? - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Ma che friulano si parla in \"Prima di noi\", la nuova fiction di Rai1? RaiNews"
+        },
+        {
+          "title": "\"Prima di noi\": la trama del quinto e del sesto episodio - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "\"Prima di noi\": la trama del quinto e del sesto episodio TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Stasera in tv tornano i Sartori: tutte le storie e le emozioni della seconda puntata di Prima di noi - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Stasera in tv tornano i Sartori: tutte le storie e le emozioni della seconda puntata di Prima di noi Corriere Style"
+        },
+        {
+          "title": "Prima di noi, viaggio nei luoghi della fiction Rai 1: dalle montagne friulane alla Torino industriale - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Prima di noi, viaggio nei luoghi della fiction Rai 1: dalle montagne friulane alla Torino industriale Movieplayer"
+        },
+        {
+          "title": "\"Prima di noi\", perché il friulano della fiction ambientata a Cimolais si ispira alla parlata di Erto? - PordenoneToday",
+          "source": "PordenoneToday",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "\"Prima di noi\", perché il friulano della fiction ambientata a Cimolais si ispira alla parlata di Erto? PordenoneToday"
+        },
+        {
+          "title": "Dove è stato girato Prima di noi, la serie Rai che mostra un lato inedito del nord Italia - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Dove è stato girato Prima di noi, la serie Rai che mostra un lato inedito del nord Italia Fanpage"
+        },
+        {
+          "title": "“Prima di noi”: nella seconda puntata stasera in tv i Sartori fanno i conti con il fascismo - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "“Prima di noi”: nella seconda puntata stasera in tv i Sartori fanno i conti con il fascismo Amica.it"
+        },
+        {
+          "title": "La serie Rai Prima di noi e le polemiche su quel friulano: finalmente si è rotto un tabù - il Nord Est",
+          "source": "il Nord Est",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "La serie Rai Prima di noi e le polemiche su quel friulano: finalmente si è rotto un tabù il Nord Est"
+        }
+      ]
+    },
+    "Gomorra_-_Le_origini": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gomorra - Le origini è una serie televisiva italiana ideata da Leonardo Fasoli e Maddalena Ravagli, diretta da Marco D'Amore e Francesco Ghiaccio. Prequel di Gomorra - La serie (2014-2021) e liberamente ispirata al romanzo Gomorra del 2006 di Roberto Saviano, ne rappresenta il quarto adattamento. Ha debuttato su Sky Atlantic il 9 gennaio 2026.",
+      "news": [
+        {
+          "title": "Gomorra - Le Origini, il cast e i personaggi della serie originaria - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Gomorra - Le Origini, il cast e i personaggi della serie originaria Sky TG24"
+        },
+        {
+          "title": "‘Gomorra – Le origini’: sì, c’è ancora parecchio da raccontare - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "‘Gomorra – Le origini’: sì, c’è ancora parecchio da raccontare Rolling Stone Italia"
+        },
+        {
+          "title": "Savastano wannabe Gomorra - Le origini racconta la genesi del male e del potere che divora (anche la giovinezza) - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Savastano wannabe Gomorra - Le origini racconta la genesi del male e del potere che divora (anche la giovinezza) Wired Italia"
+        },
+        {
+          "title": "“Gomorra – Le origini”, la trama dei primi due episodi - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "“Gomorra – Le origini”, la trama dei primi due episodi TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Gomorra Le origini su Sky fino al 6 febbraio: Napoli 1977, come nasce il clan di Pietro Savastano - ItaliaOggi",
+          "source": "ItaliaOggi",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Gomorra Le origini su Sky fino al 6 febbraio: Napoli 1977, come nasce il clan di Pietro Savastano ItaliaOggi"
+        },
+        {
+          "title": "Le location di Gomorra - Le origini: una Napoli degli Anni '70 dove tutto ha avuto inizio - ELLE Decor",
+          "source": "ELLE Decor",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Le location di Gomorra - Le origini: una Napoli degli Anni '70 dove tutto ha avuto inizio ELLE Decor"
+        },
+        {
+          "title": "‘Gomorra – Le origini’, Marco D’Amore: “Logico puntare su Pietro e Imma. Grandi ritorni? Chi lo sa” - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "‘Gomorra – Le origini’, Marco D’Amore: “Logico puntare su Pietro e Imma. Grandi ritorni? Chi lo sa” Radio Deejay"
+        },
+        {
+          "title": "Gomorra - Le Origini al via su Sky: la trama e il cast della serie prequel di Gomorra - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Gomorra - Le Origini al via su Sky: la trama e il cast della serie prequel di Gomorra La Gazzetta dello Sport"
+        },
+        {
+          "title": "Dal 9 gennaio la nuova serie Sky \"Gomorra - le origini\" racconta l'ascesa del giovane Pietro Savastano - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Dal 9 gennaio la nuova serie Sky \"Gomorra - le origini\" racconta l'ascesa del giovane Pietro Savastano iO Donna"
+        },
+        {
+          "title": "Dove è stato girato Gomorra Le Origini, le location della serie ambientata a Napoli - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Dove è stato girato Gomorra Le Origini, le location della serie ambientata a Napoli Fanpage"
+        }
+      ]
+    },
+    "La_terra_promessa_(film_2023)": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La terra promessa (Bastarden) è un film del 2023 diretto da Nikolaj Arcel.",
+      "news": [
+        {
+          "title": "\"La terra promessa\" - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "\"La terra promessa\" Rai.it"
+        },
+        {
+          "title": "I film in onda in TV stasera, mercoledì 7 gennaio: le risate con Ilenia Pastorelli contro l'eleganza di Hugh Grant - Libero",
+          "source": "Libero",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "I film in onda in TV stasera, mercoledì 7 gennaio: le risate con Ilenia Pastorelli contro l'eleganza di Hugh Grant Libero"
+        },
+        {
+          "title": "Stasera in TV: Film da vedere Mercoledì 7 Gennaio, in prima serata - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Stasera in TV: Film da vedere Mercoledì 7 Gennaio, in prima serata ComingSoon.it"
+        },
+        {
+          "title": "Stasera in TV: film, programmi e serie di oggi mercoledì 7 gennaio - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Stasera in TV: film, programmi e serie di oggi mercoledì 7 gennaio la Repubblica"
+        },
+        {
+          "title": "Stasera in tv (7 gennaio), sfida combattuta tra Sabrina Ferilli e Giuseppe Zeno per la prima serata - Libero",
+          "source": "Libero",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Stasera in tv (7 gennaio), sfida combattuta tra Sabrina Ferilli e Giuseppe Zeno per la prima serata Libero"
+        },
+        {
+          "title": "La terra promessa: il film con Mads Mikkelsen è tratto da una storia vera? - Cinefilos.it",
+          "source": "Cinefilos.it",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "La terra promessa: il film con Mads Mikkelsen è tratto da una storia vera? Cinefilos.it"
+        },
+        {
+          "title": "La terra promessa: la spiegazione del finale del film - Cinefilos.it",
+          "source": "Cinefilos.it",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "La terra promessa: la spiegazione del finale del film Cinefilos.it"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Rai: Sanremo Laura Pausini condurrà con Carlo Conti la 76 a edizione del Festival di Sanremo - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Rai: Sanremo Laura Pausini condurrà con Carlo Conti la 76 a edizione del Festival di Sanremo Rai.it"
+        },
+        {
+          "title": "Mi manda Rai Tre 2025/26 - Puntata del 11/01/2026 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Mi manda Rai Tre 2025/26 - Puntata del 11/01/2026 - Video RaiPlay"
+        },
+        {
+          "title": "La preside - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 08 Jan 2026 12:51:08 GMT",
+          "description": "La preside RaiPlay"
+        },
+        {
+          "title": "Comunicato Sindacale Usigrai - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Comunicato Sindacale Usigrai Rai.it"
+        }
+      ]
+    },
+    "No_Other_Choice_-_Non_c'è_altra_scelta": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "No Other Choice - Non c'è altra scelta è un film del 2025 co-sceneggiato, diretto e co-prodotto da Park Chan-wook.",
+      "news": [
+        {
+          "title": "NO OTHER CHOICE - Spietati",
+          "source": "Spietati",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "NO OTHER CHOICE Spietati"
+        },
+        {
+          "title": "Sopravvivere con ogni mezzo possibile nel capitalismo - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Sopravvivere con ogni mezzo possibile nel capitalismo il manifesto"
+        },
+        {
+          "title": "No Other Choice - Non c'è altra scelta - La recensione - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "No Other Choice - Non c'è altra scelta - La recensione IGN Italia"
+        },
+        {
+          "title": "No Other Choice - Non c'è altra scelta. L'uomo che non serve più - sentireascoltare",
+          "source": "sentireascoltare",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "No Other Choice - Non c'è altra scelta. L'uomo che non serve più sentireascoltare"
+        },
+        {
+          "title": "I primi film dell’anno da non perdere - L'Eco di Bergamo",
+          "source": "L'Eco di Bergamo",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "I primi film dell’anno da non perdere L'Eco di Bergamo"
+        },
+        {
+          "title": "No Other Choice: Non c’è altra scelta – La recensione del nuovo film di Park Chan-wook - Nerd Al Quadrato",
+          "source": "Nerd Al Quadrato",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "No Other Choice: Non c’è altra scelta – La recensione del nuovo film di Park Chan-wook Nerd Al Quadrato"
+        },
+        {
+          "title": "Perché No other choice è un film da vedere: alla ricerca del posto fisso più ambito, quello nel mondo - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Perché No other choice è un film da vedere: alla ricerca del posto fisso più ambito, quello nel mondo Fanpage"
+        },
+        {
+          "title": "Il film della settimana: 'No other choice - Non c'è altra scelta', quando il lavoro uccide (letteralmente) - Primocanale",
+          "source": "Primocanale",
+          "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+          "description": "Il film della settimana: 'No other choice - Non c'è altra scelta', quando il lavoro uccide (letteralmente) Primocanale"
+        },
+        {
+          "title": "Lee Byung Hun: l'intervista al protagonista di No Other Choice - Grazia",
+          "source": "Grazia",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Lee Byung Hun: l'intervista al protagonista di No Other Choice Grazia"
+        },
+        {
+          "title": "\"No other choice\": scene di lotta nella classe media coreana - Strisciarossa",
+          "source": "Strisciarossa",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "\"No other choice\": scene di lotta nella classe media coreana Strisciarossa"
+        }
+      ]
+    },
+    "Hermann_Göring": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Hermann Wilhelm Göring è stato un politico, generale e criminale di guerra tedesco.",
+      "news": [
+        {
+          "title": "Russell Crowe, Hermann Göring e l'ambiguità del male - L'Osservatore Romano",
+          "source": "L'Osservatore Romano",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Russell Crowe, Hermann Göring e l'ambiguità del male L'Osservatore Romano"
+        },
+        {
+          "title": "’Norimberga’ e ’Buen Camino’ in sala ai Fluttuanti - Il Resto del Carlino",
+          "source": "Il Resto del Carlino",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "’Norimberga’ e ’Buen Camino’ in sala ai Fluttuanti Il Resto del Carlino"
+        },
+        {
+          "title": "CINEMA – Norimberga, quando la storia replica alla propaganda - moked",
+          "source": "moked",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "CINEMA – Norimberga, quando la storia replica alla propaganda moked"
+        },
+        {
+          "title": "Sta per diventare il più grande incasso nella storia dei cinema italiani, deve solo superare... - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Sta per diventare il più grande incasso nella storia dei cinema italiani, deve solo superare... Esquire"
+        },
+        {
+          "title": "NORIMBERGA_V.O. INGLESE CON SOTTOTITOLI in italiano - Barz And Hippo",
+          "source": "Barz And Hippo",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "NORIMBERGA_V.O. INGLESE CON SOTTOTITOLI in italiano Barz And Hippo"
+        },
+        {
+          "title": "Checco Zalone col botto nelle sale: \"Pienone che non si vedeva da anni. Bene anche ’Avatar’ e ’Norimberga’\" - Il Resto del Carlino",
+          "source": "Il Resto del Carlino",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Checco Zalone col botto nelle sale: \"Pienone che non si vedeva da anni. Bene anche ’Avatar’ e ’Norimberga’\" Il Resto del Carlino"
+        },
+        {
+          "title": "Questa settimana al cinema: a Cinelandia il nuovo thriller con Sydney Sweeney anche in lingua originale [TRAILERS] - La voce di Asti",
+          "source": "La voce di Asti",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Questa settimana al cinema: a Cinelandia il nuovo thriller con Sydney Sweeney anche in lingua originale [TRAILERS] La voce di Asti"
+        }
+      ]
+    },
+    "United_States_Immigration_and_Customs_Enforcement": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La United States Immigration and Customs Enforcement è un'agenzia federale statunitense. Nella stampa è spesso menzionata con le iniziali ICE. Fa parte del Dipartimento della sicurezza interna degli Stati Uniti d'America, ed è responsabile del controllo della sicurezza delle dogane e dell'immigrazione.",
+      "news": [
+        {
+          "title": "Cos’è l’Ice e di cosa si occupa l’agenzia Usa per l’immigrazione - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Cos’è l’Ice e di cosa si occupa l’agenzia Usa per l’immigrazione la Repubblica"
+        },
+        {
+          "title": "Ice, numeri record: 70.805 detenuti a dicembre 2025 - Truenumbers",
+          "source": "Truenumbers",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Ice, numeri record: 70.805 detenuti a dicembre 2025 Truenumbers"
+        },
+        {
+          "title": "Who was Renee Nicole Good, the woman killed by Ice in Minneapolis - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Who was Renee Nicole Good, the woman killed by Ice in Minneapolis Il Sole 24 ORE"
+        },
+        {
+          "title": "Omicidio dell’Ice: il governo monopolizza le indagini - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Omicidio dell’Ice: il governo monopolizza le indagini il manifesto"
+        },
+        {
+          "title": "Qual è la differenza tra ICE, Guardia Nazionale ed FBI? - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Qual è la differenza tra ICE, Guardia Nazionale ed FBI? FocusJunior.it"
+        },
+        {
+          "title": "Perché l’omicidio di Renee Nicole Good ci riguarda tutti - Lucy. Sulla cultura",
+          "source": "Lucy. Sulla cultura",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Perché l’omicidio di Renee Nicole Good ci riguarda tutti Lucy. Sulla cultura"
+        },
+        {
+          "title": "Ice, i poteri dell'agenzia 'anti-immigrati' nata dopo l'11 settembre - AGI",
+          "source": "AGI",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Ice, i poteri dell'agenzia 'anti-immigrati' nata dopo l'11 settembre AGI"
+        },
+        {
+          "title": "Agenti ICE negli Stati Uniti, chi sono e cosa fanno: il report di Amnesty International e i casi in Florida - ItaliaOggi",
+          "source": "ItaliaOggi",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Agenti ICE negli Stati Uniti, chi sono e cosa fanno: il report di Amnesty International e i casi in Florida ItaliaOggi"
+        },
+        {
+          "title": "La coalizione dei sindaci democratici nelle città assalite dagli agenti federali - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "La coalizione dei sindaci democratici nelle città assalite dagli agenti federali il manifesto"
+        },
+        {
+          "title": "Chi era Renee Nicole Good, la donna uccisa dall’Ice a Minneapolis - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Chi era Renee Nicole Good, la donna uccisa dall’Ice a Minneapolis Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Donald_Trump": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Donald John Trump è un politico, imprenditore e personaggio televisivo statunitense, 47º Presidente degli Stati Uniti d'America dal 2025, in precedenza è stato 45º presidente dal 2017 al 2021.",
+      "news": [
+        {
+          "title": "L'iconico ballo di Donald Trump al Kennedy Center a Washington davanti ai deputati repubblicani - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "L'iconico ballo di Donald Trump al Kennedy Center a Washington davanti ai deputati repubblicani Il Sole 24 ORE"
+        },
+        {
+          "title": "Donald Trump vuole incontrare Orbán in Ungheria, sostegno alla campagna elettorale - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Donald Trump vuole incontrare Orbán in Ungheria, sostegno alla campagna elettorale Euronews.com"
+        },
+        {
+          "title": "Comunicazione Italiana - Comunicazione Italiana",
+          "source": "Comunicazione Italiana",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Comunicazione Italiana Comunicazione Italiana"
+        },
+        {
+          "title": "Trump riscrive l’ordine globale: cosa aspettarsi ancora nel 2026? - ISPI",
+          "source": "ISPI",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Trump riscrive l’ordine globale: cosa aspettarsi ancora nel 2026? ISPI"
+        },
+        {
+          "title": "Gli altri bersagli di Donald Trump - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Gli altri bersagli di Donald Trump Internazionale"
+        },
+        {
+          "title": "Donald Trump e le debolezze altrui, l'editoriale di Massimo Gramellini - La7",
+          "source": "La7",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Donald Trump e le debolezze altrui, l'editoriale di Massimo Gramellini La7"
+        },
+        {
+          "title": "L’imperialismo energetico di Donald Trump è un pericolo per il futuro della specie umana - Materia Rinnovabile | Renewable Matter",
+          "source": "Materia Rinnovabile | Renewable Matter",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "L’imperialismo energetico di Donald Trump è un pericolo per il futuro della specie umana Materia Rinnovabile | Renewable Matter"
+        },
+        {
+          "title": "Breve storia del presunto \"furto\" del petrolio venezuelano lamentato da Donald Trump - Altreconomia",
+          "source": "Altreconomia",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Breve storia del presunto \"furto\" del petrolio venezuelano lamentato da Donald Trump Altreconomia"
+        },
+        {
+          "title": "La nuova strategia di Trump e le implicazioni per l’Europa - ISPI",
+          "source": "ISPI",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "La nuova strategia di Trump e le implicazioni per l’Europa ISPI"
+        },
+        {
+          "title": "Donald Trump sta valutando l’acquisto della Groenlandia, afferma la Casa Bianca - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "Donald Trump sta valutando l’acquisto della Groenlandia, afferma la Casa Bianca Internazionale"
+        }
+      ]
+    },
+    "I_delitti_del_BarLume": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I delitti del BarLume è una serie televisiva italiana prodotta dalla Palomar e trasmessa dal 2013 in prima visione pay da Sky Cinema. Dal 2015 viene replicata in chiaro da TV8.",
+      "news": [
+        {
+          "title": "‘I delitti del BarLume’. Filippo Timi, il giallo leggero e le irresistibili debolezze dell’umano - Cinecittà News",
+          "source": "Cinecittà News",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "‘I delitti del BarLume’. Filippo Timi, il giallo leggero e le irresistibili debolezze dell’umano Cinecittà News"
+        },
+        {
+          "title": "I delitti del BarLume – Il matrimonio di Pasquali, questa sera su Sky la seconda storia - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "I delitti del BarLume – Il matrimonio di Pasquali, questa sera su Sky la seconda storia Sky TG24"
+        },
+        {
+          "title": "“I delitti del BarLume” tornano in tv: vecchietti, misteri e un matrimonio che finisce malissimo - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "“I delitti del BarLume” tornano in tv: vecchietti, misteri e un matrimonio che finisce malissimo Corriere Style"
+        },
+        {
+          "title": "Tornano “I delitti del BarLume”: nella prima storia stasera in tv c’è anche Paola Iezzi - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Tornano “I delitti del BarLume”: nella prima storia stasera in tv c’è anche Paola Iezzi Amica.it"
+        },
+        {
+          "title": "“I delitti del BarLume”, nelle nuove storie c’è anche Paola Iezzi - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "“I delitti del BarLume”, nelle nuove storie c’è anche Paola Iezzi la Repubblica"
+        },
+        {
+          "title": "I Delitti del BarLume: è il momento di tre nuove storie - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "I Delitti del BarLume: è il momento di tre nuove storie ComingSoon.it"
+        },
+        {
+          "title": "I delitti del BarLume stagione 13, tutte le location della serie Tv più amata - SiViaggia",
+          "source": "SiViaggia",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "I delitti del BarLume stagione 13, tutte le location della serie Tv più amata SiViaggia"
+        },
+        {
+          "title": "I delitti del Barlume, Il gioco delle coppie: spiegazione, trama, cast, ospite d'eccezione e loctaion - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "I delitti del Barlume, Il gioco delle coppie: spiegazione, trama, cast, ospite d'eccezione e loctaion Il Messaggero"
+        },
+        {
+          "title": "'I Delitti del BarLume 13': la leggerezza dei vecchini contro un giallo sempre sullo sfondo - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "'I Delitti del BarLume 13': la leggerezza dei vecchini contro un giallo sempre sullo sfondo Taxidrivers.it"
+        },
+        {
+          "title": "I delitti del BarLume, questa sera su Sky la prima delle nuove storie - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "I delitti del BarLume, questa sera su Sky la prima delle nuove storie Sky TG24"
+        }
+      ]
+    },
+    "Avatar_-_Fuoco_e_cenere": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Avatar - Fuoco e cenere è un film del 2025 co-scritto, diretto, co-prodotto e co-montato da James Cameron.",
+      "news": [
+        {
+          "title": "Avatar - Fuoco e cenere supera il miliardo in tutto il mondo. In Italia oltre i 20 milioni - Radio RTL 102.5",
+          "source": "Radio RTL 102.5",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Avatar - Fuoco e cenere supera il miliardo in tutto il mondo. In Italia oltre i 20 milioni Radio RTL 102.5"
+        },
+        {
+          "title": "Avatar: Fuoco e Cenere nei 30 film con i maggiori incassi di sempre al botteghino mondiale - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Avatar: Fuoco e Cenere nei 30 film con i maggiori incassi di sempre al botteghino mondiale Movieplayer"
+        },
+        {
+          "title": "Quanto sta incassando Avatar 3? Raggiunto un importante traguardo - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Quanto sta incassando Avatar 3? Raggiunto un importante traguardo Esquire"
+        },
+        {
+          "title": "Avatar 3, il finale apre la strada ai capitoli 4 e 5: il piano di James Cameron lascia senza fiato - Libero",
+          "source": "Libero",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Avatar 3, il finale apre la strada ai capitoli 4 e 5: il piano di James Cameron lascia senza fiato Libero"
+        },
+        {
+          "title": "Avatar: Fuoco e Cenere dopo quattro settimane segnala ancora incassi inferiori ai predecessori - Multiplayer",
+          "source": "Multiplayer",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Avatar: Fuoco e Cenere dopo quattro settimane segnala ancora incassi inferiori ai predecessori Multiplayer"
+        },
+        {
+          "title": "Avatar: Fuoco e Cenere, boxoffice ottimo ma non sufficiente? Qual è il rischio per il prosieguo con Avatar 4 e Avatar 5? - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Avatar: Fuoco e Cenere, boxoffice ottimo ma non sufficiente? Qual è il rischio per il prosieguo con Avatar 4 e Avatar 5? ComingSoon.it"
+        },
+        {
+          "title": "Avatar: Fire and Ash supera il miliardo al botteghino mondiale - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Avatar: Fire and Ash supera il miliardo al botteghino mondiale Euronews.com"
+        },
+        {
+          "title": "Avatar 3 supera il miliardo di dollari. E Sigourney Weaver festeggia così - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Avatar 3 supera il miliardo di dollari. E Sigourney Weaver festeggia così Corriere Style"
+        },
+        {
+          "title": "Avatar: Fuoco e Cenere riuscirà a raggiungere 2 miliardi? A che punto sono gli incassi - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Avatar: Fuoco e Cenere riuscirà a raggiungere 2 miliardi? A che punto sono gli incassi Everyeye Cinema"
+        },
+        {
+          "title": "Avatar - Fuoco e cenere supera il miliardo di dollari di incassi a livello globale - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "Avatar - Fuoco e cenere supera il miliardo di dollari di incassi a livello globale IGN Italia"
+        }
+      ]
+    },
+    "Una_di_famiglia": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Una di famiglia - The Housemaid è un film del 2025 diretto da Paul Feig e scritto da Rebecca Sonnenshine.",
+      "news": [
+        {
+          "title": "Una di famiglia – The Housemaid - Onda Cinema",
+          "source": "Onda Cinema",
+          "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+          "description": "Una di famiglia – The Housemaid Onda Cinema"
+        },
+        {
+          "title": "‘Una di famiglia’, confermato il sequel con Sydney Sweeney - Cinecittà News",
+          "source": "Cinecittà News",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "‘Una di famiglia’, confermato il sequel con Sydney Sweeney Cinecittà News"
+        },
+        {
+          "title": "Una di famiglia, il thriller psicologico con Sydney Sweeney e Amanda Seyfried avrà un sequel - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Una di famiglia, il thriller psicologico con Sydney Sweeney e Amanda Seyfried avrà un sequel IGN Italia"
+        },
+        {
+          "title": "La famosa star Michele Morrone presenta: Una di famiglia – The Housemaid - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+          "description": "La famosa star Michele Morrone presenta: Una di famiglia – The Housemaid i400Calci"
+        },
+        {
+          "title": "Una di famiglia e il femminismo conservatore - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "Una di famiglia e il femminismo conservatore BadTaste"
+        },
+        {
+          "title": "“The Housemaid” è l’Hitchcock che possiamo permetterci - RSI",
+          "source": "RSI",
+          "pubDate": "Sat, 10 Jan 2026 08:00:00 GMT",
+          "description": "“The Housemaid” è l’Hitchcock che possiamo permetterci RSI"
+        },
+        {
+          "title": "Una di famiglia – La nostra recensione del nuovo thriller psicologico con Sidney Sweeney! - Nerd Al Quadrato",
+          "source": "Nerd Al Quadrato",
+          "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
+          "description": "Una di famiglia – La nostra recensione del nuovo thriller psicologico con Sidney Sweeney! Nerd Al Quadrato"
+        },
+        {
+          "title": "The Housemaid - Una di famiglia, Sydney Sweeney e Paul Feig tornano per il sequel - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "The Housemaid - Una di famiglia, Sydney Sweeney e Paul Feig tornano per il sequel Sky TG24"
+        },
+        {
+          "title": "Una di famiglia – The Housemaid: la recensione del thriller con Sweeney e Seyfried - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Una di famiglia – The Housemaid: la recensione del thriller con Sweeney e Seyfried Il Cineocchio"
+        },
+        {
+          "title": "Una di famiglia - The Housemaid, recensione: un thriller che inganna tutti - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Una di famiglia - The Housemaid, recensione: un thriller che inganna tutti Everyeye Cinema"
+        }
+      ]
+    },
+    "Il_ragazzo_e_l'airone": {
+      "fetched_at": "2026-11-06T18:16:43+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il ragazzo e l'airone  è un film d'animazione del 2023 scritto e diretto da Hayao Miyazaki.",
+      "news": [
+        {
+          "title": "Il ragazzo e l'airone, di cosa parla (veramente) il film stasera in tv - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Il ragazzo e l'airone, di cosa parla (veramente) il film stasera in tv Sky TG24"
+        },
+        {
+          "title": "Il ragazzo e l'airone - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Il ragazzo e l'airone Rai.it"
+        },
+        {
+          "title": "“Il ragazzo e l’airone” di Hayao Miyazaki è disponibile in streaming su RaiPlay - Fumettologica",
+          "source": "Fumettologica",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "description": "“Il ragazzo e l’airone” di Hayao Miyazaki è disponibile in streaming su RaiPlay Fumettologica"
+        },
+        {
+          "title": "“Il ragazzo e l’airone”, in prima tv il capolavoro di Hayao Miyazaki, premiato con l’Oscar - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "“Il ragazzo e l’airone”, in prima tv il capolavoro di Hayao Miyazaki, premiato con l’Oscar iO Donna"
+        },
+        {
+          "title": "Dove vedere stasera (in chiaro) Il ragazzo e l'airone, ultimo capolavoro di Miyazaki: fatevi incantare - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Dove vedere stasera (in chiaro) Il ragazzo e l'airone, ultimo capolavoro di Miyazaki: fatevi incantare Corriere Style"
+        },
+        {
+          "title": "“Il ragazzo e l’airone”: trama e trailer - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "“Il ragazzo e l’airone”: trama e trailer TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Il Ragazzo e l'Airone, spiegazione del finale del magnifico film di Hayao Miyazaki - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Il Ragazzo e l'Airone, spiegazione del finale del magnifico film di Hayao Miyazaki Everyeye Cinema"
+        },
+        {
+          "title": "Il ragazzo e l’airone, spiegazione del film da Oscar di Miyazaki: perché è un segnale forte per l’animazione giapponese in tv - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "Il ragazzo e l’airone, spiegazione del film da Oscar di Miyazaki: perché è un segnale forte per l’animazione giapponese in tv Il Messaggero"
+        },
+        {
+          "title": "Hayao Miyazaki non è il “Walt Disney del Giappone”: perché il papà di Studio Ghibli detesta il paragone - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
+          "description": "Hayao Miyazaki non è il “Walt Disney del Giappone”: perché il papà di Studio Ghibli detesta il paragone ComingSoon.it"
+        },
+        {
+          "title": "I film in onda in TV stasera, lunedì 5 gennaio 2026: Il dramma di Edoardo Leo sfida un cult storico - Libero",
+          "source": "Libero",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+          "description": "I film in onda in TV stasera, lunedì 5 gennaio 2026: Il dramma di Edoardo Leo sfida un cult storico Libero"
+        }
+      ]
+    }
+  }
+}

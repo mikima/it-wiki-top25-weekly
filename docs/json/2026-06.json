@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Jeffrey%20Epstein&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Jeffrey_Epstein",
       "article_url": "https://it.wikipedia.org/wiki/Jeffrey_Epstein",
-      "description": "imprenditore e criminale statunitense (1953-2019)",
+      "description": "Finanziere statunitense condannato per reati sessuali, è al centro dei documenti pubblicati dal Dipartimento di giustizia USA il 30 gennaio.",
       "image_filename": "Epstein_2012.jpeg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/5/5b/Epstein_2012.jpeg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Epstein_2012.jpeg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -143,13 +144,14 @@
       "google_news_url": "https://www.google.it/search?q=Maria%20Rita%20Parsi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Maria_Rita_Parsi",
       "article_url": "https://it.wikipedia.org/wiki/Maria_Rita_Parsi",
-      "description": "psicologa, psicoterapeuta e scrittrice italiana (1947-2026)",
+      "description": "Psicologa e scrittrice italiana, nota per l'impegno a tutela dell'infanzia, muore a 78 anni; la notizia viene diffusa il 2 febbraio.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +190,14 @@
       "google_news_url": "https://www.google.it/search?q=Matteo%20Messina%20Denaro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Matteo_Messina_Denaro",
       "article_url": "https://it.wikipedia.org/wiki/Matteo_Messina_Denaro",
-      "description": "mafioso italiano (1962-2023)",
+      "description": "Boss di Cosa Nostra morto nel 2023, è raccontato nella miniserie L'invisibile, in onda su Rai 1 dal 3 febbraio.",
       "image_filename": "Foto_segnaletica_di_Matteo_Messina_Denaro_(2023).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Foto_segnaletica_di_Matteo_Messina_Denaro_%282023%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Foto_segnaletica_di_Matteo_Messina_Denaro_(2023).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +236,14 @@
       "google_news_url": "https://www.google.it/search?q=Francesca%20Lollobrigida&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Francesca_Lollobrigida",
       "article_url": "https://it.wikipedia.org/wiki/Francesca_Lollobrigida",
-      "description": "pattinatrice di velocità su ghiaccio italiana (1991)",
+      "description": "Pattinatrice italiana, il 7 febbraio vince l'oro nei 3000 metri alle Olimpiadi di Milano Cortina con il record olimpico.",
       "image_filename": "Francesca_Lollobrigida_in_2014_-_02.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Francesca_Lollobrigida_in_2014_-_02.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesca_Lollobrigida_in_2014_-_02.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +282,14 @@
       "google_news_url": "https://www.google.it/search?q=Curling&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Curling",
       "article_url": "https://it.wikipedia.org/wiki/Curling",
-      "description": "sport invernale",
+      "description": "Alle Olimpiadi di Milano Cortina, l'8 febbraio Stefania Constantini e Amos Mosaner raggiungono la semifinale del doppio misto.",
       "image_filename": "12-01-20-yog-674.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/12-01-20-yog-674.jpg/1280px-12-01-20-yog-674.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:12-01-20-yog-674.jpg",
       "image_license": "CC BY-SA 3.0 at",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +328,14 @@
       "google_news_url": "https://www.google.it/search?q=Giochi%20olimpici%20invernali&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Giochi_olimpici_invernali",
       "article_url": "https://it.wikipedia.org/wiki/Giochi_olimpici_invernali",
-      "description": "manifestazione sportiva multidisciplinare quadriennale",
+      "description": "Il 6 febbraio si apre a Milano la venticinquesima edizione dei Giochi olimpici invernali, ospitata da Milano e Cortina.",
       "image_filename": "Olympic_rings_without_rims.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1280px-Olympic_rings_without_rims.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Olympic_rings_without_rims.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +374,14 @@
       "google_news_url": "https://www.google.it/search?q=Sabrina%20Impacciatore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Sabrina_Impacciatore",
       "article_url": "https://it.wikipedia.org/wiki/Sabrina_Impacciatore",
-      "description": "attrice italiana (1968-)",
+      "description": "Attrice italiana, il 6 febbraio partecipa alla cerimonia di apertura delle Olimpiadi di Milano Cortina.",
       "image_filename": "Sabrina_Impacciatore_al_Giffoni_Film_Festival_2010.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Sabrina_Impacciatore_al_Giffoni_Film_Festival_2010.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sabrina_Impacciatore_al_Giffoni_Film_Festival_2010.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +420,14 @@
       "google_news_url": "https://www.google.it/search?q=Ghislaine%20Maxwell&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Ghislaine_Maxwell",
       "article_url": "https://it.wikipedia.org/wiki/Ghislaine_Maxwell",
-      "description": "imprenditrice e criminale britannica, figlia di Robert Maxwell ed ex compagna di Jeffrey Epstein",
+      "description": "Ex compagna e complice di Jeffrey Epstein, è legata al caso per cui gli USA pubblicano nuovi documenti il 30 gennaio.",
       "image_filename": "Ghislaine_Maxwell_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ghislaine_Maxwell_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ghislaine_Maxwell_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +466,14 @@
       "google_news_url": "https://www.google.it/search?q=Lindsey%20Vonn&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Lindsey_Vonn",
       "article_url": "https://it.wikipedia.org/wiki/Lindsey_Vonn",
-      "description": "sciatrice alpina statunitense (1984-)",
+      "description": "Sciatrice statunitense, l'8 febbraio cade nella discesa olimpica di Cortina e si frattura la gamba sinistra.",
       "image_filename": "2017_Audi_FIS_Ski_Weltcup_Garmisch-Partenkirchen_Damen_-_Lindsey_Vonn_-_by_2eight_-_8SC8048.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2017_Audi_FIS_Ski_Weltcup_Garmisch-Partenkirchen_Damen_-_Lindsey_Vonn_-_by_2eight_-_8SC8048.jpg/1280px-2017_Audi_FIS_Ski_Weltcup_Garmisch-Partenkirchen_Damen_-_Lindsey_Vonn_-_by_2eight_-_8SC8048.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2017_Audi_FIS_Ski_Weltcup_Garmisch-Partenkirchen_Damen_-_Lindsey_Vonn_-_by_2eight_-_8SC8048.jpg",
       "image_license": "CC BY-SA 3.0 de",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +512,14 @@
       "google_news_url": "https://www.google.it/search?q=Roberto%20Vannacci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Roberto_Vannacci",
       "article_url": "https://it.wikipedia.org/wiki/Roberto_Vannacci",
-      "description": "generale e politico italiano",
+      "description": "Generale ed europarlamentare italiano, il 3 febbraio annuncia l'uscita dalla Lega e la nascita di Futuro Nazionale.",
       "image_filename": "Roberto_Vannacci_MEP_(2024).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Roberto_Vannacci_MEP_%282024%29.jpg/1280px-Roberto_Vannacci_MEP_%282024%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Roberto_Vannacci_MEP_(2024).jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +558,14 @@
       "google_news_url": "https://www.google.it/search?q=Sofia%20Goggia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Sofia_Goggia",
       "article_url": "https://it.wikipedia.org/wiki/Sofia_Goggia",
-      "description": "sciatrice alpina italiana (1992-)",
+      "description": "Sciatrice italiana, l'8 febbraio vince il bronzo nella discesa libera alle Olimpiadi di Milano Cortina.",
       "image_filename": "Sofia_Goggia.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sofia_Goggia.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sofia_Goggia.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +604,14 @@
       "google_news_url": "https://www.google.it/search?q=Hamnet%20-%20Nel%20nome%20del%20figlio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Hamnet_-_Nel_nome_del_figlio",
       "article_url": "https://it.wikipedia.org/wiki/Hamnet_-_Nel_nome_del_figlio",
-      "description": "film del 2025 diretto da Chloé Zhao",
+      "description": "Film di Chloé Zhao ispirato alla famiglia di Shakespeare, esce nei cinema italiani il 5 febbraio.",
       "image_filename": "Hamnet2025.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/85/Hamnet2025.png/1280px-Hamnet2025.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hamnet2025.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +650,14 @@
       "google_news_url": "https://www.google.it/search?q=Stefania%20Constantini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Stefania_Constantini",
       "article_url": "https://it.wikipedia.org/wiki/Stefania_Constantini",
-      "description": "giocatrice di curling italiana",
+      "description": "Giocatrice italiana di curling, l'8 febbraio raggiunge con Amos Mosaner la semifinale olimpica del doppio misto.",
       "image_filename": "Stefania_Constantini_(ITA)_2025.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Stefania_Constantini_%28ITA%29_2025.jpg/1280px-Stefania_Constantini_%28ITA%29_2025.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Stefania_Constantini_(ITA)_2025.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +696,14 @@
       "google_news_url": "https://www.google.it/search?q=Giovanni%20Franzoni%20%28sciatore%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Giovanni_Franzoni_(sciatore)",
       "article_url": "https://it.wikipedia.org/wiki/Giovanni_Franzoni_(sciatore)",
-      "description": "sciatore alpino italiano (2001-)",
+      "description": "Sciatore italiano, il 7 febbraio vince l'argento nella discesa libera alle Olimpiadi di Milano Cortina.",
       "image_filename": "Giovanni_Franzoni.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Giovanni_Franzoni.jpg/1280px-Giovanni_Franzoni.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Franzoni.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +742,14 @@
       "google_news_url": "https://www.google.it/search?q=Askatasuna%20%28centro%20sociale%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Askatasuna_(centro_sociale)",
       "article_url": "https://it.wikipedia.org/wiki/Askatasuna_(centro_sociale)",
-      "description": "centro sociale autogestito italiano",
+      "description": "Centro sociale di Torino, è legato al corteo contro lo sgombero del 31 gennaio, seguito da scontri.",
       "image_filename": "Askatasuna_torino.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Askatasuna_torino.jpg/1280px-Askatasuna_torino.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Askatasuna_torino.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +788,14 @@
       "google_news_url": "https://www.google.it/search?q=Alberto%20Tomba&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Alberto_Tomba",
       "article_url": "https://it.wikipedia.org/wiki/Alberto_Tomba",
-      "description": "sciatore alpino italiano (1966-)",
+      "description": "Ex sciatore italiano, il 6 febbraio accende con Deborah Compagnoni il braciere olimpico alla cerimonia di apertura di Milano Cortina.",
       "image_filename": "Alberto_Tomba_-_Bormio,_1995_-_Coppa_del_Mondo_di_sci_alpino.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/1c/Alberto_Tomba_-_Bormio%2C_1995_-_Coppa_del_Mondo_di_sci_alpino.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alberto_Tomba_-_Bormio%2C_1995_-_Coppa_del_Mondo_di_sci_alpino.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +834,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo%202026&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Festival_di_Sanremo_2026",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo_2026",
-      "description": "76º Festival della canzone italiana",
+      "description": "Il 76º Festival è previsto dal 24 al 28 febbraio; il 31 gennaio Carlo Conti annuncia duetti e cover della quarta serata.",
       "image_filename": "Logo_Festival_di_Sanremo_2026_(con_sottotitolo).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Festival_di_Sanremo_2026_%28con_sottotitolo%29.svg/1280px-Logo_Festival_di_Sanremo_2026_%28con_sottotitolo%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Festival_di_Sanremo_2026_(con_sottotitolo).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +880,14 @@
       "google_news_url": "https://www.google.it/search?q=Ilia%20Malinin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Ilia_Malinin",
       "article_url": "https://it.wikipedia.org/wiki/Ilia_Malinin",
-      "description": "pattinatore artistico su ghiaccio statunitense (2004-)",
+      "description": "Pattinatore artistico statunitense, l'8 febbraio contribuisce all'oro degli USA nella gara a squadre alle Olimpiadi di Milano Cortina.",
       "image_filename": "2026_Ilia_Malinin_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2026_Ilia_Malinin_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2026_Ilia_Malinin_(cropped).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +926,14 @@
       "google_news_url": "https://www.google.it/search?q=Lara%20Naki%20Gutmann&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Lara_Naki_Gutmann",
       "article_url": "https://it.wikipedia.org/wiki/Lara_Naki_Gutmann",
-      "description": "pattinatrice artistica su ghiaccio italiana",
+      "description": "Pattinatrice artistica italiana, l'8 febbraio conquista con la squadra azzurra il bronzo olimpico a Milano Cortina.",
       "image_filename": "Lara_Naki_Gutmann_2025_Skate_America_Free_Skate_03.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lara_Naki_Gutmann_2025_Skate_America_Free_Skate_03.jpg/1280px-Lara_Naki_Gutmann_2025_Skate_America_Free_Skate_03.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lara_Naki_Gutmann_2025_Skate_America_Free_Skate_03.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +972,14 @@
       "google_news_url": "https://www.google.it/search?q=Bryan%20Zaragoza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Bryan_Zaragoza",
       "article_url": "https://it.wikipedia.org/wiki/Bryan_Zaragoza",
-      "description": "calciatore spagnolo (2001-)",
+      "description": "Calciatore spagnolo, il 2 febbraio passa dal Bayern Monaco alla Roma.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1018,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20vita%20va%20cos%C3%AC&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=La_vita_va_cos%C3%AC",
       "article_url": "https://it.wikipedia.org/wiki/La_vita_va_cos%C3%AC",
-      "description": "film del 2025 diretto da Riccardo Milani",
+      "description": "Film del 2025 diretto da Riccardo Milani, arriva su Netflix il 5 febbraio.",
       "image_filename": "LaVitavaCosi.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/93/LaVitavaCosi.jpg/1280px-LaVitavaCosi.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:LaVitavaCosi.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1064,14 @@
       "google_news_url": "https://www.google.it/search?q=Bridgerton&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Bridgerton",
       "article_url": "https://it.wikipedia.org/wiki/Bridgerton",
-      "description": "serie televisiva statunitense del 2020",
+      "description": "Il 29 gennaio esce su Netflix la prima parte della quarta stagione della serie.",
       "image_filename": "Bridgerton.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Bridgerton.png/1280px-Bridgerton.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bridgerton.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1110,14 @@
       "google_news_url": "https://www.google.it/search?q=Nicolas%20Giani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Nicolas_Giani",
       "article_url": "https://it.wikipedia.org/wiki/Nicolas_Giani",
-      "description": "calciatore italiano (1986-2026)",
+      "description": "Ex capitano della SPAL nella promozione in Serie A, muore a 39 anni; la notizia viene diffusa il 2 febbraio.",
       "image_filename": "Nicolas_Giani_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nicolas_Giani_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nicolas_Giani_(cropped).jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1156,14 @@
       "google_news_url": "https://www.google.it/search?q=Amos%20Mosaner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Amos_Mosaner",
       "article_url": "https://it.wikipedia.org/wiki/Amos_Mosaner",
-      "description": "giocatore di curling italiano (1995)",
+      "description": "Giocatore italiano di curling, l'8 febbraio raggiunge con Stefania Constantini la semifinale olimpica del doppio misto.",
       "image_filename": "Amos_Mosaner_(ITA)_2026.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Amos_Mosaner_%28ITA%29_2026.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amos_Mosaner_(ITA)_2026.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 26,
@@ -1178,13 +1202,14 @@
       "google_news_url": "https://www.google.it/search?q=Marty%20Supreme&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Marty_Supreme",
       "article_url": "https://it.wikipedia.org/wiki/Marty_Supreme",
-      "description": "film del 2025 diretto da Josh Safdie",
+      "description": "Film di Josh Safdie con Timothée Chalamet, esce nei cinema italiani il 22 gennaio ed è in classifica per la terza settimana consecutiva.",
       "image_filename": "Marty_Supreme.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/ba/Marty_Supreme.png/1280px-Marty_Supreme.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marty_Supreme.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 27,
@@ -1223,13 +1248,14 @@
       "google_news_url": "https://www.google.it/search?q=J%C3%A9r%C3%A9mie%20Boga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=J%C3%A9r%C3%A9mie_Boga",
       "article_url": "https://it.wikipedia.org/wiki/J%C3%A9r%C3%A9mie_Boga",
-      "description": "calciatore ivoriano (1997-)",
+      "description": "Attaccante ivoriano, il 1° febbraio passa in prestito dal Nizza alla Juventus.",
       "image_filename": "Entrainement_SRFC_Dinan_20150902_-_Jérémie_Boga_(cropped).JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Entrainement_SRFC_Dinan_20150902_-_J%C3%A9r%C3%A9mie_Boga_%28cropped%29.JPG/1280px-Entrainement_SRFC_Dinan_20150902_-_J%C3%A9r%C3%A9mie_Boga_%28cropped%29.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Entrainement_SRFC_Dinan_20150902_-_J%C3%A9r%C3%A9mie_Boga_(cropped).JPG",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 28,
@@ -1268,13 +1294,14 @@
       "google_news_url": "https://www.google.it/search?q=Giovanni%20Malag%C3%B2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Giovanni_Malag%C3%B2",
       "article_url": "https://it.wikipedia.org/wiki/Giovanni_Malag%C3%B2",
-      "description": "imprenditore, dirigente sportivo e giocatore di calcio a 5 italiano",
+      "description": "Presidente della Fondazione Milano Cortina 2026, il 6 febbraio interviene alla cerimonia di apertura delle Olimpiadi.",
       "image_filename": "Giovanni_Malagò_2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Giovanni_Malag%C3%B2_2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Malag%C3%B2_2.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 29,
@@ -1313,13 +1340,14 @@
       "google_news_url": "https://www.google.it/search?q=Le%20cose%20non%20dette&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Le_cose_non_dette",
       "article_url": "https://it.wikipedia.org/wiki/Le_cose_non_dette",
-      "description": "film del 2026 diretto da Gabriele Muccino",
+      "description": "Film di Gabriele Muccino, esce nei cinema italiani il 29 gennaio.",
       "image_filename": "Le_cose_non_dette_(film).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/Le_cose_non_dette_%28film%29.png/1280px-Le_cose_non_dette_%28film%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Le_cose_non_dette_(film).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 30,
@@ -1358,13 +1386,14 @@
       "google_news_url": "https://www.google.it/search?q=Kirsty%20Coventry&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/02/2026,cd_max:02/08/2026&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-02-02&end=2026-02-08&pages=Kirsty_Coventry",
       "article_url": "https://it.wikipedia.org/wiki/Kirsty_Coventry",
-      "description": "nuotatrice e dirigente sportiva zimbabwese (1983-)",
+      "description": "Presidente zimbabwese del CIO ed ex nuotatrice, il 6 febbraio interviene alla cerimonia di apertura delle Olimpiadi di Milano Cortina.",
       "image_filename": "2018-10-17_Boxing_lightweight_Boys'_–60_kg_at_2018_Summer_Youth_Olympics_–_Victory_ceremony_(Martin_Rulsch)_2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2018-10-17_Boxing_lightweight_Boys%27_%E2%80%9360_kg_at_2018_Summer_Youth_Olympics_%E2%80%93_Victory_ceremony_%28Martin_Rulsch%29_2.jpg/1280px-2018-10-17_Boxing_lightweight_Boys%27_%E2%80%9360_kg_at_2018_Summer_Youth_Olympics_%E2%80%93_Victory_ceremony_%28Martin_Rulsch%29_2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2018-10-17_Boxing_lightweight_Boys%27_%E2%80%9360_kg_at_2018_Summer_Youth_Olympics_%E2%80%93_Victory_ceremony_(Martin_Rulsch)_2.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }
