@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=C%27%C3%A8%20ancora%20domani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=C%27%C3%A8_ancora_domani",
       "article_url": "https://it.wikipedia.org/wiki/C%27%C3%A8_ancora_domani",
-      "description": "film del 2023 diretto da Paola Cortellesi",
+      "description": "Film del 2023 diretto da Paola Cortellesi, il 1° aprile Sky ne annuncia il record di ascolti.",
       "image_filename": "CeAncoraDomani.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/63/CeAncoraDomani.png/1280px-CeAncoraDomani.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:CeAncoraDomani.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Carla%20Bruni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Carla_Bruni",
       "article_url": "https://it.wikipedia.org/wiki/Carla_Bruni",
-      "description": "cantautrice, attrice ed ex modella italiana naturalizzata francese (1967-)",
+      "description": "Cantautrice ed ex modella, il 2 aprile è ospite di Francesca Fagnani a Belve su Rai 2.",
       "image_filename": "Carla_Cannes_2021.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Carla_Cannes_2021.jpg/1080px-Carla_Cannes_2021.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carla_Cannes_2021.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Jannik_Sinner",
       "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
-      "description": "tennista italiano (2001-)",
+      "description": "Tennista italiano, il 31 marzo vince il torneo di Miami contro Grigor Dimitrov e il 1° aprile diventa numero 2 al mondo.",
       "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Facebook&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Facebook",
       "article_url": "https://it.wikipedia.org/wiki/Facebook",
-      "description": "social network",
+      "description": "Social network di Meta, è in classifica per l'ottava settimana consecutiva, senza picchi di rilievo.",
       "image_filename": "Screen_of_Facebook_(2).PNG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/1280px-Screen_of_Facebook_%282%29.PNG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screen_of_Facebook_(2).PNG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Societ%C3%A0%20Sportiva%20Calcio%20Napoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Societ%C3%A0_Sportiva_Calcio_Napoli",
       "article_url": "https://it.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
-      "description": "club calcistico italiano di Napoli",
+      "description": "Il 7 aprile il Napoli vince 4-2 contro il Monza in trasferta in Serie A.",
       "image_filename": "SSC_Napoli_2024_(deep_blue_navy).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/1280px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:SSC_Napoli_2024_(deep_blue_navy).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Matteo%20Berrettini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Matteo_Berrettini",
       "article_url": "https://it.wikipedia.org/wiki/Matteo_Berrettini",
-      "description": "tennista italiano (1996-)",
+      "description": "Tennista italiano, il 7 aprile vince il torneo ATP di Marrakech.",
       "image_filename": "Matteo_Berrettini_at_2025_Miami_Open_01_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29.jpg/1280px-Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_01_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20problema%20dei%20tre%20corpi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Il_problema_dei_tre_corpi",
       "article_url": "https://it.wikipedia.org/wiki/Il_problema_dei_tre_corpi",
-      "description": "romanzo del 2006 di Liu Cixin",
+      "description": "Romanzo di fantascienza del 2006 di Liu Cixin, ispira la serie Il problema dei 3 corpi, uscita il 21 marzo su Netflix.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20problema%20dei%203%20corpi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Il_problema_dei_3_corpi",
       "article_url": "https://it.wikipedia.org/wiki/Il_problema_dei_3_corpi",
-      "description": "serie televisiva statunitense del 2024",
+      "description": "La serie di fantascienza tratta dal romanzo di Liu Cixin è uscita il 21 marzo su Netflix.",
       "image_filename": "3_Body_Problem_title_card.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/3_Body_Problem_title_card.png/1280px-3_Body_Problem_title_card.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:3_Body_Problem_title_card.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Fabbricante%20di%20lacrime%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Fabbricante_di_lacrime_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Fabbricante_di_lacrime_(film)",
-      "description": "film del 2024 diretto da Alessandro Genovesi",
+      "description": "Film di Alessandro Genovesi tratto dal romanzo di Erin Doom, esce il 4 aprile su Netflix.",
       "image_filename": "FabbricanteDiLacrime.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/09/FabbricanteDiLacrime.png/1280px-FabbricanteDiLacrime.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FabbricanteDiLacrime.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Kurt%20Cobain&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Kurt_Cobain",
       "article_url": "https://it.wikipedia.org/wiki/Kurt_Cobain",
-      "description": "cantautore e chitarrista statunitense (1967-1994)",
+      "description": "Cantante e chitarrista dei Nirvana, il 5 aprile ricorre il trentesimo anniversario della sua morte.",
       "image_filename": "Nirvana_around_1992_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nirvana_around_1992_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nirvana_around_1992_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Francesca%20Fagnani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Francesca_Fagnani",
       "article_url": "https://it.wikipedia.org/wiki/Francesca_Fagnani",
-      "description": "giornalista e conduttrice televisiva italiana (1976-)",
+      "description": "Giornalista e conduttrice, il 2 aprile torna su Rai 2 con una nuova stagione di Belve.",
       "image_filename": "Francesca_Fagnani_nel_2023.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Francesca_Fagnani_nel_2023.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesca_Fagnani_nel_2023.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=XNXX&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=XNXX",
       "article_url": "https://it.wikipedia.org/wiki/XNXX",
-      "description": "",
+      "description": "Sito pornografico per la condivisione di immagini e video, senza picchi di rilievo nella settimana.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Se%20potessi%20dirti%20addio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Se_potessi_dirti_addio",
       "article_url": "https://it.wikipedia.org/wiki/Se_potessi_dirti_addio",
-      "description": "miniserie televisiva italiana del 2024",
+      "description": "Il 4 e il 5 aprile vanno in onda su Canale 5 la seconda e la terza e ultima puntata della miniserie.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Valeria%20Bruni%20Tedeschi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Valeria_Bruni_Tedeschi",
       "article_url": "https://it.wikipedia.org/wiki/Valeria_Bruni_Tedeschi",
-      "description": "attrice e regista italiana (1964-)",
+      "description": "Attrice e regista, il 2 aprile la sorella Carla Bruni parla del loro rapporto a Belve su Rai 2.",
       "image_filename": "Valeria_Bruni_Tedeschi_at_82nd_Venice_International_Film_Festival-6_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Valeria_Bruni_Tedeschi_at_82nd_Venice_International_Film_Festival-6_%28cropped%29.jpg/1280px-Valeria_Bruni_Tedeschi_at_82nd_Venice_International_Film_Festival-6_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Valeria_Bruni_Tedeschi_at_82nd_Venice_International_Film_Festival-6_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Sh%C5%8Dgun%20%28miniserie%20televisiva%202024%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Sh%C5%8Dgun_(miniserie_televisiva_2024)",
       "article_url": "https://it.wikipedia.org/wiki/Sh%C5%8Dgun_(miniserie_televisiva_2024)",
-      "description": "",
+      "description": "Il 2 aprile esce su Disney+ il settimo episodio della serie tratta dal romanzo di James Clavell.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Bj%C3%B6rn%20Borg&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Bj%C3%B6rn_Borg",
       "article_url": "https://it.wikipedia.org/wiki/Bj%C3%B6rn_Borg",
-      "description": "allenatore di tennis e tennista svedese",
+      "description": "Ex tennista svedese, il 2 aprile Loredana Bertè racconta il loro matrimonio a Belve su Rai 2.",
       "image_filename": "Björn_Borg_(1979)_cropped.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bj%C3%B6rn_Borg_%281979%29_cropped.jpg/1149px-Bj%C3%B6rn_Borg_%281979%29_cropped.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bj%C3%B6rn_Borg_(1979)_cropped.jpg",
       "image_license": "CC BY-SA 3.0 nl",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Igor%20Tudor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Igor_Tudor",
       "article_url": "https://it.wikipedia.org/wiki/Igor_Tudor",
-      "description": "allenatore di calcio e calciatore croato (1978-)",
+      "description": "Allenatore croato della Lazio, il 2 aprile perde 2-0 contro la Juventus nell'andata della semifinale di Coppa Italia.",
       "image_filename": "Igor_Tudor_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Igor_Tudor_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Igor_Tudor_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=YouTube&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=YouTube",
       "article_url": "https://it.wikipedia.org/wiki/YouTube",
-      "description": "sito web che consente la condivisione e visualizzazione di video",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Rocco%20Siffredi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Rocco_Siffredi",
       "article_url": "https://it.wikipedia.org/wiki/Rocco_Siffredi",
-      "description": "attore pornografico italiano (1964-)",
+      "description": "Attore pornografico italiano, il 26 marzo a Le Iene si scusa con la giornalista Alisa Toaff, che lo ha denunciato per molestie.",
       "image_filename": "Rocco_Siffredi_at_Berlinale_2024.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rocco_Siffredi_at_Berlinale_2024.jpg/1280px-Rocco_Siffredi_at_Berlinale_2024.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rocco_Siffredi_at_Berlinale_2024.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Fabbricante%20di%20lacrime&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Fabbricante_di_lacrime",
       "article_url": "https://it.wikipedia.org/wiki/Fabbricante_di_lacrime",
-      "description": "romanzo del 2021 di Erin Doom",
+      "description": "Romanzo del 2021 di Erin Doom, ispira l'omonimo film di Alessandro Genovesi, uscito il 4 aprile su Netflix.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Juventus%20Football%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Juventus_Football_Club",
       "article_url": "https://it.wikipedia.org/wiki/Juventus_Football_Club",
-      "description": "club calcistico italiano di Torino",
+      "description": "Il 2 aprile batte la Lazio 2-0 nell'andata della semifinale di Coppa Italia.",
       "image_filename": "Juventus_FC_-_logo_black_(Italy,_2020).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/1280px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Juventus_FC_-_logo_black_(Italy%2C_2020).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Povere%20creature%21&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Povere_creature%21",
       "article_url": "https://it.wikipedia.org/wiki/Povere_creature%21",
-      "description": "film del 2023 diretto da Yorgos Lanthimos",
+      "description": "Film del 2023 di Yorgos Lanthimos, vince quattro Oscar il 10 marzo e arriva su Disney+ il 14 marzo.",
       "image_filename": "PoorThings2023.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/05/PoorThings2023.png/1280px-PoorThings2023.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:PoorThings2023.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Enzo%20Ferrari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/01/2024,cd_max:04/07/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-04-01&end=2024-04-07&pages=Enzo_Ferrari",
       "article_url": "https://it.wikipedia.org/wiki/Enzo_Ferrari",
-      "description": "imprenditore, dirigente sportivo e pilota automobilistico italiano (1898-1988)",
+      "description": "Fondatore della Ferrari, morto nel 1988, è difficile stabilire il motivo del picco di visite.",
       "image_filename": "Enzo-Ferrari.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Enzo-Ferrari.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Enzo-Ferrari.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

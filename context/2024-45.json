@@ -1,0 +1,1483 @@
+{
+  "week": "2024-45",
+  "start_date": "2024-11-04",
+  "end_date": "2024-11-10",
+  "articles": {
+    "Donald_Trump": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Donald John Trump è un politico, imprenditore e personaggio televisivo statunitense, 47º Presidente degli Stati Uniti d'America dal 2025, in precedenza è stato 45º presidente dal 2017 al 2021.",
+      "news": [
+        {
+          "title": "Donald Trump è tornato: ma il mondo è pronto? - ISPI",
+          "source": "ISPI",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Donald Trump è tornato: ma il mondo è pronto? ISPI"
+        },
+        {
+          "title": "Donald Trump: ecco perché la sua pelle è un po' così - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Donald Trump: ecco perché la sua pelle è un po' così Vanity Fair Italia"
+        },
+        {
+          "title": "Donald Trump sarà il prossimo presidente degli Stati Uniti - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Donald Trump sarà il prossimo presidente degli Stati Uniti Internazionale"
+        },
+        {
+          "title": "Elezioni Usa, cinque punti chiave dopo la vittoria di Donald Trump - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni Usa, cinque punti chiave dopo la vittoria di Donald Trump Euronews.com"
+        },
+        {
+          "title": "Trump Presidente USA: impatto sul clima e ambiente - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Trump Presidente USA: impatto sul clima e ambiente Scienza in rete"
+        },
+        {
+          "title": "Vita in diretta 2024/25 - Donald Trump: Melania non vivrà alla Casa Bianca - 07/11/2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Vita in diretta 2024/25 - Donald Trump: Melania non vivrà alla Casa Bianca - 07/11/2024 - Video RaiPlay"
+        },
+        {
+          "title": "Che ne sarà dei processi contro Trump ora che è stato eletto? - Wired",
+          "source": "Wired",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Che ne sarà dei processi contro Trump ora che è stato eletto? Wired"
+        },
+        {
+          "title": "Storia di Donald Trump, per la seconda volta alla Casa Bianca - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Storia di Donald Trump, per la seconda volta alla Casa Bianca Il Sole 24 ORE"
+        },
+        {
+          "title": "Negli USA vince Trump, ed è subito voglia di Canada - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Negli USA vince Trump, ed è subito voglia di Canada Focus.it"
+        },
+        {
+          "title": "L'”altra” Casa Bianca: la tenuta di Mar-a-Lago, la residenza di Donald Trump a Palm Beach - Dove Viaggi Corriere",
+          "source": "Dove Viaggi Corriere",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "L'”altra” Casa Bianca: la tenuta di Mar-a-Lago, la residenza di Donald Trump a Palm Beach Dove Viaggi Corriere"
+        }
+      ]
+    },
+    "Elon_Musk": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elon Reeve Musk è un imprenditore sudafricano con cittadinanza canadese naturalizzato statunitense.",
+      "news": [
+        {
+          "title": "Nelle scorse ore ho sentito l’amico Elon Musk. Sono convinta che il suo impegno e la sua visione potranno rappresentare un’importante risorsa per gli Stati Uniti e per l’Italia, in uno spirito di collaborazione volto ad affrontare le sfide future. - Instagram",
+          "source": "Instagram",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Nelle scorse ore ho sentito l’amico Elon Musk. Sono convinta che il suo impegno e la sua visione potranno rappresentare un’importante risorsa per gli Stati Uniti e per l’Italia, in uno spirito di collaborazione volto ad affrontare le sfide future. Instagram"
+        },
+        {
+          "title": "Viaggio in USA nel mondo di Elon Musk, controverso imprenditore conservatore che premia Meloni - La7",
+          "source": "La7",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Viaggio in USA nel mondo di Elon Musk, controverso imprenditore conservatore che premia Meloni La7"
+        },
+        {
+          "title": "Ma Starlink esattamente cos’è? E come funziona? - Domus Web",
+          "source": "Domus Web",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Ma Starlink esattamente cos’è? E come funziona? Domus Web"
+        },
+        {
+          "title": "Elezioni Usa: via libera alla \"lotteria\" milionaria di Elon Musk - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni Usa: via libera alla \"lotteria\" milionaria di Elon Musk Euronews.com"
+        },
+        {
+          "title": "Elon Musk potrebbe ricoprire un ruolo chiave nel nuovo governo? - Corriere del Ticino",
+          "source": "Corriere del Ticino",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Elon Musk potrebbe ricoprire un ruolo chiave nel nuovo governo? Corriere del Ticino"
+        },
+        {
+          "title": "Elon Musk socchiude le porte al Tesla Phone (con uno spiraglio) - InsideEVs Italia",
+          "source": "InsideEVs Italia",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elon Musk socchiude le porte al Tesla Phone (con uno spiraglio) InsideEVs Italia"
+        },
+        {
+          "title": "Giorgia Meloni chiama Elon Musk: “La sua visione è importante per gli Usa e per l'Italia” - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Giorgia Meloni chiama Elon Musk: “La sua visione è importante per gli Usa e per l'Italia” RaiNews"
+        },
+        {
+          "title": "Il ruolo di Elon Musk dietro Trump: così inciderà su politiche industriali, rapporti con Ue e fronte interno - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Il ruolo di Elon Musk dietro Trump: così inciderà su politiche industriali, rapporti con Ue e fronte interno Il Fatto Quotidiano"
+        },
+        {
+          "title": "Elon Musk lancia il Robotaxi Cybercab di Tesla, ma il suo sogno rischia di infrangersi. Tutto quello che sappiamo sull’auto IA a guida autonoma - AD Italia",
+          "source": "AD Italia",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elon Musk lancia il Robotaxi Cybercab di Tesla, ma il suo sogno rischia di infrangersi. Tutto quello che sappiamo sull’auto IA a guida autonoma AD Italia"
+        },
+        {
+          "title": "Vivian Jenna Wilson, la figlia transgender di Elon Musk, vuole lasciare gli Stati Uniti - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Vivian Jenna Wilson, la figlia transgender di Elon Musk, vuole lasciare gli Stati Uniti Wired Italia"
+        }
+      ]
+    },
+    "Delitto_di_Avetrana": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il delitto di Avetrana è un fatto di cronaca nera avvenuto il 26 agosto 2010 ad Avetrana, in provincia di Taranto, che ha visto vittima di omicidio la quindicenne Sarah Scazzi, strangolata dalla cugina Sabrina Misseri e dalla zia Cosima Serrano, che ne hanno poi occultato il cadavere assieme allo zio Michele Misseri, simulando un rapimento da parte di terzi. La vicenda ha avuto un grande rilievo mediatico in Italia, culminato nell'annuncio del ritrovamento del cadavere della vittima in diretta sul programma Rai Chi l'ha visto? dove era ospite, in collegamento, la madre di Sarah, Concetta Serrano Spagnolo.",
+      "news": []
+    },
+    "Elezioni_presidenziali_negli_Stati_Uniti_d'America_del_2024": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le elezioni presidenziali negli Stati Uniti d'America del 2024 si sono tenute il 5 novembre e sono state le 60e elezioni presidenziali della storia degli Stati Uniti d'America. Il vincitore delle elezioni è stato Donald Trump, il quale ha prestato giuramento insediandosi come 47º presidente degli Stati Uniti d'America al Campidoglio di Washington il 20 gennaio 2025.",
+      "news": [
+        {
+          "title": "Elezioni USA 2024: sondaggi, popolarità dei candidati e ultime news - Ipsos",
+          "source": "Ipsos",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA 2024: sondaggi, popolarità dei candidati e ultime news Ipsos"
+        },
+        {
+          "title": "Guida alle elezioni presidenziali negli Stati Uniti - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Guida alle elezioni presidenziali negli Stati Uniti Internazionale"
+        },
+        {
+          "title": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali Il Post"
+        },
+        {
+          "title": "Facciamo il punto: elezioni USA - Geopolitica.info",
+          "source": "Geopolitica.info",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Facciamo il punto: elezioni USA Geopolitica.info"
+        },
+        {
+          "title": "Trump contro Harris: le elezioni presidenziali americane 2024 - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Trump contro Harris: le elezioni presidenziali americane 2024 FocusJunior.it"
+        },
+        {
+          "title": "Elezioni Usa 2024, Trump o Harris? Con chi si schierano i partiti italiani - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni Usa 2024, Trump o Harris? Con chi si schierano i partiti italiani Sky TG24"
+        },
+        {
+          "title": "Elezioni presidenziali Usa 2024, i risultati che hanno portato alla vittoria di Trump - LifeGate",
+          "source": "LifeGate",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni presidenziali Usa 2024, i risultati che hanno portato alla vittoria di Trump LifeGate"
+        },
+        {
+          "title": "Come si elegge il o la presidente degli Stati Uniti - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Come si elegge il o la presidente degli Stati Uniti Il Post"
+        }
+      ]
+    },
+    "Kamala_Harris": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Kamala Devi Harris è una politica statunitense, 49ª vicepresidente degli Stati Uniti d'America sotto la presidenza Biden dal 2021 al 2025. Membro del Partito Democratico, Harris è la prima persona asioamericana e afroamericana, nonché la prima donna, a diventare Vicepresidente degli Stati Uniti d'America, mentre in precedenza è stata senatrice per lo stato della California dal 2017 al 2021, 32ª procuratrice generale della California dal 2011 al 2017 ed infine 27ª procuratrice distrettuale di San Francisco dal 2004 al 2011. Harris è stata inoltre la candidata del Partito Democratico nelle elezioni presidenziali del 2024.",
+      "news": [
+        {
+          "title": "What went wrong? Kamala Harris e le radici della sconfitta ‘dem’ - ISPI",
+          "source": "ISPI",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "What went wrong? Kamala Harris e le radici della sconfitta ‘dem’ ISPI"
+        },
+        {
+          "title": "Cosa ha sbagliato Kamala Harris - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Cosa ha sbagliato Kamala Harris Il Post"
+        },
+        {
+          "title": "Gli errori di Kamala Harris - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Gli errori di Kamala Harris Internazionale"
+        },
+        {
+          "title": "Elezioni Usa, il flop delle star di Hollywood pro-Kamala Harris - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni Usa, il flop delle star di Hollywood pro-Kamala Harris Sky TG24"
+        },
+        {
+          "title": "Gli orizzonti di Kamala Harris e del Partito Democratico - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Gli orizzonti di Kamala Harris e del Partito Democratico RaiNews"
+        },
+        {
+          "title": "Trump torna alla Casa Bianca, battuta Kamala Harris - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Trump torna alla Casa Bianca, battuta Kamala Harris Tv2000"
+        },
+        {
+          "title": "Harris parla alla nazione dopo aver ceduto le elezioni a Trump - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Harris parla alla nazione dopo aver ceduto le elezioni a Trump Euronews.com"
+        },
+        {
+          "title": "Kamala Harris, candidata di apparato evasiva. Disagio di neri e ispanici su una donna alla Casa Bianca - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Kamala Harris, candidata di apparato evasiva. Disagio di neri e ispanici su una donna alla Casa Bianca Il Fatto Quotidiano"
+        },
+        {
+          "title": "Perché Kamala Harris ha perso negli stati chiave - Treccani",
+          "source": "Treccani",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "Perché Kamala Harris ha perso negli stati chiave Treccani"
+        },
+        {
+          "title": "Elezioni Usa 2024, Kamala Harris e il discorso dopo la sconfitta: «Riempiamo il cielo di stelle» - Vogue",
+          "source": "Vogue",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni Usa 2024, Kamala Harris e il discorso dopo la sconfitta: «Riempiamo il cielo di stelle» Vogue"
+        }
+      ]
+    },
+    "Parthenope_(film)": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Parthenope è un film del 2024 scritto, diretto e co-prodotto da Paolo Sorrentino.",
+      "news": [
+        {
+          "title": "“Parthenope” di Paolo Sorrentino: un viaggio nell’ambiguità del desiderio - L'indiependente",
+          "source": "L'indiependente",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "“Parthenope” di Paolo Sorrentino: un viaggio nell’ambiguità del desiderio L'indiependente"
+        },
+        {
+          "title": "Vedere Parthenope fino in fondo è stato uno sforzo enorme - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Vedere Parthenope fino in fondo è stato uno sforzo enorme GQ Italia"
+        },
+        {
+          "title": "Parthenope, il film di Sorrentino è un museo. Ecco tutti i riferimenti nei quadri più famosi - Artuu Magazine",
+          "source": "Artuu Magazine",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Parthenope, il film di Sorrentino è un museo. Ecco tutti i riferimenti nei quadri più famosi Artuu Magazine"
+        },
+        {
+          "title": "Parthenope, le location dove è stato girato il film di Paolo Sorrentino. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Parthenope, le location dove è stato girato il film di Paolo Sorrentino. FOTO Sky TG24"
+        },
+        {
+          "title": "Dove è stato girato “Parthenope”: le location scelte da Paolo Sorrentino per celebrare la grande bellezza di Napoli - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 05 Nov 2024 15:50:54 GMT",
+          "description": "Dove è stato girato “Parthenope”: le location scelte da Paolo Sorrentino per celebrare la grande bellezza di Napoli Radio Deejay"
+        },
+        {
+          "title": "\"Parthenope\". Paolo Sorrentino e quella superficialità magnificamente nascosta - SentireAscoltare",
+          "source": "SentireAscoltare",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "\"Parthenope\". Paolo Sorrentino e quella superficialità magnificamente nascosta SentireAscoltare"
+        },
+        {
+          "title": "Qual è il significato di Parthenope: mistero o truffa, il film di Paolo Sorrentino divide et impera al cinema - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Qual è il significato di Parthenope: mistero o truffa, il film di Paolo Sorrentino divide et impera al cinema L'Unità"
+        },
+        {
+          "title": "Parthenope di Sorrentino, \"è fatto di acqua e sale\": Il significato simbolico del figlio del professor Marotta - Grandenapoli.it",
+          "source": "Grandenapoli.it",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "Parthenope di Sorrentino, \"è fatto di acqua e sale\": Il significato simbolico del figlio del professor Marotta Grandenapoli.it"
+        },
+        {
+          "title": "Ma \"Parthenope\" è un film blasfemo? - Famiglia Cristiana",
+          "source": "Famiglia Cristiana",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Ma \"Parthenope\" è un film blasfemo? Famiglia Cristiana"
+        },
+        {
+          "title": "”È fatto di acqua e sale“, il significato del figlio del professore di Parthenope: chi è e che cosa vuol dire - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 09 Nov 2024 08:00:00 GMT",
+          "description": "”È fatto di acqua e sale“, il significato del figlio del professore di Parthenope: chi è e che cosa vuol dire Fanpage"
+        }
+      ]
+    },
+    "Elezioni_presidenziali_negli_Stati_Uniti_d'America_del_2020": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le elezioni presidenziali negli Stati Uniti d'America del 2020 si sono tenute il 3 novembre e sono state le 59e elezioni presidenziali della storia degli Stati Uniti.",
+      "news": [
+        {
+          "title": "Guida alle elezioni presidenziali negli Stati Uniti - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Guida alle elezioni presidenziali negli Stati Uniti Internazionale"
+        },
+        {
+          "title": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali Il Post"
+        },
+        {
+          "title": "I risultati delle elezioni negli Stati Uniti - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "I risultati delle elezioni negli Stati Uniti Pagella Politica"
+        },
+        {
+          "title": "Donald Trump è il nuovo Presidente degli Stati Uniti, per la seconda volta vince le elezioni - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Donald Trump è il nuovo Presidente degli Stati Uniti, per la seconda volta vince le elezioni Fanpage"
+        },
+        {
+          "title": "RISULTATI DELLE Elezioni Americane 2024: I DATI DEFINITIVI - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 05 Nov 2024 17:37:57 GMT",
+          "description": "RISULTATI DELLE Elezioni Americane 2024: I DATI DEFINITIVI Sky TG24"
+        },
+        {
+          "title": "Chi è Donald Trump, il 47° Presidente americano che ha vinto le elezioni USA 2024 contro Harris - Geopop",
+          "source": "Geopop",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Chi è Donald Trump, il 47° Presidente americano che ha vinto le elezioni USA 2024 contro Harris Geopop"
+        },
+        {
+          "title": "Elezioni Usa 2024, Trump o Harris? Con chi si schierano i partiti italiani - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni Usa 2024, Trump o Harris? Con chi si schierano i partiti italiani Sky TG24"
+        }
+      ]
+    },
+    "883_(gruppo_musicale)": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gli 883 sono stati un gruppo musicale pop rock italiano formatosi a Pavia nel 1988 e composto inizialmente da Max Pezzali e Mauro Repetto, e successivamente da Pezzali e altri musicisti sino al 2002, quando Max Pezzali decise di continuare la propria carriera come solista.",
+      "news": [
+        {
+          "title": "MUSICA «Gli 883 sono patrimonio di tutti: che bella la serie che li racconta» - Il Cittadino di Lodi",
+          "source": "Il Cittadino di Lodi",
+          "pubDate": "Sat, 09 Nov 2024 08:00:00 GMT",
+          "description": "MUSICA «Gli 883 sono patrimonio di tutti: che bella la serie che li racconta» Il Cittadino di Lodi"
+        },
+        {
+          "title": "883: amore disilluso, vita di provincia e canzoni che parlavano a tutti - Onda Musicale",
+          "source": "Onda Musicale",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "883: amore disilluso, vita di provincia e canzoni che parlavano a tutti Onda Musicale"
+        },
+        {
+          "title": "Chiara e Paola Iezzi coriste per gli 883, l'addio a Max Pezzali con un fax: \"Fu lui a renderci un duo\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Chiara e Paola Iezzi coriste per gli 883, l'addio a Max Pezzali con un fax: \"Fu lui a renderci un duo\" Fanpage"
+        },
+        {
+          "title": "Max Pezzali, il legame (fortissimo) con mamma Alba: azionista nella società che gestisce gli affari, lui vive ancora nella casa dei genitori - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Max Pezzali, il legame (fortissimo) con mamma Alba: azionista nella società che gestisce gli affari, lui vive ancora nella casa dei genitori Leggo.it"
+        },
+        {
+          "title": "Ma sei Serial? Il nuovo episodio dedicato a Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883 - Gamesurf",
+          "source": "Gamesurf",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Ma sei Serial? Il nuovo episodio dedicato a Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883 Gamesurf"
+        },
+        {
+          "title": "Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883 - La recensione - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883 - La recensione IGN Italia"
+        },
+        {
+          "title": "Solo a 56 anni Max Pezzali ha finito la sua vita da bamboccione. Mamma Alba ha donato al figlio la maggioranza delle sue società musicali - Open",
+          "source": "Open",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Solo a 56 anni Max Pezzali ha finito la sua vita da bamboccione. Mamma Alba ha donato al figlio la maggioranza delle sue società musicali Open"
+        },
+        {
+          "title": "883, Max Pezzali e Mauro Repetto: c’è la possibilità di una reunion dopo Cecchetto? La serie tv Sky “Hanno ucciso l’uomo ragno”, le parole del cofondatore della band e quelle dell’attore che lo interpreta, Matteo Oscar Giuggioli - Mowmag.com",
+          "source": "Mowmag.com",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "883, Max Pezzali e Mauro Repetto: c’è la possibilità di una reunion dopo Cecchetto? La serie tv Sky “Hanno ucciso l’uomo ragno”, le parole del cofondatore della band e quelle dell’attore che lo interpreta, Matteo Oscar Giuggioli Mowmag.com"
+        },
+        {
+          "title": "Max Pezzali, svolta multi-milionaria a 56 anni: la firma della madre che cambia tutto | Libero Quotidiano.it - Libero Quotidiano",
+          "source": "Libero Quotidiano",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Max Pezzali, svolta multi-milionaria a 56 anni: la firma della madre che cambia tutto | Libero Quotidiano.it Libero Quotidiano"
+        }
+      ]
+    },
+    "Presidenti_degli_Stati_Uniti_d'America": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Questa lista cita e spiega in breve i nomi e le informazioni principali dei 47 presidenti che hanno guidato gli Stati Uniti d'America dall'adozione della Costituzione a oggi.",
+      "news": [
+        {
+          "title": "Negli USA vince Trump, ed è subito voglia di Canada - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Negli USA vince Trump, ed è subito voglia di Canada Focus.it"
+        },
+        {
+          "title": "Telefonata del Presidente Meloni con il Presidente eletto degli Stati Uniti Trump - Governo.it",
+          "source": "Governo.it",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Telefonata del Presidente Meloni con il Presidente eletto degli Stati Uniti Trump Governo.it"
+        },
+        {
+          "title": "Tutti i Presidenti USA da George Washington a Donald Trump, l’elenco completo - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Tutti i Presidenti USA da George Washington a Donald Trump, l’elenco completo Fanpage"
+        },
+        {
+          "title": "Tutti i presidenti degli Stati Uniti d'America: l'elenco completo - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Tutti i presidenti degli Stati Uniti d'America: l'elenco completo Virgilio"
+        },
+        {
+          "title": "Trump Presidente USA: impatto sul clima e ambiente - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Trump Presidente USA: impatto sul clima e ambiente Scienza in rete"
+        },
+        {
+          "title": "I Papi e gli Stati Uniti, da Pio IX a Francesco - La Voce e il Tempo",
+          "source": "La Voce e il Tempo",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "I Papi e gli Stati Uniti, da Pio IX a Francesco La Voce e il Tempo"
+        },
+        {
+          "title": "Facciamo il punto: elezioni USA - Geopolitica.info",
+          "source": "Geopolitica.info",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Facciamo il punto: elezioni USA Geopolitica.info"
+        },
+        {
+          "title": "Elezioni USA, le frasi più celebri dei presidenti degli Stati Uniti - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA, le frasi più celebri dei presidenti degli Stati Uniti Libreriamo"
+        },
+        {
+          "title": "Volete incontrare tutti i Presidenti americani? A Rapid City li fanno di bronzo e li mettono agli angoli dell… - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Volete incontrare tutti i Presidenti americani? A Rapid City li fanno di bronzo e li mettono agli angoli dell… La Stampa"
+        },
+        {
+          "title": "Perché Elon Musk non può diventare Presidente degli Stati Uniti, le ambizioni politiche del magnate alleato di Trump - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Perché Elon Musk non può diventare Presidente degli Stati Uniti, le ambizioni politiche del magnate alleato di Trump L'Unità"
+        }
+      ]
+    },
+    "Qui_non_è_Hollywood": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Avetrana - Qui non è Hollywood è una miniserie televisiva italiana diretta da Pippo Mezzapesa e prodotta da Matteo Rovere, tratta dal saggio Sarah. La ragazza di Avetrana di Carmine Gazzanni e Flavia Piccinni e pubblicato da Fandango Libri, che racconta il delitto di Avetrana.",
+      "news": [
+        {
+          "title": "Dov'è stata girata \"Qui non è Hollywood\"? La serie sul delitto Scazzi - Idealista",
+          "source": "Idealista",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Dov'è stata girata \"Qui non è Hollywood\"? La serie sul delitto Scazzi Idealista"
+        },
+        {
+          "title": "\"Qui non è Hollywood\": è in streaming la serie su Sarah Scazzi - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "\"Qui non è Hollywood\": è in streaming la serie su Sarah Scazzi RaiNews"
+        },
+        {
+          "title": "«Qui non è Hollywood»: la serie sul delitto di Avetrana è ancora la più vista su Disney+ - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Sat, 09 Nov 2024 08:00:00 GMT",
+          "description": "«Qui non è Hollywood»: la serie sul delitto di Avetrana è ancora la più vista su Disney+ La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Qui non è Hollywood: chi è la giornalista che vediamo nella serie? - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Sun, 10 Nov 2024 08:00:00 GMT",
+          "description": "Qui non è Hollywood: chi è la giornalista che vediamo nella serie? Best Movie"
+        },
+        {
+          "title": "Qui Non È Hollywood 1x01 - Sarah - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Qui Non È Hollywood 1x01 - Sarah Recenserie"
+        }
+      ]
+    },
+    "Melania_Trump": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Melanija Knavs, germanizzata come Melania Knauss e coniugata Trump, è un'ex modella slovena naturalizzata statunitense, terza moglie di Donald Trump, 45º e 47º Presidente degli Stati Uniti d'America dal 2017 al 2021 e nuovamente dal 2025.",
+      "news": [
+        {
+          "title": "Il ritorno da First Lady di Melania Trump: sorrisi e \"power dress\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Il ritorno da First Lady di Melania Trump: sorrisi e \"power dress\" RaiNews"
+        },
+        {
+          "title": "Melania Trump, il beauty look della First Lady dopo la vittoria repubblicana - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Melania Trump, il beauty look della First Lady dopo la vittoria repubblicana Vanity Fair Italia"
+        },
+        {
+          "title": "Vita in diretta 2024/25 - Donald Trump: Melania non vivrà alla Casa Bianca - 07/11/2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Vita in diretta 2024/25 - Donald Trump: Melania non vivrà alla Casa Bianca - 07/11/2024 - Video RaiPlay"
+        },
+        {
+          "title": "Tornano le teorie su una sosia di Melania Trump: il colore dei capelli svela la verità? - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Tornano le teorie su una sosia di Melania Trump: il colore dei capelli svela la verità? Il Fatto Quotidiano"
+        },
+        {
+          "title": "Il primo look da First Lady di Melania Trump: al party post vittoria punta sulla sobrietà - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Il primo look da First Lady di Melania Trump: al party post vittoria punta sulla sobrietà Fanpage"
+        },
+        {
+          "title": "Fact check: No, Melania Trump non ha usato una controfigura per le elezioni americane - Euronews",
+          "source": "Euronews",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Fact check: No, Melania Trump non ha usato una controfigura per le elezioni americane Euronews"
+        },
+        {
+          "title": "Chi era Melania Trump prima di essere First Lady: il matrimonio, il figlio e il patrimonio - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Chi era Melania Trump prima di essere First Lady: il matrimonio, il figlio e il patrimonio L'Unità"
+        },
+        {
+          "title": "Dal cuore della Slovenia alla Casa Bianca: il ritorno di Melania Trump nei panni di first lady - il Nord Est",
+          "source": "il Nord Est",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Dal cuore della Slovenia alla Casa Bianca: il ritorno di Melania Trump nei panni di first lady il Nord Est"
+        },
+        {
+          "title": "Melania Trump, storia della first lady che visse due volte - Milano Finanza",
+          "source": "Milano Finanza",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Melania Trump, storia della first lady che visse due volte Milano Finanza"
+        },
+        {
+          "title": "Melania Trump, il guardaroba di una first lady che ama i tailleur e i pois. E si ispira a Jackie Kennedy - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Melania Trump, il guardaroba di una first lady che ama i tailleur e i pois. E si ispira a Jackie Kennedy Corriere della Sera"
+        }
+      ]
+    },
+    "Elezioni_presidenziali_negli_Stati_Uniti_d'America_del_2016": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le elezioni presidenziali negli Stati Uniti d'America del 2016 si sono tenute l'8 novembre e sono state le cinquantottesime elezioni presidenziali della storia degli Stati Uniti.",
+      "news": [
+        {
+          "title": "Guida alle elezioni presidenziali negli Stati Uniti - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Guida alle elezioni presidenziali negli Stati Uniti Internazionale"
+        },
+        {
+          "title": "Facciamo il punto: elezioni USA - Geopolitica.info",
+          "source": "Geopolitica.info",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Facciamo il punto: elezioni USA Geopolitica.info"
+        },
+        {
+          "title": "I risultati delle elezioni negli Stati Uniti - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "I risultati delle elezioni negli Stati Uniti Pagella Politica"
+        },
+        {
+          "title": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali Il Post"
+        },
+        {
+          "title": "Presidenziali U.S.A. , ecco come funzionano le elezioni americane. Spiegazione semplice del sistema elettorale degli Stati Uniti - Studenti.it",
+          "source": "Studenti.it",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Presidenziali U.S.A. , ecco come funzionano le elezioni americane. Spiegazione semplice del sistema elettorale degli Stati Uniti Studenti.it"
+        },
+        {
+          "title": "Chi è Donald Trump, il 47° Presidente americano che ha vinto le elezioni USA 2024 contro Harris - Geopop",
+          "source": "Geopop",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Chi è Donald Trump, il 47° Presidente americano che ha vinto le elezioni USA 2024 contro Harris Geopop"
+        },
+        {
+          "title": "È il giorno delle elezioni negli USA, come funziona il meccanismo del voto - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "È il giorno delle elezioni negli USA, come funziona il meccanismo del voto San Marino Rtv"
+        },
+        {
+          "title": "Undici grafici sulle elezioni Usa - Lavoce.info",
+          "source": "Lavoce.info",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Undici grafici sulle elezioni Usa Lavoce.info"
+        }
+      ]
+    },
+    "Mauro_Repetto": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mauro Antonio Repetto è un paroliere e compositore italiano.",
+      "news": [
+        {
+          "title": "Come la serie sugli 883 mi ha aiutato a capire Mauro Repetto - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Come la serie sugli 883 mi ha aiutato a capire Mauro Repetto GQ Italia"
+        },
+        {
+          "title": "Mauro Repetto: “Come mai era scritta per un altro, un discografico disse ‘Fa schifo’ e la cantammo noi” - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Mauro Repetto: “Come mai era scritta per un altro, un discografico disse ‘Fa schifo’ e la cantammo noi” Radio Deejay"
+        },
+        {
+          "title": "Hanno Ucciso l’Uomo Ragno: la vera assurda storia di Mauro Repetto - www.bestmovie.it",
+          "source": "www.bestmovie.it",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Hanno Ucciso l’Uomo Ragno: la vera assurda storia di Mauro Repetto www.bestmovie.it"
+        },
+        {
+          "title": "Mauro Repetto ospite del Tedx Taranto: «Un nuovo gruppo 883? Mai senza Pezzali» - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Sun, 10 Nov 2024 08:00:00 GMT",
+          "description": "Mauro Repetto ospite del Tedx Taranto: «Un nuovo gruppo 883? Mai senza Pezzali» La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Mauro Repetto: \"La fiction? Un po' romanzata. Non farei mai un nuovo gruppo 883. Con Pezzali berrei una birra\" - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "Mauro Repetto: \"La fiction? Un po' romanzata. Non farei mai un nuovo gruppo 883. Con Pezzali berrei una birra\" HuffPost Italia"
+        },
+        {
+          "title": "Chi c'è dietro Mauro Repetto? - Gabriele Parpiglia - News",
+          "source": "Gabriele Parpiglia - News",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Chi c'è dietro Mauro Repetto? Gabriele Parpiglia - News"
+        },
+        {
+          "title": "Mauro Repetto canta e si racconta: \"Non rifarei mai gli 883 senza Max Pezzali. La serie su di noi? Romanzata ma ci diverte\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "Mauro Repetto canta e si racconta: \"Non rifarei mai gli 883 senza Max Pezzali. La serie su di noi? Romanzata ma ci diverte\" la Repubblica"
+        },
+        {
+          "title": "“Hanno ucciso l’uomo ragno” è la grande rivincita di Mauro Repetto - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "“Hanno ucciso l’uomo ragno” è la grande rivincita di Mauro Repetto La Stampa"
+        },
+        {
+          "title": "883, Max Pezzali e Mauro Repetto: c’è la possibilità di una reunion dopo Cecchetto? La serie tv Sky “Hanno ucciso l’uomo ragno”, le parole del cofondatore della band e quelle dell’attore che lo interpreta, Matteo Oscar Giuggioli - Mowmag.com",
+          "source": "Mowmag.com",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "883, Max Pezzali e Mauro Repetto: c’è la possibilità di una reunion dopo Cecchetto? La serie tv Sky “Hanno ucciso l’uomo ragno”, le parole del cofondatore della band e quelle dell’attore che lo interpreta, Matteo Oscar Giuggioli Mowmag.com"
+        },
+        {
+          "title": "Mauro Repetto è \"quel tanto così\" che mancava alla serialità italiana - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Sat, 09 Nov 2024 08:00:00 GMT",
+          "description": "Mauro Repetto è \"quel tanto così\" che mancava alla serialità italiana Hall of Series"
+        }
+      ]
+    },
+    "Quincy_Jones": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Quincy Delight Jones Jr. è stato un produttore discografico, compositore, arrangiatore e direttore d'orchestra statunitense, tra i più celebrati produttori della storia, specie nell'ambito del jazz e della black music.",
+      "news": [
+        {
+          "title": "Quincy Jones: «Riconosci il valore della vita». - Il Giornale della Musica",
+          "source": "Il Giornale della Musica",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Quincy Jones: «Riconosci il valore della vita». Il Giornale della Musica"
+        },
+        {
+          "title": "È morto Quincy Jones, gigante dell'industria musicale - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "È morto Quincy Jones, gigante dell'industria musicale AGI"
+        },
+        {
+          "title": "Quincy Jones, il domatore di divi: 20 produzioni per capire la sua grandezza - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Quincy Jones, il domatore di divi: 20 produzioni per capire la sua grandezza Rolling Stone Italia"
+        },
+        {
+          "title": "Quincy Jones, 5 canzoni che spiegano chi era davvero - Esquire",
+          "source": "Esquire",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Quincy Jones, 5 canzoni che spiegano chi era davvero Esquire"
+        },
+        {
+          "title": "“Leave space for God”, l’eredità musicale del maestro Quincy Jones - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "“Leave space for God”, l’eredità musicale del maestro Quincy Jones Vatican News"
+        },
+        {
+          "title": "Addio a Quincy Jones, leggendario produttore. Aveva 91 anni e lavorò con Michael Jackson e Sinatra - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Addio a Quincy Jones, leggendario produttore. Aveva 91 anni e lavorò con Michael Jackson e Sinatra RaiNews"
+        },
+        {
+          "title": "Quincy Jones, l’uomo che capiva la musica - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Quincy Jones, l’uomo che capiva la musica Internazionale"
+        },
+        {
+          "title": "È morto Quincy Jones - RSI Radiotelevisione svizzera",
+          "source": "RSI Radiotelevisione svizzera",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "È morto Quincy Jones RSI Radiotelevisione svizzera"
+        },
+        {
+          "title": "È morto Quincy Jones - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "È morto Quincy Jones Il Post"
+        },
+        {
+          "title": "Addio a Quincy Jones, lo storico produttore di Michael Jackson, si spegne a 91 anni - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Addio a Quincy Jones, lo storico produttore di Michael Jackson, si spegne a 91 anni Vanity Fair Italia"
+        }
+      ]
+    },
+    "Joe_Biden": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Joseph Robinette Biden Jr., detto Joe, è un politico statunitense, 46º presidente degli Stati Uniti d'America dal 2021 al 2025.",
+      "news": [
+        {
+          "title": "L'eredità di Joe Biden - Appunti - di Stefano Feltri",
+          "source": "Appunti - di Stefano Feltri",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "L'eredità di Joe Biden Appunti - di Stefano Feltri"
+        },
+        {
+          "title": "Messaggio alla nazione di Biden: \"È stata una presidenza storica\" - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Messaggio alla nazione di Biden: \"È stata una presidenza storica\" Euronews.com"
+        },
+        {
+          "title": "Goodbye Biden, il presidente che ha risanato l’economia ma non ha capito il nuovo sogno americano - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Goodbye Biden, il presidente che ha risanato l’economia ma non ha capito il nuovo sogno americano la Repubblica"
+        },
+        {
+          "title": "Dove guarda l’America - Comunione e Liberazione",
+          "source": "Comunione e Liberazione",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Dove guarda l’America Comunione e Liberazione"
+        },
+        {
+          "title": "Cosa aspettarsi da Trump alla Casa Bianca - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Cosa aspettarsi da Trump alla Casa Bianca Internazionale"
+        },
+        {
+          "title": "Joe Biden inciampa nella sabbia, la passeggiata con la moglie Jill diventa «mission impossible» - Il video - Open",
+          "source": "Open",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "Joe Biden inciampa nella sabbia, la passeggiata con la moglie Jill diventa «mission impossible» - Il video Open"
+        },
+        {
+          "title": "Biden, l’addio è una lezione di stile - Corriere del Ticino",
+          "source": "Corriere del Ticino",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Biden, l’addio è una lezione di stile Corriere del Ticino"
+        },
+        {
+          "title": "Cosa ha sbagliato Kamala Harris - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Cosa ha sbagliato Kamala Harris Il Post"
+        },
+        {
+          "title": "Gli errori di Kamala Harris - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Gli errori di Kamala Harris Internazionale"
+        },
+        {
+          "title": "I sette stati che decideranno le elezioni statunitensi - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "I sette stati che decideranno le elezioni statunitensi Internazionale"
+        }
+      ]
+    },
+    "Max_Pezzali": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Massimo Pezzali, detto Max, è un cantautore italiano.",
+      "news": [
+        {
+          "title": "Max Pezzali annuncia lo show di Capodanno insieme al Deejay Time: “Chiudiamo l’anno in bellezza” - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Max Pezzali annuncia lo show di Capodanno insieme al Deejay Time: “Chiudiamo l’anno in bellezza” Radio Deejay"
+        },
+        {
+          "title": "Max Pezzali, concerto a Capodanno a Milano: “Chiudiamo l’anno in bellezza”. I biglietti - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Max Pezzali, concerto a Capodanno a Milano: “Chiudiamo l’anno in bellezza”. I biglietti Il Giorno"
+        },
+        {
+          "title": "Solo a 56 anni Max Pezzali ha finito la sua vita da bamboccione. Mamma Alba ha donato al figlio la maggioranza delle sue società musicali - Open",
+          "source": "Open",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Solo a 56 anni Max Pezzali ha finito la sua vita da bamboccione. Mamma Alba ha donato al figlio la maggioranza delle sue società musicali Open"
+        },
+        {
+          "title": "Max Pezzali, il legame (fortissimo) con mamma Alba: lui vive ancora nella casa dei genitori - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Max Pezzali, il legame (fortissimo) con mamma Alba: lui vive ancora nella casa dei genitori Il Mattino"
+        },
+        {
+          "title": "Max Pezzali \"cuore di mamma\": vive nella casa dei genitori e diventa milionario - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Max Pezzali \"cuore di mamma\": vive nella casa dei genitori e diventa milionario Il Fatto Quotidiano"
+        },
+        {
+          "title": "Milano canta con Max Pezzali a Capodanno. Da quando si possono acquistare i biglietti - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Mon, 04 Nov 2024 14:36:30 GMT",
+          "description": "Milano canta con Max Pezzali a Capodanno. Da quando si possono acquistare i biglietti MilanoToday"
+        },
+        {
+          "title": "Biglietti concerto Max Pezzali 2025 a Roma, Palazzo dello Sport - Team World",
+          "source": "Team World",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Biglietti concerto Max Pezzali 2025 a Roma, Palazzo dello Sport Team World"
+        },
+        {
+          "title": "Repetto: «Non farei mai un nuovo gruppo 883 senza Max Pezzali. Un caffé con lui? Piuttosto una birra» - Corriere Bari",
+          "source": "Corriere Bari",
+          "pubDate": "Sun, 10 Nov 2024 08:00:00 GMT",
+          "description": "Repetto: «Non farei mai un nuovo gruppo 883 senza Max Pezzali. Un caffé con lui? Piuttosto una birra» Corriere Bari"
+        },
+        {
+          "title": "Max Pezzali annuncia un concerto di Capodanno: a Milano lo show per l’ultimo dell’anno - Agenzia Dire",
+          "source": "Agenzia Dire",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Max Pezzali annuncia un concerto di Capodanno: a Milano lo show per l’ultimo dell’anno Agenzia Dire"
+        },
+        {
+          "title": "Mauro Repetto: “Come mai era scritta per un altro, un discografico disse ‘Fa schifo’ e la cantammo noi” - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Mauro Repetto: “Come mai era scritta per un altro, un discografico disse ‘Fa schifo’ e la cantammo noi” Radio Deejay"
+        }
+      ]
+    },
+    "Lidia_Poët": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lidia Poët è stata un'avvocata italiana, la prima donna a entrare nell'Ordine degli avvocati in Italia.\nRese importanti contributi per la realizzazione dell'attuale diritto penitenziario. Partecipò attivamente alla realizzazione del programma del primo congresso delle donne italiane tenutosi a Roma nel 1908.",
+      "news": [
+        {
+          "title": "La scoperta del caffè di Lidia Poët, l’avvocata protagonista della serie Netflix: \"Ti rimette in vita\" - Gambero Rosso",
+          "source": "Gambero Rosso",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "La scoperta del caffè di Lidia Poët, l’avvocata protagonista della serie Netflix: \"Ti rimette in vita\" Gambero Rosso"
+        },
+        {
+          "title": "Una serie da non perdere: \"La legge di Lidia Poët 2\" - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Una serie da non perdere: \"La legge di Lidia Poët 2\" Amica.it"
+        },
+        {
+          "title": "La Legge di Lidia Poet 2, la spiegazione del finale della serie con Matilda De Angelis - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Sat, 09 Nov 2024 08:00:00 GMT",
+          "description": "La Legge di Lidia Poet 2, la spiegazione del finale della serie con Matilda De Angelis Best Movie"
+        },
+        {
+          "title": "Pier Luigi Pasino, “Come Lidia Poët mi ha insegnato a gestire lo stress” - Men's Health",
+          "source": "Men's Health",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Pier Luigi Pasino, “Come Lidia Poët mi ha insegnato a gestire lo stress” Men's Health"
+        },
+        {
+          "title": "'La legge di Lidia Poët 3' si farà? Ecco cosa sappiamo - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "'La legge di Lidia Poët 3' si farà? Ecco cosa sappiamo Taxidrivers.it"
+        },
+        {
+          "title": "Lidia Poët 2: un concentrato di spregiudicatezza e carisma - MovieMag",
+          "source": "MovieMag",
+          "pubDate": "Sat, 09 Nov 2024 08:00:00 GMT",
+          "description": "Lidia Poët 2: un concentrato di spregiudicatezza e carisma MovieMag"
+        },
+        {
+          "title": "\"I capolavori hanno la capacità di ispirarti per sempre\" Gianmarco Saurino - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "\"I capolavori hanno la capacità di ispirarti per sempre\" Gianmarco Saurino ELLE"
+        },
+        {
+          "title": "'La legge di Lidia Poët' La seconda stagione che tutti aspettavamo - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "'La legge di Lidia Poët' La seconda stagione che tutti aspettavamo Taxidrivers.it"
+        },
+        {
+          "title": "La legge di Lidia Poet 2: come finisce la serie Netflix? Spiegazione del finale - Everyeye Serie TV",
+          "source": "Everyeye Serie TV",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "La legge di Lidia Poet 2: come finisce la serie Netflix? Spiegazione del finale Everyeye Serie TV"
+        },
+        {
+          "title": "La Legge di Lidia Poët ha tutto - Davide Maggio",
+          "source": "Davide Maggio",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "La Legge di Lidia Poët ha tutto Davide Maggio"
+        }
+      ]
+    },
+    "Hanno_ucciso_l'Uomo_Ragno_-_La_leggendaria_storia_degli_883": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La leggendaria storia degli 883 è una serie televisiva italiana prodotta da Sky Studios e Groenlandia e trasmessa su Sky Serie e in streaming su Now dall'11 ottobre 2024.",
+      "news": [
+        {
+          "title": "Hanno ucciso l'Uomo Ragno, la recensione della serie sugli 883 - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Hanno ucciso l'Uomo Ragno, la recensione della serie sugli 883 Sentieri selvaggi"
+        },
+        {
+          "title": "Hanno ucciso l’uomo ragno – La leggendaria storia degli 883 - Nocturno",
+          "source": "Nocturno",
+          "pubDate": "Mon, 04 Nov 2024 14:53:16 GMT",
+          "description": "Hanno ucciso l’uomo ragno – La leggendaria storia degli 883 Nocturno"
+        },
+        {
+          "title": "Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883 - La recensione - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883 - La recensione IGN Italia"
+        },
+        {
+          "title": "Hanno ucciso l'Uomo Ragno - La recensione della serie sugli 883 - Cinemando",
+          "source": "Cinemando",
+          "pubDate": "Sun, 10 Nov 2024 08:00:00 GMT",
+          "description": "Hanno ucciso l'Uomo Ragno - La recensione della serie sugli 883 Cinemando"
+        },
+        {
+          "title": "‘Hanno ucciso l’uomo ragno – La leggendaria storia degli 883’ crea un effetto nostalgia - Eco Internazionale",
+          "source": "Eco Internazionale",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "‘Hanno ucciso l’uomo ragno – La leggendaria storia degli 883’ crea un effetto nostalgia Eco Internazionale"
+        },
+        {
+          "title": "Il vero significato di “Hanno ucciso l’uomo ragno” degli 883: “È una canzone sulla fine dei sogni” - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Il vero significato di “Hanno ucciso l’uomo ragno” degli 883: “È una canzone sulla fine dei sogni” Radio Deejay"
+        },
+        {
+          "title": "Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883 – Una galleria di immagini - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Tue, 05 Nov 2024 14:29:35 GMT",
+          "description": "Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883 – Una galleria di immagini IGN Italia"
+        },
+        {
+          "title": "Hanno Ucciso L’Uomo Ragno: cosa c’è di vero e cosa è stato inventato nella serie sugli 883 - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Hanno Ucciso L’Uomo Ragno: cosa c’è di vero e cosa è stato inventato nella serie sugli 883 Hall of Series"
+        }
+      ]
+    },
+    "The_Substance": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The Substance è un film del 2024 scritto e diretto da Coralie Fargeat.",
+      "news": [
+        {
+          "title": "The Substance, il film body horror che parla di bellezza e di come i canoni estetici siano distruttivi - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "The Substance, il film body horror che parla di bellezza e di come i canoni estetici siano distruttivi Vanity Fair Italia"
+        },
+        {
+          "title": "Corpo e spazio: le architetture del terrore di The Substance - Domus Web",
+          "source": "Domus Web",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Corpo e spazio: le architetture del terrore di The Substance Domus Web"
+        },
+        {
+          "title": "The Substance, l'incredibile trasformazione di un'irriconoscibile Demi Moore. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "The Substance, l'incredibile trasformazione di un'irriconoscibile Demi Moore. FOTO Sky TG24"
+        },
+        {
+          "title": "Un horror che è anche un film d’arte. Ecco perché The substance ha bucato lo schermo - Artribune",
+          "source": "Artribune",
+          "pubDate": "Sat, 09 Nov 2024 08:00:00 GMT",
+          "description": "Un horror che è anche un film d’arte. Ecco perché The substance ha bucato lo schermo Artribune"
+        },
+        {
+          "title": "Sangue finto in vendita - Il Tascabile",
+          "source": "Il Tascabile",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "Sangue finto in vendita Il Tascabile"
+        },
+        {
+          "title": "Perché tutti parlano di The Substance con Demi Moore, che non è il solito horror - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Perché tutti parlano di The Substance con Demi Moore, che non è il solito horror Cosmopolitan"
+        },
+        {
+          "title": "‘The substance’ è un manifesto sul femminismo - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "‘The substance’ è un manifesto sul femminismo Il Fatto Quotidiano"
+        },
+        {
+          "title": "The Substance e i trucchi dietro alle scene più horror - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "The Substance e i trucchi dietro alle scene più horror GQ Italia"
+        },
+        {
+          "title": "The Substance - L’eterna sconfitta del corpo femminile tra ipersessualizzazione e dismorfismo - Birdmen Magazine",
+          "source": "Birdmen Magazine",
+          "pubDate": "Mon, 11 Nov 2024 08:00:00 GMT",
+          "description": "The Substance - L’eterna sconfitta del corpo femminile tra ipersessualizzazione e dismorfismo Birdmen Magazine"
+        },
+        {
+          "title": "Demi Moore, il look Halloween dal backstage di The Substance - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Demi Moore, il look Halloween dal backstage di The Substance iO Donna"
+        }
+      ]
+    },
+    "Il_ragazzo_dai_pantaloni_rosa": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il ragazzo dai pantaloni rosa è un film del 2024 diretto da Margherita Ferri.",
+      "news": [
+        {
+          "title": "\"Il ragazzo dai pantaloni rosa\", nei cinema il film sul bullismo - 08/11/2024 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "\"Il ragazzo dai pantaloni rosa\", nei cinema il film sul bullismo - 08/11/2024 RaiPlay"
+        },
+        {
+          "title": "Il ragazzo dai pantaloni rosa, il film su Andrea Spezzacatena - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Il ragazzo dai pantaloni rosa, il film su Andrea Spezzacatena Sky TG24"
+        },
+        {
+          "title": "Il ragazzo dai pantaloni rosa. La recensione - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Il ragazzo dai pantaloni rosa. La recensione Sentieri selvaggi"
+        },
+        {
+          "title": "Il ragazzo dai pantaloni rosa: la recensione del film che racconta Andrea Spezzacatena - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Il ragazzo dai pantaloni rosa: la recensione del film che racconta Andrea Spezzacatena Vanity Fair Italia"
+        },
+        {
+          "title": "GazzettadelSudonline – “Andrea s’è ucciso per il dolore silenzioso”. Anche a Messina l’inno alla vita de “Il ragazzo dai pantaloni rosa” - Ufficio Scolastico Regionale per la Sicilia – Direzione Generale",
+          "source": "Ufficio Scolastico Regionale per la Sicilia – Direzione Generale",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "GazzettadelSudonline – “Andrea s’è ucciso per il dolore silenzioso”. Anche a Messina l’inno alla vita de “Il ragazzo dai pantaloni rosa” Ufficio Scolastico Regionale per la Sicilia – Direzione Generale"
+        },
+        {
+          "title": "\"Il Ragazzo dai Pantaloni Rosa\": il film che fa commuovere e riflettere - Radio Capital",
+          "source": "Radio Capital",
+          "pubDate": "Tue, 05 Nov 2024 15:24:16 GMT",
+          "description": "\"Il Ragazzo dai Pantaloni Rosa\": il film che fa commuovere e riflettere Radio Capital"
+        },
+        {
+          "title": "Il ragazzo dai pantaloni rosa racconta fatti reali: la storia di Andrea Spezzacatena, vittima di bullismo - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Il ragazzo dai pantaloni rosa racconta fatti reali: la storia di Andrea Spezzacatena, vittima di bullismo Radio Deejay"
+        },
+        {
+          "title": "Il ragazzo dai pantaloni rosa, la madre Teresa Manes ai giovani: \"Fate tesoro di questo racconto, sfoderate l'insegnamento al bisogno\" - Orizzonte Scuola Notizie",
+          "source": "Orizzonte Scuola Notizie",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Il ragazzo dai pantaloni rosa, la madre Teresa Manes ai giovani: \"Fate tesoro di questo racconto, sfoderate l'insegnamento al bisogno\" Orizzonte Scuola Notizie"
+        },
+        {
+          "title": "Claudia Pandolfi, madre nel film «Il ragazzo dai pantaloni rosa», in lacrime sui social: «Gratitudine e dolore per voi che mi scrivete» - Corriere Roma",
+          "source": "Corriere Roma",
+          "pubDate": "Sun, 10 Nov 2024 08:00:00 GMT",
+          "description": "Claudia Pandolfi, madre nel film «Il ragazzo dai pantaloni rosa», in lacrime sui social: «Gratitudine e dolore per voi che mi scrivete» Corriere Roma"
+        },
+        {
+          "title": "“Il ragazzo dai pantaloni rosa”: al cinema la storia vera di Andrea Spezzacatena, ucciso dal bullismo - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "“Il ragazzo dai pantaloni rosa”: al cinema la storia vera di Andrea Spezzacatena, ucciso dal bullismo iO Donna"
+        }
+      ]
+    },
+    "Nicola_Zalewski": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Nicola Zalewski è un calciatore polacco con cittadinanza italiana, centrocampista dell'Atalanta e della nazionale polacca.",
+      "news": [
+        {
+          "title": "Union SG - Roma (1-1) Europa League 2024 - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Union SG - Roma (1-1) Europa League 2024 la Repubblica"
+        },
+        {
+          "title": "Flavio Cobolli incontra il pubblico delle Nitto ATP Finals, lunedì 11 novembre a Torino - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Flavio Cobolli incontra il pubblico delle Nitto ATP Finals, lunedì 11 novembre a Torino Eurosport.it"
+        },
+        {
+          "title": "Zalewski, dal reintegro ai disastri e al rinnovo che non c'è: Verona può essere 'fatal' - Forzaroma.info",
+          "source": "Forzaroma.info",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Zalewski, dal reintegro ai disastri e al rinnovo che non c'è: Verona può essere 'fatal' Forzaroma.info"
+        }
+      ]
+    },
+    "Elezioni_negli_Stati_Uniti_d'America_del_2024": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le elezioni generali negli Stati Uniti d'America del 2024 si sono tenute il 5 novembre per eleggere il Presidente, rinnovare l'intera Camera dei Rappresentanti e un terzo del Senato, eleggere i Governatori di diversi Stati federati, rinnovare i seggi di molte legislature statali, ed infine hanno riguardato anche le nazioni di nativi americani.",
+      "news": [
+        {
+          "title": "Elezioni USA 2024: sondaggi, popolarità dei candidati e ultime news - Ipsos",
+          "source": "Ipsos",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA 2024: sondaggi, popolarità dei candidati e ultime news Ipsos"
+        },
+        {
+          "title": "Usa 2024, tutti i risultati delle elezioni americane in tempo reale - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Usa 2024, tutti i risultati delle elezioni americane in tempo reale RaiNews"
+        },
+        {
+          "title": "Negli USA vince Trump, ed è subito voglia di Canada - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Negli USA vince Trump, ed è subito voglia di Canada Focus.it"
+        },
+        {
+          "title": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali Il Post"
+        },
+        {
+          "title": "Come si vota per le elezioni presidenziali degli Stati Uniti? - Wired",
+          "source": "Wired",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Come si vota per le elezioni presidenziali degli Stati Uniti? Wired"
+        },
+        {
+          "title": "Guida alle elezioni presidenziali negli Stati Uniti - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Guida alle elezioni presidenziali negli Stati Uniti Internazionale"
+        },
+        {
+          "title": "Facciamo il punto: elezioni USA - Geopolitica.info",
+          "source": "Geopolitica.info",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Facciamo il punto: elezioni USA Geopolitica.info"
+        },
+        {
+          "title": "Trump sarà di nuovo presidente degli Stati Uniti - Eunews",
+          "source": "Eunews",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Trump sarà di nuovo presidente degli Stati Uniti Eunews"
+        },
+        {
+          "title": "Elezioni americane, le prime pagine dal 1972 a oggi - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni americane, le prime pagine dal 1972 a oggi il manifesto"
+        },
+        {
+          "title": "Elezioni Usa 2024, le reazioni dei leader internazionali alla vittoria di Donald Trump - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni Usa 2024, le reazioni dei leader internazionali alla vittoria di Donald Trump Vanity Fair Italia"
+        }
+      ]
+    },
+    "Elezioni_presidenziali_negli_Stati_Uniti_d'America": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le elezioni presidenziali degli Stati Uniti d'America costituiscono il processo con cui vengono eletti il presidente e il vicepresidente federali, per un mandato di quattro anni che inizia il 20 gennaio dell'anno successivo a quello delle elezioni, procedura che coinvolge il Collegio elettorale.",
+      "news": [
+        {
+          "title": "Guida alle elezioni presidenziali negli Stati Uniti - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Guida alle elezioni presidenziali negli Stati Uniti Internazionale"
+        },
+        {
+          "title": "Elezioni USA 2024: sondaggi, popolarità dei candidati e ultime news - Ipsos",
+          "source": "Ipsos",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA 2024: sondaggi, popolarità dei candidati e ultime news Ipsos"
+        },
+        {
+          "title": "Facciamo il punto: elezioni USA - Geopolitica.info",
+          "source": "Geopolitica.info",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Facciamo il punto: elezioni USA Geopolitica.info"
+        },
+        {
+          "title": "Come funzionano le elezioni per scegliere il presidente USA - Treccani",
+          "source": "Treccani",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Come funzionano le elezioni per scegliere il presidente USA Treccani"
+        },
+        {
+          "title": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA – Donald Trump ha vinto le elezioni presidenziali Il Post"
+        },
+        {
+          "title": "I risultati delle elezioni negli Stati Uniti - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "I risultati delle elezioni negli Stati Uniti Pagella Politica"
+        },
+        {
+          "title": "Trump contro Harris: le elezioni presidenziali americane 2024 - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Trump contro Harris: le elezioni presidenziali americane 2024 FocusJunior.it"
+        },
+        {
+          "title": "Presidenziali U.S.A. , ecco come funzionano le elezioni americane. Spiegazione semplice del sistema elettorale degli Stati Uniti - Studenti.it",
+          "source": "Studenti.it",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Presidenziali U.S.A. , ecco come funzionano le elezioni americane. Spiegazione semplice del sistema elettorale degli Stati Uniti Studenti.it"
+        },
+        {
+          "title": "Elezioni USA: quanto dura e come funziona il mandato del presidente - Wall Street Italia",
+          "source": "Wall Street Italia",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA: quanto dura e come funziona il mandato del presidente Wall Street Italia"
+        },
+        {
+          "title": "Elezioni Usa 2024, Trump o Harris? Con chi si schierano i partiti italiani - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni Usa 2024, Trump o Harris? Con chi si schierano i partiti italiani Sky TG24"
+        }
+      ]
+    },
+    "Presidente_degli_Stati_Uniti_d'America": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il presidente degli Stati Uniti d'America è il capo di Stato e il capo del governo degli Stati Uniti d'America. Il presidente è responsabile delle funzioni esecutive del governo federale ed è anche il comandante in capo delle Forze armate statunitensi.",
+      "news": [
+        {
+          "title": "Telefonata del Presidente Meloni con il Presidente eletto degli Stati Uniti Trump - Governo.it",
+          "source": "Governo.it",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Telefonata del Presidente Meloni con il Presidente eletto degli Stati Uniti Trump Governo.it"
+        },
+        {
+          "title": "Negli USA vince Trump, ed è subito voglia di Canada - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Negli USA vince Trump, ed è subito voglia di Canada Focus.it"
+        },
+        {
+          "title": "Donald Trump, chi è il 47esimo presidente degli Stati Uniti: l'infanzia, l'ascesa a Manhattan, gli amici, i problemi con la giustizia - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Donald Trump, chi è il 47esimo presidente degli Stati Uniti: l'infanzia, l'ascesa a Manhattan, gli amici, i problemi con la giustizia Corriere della Sera"
+        },
+        {
+          "title": "Elezioni USA 2024: sondaggi, popolarità dei candidati e ultime news - Ipsos",
+          "source": "Ipsos",
+          "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+          "description": "Elezioni USA 2024: sondaggi, popolarità dei candidati e ultime news Ipsos"
+        },
+        {
+          "title": "Come si elegge il o la presidente degli Stati Uniti - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 04 Nov 2024 08:00:00 GMT",
+          "description": "Come si elegge il o la presidente degli Stati Uniti Il Post"
+        },
+        {
+          "title": "Chi è Donald Trump, che torna alla vittoria nelle Elezioni Usa 2024 - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Chi è Donald Trump, che torna alla vittoria nelle Elezioni Usa 2024 Vanity Fair Italia"
+        },
+        {
+          "title": "Trump Presidente USA: impatto sul clima e ambiente - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Trump Presidente USA: impatto sul clima e ambiente Scienza in rete"
+        },
+        {
+          "title": "Donald Trump torna alla Casa Bianca: chi è il \"nuovo\" presidente degli Stati Uniti - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Donald Trump torna alla Casa Bianca: chi è il \"nuovo\" presidente degli Stati Uniti Tgcom24"
+        },
+        {
+          "title": "Trump sarà di nuovo presidente degli Stati Uniti - Eunews",
+          "source": "Eunews",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Trump sarà di nuovo presidente degli Stati Uniti Eunews"
+        },
+        {
+          "title": "Facciamo il punto: elezioni USA - Geopolitica.info",
+          "source": "Geopolitica.info",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Facciamo il punto: elezioni USA Geopolitica.info"
+        }
+      ]
+    },
+    "Viktor_Gyökeres": {
+      "fetched_at": "2026-11-06T17:11:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Viktor Einar Gyökeres è un calciatore svedese, attaccante dell'Arsenal e della nazionale svedese.",
+      "news": [
+        {
+          "title": "Viktor Gyökeres nuovo re del mercato: 100 milioni per trasferirsi a Manchester. Tre anni fa ne valeva uno solo... - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Viktor Gyökeres nuovo re del mercato: 100 milioni per trasferirsi a Manchester. Tre anni fa ne valeva uno solo... Eurosport.it"
+        },
+        {
+          "title": "Gyokeres e il significato nascosto dell’esultanza che tutti interpretano sbagliando risposta - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Gyokeres e il significato nascosto dell’esultanza che tutti interpretano sbagliando risposta Fanpage"
+        },
+        {
+          "title": "Il centravanti più in forma d’Europa - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Il centravanti più in forma d’Europa Il Post"
+        },
+        {
+          "title": "Gyokeres straccia Haaland: così quel ragazzo \"lento e in carne\" è diventato il re dei vichinghi - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Gyokeres straccia Haaland: così quel ragazzo \"lento e in carne\" è diventato il re dei vichinghi La Gazzetta dello Sport"
+        },
+        {
+          "title": "Calciomercato Gyokeres: dalla clausola alle voci sulla Juve - Sisal",
+          "source": "Sisal",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Calciomercato Gyokeres: dalla clausola alle voci sulla Juve Sisal"
+        },
+        {
+          "title": "Il nuovo tecnico del Manchester United ha già demolito il City - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Il nuovo tecnico del Manchester United ha già demolito il City Esquire"
+        },
+        {
+          "title": "Gyokeres, il vichingo che fa gol in tutti i modi e ha oscurato Haaland - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+          "description": "Gyokeres, il vichingo che fa gol in tutti i modi e ha oscurato Haaland la Repubblica"
+        },
+        {
+          "title": "Ruben Amorim: ora o mai più - Ultimo Uomo",
+          "source": "Ultimo Uomo",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "Ruben Amorim: ora o mai più Ultimo Uomo"
+        },
+        {
+          "title": "L'eroe di Champions League Gyokeres esce segretamente con un'attrice portoghese: la splendida donna ha accennato la loro relazione sulla stampa - Tribuna.com",
+          "source": "Tribuna.com",
+          "pubDate": "Thu, 07 Nov 2024 08:00:00 GMT",
+          "description": "L'eroe di Champions League Gyokeres esce segretamente con un'attrice portoghese: la splendida donna ha accennato la loro relazione sulla stampa Tribuna.com"
+        }
+      ]
+    }
+  }
+}

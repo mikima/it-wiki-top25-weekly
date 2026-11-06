@@ -1,0 +1,1650 @@
+{
+  "week": "2024-13",
+  "start_date": "2024-03-25",
+  "end_date": "2024-03-31",
+  "articles": {
+    "Il_problema_dei_tre_corpi": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il problema dei tre corpi è un romanzo di fantascienza scritto nel 2006 dall'autore cinese Liu Cixin.",
+      "news": [
+        {
+          "title": "In cosa Il problema dei 3 corpi, la serie, differisce dai libri (e come leggerli per capirla meglio) - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "In cosa Il problema dei 3 corpi, la serie, differisce dai libri (e come leggerli per capirla meglio) GQ Italia"
+        },
+        {
+          "title": "Che cos’è davvero il problema dei tre corpi - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Che cos’è davvero il problema dei tre corpi Il Post"
+        },
+        {
+          "title": "Il problema dei tre corpi – Una pietra miliare della fantascienza contemporanea - N3rdcore",
+          "source": "N3rdcore",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei tre corpi – Una pietra miliare della fantascienza contemporanea N3rdcore"
+        },
+        {
+          "title": "Tutti parlano de Il problema dei tre corpi. Ma perché? - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Tutti parlano de Il problema dei tre corpi. Ma perché? Esquire"
+        },
+        {
+          "title": "Il problema dei 3 corpi, 12 curiosità sulla serie tv Netflix. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei 3 corpi, 12 curiosità sulla serie tv Netflix. FOTO Sky TG24"
+        },
+        {
+          "title": "3 Body Problem - Grande fantascienza dai creatori di Game of Thrones :-) - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "3 Body Problem - Grande fantascienza dai creatori di Game of Thrones :-) Serial Minds"
+        },
+        {
+          "title": "Il Problema Dei 3 Corpi 1x02 - Costa Rossa - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Il Problema Dei 3 Corpi 1x02 - Costa Rossa Recenserie"
+        },
+        {
+          "title": "Il problema dei 3 corpi, la spiegazione del finale: siamo insetti, ma resistenti - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei 3 corpi, la spiegazione del finale: siamo insetti, ma resistenti Movieplayer"
+        },
+        {
+          "title": "Il problema dei tre corpi, di cosa parla la nuova serie Netflix: trama e spiegazione del finale - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei tre corpi, di cosa parla la nuova serie Netflix: trama e spiegazione del finale Fanpage"
+        },
+        {
+          "title": "\"Il problema dei tre corpi\", 5 libri da leggere se ti è piaciuta la serie sci-fi del momento - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "\"Il problema dei tre corpi\", 5 libri da leggere se ti è piaciuta la serie sci-fi del momento Libreriamo"
+        }
+      ]
+    },
+    "Il_problema_dei_3_corpi": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il problema dei 3 corpi è una serie televisiva statunitense del 2024 creata da David Benioff, D. B. Weiss e Alexander Woo.",
+      "news": [
+        {
+          "title": "In cosa Il problema dei 3 corpi, la serie, differisce dai libri (e come leggerli per capirla meglio) - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "In cosa Il problema dei 3 corpi, la serie, differisce dai libri (e come leggerli per capirla meglio) GQ Italia"
+        },
+        {
+          "title": "Cosa potrebbe succedere nella seconda stagione de Il problema dei 3 corpi? - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Cosa potrebbe succedere nella seconda stagione de Il problema dei 3 corpi? Wired Italia"
+        },
+        {
+          "title": "Tutti parlano de Il problema dei tre corpi. Ma perché? - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Tutti parlano de Il problema dei tre corpi. Ma perché? Esquire"
+        },
+        {
+          "title": "Che cos’è davvero il problema dei tre corpi - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Che cos’è davvero il problema dei tre corpi Il Post"
+        },
+        {
+          "title": "Il problema dei tre corpi – Una pietra miliare della fantascienza contemporanea - N3rdcore",
+          "source": "N3rdcore",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei tre corpi – Una pietra miliare della fantascienza contemporanea N3rdcore"
+        },
+        {
+          "title": "Il problema dei 3 corpi, 12 curiosità sulla serie tv Netflix. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei 3 corpi, 12 curiosità sulla serie tv Netflix. FOTO Sky TG24"
+        },
+        {
+          "title": "Il Problema Dei 3 Corpi 1x02 - Costa Rossa - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Il Problema Dei 3 Corpi 1x02 - Costa Rossa Recenserie"
+        },
+        {
+          "title": "3 Body Problem - Grande fantascienza dai creatori di Game of Thrones :-) - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "3 Body Problem - Grande fantascienza dai creatori di Game of Thrones :-) Serial Minds"
+        },
+        {
+          "title": "Il problema dei 3 corpi, la spiegazione del finale: siamo insetti, ma resistenti - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei 3 corpi, la spiegazione del finale: siamo insetti, ma resistenti Movieplayer"
+        },
+        {
+          "title": "Il problema dei 3 corpi e la storia dell'omicidio di uno dei produttori: L'agghiacciante retroscena - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei 3 corpi e la storia dell'omicidio di uno dei produttori: L'agghiacciante retroscena ComingSoon.it"
+        }
+      ]
+    },
+    "Jannik_Sinner": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Jannik Sinner è un tennista italiano.",
+      "news": [
+        {
+          "title": "Tutto su Jannik Sinner, il personaggio del momento. Ecco le sue abitudini e le frasi più celebri... - Radio RTL 102.5",
+          "source": "Radio RTL 102.5",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Tutto su Jannik Sinner, il personaggio del momento. Ecco le sue abitudini e le frasi più celebri... Radio RTL 102.5"
+        },
+        {
+          "title": "Serena Williams: «Sinner, avrei voluto il tuo dritto». La regina incorona Jannik - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+          "description": "Serena Williams: «Sinner, avrei voluto il tuo dritto». La regina incorona Jannik Corriere della Sera"
+        },
+        {
+          "title": "Jannik Sinner batte Grigor Dimitrov ai Miami Open e diventa il numero 2 del mondo - Vogue",
+          "source": "Vogue",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Jannik Sinner batte Grigor Dimitrov ai Miami Open e diventa il numero 2 del mondo Vogue"
+        },
+        {
+          "title": "Janik Sinner passione Alfa Romeo: qual è l'auto nel garage del campione - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "Janik Sinner passione Alfa Romeo: qual è l'auto nel garage del campione Virgilio"
+        },
+        {
+          "title": "Jannik Sinner vince il Miami Open 2024: risultato e highlights della finale contro Grigor Dimitrov | Tennis ATP - Olympics",
+          "source": "Olympics",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Jannik Sinner vince il Miami Open 2024: risultato e highlights della finale contro Grigor Dimitrov | Tennis ATP Olympics"
+        },
+        {
+          "title": "Il tennista Jannik Sinner si è qualificato per la semifinale dell’Open di Miami - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Il tennista Jannik Sinner si è qualificato per la semifinale dell’Open di Miami Il Post"
+        },
+        {
+          "title": "Jannik Sinner numero 2 al mondo, cosa serve per scavalcare Alcaraz nel ranking ATP già a Miami - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Jannik Sinner numero 2 al mondo, cosa serve per scavalcare Alcaraz nel ranking ATP già a Miami Fanpage"
+        },
+        {
+          "title": "Serena Williams loda Sinner: 'Sei impressionante'. VIDEO - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+          "description": "Serena Williams loda Sinner: 'Sei impressionante'. VIDEO Sky Sport"
+        },
+        {
+          "title": "Jannik Sinner numero 2 al mondo: la reazione del 'rivale' Carlos Alcaraz - Today",
+          "source": "Today",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "Jannik Sinner numero 2 al mondo: la reazione del 'rivale' Carlos Alcaraz Today"
+        },
+        {
+          "title": "Sinner soccorre la spettatrice colpita da un malore. Le immagini del gesto ammirevole - La7",
+          "source": "La7",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Sinner soccorre la spettatrice colpita da un malore. Le immagini del gesto ammirevole La7"
+        }
+      ]
+    },
+    "Grigor_Dimitrov": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Grigor Dimitrov è un tennista bulgaro.",
+      "news": [
+        {
+          "title": "Chi è Dimitrov, il rivale battuto da Sinner in finale a Miami - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Chi è Dimitrov, il rivale battuto da Sinner in finale a Miami RaiNews"
+        },
+        {
+          "title": "Chi è Grigor Dimitrov tornato al Masters 1000 di Miami: gli amori, il rovescio come Federer - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Chi è Grigor Dimitrov tornato al Masters 1000 di Miami: gli amori, il rovescio come Federer Corriere della Sera"
+        },
+        {
+          "title": "La storia di Grigor Dimitrov, 'acrobata' in campo e fuori - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "La storia di Grigor Dimitrov, 'acrobata' in campo e fuori Sky Sport"
+        },
+        {
+          "title": "Grigor Dimitrov, la Grande Bellezza - Tennis Magazine Italia",
+          "source": "Tennis Magazine Italia",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Grigor Dimitrov, la Grande Bellezza Tennis Magazine Italia"
+        },
+        {
+          "title": "Jannik Sinner batte il bulgaro Grigor Dimitrov 2 set a 0 e vince il Master 1000 di Miami - Radio RTL 102.5",
+          "source": "Radio RTL 102.5",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Jannik Sinner batte il bulgaro Grigor Dimitrov 2 set a 0 e vince il Master 1000 di Miami Radio RTL 102.5"
+        },
+        {
+          "title": "Dimitrov re di cuori: da Sharapova a Ghenea, tutte le sue donne - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+          "description": "Dimitrov re di cuori: da Sharapova a Ghenea, tutte le sue donne La Gazzetta dello Sport"
+        },
+        {
+          "title": "Jannik Sinner batte Grigor Dimitrov ai Miami Open e diventa il numero 2 del mondo - Vogue",
+          "source": "Vogue",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Jannik Sinner batte Grigor Dimitrov ai Miami Open e diventa il numero 2 del mondo Vogue"
+        },
+        {
+          "title": "Dimitrov, tennista e rubacuori: tutte le donne del campione bulgaro - Sportmediaset",
+          "source": "Sportmediaset",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "Dimitrov, tennista e rubacuori: tutte le donne del campione bulgaro Sportmediaset"
+        },
+        {
+          "title": "Dimitrov, la semplicità che paga: “Un approccio da riproporre” - SuperTennis",
+          "source": "SuperTennis",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Dimitrov, la semplicità che paga: “Un approccio da riproporre” SuperTennis"
+        },
+        {
+          "title": "Chi è Grigor Dimitrov, l'avversario di Sinner in finale a Miami che doveva essere \"il nuovo Federer\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+          "description": "Chi è Grigor Dimitrov, l'avversario di Sinner in finale a Miami che doveva essere \"il nuovo Federer\" Fanpage"
+        }
+      ]
+    },
+    "Facebook": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Facebook è un social network statunitense, fondato il 4 febbraio 2004 da Mark Zuckerberg e altri studenti dell'Università di Harvard, inizialmente riservato alla comunità universitaria e successivamente aperto al pubblico. Il nome deriva dagli yearbooks, gli annuari statunitensi contenenti fotografie e informazioni sui membri delle istituzioni educative. È di proprietà di Meta Platforms, società precedentemente denominata Facebook Inc. fino al 2021.",
+      "news": [
+        {
+          "title": "Facebook ha spiato il traffico degli utenti su Snapchat - Wired",
+          "source": "Wired",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Facebook ha spiato il traffico degli utenti su Snapchat Wired"
+        },
+        {
+          "title": "Perché Facebook ha bloccato Radio Maria per aver condiviso \"immagini di nudo o atti sessuali\" - Today",
+          "source": "Today",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Perché Facebook ha bloccato Radio Maria per aver condiviso \"immagini di nudo o atti sessuali\" Today"
+        },
+        {
+          "title": "Gli incubi di Daniel, moderatore di Facebook: \"Pagato due dollari all'ora per vedere l'orrore dei social\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+          "description": "Gli incubi di Daniel, moderatore di Facebook: \"Pagato due dollari all'ora per vedere l'orrore dei social\" Fanpage"
+        },
+        {
+          "title": "Facebook blocca la diretta di Radio Maria sulla Via Crucis per “immagini di nudo”. La replica della radio fa il giro del web - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Facebook blocca la diretta di Radio Maria sulla Via Crucis per “immagini di nudo”. La replica della radio fa il giro del web Il Fatto Quotidiano"
+        },
+        {
+          "title": "Radio Maria, la diretta della Via Crucis bloccata da Facebook: «Immagini di nudo». La replica diventa virale - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "Radio Maria, la diretta della Via Crucis bloccata da Facebook: «Immagini di nudo». La replica diventa virale Il Messaggero"
+        },
+        {
+          "title": "\"Immagini di nudo o atti sessuali\": perché Facebook ha bloccato Radio Maria - QuiComo",
+          "source": "QuiComo",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "\"Immagini di nudo o atti sessuali\": perché Facebook ha bloccato Radio Maria QuiComo"
+        }
+      ]
+    },
+    "Joker_(film_2019)": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Joker è un film del 2019 co-scritto, diretto e co-prodotto da Todd Phillips.",
+      "news": [
+        {
+          "title": "Quale è il significato del finale di Joker, le possibili interpretazioni e la spiegazione di Todd Philips - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Quale è il significato del finale di Joker, le possibili interpretazioni e la spiegazione di Todd Philips Fanpage"
+        },
+        {
+          "title": "Joker: quanti chili ha perso Joaquin Phoenix per il ruolo? (ed altre curiosità) - HyNerd",
+          "source": "HyNerd",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Joker: quanti chili ha perso Joaquin Phoenix per il ruolo? (ed altre curiosità) HyNerd"
+        },
+        {
+          "title": "Joker, interpretazione da Oscar Il cabarettista disadattato diventa il re di Gotham City - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Joker, interpretazione da Oscar Il cabarettista disadattato diventa il re di Gotham City La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Joker: Folie à Deux, il trailer del film con Joaquin Phoenix e Lady Gaga è previsto per il 9 aprile - Comics Universe",
+          "source": "Comics Universe",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "Joker: Folie à Deux, il trailer del film con Joaquin Phoenix e Lady Gaga è previsto per il 9 aprile Comics Universe"
+        },
+        {
+          "title": "Joker: la spiegazione del finale del film con Joaquin Phoenix - CiakClub",
+          "source": "CiakClub",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Joker: la spiegazione del finale del film con Joaquin Phoenix CiakClub"
+        },
+        {
+          "title": "Joker, la scalinata nel Bronx e non solo: tutte le location del film - Donna Glamour",
+          "source": "Donna Glamour",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Joker, la scalinata nel Bronx e non solo: tutte le location del film Donna Glamour"
+        }
+      ]
+    },
+    "Baltimora": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Baltimora è una città degli Stati Uniti d'America, nello Stato del Maryland. Amministrativamente si tratta di una città indipendente, non afferente, cioè, ad alcuna contea, ma soggetta all'autorità amministrativa dello Stato. È la più grande città del Maryland e prende il nome da Cecilius Calvert, secondo barone di Baltimore, fondatore e primo governatore della colonia del Maryland.",
+      "news": [
+        {
+          "title": "Baltimora, recuperati i corpi di due vittime del crollo del ponte - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Baltimora, recuperati i corpi di due vittime del crollo del ponte Sky TG24"
+        },
+        {
+          "title": "Ci sono ancora sei dispersi per il crollo del ponte a Baltimora - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Ci sono ancora sei dispersi per il crollo del ponte a Baltimora Il Post"
+        },
+        {
+          "title": "L’ipotesi del carburante sporco e il pericolo per i container contaminati: cosa sappiamo del crollo del ponte… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "L’ipotesi del carburante sporco e il pericolo per i container contaminati: cosa sappiamo del crollo del ponte… la Repubblica"
+        },
+        {
+          "title": "Baltimora, le riprese aeree del ponte crollato e della nave incagliata - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Baltimora, le riprese aeree del ponte crollato e della nave incagliata RaiNews"
+        },
+        {
+          "title": "Usa: nave contro ponte a Baltimora, struttura crolla nel fiume - SWI swissinfo.ch",
+          "source": "SWI swissinfo.ch",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Usa: nave contro ponte a Baltimora, struttura crolla nel fiume SWI swissinfo.ch"
+        },
+        {
+          "title": "Ponte crollato a Baltimora, i sei dispersi sono probabilmente morti - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Ponte crollato a Baltimora, i sei dispersi sono probabilmente morti Il Sole 24 ORE"
+        },
+        {
+          "title": "Cosa sappiamo del crollo del Francis Scott Key Bridge a Baltimora - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Cosa sappiamo del crollo del Francis Scott Key Bridge a Baltimora Wired Italia"
+        },
+        {
+          "title": "Crollo del ponte di Baltimora: sospese le ricerche con i sommozzatori, i sei dispersi dati per morti - ANSA",
+          "source": "ANSA",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Crollo del ponte di Baltimora: sospese le ricerche con i sommozzatori, i sei dispersi dati per morti ANSA"
+        },
+        {
+          "title": "Ponte crollato a Baltimora. Proclamato stato di emergenza - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Ponte crollato a Baltimora. Proclamato stato di emergenza Tv2000"
+        },
+        {
+          "title": "Baltimora (Usa), in vendita più di 200 case a 1 dollaro ciascuna - Idealista",
+          "source": "Idealista",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Baltimora (Usa), in vendita più di 200 case a 1 dollaro ciascuna Idealista"
+        }
+      ]
+    },
+    "Rocco_Siffredi": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rocco Siffredi, pseudonimo di Rocco Antonio Tano, è un attore pornografico italiano.",
+      "news": [
+        {
+          "title": "Il crollo di Rocco Siffredi a Le Iene non è una bella pagina di televisione - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Il crollo di Rocco Siffredi a Le Iene non è una bella pagina di televisione Vanity Fair Italia"
+        },
+        {
+          "title": "Blog | Rocco Siffredi, sono solidale con la giornalista che l'ha denunciato. Un commento mi ha deluso - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Blog | Rocco Siffredi, sono solidale con la giornalista che l'ha denunciato. Un commento mi ha deluso Il Fatto Quotidiano"
+        },
+        {
+          "title": "Anticipazioni Le Iene: l’intervista esclusiva a Rocco Siffredi sulla giornalista che lo ha denunciato per molestie - Libero",
+          "source": "Libero",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Anticipazioni Le Iene: l’intervista esclusiva a Rocco Siffredi sulla giornalista che lo ha denunciato per molestie Libero"
+        },
+        {
+          "title": "Rocco Siffredi incontra la giornalista che lo ha denunciato: “Chiedo scusa, ho perso il controllo”. E poi sco… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Rocco Siffredi incontra la giornalista che lo ha denunciato: “Chiedo scusa, ho perso il controllo”. E poi sco… la Repubblica"
+        },
+        {
+          "title": "Rocco Siffredi fa ancora parlare di sé - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Rocco Siffredi fa ancora parlare di sé Il Post"
+        },
+        {
+          "title": "Le Iene: REI: Rocco Siffredi ha molestato una giornalista? Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Le Iene: REI: Rocco Siffredi ha molestato una giornalista? Video Mediaset Infinity"
+        },
+        {
+          "title": "Rocco Siffredi incontra Alisa Toaff dopo la denuncia per molestie, scoppia a piangere e si scusa: \"Sono un cog***\". Lei: \"Ci siamo chiariti, finisce qui\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Rocco Siffredi incontra Alisa Toaff dopo la denuncia per molestie, scoppia a piangere e si scusa: \"Sono un cog***\". Lei: \"Ci siamo chiariti, finisce qui\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "REI: Rocco Siffredi ha molestato una giornalista? - Le Iene",
+          "source": "Le Iene",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "REI: Rocco Siffredi ha molestato una giornalista? Le Iene"
+        }
+      ]
+    },
+    "Eleonora_Abbagnato": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Eleonora Abbagnato è una ballerina, insegnante di danza classica e direttrice artistica italiana. Dal 2013 al 2021 è stata étoile del Balletto dell'Opéra di Parigi e dal 2015 dirige il corpo di ballo del Teatro dell'Opera di Roma.",
+      "news": [
+        {
+          "title": "Eleonora Abbagnato. Una stella che danza - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 29 Mar 2024 22:34:33 GMT",
+          "description": "Eleonora Abbagnato. Una stella che danza RaiPlay"
+        },
+        {
+          "title": "Eleonora Abbagnato: «Se piangevo, lo facevo di nascosto. A Parigi mi chiamavano \"la piccola mafiosa”» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Eleonora Abbagnato: «Se piangevo, lo facevo di nascosto. A Parigi mi chiamavano \"la piccola mafiosa”» Vanity Fair Italia"
+        },
+        {
+          "title": "Da grande farò… La ballerina come Eleonora Abbagnato - Style Piccoli",
+          "source": "Style Piccoli",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Da grande farò… La ballerina come Eleonora Abbagnato Style Piccoli"
+        },
+        {
+          "title": "Eleonora Abbagnato. Una stella che danza - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Eleonora Abbagnato. Una stella che danza Rai.it"
+        },
+        {
+          "title": "Eleonora Abbagnato: «Mi dicevano che ero grassa e dimagrivo... Allora si poteva, oggi sarebbero da arresto» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+          "description": "Eleonora Abbagnato: «Mi dicevano che ero grassa e dimagrivo... Allora si poteva, oggi sarebbero da arresto» Corriere della Sera"
+        },
+        {
+          "title": "Rai 3 presenta il docufilm su Eleonora Abbagnato - Danza & Danza",
+          "source": "Danza & Danza",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Rai 3 presenta il docufilm su Eleonora Abbagnato Danza & Danza"
+        },
+        {
+          "title": "Passione e volontà in punta di piedi. Eleonora Abbagnato in un docufilm per la Rai - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Passione e volontà in punta di piedi. Eleonora Abbagnato in un docufilm per la Rai RaiNews"
+        },
+        {
+          "title": "Eleonora Abbagnato, Una stella che danza il docufilm sull'Étoile - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Eleonora Abbagnato, Una stella che danza il docufilm sull'Étoile Sky TG24"
+        },
+        {
+          "title": "Tutti in lacrime in tv per Eleonora Abbagnato, il papà: \"Quel letto vuoto quando tu da bambina eri a Parigi\" - PalermoToday",
+          "source": "PalermoToday",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Tutti in lacrime in tv per Eleonora Abbagnato, il papà: \"Quel letto vuoto quando tu da bambina eri a Parigi\" PalermoToday"
+        },
+        {
+          "title": "Eleonora Abbagnato, chi è il marito Federico Balzaretti. La proposta (da sogno) a Montmartre e l'amore a distanza - Libero",
+          "source": "Libero",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Eleonora Abbagnato, chi è il marito Federico Balzaretti. La proposta (da sogno) a Montmartre e l'amore a distanza Libero"
+        }
+      ]
+    },
+    "Povere_creature!": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Povere creature! è un film del 2023 co-prodotto e diretto da Yorgos Lanthimos.",
+      "news": [
+        {
+          "title": "‘Kinds of Kindness’, ecco il trailer del nuovo film di Yorgos Lanthimos con Emma Stone - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "‘Kinds of Kindness’, ecco il trailer del nuovo film di Yorgos Lanthimos con Emma Stone Rolling Stone Italia"
+        },
+        {
+          "title": "Quanti film hanno girato insieme Emma Stone e Yorgos Lanthimos e dove vederli - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Quanti film hanno girato insieme Emma Stone e Yorgos Lanthimos e dove vederli Corriere Style"
+        }
+      ]
+    },
+    "Vasco_Rossi": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Vasco Rossi, noto anche solo con il nome Vasco o con l'appellativo Blasco, è un cantautore italiano.",
+      "news": [
+        {
+          "title": "Vasco Rossi: «Mia moglie Laura? Tentai due volte di mandarla via. Mio padre è morto di fatica, io spero di... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Vasco Rossi: «Mia moglie Laura? Tentai due volte di mandarla via. Mio padre è morto di fatica, io spero di... Corriere della Sera"
+        },
+        {
+          "title": "Comunicazione Italiana - Comunicazione Italiana",
+          "source": "Comunicazione Italiana",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Comunicazione Italiana Comunicazione Italiana"
+        },
+        {
+          "title": "Vasco Rossi a Gardone Riviera il 17 aprile: ritira il «Premio del Vittoriale» - Giornale di Brescia",
+          "source": "Giornale di Brescia",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Vasco Rossi a Gardone Riviera il 17 aprile: ritira il «Premio del Vittoriale» Giornale di Brescia"
+        },
+        {
+          "title": "Ma com’erano i concerti di Vasco Rossi quarant’anni fa? - Rockol",
+          "source": "Rockol",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Ma com’erano i concerti di Vasco Rossi quarant’anni fa? Rockol"
+        },
+        {
+          "title": "Vasco Rossi, addio a Gabriella Sturani, madre del figlio Lorenzo - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Vasco Rossi, addio a Gabriella Sturani, madre del figlio Lorenzo Vanity Fair Italia"
+        },
+        {
+          "title": "È morta Gabriella Sturani, ex compagna di Vasco Rossi e madre di suo figlio Lorenzo - Radio RTL 102.5",
+          "source": "Radio RTL 102.5",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "È morta Gabriella Sturani, ex compagna di Vasco Rossi e madre di suo figlio Lorenzo Radio RTL 102.5"
+        },
+        {
+          "title": "Vasco Rossi: \"Israele e Palestina? Io rifiuto di schierarmi. Putin? Va fermato anche avviando una trattativa\". E dice sì a un'\"imposta sul patrimonio\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Vasco Rossi: \"Israele e Palestina? Io rifiuto di schierarmi. Putin? Va fermato anche avviando una trattativa\". E dice sì a un'\"imposta sul patrimonio\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "È morta a 56 anni Gabriella Sturani, ex di Vasco Rossi e madre di uno dei suoi figli - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "È morta a 56 anni Gabriella Sturani, ex di Vasco Rossi e madre di uno dei suoi figli RaiNews"
+        },
+        {
+          "title": "Prima pagina Corriere della Sera 31 marzo 2024 - Intervista a Vasco Rossi - Vasco Rossi - Sito ufficiale e Fan Club - Vasco Rossi - Sito ufficiale",
+          "source": "Vasco Rossi - Sito ufficiale",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Prima pagina Corriere della Sera 31 marzo 2024 - Intervista a Vasco Rossi - Vasco Rossi - Sito ufficiale e Fan Club Vasco Rossi - Sito ufficiale"
+        },
+        {
+          "title": "Vasco Rossi, è morta l'ex partner Gabriella Sturani - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Vasco Rossi, è morta l'ex partner Gabriella Sturani Sky TG24"
+        }
+      ]
+    },
+    "Società_Sportiva_Calcio_Napoli": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Società Sportiva Calcio Napoli, meglio nota come Napoli, è una società calcistica italiana della città di Napoli. Milita in Serie A, la massima serie del campionato italiano.",
+      "news": [
+        {
+          "title": "Manuela de Luca, la napoletana che a Coverciano ha stregato (anche) Spalletti: direttore sportivo a pieni voti - Corriere Del Mezzogiorno",
+          "source": "Corriere Del Mezzogiorno",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Manuela de Luca, la napoletana che a Coverciano ha stregato (anche) Spalletti: direttore sportivo a pieni voti Corriere Del Mezzogiorno"
+        },
+        {
+          "title": "Napoli, nuovo polo sportivo a Ponticelli: padel, club house, piscina e fotovoltaico - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Napoli, nuovo polo sportivo a Ponticelli: padel, club house, piscina e fotovoltaico Il Mattino"
+        },
+        {
+          "title": "Acerbi assolto per assenza di prove dall'accusa di insulti razzisti a Juan Jesus - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Acerbi assolto per assenza di prove dall'accusa di insulti razzisti a Juan Jesus RaiNews"
+        }
+      ]
+    },
+    "XNXX": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "XNXX è un sito web ceco-francese per la condivisione e la visione di immagini e video pornografici, nonché di storie erotiche. I contenuti sono classificati con dei tag. Il sito ospita anche un forum.",
+      "news": []
+    },
+    "Vanina_-_Un_vicequestore_a_Catania": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Vanina - Un vicequestore a Catania è una serie televisiva italiana tratta dalla saga letteraria di Cristina Cassar Scalia con protagonista l’omonimo personaggio, trasmessa in prima visione su Canale 5 dal 27 marzo 2024.",
+      "news": [
+        {
+          "title": "Vanina - Un vicequestore a Catania, la prima puntata in streaming - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Vanina - Un vicequestore a Catania, la prima puntata in streaming Mediaset Infinity"
+        },
+        {
+          "title": "Tv, al via su Canale 5 Vanina - un vicequestore a Catania - ANSA",
+          "source": "ANSA",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Tv, al via su Canale 5 Vanina - un vicequestore a Catania ANSA"
+        },
+        {
+          "title": "“Vanina – Un vicequestore a Catania”: trama, cast e personaggi - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "“Vanina – Un vicequestore a Catania”: trama, cast e personaggi TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Dov’è girata Vanina – Un vicequestore a Catania, la fiction con Giusy Buscemi ambientata in Sicilia - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Dov’è girata Vanina – Un vicequestore a Catania, la fiction con Giusy Buscemi ambientata in Sicilia Fanpage"
+        },
+        {
+          "title": "Vanina Guarrasi – Un vicequestore a Catania: luoghi e location dove è stata girata - Sicilia Preziosa",
+          "source": "Sicilia Preziosa",
+          "pubDate": "Wed, 27 Mar 2024 14:09:18 GMT",
+          "description": "Vanina Guarrasi – Un vicequestore a Catania: luoghi e location dove è stata girata Sicilia Preziosa"
+        },
+        {
+          "title": "“Vanina – Un vicequestore a Catania”, la serie tv tratta dai libri di Cristina Cassar Scalia - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "“Vanina – Un vicequestore a Catania”, la serie tv tratta dai libri di Cristina Cassar Scalia Libreriamo"
+        },
+        {
+          "title": "\"Vanina - Un vicequestore a Catania\": quante puntate sono e quando finisce - Today",
+          "source": "Today",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "\"Vanina - Un vicequestore a Catania\": quante puntate sono e quando finisce Today"
+        },
+        {
+          "title": "“Vanina – Un vicequestore a Catania”, la serie con Giusy Buscemi tratta dai romanzi di Cristina Cassar Scalia - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "“Vanina – Un vicequestore a Catania”, la serie con Giusy Buscemi tratta dai romanzi di Cristina Cassar Scalia Radio Deejay"
+        },
+        {
+          "title": "Vanina - Un vicequestore a Catania stasera 27 marzo su Canale 5: trama e cast della serie con Giusy Buscemi - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Vanina - Un vicequestore a Catania stasera 27 marzo su Canale 5: trama e cast della serie con Giusy Buscemi Movieplayer"
+        },
+        {
+          "title": "Serie tv: da mercoledì su Canale 5 “Vanina – Un vicequestore a Catania” - Etnalife",
+          "source": "Etnalife",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Serie tv: da mercoledì su Canale 5 “Vanina – Un vicequestore a Catania” Etnalife"
+        }
+      ]
+    },
+    "Giusy_Buscemi": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giuseppina Buscemi, detta Giusy, è un'attrice ed ex modella italiana, vincitrice della 73ª edizione del concorso di bellezza Miss Italia 2012.",
+      "news": [
+        {
+          "title": "Chi è Giusy Buscemi: età, carriera, figli e vita privata - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Chi è Giusy Buscemi: età, carriera, figli e vita privata Mediaset Infinity"
+        },
+        {
+          "title": "Vanina è la nuova serie tv di Canale 5, chi è la protagonista? Giusy Buscemi è il Vicequestore di catania: età, carriera, Miss Italia e... - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Vanina è la nuova serie tv di Canale 5, chi è la protagonista? Giusy Buscemi è il Vicequestore di catania: età, carriera, Miss Italia e... Il Messaggero"
+        },
+        {
+          "title": "La vita privata di Giusy Buscemi: il marito Jan Michelini e i tre figli Caterina, Pietro ed Elia - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "La vita privata di Giusy Buscemi: il marito Jan Michelini e i tre figli Caterina, Pietro ed Elia Fanpage"
+        },
+        {
+          "title": "Giusy Buscemi su maternità e lavoro: «E se non dovessimo scegliere tra carriera e famiglia?» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Giusy Buscemi su maternità e lavoro: «E se non dovessimo scegliere tra carriera e famiglia?» Vanity Fair Italia"
+        },
+        {
+          "title": "Giusy Buscemi, Vanina e l'importanza di mettersi alla prova - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Giusy Buscemi, Vanina e l'importanza di mettersi alla prova Movieplayer"
+        },
+        {
+          "title": "Giusy Buscemi, dai 3 figli alla laurea: l'ex Miss Italia è la vicequestora Vanina - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Giusy Buscemi, dai 3 figli alla laurea: l'ex Miss Italia è la vicequestora Vanina La Gazzetta dello Sport"
+        },
+        {
+          "title": "Giusy Buscemi, chi è il marito Jan Michelini. La scintilla (tardiva) sul set, le nozze, i figli - Libero",
+          "source": "Libero",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Giusy Buscemi, chi è il marito Jan Michelini. La scintilla (tardiva) sul set, le nozze, i figli Libero"
+        },
+        {
+          "title": "Vanina: stasera in tv la nuova serie di Canale 5 - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Vanina: stasera in tv la nuova serie di Canale 5 Amica.it"
+        },
+        {
+          "title": "Giusy Buscemi è ‘Vanina’: al via la nuova fiction di Canale 5 - Agenzia Dire",
+          "source": "Agenzia Dire",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Giusy Buscemi è ‘Vanina’: al via la nuova fiction di Canale 5 Agenzia Dire"
+        },
+        {
+          "title": "Giusy Buscemi è ‘Vanina’, la vicequestore della fiction di Canale 5 - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Giusy Buscemi è ‘Vanina’, la vicequestore della fiction di Canale 5 la Repubblica"
+        }
+      ]
+    },
+    "Campionato_europeo_di_calcio_2024": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il campionato europeo maschile di calcio 2024 o UEFA EURO 2024, noto anche come Germania 2024, è stata la 17ª edizione dell'omonimo torneo, che si è disputato in Germania dal 14 giugno al 14 luglio 2024.",
+      "news": [
+        {
+          "title": "Udinese Calcio protagonista al Coliseum Summit Europe - Udinese",
+          "source": "Udinese",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Udinese Calcio protagonista al Coliseum Summit Europe Udinese"
+        },
+        {
+          "title": "Si completa la griglia delle 24 finaliste di UEFA EURO 2024: Polonia, Ucraina e Georgia staccano gli ultimi tre pass - FIGC",
+          "source": "FIGC",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Si completa la griglia delle 24 finaliste di UEFA EURO 2024: Polonia, Ucraina e Georgia staccano gli ultimi tre pass FIGC"
+        },
+        {
+          "title": "LIDL Partner Ufficiale UEFA EURO 2024 lancia campagna per accompagnare i calciatori in campo - GDO News",
+          "source": "GDO News",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "LIDL Partner Ufficiale UEFA EURO 2024 lancia campagna per accompagnare i calciatori in campo GDO News"
+        },
+        {
+          "title": "Europei di Germania 2024: la guida completa alla competizione - Moveo by Telepass",
+          "source": "Moveo by Telepass",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Europei di Germania 2024: la guida completa alla competizione Moveo by Telepass"
+        },
+        {
+          "title": "A Euro 2024 ci saranno cinque ct italiani - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "A Euro 2024 ci saranno cinque ct italiani Sky Sport"
+        },
+        {
+          "title": "Nel quarto stadio più grande d’Europa si gioca solo... col 6-2-6 - RSI Radiotelevisione svizzera",
+          "source": "RSI Radiotelevisione svizzera",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Nel quarto stadio più grande d’Europa si gioca solo... col 6-2-6 RSI Radiotelevisione svizzera"
+        },
+        {
+          "title": "Alessandro Del Piero su Kylian Mbappé, Jude Bellingham e le Olimpiadi di Parigi 2024 - Olympics",
+          "source": "Olympics",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Alessandro Del Piero su Kylian Mbappé, Jude Bellingham e le Olimpiadi di Parigi 2024 Olympics"
+        },
+        {
+          "title": "Da San Siro al Bernabéu, ecco come cresce l'erba da Serie A - AgroNotizie",
+          "source": "AgroNotizie",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Da San Siro al Bernabéu, ecco come cresce l'erba da Serie A AgroNotizie"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Il bilancio di esercizio - anno 2023 - Banca d'Italia",
+          "source": "Banca d'Italia",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Il bilancio di esercizio - anno 2023 Banca d'Italia"
+        },
+        {
+          "title": "Italia e Kazakistan rafforzano le loro relazioni - ISPI",
+          "source": "ISPI",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Italia e Kazakistan rafforzano le loro relazioni ISPI"
+        },
+        {
+          "title": "L'Italia senza mare - Limes - Rivista Italiana di geopolitica",
+          "source": "Limes - Rivista Italiana di geopolitica",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "L'Italia senza mare Limes - Rivista Italiana di geopolitica"
+        },
+        {
+          "title": "Italia 3-0 Estonia | Info partita | UEFA EURO 2012 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Tue, 26 Mar 2024 10:37:51 GMT",
+          "description": "Italia 3-0 Estonia | Info partita | UEFA EURO 2012 UEFA.com"
+        },
+        {
+          "title": "Urso autorizza l'aggiudicazione del sito ex Blutec alla Pelligra Holding Italia - Mimit",
+          "source": "Mimit",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Urso autorizza l'aggiudicazione del sito ex Blutec alla Pelligra Holding Italia Mimit"
+        },
+        {
+          "title": "Cresce l'età media di chi acquista casa in Italia - MutuiOnline.it",
+          "source": "MutuiOnline.it",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Cresce l'età media di chi acquista casa in Italia MutuiOnline.it"
+        },
+        {
+          "title": "Agroalimentare in Italia: innovazione e sostenibilità - Intesa Sanpaolo",
+          "source": "Intesa Sanpaolo",
+          "pubDate": "Wed, 27 Mar 2024 14:38:33 GMT",
+          "description": "Agroalimentare in Italia: innovazione e sostenibilità Intesa Sanpaolo"
+        },
+        {
+          "title": "Dalla città di ‘Lolita’ al remake de “LaCapaGira”, è un attimo - Borderline24.com",
+          "source": "Borderline24.com",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Dalla città di ‘Lolita’ al remake de “LaCapaGira”, è un attimo Borderline24.com"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Il Bosco Delle Emozioni - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 25 Mar 2024 18:07:17 GMT",
+          "description": "Il Bosco Delle Emozioni RaiPlay"
+        },
+        {
+          "title": "Piccolo corpo - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 30 Mar 2024 23:48:57 GMT",
+          "description": "Piccolo corpo RaiPlay"
+        },
+        {
+          "title": "BellaMa' 2023/24 - Quando Battisti cantava \"Eppur mi son scordato di te\" - 01/04/2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "BellaMa' 2023/24 - Quando Battisti cantava \"Eppur mi son scordato di te\" - 01/04/2024 - Video RaiPlay"
+        },
+        {
+          "title": "Le indagini di Lolita Lobosco - Episodi - Stagione 3 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 27 Mar 2024 17:15:56 GMT",
+          "description": "Le indagini di Lolita Lobosco - Episodi - Stagione 3 RaiPlay"
+        },
+        {
+          "title": "Re Granchio - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 31 Mar 2024 23:04:15 GMT",
+          "description": "Re Granchio RaiPlay"
+        },
+        {
+          "title": "Storie della TV 2024 - La Rai delle Regioni - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "Storie della TV 2024 - La Rai delle Regioni - Video RaiPlay"
+        },
+        {
+          "title": "Nina & Olga - Episodi - Stagione 1 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 01 Apr 2024 03:38:55 GMT",
+          "description": "Nina & Olga - Episodi - Stagione 1 RaiPlay"
+        }
+      ]
+    },
+    "Problema_dei_tre_corpi": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il problema dei tre corpi è una classe di problemi della dinamica di base relativi alla meccanica classica. In generale esso consiste nel calcolare, date la posizione iniziale, la massa e la velocità di tre corpi soggetti all'influsso della reciproca attrazione gravitazionale, l'evoluzione futura del sistema da essi costituito.",
+      "news": [
+        {
+          "title": "In cosa Il problema dei 3 corpi, la serie, differisce dai libri (e come leggerli per capirla meglio) - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "In cosa Il problema dei 3 corpi, la serie, differisce dai libri (e come leggerli per capirla meglio) GQ Italia"
+        },
+        {
+          "title": "Che cos’è davvero il problema dei tre corpi - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Che cos’è davvero il problema dei tre corpi Il Post"
+        },
+        {
+          "title": "Il problema dei tre corpi – Una pietra miliare della fantascienza contemporanea - N3rdcore",
+          "source": "N3rdcore",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei tre corpi – Una pietra miliare della fantascienza contemporanea N3rdcore"
+        },
+        {
+          "title": "Tutti parlano de Il problema dei tre corpi. Ma perché? - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Tutti parlano de Il problema dei tre corpi. Ma perché? Esquire"
+        },
+        {
+          "title": "Dove vedere la serie tv cinese tratta da Il problema dei 3 corpi - Wired",
+          "source": "Wired",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Dove vedere la serie tv cinese tratta da Il problema dei 3 corpi Wired"
+        },
+        {
+          "title": "Il problema dei 3 corpi, 12 curiosità sulla serie tv Netflix. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei 3 corpi, 12 curiosità sulla serie tv Netflix. FOTO Sky TG24"
+        },
+        {
+          "title": "3 Body Problem - Grande fantascienza dai creatori di Game of Thrones :-) - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "3 Body Problem - Grande fantascienza dai creatori di Game of Thrones :-) Serial Minds"
+        },
+        {
+          "title": "Il problema dei 3 corpi, la spiegazione del finale: siamo insetti, ma resistenti - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei 3 corpi, la spiegazione del finale: siamo insetti, ma resistenti Movieplayer"
+        },
+        {
+          "title": "Il Problema Dei 3 Corpi 1x02 - Costa Rossa - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Il Problema Dei 3 Corpi 1x02 - Costa Rossa Recenserie"
+        },
+        {
+          "title": "Il problema dei tre corpi, di cosa parla la nuova serie Netflix: trama e spiegazione del finale - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Il problema dei tre corpi, di cosa parla la nuova serie Netflix: trama e spiegazione del finale Fanpage"
+        }
+      ]
+    },
+    "Shōgun_(miniserie_televisiva_2024)": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Shōgun è una serie televisiva statunitense basata sull'omonimo romanzo del 1975, scritto da James Clavell, a sua volta ispirato a vicende reali.",
+      "news": [
+        {
+          "title": "5 serie tv sui samurai da guardare se state giocando Rise of the Ronin - Everyeye Serie TV",
+          "source": "Everyeye Serie TV",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "5 serie tv sui samurai da guardare se state giocando Rise of the Ronin Everyeye Serie TV"
+        }
+      ]
+    },
+    "YouTube": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "YouTube è una piattaforma web che consente la condivisione e visualizzazione in rete di contenuti multimediali: sul sito è possibile vedere videoclip, trailer, cortometraggi, notizie, live streaming, shorts, slideshow e altri contenuti come video blog, brevi video originali, video didattici, ecc., classificabili anche per età. Gli utenti possono interagire votando, commentando, aggiungendo i video ai preferiti e, se necessario, segnalandoli.",
+      "news": [
+        {
+          "title": "Come acquistare film su YouTube - Libero",
+          "source": "Libero",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Come acquistare film su YouTube Libero"
+        },
+        {
+          "title": "LVF Campus – Google e Youtube oggetto del Modulo 2 del programma di formazione 2023-24 - Lega Volley Femminile",
+          "source": "Lega Volley Femminile",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "LVF Campus – Google e Youtube oggetto del Modulo 2 del programma di formazione 2023-24 Lega Volley Femminile"
+        },
+        {
+          "title": "Geolier e Liberato: le voci dialettali del Sud più ascoltate su YouTube - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Geolier e Liberato: le voci dialettali del Sud più ascoltate su YouTube Il Mattino"
+        },
+        {
+          "title": "Mr. Marra sull'ultima di Muschio Selvaggio: “La puntata registrata mesi fa e vista da un consulente Youtube” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Mr. Marra sull'ultima di Muschio Selvaggio: “La puntata registrata mesi fa e vista da un consulente Youtube” Fanpage"
+        },
+        {
+          "title": "Online da oggi 26 marzo su YouTube il video di “Diventano Bosco” di Noite - Spettacolo Periodico Daily",
+          "source": "Spettacolo Periodico Daily",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Online da oggi 26 marzo su YouTube il video di “Diventano Bosco” di Noite Spettacolo Periodico Daily"
+        }
+      ]
+    },
+    "Francesco_Schiavone": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Francesco Schiavone è un mafioso italiano.",
+      "news": [
+        {
+          "title": "La lunga carriera del boss Schiavone - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "La lunga carriera del boss Schiavone RaiNews"
+        },
+        {
+          "title": "Francesco Schiavone: il primo arresto a 18 anni, la scalata al clan dei Casalesi e la fine della latitanza. Chi è il boss chiamato Sandokan - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Francesco Schiavone: il primo arresto a 18 anni, la scalata al clan dei Casalesi e la fine della latitanza. Chi è il boss chiamato Sandokan Il Fatto Quotidiano"
+        },
+        {
+          "title": "Camorra, Francesco Schiavone known as 'Sandokan' has repented - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Camorra, Francesco Schiavone known as 'Sandokan' has repented Il Sole 24 ORE"
+        },
+        {
+          "title": "Camorra, si è pentito Francesco Schiavone 'Sandokan' - ANSA",
+          "source": "ANSA",
+          "pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+          "description": "Camorra, si è pentito Francesco Schiavone 'Sandokan' ANSA"
+        },
+        {
+          "title": "Camorra, si pente dopo 26 anni il boss Francesco Schiavone \"Sandokan\" - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Camorra, si pente dopo 26 anni il boss Francesco Schiavone \"Sandokan\" Tgcom24"
+        },
+        {
+          "title": "Sandokan si pente. Francesco Schiavone diventa collaboratore di giustizia - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Sandokan si pente. Francesco Schiavone diventa collaboratore di giustizia Tv2000"
+        },
+        {
+          "title": "Camorra, si è pentito Francesco Schiavone \"Sandokan\", boss del clan dei Casalesi - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Camorra, si è pentito Francesco Schiavone \"Sandokan\", boss del clan dei Casalesi Fanpage"
+        },
+        {
+          "title": "Francesco Schiavone detto Sandokan non ha un tumore: l'ex boss dei Casalesi aveva finto per cambiare carcere - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Francesco Schiavone detto Sandokan non ha un tumore: l'ex boss dei Casalesi aveva finto per cambiare carcere Virgilio"
+        },
+        {
+          "title": "Sandokan, chi è Francesco Schiavone: la malattia e cosa può rivelare il super boss del clan dei Casalesi - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Sandokan, chi è Francesco Schiavone: la malattia e cosa può rivelare il super boss del clan dei Casalesi Il Messaggero"
+        },
+        {
+          "title": "Che storia ha il boss Francesco Schiavone, che ha iniziato a collaborare con la giustizia - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Che storia ha il boss Francesco Schiavone, che ha iniziato a collaborare con la giustizia Il Post"
+        }
+      ]
+    },
+    "Endrick_Felipe_Moreira_de_Sousa": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Endrick Felipe Moreira de Sousa, noto semplicemente come Endrick, è un calciatore brasiliano, attaccante del Real Madrid e della nazionale brasiliana.",
+      "news": [
+        {
+          "title": "Il Brasile è ai piedi di Endrick, un calciatore molto speciale - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Il Brasile è ai piedi di Endrick, un calciatore molto speciale Esquire"
+        },
+        {
+          "title": "La favola di Endrik, il ragazzo d'oro sulle orme di Pelé - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "La favola di Endrik, il ragazzo d'oro sulle orme di Pelé Avvenire"
+        },
+        {
+          "title": "Il Brasile del calcio crede molto in Endrick - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Il Brasile del calcio crede molto in Endrick Il Post"
+        },
+        {
+          "title": "Endrick sa quali sono le cose da non dimenticare: \"Mamma piangeva in bagno, papà dormiva allo stadio\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Endrick sa quali sono le cose da non dimenticare: \"Mamma piangeva in bagno, papà dormiva allo stadio\" Fanpage"
+        },
+        {
+          "title": "Yamal-Endrick, i futuri talenti del Clásico tra Barcellona e Real Madrid - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Yamal-Endrick, i futuri talenti del Clásico tra Barcellona e Real Madrid Corriere della Sera"
+        },
+        {
+          "title": "\"Nati poveri, nati nel calcio\": Endrick, la lettera che commuove il mondo - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "\"Nati poveri, nati nel calcio\": Endrick, la lettera che commuove il mondo Tuttosport"
+        }
+      ]
+    },
+    "Fritz_Wepper": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fritz Wepper è stato un attore tedesco noto soprattutto per aver interpretato il ruolo di Harry Klein nelle serie televisive Der Kommissar e L'ispettore Derrick, il sindaco Wolfgang Wöller nella serie televisiva Un ciclone in convento e lo psichiatra Dr. Wendelin Winter nella serie televisiva poliziesca Omicidi nell'alta società.",
+      "news": [
+        {
+          "title": "È morto Fritz Wepper, famoso in Italia come l'assistente dell'ispettore Derrick - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "È morto Fritz Wepper, famoso in Italia come l'assistente dell'ispettore Derrick La Gazzetta dello Sport"
+        },
+        {
+          "title": "Addio a Fritz Wepper, in TV era l'aiutante dell'ispettore Derrick - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Addio a Fritz Wepper, in TV era l'aiutante dell'ispettore Derrick Esquire"
+        },
+        {
+          "title": "È morto Fritz Wepper, l’attore tedesco indimenticabile assistente dell’ispettore Derrick - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "È morto Fritz Wepper, l’attore tedesco indimenticabile assistente dell’ispettore Derrick Fanpage"
+        },
+        {
+          "title": "Morto Fritz Wepper, il celebre assistente de L'ispettore Derrick: l'attore tedesco aveva 82 anni, la malattia - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Morto Fritz Wepper, il celebre assistente de L'ispettore Derrick: l'attore tedesco aveva 82 anni, la malattia Virgilio"
+        },
+        {
+          "title": "Addio a Fritz Wepper, il fidato assistente dell'ispettore Derrick - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Addio a Fritz Wepper, il fidato assistente dell'ispettore Derrick RaiNews"
+        },
+        {
+          "title": "E’ morto Fritz Wepper, il celebre assistente dell’ispettore Derrick - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "E’ morto Fritz Wepper, il celebre assistente dell’ispettore Derrick Il Fatto Quotidiano"
+        },
+        {
+          "title": "Addio a Fritz Wepper, era l’assistente dell’ispettore Derrick - Spettakolo!",
+          "source": "Spettakolo!",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Addio a Fritz Wepper, era l’assistente dell’ispettore Derrick Spettakolo!"
+        },
+        {
+          "title": "Addio a Fritz Wepper, il celebre assistente Harry dell'ispettore Derrick - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Addio a Fritz Wepper, il celebre assistente Harry dell'ispettore Derrick Tgcom24"
+        },
+        {
+          "title": "Addio a Fritz Wepper, l'assistente immortale dell'ispettore Derrick - La Provincia di Cremona",
+          "source": "La Provincia di Cremona",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Addio a Fritz Wepper, l'assistente immortale dell'ispettore Derrick La Provincia di Cremona"
+        },
+        {
+          "title": "Morto Fritz Wepper, era il fidato assistente dell’ispettore Derrick - Ciak Magazine",
+          "source": "Ciak Magazine",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Morto Fritz Wepper, era il fidato assistente dell’ispettore Derrick Ciak Magazine"
+        }
+      ]
+    },
+    "Grande_Fratello_(programma_televisivo)": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Grande Fratello è stato un programma televisivo italiano di genere reality, in onda su Canale 5 dal 14 settembre 2000 al 18 dicembre 2025, prodotto da Endemol Shine Italy e basato sul format olandese Big Brother. I concorrenti del reality condividono la propria vita quotidiana all'interno di una casa, ripresi 24 ore su 24.",
+      "news": [
+        {
+          "title": "Grande Fratello: tutti i vincitori (e che fine hanno fatto) - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Grande Fratello: tutti i vincitori (e che fine hanno fatto) Vanity Fair Italia"
+        },
+        {
+          "title": "Le pagelle del Grande Fratello 2023-2024. Cosa resterà di questa edizione - Today",
+          "source": "Today",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Le pagelle del Grande Fratello 2023-2024. Cosa resterà di questa edizione Today"
+        },
+        {
+          "title": "Finale Grande Fratello Vip, il vincitore? Tra i concorrenti ancora in gara tre arrivano da Milano - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Finale Grande Fratello Vip, il vincitore? Tra i concorrenti ancora in gara tre arrivano da Milano Il Giorno"
+        },
+        {
+          "title": "Grande Fratello: tutti i vincitori del reality dal 2000 ad oggi - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Grande Fratello: tutti i vincitori del reality dal 2000 ad oggi Fanpage"
+        },
+        {
+          "title": "Grande Fratello, stasera la finale: nomination, sondaggi, favoriti e news - Libero",
+          "source": "Libero",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Grande Fratello, stasera la finale: nomination, sondaggi, favoriti e news Libero"
+        },
+        {
+          "title": "Perla Vatiero: «Ecco come ho vinto il Grande Fratello» - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Perla Vatiero: «Ecco come ho vinto il Grande Fratello» TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Grande Fratello, Beatrice Luzzi spiega: \"Ecco perchè non ho vinto\" e su Perla e Mirko... - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Grande Fratello, Beatrice Luzzi spiega: \"Ecco perchè non ho vinto\" e su Perla e Mirko... Movieplayer"
+        },
+        {
+          "title": "Beatrice Luzzi non ha vinto il Grande Fratello, ma lo ha costruito - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Beatrice Luzzi non ha vinto il Grande Fratello, ma lo ha costruito Vanity Fair Italia"
+        },
+        {
+          "title": "Gf: top e flop di questa edizione, da Beatrice Luzzi a Signorini - Libero",
+          "source": "Libero",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Gf: top e flop di questa edizione, da Beatrice Luzzi a Signorini Libero"
+        },
+        {
+          "title": "Andrea Zenga: la carriera in tv e sui social, la storia con Cannavò - Libero",
+          "source": "Libero",
+          "pubDate": "Fri, 29 Mar 2024 07:26:50 GMT",
+          "description": "Andrea Zenga: la carriera in tv e sui social, la storia con Cannavò Libero"
+        }
+      ]
+    },
+    "Città_d'Italia": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il titolo di città in Italia è un titolo onorifico concesso ai comuni italiani.",
+      "news": [
+        {
+          "title": "La classifica delle città con il miglior clima in Italia - Virgilio InItalia",
+          "source": "Virgilio InItalia",
+          "pubDate": "Mon, 25 Mar 2024 10:20:57 GMT",
+          "description": "La classifica delle città con il miglior clima in Italia Virgilio InItalia"
+        },
+        {
+          "title": "Dove piove di più in Italia e dove meno? La classifica delle città - Libero",
+          "source": "Libero",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Dove piove di più in Italia e dove meno? La classifica delle città Libero"
+        },
+        {
+          "title": "Lecco è la città più piovosa d'Italia, lo dicono anche i numeri - LeccoToday",
+          "source": "LeccoToday",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Lecco è la città più piovosa d'Italia, lo dicono anche i numeri LeccoToday"
+        },
+        {
+          "title": "Bari è la città con il miglior clima d’Italia. Maglia nera al Veneto con Belluno e Rovigo - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Bari è la città con il miglior clima d’Italia. Maglia nera al Veneto con Belluno e Rovigo Quotidiano Nazionale"
+        },
+        {
+          "title": "Miglior clima, in Italia la città vincente è Bari. Ultima Belluno - La Nuova Ecologia",
+          "source": "La Nuova Ecologia",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Miglior clima, in Italia la città vincente è Bari. Ultima Belluno La Nuova Ecologia"
+        },
+        {
+          "title": "Due siciliane nella Top Ten sul \"bel tempo\" in Italia: indovinate dove è finita Palermo - Balarm.it",
+          "source": "Balarm.it",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Due siciliane nella Top Ten sul \"bel tempo\" in Italia: indovinate dove è finita Palermo Balarm.it"
+        },
+        {
+          "title": "Queste sono le 10 città più piovose d’Italia e le 10 dove batte più il sole, c’è anche la tua? - greenMe",
+          "source": "greenMe",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "Queste sono le 10 città più piovose d’Italia e le 10 dove batte più il sole, c’è anche la tua? greenMe"
+        },
+        {
+          "title": "Le 7 curiosità che dovresti conoscere prima di visitare Torino - Idealista",
+          "source": "Idealista",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Le 7 curiosità che dovresti conoscere prima di visitare Torino Idealista"
+        },
+        {
+          "title": "Carugate si candida a diventare la città più lenta d'Italia: «Limite di 20 chilometri all'ora in centro» - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Carugate si candida a diventare la città più lenta d'Italia: «Limite di 20 chilometri all'ora in centro» Corriere Milano"
+        },
+        {
+          "title": "Le città con il miglior clima in Italia: Brindisi è tra le prime dieci - BrindisiReport",
+          "source": "BrindisiReport",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Le città con il miglior clima in Italia: Brindisi è tra le prime dieci BrindisiReport"
+        }
+      ]
+    },
+    "Le_indagini_di_Lolita_Lobosco": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le indagini di Lolita Lobosco è una serie televisiva italiana liberamente ispirata alla saga letteraria di Gabriella Genisi con protagonista l'omonimo personaggio, trasmessa su Rai 1 dal 21 febbraio 2021.",
+      "news": [
+        {
+          "title": "Le indagini di Lolita Lobosco - Episodi - Stagione 3 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 27 Mar 2024 17:15:56 GMT",
+          "description": "Le indagini di Lolita Lobosco - Episodi - Stagione 3 RaiPlay"
+        },
+        {
+          "title": "\"Le indagini di Lolita Lobosco\" in prima visione - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "\"Le indagini di Lolita Lobosco\" in prima visione Rai.it"
+        },
+        {
+          "title": "\"Le indagini di Lolita Lobosco\": dal romanzo alla serie - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "\"Le indagini di Lolita Lobosco\": dal romanzo alla serie Taxidrivers.it"
+        },
+        {
+          "title": "Le indagini di Lolita Lobosco 3: trama dell'ultima puntata, stasera su Rai 1 - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Le indagini di Lolita Lobosco 3: trama dell'ultima puntata, stasera su Rai 1 Movieplayer"
+        },
+        {
+          "title": "Lolita Lobosco 4 si farà, cosa sappiamo: lo spoiler (involontario) di Luisa Ranieri, data della quarta stagione - Libero",
+          "source": "Libero",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Lolita Lobosco 4 si farà, cosa sappiamo: lo spoiler (involontario) di Luisa Ranieri, data della quarta stagione Libero"
+        },
+        {
+          "title": "Lolita Lobosco 3, stasera ultima puntata: trama, cast ed episodi della fiction di Rai 1 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Lolita Lobosco 3, stasera ultima puntata: trama, cast ed episodi della fiction di Rai 1 Fanpage"
+        },
+        {
+          "title": "CLAUDIA LERRO, PORZIA IN “LE INDAGINI DI LOLITA LOBOSCO”, AD APRILE ALL’ABELIANO CON UNA PRODUZIONE DI TEATRO PER BAMBINI - PugliaLive",
+          "source": "PugliaLive",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "CLAUDIA LERRO, PORZIA IN “LE INDAGINI DI LOLITA LOBOSCO”, AD APRILE ALL’ABELIANO CON UNA PRODUZIONE DI TEATRO PER BAMBINI PugliaLive"
+        },
+        {
+          "title": "Stasera in tv il gran finale di “Lolita Lobosco” 3. Ma Luisa Ranieri parla già della quarta stagione… - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Stasera in tv il gran finale di “Lolita Lobosco” 3. Ma Luisa Ranieri parla già della quarta stagione… Amica.it"
+        },
+        {
+          "title": "Successo per “Le indagini di Lolita Lobosco”: oltre 4,9 milioni di spettatori per il finale di stagione - TRM network",
+          "source": "TRM network",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Successo per “Le indagini di Lolita Lobosco”: oltre 4,9 milioni di spettatori per il finale di stagione TRM network"
+        },
+        {
+          "title": "Lolita Lobosco 3, finale di stagione: anticipazioni di ‘Un brutto affare’ e della prossima stagione - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Lolita Lobosco 3, finale di stagione: anticipazioni di ‘Un brutto affare’ e della prossima stagione Corriere Style"
+        }
+      ]
+    },
+    "Joaquin_Phoenix": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Joaquin Rafael Phoenix, nato Joaquin Rafael Bottom, è un attore statunitense.",
+      "news": [
+        {
+          "title": "Joker: quanti chili ha perso Joaquin Phoenix per il ruolo? (ed altre curiosità) - HyNerd",
+          "source": "HyNerd",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Joker: quanti chili ha perso Joaquin Phoenix per il ruolo? (ed altre curiosità) HyNerd"
+        },
+        {
+          "title": "Joker: Folie à Deux, il trailer del film con Joaquin Phoenix e Lady Gaga è previsto per il 9 aprile - Comics Universe",
+          "source": "Comics Universe",
+          "pubDate": "Mon, 01 Apr 2024 07:00:00 GMT",
+          "description": "Joker: Folie à Deux, il trailer del film con Joaquin Phoenix e Lady Gaga è previsto per il 9 aprile Comics Universe"
+        },
+        {
+          "title": "Quale è il significato del finale di Joker, le possibili interpretazioni e la spiegazione di Todd Philips - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Quale è il significato del finale di Joker, le possibili interpretazioni e la spiegazione di Todd Philips Fanpage"
+        },
+        {
+          "title": "Eddington, spoiler clamoroso sul film con Emma Stone e Joaquin Phoenix! In realtà è... - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Eddington, spoiler clamoroso sul film con Emma Stone e Joaquin Phoenix! In realtà è... Everyeye Cinema"
+        },
+        {
+          "title": "Joker, interpretazione da Oscar Il cabarettista disadattato diventa il re di Gotham City - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Joker, interpretazione da Oscar Il cabarettista disadattato diventa il re di Gotham City La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Questa sera in tv torna ‘Joker’ - Agenzia Dire",
+          "source": "Agenzia Dire",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Questa sera in tv torna ‘Joker’ Agenzia Dire"
+        },
+        {
+          "title": "\"Joker\" - QuiMediaset",
+          "source": "QuiMediaset",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "\"Joker\" QuiMediaset"
+        },
+        {
+          "title": "Joker: la spiegazione del finale del film con Joaquin Phoenix - CiakClub",
+          "source": "CiakClub",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Joker: la spiegazione del finale del film con Joaquin Phoenix CiakClub"
+        },
+        {
+          "title": "Joker, la scalinata nel Bronx e non solo: tutte le location del film - Donna Glamour",
+          "source": "Donna Glamour",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Joker, la scalinata nel Bronx e non solo: tutte le location del film Donna Glamour"
+        }
+      ]
+    },
+    "Beatrice_Luzzi": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Beatrice Luzzi è un'attrice e autrice televisiva italiana.",
+      "news": [
+        {
+          "title": "Beatrice Luzzi non ha vinto il Grande Fratello, ma lo ha costruito - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Beatrice Luzzi non ha vinto il Grande Fratello, ma lo ha costruito Vanity Fair Italia"
+        },
+        {
+          "title": "Grande Fratello, Beatrice Luzzi spiega: \"Ecco perchè non ho vinto\" e su Perla e Mirko... - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Grande Fratello, Beatrice Luzzi spiega: \"Ecco perchè non ho vinto\" e su Perla e Mirko... Movieplayer"
+        },
+        {
+          "title": "Beatrice Luzzi, età, carriera, vita privata: chi è l'attrice finalista del Grande Fratello - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Beatrice Luzzi, età, carriera, vita privata: chi è l'attrice finalista del Grande Fratello Il Messaggero"
+        },
+        {
+          "title": "Beatrice Luzzi: “La vittoria al GF? Temo i miei figli siano delusi ma avevo contro i fan degli altri” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
+          "description": "Beatrice Luzzi: “La vittoria al GF? Temo i miei figli siano delusi ma avevo contro i fan degli altri” Fanpage"
+        },
+        {
+          "title": "Gf: top e flop di questa edizione, da Beatrice Luzzi a Signorini - Libero",
+          "source": "Libero",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Gf: top e flop di questa edizione, da Beatrice Luzzi a Signorini Libero"
+        },
+        {
+          "title": "Beatrice Luzzi e la mancata vittoria al Grande Fratello: \"Mi è dispiaciuto per i miei figli\" - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Beatrice Luzzi e la mancata vittoria al Grande Fratello: \"Mi è dispiaciuto per i miei figli\" Mediaset Infinity"
+        },
+        {
+          "title": "Perla Vatiero è la vincitrice del Grande Fratello, Beatrice Luzzi seconda classificata. Cosa ha detto Alfonso Singorini sul futuro del reality - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Perla Vatiero è la vincitrice del Grande Fratello, Beatrice Luzzi seconda classificata. Cosa ha detto Alfonso Singorini sul futuro del reality Il Fatto Quotidiano"
+        },
+        {
+          "title": "Grande Fratello 17 : 10 cose che ricorderemo (nel bene e nel male) di questa edizione - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Grande Fratello 17 : 10 cose che ricorderemo (nel bene e nel male) di questa edizione Vanity Fair Italia"
+        },
+        {
+          "title": "Verissimo: Beatrice Luzzi: \"Mia mamma era molto preoccupata per le condizioni fisiche di mio papà\" Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Verissimo: Beatrice Luzzi: \"Mia mamma era molto preoccupata per le condizioni fisiche di mio papà\" Video Mediaset Infinity"
+        },
+        {
+          "title": "Grande Fratello: Perla Vatiero vince l'edizione di Beatrice Luzzi - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Grande Fratello: Perla Vatiero vince l'edizione di Beatrice Luzzi Movieplayer"
+        }
+      ]
+    },
+    "Pasqua": {
+      "fetched_at": "2026-11-06T17:09:40+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Pasqua è una festa cristiana e culturale che commemora la resurrezione di Gesù dai morti, descritta nel Nuovo Testamento come avvenuta il terzo giorno della sua sepoltura dopo la sua crocifissione da parte dei Romani sul monte Calvario il 15 nisan 32 d.C. È il culmine della passione di Gesù, preceduta dalla Quaresima, un periodo di 40 giorni di digiuno, preghiera e penitenza. È una festa mobile e la principale solennità del cristianesimo.",
+      "news": [
+        {
+          "title": "Sito Istituzionale | Pasqua nei Musei - Roma Capitale",
+          "source": "Roma Capitale",
+          "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
+          "description": "Sito Istituzionale | Pasqua nei Musei Roma Capitale"
+        },
+        {
+          "title": "Apertura per Pasqua del Centro comunale d’Arte Exma - Comune di Cagliari",
+          "source": "Comune di Cagliari",
+          "pubDate": "Thu, 28 Mar 2024 07:00:00 GMT",
+          "description": "Apertura per Pasqua del Centro comunale d’Arte Exma Comune di Cagliari"
+        },
+        {
+          "title": "Cosa fare per Pasqua a Roma, dagli eventi ai trasporti. La guida completa - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Cosa fare per Pasqua a Roma, dagli eventi ai trasporti. La guida completa RomaToday"
+        },
+        {
+          "title": "Il Papa: Pasqua è speranza oltre i muri dell'egoismo e la ferocia delle guerre - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+          "description": "Il Papa: Pasqua è speranza oltre i muri dell'egoismo e la ferocia delle guerre Vatican News"
+        },
+        {
+          "title": "Come si calcola la data di Pasqua - Wired",
+          "source": "Wired",
+          "pubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+          "description": "Come si calcola la data di Pasqua Wired"
+        },
+        {
+          "title": "Rappresentanza delle Forze Armate al messaggio del Pontefice per la Santa Pasqua - Ministero della Difesa",
+          "source": "Ministero della Difesa",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Rappresentanza delle Forze Armate al messaggio del Pontefice per la Santa Pasqua Ministero della Difesa"
+        },
+        {
+          "title": "È Pasqua! Lui è vivo e ti vuole PIENO DI VITA! | Pastorale Giovanile – F.O.M. Fondazione Oratori Milanesi - Chiesa di Milano",
+          "source": "Chiesa di Milano",
+          "pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+          "description": "È Pasqua! Lui è vivo e ti vuole PIENO DI VITA! | Pastorale Giovanile – F.O.M. Fondazione Oratori Milanesi Chiesa di Milano"
+        },
+        {
+          "title": "Concerto di Pasqua dal Duomo di Orvieto 2024 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Concerto di Pasqua dal Duomo di Orvieto 2024 RaiPlay"
+        },
+        {
+          "title": "Pasqua 2024: si alzino le bandiere bianche! - Azione Cattolica Italiana",
+          "source": "Azione Cattolica Italiana",
+          "pubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+          "description": "Pasqua 2024: si alzino le bandiere bianche! Azione Cattolica Italiana"
+        },
+        {
+          "title": "Pasqua e Pasquetta: il diritto di non lavorare - Collettiva",
+          "source": "Collettiva",
+          "pubDate": "Sun, 31 Mar 2024 07:00:00 GMT",
+          "description": "Pasqua e Pasquetta: il diritto di non lavorare Collettiva"
+        }
+      ]
+    }
+  }
+}

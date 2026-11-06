@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Donald_Trump",
       "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
-      "description": "politico e imprenditore statunitense, 45º e 47º presidente degli Stati Uniti d'America",
+      "description": "Politico e imprenditore repubblicano, vince le elezioni presidenziali statunitensi del 5 novembre contro Kamala Harris.",
       "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Elon%20Musk&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elon_Musk",
       "article_url": "https://it.wikipedia.org/wiki/Elon_Musk",
-      "description": "imprenditore e politico sudafricano, con cittadinanza canadese, naturalizzato statunitense (1971–)",
+      "description": "Imprenditore e sostenitore di Donald Trump, vince con lui la campagna per le presidenziali statunitensi del 5 novembre.",
       "image_filename": "Elon_Musk_-_54820081119_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/1280px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_-_54820081119_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Delitto%20di%20Avetrana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Delitto_di_Avetrana",
       "article_url": "https://it.wikipedia.org/wiki/Delitto_di_Avetrana",
-      "description": "caso di omicidio avvenuto ad Avetrana nel 2010",
+      "description": "L'omicidio di Sarah Scazzi, avvenuto nel 2010, è raccontato nella serie Qui non è Hollywood, su Disney+ dal 30 ottobre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2024",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2024",
-      "description": "60ª elezione presidenziale degli Stati Uniti d'America",
+      "description": "Il 5 novembre il repubblicano Donald Trump vince le elezioni presidenziali contro la democratica Kamala Harris.",
       "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Kamala%20Harris&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Kamala_Harris",
       "article_url": "https://it.wikipedia.org/wiki/Kamala_Harris",
-      "description": "procuratrice e politica statunitense",
+      "description": "Vicepresidente degli Stati Uniti e candidata democratica, perde le presidenziali del 5 novembre contro Donald Trump.",
       "image_filename": "Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/1280px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Parthenope%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Parthenope_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Parthenope_(film)",
-      "description": "film del 2024 diretto da Paolo Sorrentino",
+      "description": "Film diretto da Paolo Sorrentino, è nelle sale italiane dal 24 ottobre.",
       "image_filename": "Parthenope2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/eb/Parthenope2024.png/1280px-Parthenope2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Parthenope2024.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2020",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2020",
-      "description": "59ª elezione presidenziale degli Stati Uniti d'America",
+      "description": "Vinte da Joe Biden contro Donald Trump, sono probabilmente legate alla nuova vittoria di Trump nelle presidenziali del 5 novembre.",
       "image_filename": "Joe_Biden_presidential_portrait_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Joe_Biden_presidential_portrait_%28cropped%29.jpg/1280px-Joe_Biden_presidential_portrait_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=883%20%28gruppo%20musicale%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=883_(gruppo_musicale)",
       "article_url": "https://it.wikipedia.org/wiki/883_(gruppo_musicale)",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo pop rock fondato da Max Pezzali e Mauro Repetto, è raccontato nella serie Hanno ucciso l'Uomo Ragno, conclusa il 1º novembre su Sky e Now.",
       "image_filename": "Pezzali_Repetto.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/9/93/Pezzali_Repetto.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzali_Repetto.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Presidenti%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Presidenti_degli_Stati_Uniti_d%27America",
       "article_url": "https://it.wikipedia.org/wiki/Presidenti_degli_Stati_Uniti_d%27America",
-      "description": "lista di un progetto Wikimedia",
+      "description": "Il 5 novembre Donald Trump vince le elezioni e si prepara a diventare il 47º presidente degli Stati Uniti.",
       "image_filename": "Flag_of_the_President_of_the_United_States.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_the_President_of_the_United_States.svg/1280px-Flag_of_the_President_of_the_United_States.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_the_United_States.svg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Qui%20non%20%C3%A8%20Hollywood&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Qui_non_%C3%A8_Hollywood",
       "article_url": "https://it.wikipedia.org/wiki/Qui_non_%C3%A8_Hollywood",
-      "description": "",
+      "description": "Miniserie italiana sul delitto di Avetrana, è disponibile su Disney+ dal 30 ottobre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Melania%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Melania_Trump",
       "article_url": "https://it.wikipedia.org/wiki/Melania_Trump",
-      "description": "modella slovena naturalizzata statunitense, First Lady degli Stati Uniti d'America",
+      "description": "Ex modella e moglie di Donald Trump, torna a essere futura first lady con la vittoria del marito alle presidenziali del 5 novembre.",
       "image_filename": "Melania_Trump’s_Official_White_House_Portrait_(2025)_(3x4_cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%283x4_cropped%29.jpg/1280px-Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%283x4_cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Melania_Trump%E2%80%99s_Official_White_House_Portrait_(2025)_(3x4_cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202016&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2016",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2016",
-      "description": "58ª elezione presidenziale degli Stati Uniti d'America",
+      "description": "Vinte da Donald Trump contro Hillary Clinton, sono probabilmente legate alla nuova vittoria di Trump nelle presidenziali del 5 novembre.",
       "image_filename": "Donald_Trump_official_portrait_(3x4a).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/1280px-Donald_Trump_official_portrait_%283x4a%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait_(3x4a).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Mauro%20Repetto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Mauro_Repetto",
       "article_url": "https://it.wikipedia.org/wiki/Mauro_Repetto",
-      "description": "compositore e musicista italiano naturalizzato francese (1968-)",
+      "description": "Musicista e cofondatore degli 883, è raccontato nella serie Hanno ucciso l'Uomo Ragno, conclusa il 1º novembre su Sky e Now.",
       "image_filename": "Pezzali_Repetto.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/9/93/Pezzali_Repetto.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzali_Repetto.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Quincy%20Jones&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Quincy_Jones",
       "article_url": "https://it.wikipedia.org/wiki/Quincy_Jones",
-      "description": "arrangiatore, direttore d'orchestra, produttore discografico, compositore, trombettista e attivista statunitense (1933-2024)",
+      "description": "Produttore e compositore statunitense, noto anche per il lavoro con Michael Jackson, muore il 3 novembre a 91 anni.",
       "image_filename": "Quincy_jones_1980_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Quincy_jones_1980_%28cropped%29.jpg/1004px-Quincy_jones_1980_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Quincy_jones_1980_(cropped).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Joe%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Joe_Biden",
       "article_url": "https://it.wikipedia.org/wiki/Joe_Biden",
-      "description": "politico statunitense (1942–), 46º presidente degli Stati Uniti d'America (2021–2025)",
+      "description": "Presidente statunitense in carica, si prepara a lasciare la Casa Bianca dopo la vittoria di Donald Trump alle elezioni del 5 novembre.",
       "image_filename": "Joe_Biden_presidential_portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1280px-Joe_Biden_presidential_portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Max%20Pezzali&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Max_Pezzali",
       "article_url": "https://it.wikipedia.org/wiki/Max_Pezzali",
-      "description": "cantautore e compositore italiano (1967-)",
+      "description": "Cantautore e cofondatore degli 883, è raccontato nella serie Hanno ucciso l'Uomo Ragno, conclusa il 1º novembre su Sky e Now.",
       "image_filename": "Max_Pezzali_at_Cartoomics_2013-1_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Max_Pezzali_at_Cartoomics_2013-1_%28cropped%29.jpg/1280px-Max_Pezzali_at_Cartoomics_2013-1_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Max_Pezzali_at_Cartoomics_2013-1_(cropped).jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Lidia%20Po%C3%ABt&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Lidia_Po%C3%ABt",
       "article_url": "https://it.wikipedia.org/wiki/Lidia_Po%C3%ABt",
-      "description": "avvocata italiana (1855-1949)",
+      "description": "Prima donna iscritta all'Ordine degli avvocati in Italia, è protagonista della serie La legge di Lidia Poët, la cui seconda stagione esce il 30 ottobre su Netflix.",
       "image_filename": "Lidia-poët.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8d/Lidia-po%C3%ABt.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lidia-po%C3%ABt.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Hanno%20ucciso%20l%27Uomo%20Ragno%20-%20La%20leggendaria%20storia%20degli%20883&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883",
       "article_url": "https://it.wikipedia.org/wiki/Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883",
-      "description": "serie televisiva italiana del 2024",
+      "description": "La serie italiana sugli 883 si conclude il 1º novembre su Sky Serie e Now.",
       "image_filename": "Hanno_ucciso_l'Uomo_Ragno_-_La_leggendaria_storia_degli_883.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883.png/1280px-Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hanno_ucciso_l%27Uomo_Ragno_-_La_leggendaria_storia_degli_883.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Substance&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=The_Substance",
       "article_url": "https://it.wikipedia.org/wiki/The_Substance",
-      "description": "film del 2024 diretto da Coralie Fargeat",
+      "description": "Film horror diretto da Coralie Fargeat e interpretato da Demi Moore, è nelle sale italiane dal 30 ottobre.",
       "image_filename": "TheSubstance2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/ee/TheSubstance2024.png/1280px-TheSubstance2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:TheSubstance2024.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20ragazzo%20dai%20pantaloni%20rosa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Il_ragazzo_dai_pantaloni_rosa",
       "article_url": "https://it.wikipedia.org/wiki/Il_ragazzo_dai_pantaloni_rosa",
-      "description": "film del 2024 diretto da Margherita Ferri",
+      "description": "Film di Margherita Ferri sulla storia di Andrea Spezzacatena, esce nelle sale italiane il 7 novembre.",
       "image_filename": "PinkTrousersBoy.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c7/PinkTrousersBoy.png/1280px-PinkTrousersBoy.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:PinkTrousersBoy.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Nicola%20Zalewski&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Nicola_Zalewski",
       "article_url": "https://it.wikipedia.org/wiki/Nicola_Zalewski",
-      "description": "calciatore polacco",
+      "description": "Calciatore polacco della Roma, non ha una causa riconoscibile per le visite: tre giorni a zero, poi oltre 27.000 l'8 novembre.",
       "image_filename": "FC_Salzburg_gegen_AS_Roma_(UEFA_Euroleague_play-off,_2023-02-16)_14_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/FC_Salzburg_gegen_AS_Roma_%28UEFA_Euroleague_play-off%2C_2023-02-16%29_14_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_AS_Roma_(UEFA_Euroleague_play-off%2C_2023-02-16)_14_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20negli%20Stati%20Uniti%20d%27America%20del%202024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_negli_Stati_Uniti_d%27America_del_2024",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_negli_Stati_Uniti_d%27America_del_2024",
-      "description": "",
+      "description": "Il 5 novembre gli statunitensi votano per il presidente, il rinnovo della Camera e di parte del Senato.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America",
-      "description": "procedura elettorale negli Stati Uniti d'America",
+      "description": "Il 5 novembre si svolgono le presidenziali statunitensi, vinte dal repubblicano Donald Trump contro la democratica Kamala Harris.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Presidente%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Presidente_degli_Stati_Uniti_d%27America",
       "article_url": "https://it.wikipedia.org/wiki/Presidente_degli_Stati_Uniti_d%27America",
-      "description": "capo di Stato e di governo degli Stati Uniti d'America",
+      "description": "Il 5 novembre Donald Trump vince le elezioni presidenziali statunitensi e si prepara a succedere a Joe Biden.",
       "image_filename": "Seal_of_the_President_of_the_United_States.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/1280px-Seal_of_the_President_of_the_United_States.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_President_of_the_United_States.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Viktor%20Gy%C3%B6keres&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/04/2024,cd_max:11/10/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-11-04&end=2024-11-10&pages=Viktor_Gy%C3%B6keres",
       "article_url": "https://it.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-      "description": "calciatore svedese (1998-)",
+      "description": "Attaccante svedese dello Sporting Lisbona, segna tre gol al Manchester City nella partita di Champions League del 5 novembre, vinta 4-1.",
       "image_filename": "Viktor_Gyökeres_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Viktor_Gy%C3%B6keres_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Viktor_Gy%C3%B6keres_2018.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }
