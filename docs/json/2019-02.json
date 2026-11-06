@@ -143,13 +143,14 @@
       "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=TG_Norba_24",
       "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale all-news del Gruppo Norba, è in classifica da 27 settimane consecutive senza un motivo preciso riconoscibile.",
       "image_filename": "Tg_norba24.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -368,13 +369,14 @@
       "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Iris_(rete_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale cinematografico Mediaset, è in classifica da 27 settimane consecutive senza un motivo preciso riconoscibile.",
       "image_filename": "Iris_-_Logo_2013.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -593,13 +595,14 @@
       "google_news_url": "https://www.google.it/search?q=Leonardo%20DiCaprio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Leonardo_DiCaprio",
       "article_url": "https://it.wikipedia.org/wiki/Leonardo_DiCaprio",
-      "description": "attore e produttore cinematografico statunitense",
+      "description": "Attore statunitense, è protagonista di Titanic, trasmesso su Canale 5 il 7 e l'8 gennaio.",
       "image_filename": "Leonardo_DiCaprio_-_BFI_Southbank.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leonardo_DiCaprio_-_BFI_Southbank.jpg/1006px-Leonardo_DiCaprio_-_BFI_Southbank.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio_-_BFI_Southbank.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +641,14 @@
       "google_news_url": "https://www.google.it/search?q=RSI%20LA1&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=RSI_LA1",
       "article_url": "https://it.wikipedia.org/wiki/RSI_LA1",
-      "description": "rete televisiva della Svizzera italiana",
+      "description": "Primo canale televisivo della Svizzera italiana, è in classifica da 12 settimane senza un motivo preciso riconoscibile.",
       "image_filename": "RSI_La_1_2012.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_1_2012.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +687,14 @@
       "google_news_url": "https://www.google.it/search?q=Jason%20Momoa&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Jason_Momoa",
       "article_url": "https://it.wikipedia.org/wiki/Jason_Momoa",
-      "description": "attore e modello statunitense",
+      "description": "Attore statunitense, interpreta Aquaman nell'omonimo film uscito nelle sale italiane il 1° gennaio.",
       "image_filename": "Jason_Momoa_by_Gage_Skidmore.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jason_Momoa_by_Gage_Skidmore.jpg/1280px-Jason_Momoa_by_Gage_Skidmore.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jason_Momoa_by_Gage_Skidmore.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +733,14 @@
       "google_news_url": "https://www.google.it/search?q=RSI%20LA2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=RSI_LA2",
       "article_url": "https://it.wikipedia.org/wiki/RSI_LA2",
-      "description": "rete televisiva della Svizzera italiana",
+      "description": "Secondo canale televisivo della Svizzera italiana, è in classifica da 12 settimane senza un motivo preciso riconoscibile.",
       "image_filename": "RSI_La_2_2012.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_2_2012.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +779,14 @@
       "google_news_url": "https://www.google.it/search?q=Bohemian%20Rhapsody%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Bohemian_Rhapsody_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Bohemian_Rhapsody_(film)",
-      "description": "film del 2018 diretto da Bryan Singer",
+      "description": "Il film sui Queen vince il Golden Globe 2019 per il miglior film drammatico nella notte tra il 6 e il 7 gennaio.",
       "image_filename": "Bohemian_Rhapsody_Teaser_Poster_-_2018_CinemaCon.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bohemian_Rhapsody_Teaser_Poster_-_2018_CinemaCon.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bohemian_Rhapsody_Teaser_Poster_-_2018_CinemaCon.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +825,14 @@
       "google_news_url": "https://www.google.it/search?q=Kayden%20Boche&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Kayden_Boche",
       "article_url": "https://it.wikipedia.org/wiki/Kayden_Boche",
-      "description": "",
+      "description": "Modello francese, è in classifica per la quarta settimana consecutiva senza un motivo preciso riconoscibile.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +871,14 @@
       "google_news_url": "https://www.google.it/search?q=American%20Sniper&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=American_Sniper",
       "article_url": "https://it.wikipedia.org/wiki/American_Sniper",
-      "description": "film del 2014 diretto da Clint Eastwood",
+      "description": "Film del 2014 diretto da Clint Eastwood e ispirato alla vita di Chris Kyle, va in onda su Canale 5 il 10 gennaio.",
       "image_filename": "American_Sniper.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d5/American_Sniper.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:American_Sniper.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +917,14 @@
       "google_news_url": "https://www.google.it/search?q=Queen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Queen",
       "article_url": "https://it.wikipedia.org/wiki/Queen",
-      "description": "gruppo musicale britannico",
+      "description": "Gruppo rock britannico protagonista di Bohemian Rhapsody, che vince il Golden Globe per il miglior film drammatico il 6 gennaio.",
       "image_filename": "Queen_A_Night_At_The_Opera_(1975_Elektra_publicity_photo_02).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg/1280px-Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_A_Night_At_The_Opera_(1975_Elektra_publicity_photo_02).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=Canale%205&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Canale_5",
       "article_url": "https://it.wikipedia.org/wiki/Canale_5",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Rete televisiva Mediaset, senza un picco di visite rilevante nella settimana.",
       "image_filename": "Canale_5_-_2018_logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1280px-Canale_5_-_2018_logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Canale_5_-_2018_logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20Compagnia%20del%20Cigno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=La_Compagnia_del_Cigno",
       "article_url": "https://it.wikipedia.org/wiki/La_Compagnia_del_Cigno",
-      "description": "serie televisiva italiana",
+      "description": "La serie televisiva italiana debutta su Rai 1 il 7 gennaio.",
       "image_filename": "CompagniaDelCigno.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8c/CompagniaDelCigno.jpg/1280px-CompagniaDelCigno.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:CompagniaDelCigno.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1055,14 @@
       "google_news_url": "https://www.google.it/search?q=Dori%20Ghezzi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Dori_Ghezzi",
       "article_url": "https://it.wikipedia.org/wiki/Dori_Ghezzi",
-      "description": "cantante italiana (1946-)",
+      "description": "Cantante italiana e moglie di Fabrizio De André, lo ricorda in occasione del 20° anniversario della sua morte, l'11 gennaio.",
       "image_filename": "Dori_Ghezzi_2011.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dori_Ghezzi_2011.jpg/1280px-Dori_Ghezzi_2011.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dori_Ghezzi_2011.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1101,14 @@
       "google_news_url": "https://www.google.it/search?q=Giulio%20Andreotti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Giulio_Andreotti",
       "article_url": "https://it.wikipedia.org/wiki/Giulio_Andreotti",
-      "description": "politico italiano (1919-2013)",
+      "description": "Politico democristiano ed ex presidente del Consiglio, il 14 gennaio ricorre il centenario della sua nascita.",
       "image_filename": "Giulio_Andreotti.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Giulio_Andreotti.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giulio_Andreotti.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1147,14 @@
       "google_news_url": "https://www.google.it/search?q=Che%20Dio%20ci%20aiuti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/07/2019,cd_max:01/13/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-07&end=2019-01-13&pages=Che_Dio_ci_aiuti",
       "article_url": "https://it.wikipedia.org/wiki/Che_Dio_ci_aiuti",
-      "description": "serie televisiva italiana del 2011",
+      "description": "Il 10 gennaio debutta su Rai 1 la quinta stagione della serie televisiva italiana.",
       "image_filename": "Che_Dio_ci_Aiuti_8.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3c/Che_Dio_ci_Aiuti_8.png/1280px-Che_Dio_ci_Aiuti_8.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Che_Dio_ci_Aiuti_8.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

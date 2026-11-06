@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=TG_Norba_24",
       "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale all-news del Gruppo Norba, è in classifica da 27 settimane consecutive senza un motivo preciso riconoscibile.",
       "image_filename": "Tg_norba24.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=RSI%20LA1&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=RSI_LA1",
       "article_url": "https://it.wikipedia.org/wiki/RSI_LA1",
-      "description": "rete televisiva della Svizzera italiana",
+      "description": "Primo canale televisivo della Svizzera italiana, è in classifica da nove settimane; difficile individuare un motivo preciso.",
       "image_filename": "RSI_La_1_2012.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_1_2012.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=RSI%20LA2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=RSI_LA2",
       "article_url": "https://it.wikipedia.org/wiki/RSI_LA2",
-      "description": "rete televisiva della Svizzera italiana",
+      "description": "Secondo canale televisivo della Svizzera italiana, è in classifica da nove settimane; difficile individuare un motivo preciso.",
       "image_filename": "RSI_La_2_2012.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_2_2012.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Iris_(rete_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale cinematografico Mediaset, è in classifica da 25 settimane consecutive, senza un picco di rilievo.",
       "image_filename": "Iris_-_Logo_2013.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -548,13 +552,14 @@
       "google_news_url": "https://www.google.it/search?q=TeleColor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=TeleColor",
       "article_url": "https://it.wikipedia.org/wiki/TeleColor",
-      "description": "",
+      "description": "Emittente televisiva locale italiana, è in classifica da 22 settimane consecutive, senza un motivo preciso riconoscibile.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -638,13 +643,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai%20Movie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Rai_Movie",
       "article_url": "https://it.wikipedia.org/wiki/Rai_Movie",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale cinematografico della Rai, è in classifica da sette settimane consecutive senza un motivo preciso riconoscibile.",
       "image_filename": "Rai_Movie_-_Logo_2017.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rai_Movie_-_Logo_2017.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -728,13 +734,14 @@
       "google_news_url": "https://www.google.it/search?q=Sky%20Cinema%20Cult&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Sky_Cinema_Cult",
       "article_url": "https://it.wikipedia.org/wiki/Sky_Cinema_Cult",
-      "description": "",
+      "description": "Canale di Sky Italia dedicato al cinema d'autore, è in classifica da sette settimane; difficile individuare un motivo preciso.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -818,13 +825,14 @@
       "google_news_url": "https://www.google.it/search?q=Vincenzo%20Mollica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Vincenzo_Mollica",
       "article_url": "https://it.wikipedia.org/wiki/Vincenzo_Mollica",
-      "description": "giornalista e scrittore italiano (1953-)",
+      "description": "Giornalista e autore televisivo italiano, il 23 dicembre è ospite di Che tempo che fa su Rai 1.",
       "image_filename": "Vincenzo_Mollica.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vincenzo_Mollica.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vincenzo_Mollica.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +871,14 @@
       "google_news_url": "https://www.google.it/search?q=Bike%20Channel&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Bike_Channel",
       "article_url": "https://it.wikipedia.org/wiki/Bike_Channel",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale televisivo italiano dedicato al ciclismo; difficile individuare un motivo preciso per le visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +917,14 @@
       "google_news_url": "https://www.google.it/search?q=Jesse%20Owens&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Jesse_Owens",
       "article_url": "https://it.wikipedia.org/wiki/Jesse_Owens",
-      "description": "velocista e lunghista statunitense (1913-1980)",
+      "description": "Atleta statunitense, quattro volte oro olimpico a Berlino 1936, è protagonista del film Race - Il colore della vittoria, in onda il 17 dicembre.",
       "image_filename": "Jesse_Owens_1936.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jesse_Owens_1936.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jesse_Owens_1936.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=Paul%20Klee&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Paul_Klee",
       "article_url": "https://it.wikipedia.org/wiki/Paul_Klee",
-      "description": "pittore tedesco",
+      "description": "Pittore tedesco, il 18 dicembre Google gli dedica un Doodle per il 139° anniversario della nascita.",
       "image_filename": "Klee_autograph.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Klee_autograph.svg/1280px-Klee_autograph.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Klee_autograph.svg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=Jos%C3%A9%20Mourinho&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Jos%C3%A9_Mourinho",
       "article_url": "https://it.wikipedia.org/wiki/Jos%C3%A9_Mourinho",
-      "description": "allenatore di calcio e calciatore portoghese (1963-)",
+      "description": "Allenatore di calcio portoghese, il 18 dicembre viene esonerato dal Manchester United.",
       "image_filename": "José_Mourinho_20250206_(1).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jos%C3%A9_Mourinho_20250206_%281%29.jpg/1280px-Jos%C3%A9_Mourinho_20250206_%281%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_20250206_(1).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1055,14 @@
       "google_news_url": "https://www.google.it/search?q=Elena%20Ferrante&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Elena_Ferrante",
       "article_url": "https://it.wikipedia.org/wiki/Elena_Ferrante",
-      "description": "romanziera e scrittrice italiana (pseudonimo)",
+      "description": "Scrittrice italiana, autrice del romanzo L'amica geniale: il 18 dicembre vanno in onda su Rai 1 gli ultimi due episodi della serie tratta dal libro.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1101,14 @@
       "google_news_url": "https://www.google.it/search?q=Solstizio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Solstizio",
       "article_url": "https://it.wikipedia.org/wiki/Solstizio",
-      "description": "momento in cui il Sole raggiunge, nel suo moto apparente lungo l'eclittica, il punto di declinazione massima o minima",
+      "description": "Il 21 dicembre cade il solstizio d'inverno, che segna l'inizio della stagione astronomica nell'emisfero boreale.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1147,14 @@
       "google_news_url": "https://www.google.it/search?q=Baby%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/17/2018,cd_max:12/23/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-17&end=2018-12-23&pages=Baby_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Baby_(serie_televisiva)",
-      "description": "serie televisiva italiana (2018-2020)",
+      "description": "Serie italiana la cui prima stagione esce su Netflix il 30 novembre; il 22 dicembre viene annunciato il rinnovo per una seconda stagione.",
       "image_filename": "BabyTVSeries.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/BabyTVSeries.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:BabyTVSeries.png",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

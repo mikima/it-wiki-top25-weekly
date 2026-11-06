@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=TG_Norba_24",
       "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale all-news del Gruppo Norba, è in classifica da 27 settimane consecutive, senza un picco di rilievo.",
       "image_filename": "Tg_norba24.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -278,13 +279,14 @@
       "google_news_url": "https://www.google.it/search?q=RSI%20LA2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=RSI_LA2",
       "article_url": "https://it.wikipedia.org/wiki/RSI_LA2",
-      "description": "rete televisiva della Svizzera italiana",
+      "description": "Secondo canale televisivo della Svizzera italiana, senza un picco di rilievo.",
       "image_filename": "RSI_La_2_2012.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_2_2012.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +325,14 @@
       "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=Iris_(rete_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale cinematografico di Mediaset, è in classifica da 24 settimane consecutive, senza un picco di rilievo.",
       "image_filename": "Iris_-_Logo_2013.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +371,14 @@
       "google_news_url": "https://www.google.it/search?q=RSI%20LA1&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=RSI_LA1",
       "article_url": "https://it.wikipedia.org/wiki/RSI_LA1",
-      "description": "rete televisiva della Svizzera italiana",
+      "description": "Primo canale televisivo della Svizzera italiana, senza un picco di rilievo.",
       "image_filename": "RSI_La_1_2012.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_1_2012.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -593,13 +597,14 @@
       "google_news_url": "https://www.google.it/search?q=Bike%20Channel&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=Bike_Channel",
       "article_url": "https://it.wikipedia.org/wiki/Bike_Channel",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale televisivo italiano dedicato al ciclismo. Difficile individuare un motivo preciso per le visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -728,13 +733,14 @@
       "google_news_url": "https://www.google.it/search?q=Cesare%20Battisti%20%281954%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=Cesare_Battisti_(1954)",
       "article_url": "https://it.wikipedia.org/wiki/Cesare_Battisti_(1954)",
-      "description": "ex terrorista e scrittore italiano",
+      "description": "Ex terrorista italiano condannato a due ergastoli, il 14 dicembre il Brasile firma la sua estradizione.",
       "image_filename": "Battisti_Nov_2009.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Battisti_Nov_2009.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Battisti_Nov_2009.jpg",
       "image_license": "CC BY 3.0 br",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +779,14 @@
       "google_news_url": "https://www.google.it/search?q=Marco%20Mengoni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=Marco_Mengoni",
       "article_url": "https://it.wikipedia.org/wiki/Marco_Mengoni",
-      "description": "cantautore italiano (1988-)",
+      "description": "Cantautore italiano, il 13 dicembre si esibisce nella finale di X Factor su Sky Uno.",
       "image_filename": "Marco_Mengoni_presenta_'Due_vite'_(2023)_(cropped).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Marco_Mengoni_presenta_%27Due_vite%27_%282023%29_%28cropped%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marco_Mengoni_presenta_%27Due_vite%27_(2023)_(cropped).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +825,14 @@
       "google_news_url": "https://www.google.it/search?q=L%27amica%20geniale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=L%27amica_geniale",
       "article_url": "https://it.wikipedia.org/wiki/L%27amica_geniale",
-      "description": "pagina di disambiguazione di un progetto Wikimedia",
+      "description": "L'11 dicembre vanno in onda su Rai 1 il quinto e il sesto episodio della serie tratta dai romanzi di Elena Ferrante.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +871,14 @@
       "google_news_url": "https://www.google.it/search?q=X%20Factor%20%28Italia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=X_Factor_(Italia)",
       "article_url": "https://it.wikipedia.org/wiki/X_Factor_(Italia)",
-      "description": "programma televisivo italiano",
+      "description": "Il 13 dicembre va in onda su Sky Uno la finale della dodicesima edizione, vinta da Anastasio.",
       "image_filename": "X_Factor_(Italia)_screenshot.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/88/X_Factor_%28Italia%29_screenshot.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:X_Factor_(Italia)_screenshot.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +917,14 @@
       "google_news_url": "https://www.google.it/search?q=Baby%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=Baby_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Baby_(serie_televisiva)",
-      "description": "serie televisiva italiana (2018-2020)",
+      "description": "Serie televisiva italiana, la cui prima stagione è pubblicata su Netflix il 30 novembre.",
       "image_filename": "BabyTVSeries.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/BabyTVSeries.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:BabyTVSeries.png",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=Animali%20fantastici%20e%20dove%20trovarli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=Animali_fantastici_e_dove_trovarli",
       "article_url": "https://it.wikipedia.org/wiki/Animali_fantastici_e_dove_trovarli",
-      "description": "film del 2016 diretto da David Yates",
+      "description": "Film del 2016 diretto da David Yates, va in onda il 12 dicembre su Canale 5.",
       "image_filename": "Animali_fantastici_e_dove_trovarli.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8f/Animali_fantastici_e_dove_trovarli.png/1280px-Animali_fantastici_e_dove_trovarli.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Animali_fantastici_e_dove_trovarli.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=Sky%20Cinema%20Cult&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=Sky_Cinema_Cult",
       "article_url": "https://it.wikipedia.org/wiki/Sky_Cinema_Cult",
-      "description": "",
+      "description": "Canale di Sky Italia dedicato al cinema d'autore. Difficile individuare un motivo preciso per le visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1055,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai%20Movie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=Rai_Movie",
       "article_url": "https://it.wikipedia.org/wiki/Rai_Movie",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale cinematografico della Rai. Difficile individuare un motivo preciso per le visite.",
       "image_filename": "Rai_Movie_-_Logo_2017.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rai_Movie_-_Logo_2017.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1101,14 @@
       "google_news_url": "https://www.google.it/search?q=Benedetta%20Mazza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=Benedetta_Mazza",
       "article_url": "https://it.wikipedia.org/wiki/Benedetta_Mazza",
-      "description": "conduttrice televisiva, attrice ed ex modella italiana",
+      "description": "Conduttrice televisiva italiana, il 10 dicembre partecipa alla finale del Grande Fratello VIP su Canale 5, vinta da Walter Nudo.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1147,14 @@
       "google_news_url": "https://www.google.it/search?q=TeleColor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/10/2018,cd_max:12/16/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-12-10&end=2018-12-16&pages=TeleColor",
       "article_url": "https://it.wikipedia.org/wiki/TeleColor",
-      "description": "",
+      "description": "Emittente televisiva locale italiana, è in classifica da 21 settimane consecutive; difficile individuare il motivo delle visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

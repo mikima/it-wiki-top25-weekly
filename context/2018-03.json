@@ -1,0 +1,714 @@
+{
+  "week": "2018-03",
+  "start_date": "2018-01-15",
+  "end_date": "2018-01-21",
+  "articles": {
+    "Luigi_Di_Maio": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Luigi Di Maio è un politico e funzionario italiano.",
+      "news": [
+        {
+          "title": "Il M5S replica a Berlusconi: «Di Maio? È uno studente. Non è vero che i disoccupati tra noi siano l'87%» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Il M5S replica a Berlusconi: «Di Maio? È uno studente. Non è vero che i disoccupati tra noi siano l'87%» Corriere della Sera"
+        },
+        {
+          "title": "Luigi Di Maio che facesse cose, una meravigliosa pagina Facebook - Giornalettismo",
+          "source": "Giornalettismo",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Luigi Di Maio che facesse cose, una meravigliosa pagina Facebook Giornalettismo"
+        },
+        {
+          "title": "Elezioni 2018, il MoVimento 5 Stelle e i \"Venti punti per l'Italia\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sun, 21 Jan 2018 08:00:00 GMT",
+          "description": "Elezioni 2018, il MoVimento 5 Stelle e i \"Venti punti per l'Italia\" RaiNews"
+        },
+        {
+          "title": "Di Maio mette \"Finché la barca va\" a tutto volume in auto - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "Di Maio mette \"Finché la barca va\" a tutto volume in auto HuffPost Italia"
+        },
+        {
+          "title": "Di Maio a Firenze fa il pieno di imprenditori - FirenzeToday",
+          "source": "FirenzeToday",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Di Maio a Firenze fa il pieno di imprenditori FirenzeToday"
+        },
+        {
+          "title": "Casaleggio, Di Maio e Grillo depositano il simbolo di M5S al Viminale. Le foto - Formiche.net",
+          "source": "Formiche.net",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Casaleggio, Di Maio e Grillo depositano il simbolo di M5S al Viminale. Le foto Formiche.net"
+        },
+        {
+          "title": "Di Maio a Civitanova (foto-video) «Sblocchiamo la ricostruzione» - Cronache Maceratesi",
+          "source": "Cronache Maceratesi",
+          "pubDate": "Sat, 20 Jan 2018 08:00:00 GMT",
+          "description": "Di Maio a Civitanova (foto-video) «Sblocchiamo la ricostruzione» Cronache Maceratesi"
+        }
+      ]
+    },
+    "The_End_of_the_F***ing_World": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The End of the F***ing World è una serie televisiva britannica creata da Jonathan Entwistle e interpretata da Alex Lawther e Jessica Barden.",
+      "news": [
+        {
+          "title": "The End of the F***ing World, Hard Sun e le nuove serie della settimana - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "The End of the F***ing World, Hard Sun e le nuove serie della settimana Movieplayer"
+        },
+        {
+          "title": "Alex Lawther ci ha spiegato ‘The End of the F***king World’ - VICE",
+          "source": "VICE",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Alex Lawther ci ha spiegato ‘The End of the F***king World’ VICE"
+        },
+        {
+          "title": "The End Of The F***ing World, stagione 1: la recensione della serie di Jonathan Entwistle (su Netflix) - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "The End Of The F***ing World, stagione 1: la recensione della serie di Jonathan Entwistle (su Netflix) Il Cineocchio"
+        },
+        {
+          "title": "Graham Coxon. In ascolto “Walking All Day” tratto dalla colonna sonora di “The End of the F***ing World” - sentireascoltare",
+          "source": "sentireascoltare",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Graham Coxon. In ascolto “Walking All Day” tratto dalla colonna sonora di “The End of the F***ing World” sentireascoltare"
+        },
+        {
+          "title": "Blog | The end of f***ing world, anche gli adulti sono adolescenti - Alley Oop - ilSole24ORE",
+          "source": "Alley Oop - ilSole24ORE",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Blog | The end of f***ing world, anche gli adulti sono adolescenti Alley Oop - ilSole24ORE"
+        },
+        {
+          "title": "Gli ingredienti di \"The End Of The F***ing World\" - nss magazine",
+          "source": "nss magazine",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Gli ingredienti di \"The End Of The F***ing World\" nss magazine"
+        },
+        {
+          "title": "Philip K. Dick’s Electric Dreams: Il futuro non è quello di una volta :-) - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Philip K. Dick’s Electric Dreams: Il futuro non è quello di una volta :-) Serial Minds"
+        },
+        {
+          "title": "I 5 episodi più belli di Black Mirror - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "I 5 episodi più belli di Black Mirror LaScimmiaPensa.com"
+        }
+      ]
+    },
+    "Ronaldinho": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Ronaldinho, pseudonimo di Ronaldo de Assis Moreira, è un calciatore brasiliano, centrocampista o attaccante del Ravenna. Con la nazionale brasiliana si è laureato campione del mondo nel 2002 e campione sudamericano nel 1999.",
+      "news": [
+        {
+          "title": "Ronaldinho si ritira: cinque momenti top - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Ronaldinho si ritira: cinque momenti top UEFA.com"
+        },
+        {
+          "title": "Ronaldinho, la carriera in 11 momenti storici - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Ronaldinho, la carriera in 11 momenti storici Sky Sport"
+        },
+        {
+          "title": "Ronaldinho dice addio al calcio, ritiro ufficiale a 37 anni - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Ronaldinho dice addio al calcio, ritiro ufficiale a 37 anni Il Sole 24 ORE"
+        },
+        {
+          "title": "Il paradosso Ronaldinho - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Il paradosso Ronaldinho Il Foglio"
+        },
+        {
+          "title": "Antonini saluta Ronaldinho: \"Accostavano il mio nome al tuo, ne ero fiero\" - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Antonini saluta Ronaldinho: \"Accostavano il mio nome al tuo, ne ero fiero\" Goal.com"
+        },
+        {
+          "title": "Il lascito di Ronaldinho - Sportellate",
+          "source": "Sportellate",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Il lascito di Ronaldinho Sportellate"
+        },
+        {
+          "title": "Brasile: Ronaldinho, Adriano, Ronaldo... video vintage imperdibile - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Brasile: Ronaldinho, Adriano, Ronaldo... video vintage imperdibile La Gazzetta dello Sport"
+        },
+        {
+          "title": "Ronaldinho, il lungo addio del fenomeno di Porto Alegre - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "Ronaldinho, il lungo addio del fenomeno di Porto Alegre HuffPost Italia"
+        },
+        {
+          "title": "Ronaldinho si ritira: è stato l’unico a vincere Mondiale, Champions, Libertadores e Pallone d’oro - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Ronaldinho si ritira: è stato l’unico a vincere Mondiale, Champions, Libertadores e Pallone d’oro Corriere della Sera"
+        },
+        {
+          "title": "Ronaldinho si ritira. La partita d'addio a luglio dopo il mondiale - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Ronaldinho si ritira. La partita d'addio a luglio dopo il mondiale Sky Sport"
+        }
+      ]
+    },
+    "Silvio_Berlusconi": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Silvio Berlusconi è stato un imprenditore e politico italiano, fondatore del gruppo Fininvest e di Forza Italia, quattro volte Presidente del Consiglio dei ministri della Repubblica Italiana, il che lo rende attualmente il più longevo dell'Italia repubblicana.",
+      "news": [
+        {
+          "title": "Silvio Berlusconi: 'La mia Flat Tax al 23%' - La7",
+          "source": "La7",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Silvio Berlusconi: 'La mia Flat Tax al 23%' La7"
+        },
+        {
+          "title": "Quinta Colonna: Silvio Berlusconi: il Movimento 5 Stelle Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Quinta Colonna: Silvio Berlusconi: il Movimento 5 Stelle Video Mediaset Infinity"
+        },
+        {
+          "title": "Silvia Toffanin e Pier Silvio Berlusconi fuga a Santa Margherita Ligure con i figli Lorenzo Mattia e Sofia Valentina - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Silvia Toffanin e Pier Silvio Berlusconi fuga a Santa Margherita Ligure con i figli Lorenzo Mattia e Sofia Valentina Leggo.it"
+        },
+        {
+          "title": "Berlusconi, Veronica Lario ricorre in Cassazione contro l’azzeramento del maxi assegno di mantenimento - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Berlusconi, Veronica Lario ricorre in Cassazione contro l’azzeramento del maxi assegno di mantenimento Corriere Milano"
+        },
+        {
+          "title": "Fact checking alla propaganda vintage di Silvio Berlusconi, buona per ogni stagione - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Fact checking alla propaganda vintage di Silvio Berlusconi, buona per ogni stagione la Repubblica"
+        },
+        {
+          "title": "Berlusconi: 'no' tasse prima casa e auto. Cambi casacca verranno vietati per Costituzione - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Berlusconi: 'no' tasse prima casa e auto. Cambi casacca verranno vietati per Costituzione RaiNews"
+        },
+        {
+          "title": "Uno spumeggiante Silvio Berlusconi a “Non è l’arena” di Massimo Giletti. Le foto - Formiche.net",
+          "source": "Formiche.net",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "Uno spumeggiante Silvio Berlusconi a “Non è l’arena” di Massimo Giletti. Le foto Formiche.net"
+        },
+        {
+          "title": "\"Nella mia villa in Sardegna cresce l'erba del Viagra\" - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "\"Nella mia villa in Sardegna cresce l'erba del Viagra\" HuffPost Italia"
+        },
+        {
+          "title": "Silvio Berlusconi e la campagna elettorale: 'Non ho mai fatto promesse ma assunto impegni' - LA7",
+          "source": "LA7",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "Silvio Berlusconi e la campagna elettorale: 'Non ho mai fatto promesse ma assunto impegni' LA7"
+        },
+        {
+          "title": "Quinta Colonna: L'intervista: Silvio Berlusconi Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Quinta Colonna: L'intervista: Silvio Berlusconi Video Mediaset Infinity"
+        }
+      ]
+    },
+    "Ma_che_bella_sorpresa": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Ma che bella sorpresa è un film italiano del 2015 diretto da Alessandro Genovesi. È ispirato alla commedia brasiliana del 2009, campione d'incassi, A Mulher Invisível, diretta da Claudio Torres.",
+      "news": []
+    },
+    "Carlo_De_Benedetti": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Carlo Debenedetti, noto come Carlo De Benedetti, è un imprenditore, dirigente d'azienda, editore e giornalista italiano naturalizzato svizzero.\nNominato cavaliere del lavoro e ufficiale e poi commendatore della Légion d'Honneur, ha ricevuto la laurea honoris causa in diritto dalla Wesleyan University, Middletown, Connecticut.",
+      "news": [
+        {
+          "title": "La risposta di Repubblica a Carlo De Benedetti - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "La risposta di Repubblica a Carlo De Benedetti Il Post"
+        },
+        {
+          "title": "Carlo De Benedetti risponde a Eugenio Scalfari: \"Ho comprato le sue quote versandogli 80 miliardi di lire\" - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Sat, 20 Jan 2018 08:00:00 GMT",
+          "description": "Carlo De Benedetti risponde a Eugenio Scalfari: \"Ho comprato le sue quote versandogli 80 miliardi di lire\" HuffPost Italia"
+        },
+        {
+          "title": "Marco De Benedetti: \"Sbagliate le parole di mio padre. Pensiamo al futuro di Repubblica\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 20 Jan 2018 08:00:00 GMT",
+          "description": "Marco De Benedetti: \"Sbagliate le parole di mio padre. Pensiamo al futuro di Repubblica\" la Repubblica"
+        },
+        {
+          "title": "De Benedetti attacca Scalfari: \"Ingrato. Repubblica? Ha perso identità\". Il giornale: stop attacchi - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "De Benedetti attacca Scalfari: \"Ingrato. Repubblica? Ha perso identità\". Il giornale: stop attacchi RaiNews"
+        },
+        {
+          "title": "C’è un’altra risposta di Carlo De Benedetti a Eugenio Scalfari, sulla storia di Repubblica - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sat, 20 Jan 2018 08:00:00 GMT",
+          "description": "C’è un’altra risposta di Carlo De Benedetti a Eugenio Scalfari, sulla storia di Repubblica Il Post"
+        },
+        {
+          "title": "De Benedetti, Lilli Gruber e il Marchese del Grillo - Cavevisioni",
+          "source": "Cavevisioni",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "De Benedetti, Lilli Gruber e il Marchese del Grillo Cavevisioni"
+        },
+        {
+          "title": "Carlo De Benedetti contro Scalfari e Repubblica - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Carlo De Benedetti contro Scalfari e Repubblica Il Post"
+        },
+        {
+          "title": "\"L'impegno di Repubblica resta intatto\". La replica di Calabresi a Carlo De Benedetti - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "\"L'impegno di Repubblica resta intatto\". La replica di Calabresi a Carlo De Benedetti HuffPost Italia"
+        },
+        {
+          "title": "Scalfari: “La mia non è vanità e De Benedetti non ha fondato questo giornale” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Scalfari: “La mia non è vanità e De Benedetti non ha fondato questo giornale” la Repubblica"
+        },
+        {
+          "title": "Carlo De Benedetti, dopo Renzi, banche e bufala su Berlusconi la notizia più brutta: rischia la galera | Libero Quotidiano.it - Libero Quotidiano",
+          "source": "Libero Quotidiano",
+          "pubDate": "Sun, 21 Jan 2018 08:00:00 GMT",
+          "description": "Carlo De Benedetti, dopo Renzi, banche e bufala su Berlusconi la notizia più brutta: rischia la galera | Libero Quotidiano.it Libero Quotidiano"
+        }
+      ]
+    },
+    "Harry_Potter": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Harry Potter è una serie di romanzi fantasy scritta da J. K. Rowling, incentrata sulle avventure del giovane mago Harry Potter e dei suoi migliori amici Ron Weasley ed Hermione Granger, studenti della Scuola di Magia e Stregoneria di Hogwarts. Il mondo magico nel quale è ambientata la saga consiste in una società parallela che vive celata al resto del mondo reale, quello delle persone comuni, che vengono definite \"babbani\". L'arco narrativo segue principalmente lo scontro tra il protagonista e il mago oscuro Lord Voldemort, desideroso di conquistare il mondo magico e l'immortalità.",
+      "news": [
+        {
+          "title": "Harry Potter: 10 anni fa usciva in Italia “I Doni della Morte” - Zainet",
+          "source": "Zainet",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "Harry Potter: 10 anni fa usciva in Italia “I Doni della Morte” Zainet"
+        },
+        {
+          "title": "Harry Potter, ecco il film su Voldemort fatto dai fan italiani - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Harry Potter, ecco il film su Voldemort fatto dai fan italiani Il Mattino"
+        },
+        {
+          "title": "Harry Potter, un fan film per svelare le origini di Voldemort - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "Harry Potter, un fan film per svelare le origini di Voldemort Sky TG24"
+        },
+        {
+          "title": "Recensione Cofanetto Harry Potter in Blu-ray 4K UHD HDR - MovieTele.it",
+          "source": "MovieTele.it",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Recensione Cofanetto Harry Potter in Blu-ray 4K UHD HDR MovieTele.it"
+        },
+        {
+          "title": "Con il gioco di Harry Potter sul tuo smartphone potrai diventare una vera maga - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Sun, 21 Jan 2018 08:00:00 GMT",
+          "description": "Con il gioco di Harry Potter sul tuo smartphone potrai diventare una vera maga Cosmopolitan"
+        },
+        {
+          "title": "Harry Potter e la Pietra Filosofale: 20 curiosità sul film di Chris Columbus - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Harry Potter e la Pietra Filosofale: 20 curiosità sul film di Chris Columbus BadTaste"
+        },
+        {
+          "title": "È stata rubata una prima edizione di “Harry Potter e la pietra filosofale” che vale 45 mila euro - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "È stata rubata una prima edizione di “Harry Potter e la pietra filosofale” che vale 45 mila euro Il Post"
+        },
+        {
+          "title": "Harry Potter: Hogwarts Mystery – Sempre più vicino - Nerdando",
+          "source": "Nerdando",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Harry Potter: Hogwarts Mystery – Sempre più vicino Nerdando"
+        },
+        {
+          "title": "San Valentino in stile Harry Potter, i Warner Bros. Studio di Londra aprono le porte ai fan - Agenzia Dire",
+          "source": "Agenzia Dire",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "San Valentino in stile Harry Potter, i Warner Bros. Studio di Londra aprono le porte ai fan Agenzia Dire"
+        },
+        {
+          "title": "Fanfilm su Harry Potter Aurora Moroni reginetta di Youtube: 6 milioni di visualizzazioni in 3 giorni - Cronache Maceratesi",
+          "source": "Cronache Maceratesi",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Fanfilm su Harry Potter Aurora Moroni reginetta di Youtube: 6 milioni di visualizzazioni in 3 giorni Cronache Maceratesi"
+        }
+      ]
+    },
+    "Iris_(rete_televisiva)": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Iris è un canale televisivo gratuito italiano edito da Mediaset disponibile sul digitale terrestre italiano e via satellite con la piattaforma Tivùsat, lanciato il 30 novembre 2007.",
+      "news": []
+    },
+    "Simone_Verdi": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Simone Verdi è un calciatore italiano, centrocampista o attaccante del Benevento.",
+      "news": [
+        {
+          "title": "Bologna Fc, chi è la fidanzata di Simone Verdi / FOTO - Il Resto del Carlino",
+          "source": "Il Resto del Carlino",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Bologna Fc, chi è la fidanzata di Simone Verdi / FOTO Il Resto del Carlino"
+        },
+        {
+          "title": "Napoli, Verdi dice sì: accetta la corte di De Laurentiis e Sarri lo aspetta - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "Napoli, Verdi dice sì: accetta la corte di De Laurentiis e Sarri lo aspetta La Gazzetta dello Sport"
+        },
+        {
+          "title": "Mercato, Aubameyang è il colpo dell'Arsenal. Leicester chiede 112 milioni per Mahrez - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Mercato, Aubameyang è il colpo dell'Arsenal. Leicester chiede 112 milioni per Mahrez la Repubblica"
+        },
+        {
+          "title": "Marotta su Politano: \"Cessione al Napoli? Il Sassuolo non ha bisogno di vendere\" - NapoliToday",
+          "source": "NapoliToday",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Marotta su Politano: \"Cessione al Napoli? Il Sassuolo non ha bisogno di vendere\" NapoliToday"
+        },
+        {
+          "title": "Simone Verdi ha già dimostrato di non essere da Napoli - ilNapolista",
+          "source": "ilNapolista",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Simone Verdi ha già dimostrato di non essere da Napoli ilNapolista"
+        },
+        {
+          "title": "Il no al Napoli, il sì a Laura: Simone Verdi resta a Bologna accanto alla sexy fidanzata rossoblù [FOTO] - www.sportfair.it",
+          "source": "www.sportfair.it",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Il no al Napoli, il sì a Laura: Simone Verdi resta a Bologna accanto alla sexy fidanzata rossoblù [FOTO] www.sportfair.it"
+        },
+        {
+          "title": "Calciomercato gennaio 2018: le trattative. Napoli e Inter su Deulofeu - QS Quotidiano Sportivo",
+          "source": "QS Quotidiano Sportivo",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Calciomercato gennaio 2018: le trattative. Napoli e Inter su Deulofeu QS Quotidiano Sportivo"
+        },
+        {
+          "title": "In Italia fino a che età un calciatore è considerato giovane? - ilNapolista",
+          "source": "ilNapolista",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "In Italia fino a che età un calciatore è considerato giovane? ilNapolista"
+        },
+        {
+          "title": "Di Marzio: “Pressioni sul Sassuolo perché Politano vada al Napoli” - ilNapolista",
+          "source": "ilNapolista",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Di Marzio: “Pressioni sul Sassuolo perché Politano vada al Napoli” ilNapolista"
+        }
+      ]
+    },
+    "Alberto_Angela": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Alberto Angela è un paleontologo, divulgatore scientifico, conduttore televisivo, giornalista e scrittore italiano.",
+      "news": [
+        {
+          "title": "Meraviglie 2018 - Un viaggio nella storia: dai reperti etruschi alle ville rinascimentali in Veneto - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "Meraviglie 2018 - Un viaggio nella storia: dai reperti etruschi alle ville rinascimentali in Veneto - Video RaiPlay"
+        },
+        {
+          "title": "Fenomenologia di Alberto Angela, tra divulgazione ed emozione - Wired",
+          "source": "Wired",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Fenomenologia di Alberto Angela, tra divulgazione ed emozione Wired"
+        },
+        {
+          "title": "Alberto Angela, ecco la gaffe che fa infuriare il Veneto - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Sun, 21 Jan 2018 08:00:00 GMT",
+          "description": "Alberto Angela, ecco la gaffe che fa infuriare il Veneto Leggo.it"
+        },
+        {
+          "title": "Palladio in tivù tra le \"meraviglie\" di Alberto Angela - Il Giornale di Vicenza",
+          "source": "Il Giornale di Vicenza",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Palladio in tivù tra le \"meraviglie\" di Alberto Angela Il Giornale di Vicenza"
+        },
+        {
+          "title": "Belluno. Alberto Angela sotto accusa. «Le Dolomiti sono anche in Veneto» - Corriere del Veneto",
+          "source": "Corriere del Veneto",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "Belluno. Alberto Angela sotto accusa. «Le Dolomiti sono anche in Veneto» Corriere del Veneto"
+        },
+        {
+          "title": "Alberto Angela racconta le meraviglie di Tarquinia, gli etruschi in prima serata su Rai Uno - La Fune",
+          "source": "La Fune",
+          "pubDate": "Sat, 20 Jan 2018 08:00:00 GMT",
+          "description": "Alberto Angela racconta le meraviglie di Tarquinia, gli etruschi in prima serata su Rai Uno La Fune"
+        },
+        {
+          "title": "Piero Angela: \"Ormai sono conosciuto come il padre di Alberto\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "Piero Angela: \"Ormai sono conosciuto come il padre di Alberto\" la Repubblica"
+        },
+        {
+          "title": "30 meme in cui Alberto Angela divulga forte - Wired",
+          "source": "Wired",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "30 meme in cui Alberto Angela divulga forte Wired"
+        },
+        {
+          "title": "Tutti pazzi per Alberto Angela: una delle 'Meraviglie' che ci rende orgogliosi di essere italiani - Donna Moderna",
+          "source": "Donna Moderna",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "Tutti pazzi per Alberto Angela: una delle 'Meraviglie' che ci rende orgogliosi di essere italiani Donna Moderna"
+        },
+        {
+          "title": "Alberto Angela: la rock star dei divulgatori - LiveUnict",
+          "source": "LiveUnict",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Alberto Angela: la rock star dei divulgatori LiveUnict"
+        }
+      ]
+    },
+    "Tre_manifesti_a_Ebbing,_Missouri": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Tre manifesti a Ebbing, Missouri è un film del 2017 scritto e diretto da Martin McDonagh.",
+      "news": [
+        {
+          "title": "Film di vendetta tipografica: Tre manifesti a Ebbing, Missouri - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Film di vendetta tipografica: Tre manifesti a Ebbing, Missouri i400Calci"
+        },
+        {
+          "title": "Tre manifesti a Ebbing, Missouri recensione - MadMass.it",
+          "source": "MadMass.it",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Tre manifesti a Ebbing, Missouri recensione MadMass.it"
+        },
+        {
+          "title": "\"Tre manifesti a Ebbing, Missouri\": le fiamme ambigue delle parole - ilLibraio.it",
+          "source": "ilLibraio.it",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "\"Tre manifesti a Ebbing, Missouri\": le fiamme ambigue delle parole ilLibraio.it"
+        },
+        {
+          "title": "Frances McDormand: da Fargo a Tre manifesti a Ebbing, Missouri, i suoi ruoli più belli - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "Frances McDormand: da Fargo a Tre manifesti a Ebbing, Missouri, i suoi ruoli più belli Movieplayer"
+        },
+        {
+          "title": "Sam Rockwell: «C'è un lato folle in tutti noi» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "Sam Rockwell: «C'è un lato folle in tutti noi» Vanity Fair Italia"
+        },
+        {
+          "title": "Sam Rockwell: “Ci vogliono almeno 20 anni per diventare un attore: forse adesso lo sono” - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Sam Rockwell: “Ci vogliono almeno 20 anni per diventare un attore: forse adesso lo sono” Movieplayer"
+        },
+        {
+          "title": "Logan Lucky: l’audace colpo dei stolidi ignoti. - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "Logan Lucky: l’audace colpo dei stolidi ignoti. i400Calci"
+        },
+        {
+          "title": "Mamma, mamma, lo sai chi c’è? È arrivato El Conjurante: Veronica - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Mamma, mamma, lo sai chi c’è? È arrivato El Conjurante: Veronica i400Calci"
+        },
+        {
+          "title": "7 psicopatici, il secondo film di Martin McDonagh. La nostra recensione - CiakClub",
+          "source": "CiakClub",
+          "pubDate": "Sun, 21 Jan 2018 08:00:00 GMT",
+          "description": "7 psicopatici, il secondo film di Martin McDonagh. La nostra recensione CiakClub"
+        }
+      ]
+    },
+    "Andrew_Cunanan": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Andrew Phillip Cunanan è stato un serial killer statunitense, responsabile dell'omicidio dello stilista Gianni Versace.",
+      "news": [
+        {
+          "title": "Il motivo per cui la famiglia Versace ha ‘scomunicato’ la serie sull’omicidio di Gianni - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "Il motivo per cui la famiglia Versace ha ‘scomunicato’ la serie sull’omicidio di Gianni Fanpage"
+        },
+        {
+          "title": "Chi ha ucciso Gianni Versace - Esquire",
+          "source": "Esquire",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Chi ha ucciso Gianni Versace Esquire"
+        },
+        {
+          "title": "L’assassinio di Gianni Versace nella nuova stagione di American Crime Story - SpettacoloMania.it -",
+          "source": "SpettacoloMania.it -",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "L’assassinio di Gianni Versace nella nuova stagione di American Crime Story SpettacoloMania.it -"
+        },
+        {
+          "title": "American Crime Story 2x01, \"L'uomo da copertina\": la recensione - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "American Crime Story 2x01, \"L'uomo da copertina\": la recensione BadTaste"
+        },
+        {
+          "title": "American Crime Story: The Assassination Of Gianni Versace 2x01 - The Man Who Would Be Vogue - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Sat, 20 Jan 2018 08:00:00 GMT",
+          "description": "American Crime Story: The Assassination Of Gianni Versace 2x01 - The Man Who Would Be Vogue Recenserie"
+        },
+        {
+          "title": "‘The Assassination of Gianni Versace’ e la denuncia dell’omofobia USA degli anni ’90 - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Thu, 18 Jan 2018 08:00:00 GMT",
+          "description": "‘The Assassination of Gianni Versace’ e la denuncia dell’omofobia USA degli anni ’90 Rolling Stone Italia"
+        },
+        {
+          "title": "A chi piacerà la serie sull’omicidio di Gianni Versace - Grazia",
+          "source": "Grazia",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "A chi piacerà la serie sull’omicidio di Gianni Versace Grazia"
+        },
+        {
+          "title": "American Crime Story - The Assasination of Gianni Versace stasera in tv su FoxCrime, il racconto della morte dello stilista Gianni Versace - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "American Crime Story - The Assasination of Gianni Versace stasera in tv su FoxCrime, il racconto della morte dello stilista Gianni Versace Leggo.it"
+        },
+        {
+          "title": "American Crime Story: l’assassinio di Gianni Versace, Darren Criss è diventato grande - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Sat, 20 Jan 2018 08:00:00 GMT",
+          "description": "American Crime Story: l’assassinio di Gianni Versace, Darren Criss è diventato grande Hall of Series"
+        },
+        {
+          "title": "L’assassinio di Gianni Versace: American Crime Story – la vicenda dalla parte di Cunanan - CiakClub",
+          "source": "CiakClub",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "L’assassinio di Gianni Versace: American Crime Story – la vicenda dalla parte di Cunanan CiakClub"
+        }
+      ]
+    },
+    "Rocco_Chinnici": {
+      "fetched_at": "2026-11-06T16:00:42+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rocco Chinnici è stato un magistrato italiano, vittima di Cosa nostra nella strage di via Pipitone assieme ai due carabinieri della sua scorta.",
+      "news": [
+        {
+          "title": "Rocco Chinnici - E' così lieve il tuo bacio sulla fronte - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 15 Jan 2018 08:00:00 GMT",
+          "description": "Rocco Chinnici - E' così lieve il tuo bacio sulla fronte RaiPlay"
+        },
+        {
+          "title": "Rocco Chinnici - È così lieve il tuo bacio sulla fronte - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "Rocco Chinnici - È così lieve il tuo bacio sulla fronte MYmovies"
+        },
+        {
+          "title": "«Rocco Chinnici»: su Rai1 la storia del padre del “pool antimafia” - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "«Rocco Chinnici»: su Rai1 la storia del padre del “pool antimafia” TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Da Gomorra alla fiction su Rocco Chinnici: Cristiana Dell’Anna interpreta la figlia del giudice antimafia - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "Da Gomorra alla fiction su Rocco Chinnici: Cristiana Dell’Anna interpreta la figlia del giudice antimafia Il Mattino"
+        },
+        {
+          "title": "Manuela Ventura nel ruolo della moglie di Rocco Chinnici - Sicilia e Donna",
+          "source": "Sicilia e Donna",
+          "pubDate": "Fri, 19 Jan 2018 08:00:00 GMT",
+          "description": "Manuela Ventura nel ruolo della moglie di Rocco Chinnici Sicilia e Donna"
+        },
+        {
+          "title": "Rocco Chinnici - E' così lieve il tuo bacio sulla fronte - Intervista a Cristiana Dell'Anna - Film - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Rocco Chinnici - E' così lieve il tuo bacio sulla fronte - Intervista a Cristiana Dell'Anna - Film RaiPlay"
+        },
+        {
+          "title": "Rocco Chinnici: la storia del magistrato ucciso a Palermo nel 1983 rivive su Raiuno - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "Rocco Chinnici: la storia del magistrato ucciso a Palermo nel 1983 rivive su Raiuno iO Donna"
+        },
+        {
+          "title": "CATERINA CHINNICI - \"Mio padre Rocco, per non dimenticarlo!\" - Cinema italiano.info",
+          "source": "Cinema italiano.info",
+          "pubDate": "Tue, 16 Jan 2018 08:00:00 GMT",
+          "description": "CATERINA CHINNICI - \"Mio padre Rocco, per non dimenticarlo!\" Cinema italiano.info"
+        },
+        {
+          "title": "\"Ci disse: 'Se decidete di andarvene io vi capisco'\", parla l'unico sopravvissuto dell'attentato a Chinnici - PalermoToday",
+          "source": "PalermoToday",
+          "pubDate": "Mon, 22 Jan 2018 08:00:00 GMT",
+          "description": "\"Ci disse: 'Se decidete di andarvene io vi capisco'\", parla l'unico sopravvissuto dell'attentato a Chinnici PalermoToday"
+        },
+        {
+          "title": "La messinese Virginia La Tella nel film di Rai Uno su Rocco Chinnici - MessinaOra.it",
+          "source": "MessinaOra.it",
+          "pubDate": "Wed, 17 Jan 2018 08:00:00 GMT",
+          "description": "La messinese Virginia La Tella nel film di Rai Uno su Rocco Chinnici MessinaOra.it"
+        }
+      ]
+    }
+  }
+}

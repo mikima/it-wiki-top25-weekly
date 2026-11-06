@@ -1,0 +1,539 @@
+{
+  "week": "2018-50",
+  "start_date": "2018-12-10",
+  "end_date": "2018-12-16",
+  "articles": {
+    "TG_Norba_24": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "TG Norba 24 è un canale televisivo italiano regionale all-news edito da Gruppo Norba.",
+      "news": []
+    },
+    "RSI_LA2": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA2 è il secondo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR.",
+      "news": []
+    },
+    "Iris_(rete_televisiva)": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Iris è un canale televisivo gratuito italiano edito da Mediaset disponibile sul digitale terrestre italiano e via satellite con la piattaforma Tivùsat, lanciato il 30 novembre 2007.",
+      "news": []
+    },
+    "RSI_LA1": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA1, noto più semplicemente come LA1, è il primo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR. È stata la prima emittente televisiva internazionale in lingua italiana, avendo cominciato le trasmissioni nel 1958.",
+      "news": []
+    },
+    "Bike_Channel": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Bike Channel è un canale televisivo tematico italiano dedicato al mondo del ciclismo.",
+      "news": []
+    },
+    "Cesare_Battisti_(1954)": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cesare Battisti è un ex terrorista e scrittore italiano.",
+      "news": [
+        {
+          "title": "Chi è Cesare Battisti, il terrorista condannato a due ergastoli ma \"assolto\" dalla politica - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Chi è Cesare Battisti, il terrorista condannato a due ergastoli ma \"assolto\" dalla politica la Repubblica"
+        },
+        {
+          "title": "Cesare Battisti, firmata l'estradizione ma lui è già in fuga - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "Cesare Battisti, firmata l'estradizione ma lui è già in fuga RaiNews"
+        },
+        {
+          "title": "La storia di Cesare Battisti - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "La storia di Cesare Battisti Il Post"
+        },
+        {
+          "title": "Cesare Battisti: firmata estradizione. Mattarella ringrazia Temer - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Cesare Battisti: firmata estradizione. Mattarella ringrazia Temer Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Marco_Mengoni": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Marco Mengoni è un cantautore italiano.",
+      "news": [
+        {
+          "title": "Chi è Tom Walker, l'artista che ha duettato con Marco Mengoni - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Chi è Tom Walker, l'artista che ha duettato con Marco Mengoni Sky TG24"
+        },
+        {
+          "title": "Marco Mengoni: «Ho girato il mondo con lo zaino in spalla» - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "Marco Mengoni: «Ho girato il mondo con lo zaino in spalla» TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "X Factor 2018, da Bravi a Mengoni, da Becucci a Nathalie: che fine hanno fatto i vincitori delle scorse... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "X Factor 2018, da Bravi a Mengoni, da Becucci a Nathalie: che fine hanno fatto i vincitori delle scorse... Corriere della Sera"
+        },
+        {
+          "title": "X Factor 2018, Finale: l’Opening con Marco Mengoni - MovieTele.it",
+          "source": "MovieTele.it",
+          "pubDate": "Thu, 13 Dec 2018 23:40:26 GMT",
+          "description": "X Factor 2018, Finale: l’Opening con Marco Mengoni MovieTele.it"
+        },
+        {
+          "title": "X Factor 2018, cronaca di una finale con vittoria annunciata e ospiti che spaccano - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "X Factor 2018, cronaca di una finale con vittoria annunciata e ospiti che spaccano Cosmopolitan"
+        },
+        {
+          "title": "10 cose da sapere prima della finale di X Factor 2018 di stasera - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "10 cose da sapere prima della finale di X Factor 2018 di stasera Sky TG24"
+        },
+        {
+          "title": "X Factor 2018, da Bravi a Mengoni, da Becucci a Nathalie: che fine hanno fatto i vincitori delle scorse... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "X Factor 2018, da Bravi a Mengoni, da Becucci a Nathalie: che fine hanno fatto i vincitori delle scorse... Corriere della Sera"
+        },
+        {
+          "title": "«X Factor 2018»: cos’è successo nella finale e chi è il vincitore - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "«X Factor 2018»: cos’è successo nella finale e chi è il vincitore TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "X Factor, la finale: il vincitore e cosa è successo ieri sera in 4 minuti - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "X Factor, la finale: il vincitore e cosa è successo ieri sera in 4 minuti Sky TG24"
+        },
+        {
+          "title": "X Factor 2018, la Finale: ecco chi ha vinto e cosa è successo - XFactor/Sky",
+          "source": "XFactor/Sky",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "X Factor 2018, la Finale: ecco chi ha vinto e cosa è successo XFactor/Sky"
+        }
+      ]
+    },
+    "L'amica_geniale": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "«L’amica geniale», in tv: ancora boom di ascolti per la terza puntata - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 12 Dec 2018 08:00:00 GMT",
+          "description": "«L’amica geniale», in tv: ancora boom di ascolti per la terza puntata Corriere della Sera"
+        },
+        {
+          "title": "«L’amica geniale»: chi è Elena Ferrante? - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "«L’amica geniale»: chi è Elena Ferrante? TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Perché il successo della serie “L’amica geniale” rappresenta una svolta per la tv italiana - ilLibraio.it",
+          "source": "ilLibraio.it",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "Perché il successo della serie “L’amica geniale” rappresenta una svolta per la tv italiana ilLibraio.it"
+        },
+        {
+          "title": "A ciascuno il suo? Riflessioni sull’adattamento filmico dell’Amica geniale - La Balena Bianca",
+          "source": "La Balena Bianca",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "A ciascuno il suo? Riflessioni sull’adattamento filmico dell’Amica geniale La Balena Bianca"
+        },
+        {
+          "title": "L'amica geniale, confermata la seconda stagione: sarà basata su Storia del nuovo cognome - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "L'amica geniale, confermata la seconda stagione: sarà basata su Storia del nuovo cognome Leggo.it"
+        },
+        {
+          "title": "Il successo de L'amica geniale in tv, una magia accompagnata da una colonna sonora speciale - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 12 Dec 2018 08:00:00 GMT",
+          "description": "Il successo de L'amica geniale in tv, una magia accompagnata da una colonna sonora speciale Fanpage"
+        },
+        {
+          "title": "L'amica geniale: anticipazioni della settima e ottava puntata - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "L'amica geniale: anticipazioni della settima e ottava puntata Movieplayer"
+        },
+        {
+          "title": "“L’amica geniale”. Nuove indiscrezioni sull’identità della scrittrice Elena Ferrante: potrebbe essere un uomo - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "“L’amica geniale”. Nuove indiscrezioni sull’identità della scrittrice Elena Ferrante: potrebbe essere un uomo Radio Deejay"
+        },
+        {
+          "title": "'L'amica geniale', ultimo appuntamento: le promesse da mantenere - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "'L'amica geniale', ultimo appuntamento: le promesse da mantenere la Repubblica"
+        },
+        {
+          "title": "«L'Amica Geniale»: se la Rai «taglia» la violenza di Lenù - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "«L'Amica Geniale»: se la Rai «taglia» la violenza di Lenù Vanity Fair Italia"
+        }
+      ]
+    },
+    "X_Factor_(Italia)": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "X Factor è un programma televisivo italiano di genere talent show musicale, versione italiana del format britannico The X Factor. Le prime quattro edizioni sono andate in onda su Rai 2. Dopo la rinuncia da parte della Rai, per via degli alti costi di produzione, dal 2011 è in onda su Sky Uno, a cui dal 2014 si aggiunge il relativo servizio streaming Now, con repliche in chiaro dal 2011 al 2018 su Cielo e dal 2015 su TV8. Nel 2024 Sky Italia, dopo aver avuto l'esclusiva per otto stagioni, ha prolungato la trasmissione del talent fino alla stagione 2026. Dall'undicesima edizione RTL 102.5 diventa la radio ufficiale del programma, subentrando a Radio Deejay e Radio 105.",
+      "news": [
+        {
+          "title": "Chi è Naomi, seconda classificata di X Factor 2018 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Chi è Naomi, seconda classificata di X Factor 2018 Sky TG24"
+        },
+        {
+          "title": "«X Factor 12»: vince Anastasio - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "«X Factor 12»: vince Anastasio Vanity Fair Italia"
+        },
+        {
+          "title": "X Factor 2018 verso la finale: favorito Anastasio, i giudici pronti a lasciare - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 12 Dec 2018 08:00:00 GMT",
+          "description": "X Factor 2018 verso la finale: favorito Anastasio, i giudici pronti a lasciare Corriere della Sera"
+        },
+        {
+          "title": "Manuel Agnelli: «Ho lasciato ‘X Factor’ per non diventare un pupazzo» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "Manuel Agnelli: «Ho lasciato ‘X Factor’ per non diventare un pupazzo» Rolling Stone Italia"
+        },
+        {
+          "title": "Anastasio vince X Factor: \"Il rap? Un genere di musica popolare\" - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Anastasio vince X Factor: \"Il rap? Un genere di musica popolare\" Il Sole 24 ORE"
+        },
+        {
+          "title": "X Factor 2018 vince Anastasio: tutto sulla serata finale - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "X Factor 2018 vince Anastasio: tutto sulla serata finale Amica.it"
+        },
+        {
+          "title": "X Factor, la finale: il vincitore e cosa è successo ieri sera in 4 minuti - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "X Factor, la finale: il vincitore e cosa è successo ieri sera in 4 minuti Sky TG24"
+        },
+        {
+          "title": "X Factor 12, le pagelle della finale - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "X Factor 12, le pagelle della finale Rolling Stone Italia"
+        },
+        {
+          "title": "X Factor, Anastasio: «Salvini miglior youtuber d’Italia, sull’immigrazione voto Papa Ratzinger» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "X Factor, Anastasio: «Salvini miglior youtuber d’Italia, sull’immigrazione voto Papa Ratzinger» Corriere della Sera"
+        },
+        {
+          "title": "Chi è Anastasio, il vincitore di X Factor 2018 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Chi è Anastasio, il vincitore di X Factor 2018 Sky TG24"
+        }
+      ]
+    },
+    "Baby_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Baby è una serie televisiva italiana, prodotta da Netflix e diretta da Andrea De Sica, Anna Negri e Letizia Lamartire.",
+      "news": [
+        {
+          "title": "Riccardo Mandolini è il bad boy di Baby su Netflix che ti conquista col suo sorriso - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "Riccardo Mandolini è il bad boy di Baby su Netflix che ti conquista col suo sorriso Cosmopolitan"
+        },
+        {
+          "title": "Baby e la fiera del già visto – Recensione della Prima Stagione - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Baby e la fiera del già visto – Recensione della Prima Stagione Telefilm Central"
+        },
+        {
+          "title": "Alice Pagani, la baby-squillo della serie tv Baby: «Ho studiato molto per diventare Ludovica, è luce e buio» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Alice Pagani, la baby-squillo della serie tv Baby: «Ho studiato molto per diventare Ludovica, è luce e buio» Corriere della Sera"
+        },
+        {
+          "title": "\"Baby\": la serie tv tra adolescenza, scandali e Roma bene - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "\"Baby\": la serie tv tra adolescenza, scandali e Roma bene BergamoNews"
+        },
+        {
+          "title": "Giuseppe Maggio, da «Baby» a «La compagnia del cigno» - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "Giuseppe Maggio, da «Baby» a «La compagnia del cigno» TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Sai tutto di Alice Pagani (anche chi è il suo boy), alias Ludovica della serie Baby? - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Sai tutto di Alice Pagani (anche chi è il suo boy), alias Ludovica della serie Baby? Cosmopolitan"
+        },
+        {
+          "title": "Vikings 5 serie tv: la terribile vendetta dei figli di Ragnar Lothbrock - The Millennial",
+          "source": "The Millennial",
+          "pubDate": "Mon, 10 Dec 2018 08:00:00 GMT",
+          "description": "Vikings 5 serie tv: la terribile vendetta dei figli di Ragnar Lothbrock The Millennial"
+        },
+        {
+          "title": "ALICE PAGANI/ Chi è la baby-squillo della serie tv Netflix: “Non chiamatemi Ludovica, non sono come lei” - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "ALICE PAGANI/ Chi è la baby-squillo della serie tv Netflix: “Non chiamatemi Ludovica, non sono come lei” IlSussidiario.net"
+        },
+        {
+          "title": "Baby, intervista a Riccardo Mandolini: \"In Damiano c'è qualcosa di me ma io non sono un outsider!\" - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Wed, 12 Dec 2018 08:00:00 GMT",
+          "description": "Baby, intervista a Riccardo Mandolini: \"In Damiano c'è qualcosa di me ma io non sono un outsider!\" ComingSoon.it"
+        },
+        {
+          "title": "L’atletica e la fiction Baby su Netflix - Queen Atletica",
+          "source": "Queen Atletica",
+          "pubDate": "Wed, 12 Dec 2018 13:43:10 GMT",
+          "description": "L’atletica e la fiction Baby su Netflix Queen Atletica"
+        }
+      ]
+    },
+    "Animali_fantastici_e_dove_trovarli": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Animali fantastici e dove trovarli è un film del 2016 diretto da David Yates e scritto da J. K. Rowling.",
+      "news": [
+        {
+          "title": "'Animali Fantastici: I Crimini di Grindelwald': Il nuovissimo bestiario di Grindelwald - Animation Magazine",
+          "source": "Animation Magazine",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "'Animali Fantastici: I Crimini di Grindelwald': Il nuovissimo bestiario di Grindelwald Animation Magazine"
+        },
+        {
+          "title": "20 regali perfetti per gli amanti di action figure - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "20 regali perfetti per gli amanti di action figure Movieplayer"
+        },
+        {
+          "title": "Lo Snaso di Animali Fantastici esiste davvero! Ecco l'animale a cui sarebbe ispirato - DANinSERIES",
+          "source": "DANinSERIES",
+          "pubDate": "Wed, 12 Dec 2018 08:00:00 GMT",
+          "description": "Lo Snaso di Animali Fantastici esiste davvero! Ecco l'animale a cui sarebbe ispirato DANinSERIES"
+        }
+      ]
+    },
+    "Sky_Cinema_Cult": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Sky Cinema Stories è un canale televisivo tematico edito da Sky Italia, che trasmette cinema d'autore e si trova al canale 302 della piattaforma Sky nel pacchetto \"Sky Cinema\".",
+      "news": [
+        {
+          "title": "Cold War: un'anteprima su Sky Cinema Cult - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "Cold War: un'anteprima su Sky Cinema Cult Sky TG24"
+        },
+        {
+          "title": "Buon compleanno a Jane Fonda - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "Buon compleanno a Jane Fonda Sky TG24"
+        },
+        {
+          "title": "I film di Sky Cinema a gennaio 2019 - TuttoTech.net",
+          "source": "TuttoTech.net",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "I film di Sky Cinema a gennaio 2019 TuttoTech.net"
+        },
+        {
+          "title": "Benedetto&Co, quando la linguaccia è un cult. FOTO - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 10 Dec 2018 08:00:00 GMT",
+          "description": "Benedetto&Co, quando la linguaccia è un cult. FOTO Sky Sport"
+        },
+        {
+          "title": "Giulia Salemi, ospite a #RICCANZA 3 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "Giulia Salemi, ospite a #RICCANZA 3 Sky TG24"
+        },
+        {
+          "title": "Stasera su Cult Monster: ecco la vera storia della prostituta serial killer Aileen Wournos - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Wed, 12 Dec 2018 08:00:00 GMT",
+          "description": "Stasera su Cult Monster: ecco la vera storia della prostituta serial killer Aileen Wournos LaScimmiaPensa.com"
+        }
+      ]
+    },
+    "Rai_Movie": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai Movie è un canale televisivo tematico italiano edito dalla Rai. È attivo dal 1999 come canale a pagamento, e da metà 2009 come canale gratuito.",
+      "news": [
+        {
+          "title": "Movie Mag 2018/19 - Puntata del 12/12/2018 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 12 Dec 2018 08:00:00 GMT",
+          "description": "Movie Mag 2018/19 - Puntata del 12/12/2018 - Video RaiPlay"
+        },
+        {
+          "title": "Carioca - Film - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "Carioca - Film RaiPlay"
+        },
+        {
+          "title": "Flipper - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 14 Dec 2018 22:45:22 GMT",
+          "description": "Flipper RaiPlay"
+        },
+        {
+          "title": "Triage - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 14 Dec 2018 09:29:24 GMT",
+          "description": "Triage RaiPlay"
+        },
+        {
+          "title": "Ferrante Fever - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "Ferrante Fever RaiPlay"
+        },
+        {
+          "title": "Le grandi sfide - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 12 Dec 2018 15:19:31 GMT",
+          "description": "Le grandi sfide RaiPlay"
+        },
+        {
+          "title": "Stracult 2018/19 - Puntata del 13/12/2018 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 13 Dec 2018 08:00:00 GMT",
+          "description": "Stracult 2018/19 - Puntata del 13/12/2018 - Video RaiPlay"
+        },
+        {
+          "title": "J.R.R. Tolkien - Il professore, l'anello e il tesoro - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "J.R.R. Tolkien - Il professore, l'anello e il tesoro RaiPlay"
+        }
+      ]
+    },
+    "Benedetta_Mazza": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Benedetta Mazza è una conduttrice televisiva, conduttrice radiofonica ed ex modella italiana.",
+      "news": [
+        {
+          "title": "Verissimo: Benedetta Mazza Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "Verissimo: Benedetta Mazza Video Mediaset Infinity"
+        },
+        {
+          "title": "GfVip, Benedetta Mazza a Stefano Sala: «Tante cose sono cambiate in un anno» - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Sun, 16 Dec 2018 08:00:00 GMT",
+          "description": "GfVip, Benedetta Mazza a Stefano Sala: «Tante cose sono cambiate in un anno» Il Messaggero"
+        },
+        {
+          "title": "GF Vip, i look della finale: Silvia Provvedi mostra il seno, Benedetta con abito casto - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "GF Vip, i look della finale: Silvia Provvedi mostra il seno, Benedetta con abito casto Fanpage"
+        },
+        {
+          "title": "GF Vip, continua la favola di Giulia Salemi con Monte. Sala-Mazza ecco la verità - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "GF Vip, continua la favola di Giulia Salemi con Monte. Sala-Mazza ecco la verità Quotidiano Nazionale"
+        },
+        {
+          "title": "Verissimo: Stefano Sala e Benedetta Mazza Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "Verissimo: Stefano Sala e Benedetta Mazza Video Mediaset Infinity"
+        },
+        {
+          "title": "Verissimo: Benedetta Mazza! Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "Verissimo: Benedetta Mazza! Video Mediaset Infinity"
+        },
+        {
+          "title": "Grande Fratello Vip, Stefano Sala e Benedetta Mazza: «Rapporto borderline» - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Fri, 14 Dec 2018 08:00:00 GMT",
+          "description": "Grande Fratello Vip, Stefano Sala e Benedetta Mazza: «Rapporto borderline» Leggo.it"
+        },
+        {
+          "title": "Verissimo: Walter Nudo Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "Verissimo: Walter Nudo Video Mediaset Infinity"
+        },
+        {
+          "title": "Verissimo: Stefano e Benedetta: solo amici Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "Verissimo: Stefano e Benedetta: solo amici Video Mediaset Infinity"
+        },
+        {
+          "title": "Verissimo: Stefano Sala e Dasha Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 15 Dec 2018 08:00:00 GMT",
+          "description": "Verissimo: Stefano Sala e Dasha Video Mediaset Infinity"
+        }
+      ]
+    },
+    "TeleColor": {
+      "fetched_at": "2026-11-06T16:04:00+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Medicina Amica: essere umano e microbiota, una vita insieme! - Telecolor",
+          "source": "Telecolor",
+          "pubDate": "Tue, 11 Dec 2018 08:00:00 GMT",
+          "description": "Medicina Amica: essere umano e microbiota, una vita insieme! Telecolor"
+        }
+      ]
+    }
+  }
+}

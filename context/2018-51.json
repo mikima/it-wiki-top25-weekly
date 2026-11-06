@@ -1,0 +1,516 @@
+{
+  "week": "2018-51",
+  "start_date": "2018-12-17",
+  "end_date": "2018-12-23",
+  "articles": {
+    "TG_Norba_24": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "TG Norba 24 è un canale televisivo italiano regionale all-news edito da Gruppo Norba.",
+      "news": []
+    },
+    "RSI_LA1": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA1, noto più semplicemente come LA1, è il primo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR. È stata la prima emittente televisiva internazionale in lingua italiana, avendo cominciato le trasmissioni nel 1958.",
+      "news": [
+        {
+          "title": "Sale rosa dell'Himalaya: nessun beneficio per la salute e prezzi alti - Il Fatto Alimentare",
+          "source": "Il Fatto Alimentare",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Sale rosa dell'Himalaya: nessun beneficio per la salute e prezzi alti Il Fatto Alimentare"
+        }
+      ]
+    },
+    "RSI_LA2": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA2 è il secondo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR.",
+      "news": []
+    },
+    "Iris_(rete_televisiva)": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Iris è un canale televisivo gratuito italiano edito da Mediaset disponibile sul digitale terrestre italiano e via satellite con la piattaforma Tivùsat, lanciato il 30 novembre 2007.",
+      "news": []
+    },
+    "TeleColor": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Frattura del femore: indice di cattiva salute - Telecolor",
+          "source": "Telecolor",
+          "pubDate": "Thu, 20 Dec 2018 08:00:00 GMT",
+          "description": "Frattura del femore: indice di cattiva salute Telecolor"
+        },
+        {
+          "title": "Laboratori Steineriani: il presepe in lana cardata - Telecolor",
+          "source": "Telecolor",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Laboratori Steineriani: il presepe in lana cardata Telecolor"
+        }
+      ]
+    },
+    "Rai_Movie": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai Movie è un canale televisivo tematico italiano edito dalla Rai. È attivo dal 1999 come canale a pagamento, e da metà 2009 come canale gratuito.",
+      "news": [
+        {
+          "title": "Natale 2018 con Totò: i suoi film su Rai Movie per tutte le Feste! - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sat, 22 Dec 2018 08:00:00 GMT",
+          "description": "Natale 2018 con Totò: i suoi film su Rai Movie per tutte le Feste! Movieplayer"
+        },
+        {
+          "title": "Stracult 2018/19 - Puntata del 20/12/2018 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 20 Dec 2018 08:00:00 GMT",
+          "description": "Stracult 2018/19 - Puntata del 20/12/2018 - Video RaiPlay"
+        },
+        {
+          "title": "Su Rai Movie fino a Natale i migliori film di Totò: gli orari - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 20 Dec 2018 08:00:00 GMT",
+          "description": "Su Rai Movie fino a Natale i migliori film di Totò: gli orari Fanpage"
+        },
+        {
+          "title": "Natale in TV | Buddy – Il pastore di Natale | questa sera su Rai Premium - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Natale in TV | Buddy – Il pastore di Natale | questa sera su Rai Premium Marida Caterini"
+        }
+      ]
+    },
+    "Sky_Cinema_Cult": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Sky Cinema Stories è un canale televisivo tematico edito da Sky Italia, che trasmette cinema d'autore e si trova al canale 302 della piattaforma Sky nel pacchetto \"Sky Cinema\".",
+      "news": [
+        {
+          "title": "I film di Sky Cinema a gennaio 2019 - TuttoTech.net",
+          "source": "TuttoTech.net",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "I film di Sky Cinema a gennaio 2019 TuttoTech.net"
+        },
+        {
+          "title": "Il primo re, il trailer del film sulla nascita di Roma - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 20 Dec 2018 08:00:00 GMT",
+          "description": "Il primo re, il trailer del film sulla nascita di Roma Sky TG24"
+        },
+        {
+          "title": "4 Ristoranti 2019: le anticipazioni della quinta stagione - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "4 Ristoranti 2019: le anticipazioni della quinta stagione Sky TG24"
+        },
+        {
+          "title": "Cosa c’è stasera in TV - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Cosa c’è stasera in TV Il Post"
+        },
+        {
+          "title": "Buon compleanno, Edwige Fenech. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Buon compleanno, Edwige Fenech. FOTO Sky TG24"
+        },
+        {
+          "title": "Benicio del Toro, biografia del divo di Escape at Dannemora - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 22 Dec 2018 08:00:00 GMT",
+          "description": "Benicio del Toro, biografia del divo di Escape at Dannemora Sky TG24"
+        },
+        {
+          "title": "10 attori italiani sbarcati a Hollywood - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 19 Dec 2018 08:00:00 GMT",
+          "description": "10 attori italiani sbarcati a Hollywood Sky TG24"
+        },
+        {
+          "title": "Il Ritorno di Mary Poppins: una colonna sonora \"stupendosa\" per il film Disney - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Il Ritorno di Mary Poppins: una colonna sonora \"stupendosa\" per il film Disney Movieplayer"
+        },
+        {
+          "title": "Nuovo Cinema Paradiso, oggi il \"piccolo\" Totò ha un ristorante - Today",
+          "source": "Today",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Nuovo Cinema Paradiso, oggi il \"piccolo\" Totò ha un ristorante Today"
+        }
+      ]
+    },
+    "Vincenzo_Mollica": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Vincenzo Mollica è un giornalista, scrittore, disegnatore, autore televisivo, conduttore televisivo e radiofonico italiano.",
+      "news": [
+        {
+          "title": "Che tempo che fa 2018/19 - Vincenzo Mollica - 23/12/2018 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 23 Dec 2018 08:00:00 GMT",
+          "description": "Che tempo che fa 2018/19 - Vincenzo Mollica - 23/12/2018 - Video RaiPlay"
+        },
+        {
+          "title": "«Cara Italia»: Rai 3 ripropone il programma di Enzo Biagi - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "«Cara Italia»: Rai 3 ripropone il programma di Enzo Biagi TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Vincenzo Mollica: \"Quando schiatterò sulla mia tomba voglio la foto di Vincenzo Paperica\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 23 Dec 2018 08:00:00 GMT",
+          "description": "Vincenzo Mollica: \"Quando schiatterò sulla mia tomba voglio la foto di Vincenzo Paperica\" Fanpage"
+        }
+      ]
+    },
+    "Bike_Channel": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Bike Channel è un canale televisivo tematico italiano dedicato al mondo del ciclismo.",
+      "news": []
+    },
+    "Jesse_Owens": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "James Cleveland Owens, detto Jesse, è stato un velocista e lunghista statunitense, vincitore di quattro medaglie d'oro ai Giochi olimpici di Berlino 1936.",
+      "news": [
+        {
+          "title": "«Race – Il colore della vittoria»: la storia di Jesse Owens. Cast, trama e trailer - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "«Race – Il colore della vittoria»: la storia di Jesse Owens. Cast, trama e trailer TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Buffa racconta Scirea: la 2^ puntata - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sat, 22 Dec 2018 08:00:00 GMT",
+          "description": "Buffa racconta Scirea: la 2^ puntata Sky Sport"
+        },
+        {
+          "title": "San Marino. Grande successo dello stage di Judo “I BOLLENTI SPIRITI 7°” Omaggio al giornalista Antonio Megalizzi - GiornaleSM",
+          "source": "GiornaleSM",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "San Marino. Grande successo dello stage di Judo “I BOLLENTI SPIRITI 7°” Omaggio al giornalista Antonio Megalizzi GiornaleSM"
+        },
+        {
+          "title": "Race - Il colore della vittoria | Film Jesse Owens | Stasera in Tv | curiosità - Gogo Magazine",
+          "source": "Gogo Magazine",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "Race - Il colore della vittoria | Film Jesse Owens | Stasera in Tv | curiosità Gogo Magazine"
+        }
+      ]
+    },
+    "Paul_Klee": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Paul Ernst Klee è stato un pittore tedesco con cittadinanza svizzera.",
+      "news": [
+        {
+          "title": "Chi era Paul Klee, il pittore nato 139 anni fa - Wired",
+          "source": "Wired",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Chi era Paul Klee, il pittore nato 139 anni fa Wired"
+        },
+        {
+          "title": "L’arte primitiva di Paul Klee in mostra a Milano - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "L’arte primitiva di Paul Klee in mostra a Milano Libreriamo"
+        },
+        {
+          "title": "Paul Klee, buon compleanno al maestro del colore e del ritmo - greenMe",
+          "source": "greenMe",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Paul Klee, buon compleanno al maestro del colore e del ritmo greenMe"
+        },
+        {
+          "title": "Il doodle di Google è per Paul Klee e il suo Ponte Rosso - Franz Russo",
+          "source": "Franz Russo",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Il doodle di Google è per Paul Klee e il suo Ponte Rosso Franz Russo"
+        },
+        {
+          "title": "Mostra Preraffaelliti a Milano - Milanoguida",
+          "source": "Milanoguida",
+          "pubDate": "Fri, 21 Dec 2018 12:00:48 GMT",
+          "description": "Mostra Preraffaelliti a Milano Milanoguida"
+        },
+        {
+          "title": "Paul Klee/ Chi è l’artista celebrato da Google? L’arte non è semplice rappresentazione della realtà - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Paul Klee/ Chi è l’artista celebrato da Google? L’arte non è semplice rappresentazione della realtà IlSussidiario.net"
+        }
+      ]
+    },
+    "José_Mourinho": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "José Mário dos Santos Mourinho Félix è un allenatore di calcio ed ex calciatore portoghese, di ruolo difensore, tecnico del Real Madrid.",
+      "news": [
+        {
+          "title": "Esonero Mourinho, l'allenatore lascia il Manchester United - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Esonero Mourinho, l'allenatore lascia il Manchester United Corriere della Sera"
+        },
+        {
+          "title": "José lascia il Lowry, l’hotel costato 1mln. FOTO - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "José lascia il Lowry, l’hotel costato 1mln. FOTO Sky Sport"
+        },
+        {
+          "title": "José Mourinho cacciato dal Manchester United - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "José Mourinho cacciato dal Manchester United Virgilio"
+        },
+        {
+          "title": "Mourinho esonerato: Pogba reagisce con un post controverso, poi rimosso - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Mourinho esonerato: Pogba reagisce con un post controverso, poi rimosso la Repubblica"
+        },
+        {
+          "title": "Il Manchester United ha scelto Solskjaer per il dopo-Mourinho - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Wed, 19 Dec 2018 08:00:00 GMT",
+          "description": "Il Manchester United ha scelto Solskjaer per il dopo-Mourinho San Marino Rtv"
+        },
+        {
+          "title": "Mourinho esonerato dal Manchester United: tutta la giornata e le news - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Mourinho esonerato dal Manchester United: tutta la giornata e le news Sky Sport"
+        },
+        {
+          "title": "Mourinho, dietro all’addio allo United anche una gaffe sul look - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 23 Dec 2018 08:00:00 GMT",
+          "description": "Mourinho, dietro all’addio allo United anche una gaffe sul look Corriere della Sera"
+        },
+        {
+          "title": "Solskjaer è il nuovo allenatore del Manchester United: è lui l'erede di Mourinho - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Wed, 19 Dec 2018 08:00:00 GMT",
+          "description": "Solskjaer è il nuovo allenatore del Manchester United: è lui l'erede di Mourinho Sky Sport"
+        },
+        {
+          "title": "Esonero Mou: i top allenatori mai licenziati? FOTO - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Wed, 19 Dec 2018 08:00:00 GMT",
+          "description": "Esonero Mou: i top allenatori mai licenziati? FOTO Sky Sport"
+        },
+        {
+          "title": "Mourinho, un mito che non ha saputo rinnovarsi - ilNapolista",
+          "source": "ilNapolista",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Mourinho, un mito che non ha saputo rinnovarsi ilNapolista"
+        }
+      ]
+    },
+    "Elena_Ferrante": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elena Ferrante è lo pseudonimo di una scrittrice italiana, inserita nel 2016 dal settimanale statunitense Time nella lista delle 100 persone più influenti al mondo.",
+      "news": [
+        {
+          "title": "Dove sono gli operai? - La rivista il Mulino",
+          "source": "La rivista il Mulino",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Dove sono gli operai? La rivista il Mulino"
+        },
+        {
+          "title": "Domenico Starnone dichiara: \"Io non sono Elena Ferrante\" - SoloLibri.net",
+          "source": "SoloLibri.net",
+          "pubDate": "Thu, 20 Dec 2018 08:00:00 GMT",
+          "description": "Domenico Starnone dichiara: \"Io non sono Elena Ferrante\" SoloLibri.net"
+        },
+        {
+          "title": "La più grande scrittrice italiana non è Elena Ferrante, si chiama Cleide, è plurisettantenne, ed è un talento totale, la vera novità in un mercato letterario mortificante. Ora ve la faccio conoscere: è lei il dono di Natale! - Pangea.news",
+          "source": "Pangea.news",
+          "pubDate": "Thu, 20 Dec 2018 08:00:00 GMT",
+          "description": "La più grande scrittrice italiana non è Elena Ferrante, si chiama Cleide, è plurisettantenne, ed è un talento totale, la vera novità in un mercato letterario mortificante. Ora ve la faccio conoscere: è lei il dono di Natale! Pangea.news"
+        },
+        {
+          "title": "«L’amica geniale», quello che succederà nella seconda stagione. Le anticipazioni - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "«L’amica geniale», quello che succederà nella seconda stagione. Le anticipazioni TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Perché il successo della serie “L’amica geniale” rappresenta una svolta per la tv italiana - ilLibraio.it",
+          "source": "ilLibraio.it",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "Perché il successo della serie “L’amica geniale” rappresenta una svolta per la tv italiana ilLibraio.it"
+        },
+        {
+          "title": "Starnone a Napoli e quel sorriso sul giallo di Elena Ferrante - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Thu, 20 Dec 2018 08:00:00 GMT",
+          "description": "Starnone a Napoli e quel sorriso sul giallo di Elena Ferrante Il Mattino"
+        },
+        {
+          "title": "L’Amica Geniale – La serie geniale tratta dal romanzo di Elena Ferrante | Recensione - RedCapes.it",
+          "source": "RedCapes.it",
+          "pubDate": "Sun, 23 Dec 2018 08:00:00 GMT",
+          "description": "L’Amica Geniale – La serie geniale tratta dal romanzo di Elena Ferrante | Recensione RedCapes.it"
+        },
+        {
+          "title": "Jhumpa Lahiri: \"Vorrei potere dire che la Ferrante sono io\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 19 Dec 2018 08:00:00 GMT",
+          "description": "Jhumpa Lahiri: \"Vorrei potere dire che la Ferrante sono io\" la Repubblica"
+        },
+        {
+          "title": "Diciamo grazie a L’Amica Geniale che ci ha fatto riscoprire la lingua napoletana - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 19 Dec 2018 08:00:00 GMT",
+          "description": "Diciamo grazie a L’Amica Geniale che ci ha fatto riscoprire la lingua napoletana Fanpage"
+        },
+        {
+          "title": "“L’AMICA GENIALE”: LA TRASPOSIZIONE TELEVISIVA DA UN NUOVO RESPIRO AI ROMANZI DI ELENA FERRANTE - AppiaPolis",
+          "source": "AppiaPolis",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "“L’AMICA GENIALE”: LA TRASPOSIZIONE TELEVISIVA DA UN NUOVO RESPIRO AI ROMANZI DI ELENA FERRANTE AppiaPolis"
+        }
+      ]
+    },
+    "Solstizio": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il solstizio è, in astronomia, il momento in cui il Sole raggiunge, nel suo moto apparente lungo l’eclittica, il punto di declinazione, ovvero di altezza sull’orizzonte, massima o minima.",
+      "news": [
+        {
+          "title": "Solstizio d'inverno: 9 cose che (forse) non sapevi - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "Solstizio d'inverno: 9 cose che (forse) non sapevi Focus.it"
+        },
+        {
+          "title": "Santo Stefano Quisquina, lo spettacolo del solstizio nel teatro di pietra - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "Santo Stefano Quisquina, lo spettacolo del solstizio nel teatro di pietra RaiNews"
+        },
+        {
+          "title": "Solstizio d’inverno: fatti e curiosità (VIDEO) - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "Solstizio d’inverno: fatti e curiosità (VIDEO) FocusJunior.it"
+        },
+        {
+          "title": "Il solstizio d’inverno - Accademia delle Stelle",
+          "source": "Accademia delle Stelle",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "Il solstizio d’inverno Accademia delle Stelle"
+        },
+        {
+          "title": "Solstizio d’Inverno 2018. Tanti auguri di pace e di gioia, di salute, amore e prosperità - Grande Oriente d'Italia",
+          "source": "Grande Oriente d'Italia",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Solstizio d’Inverno 2018. Tanti auguri di pace e di gioia, di salute, amore e prosperità Grande Oriente d'Italia"
+        },
+        {
+          "title": "Solstizio d'inverno, cos'è e perché è il giorno più corto dell'anno - Today",
+          "source": "Today",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "Solstizio d'inverno, cos'è e perché è il giorno più corto dell'anno Today"
+        },
+        {
+          "title": "Il solstizio d’inverno, dicembre e la magica atmosfera del Natale - culturaeculture.it",
+          "source": "culturaeculture.it",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "Il solstizio d’inverno, dicembre e la magica atmosfera del Natale culturaeculture.it"
+        },
+        {
+          "title": "Tra Druidi e Unicorni, in Inghilterra si è festeggiato il Solstizio d’Inverno - Ticinolive",
+          "source": "Ticinolive",
+          "pubDate": "Sat, 22 Dec 2018 08:00:00 GMT",
+          "description": "Tra Druidi e Unicorni, in Inghilterra si è festeggiato il Solstizio d’Inverno Ticinolive"
+        },
+        {
+          "title": "L’inverno è arrivato. Oggi sarà la notte più lunga dell’anno - Ragusah24.it",
+          "source": "Ragusah24.it",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "L’inverno è arrivato. Oggi sarà la notte più lunga dell’anno Ragusah24.it"
+        },
+        {
+          "title": "Arrivederci Autunno, bentornato Inverno: è il giorno del Solstizio 2018, da oggi le giornate si allungano - MeteoWeb",
+          "source": "MeteoWeb",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "Arrivederci Autunno, bentornato Inverno: è il giorno del Solstizio 2018, da oggi le giornate si allungano MeteoWeb"
+        }
+      ]
+    },
+    "Baby_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:04:16+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Baby è una serie televisiva italiana, prodotta da Netflix e diretta da Andrea De Sica, Anna Negri e Letizia Lamartire.",
+      "news": [
+        {
+          "title": "Riccardo Mandolini è il bad boy di Baby su Netflix che ti conquista col suo sorriso - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "Riccardo Mandolini è il bad boy di Baby su Netflix che ti conquista col suo sorriso Cosmopolitan"
+        },
+        {
+          "title": "Il caso Baby: pericolo per ragazzi Istruzioni per spiegare la serie tv - La ventisettesima ora",
+          "source": "La ventisettesima ora",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "Il caso Baby: pericolo per ragazzi Istruzioni per spiegare la serie tv La ventisettesima ora"
+        },
+        {
+          "title": "Baby rinnovata per una seconda stagione a Netflix - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Sat, 22 Dec 2018 08:00:00 GMT",
+          "description": "Baby rinnovata per una seconda stagione a Netflix ComingSoon.it"
+        },
+        {
+          "title": "Giuseppe Maggio, da «Baby» a «La compagnia del cigno» - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 17 Dec 2018 08:00:00 GMT",
+          "description": "Giuseppe Maggio, da «Baby» a «La compagnia del cigno» TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "16 anni, la voglia di fuggire…e di ammazzare: The end of the f***ing world - The Millennial",
+          "source": "The Millennial",
+          "pubDate": "Wed, 19 Dec 2018 08:00:00 GMT",
+          "description": "16 anni, la voglia di fuggire…e di ammazzare: The end of the f***ing world The Millennial"
+        },
+        {
+          "title": "La lista definitiva delle più belle serie tv del 2018 da recuperare per concludere l'anno col botto - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Fri, 21 Dec 2018 08:00:00 GMT",
+          "description": "La lista definitiva delle più belle serie tv del 2018 da recuperare per concludere l'anno col botto Cosmopolitan"
+        },
+        {
+          "title": "Come è stata accolta Baby all’estero? - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Come è stata accolta Baby all’estero? Hall of Series"
+        },
+        {
+          "title": "Abbiamo visto per voi: Baby, la serie \"scandalo\" di Netflix - iCrewPlay Cinema",
+          "source": "iCrewPlay Cinema",
+          "pubDate": "Tue, 18 Dec 2018 08:00:00 GMT",
+          "description": "Abbiamo visto per voi: Baby, la serie \"scandalo\" di Netflix iCrewPlay Cinema"
+        },
+        {
+          "title": "Baby – Queste povere, sfortunate parioline di 16 anni - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Wed, 19 Dec 2018 08:00:00 GMT",
+          "description": "Baby – Queste povere, sfortunate parioline di 16 anni Hall of Series"
+        }
+      ]
+    }
+  }
+}

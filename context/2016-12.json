@@ -1,0 +1,608 @@
+{
+  "week": "2016-12",
+  "start_date": "2016-03-21",
+  "end_date": "2016-03-27",
+  "articles": {
+    "Stato_Islamico": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lo Stato islamico è una struttura che si autoaccredita di gestire una forma di governo in cui le basi ideologiche si basano sui principi della shari'a, la legge religiosa islamica.",
+      "news": [
+        {
+          "title": "Palmira distrutta dai jihadisti dello Stato islamico - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "Palmira distrutta dai jihadisti dello Stato islamico Internazionale"
+        },
+        {
+          "title": "Attacchi Bruxelles, il testo della rivendicazione dell'Isis - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Attacchi Bruxelles, il testo della rivendicazione dell'Isis RaiNews"
+        },
+        {
+          "title": "Il Belgio dei jihadisti - Limes - Rivista Italiana di geopolitica",
+          "source": "Limes - Rivista Italiana di geopolitica",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "Il Belgio dei jihadisti Limes - Rivista Italiana di geopolitica"
+        },
+        {
+          "title": "Isis rivendica gli attacchi a Bruxelles e minaccia nuovi attentati - Eunews",
+          "source": "Eunews",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Isis rivendica gli attacchi a Bruxelles e minaccia nuovi attentati Eunews"
+        },
+        {
+          "title": "Gli attentati di Bruxelles nascono dalla guerra in Siria - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "Gli attentati di Bruxelles nascono dalla guerra in Siria Internazionale"
+        },
+        {
+          "title": "Campanini: «Isis, troppi misteri. Smascheriamo nemici e finzioni» - Terrasanta.net",
+          "source": "Terrasanta.net",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Campanini: «Isis, troppi misteri. Smascheriamo nemici e finzioni» Terrasanta.net"
+        },
+        {
+          "title": "Le notizie confermate sugli attentati a Bruxelles - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Le notizie confermate sugli attentati a Bruxelles Internazionale"
+        },
+        {
+          "title": "Cosa è successo a Bruxelles - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Cosa è successo a Bruxelles Internazionale"
+        },
+        {
+          "title": "L’esplosivo più usato dai terroristi dello Stato islamico (Video) - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "L’esplosivo più usato dai terroristi dello Stato islamico (Video) Internazionale"
+        },
+        {
+          "title": "Vent’anni di attentati in Europa - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Vent’anni di attentati in Europa Internazionale"
+        }
+      ]
+    },
+    "MediaWiki:InterProject.js": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": []
+    },
+    "Grey's_Anatomy": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Grey's Anatomy è una serie televisiva statunitense prodotta dal 2005 e trasmessa da ABC.",
+      "news": [
+        {
+          "title": "Grey's Anatomy 12x14 - Odd Man Out - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Grey's Anatomy 12x14 - Odd Man Out Recenserie"
+        },
+        {
+          "title": "Heartbeat: NBC ha rifatto Grey's Anatomy, giusto per dispetto :-) - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "Heartbeat: NBC ha rifatto Grey's Anatomy, giusto per dispetto :-) Serial Minds"
+        },
+        {
+          "title": "Quantico: Kelly Rutherford di Gossip Girl nel cast! - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "Quantico: Kelly Rutherford di Gossip Girl nel cast! BadTaste"
+        },
+        {
+          "title": "Terence Hill, l’erede è Daniele Liotti Quando le serie cambiano le star - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "Terence Hill, l’erede è Daniele Liotti Quando le serie cambiano le star Corriere della Sera"
+        },
+        {
+          "title": "How to Get Away with Murder: Charlie Weber parla di Frank - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "How to Get Away with Murder: Charlie Weber parla di Frank Telefilm Central"
+        },
+        {
+          "title": "Il triste declino di Scandal, la serie tv che non ha più niente di interessante - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Il triste declino di Scandal, la serie tv che non ha più niente di interessante Serial Minds"
+        },
+        {
+          "title": "Renée Zellweger nel primo trailer di ‘Bridget Jones’s Baby’ - Gossip.it",
+          "source": "Gossip.it",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "Renée Zellweger nel primo trailer di ‘Bridget Jones’s Baby’ Gossip.it"
+        }
+      ]
+    },
+    "Forrest_Gump": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Forrest Gump è un film del 1994 diretto da Robert Zemeckis.",
+      "news": []
+    },
+    "Episodi_di_The_Walking_Dead_(sesta_stagione)": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La sesta stagione della serie televisiva The Walking Dead, composta da sedici episodi, è stata trasmessa in prima visione negli Stati Uniti d'America dall'emittente AMC dall'11 ottobre 2015 al 3 aprile 2016.",
+      "news": [
+        {
+          "title": "The Walking Dead recap: la rivincita degli incapaci in un episodio di transizione - Film.it",
+          "source": "Film.it",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "The Walking Dead recap: la rivincita degli incapaci in un episodio di transizione Film.it"
+        },
+        {
+          "title": "The Walking Dead - 6x14 Twice As Far - Seriangolo",
+          "source": "Seriangolo",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "The Walking Dead - 6x14 Twice As Far Seriangolo"
+        },
+        {
+          "title": "The Walking Dead 6: si teme per Daryl e Carol, ma la serie è già in funzione di Negan - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "The Walking Dead 6: si teme per Daryl e Carol, ma la serie è già in funzione di Negan Movieplayer"
+        },
+        {
+          "title": "Le migliori citazioni di The Walking Dead 6x14 - Il secondo livello - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "Le migliori citazioni di The Walking Dead 6x14 - Il secondo livello Hall of Series"
+        },
+        {
+          "title": "20 curiosità che forse non sapete su The Walking Dead - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "20 curiosità che forse non sapete su The Walking Dead Hall of Series"
+        },
+        {
+          "title": "È ufficiale la cancellazione di Person of Interest - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "È ufficiale la cancellazione di Person of Interest Hall of Series"
+        },
+        {
+          "title": "#VenerdìVintage – Gli esordi assurdi di Lauren Cohan - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "#VenerdìVintage – Gli esordi assurdi di Lauren Cohan Hall of Series"
+        }
+      ]
+    },
+    "L'uomo_d'acciaio": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'uomo d'acciaio è un film del 2013 diretto da Zack Snyder.",
+      "news": [
+        {
+          "title": "Batman v Superman: ecco la nostra recensione (senza spoiler!) - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "Batman v Superman: ecco la nostra recensione (senza spoiler!) Movieplayer"
+        },
+        {
+          "title": "Batman v Superman: Dawn of Justice, quel che accade è inaudito al cinema. Siate pronti allo stupore - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "Batman v Superman: Dawn of Justice, quel che accade è inaudito al cinema. Siate pronti allo stupore Il Fatto Quotidiano"
+        },
+        {
+          "title": "Batman V Superman: Zack Snyder spiega il finale, Christopher Nolan era contrario - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "Batman V Superman: Zack Snyder spiega il finale, Christopher Nolan era contrario BadTaste"
+        },
+        {
+          "title": "35 cose da sapere su Batman v Superman: Dawn of Justice di Zack Snyder - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "35 cose da sapere su Batman v Superman: Dawn of Justice di Zack Snyder Il Cineocchio"
+        },
+        {
+          "title": "Batman v Superman: i migliori combattimenti nei fumetti - MangaForever.net",
+          "source": "MangaForever.net",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "Batman v Superman: i migliori combattimenti nei fumetti MangaForever.net"
+        },
+        {
+          "title": "Superman. Tutti i film dal peggiore al migliore - sentireascoltare",
+          "source": "sentireascoltare",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Superman. Tutti i film dal peggiore al migliore sentireascoltare"
+        },
+        {
+          "title": "Ma perché Batman e Superman si combattono? - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "Ma perché Batman e Superman si combattono? Il Post"
+        },
+        {
+          "title": "Batman v Superman: Dawn of Justice, 10 cose che potreste non aver notato - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sun, 27 Mar 2016 07:00:00 GMT",
+          "description": "Batman v Superman: Dawn of Justice, 10 cose che potreste non aver notato Movieplayer"
+        },
+        {
+          "title": "Batman v Superman: online la scena tagliata con Lex Luthor (che non è solo…) - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "Batman v Superman: online la scena tagliata con Lex Luthor (che non è solo…) Il Cineocchio"
+        },
+        {
+          "title": "Batman V Superman: le opinioni della redazione - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "Batman V Superman: le opinioni della redazione Movieplayer"
+        }
+      ]
+    },
+    "Daredevil_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Marvel's Daredevil, nota semplicemente come Daredevil, è una serie televisiva statunitense ideata da Drew Goddard e basata sull'omonimo personaggio di Marvel Comics. La serie è ambientata nel Marvel Cinematic Universe (MCU), ed è il primo di una serie di show che conducono al crossover The Defenders. La serie è prodotta dalla Marvel Television in associazione con ABC Studios e Goddard Textiles e con DeKnight Productions per la prima stagione. Steven S. DeKnight è lo showrunner della prima stagione, sostituito da Doug Petrie e Marco Ramirez per la seconda stagione; Goddard ha il ruolo di consulente creativo.",
+      "news": [
+        {
+          "title": "Daredevil, stagione 2: 5 cose che potreste non aver notato - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "Daredevil, stagione 2: 5 cose che potreste non aver notato Movieplayer"
+        },
+        {
+          "title": "Behind Daredevil 2x10: L'uomo nella cassa - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sun, 27 Mar 2016 07:00:00 GMT",
+          "description": "Behind Daredevil 2x10: L'uomo nella cassa BadTaste"
+        },
+        {
+          "title": "Marvel's Daredevil 2x05 - Kinbaku - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Marvel's Daredevil 2x05 - Kinbaku Recenserie"
+        },
+        {
+          "title": "Daredevil – 2x02/03 Dogs to a Gunfight & New York’s Finest - Seriangolo",
+          "source": "Seriangolo",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Daredevil – 2x02/03 Dogs to a Gunfight & New York’s Finest Seriangolo"
+        },
+        {
+          "title": "Daredevil: Fuochi incrociati nella parte finale della seconda stagione - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Daredevil: Fuochi incrociati nella parte finale della seconda stagione Movieplayer"
+        },
+        {
+          "title": "Daredevil – stagione 2 - Nerdevil",
+          "source": "Nerdevil",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Daredevil – stagione 2 Nerdevil"
+        },
+        {
+          "title": "Behind Daredevil 2x11: .380 - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "Behind Daredevil 2x11: .380 BadTaste"
+        },
+        {
+          "title": "Daredevil – 2x04/05 Penny and Dime & Kinbaku - Seriangolo",
+          "source": "Seriangolo",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Daredevil – 2x04/05 Penny and Dime & Kinbaku Seriangolo"
+        },
+        {
+          "title": "Quando la serie Tv si ispira ai film, tra prequel, sequel e spin off - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Quando la serie Tv si ispira ai film, tra prequel, sequel e spin off Movieplayer"
+        },
+        {
+          "title": "Behind Daredevil 2x04: Penny e decino - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Behind Daredevil 2x04: Penny e decino BadTaste"
+        }
+      ]
+    },
+    "Hugo_Cabret": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Hugo Cabret (Hugo) è un film del 2011 diretto da Martin Scorsese.",
+      "news": [
+        {
+          "title": "10 cose di “Hugo Cabret” che ancora non sapevate - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "10 cose di “Hugo Cabret” che ancora non sapevate Fanpage"
+        },
+        {
+          "title": "Hugo Cabret - Il trailer italiano - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "Hugo Cabret - Il trailer italiano Fanpage"
+        },
+        {
+          "title": "“Victor – La storia segreta del Dottor Frankenstein”: il trailer, la trama e il cast - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "“Victor – La storia segreta del Dottor Frankenstein”: il trailer, la trama e il cast Fanpage"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Sanzioni ed embargo, la Russia è costata all'Italia 3,6 miliardi - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 26 Mar 2016 07:00:00 GMT",
+          "description": "Sanzioni ed embargo, la Russia è costata all'Italia 3,6 miliardi la Repubblica"
+        },
+        {
+          "title": "Blog | Cinque milioni di stranieri in Italia, la ricchezza prodotta e l'impatto sull'economia - Info Data - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Blog | Cinque milioni di stranieri in Italia, la ricchezza prodotta e l'impatto sull'economia - Info Data Il Sole 24 ORE"
+        },
+        {
+          "title": "Referendum, in Italia le royalties più basse per le compagnie petrolifere - LifeGate",
+          "source": "LifeGate",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "Referendum, in Italia le royalties più basse per le compagnie petrolifere LifeGate"
+        },
+        {
+          "title": "Al Veneto 6 medaglie in Coppa Italia e Italiani Master di Distensione su Panca - FIPE | Federazione Italiana Pesistica",
+          "source": "FIPE | Federazione Italiana Pesistica",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Al Veneto 6 medaglie in Coppa Italia e Italiani Master di Distensione su Panca FIPE | Federazione Italiana Pesistica"
+        },
+        {
+          "title": "L’Astroturismo in Italia vince ancora con il Premio “Il Sognatore” - Astronomitaly",
+          "source": "Astronomitaly",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "L’Astroturismo in Italia vince ancora con il Premio “Il Sognatore” Astronomitaly"
+        }
+      ]
+    },
+    "Ben-Hur_(film_1959)": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Ben-Hur è un film del 1959 diretto da William Wyler con protagonista Charlton Heston. Colossal a tema storico e drammatico, è uno dei più grandi e premiati successi della storia del cinema, ispirato all'omonimo romanzo del generale Lewis \"Lew\" Wallace, da cui erano già stati tratti due film: uno del 1907 e l'altro del 1925, divenuti punti di riferimento del cinema muto. Il sottotitolo del film, A Tale of the Christ ovvero \"Un racconto del Cristo\", è dovuto al fatto che tutta la vicenda si svolge al tempo e nei luoghi in cui avviene la storia di Gesù Cristo, che, interpretato da Claude Heater, compare tre volte nel film senza mai essere inquadrato in volto.",
+      "news": [
+        {
+          "title": "BEN-HUR/ Da Nazareth alla Passione, lo “sguardo” che cambia la vita - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "BEN-HUR/ Da Nazareth alla Passione, lo “sguardo” che cambia la vita IlSussidiario.net"
+        }
+      ]
+    },
+    "Michele_Placido": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Michele Placido è un attore, regista, sceneggiatore e drammaturgo italiano.",
+      "news": [
+        {
+          "title": "Federica Vincenti, moglie di Michele Placido, partecipa a 'The Voice' - Today",
+          "source": "Today",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Federica Vincenti, moglie di Michele Placido, partecipa a 'The Voice' Today"
+        },
+        {
+          "title": "Federica Vincenti, la moglie di Michele Placido, fa l'audizione a The Voice. Ma Dolcenera la smaschera. Le foto - Oggi",
+          "source": "Oggi",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Federica Vincenti, la moglie di Michele Placido, fa l'audizione a The Voice. Ma Dolcenera la smaschera. Le foto Oggi"
+        },
+        {
+          "title": "Federica Vincenti - The Voice: la signora Michele Placido nel cast - Magazine Delle Donne",
+          "source": "Magazine Delle Donne",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Federica Vincenti - The Voice: la signora Michele Placido nel cast Magazine Delle Donne"
+        },
+        {
+          "title": "Dal teatro al cinema, Federica Vincenti anche a The Voice - RB Casting",
+          "source": "RB Casting",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Dal teatro al cinema, Federica Vincenti anche a The Voice RB Casting"
+        },
+        {
+          "title": "Talent – Federica ce la fa e poi la “sorpresa”: è la moglie di Placido - Radio Norba",
+          "source": "Radio Norba",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Talent – Federica ce la fa e poi la “sorpresa”: è la moglie di Placido Radio Norba"
+        },
+        {
+          "title": "MAMMUCARI: La supercazzola - Le Iene",
+          "source": "Le Iene",
+          "pubDate": "Sun, 27 Mar 2016 07:00:00 GMT",
+          "description": "MAMMUCARI: La supercazzola Le Iene"
+        },
+        {
+          "title": "Brenno Placido: «Somiglio a papà, ma sono un mammone» - Grazia",
+          "source": "Grazia",
+          "pubDate": "Fri, 25 Mar 2016 07:00:00 GMT",
+          "description": "Brenno Placido: «Somiglio a papà, ma sono un mammone» Grazia"
+        },
+        {
+          "title": "Patrick Baldassarri: Valeria Marini incinta e pronta al sì - Magazine Delle Donne",
+          "source": "Magazine Delle Donne",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Patrick Baldassarri: Valeria Marini incinta e pronta al sì Magazine Delle Donne"
+        },
+        {
+          "title": "The Voice of Italy 2016: alle Blind Audition Federica Vincenti, moglie di Michele Placido - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "The Voice of Italy 2016: alle Blind Audition Federica Vincenti, moglie di Michele Placido Fanpage"
+        },
+        {
+          "title": "La moglie di Michele Placido a 'The Voice of Italy': Federica Vincenti supera le Blind Audition - Gossip.it",
+          "source": "Gossip.it",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "La moglie di Michele Placido a 'The Voice of Italy': Federica Vincenti supera le Blind Audition Gossip.it"
+        }
+      ]
+    },
+    "Ciao_Darwin": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Ciao Darwin è stato un programma televisivo italiano di genere varietà e game show, andato in onda in prima serata su Canale 5 dal 3 ottobre 1998 al 23 febbraio 2024 con la conduzione di Paolo Bonolis e Luca Laurenti.",
+      "news": [
+        {
+          "title": "Il re della Passerina a Ciao Darwin 7: \"Vino e bucatini? Coppia perfetta\" - Winemag.it",
+          "source": "Winemag.it",
+          "pubDate": "Sat, 26 Mar 2016 07:00:00 GMT",
+          "description": "Il re della Passerina a Ciao Darwin 7: \"Vino e bucatini? Coppia perfetta\" Winemag.it"
+        },
+        {
+          "title": "Bonolis ripesca Ciao Darwin, «poi basta» - L'Arena",
+          "source": "L'Arena",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "Bonolis ripesca Ciao Darwin, «poi basta» L'Arena"
+        },
+        {
+          "title": "Ciao Darwin 7, inizio con il botto: tra risate e defilè piccanti è boom di ascolti - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Ciao Darwin 7, inizio con il botto: tra risate e defilè piccanti è boom di ascolti Tgcom24"
+        },
+        {
+          "title": "Fabio Mascaro tra i “belli” del programma televisivo “Ciao Darwin” - il Lametino.it",
+          "source": "il Lametino.it",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "Fabio Mascaro tra i “belli” del programma televisivo “Ciao Darwin” il Lametino.it"
+        },
+        {
+          "title": "Ciao Darwin, il programma materialista ispirato all’Eros che piace al Sud e agli stranieri - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 22 Mar 2016 07:00:00 GMT",
+          "description": "Ciao Darwin, il programma materialista ispirato all’Eros che piace al Sud e agli stranieri Il Fatto Quotidiano"
+        },
+        {
+          "title": "Ascolti Tv, Venerdì 25 Marzo 2016: Ciao Darwin 7 (26,94%), Via Crucis (18,54%) - RB Casting",
+          "source": "RB Casting",
+          "pubDate": "Sat, 26 Mar 2016 07:00:00 GMT",
+          "description": "Ascolti Tv, Venerdì 25 Marzo 2016: Ciao Darwin 7 (26,94%), Via Crucis (18,54%) RB Casting"
+        },
+        {
+          "title": "Jenny Watwood, la Madre Natura di Ciao Darwin che ha conquistato tutti con il suo lato B -Foto - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sun, 27 Mar 2016 07:00:00 GMT",
+          "description": "Jenny Watwood, la Madre Natura di Ciao Darwin che ha conquistato tutti con il suo lato B -Foto Il Mattino"
+        },
+        {
+          "title": "Penny Lane, Madre Natura di Ciao Darwin ha conquistato tutti - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Sat, 26 Mar 2016 07:00:00 GMT",
+          "description": "Penny Lane, Madre Natura di Ciao Darwin ha conquistato tutti Leggo.it"
+        },
+        {
+          "title": "Ecco Penny Lane, Madre Natura di Ciao Darwin ha conquistato tutti - Corriere Adriatico",
+          "source": "Corriere Adriatico",
+          "pubDate": "Sat, 26 Mar 2016 07:00:00 GMT",
+          "description": "Ecco Penny Lane, Madre Natura di Ciao Darwin ha conquistato tutti Corriere Adriatico"
+        }
+      ]
+    },
+    "Mr._Robot": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mr. Robot è una serie televisiva statunitense di genere drammatico-thriller, creata dallo sceneggiatore Sam Esmail e trasmessa dall'emittente USA Network dal 24 giugno 2015 al 22 dicembre 2019.",
+      "news": [
+        {
+          "title": "Belen e Borriello: ritorno di fiamma? - www.droppergen.net",
+          "source": "www.droppergen.net",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "Belen e Borriello: ritorno di fiamma? www.droppergen.net"
+        }
+      ]
+    },
+    "Progetto_Erasmus": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il programma Erasmus+ è un programma dell'Unione europea per la mobilità studentesca. Fu adottato ufficialmente il 15 giugno 1987 a Bruxelles e avviato il 1º luglio dello stesso anno. L'idea alla base del progetto risale alla pedagogista italiana Sofia Corradi, che a partire dagli anni 1960 promosse il riconoscimento degli studi compiuti all'estero come parte integrante della formazione universitaria.",
+      "news": [
+        {
+          "title": "Mandate Letter(Johanneschule Soest, Soest - Germania) a firma del Pro-Rettore alla Ricerca progetto Erasmus+KA2 Strategic Partnership - Unipa",
+          "source": "Unipa",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Mandate Letter(Johanneschule Soest, Soest - Germania) a firma del Pro-Rettore alla Ricerca progetto Erasmus+KA2 Strategic Partnership Unipa"
+        },
+        {
+          "title": "Che cos'è l'Erasmus, quel programma che ha unito i ragazzi d'Europa - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Che cos'è l'Erasmus, quel programma che ha unito i ragazzi d'Europa la Repubblica"
+        },
+        {
+          "title": "Spagna prima meta progetto Erasmus - I DATI - - ANSA",
+          "source": "ANSA",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Spagna prima meta progetto Erasmus - I DATI - ANSA"
+        },
+        {
+          "title": "Tragedia di Tarragona, la responsabile Erasmus: \"Credere ancora nei viaggi studio\" / VIDEO - FirenzeToday",
+          "source": "FirenzeToday",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Tragedia di Tarragona, la responsabile Erasmus: \"Credere ancora nei viaggi studio\" / VIDEO FirenzeToday"
+        },
+        {
+          "title": "Progetto Erasmus all’ I.C. Militi: mostrata “Barcellona in arte” per l’Europa - 24live.it",
+          "source": "24live.it",
+          "pubDate": "Wed, 23 Mar 2016 07:00:00 GMT",
+          "description": "Progetto Erasmus all’ I.C. Militi: mostrata “Barcellona in arte” per l’Europa 24live.it"
+        },
+        {
+          "title": "LUTTO ERASMUS. CORDOGLIO DELL'ATENEO PER LE VITTIME - Università degli Studi di Cagliari",
+          "source": "Università degli Studi di Cagliari",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "LUTTO ERASMUS. CORDOGLIO DELL'ATENEO PER LE VITTIME Università degli Studi di Cagliari"
+        },
+        {
+          "title": "Valentina Gallo tra le vittime della strage Erasmus in Spagna - Today",
+          "source": "Today",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Valentina Gallo tra le vittime della strage Erasmus in Spagna Today"
+        },
+        {
+          "title": "Spagna, strage di studenti: la genovese Francesca Bonello tra le vittime - GenovaToday",
+          "source": "GenovaToday",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "Spagna, strage di studenti: la genovese Francesca Bonello tra le vittime GenovaToday"
+        },
+        {
+          "title": "La genovese Francesca Bonello è morta nell'incidente di Tarragona - Today",
+          "source": "Today",
+          "pubDate": "Mon, 21 Mar 2016 07:00:00 GMT",
+          "description": "La genovese Francesca Bonello è morta nell'incidente di Tarragona Today"
+        }
+      ]
+    },
+    "Fear_the_Walking_Dead": {
+      "fetched_at": "2026-11-06T15:59:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fear the Walking Dead è una serie televisiva statunitense ideata da Robert Kirkman e Dave Erickson.",
+      "news": [
+        {
+          "title": "20 curiosità che forse non sapete su The Walking Dead - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Thu, 24 Mar 2016 07:00:00 GMT",
+          "description": "20 curiosità che forse non sapete su The Walking Dead Hall of Series"
+        }
+      ]
+    }
+  }
+}

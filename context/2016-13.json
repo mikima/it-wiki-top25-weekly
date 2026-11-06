@@ -1,0 +1,625 @@
+{
+  "week": "2016-13",
+  "start_date": "2016-03-28",
+  "end_date": "2016-04-03",
+  "articles": {
+    "Il_curioso_caso_di_Benjamin_Button_(film)": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il curioso caso di Benjamin Button è un film del 2008 diretto da David Fincher, basato sull'omonimo racconto breve del 1922 di Francis Scott Fitzgerald. Il film è stato candidato nel 2009 a tredici premi Oscar, vincendo quelli per migliore scenografia, miglior trucco e migliori effetti speciali.",
+      "news": [
+        {
+          "title": "Il nuovo film di Bryan Cranston, foto e trama - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Il nuovo film di Bryan Cranston, foto e trama Anonima Cinefili"
+        },
+        {
+          "title": "Raoul Bova vince sempre: 4.2 milioni per \"Fuoco Amico\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 31 Mar 2016 07:00:00 GMT",
+          "description": "Raoul Bova vince sempre: 4.2 milioni per \"Fuoco Amico\" Fanpage"
+        }
+      ]
+    },
+    "Gangs_of_New_York": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gangs of New York è un film del 2002 diretto da Martin Scorsese.",
+      "news": [
+        {
+          "title": "Oscar Story: le nomination e i premi degli italiani – #4 - oubliette magazine",
+          "source": "oubliette magazine",
+          "pubDate": "Thu, 31 Mar 2016 07:00:00 GMT",
+          "description": "Oscar Story: le nomination e i premi degli italiani – #4 oubliette magazine"
+        }
+      ]
+    },
+    "Rete_tranviaria_di_Cagliari_(1893-1973)": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La rete tranviaria di Cagliari, attiva fra il 1893 e il 1973, era formata da un insieme di linee che arrivò a contare 4 linee urbane e 2 extraurbane, realizzate per iniziativa privata e ampliate nel corso dei decenni. Il declino della stessa, iniziato nel secondo dopoguerra, vide in ultimo l'esercizio tranviario confinato alla direttrice che da Cagliari conduceva alla popolare spiaggia del Poetto.",
+      "news": []
+    },
+    "Gianmaria_Testa": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gianmaria Testa è stato un cantautore italiano.",
+      "news": [
+        {
+          "title": "Morto Gianmaria Testa, il cantautore dei migranti e dei poveri. I funerali il 1 aprile - ANSA",
+          "source": "ANSA",
+          "pubDate": "Thu, 31 Mar 2016 07:00:00 GMT",
+          "description": "Morto Gianmaria Testa, il cantautore dei migranti e dei poveri. I funerali il 1 aprile ANSA"
+        },
+        {
+          "title": "Addio Gianmaria Testa - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Addio Gianmaria Testa Rolling Stone Italia"
+        },
+        {
+          "title": "Cinque canzoni di Gianmaria Testa - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Cinque canzoni di Gianmaria Testa Internazionale"
+        },
+        {
+          "title": "E' morto Gianmaria Testa, il cantautore dei contadini e dei migranti - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "E' morto Gianmaria Testa, il cantautore dei contadini e dei migranti la Repubblica"
+        },
+        {
+          "title": "Morto Gianmaria Testa, lo chansonnier piemontese - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Morto Gianmaria Testa, lo chansonnier piemontese Corriere della Sera"
+        },
+        {
+          "title": "Gianmaria Testa se n’è andato senza fare rumore, solo musica degli angeli - Intravino",
+          "source": "Intravino",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Gianmaria Testa se n’è andato senza fare rumore, solo musica degli angeli Intravino"
+        },
+        {
+          "title": "Gianmaria Testa se n`è andato questa mattina senza fare rumore. - Mescalina.it",
+          "source": "Mescalina.it",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Gianmaria Testa se n`è andato questa mattina senza fare rumore. Mescalina.it"
+        },
+        {
+          "title": "La morte di Gianmaria Testa - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "La morte di Gianmaria Testa Il Post"
+        },
+        {
+          "title": "È morto Gianmaria Testa, il suo saluto in \"Lasciami andare\" - Famiglia Cristiana",
+          "source": "Famiglia Cristiana",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "È morto Gianmaria Testa, il suo saluto in \"Lasciami andare\" Famiglia Cristiana"
+        },
+        {
+          "title": "Gianmaria Testa è morto, addio al cantautore italiano amato in Francia - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Gianmaria Testa è morto, addio al cantautore italiano amato in Francia Fanpage"
+        }
+      ]
+    },
+    "Paolo_Maldini": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Paolo Cesare Maldini è un dirigente sportivo ed ex calciatore italiano, di ruolo difensore. È stato vicecampione del mondo nel 1994 e vicecampione d'Europa nel 2000 con la nazionale italiana.",
+      "news": [
+        {
+          "title": "Maldini, nome da leggenda. Da Cesare a Paolo, e ora Christian e Daniel - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Maldini, nome da leggenda. Da Cesare a Paolo, e ora Christian e Daniel La Gazzetta dello Sport"
+        },
+        {
+          "title": "Calcio italiano in lutto per Cesare Maldini - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Calcio italiano in lutto per Cesare Maldini UEFA.com"
+        },
+        {
+          "title": "Paolo Maldini: «Quel messaggio speciale quando alzai la Champions» - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Paolo Maldini: «Quel messaggio speciale quando alzai la Champions» Tuttosport"
+        },
+        {
+          "title": "Chi era Cesare Maldini - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Chi era Cesare Maldini Il Post"
+        },
+        {
+          "title": "Morto Cesare Maldini, re del calcio concreto. Era il «papà di Paolo» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Morto Cesare Maldini, re del calcio concreto. Era il «papà di Paolo» Corriere della Sera"
+        },
+        {
+          "title": "Saranno celebrati nella Basilica di Sant'Ambrogio i funerali di Cesare Maldini - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Saranno celebrati nella Basilica di Sant'Ambrogio i funerali di Cesare Maldini MilanoToday"
+        },
+        {
+          "title": "Addio Cesare Maldini, papà buono del pallone - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Addio Cesare Maldini, papà buono del pallone Avvenire"
+        },
+        {
+          "title": "Cesare Maldini, il ricordo di Arrigo Sacchi: \"Un grande tecnico, un grandissimo giocatore\" - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Cesare Maldini, il ricordo di Arrigo Sacchi: \"Un grande tecnico, un grandissimo giocatore\" il Giornale"
+        },
+        {
+          "title": "Cesare Maldini morto, addio all'ex ct dell'Italia. Il padre di \"Paolino\" fu tre volte campione d'Europa con l'Under 21 - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Cesare Maldini morto, addio all'ex ct dell'Italia. Il padre di \"Paolino\" fu tre volte campione d'Europa con l'Under 21 Il Fatto Quotidiano"
+        },
+        {
+          "title": "Morte Cesare Maldini, dal Milan alla Nazionale: fotostoria di una leggenda - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Morte Cesare Maldini, dal Milan alla Nazionale: fotostoria di una leggenda la Repubblica"
+        }
+      ]
+    },
+    "Pesce_d'aprile": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il pesce d'aprile indica una tradizione, seguita in diversi paesi del mondo, che consiste nella realizzazione di scherzi da mettere in atto il 1º aprile. Gli scherzi possono essere di varia natura, anche molto sofisticati e hanno sostanzialmente lo scopo bonario di burlarsi delle \"vittime\" di tali scherzi. La tradizione ha caratteristiche simili a quelle di alcune festività quali l'Hilaria dell'antica Roma, celebrata il 25 marzo, e l'Holi induista, entrambe ricorrenze legate all'equinozio di primavera.",
+      "news": [
+        {
+          "title": "I migliori e i peggiori pesci d’aprile della storia - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "I migliori e i peggiori pesci d’aprile della storia Il Post"
+        },
+        {
+          "title": "La chiesa diventa un negozio: pesce d'aprile sull'Altopiano - Il Gazzettino",
+          "source": "Il Gazzettino",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "La chiesa diventa un negozio: pesce d'aprile sull'Altopiano Il Gazzettino"
+        },
+        {
+          "title": "Pescara: pescato rarissimo pesce (d’aprile) suino - Rete8",
+          "source": "Rete8",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Pescara: pescato rarissimo pesce (d’aprile) suino Rete8"
+        },
+        {
+          "title": "Pesce d'aprile 2016, il giorno degli scherzi: 'Totti gioca gratis ?', 'Samantha a Space X ?' #pescedaprile - ANSA",
+          "source": "ANSA",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Pesce d'aprile 2016, il giorno degli scherzi: 'Totti gioca gratis ?', 'Samantha a Space X ?' #pescedaprile ANSA"
+        },
+        {
+          "title": "I 5 pesci d'aprile più belli di oggi? Ve li diciamo noi! - Speciale - The Games Machine",
+          "source": "The Games Machine",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "I 5 pesci d'aprile più belli di oggi? Ve li diciamo noi! - Speciale The Games Machine"
+        },
+        {
+          "title": "Spada dà le dimissioni da presidente della sesta Ma è un pesce d’aprile - L'Arena",
+          "source": "L'Arena",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Spada dà le dimissioni da presidente della sesta Ma è un pesce d’aprile L'Arena"
+        },
+        {
+          "title": "Rinoceronti e \"pissacani\" vietati Ecco i pesci d'aprile - Il Giornale di Vicenza",
+          "source": "Il Giornale di Vicenza",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Rinoceronti e \"pissacani\" vietati Ecco i pesci d'aprile Il Giornale di Vicenza"
+        },
+        {
+          "title": "Pesce d’aprile, The Jackal: “Ecco il trailer di Vrenzole, il nostro primo lungometraggio” - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Pesce d’aprile, The Jackal: “Ecco il trailer di Vrenzole, il nostro primo lungometraggio” Il Fatto Quotidiano"
+        },
+        {
+          "title": "Pesce d'aprile, Australia Open 2017: il tennis si giocherà su parquet - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Pesce d'aprile, Australia Open 2017: il tennis si giocherà su parquet la Repubblica"
+        },
+        {
+          "title": "The Witcher 3: in Blood and Wine si potrà parlare con Rutilia... ma è un pesce d'aprile - Everyeye.it",
+          "source": "Everyeye.it",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "The Witcher 3: in Blood and Wine si potrà parlare con Rutilia... ma è un pesce d'aprile Everyeye.it"
+        }
+      ]
+    },
+    "Autismo": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'autismo è una condizione del neurosviluppo innata, che presenta differenze emotive, cognitive, biologiche e nelle interazioni sociali. Le sue caratteristiche riguardano più specificamente comunicazione verbale e non verbale atipica, interessi ristretti, sensibilità sensoriale e emotiva variabile e differenze cognitive.",
+      "news": [
+        {
+          "title": "Adolescenti autistici: quali le risorse, i problemi e le sfide? - State of Mind",
+          "source": "State of Mind",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Adolescenti autistici: quali le risorse, i problemi e le sfide? State of Mind"
+        },
+        {
+          "title": "Autismo, un glossario per spiegarlo - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Autismo, un glossario per spiegarlo Wired Italia"
+        },
+        {
+          "title": "Gli autistici sono freddi e poco empatici? Sbagliato - Fondazione Umberto Veronesi",
+          "source": "Fondazione Umberto Veronesi",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Gli autistici sono freddi e poco empatici? Sbagliato Fondazione Umberto Veronesi"
+        },
+        {
+          "title": "Speciale Tg1 - COME TI CHIAMI? - 7 storie sull'autismo. - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Speciale Tg1 - COME TI CHIAMI? - 7 storie sull'autismo. - Video RaiPlay"
+        },
+        {
+          "title": "Sistemi intelligenti per la ricerca sull'autismo - Consiglio Nazionale delle Ricerche",
+          "source": "Consiglio Nazionale delle Ricerche",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Sistemi intelligenti per la ricerca sull'autismo Consiglio Nazionale delle Ricerche"
+        },
+        {
+          "title": "Autismo. Deligny: i bambini e il silenzio | Enrico Valtellina - Doppiozero",
+          "source": "Doppiozero",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Autismo. Deligny: i bambini e il silenzio | Enrico Valtellina Doppiozero"
+        },
+        {
+          "title": "Bambini e autismo: gli esperti puntano i riflettori sul microbiota - insalutenews.it",
+          "source": "insalutenews.it",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Bambini e autismo: gli esperti puntano i riflettori sul microbiota insalutenews.it"
+        },
+        {
+          "title": "Nona Giornata mondiale per l'Autismo, i bambini che sentono oltre - Infermieristicamente",
+          "source": "Infermieristicamente",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Nona Giornata mondiale per l'Autismo, i bambini che sentono oltre Infermieristicamente"
+        },
+        {
+          "title": "Giornata mondiale dell'autismo, anche a Roma i monumenti si tingono di blu - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Giornata mondiale dell'autismo, anche a Roma i monumenti si tingono di blu la Repubblica"
+        },
+        {
+          "title": "Moras e l'Hellas in prima linea contro l'autismo: lanciata la serie di eventi - VeronaSera",
+          "source": "VeronaSera",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Moras e l'Hellas in prima linea contro l'autismo: lanciata la serie di eventi VeronaSera"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Italia-Cina: Il Ministro Delrio incontra Ambasciatore cinese in Italia - Ministero delle infrastrutture e dei trasporti",
+          "source": "Ministero delle infrastrutture e dei trasporti",
+          "pubDate": "Tue, 29 Mar 2016 07:00:00 GMT",
+          "description": "Italia-Cina: Il Ministro Delrio incontra Ambasciatore cinese in Italia Ministero delle infrastrutture e dei trasporti"
+        },
+        {
+          "title": "La Germania travolge l'Italia: la Nazionale di Conte perde 4-1 - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Tue, 29 Mar 2016 07:00:00 GMT",
+          "description": "La Germania travolge l'Italia: la Nazionale di Conte perde 4-1 La Gazzetta dello Sport"
+        },
+        {
+          "title": "Exit per Foodinho, comprata dalla spagnola Glovo: in Italia si riapre la partita del food delivery - StartupItalia",
+          "source": "StartupItalia",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Exit per Foodinho, comprata dalla spagnola Glovo: in Italia si riapre la partita del food delivery StartupItalia"
+        },
+        {
+          "title": "La sindaca più cattiva d’Italia: “Nessuno vuol lavorare con me” - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "La sindaca più cattiva d’Italia: “Nessuno vuol lavorare con me” La Stampa"
+        },
+        {
+          "title": "Manutenzione auto: è l’Italia la nazione più cara? - 6sicuro.it",
+          "source": "6sicuro.it",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Manutenzione auto: è l’Italia la nazione più cara? 6sicuro.it"
+        },
+        {
+          "title": "Pubblicare annunci sui social per fare soldi. Ecco perché la pugliese ClouWè piace a Microsoft - StartupItalia",
+          "source": "StartupItalia",
+          "pubDate": "Tue, 29 Mar 2016 07:00:00 GMT",
+          "description": "Pubblicare annunci sui social per fare soldi. Ecco perché la pugliese ClouWè piace a Microsoft StartupItalia"
+        }
+      ]
+    },
+    "Il_Trono_di_Spade_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Trono di Spade è una serie televisiva statunitense di genere fantastico ideata da David Benioff e D. B. Weiss, trasmessa dal 17 aprile 2011 al 19 maggio 2019 sul canale via cavo HBO per 73 episodi in otto stagioni. È nata come adattamento televisivo del ciclo di romanzi Cronache del ghiaccio e del fuoco di George R. R. Martin. Le scene sono state girate nel Regno Unito, Canada, Croazia, Islanda, Malta, Marocco e Spagna.",
+      "news": [
+        {
+          "title": "Trono di Spade, chi è il (vero) protagonista? - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Trono di Spade, chi è il (vero) protagonista? RaiNews"
+        },
+        {
+          "title": "Quantum Break: La Recensione del Videogame / Serie TV - screenWEEK",
+          "source": "screenWEEK",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Quantum Break: La Recensione del Videogame / Serie TV screenWEEK"
+        },
+        {
+          "title": "Violenza nelle Serie Tv: quando serve e quando possiamo farne a meno - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Tue, 29 Mar 2016 07:00:00 GMT",
+          "description": "Violenza nelle Serie Tv: quando serve e quando possiamo farne a meno Hall of Series"
+        }
+      ]
+    },
+    "House_of_Cards_-_Gli_intrighi_del_potere": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "House of Cards - Gli intrighi del potere è una serie televisiva statunitense, concepita e prodotta da Beau Willimon. È un adattamento dell'omonima miniserie televisiva prodotta dalla BBC, a sua volta basata sull'omonimo romanzo di Michael Dobbs. Prodotta per sei stagioni, è stata pubblicata sulla piattaforma di streaming Netflix dal 1º febbraio 2013 al 2 novembre 2018.",
+      "news": []
+    },
+    "Paola_Cortellesi": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Paola Cortellesi è un'attrice, comica, sceneggiatrice e regista italiana.",
+      "news": [
+        {
+          "title": "Laura Pausini e Paola Cortellesi, manca solo il ritmo Servono più numeri e meno parole - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Laura Pausini e Paola Cortellesi, manca solo il ritmo Servono più numeri e meno parole Corriere della Sera"
+        },
+        {
+          "title": "Laura e Paola, videointervista a Laura Pausini e Paola Cortellesi: vi raccontiamo le nostre differenze - SpettacoloMania.it -",
+          "source": "SpettacoloMania.it -",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Laura e Paola, videointervista a Laura Pausini e Paola Cortellesi: vi raccontiamo le nostre differenze SpettacoloMania.it -"
+        },
+        {
+          "title": "Laura e Paola: piccolo miracolo del varietà, senza trash e televoto. Cortellesi guida lo show, Pausini comica promossa - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Laura e Paola: piccolo miracolo del varietà, senza trash e televoto. Cortellesi guida lo show, Pausini comica promossa Il Fatto Quotidiano"
+        },
+        {
+          "title": "Laura Pausini e Paola Cortellesi, show al femminile su Rai 1 - Today",
+          "source": "Today",
+          "pubDate": "Thu, 31 Mar 2016 07:00:00 GMT",
+          "description": "Laura Pausini e Paola Cortellesi, show al femminile su Rai 1 Today"
+        },
+        {
+          "title": "Il nuovo show di Laura Pausini e Paola Cortellesi: \"Non chiamateci Mina e Carrà\" - Giornale di Sicilia",
+          "source": "Giornale di Sicilia",
+          "pubDate": "Thu, 31 Mar 2016 07:00:00 GMT",
+          "description": "Il nuovo show di Laura Pausini e Paola Cortellesi: \"Non chiamateci Mina e Carrà\" Giornale di Sicilia"
+        },
+        {
+          "title": "Laura&Paola: Marco Mengoni Guerriero nel monologo di Paola Cortellesi sul bullismo - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Laura&Paola: Marco Mengoni Guerriero nel monologo di Paola Cortellesi sul bullismo Leggo.it"
+        },
+        {
+          "title": "Laura Pausini & Paola Cortellesi: riportiamo il varietà in televisione - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Laura Pausini & Paola Cortellesi: riportiamo il varietà in televisione Corriere della Sera"
+        },
+        {
+          "title": "Tv – Laura e Paola sul piccolo schermo - Radio Norba",
+          "source": "Radio Norba",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Tv – Laura e Paola sul piccolo schermo Radio Norba"
+        },
+        {
+          "title": "\"Laura e Paola\", anticipazioni e ospiti dello show di Laura Pausini e Paola Cortellesi - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "\"Laura e Paola\", anticipazioni e ospiti dello show di Laura Pausini e Paola Cortellesi Fanpage"
+        },
+        {
+          "title": "LAURA & PAOLA: PAUSINI E CORTELLESI DA STASERA SU RAI 1 CON IL LORO \"TWO WOMEN SHOW\" - Davide Maggio",
+          "source": "Davide Maggio",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "LAURA & PAOLA: PAUSINI E CORTELLESI DA STASERA SU RAI 1 CON IL LORO \"TWO WOMEN SHOW\" Davide Maggio"
+        }
+      ]
+    },
+    "Álvaro_Recoba": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Álvaro Alexander Recoba Rivero è un allenatore di calcio ed ex calciatore uruguaiano, di ruolo attaccante, tecnico del Deportivo Táchira.",
+      "news": []
+    },
+    "Ciao_Darwin": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Ciao Darwin è stato un programma televisivo italiano di genere varietà e game show, andato in onda in prima serata su Canale 5 dal 3 ottobre 1998 al 23 febbraio 2024 con la conduzione di Paolo Bonolis e Luca Laurenti.",
+      "news": [
+        {
+          "title": "\"Ciao Darwin\", social in tilt per Madre Natura - Today",
+          "source": "Today",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "\"Ciao Darwin\", social in tilt per Madre Natura Today"
+        },
+        {
+          "title": "Fabio Mascaro tra i “belli” del programma televisivo “Ciao Darwin” - il Lametino.it",
+          "source": "il Lametino.it",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "Fabio Mascaro tra i “belli” del programma televisivo “Ciao Darwin” il Lametino.it"
+        },
+        {
+          "title": "Rim Saidi, ecco la nuova Madre Natura di Ciao Darwin - Il Gazzettino",
+          "source": "Il Gazzettino",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Rim Saidi, ecco la nuova Madre Natura di Ciao Darwin Il Gazzettino"
+        },
+        {
+          "title": "Ciao Darwin 7, stasera Belli contro Brutti: chi sarà Madre Natura? - Today",
+          "source": "Today",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Ciao Darwin 7, stasera Belli contro Brutti: chi sarà Madre Natura? Today"
+        },
+        {
+          "title": "Ciao Darwin 7 torna stasera con la nuova sfida: belli vs brutti - Ultime Notizie Flash",
+          "source": "Ultime Notizie Flash",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "Ciao Darwin 7 torna stasera con la nuova sfida: belli vs brutti Ultime Notizie Flash"
+        }
+      ]
+    },
+    "Daredevil_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Marvel's Daredevil, nota semplicemente come Daredevil, è una serie televisiva statunitense ideata da Drew Goddard e basata sull'omonimo personaggio di Marvel Comics. La serie è ambientata nel Marvel Cinematic Universe (MCU), ed è il primo di una serie di show che conducono al crossover The Defenders. La serie è prodotta dalla Marvel Television in associazione con ABC Studios e Goddard Textiles e con DeKnight Productions per la prima stagione. Steven S. DeKnight è lo showrunner della prima stagione, sostituito da Doug Petrie e Marco Ramirez per la seconda stagione; Goddard ha il ruolo di consulente creativo.",
+      "news": [
+        {
+          "title": "Marvel's Daredevil 2x10 - The Man In The Box - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Sun, 03 Apr 2016 07:00:00 GMT",
+          "description": "Marvel's Daredevil 2x10 - The Man In The Box Recenserie"
+        },
+        {
+          "title": "Behind Daredevil 2x11: .380 - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "Behind Daredevil 2x11: .380 BadTaste"
+        },
+        {
+          "title": "Daredevil 2: doppia recensione perché non ci riusciva di stare zitti :-) - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Daredevil 2: doppia recensione perché non ci riusciva di stare zitti :-) Serial Minds"
+        },
+        {
+          "title": "Behind Daredevil 2x13: Una giornata fredda a Hell's Kitchen - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Behind Daredevil 2x13: Una giornata fredda a Hell's Kitchen BadTaste"
+        },
+        {
+          "title": "Bentornato, Frank Castle – dal fumetto di Garth Ennis alla serie Netflix - MangaForever.net",
+          "source": "MangaForever.net",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Bentornato, Frank Castle – dal fumetto di Garth Ennis alla serie Netflix MangaForever.net"
+        },
+        {
+          "title": "Marvel's Daredevil 2x12 - The Dark At The End Of The Tunnel - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Marvel's Daredevil 2x12 - The Dark At The End Of The Tunnel Recenserie"
+        },
+        {
+          "title": "Jessica Henwick protagonista della serie Iron Fist - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Jessica Henwick protagonista della serie Iron Fist Il Cineocchio"
+        },
+        {
+          "title": "Marvel's Daredevil 2x08 - Guilty As Sin - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Tue, 29 Mar 2016 07:00:00 GMT",
+          "description": "Marvel's Daredevil 2x08 - Guilty As Sin Recenserie"
+        },
+        {
+          "title": "Ecco come realizzare Mjolnir, il Martello di Thor - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Ecco come realizzare Mjolnir, il Martello di Thor BadTaste"
+        },
+        {
+          "title": "#VenerdìVintage – Gli esordi assurdi di Jon Bernthal - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Fri, 01 Apr 2016 07:00:00 GMT",
+          "description": "#VenerdìVintage – Gli esordi assurdi di Jon Bernthal Hall of Series"
+        }
+      ]
+    },
+    "Avengers:_Age_of_Ultron": {
+      "fetched_at": "2026-11-06T15:59:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Avengers: Age of Ultron è un film del 2015 scritto e diretto da Joss Whedon.",
+      "news": [
+        {
+          "title": "Thor: Ragnarok sarà l'ultimo film Marvel per Tom Hiddleston? - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Thor: Ragnarok sarà l'ultimo film Marvel per Tom Hiddleston? BadTaste"
+        },
+        {
+          "title": "Batman v Superman: Dawn of Justice recensito - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Tue, 29 Mar 2016 07:00:00 GMT",
+          "description": "Batman v Superman: Dawn of Justice recensito IGN Italia"
+        },
+        {
+          "title": "Batman v Superman supera Man of Steel ma cala al Box Office USA; Zootropolis continua a crescere - CineGuru",
+          "source": "CineGuru",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Batman v Superman supera Man of Steel ma cala al Box Office USA; Zootropolis continua a crescere CineGuru"
+        },
+        {
+          "title": "Batman v Superman: Lo scontro redazionale - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "Batman v Superman: Lo scontro redazionale i400Calci"
+        },
+        {
+          "title": "I 15 film con i migliori incassi nel primo weekend - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 28 Mar 2016 07:00:00 GMT",
+          "description": "I 15 film con i migliori incassi nel primo weekend Il Post"
+        },
+        {
+          "title": "Codice 999: Trailer vietato ai minori e character poster dell’action-thriller di John Hillcoat - www.darksidecinema.it",
+          "source": "www.darksidecinema.it",
+          "pubDate": "Sat, 02 Apr 2016 07:00:00 GMT",
+          "description": "Codice 999: Trailer vietato ai minori e character poster dell’action-thriller di John Hillcoat www.darksidecinema.it"
+        },
+        {
+          "title": "Ecco come realizzare Mjolnir, il Martello di Thor - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Ecco come realizzare Mjolnir, il Martello di Thor BadTaste"
+        },
+        {
+          "title": "Captain America: Road to War, la Marvel Comics pubblica una nuova serie - Mauxa.com",
+          "source": "Mauxa.com",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Captain America: Road to War, la Marvel Comics pubblica una nuova serie Mauxa.com"
+        },
+        {
+          "title": "Captain America Civil War: Cap ha scelto la parte sbagliata nel nuovo spot - Cinefilos.it",
+          "source": "Cinefilos.it",
+          "pubDate": "Wed, 30 Mar 2016 07:00:00 GMT",
+          "description": "Captain America Civil War: Cap ha scelto la parte sbagliata nel nuovo spot Cinefilos.it"
+        }
+      ]
+    }
+  }
+}

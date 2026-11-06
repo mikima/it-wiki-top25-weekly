@@ -1,0 +1,521 @@
+{
+  "week": "2019-04",
+  "start_date": "2019-01-21",
+  "end_date": "2019-01-27",
+  "articles": {
+    "TG_Norba_24": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "TG Norba 24 è un canale televisivo italiano regionale all-news edito da Gruppo Norba.",
+      "news": []
+    },
+    "Canale_5": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Canale 5 è un canale televisivo italiano privato, edito da Mediaset. La rete è di tipo generalista ed è orientata alle famiglie offrendo principalmente intrattenimento, cinema e telefilm.",
+      "news": [
+        {
+          "title": "Avanti un altro!: Venerdì 25 gennaio Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Fri, 25 Jan 2019 08:00:00 GMT",
+          "description": "Avanti un altro!: Venerdì 25 gennaio Video Mediaset Infinity"
+        },
+        {
+          "title": "Avanti un altro!: Sabato 26 gennaio Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 26 Jan 2019 08:00:00 GMT",
+          "description": "Avanti un altro!: Sabato 26 gennaio Video Mediaset Infinity"
+        },
+        {
+          "title": "Avanti un altro!: Mercoledì 23 gennaio Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "Avanti un altro!: Mercoledì 23 gennaio Video Mediaset Infinity"
+        },
+        {
+          "title": "Avanti un altro!: Lunedì 28 gennaio Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 28 Jan 2019 08:00:00 GMT",
+          "description": "Avanti un altro!: Lunedì 28 gennaio Video Mediaset Infinity"
+        },
+        {
+          "title": "Avanti un altro!: Giovedì 24 gennaio Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "Avanti un altro!: Giovedì 24 gennaio Video Mediaset Infinity"
+        },
+        {
+          "title": "TG5: 55 passi nel sole, c'è Al Bano su Canale 5 Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "TG5: 55 passi nel sole, c'è Al Bano su Canale 5 Video Mediaset Infinity"
+        },
+        {
+          "title": "Forum: Lunedì 21 gennaio, Canale 5 Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Forum: Lunedì 21 gennaio, Canale 5 Video Mediaset Infinity"
+        },
+        {
+          "title": "Due mamme di troppo: Quinta puntata Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Due mamme di troppo: Quinta puntata Video Mediaset Infinity"
+        },
+        {
+          "title": "Avanti un altro!: Domenica 27 gennaio Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sun, 27 Jan 2019 08:00:00 GMT",
+          "description": "Avanti un altro!: Domenica 27 gennaio Video Mediaset Infinity"
+        },
+        {
+          "title": "Avanti un altro!: Michela al quiz finale Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 26 Jan 2019 08:00:00 GMT",
+          "description": "Avanti un altro!: Michela al quiz finale Video Mediaset Infinity"
+        }
+      ]
+    },
+    "RSI_LA1": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA1, noto più semplicemente come LA1, è il primo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR. È stata la prima emittente televisiva internazionale in lingua italiana, avendo cominciato le trasmissioni nel 1958.",
+      "news": [
+        {
+          "title": "Diplomato sì, ma col trucco - RSI",
+          "source": "RSI",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "Diplomato sì, ma col trucco RSI"
+        }
+      ]
+    },
+    "RSI_LA2": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA2 è il secondo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR.",
+      "news": []
+    },
+    "TeleColor": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Benessere del microbiota e oli essenziali alleati della salute - Telecolor",
+          "source": "Telecolor",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "Benessere del microbiota e oli essenziali alleati della salute Telecolor"
+        },
+        {
+          "title": "Tele Unica piace a un editore candidato Cinque Stelle - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "Tele Unica piace a un editore candidato Cinque Stelle Il Giorno"
+        }
+      ]
+    },
+    "Blue_Monday_(data)": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il termine inglese Blue Monday indica un particolare giorno dell'anno, solitamente il terzo lunedì del mese di gennaio, ritenuto essere il giorno dell'anno più triste per gli abitanti dell'emisfero boreale. Il concetto è stato originariamente reso pubblico nel 2005 all'interno di un comunicato stampa del canale televisivo britannico Sky Travel, in cui si affermava di avere calcolato la data utilizzando un'equazione. L'intera idea rientra nell'ambito della pseudoscienza, e l'equazione che ne è alla base viene ritenuta priva di alcun fondamento.",
+      "news": [
+        {
+          "title": "Un gesto e non sei più… blu - RSI Radiotelevisione svizzera",
+          "source": "RSI Radiotelevisione svizzera",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Un gesto e non sei più… blu RSI Radiotelevisione svizzera"
+        },
+        {
+          "title": "Giornata degli abbracci, salutari e alleati contro il lunedì più triste dell’anno - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Giornata degli abbracci, salutari e alleati contro il lunedì più triste dell’anno BergamoNews"
+        },
+        {
+          "title": "Giù di morale? È colpa del Blue Monday. Come sopravvivere al giorno più triste dell'anno - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Giù di morale? È colpa del Blue Monday. Come sopravvivere al giorno più triste dell'anno HuffPost Italia"
+        },
+        {
+          "title": "Ryanair Annuncia Tariffe Speciali Con Il 20% Di Sconto Per Sconfiggere Il Blue Monday - Ryanair corporate",
+          "source": "Ryanair corporate",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Ryanair Annuncia Tariffe Speciali Con Il 20% Di Sconto Per Sconfiggere Il Blue Monday Ryanair corporate"
+        },
+        {
+          "title": "Oggi, lunedì, è il Blue Monday il giorno più triste dell’anno, ecco 10 consigli per superarlo - Prima la Martesana",
+          "source": "Prima la Martesana",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Oggi, lunedì, è il Blue Monday il giorno più triste dell’anno, ecco 10 consigli per superarlo Prima la Martesana"
+        }
+      ]
+    },
+    "Olocausto": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Olocausto fu il genocidio di circa 6 milioni di ebrei tra il 1941 ed il 1945, di cui furono responsabili le autorità della Germania nazista, i loro alleati e i collaborazionisti. Gli ebrei furono le principali vittime tra i gruppi ritenuti dai nazisti \"indesiderabili\" o \"inferiori\" per motivi politici o razziali. Per estensione, il termine \"olocausto\" è a volte riferito a tutte le vittime di persecuzioni sistematiche e omicidi di massa nazisti, incluso lo sterminio dei popoli romaní, l'uccisione di civili polacchi e di altre popolazioni slave, l'uccisione dei prigionieri di guerra sovietici, degli oppositori politici, dei dissidenti religiosi come Testimoni di Geova e pentecostali, le uccisioni e le violenze contro omosessuali, persone con disabilità mentali o fisiche e i neri europei.",
+      "news": [
+        {
+          "title": "Shoah, indagine sul male. Come e perché si arrivò all’Olocausto - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 25 Jan 2019 08:00:00 GMT",
+          "description": "Shoah, indagine sul male. Come e perché si arrivò all’Olocausto Corriere della Sera"
+        },
+        {
+          "title": "Papa: non dimentichiamo le vittime dell’Olocausto - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sat, 26 Jan 2019 08:00:00 GMT",
+          "description": "Papa: non dimentichiamo le vittime dell’Olocausto Vatican News"
+        },
+        {
+          "title": "27 GENNAIO: GIORNO DELLA MEMORIA DELLE VITTIME DELL’OLOCAUSTO - comunicacity.net",
+          "source": "comunicacity.net",
+          "pubDate": "Sun, 27 Jan 2019 08:00:00 GMT",
+          "description": "27 GENNAIO: GIORNO DELLA MEMORIA DELLE VITTIME DELL’OLOCAUSTO comunicacity.net"
+        },
+        {
+          "title": "Schindler’s list, il film sull’Olocausto torna al cinema in una versione restaurata - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "Schindler’s list, il film sull’Olocausto torna al cinema in una versione restaurata Sky TG24"
+        },
+        {
+          "title": "Giorno della Memoria: messaggi ed eventi per ricordare le vittime dell'Olocausto - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Sun, 27 Jan 2019 08:00:00 GMT",
+          "description": "Giorno della Memoria: messaggi ed eventi per ricordare le vittime dell'Olocausto San Marino Rtv"
+        },
+        {
+          "title": "Olocausto, la testimonianza delle sorelle Bucci: \"Noi sopravvissute alla Shoah\" - FirenzeToday",
+          "source": "FirenzeToday",
+          "pubDate": "Fri, 25 Jan 2019 08:00:00 GMT",
+          "description": "Olocausto, la testimonianza delle sorelle Bucci: \"Noi sopravvissute alla Shoah\" FirenzeToday"
+        },
+        {
+          "title": "Olocausto Roma: il rastrellamento del ghetto 1943 - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Sat, 26 Jan 2019 08:00:00 GMT",
+          "description": "Olocausto Roma: il rastrellamento del ghetto 1943 Scienza in rete"
+        },
+        {
+          "title": "Sei milioni di ebrei: la cifra tonda che non piace ai nagazionisti della Shoah - Open",
+          "source": "Open",
+          "pubDate": "Sun, 27 Jan 2019 08:00:00 GMT",
+          "description": "Sei milioni di ebrei: la cifra tonda che non piace ai nagazionisti della Shoah Open"
+        },
+        {
+          "title": "Geraci Siculo. Il Forum Giovani ricorda l’Olocausto - Castelbuono Live",
+          "source": "Castelbuono Live",
+          "pubDate": "Mon, 28 Jan 2019 08:00:00 GMT",
+          "description": "Geraci Siculo. Il Forum Giovani ricorda l’Olocausto Castelbuono Live"
+        },
+        {
+          "title": "Giornata della Memoria: il libri per non dimenticare la Shoah - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Sun, 27 Jan 2019 08:00:00 GMT",
+          "description": "Giornata della Memoria: il libri per non dimenticare la Shoah Amica.it"
+        }
+      ]
+    },
+    "Revenant_-_Redivivo": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Revenant - Redivivo è un film del 2015 diretto da Alejandro González Iñárritu.",
+      "news": [
+        {
+          "title": "The Revenant – Redivivo: il film di DiCaprio STASERA su TV8 - greenMe",
+          "source": "greenMe",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "The Revenant – Redivivo: il film di DiCaprio STASERA su TV8 greenMe"
+        },
+        {
+          "title": "Alessandro Preziosi giudice antimafia nel film \"Liberi di scegliere\": la tv del 22 gennaio - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Alessandro Preziosi giudice antimafia nel film \"Liberi di scegliere\": la tv del 22 gennaio BergamoNews"
+        }
+      ]
+    },
+    "Kayden_Boche": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": []
+    },
+    "Iris_(rete_televisiva)": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Iris è un canale televisivo gratuito italiano edito da Mediaset disponibile sul digitale terrestre italiano e via satellite con la piattaforma Tivùsat, lanciato il 30 novembre 2007.",
+      "news": []
+    },
+    "Queen": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Queen sono un gruppo musicale rock britannico, fondato a Londra nel 1970 dal cantante e pianista Freddie Mercury, il chitarrista Brian May e il batterista Roger Taylor. Dopo aver suonato con tre bassisti differenti, la formazione storica si completò nel 1971, con l'ingresso del bassista John Deacon.",
+      "news": [
+        {
+          "title": "6/2 – Sul palco del Goldoni le Nina’s Drag Queen in QUEEN LEAR - Fondazione Teatro Goldoni",
+          "source": "Fondazione Teatro Goldoni",
+          "pubDate": "Sat, 26 Jan 2019 08:00:00 GMT",
+          "description": "6/2 – Sul palco del Goldoni le Nina’s Drag Queen in QUEEN LEAR Fondazione Teatro Goldoni"
+        },
+        {
+          "title": "Cesare Cremonini che canta Love Of My Life dei Queen con il mare sullo sfondo è da pelle d'oca - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Fri, 25 Jan 2019 08:00:00 GMT",
+          "description": "Cesare Cremonini che canta Love Of My Life dei Queen con il mare sullo sfondo è da pelle d'oca Cosmopolitan"
+        },
+        {
+          "title": "Le suore cantano We Will Rock You dei Queen. E il video diventa virale - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Le suore cantano We Will Rock You dei Queen. E il video diventa virale Sky TG24"
+        },
+        {
+          "title": "Leather Queen: il film Bohemian Rhapsody celebra la passione di Freddie Mercury (anche) per la pelle - La conceria.it",
+          "source": "La conceria.it",
+          "pubDate": "Sat, 26 Jan 2019 08:00:00 GMT",
+          "description": "Leather Queen: il film Bohemian Rhapsody celebra la passione di Freddie Mercury (anche) per la pelle La conceria.it"
+        },
+        {
+          "title": "Queen: perché così tante pubblicità contengono la loro musica? Ecco il motivo - Virgin Radio",
+          "source": "Virgin Radio",
+          "pubDate": "Fri, 25 Jan 2019 08:00:00 GMT",
+          "description": "Queen: perché così tante pubblicità contengono la loro musica? Ecco il motivo Virgin Radio"
+        },
+        {
+          "title": "Cesare Cremonini, ecco la sua emozionante versione di “Love of My Life” dei Queen - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "Cesare Cremonini, ecco la sua emozionante versione di “Love of My Life” dei Queen Radio Deejay"
+        },
+        {
+          "title": "Freddie Mercury: gli ultimi anni del leader dei Queen prima della morte - www.bestmovie.it",
+          "source": "www.bestmovie.it",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Freddie Mercury: gli ultimi anni del leader dei Queen prima della morte www.bestmovie.it"
+        },
+        {
+          "title": "Queen, parla Roger Taylor: “nel film la sessualità di Freddie è stata trattata in modo accurato”. L’intervista - Virgin Radio",
+          "source": "Virgin Radio",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "Queen, parla Roger Taylor: “nel film la sessualità di Freddie è stata trattata in modo accurato”. L’intervista Virgin Radio"
+        },
+        {
+          "title": "Le suore si scatenano con le canzoni dei Queen, il video virale che ricorda Sister Act - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Le suore si scatenano con le canzoni dei Queen, il video virale che ricorda Sister Act Radio Deejay"
+        }
+      ]
+    },
+    "Martín_Cáceres": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "José Martín Cáceres Silva è un calciatore uruguaiano, difensore della Juventud.",
+      "news": []
+    },
+    "Cascate_del_Niagara": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le cascate del Niagara, situate nel Nord-est dell'America settentrionale, tra gli Stati Uniti d'America e il Canada, sono per la loro vastità tra i più famosi salti d'acqua del mondo.",
+      "news": [
+        {
+          "title": "Le cascate del Niagara ghiacciate - Dove Viaggi Corriere",
+          "source": "Dove Viaggi Corriere",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "Le cascate del Niagara ghiacciate Dove Viaggi Corriere"
+        },
+        {
+          "title": "L’incanto delle cascate del Niagara ghiacciate - Montagna.TV",
+          "source": "Montagna.TV",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "L’incanto delle cascate del Niagara ghiacciate Montagna.TV"
+        },
+        {
+          "title": "Che spettacolo le cascate del Niagara ghiacciate! - Ilmeteo.net",
+          "source": "Ilmeteo.net",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "Che spettacolo le cascate del Niagara ghiacciate! Ilmeteo.net"
+        },
+        {
+          "title": "Cascate del Niagara gelate, spettacolo unico al mondo - ANSA",
+          "source": "ANSA",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Cascate del Niagara gelate, spettacolo unico al mondo ANSA"
+        },
+        {
+          "title": "Le Cascate del Niagara ghiacciano: lo spettacolo a -25°C è unico - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "Le Cascate del Niagara ghiacciano: lo spettacolo a -25°C è unico HuffPost Italia"
+        },
+        {
+          "title": "I dissalatori d'acqua sono indispensabili, ma producono scorie pericolose per l'ambiente - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "I dissalatori d'acqua sono indispensabili, ma producono scorie pericolose per l'ambiente Focus.it"
+        },
+        {
+          "title": "Cascate del Niagara congelate: le immagini spettacolari - Dove Viaggi Corriere",
+          "source": "Dove Viaggi Corriere",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "Cascate del Niagara congelate: le immagini spettacolari Dove Viaggi Corriere"
+        },
+        {
+          "title": "L'incredibile spettacolo delle cascate del Niagara ghiacciate - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "L'incredibile spettacolo delle cascate del Niagara ghiacciate la Repubblica"
+        },
+        {
+          "title": "Le città dove nevica di più al mondo - SiViaggia",
+          "source": "SiViaggia",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "Le città dove nevica di più al mondo SiViaggia"
+        },
+        {
+          "title": "Legnano e la storica Franco Tosi, Alberto Presezzi tenta l’ultima impresa - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Mon, 28 Jan 2019 08:00:00 GMT",
+          "description": "Legnano e la storica Franco Tosi, Alberto Presezzi tenta l’ultima impresa Il Giorno"
+        }
+      ]
+    },
+    "Protocolli_dei_Savi_di_Sion": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Protocolli dei Savi di Sion o degli Anziani di Sion o dei savi Anziani di Sion è un documento falso creato dall'Ochrana, la polizia segreta zarista, con l'intento di diffondere l'odio verso gli ebrei nell'Impero russo. Fu realizzato nei primi anni del XX secolo nella Russia imperiale, in forma di documento segreto attribuito a una fantomatica cospirazione ebraica e massonica il cui obiettivo sarebbe stato impadronirsi del mondo.",
+      "news": [
+        {
+          "title": "Cosa sono i “Protocolli dei Savi di Sion” - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Cosa sono i “Protocolli dei Savi di Sion” Il Post"
+        },
+        {
+          "title": "L'eterno ritorno della bufala sui Protocolli di Sion, questa volta a marchio M5s - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "L'eterno ritorno della bufala sui Protocolli di Sion, questa volta a marchio M5s Wired Italia"
+        },
+        {
+          "title": "Lannutti: «Banche controllate dai Savi di Sion». Bufera sul tweet antisemita del senatore M5s - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Lannutti: «Banche controllate dai Savi di Sion». Bufera sul tweet antisemita del senatore M5s Corriere della Sera"
+        },
+        {
+          "title": "Dai Savi di Sion al piano Kalergi, le bufale razziste e antisemite che viaggiano online - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Dai Savi di Sion al piano Kalergi, le bufale razziste e antisemite che viaggiano online Il Sole 24 ORE"
+        },
+        {
+          "title": "Lannutti: \"Banche controllate dai Savi di Sion\". Insorge la comunità ebraica: \"Antisemita\". Di Maio prende le… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "Lannutti: \"Banche controllate dai Savi di Sion\". Insorge la comunità ebraica: \"Antisemita\". Di Maio prende le… la Repubblica"
+        },
+        {
+          "title": "Fiano: \"Io, figlio di un deportato ricevo minacce ogni giorno\" - Partito democratico",
+          "source": "Partito democratico",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "Fiano: \"Io, figlio di un deportato ricevo minacce ogni giorno\" Partito democratico"
+        },
+        {
+          "title": "Il ritmo compulsivo della morte - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Sat, 26 Jan 2019 08:00:00 GMT",
+          "description": "Il ritmo compulsivo della morte il manifesto"
+        },
+        {
+          "title": "Elio Lannutti e il post sui Savi di Sion. Ecco com'è andata - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Elio Lannutti e il post sui Savi di Sion. Ecco com'è andata Corriere della Sera"
+        },
+        {
+          "title": "Chi è Elio Lannutti: dall’IdV a M5s, l’ex paladino dei consumatori inciampato nel tweet antisemita - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Chi è Elio Lannutti: dall’IdV a M5s, l’ex paladino dei consumatori inciampato nel tweet antisemita Il Sole 24 ORE"
+        },
+        {
+          "title": "Il perfido Soros - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Mon, 28 Jan 2019 08:00:00 GMT",
+          "description": "Il perfido Soros Il Foglio"
+        }
+      ]
+    },
+    "Sex_Education": {
+      "fetched_at": "2026-11-06T16:05:41+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Sex Education è una serie televisiva britannica, creata da Laurie Nunn e distribuita su Netflix dal'11 gennaio 2019 al 21 settembre 2023.",
+      "news": [
+        {
+          "title": "Sex Education: la serie che parla (bene) di sesso, non solo agli adolescenti - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Sex Education: la serie che parla (bene) di sesso, non solo agli adolescenti TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Sex Education, Netflix rovescia il teen drama - Esquire",
+          "source": "Esquire",
+          "pubDate": "Wed, 23 Jan 2019 08:00:00 GMT",
+          "description": "Sex Education, Netflix rovescia il teen drama Esquire"
+        },
+        {
+          "title": "Sex Education: la nuova serie Netflix rivoluziona il coming of age [recensione] - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Mon, 28 Jan 2019 08:00:00 GMT",
+          "description": "Sex Education: la nuova serie Netflix rivoluziona il coming of age [recensione] Anonima Cinefili"
+        },
+        {
+          "title": "Sex Education è molto più di un teen drama - Rivista Studio",
+          "source": "Rivista Studio",
+          "pubDate": "Thu, 24 Jan 2019 08:00:00 GMT",
+          "description": "Sex Education è molto più di un teen drama Rivista Studio"
+        },
+        {
+          "title": "Sex Education serie tv: il tempo delle seghe, in tutta la sua bellezza - The Millennial",
+          "source": "The Millennial",
+          "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+          "description": "Sex Education serie tv: il tempo delle seghe, in tutta la sua bellezza The Millennial"
+        },
+        {
+          "title": "Kingdom, la recensione: gli zombie coreani invadono Netflix - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sat, 26 Jan 2019 08:00:00 GMT",
+          "description": "Kingdom, la recensione: gli zombie coreani invadono Netflix Movieplayer"
+        },
+        {
+          "title": "5 serie tv che ti raccontano il sesso come non lo avevi mai visto - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Sat, 26 Jan 2019 08:00:00 GMT",
+          "description": "5 serie tv che ti raccontano il sesso come non lo avevi mai visto Cosmopolitan"
+        },
+        {
+          "title": "The Crown: Gillian Anderson sarà Margaret Thatcher nella stagione 4 - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "The Crown: Gillian Anderson sarà Margaret Thatcher nella stagione 4 ComingSoon.it"
+        },
+        {
+          "title": "Sex Education | la serie Netflix | trama, cast, curiosità e recensione - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Sun, 27 Jan 2019 08:00:00 GMT",
+          "description": "Sex Education | la serie Netflix | trama, cast, curiosità e recensione Marida Caterini"
+        },
+        {
+          "title": "The Crown 4: Gillian Anderson sarà Margaret Thatcher! - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Mon, 21 Jan 2019 08:00:00 GMT",
+          "description": "The Crown 4: Gillian Anderson sarà Margaret Thatcher! Hall of Series"
+        }
+      ]
+    }
+  }
+}

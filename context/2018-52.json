@@ -1,0 +1,413 @@
+{
+  "week": "2018-52",
+  "start_date": "2018-12-24",
+  "end_date": "2018-12-30",
+  "articles": {
+    "TG_Norba_24": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "TG Norba 24 è un canale televisivo italiano regionale all-news edito da Gruppo Norba.",
+      "news": []
+    },
+    "Iris_(rete_televisiva)": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Iris è un canale televisivo gratuito italiano edito da Mediaset disponibile sul digitale terrestre italiano e via satellite con la piattaforma Tivùsat, lanciato il 30 novembre 2007.",
+      "news": []
+    },
+    "RSI_LA1": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA1, noto più semplicemente come LA1, è il primo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR. È stata la prima emittente televisiva internazionale in lingua italiana, avendo cominciato le trasmissioni nel 1958.",
+      "news": []
+    },
+    "RSI_LA2": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA2 è il secondo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR.",
+      "news": []
+    },
+    "Queen": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Queen sono un gruppo musicale rock britannico, fondato a Londra nel 1970 dal cantante e pianista Freddie Mercury, il chitarrista Brian May e il batterista Roger Taylor. Dopo aver suonato con tre bassisti differenti, la formazione storica si completò nel 1971, con l'ingresso del bassista John Deacon.",
+      "news": [
+        {
+          "title": "Bohemian Rhapsody, cinque grandi differenze tra il film la vera storia di Freddie Mercury e i Queen - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Bohemian Rhapsody, cinque grandi differenze tra il film la vera storia di Freddie Mercury e i Queen BadTaste"
+        },
+        {
+          "title": "I sei torinesi del 2018: dal baby tifoso granata alla regina di Porta Palazzo - Corriere Torino",
+          "source": "Corriere Torino",
+          "pubDate": "Sat, 29 Dec 2018 08:00:00 GMT",
+          "description": "I sei torinesi del 2018: dal baby tifoso granata alla regina di Porta Palazzo Corriere Torino"
+        },
+        {
+          "title": "Usa, la voce dei Queen canta \"Believe\" e fa commuovere Cher - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "Usa, la voce dei Queen canta \"Believe\" e fa commuovere Cher la Repubblica"
+        }
+      ]
+    },
+    "Facebook": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Facebook è un social network statunitense, fondato il 4 febbraio 2004 da Mark Zuckerberg e altri studenti dell'Università di Harvard, inizialmente riservato alla comunità universitaria e successivamente aperto al pubblico. Il nome deriva dagli yearbooks, gli annuari statunitensi contenenti fotografie e informazioni sui membri delle istituzioni educative. È di proprietà di Meta Platforms, società precedentemente denominata Facebook Inc. fino al 2021.",
+      "news": [
+        {
+          "title": "Facebook studia Mulino Caputo, prima azienda in Italia a diventare un case study - Luciano Pignataro Wine Blog",
+          "source": "Luciano Pignataro Wine Blog",
+          "pubDate": "Sat, 29 Dec 2018 08:00:00 GMT",
+          "description": "Facebook studia Mulino Caputo, prima azienda in Italia a diventare un case study Luciano Pignataro Wine Blog"
+        },
+        {
+          "title": "Debunking: Insulti ai siciliani su Facebook: la grande bufala de “La clinica delle risate” - - Sicilian Post",
+          "source": "- Sicilian Post",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "Debunking: Insulti ai siciliani su Facebook: la grande bufala de “La clinica delle risate” - Sicilian Post"
+        },
+        {
+          "title": "Salvini imbavagliato e con stella delle BR. Rimosso da Facebook provocazione del \"Banksy torinese\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 26 Dec 2018 08:00:00 GMT",
+          "description": "Salvini imbavagliato e con stella delle BR. Rimosso da Facebook provocazione del \"Banksy torinese\" RaiNews"
+        },
+        {
+          "title": "Vietnam, 6 uomini mangiano scimmia rara in diretta Facebook: arrestati - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "Vietnam, 6 uomini mangiano scimmia rara in diretta Facebook: arrestati Sky TG24"
+        },
+        {
+          "title": "Mangiano una scimmia rara in diretta Facebook, sei arresti in Vietnam - AGI",
+          "source": "AGI",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "Mangiano una scimmia rara in diretta Facebook, sei arresti in Vietnam AGI"
+        },
+        {
+          "title": "Terremoto Etna, su Facebook messaggi anti-siciliani e insulti: \"Dovete morire tutti\" - CataniaToday",
+          "source": "CataniaToday",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "Terremoto Etna, su Facebook messaggi anti-siciliani e insulti: \"Dovete morire tutti\" CataniaToday"
+        },
+        {
+          "title": "Montecalvo Irpino, su Facebook la pagina del cimitero: “Così tutti sono aggiornati sui decessi” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Montecalvo Irpino, su Facebook la pagina del cimitero: “Così tutti sono aggiornati sui decessi” la Repubblica"
+        },
+        {
+          "title": "Crollo Morandi, il consulente dei pm su Facebook, gli auguri con la X Mas e la previsione: \"Il ponte ricostru… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Crollo Morandi, il consulente dei pm su Facebook, gli auguri con la X Mas e la previsione: \"Il ponte ricostru… la Repubblica"
+        },
+        {
+          "title": "Tra dirette Facebook e visitine al bar, quei pentiti mitomani difficili da difendere - La Verità",
+          "source": "La Verità",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "Tra dirette Facebook e visitine al bar, quei pentiti mitomani difficili da difendere La Verità"
+        }
+      ]
+    },
+    "Bohemian_Rhapsody_(film)": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Bohemian Rhapsody è un film del 2018 diretto da Bryan Singer.",
+      "news": [
+        {
+          "title": "«Bohemian Rhapsody», il film su Mercury supera i 18 milioni: è il più visto del 2018 in Italia - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "«Bohemian Rhapsody», il film su Mercury supera i 18 milioni: è il più visto del 2018 in Italia Corriere della Sera"
+        },
+        {
+          "title": "'Bohemian Rhapsody' il film più visto del 2018 - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 27 Dec 2018 08:00:00 GMT",
+          "description": "'Bohemian Rhapsody' il film più visto del 2018 la Repubblica"
+        },
+        {
+          "title": "Bohemian Rhapsody, cinque grandi differenze tra il film la vera storia di Freddie Mercury e i Queen - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Bohemian Rhapsody, cinque grandi differenze tra il film la vera storia di Freddie Mercury e i Queen BadTaste"
+        },
+        {
+          "title": "‘Bohemian Rhapsody’ da record: è il film più visto del 2018 in Italia - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "‘Bohemian Rhapsody’ da record: è il film più visto del 2018 in Italia iO Donna"
+        },
+        {
+          "title": "«Bohemian Rhapsody» (di nuovo) da record: è il film più visto del 2018 in Italia - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "«Bohemian Rhapsody» (di nuovo) da record: è il film più visto del 2018 in Italia Vanity Fair Italia"
+        }
+      ]
+    },
+    "Matthew_Garber": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Matthew Garber è stato un attore britannico, attivo come attore bambino tra il 1963 e il 1967, noto soprattutto per aver interpretato il ruolo di Michael Banks nel film della Walt Disney, Mary Poppins (1964).",
+      "news": [
+        {
+          "title": "Mary Poppins: trama e trailer del film stasera in tv - SoloLibri.net",
+          "source": "SoloLibri.net",
+          "pubDate": "Fri, 28 Dec 2018 08:00:00 GMT",
+          "description": "Mary Poppins: trama e trailer del film stasera in tv SoloLibri.net"
+        }
+      ]
+    },
+    "Sbarco_in_Sicilia": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lo sbarco in Sicilia fu una delle principali campagne militari della seconda guerra mondiale. L'operazione venne condotta dagli Alleati sulle coste della Sicilia nelle prime ore del 10 luglio 1943 con l'obiettivo di aprire un nuovo fronte nell'Europa continentale, costringere il Regno d'Italia a uscire dal conflitto e proseguire successivamente l'offensiva contro la Germania nazista. Dopo la conquista di Pantelleria, rappresentò la prima grande operazione anfibia delle forze alleate sul territorio italiano e segnò l'inizio della campagna d'Italia.",
+      "news": [
+        {
+          "title": "Enrico Deaglio, nel nuovo romanzo una valigia piena di misteri - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 27 Dec 2018 08:00:00 GMT",
+          "description": "Enrico Deaglio, nel nuovo romanzo una valigia piena di misteri Corriere della Sera"
+        }
+      ]
+    },
+    "Reggia_di_Versailles": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il palazzo di Versailles, detto anche castello di Versailles o reggia di Versailles, o semplicemente per antonomasia Versailles, è un'antica e grandiosa residenza reale dei Borboni di Francia, situata a una quindicina di chilometri da Parigi. Sorge nella cittadina di Versailles, che, da piccolo villaggio, si è sviluppata e ha acquisito importanza proprio grazie alla presenza della reggia stessa.",
+      "news": []
+    },
+    "Una_poltrona_per_due": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Una poltrona per due è un film del 1983 diretto da John Landis e interpretato da Dan Aykroyd, Eddie Murphy e Jamie Lee Curtis.",
+      "news": [
+        {
+          "title": "Una poltrona per due, non solo rito di Natale - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Una poltrona per due, non solo rito di Natale Esquire"
+        },
+        {
+          "title": "\"Una poltrona per due\", il film cult della vigilia di Natale - TriestePrima",
+          "source": "TriestePrima",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "\"Una poltrona per due\", il film cult della vigilia di Natale TriestePrima"
+        },
+        {
+          "title": "35 anni di «Una poltrona per due», venti curiosità sul film della vigilia di Natale - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "35 anni di «Una poltrona per due», venti curiosità sul film della vigilia di Natale Vanity Fair Italia"
+        },
+        {
+          "title": "Una poltrona per due: 5 curiosità sul film di Natale - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Una poltrona per due: 5 curiosità sul film di Natale Movieplayer"
+        },
+        {
+          "title": "“Una poltrona per due”, la spiegazione del finale - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "“Una poltrona per due”, la spiegazione del finale Il Post"
+        },
+        {
+          "title": "'Una poltrona per due' si conferma il film del Natale in tv - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 25 Dec 2018 08:00:00 GMT",
+          "description": "'Una poltrona per due' si conferma il film del Natale in tv la Repubblica"
+        },
+        {
+          "title": "Stasera in tv Una poltrona per due - La Eddie Murphy Rule, la legge finanziaria ispirata al flm - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Stasera in tv Una poltrona per due - La Eddie Murphy Rule, la legge finanziaria ispirata al flm LaScimmiaPensa.com"
+        },
+        {
+          "title": "Il finale di Una Poltrona per Due che cambiò le regole di Wall Street - CineFacts",
+          "source": "CineFacts",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Il finale di Una Poltrona per Due che cambiò le regole di Wall Street CineFacts"
+        },
+        {
+          "title": "Una Poltrona per Due torna in onda la Vigilia di Natale, aperte le scommesse: riuscirà a superare il 12,5% di share dello scorso anno? - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Una Poltrona per Due torna in onda la Vigilia di Natale, aperte le scommesse: riuscirà a superare il 12,5% di share dello scorso anno? Il Fatto Quotidiano"
+        },
+        {
+          "title": "“Una poltrona per due”: provate a indovinare da quanti anni lo propone Mediaset a Natale... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 24 Dec 2018 09:56:55 GMT",
+          "description": "“Una poltrona per due”: provate a indovinare da quanti anni lo propone Mediaset a Natale... Corriere della Sera"
+        }
+      ]
+    },
+    "Carta_d'identità_elettronica_italiana": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La carta d'identità elettronica (CIE) è un documento di riconoscimento italiano, chiamato a sostituire il formato cartaceo a cominciare dal 2015 e conforme al modello UE dal 2022.",
+      "news": [
+        {
+          "title": "Carta d’identità elettronica, poche ore e sarà obbligatoria: costi e come farla - greenMe",
+          "source": "greenMe",
+          "pubDate": "Thu, 27 Dec 2018 08:00:00 GMT",
+          "description": "Carta d’identità elettronica, poche ore e sarà obbligatoria: costi e come farla greenMe"
+        },
+        {
+          "title": "Conto Yellow di CheBanca: il conto online adatto ai risparmiatori - Mobile Transaction",
+          "source": "Mobile Transaction",
+          "pubDate": "Thu, 27 Dec 2018 08:00:00 GMT",
+          "description": "Conto Yellow di CheBanca: il conto online adatto ai risparmiatori Mobile Transaction"
+        },
+        {
+          "title": "Carta d’identità elettronica: ecco come ottenerla a Novara - Corriere di Novara",
+          "source": "Corriere di Novara",
+          "pubDate": "Sun, 30 Dec 2018 08:00:00 GMT",
+          "description": "Carta d’identità elettronica: ecco come ottenerla a Novara Corriere di Novara"
+        },
+        {
+          "title": "Come fare il rinnovo o il duplicato della Tessera Sanitaria online - QuiFinanza",
+          "source": "QuiFinanza",
+          "pubDate": "Sun, 30 Dec 2018 08:00:00 GMT",
+          "description": "Come fare il rinnovo o il duplicato della Tessera Sanitaria online QuiFinanza"
+        }
+      ]
+    },
+    "Circoncisione": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La circoncisione consiste nella rimozione chirurgica (escissione) del prepuzio del pene umano.",
+      "news": [
+        {
+          "title": "Unomattina - Circoncisione in casa a Monterotondo: muore bambino di due anni, il gemello grave - 24/12/2018 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Unomattina - Circoncisione in casa a Monterotondo: muore bambino di due anni, il gemello grave - 24/12/2018 - Video RaiPlay"
+        },
+        {
+          "title": "Monterotondo, bimbo morto per circoncisione: arrestato presunto responsabile - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Monterotondo, bimbo morto per circoncisione: arrestato presunto responsabile Tv2000"
+        },
+        {
+          "title": "Circoncisione in casa: muore bambino, grave il fratello. Arrestato l'autore dell'intervento - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Circoncisione in casa: muore bambino, grave il fratello. Arrestato l'autore dell'intervento RaiNews"
+        },
+        {
+          "title": "Bimbo morto per circoncisione in casa a Monterotondo: migliora il gemellino ricoverato - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 24 Dec 2018 08:00:00 GMT",
+          "description": "Bimbo morto per circoncisione in casa a Monterotondo: migliora il gemellino ricoverato la Repubblica"
+        },
+        {
+          "title": "Da dove arriva “La notte di San Silvestro” - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Da dove arriva “La notte di San Silvestro” Il Post"
+        },
+        {
+          "title": "Cosa c’entra San Silvestro con il 31 dicembre? E cosa lega Gesù al Capodanno? - Aleteia IT",
+          "source": "Aleteia IT",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Cosa c’entra San Silvestro con il 31 dicembre? E cosa lega Gesù al Capodanno? Aleteia IT"
+        },
+        {
+          "title": "Quel Sacro Prepuzio, di cui non si può parlare - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Quel Sacro Prepuzio, di cui non si può parlare Il Post"
+        }
+      ]
+    },
+    "Giampiero_Galeazzi": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gian Piero Daniele Galeazzi, noto semplicemente come Gian Piero, è stato un telecronista sportivo, conduttore televisivo, giornalista e canottiere italiano.",
+      "news": [
+        {
+          "title": "Domenica In, Giampiero Galeazzi in studio dall’amica Mara Venier: abbracci e commozione - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 30 Dec 2018 08:00:00 GMT",
+          "description": "Domenica In, Giampiero Galeazzi in studio dall’amica Mara Venier: abbracci e commozione Il Fatto Quotidiano"
+        },
+        {
+          "title": "Giampiero Galeazzi torna in tv. L’abbraccio commosso con Mara Venier a Domenica In - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Giampiero Galeazzi torna in tv. L’abbraccio commosso con Mara Venier a Domenica In Radio Deejay"
+        },
+        {
+          "title": "Galeazzi a Domenica In commuove tutti: \"Mi restano da fare gli ultimi 500 metri\" - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Galeazzi a Domenica In commuove tutti: \"Mi restano da fare gli ultimi 500 metri\" RomaToday"
+        },
+        {
+          "title": "Addio a Giampiero Galeazzi, quando tornò in tv in sedia a rotelle: l’abbraccio con Mara Venier - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 30 Dec 2018 08:00:00 GMT",
+          "description": "Addio a Giampiero Galeazzi, quando tornò in tv in sedia a rotelle: l’abbraccio con Mara Venier Corriere della Sera"
+        },
+        {
+          "title": "Giampiero Galeazzi, ritorno in lacrime a Domenica In: \"Contento di quello che ho fatto nella vita\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 30 Dec 2018 08:00:00 GMT",
+          "description": "Giampiero Galeazzi, ritorno in lacrime a Domenica In: \"Contento di quello che ho fatto nella vita\" Fanpage"
+        },
+        {
+          "title": "\"Domenica In\" chiude a 3 milioni di spettatori con l'abbraccio di Mara Venier e Giampiero Galeazzi - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "\"Domenica In\" chiude a 3 milioni di spettatori con l'abbraccio di Mara Venier e Giampiero Galeazzi Fanpage"
+        },
+        {
+          "title": "Giampiero Galeazzi in sedia a rotelle a \"Domenica In\" commuove tutti - Perizona Magazine",
+          "source": "Perizona Magazine",
+          "pubDate": "Sun, 30 Dec 2018 08:00:00 GMT",
+          "description": "Giampiero Galeazzi in sedia a rotelle a \"Domenica In\" commuove tutti Perizona Magazine"
+        },
+        {
+          "title": "Su Giampiero Galeazzi e la sua malattia, il morbo di Parkinson lo avrebbe colpito da tempo - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Su Giampiero Galeazzi e la sua malattia, il morbo di Parkinson lo avrebbe colpito da tempo Fanpage"
+        },
+        {
+          "title": "Susanna Galeazzi, chi è la figlia del giornalista sportivo Giampiero Galeazzi - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Susanna Galeazzi, chi è la figlia del giornalista sportivo Giampiero Galeazzi Fanpage"
+        },
+        {
+          "title": "Le foto di Susanna Galeazzi - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Le foto di Susanna Galeazzi Fanpage"
+        }
+      ]
+    },
+    "Split_(film_2016_Shyamalan)": {
+      "fetched_at": "2026-11-06T16:04:34+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Split è un film del 2016 scritto e diretto da M. Night Shyamalan.",
+      "news": [
+        {
+          "title": "Stasera in TV 27 dicembre: Split, i ventitré folli e meravigliosi James McAvoy - Film.it",
+          "source": "Film.it",
+          "pubDate": "Thu, 27 Dec 2018 08:00:00 GMT",
+          "description": "Stasera in TV 27 dicembre: Split, i ventitré folli e meravigliosi James McAvoy Film.it"
+        }
+      ]
+    }
+  }
+}

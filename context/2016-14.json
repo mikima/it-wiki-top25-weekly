@@ -1,0 +1,686 @@
+{
+  "week": "2016-14",
+  "start_date": "2016-04-04",
+  "end_date": "2016-04-10",
+  "articles": {
+    "Dirty_Dancing_-_Balli_proibiti": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Dirty Dancing (Balli proibiti) (Dirty Dancing) è un film del 1987 diretto da Emile Ardolino e interpretato da Jennifer Grey e Patrick Swayze.",
+      "news": [
+        {
+          "title": "Dirty Dancing & co. - ELLE",
+          "source": "ELLE",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "Dirty Dancing & co. ELLE"
+        },
+        {
+          "title": "Dirty Dancing, Jennifer Grey: attrice com’era e com’è FOTO - LadyBlitz",
+          "source": "LadyBlitz",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Dirty Dancing, Jennifer Grey: attrice com’era e com’è FOTO LadyBlitz"
+        }
+      ]
+    },
+    "Batman_v_Superman:_Dawn_of_Justice": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Batman v Superman: Dawn of Justice è un film del 2016 diretto da Zack Snyder.",
+      "news": [
+        {
+          "title": "Batman v Superman: prima e dopo gli effetti speciali (video) - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Sat, 09 Apr 2016 07:00:00 GMT",
+          "description": "Batman v Superman: prima e dopo gli effetti speciali (video) Anonima Cinefili"
+        },
+        {
+          "title": "BATMAN V SUPERMAN: DAWN OF JUSTICE – GIORNO CONTRO NOTTE, DIO CONTRO UOMO, MARVEL CONTRO DC - Monster Movie",
+          "source": "Monster Movie",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "BATMAN V SUPERMAN: DAWN OF JUSTICE – GIORNO CONTRO NOTTE, DIO CONTRO UOMO, MARVEL CONTRO DC Monster Movie"
+        },
+        {
+          "title": "'Batman v Superman' domina box office - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "'Batman v Superman' domina box office AGI"
+        },
+        {
+          "title": "DC Comics - Batman v Superman: tutte le citazioni e i riferimenti ai fumetti - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "DC Comics - Batman v Superman: tutte le citazioni e i riferimenti ai fumetti BadTaste"
+        },
+        {
+          "title": "Batman v Superman supera Man of Steel ma cala al Box Office USA; Zootropolis continua a crescere - CineGuru",
+          "source": "CineGuru",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Batman v Superman supera Man of Steel ma cala al Box Office USA; Zootropolis continua a crescere CineGuru"
+        },
+        {
+          "title": "Batman V Superman: Zack Snyder sul perché l'Uomo d'Acciaio evita di usare la vista a raggi X e il super udito - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sat, 09 Apr 2016 07:00:00 GMT",
+          "description": "Batman V Superman: Zack Snyder sul perché l'Uomo d'Acciaio evita di usare la vista a raggi X e il super udito BadTaste"
+        },
+        {
+          "title": "Batman v Superman: il making of del cadavere di Zod! - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Batman v Superman: il making of del cadavere di Zod! BadTaste"
+        }
+      ]
+    },
+    "Il_cavaliere_oscuro": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il cavaliere oscuro è un film del 2008 co-scritto, diretto e co-prodotto da Christopher Nolan.",
+      "news": [
+        {
+          "title": "Com’è nato il film “Il cavaliere oscuro” - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Com’è nato il film “Il cavaliere oscuro” Il Post"
+        },
+        {
+          "title": "BATMAN V SUPERMAN: DAWN OF JUSTICE – GIORNO CONTRO NOTTE, DIO CONTRO UOMO, MARVEL CONTRO DC - Monster Movie",
+          "source": "Monster Movie",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "BATMAN V SUPERMAN: DAWN OF JUSTICE – GIORNO CONTRO NOTTE, DIO CONTRO UOMO, MARVEL CONTRO DC Monster Movie"
+        },
+        {
+          "title": "Suicide Squad: quante scene avrà il Batman di Ben Affleck? - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Sun, 10 Apr 2016 07:00:00 GMT",
+          "description": "Suicide Squad: quante scene avrà il Batman di Ben Affleck? Best Movie"
+        },
+        {
+          "title": "Batman e Superman al cinema: 10 cose che (forse) non sapete sui due più grandi supereroi dei fumetti - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Batman e Superman al cinema: 10 cose che (forse) non sapete sui due più grandi supereroi dei fumetti Movieplayer"
+        },
+        {
+          "title": "La Tumbler e le altre auto di Batman - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "La Tumbler e le altre auto di Batman Corriere della Sera"
+        },
+        {
+          "title": "Tra Hogwarts e Batman: Gotham Academy - Lo Spazio Bianco",
+          "source": "Lo Spazio Bianco",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Tra Hogwarts e Batman: Gotham Academy Lo Spazio Bianco"
+        },
+        {
+          "title": "Zoro, Sanji, Usopp e Mihawk si mostrano in un nuovo trailer di One Piece: Burning Blood - MondoXbox",
+          "source": "MondoXbox",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "Zoro, Sanji, Usopp e Mihawk si mostrano in un nuovo trailer di One Piece: Burning Blood MondoXbox"
+        },
+        {
+          "title": "Batman V Superman: Zack Snyder sul perché l'Uomo d'Acciaio evita di usare la vista a raggi X e il super udito - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sat, 09 Apr 2016 07:00:00 GMT",
+          "description": "Batman V Superman: Zack Snyder sul perché l'Uomo d'Acciaio evita di usare la vista a raggi X e il super udito BadTaste"
+        },
+        {
+          "title": "Dark Souls 3 - La pagina degli spoiler - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Dark Souls 3 - La pagina degli spoiler IGN Italia"
+        },
+        {
+          "title": "L’Isola dei Famosi 2016 cresce ma non basta: Montalbano vince ancora la gara d’ascolti - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "L’Isola dei Famosi 2016 cresce ma non basta: Montalbano vince ancora la gara d’ascolti Fanpage"
+        }
+      ]
+    },
+    "Grey's_Anatomy": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Grey's Anatomy è una serie televisiva statunitense prodotta dal 2005 e trasmessa da ABC.",
+      "news": [
+        {
+          "title": "Jeffrey Dean Morgan in The Walking Dead: il cattivo irresistibile - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Jeffrey Dean Morgan in The Walking Dead: il cattivo irresistibile ELLE"
+        },
+        {
+          "title": "The Catch – La nuova serie di Shonda Rhimes che è come tutte le altre - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "The Catch – La nuova serie di Shonda Rhimes che è come tutte le altre Serial Minds"
+        },
+        {
+          "title": "Le 10 morti più scioccanti delle serie tv - MangaForever.net",
+          "source": "MangaForever.net",
+          "pubDate": "Mon, 11 Apr 2016 07:00:00 GMT",
+          "description": "Le 10 morti più scioccanti delle serie tv MangaForever.net"
+        },
+        {
+          "title": "Anticipazioni Grey's Anatomy 12x17: Nathan tra Owen e Amelia - Gossip e TV",
+          "source": "Gossip e TV",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Anticipazioni Grey's Anatomy 12x17: Nathan tra Owen e Amelia Gossip e TV"
+        },
+        {
+          "title": "#VenerdìVintage – Che fine hanno fatto gli attori di Dr House? - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "#VenerdìVintage – Che fine hanno fatto gli attori di Dr House? Hall of Series"
+        }
+      ]
+    },
+    "Paolo_Maldini": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Paolo Cesare Maldini è un dirigente sportivo ed ex calciatore italiano, di ruolo difensore. È stato vicecampione del mondo nel 1994 e vicecampione d'Europa nel 2000 con la nazionale italiana.",
+      "news": [
+        {
+          "title": "Funerale Maldini, applausi per Cesarone: quell’abbraccio tra Teo Teocoli e “Paolino” - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Funerale Maldini, applausi per Cesarone: quell’abbraccio tra Teo Teocoli e “Paolino” MilanoToday"
+        },
+        {
+          "title": "Cesare Maldini, la lettera dei figli: \"Grazie per il viaggio fatto insieme\" - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Cesare Maldini, la lettera dei figli: \"Grazie per il viaggio fatto insieme\" La Gazzetta dello Sport"
+        },
+        {
+          "title": "Addio Maldini, Milan al completo in Sant'Ambrogio. La lettera dei figli: \"Con te un viaggio meraviglioso\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Addio Maldini, Milan al completo in Sant'Ambrogio. La lettera dei figli: \"Con te un viaggio meraviglioso\" la Repubblica"
+        },
+        {
+          "title": "Addio a Maldini, lo sport riunito a Milano - AGI",
+          "source": "AGI",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Addio a Maldini, lo sport riunito a Milano AGI"
+        },
+        {
+          "title": "Le foto dei funerali di Cesare Maldini - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Le foto dei funerali di Cesare Maldini Il Post"
+        },
+        {
+          "title": "L’addio a Cesare MaldiniI funerali a Sant’Ambrogio - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "L’addio a Cesare MaldiniI funerali a Sant’Ambrogio Corriere Milano"
+        },
+        {
+          "title": "In oltre mille per dare l’addio a Maldini - Il Piccolo",
+          "source": "Il Piccolo",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "In oltre mille per dare l’addio a Maldini Il Piccolo"
+        },
+        {
+          "title": "Milan: più di mille persone ai funerali di Cesare Maldini - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Milan: più di mille persone ai funerali di Cesare Maldini Tuttosport"
+        },
+        {
+          "title": "Il mondo dello sport saluta Cesare Maldini: le foto dei funerali a Milano - Giornale di Sicilia",
+          "source": "Giornale di Sicilia",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Il mondo dello sport saluta Cesare Maldini: le foto dei funerali a Milano Giornale di Sicilia"
+        },
+        {
+          "title": "Funerali Cesare Maldini: le foto del saluto del Milan e di tutto il calcio - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Funerali Cesare Maldini: le foto del saluto del Milan e di tutto il calcio www.panorama.it"
+        }
+      ]
+    },
+    "Acidi_carbossilici": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gli acidi carbossilici sono una classe di ossiacidi organici di formula generale è R−COOH che contengono un gruppo carbossilico (−COOH o −CO2H) unito a un residuo R, dove R può rappresentare H o un residuo organico saturo o insaturo, tra cui un alchile, un arile, o anche un eteroarile.",
+      "news": []
+    },
+    "Luigi_Pirandello": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Luigi Pirandello è stato un drammaturgo, scrittore e poeta italiano, insignito del Premio Nobel per la letteratura nel 1934.",
+      "news": [
+        {
+          "title": "Villasmundo: Liolà chiude la stagione teatrale di Città della Notte - Siracusa Times",
+          "source": "Siracusa Times",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Villasmundo: Liolà chiude la stagione teatrale di Città della Notte Siracusa Times"
+        },
+        {
+          "title": "I #CinemaDays a Palermo: il grande schermo low cost - Balarm.it",
+          "source": "Balarm.it",
+          "pubDate": "Mon, 11 Apr 2016 07:00:00 GMT",
+          "description": "I #CinemaDays a Palermo: il grande schermo low cost Balarm.it"
+        },
+        {
+          "title": "“Il cielo in me”: l’amore e la solitudine di Antonia Pozzi. - Letteratu.it",
+          "source": "Letteratu.it",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "“Il cielo in me”: l’amore e la solitudine di Antonia Pozzi. Letteratu.it"
+        }
+      ]
+    },
+    "Il_Trono_di_Spade_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Trono di Spade è una serie televisiva statunitense di genere fantastico ideata da David Benioff e D. B. Weiss, trasmessa dal 17 aprile 2011 al 19 maggio 2019 sul canale via cavo HBO per 73 episodi in otto stagioni. È nata come adattamento televisivo del ciclo di romanzi Cronache del ghiaccio e del fuoco di George R. R. Martin. Le scene sono state girate nel Regno Unito, Canada, Croazia, Islanda, Malta, Marocco e Spagna.",
+      "news": [
+        {
+          "title": "Gli attori de Il Trono di Spade prima della serie - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Thu, 07 Apr 2016 07:00:00 GMT",
+          "description": "Gli attori de Il Trono di Spade prima della serie TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Alla conquista del Trono di Spade - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 11 Apr 2016 07:00:00 GMT",
+          "description": "Alla conquista del Trono di Spade Corriere della Sera"
+        },
+        {
+          "title": "Life Is Strange, la migliore serie TV... che non puoi trovare in televisione - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 07 Apr 2016 07:00:00 GMT",
+          "description": "Life Is Strange, la migliore serie TV... che non puoi trovare in televisione Movieplayer"
+        },
+        {
+          "title": "Il nuovo cattivo di Fast & Furious 8 viene da Il Trono di Spade - Film.it",
+          "source": "Film.it",
+          "pubDate": "Thu, 07 Apr 2016 07:00:00 GMT",
+          "description": "Il nuovo cattivo di Fast & Furious 8 viene da Il Trono di Spade Film.it"
+        },
+        {
+          "title": "Il vero “eroe” del Trono di Spade? Forse non è chi pensate - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Il vero “eroe” del Trono di Spade? Forse non è chi pensate La Stampa"
+        },
+        {
+          "title": "Rose Leslie e Kit Harington, dopo il \"Trono di Spade\" è amore - Today",
+          "source": "Today",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Rose Leslie e Kit Harington, dopo il \"Trono di Spade\" è amore Today"
+        },
+        {
+          "title": "10 personaggi di Game of Thrones stravolti nella Serie Tv - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "10 personaggi di Game of Thrones stravolti nella Serie Tv Hall of Series"
+        },
+        {
+          "title": "10 (+1) personaggi sfruttati malissimo in Game of Thrones - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "10 (+1) personaggi sfruttati malissimo in Game of Thrones Hall of Series"
+        }
+      ]
+    },
+    "Caso_O._J._Simpson": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il caso O. J. Simpson è stato un famoso processo penale relativo all'accusa nei confronti di O. J. Simpson, celebre ex giocatore di football americano e attore, dell'omicidio dell'ex moglie Nicole Brown Simpson e del cameriere Ronald Lyle Goldman, avvenuto il 12 giugno 1994.\nUfficialmente noto come People of the State of California v. Orenthal James Simpson, il processo venne condotto presso la Corte Superiore della Contea di Los Angeles.",
+      "news": [
+        {
+          "title": "«Il caso O.J. Simpson», la serie tv - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 07 Apr 2016 07:00:00 GMT",
+          "description": "«Il caso O.J. Simpson», la serie tv Corriere della Sera"
+        },
+        {
+          "title": "OJ Simpson, il “caso” arriva in tv - Il Piccolo",
+          "source": "Il Piccolo",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "OJ Simpson, il “caso” arriva in tv Il Piccolo"
+        },
+        {
+          "title": "American Crime Story e le due verità su O.J. Simpson - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "American Crime Story e le due verità su O.J. Simpson GQ Italia"
+        },
+        {
+          "title": "Il caso OJ Simpson nella serie evento con Cuba Gooding Jr - L'Arena",
+          "source": "L'Arena",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Il caso OJ Simpson nella serie evento con Cuba Gooding Jr L'Arena"
+        },
+        {
+          "title": "The People VS O.J. Simpsons, storia del caso che ha rivoluzionato il crimine in TV - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "The People VS O.J. Simpsons, storia del caso che ha rivoluzionato il crimine in TV Rolling Stone Italia"
+        },
+        {
+          "title": "Il caso O. J. Simpson arriva anche in Italia, in onda su Fox Crime - NonSoloCinema",
+          "source": "NonSoloCinema",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Il caso O. J. Simpson arriva anche in Italia, in onda su Fox Crime NonSoloCinema"
+        },
+        {
+          "title": "American Crime Story: un finale intenso e simbolico a conclusione di una stagione impeccabile - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sun, 10 Apr 2016 07:00:00 GMT",
+          "description": "American Crime Story: un finale intenso e simbolico a conclusione di una stagione impeccabile Movieplayer"
+        },
+        {
+          "title": "American Crime Story: The People v. O.J. Simpson - 1x10 The Verdict - Seriangolo",
+          "source": "Seriangolo",
+          "pubDate": "Mon, 11 Apr 2016 07:00:00 GMT",
+          "description": "American Crime Story: The People v. O.J. Simpson - 1x10 The Verdict Seriangolo"
+        },
+        {
+          "title": "\"Il caso O.J. Simpson: American Crime Story\", la serie prodotta da Ryan Murphy - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "\"Il caso O.J. Simpson: American Crime Story\", la serie prodotta da Ryan Murphy la Repubblica"
+        },
+        {
+          "title": "“Darò io la caccia all’assassino”, O.J. esulta dopo l’assoluzione e va all’attacco della polizia - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "“Darò io la caccia all’assassino”, O.J. esulta dopo l’assoluzione e va all’attacco della polizia La Stampa"
+        }
+      ]
+    },
+    "Simona_Ventura": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Simona Ventura è una conduttrice televisiva italiana.",
+      "news": [
+        {
+          "title": "Isola dei Famosi, Simona Ventura in lacrime su Playa Soledad: \"Sono scioccata\" - Today",
+          "source": "Today",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Isola dei Famosi, Simona Ventura in lacrime su Playa Soledad: \"Sono scioccata\" Today"
+        },
+        {
+          "title": "Simona Ventura e il contratto per L'Isola: \"Ecco quanto ha preso per naufragare\" - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "Simona Ventura e il contratto per L'Isola: \"Ecco quanto ha preso per naufragare\" Il Mattino"
+        },
+        {
+          "title": "Isola dei famosi 11: scontro tra Paola Caruso e Marco Carta - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Isola dei famosi 11: scontro tra Paola Caruso e Marco Carta www.panorama.it"
+        },
+        {
+          "title": "Isola dei Famosi, puntata 4 aprile 2016: Simona Ventura eliminata; paura per Mercedesz Henger durante una prova di apnea - www.si24.it",
+          "source": "www.si24.it",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Isola dei Famosi, puntata 4 aprile 2016: Simona Ventura eliminata; paura per Mercedesz Henger durante una prova di apnea www.si24.it"
+        },
+        {
+          "title": "Il “non famoso” Jonas elimina Simona Ventura (che non lascia l’Isola ma cambia spiaggia) - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Il “non famoso” Jonas elimina Simona Ventura (che non lascia l’Isola ma cambia spiaggia) La Stampa"
+        },
+        {
+          "title": "Simona Ventura all'Isola dei famosi - www.today.it",
+          "source": "www.today.it",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Simona Ventura all'Isola dei famosi www.today.it"
+        },
+        {
+          "title": "Isola dei Famosi: Ventura al televoto con Jonas Berami, la conduttrice rischia l’eliminazione - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Isola dei Famosi: Ventura al televoto con Jonas Berami, la conduttrice rischia l’eliminazione La Stampa"
+        },
+        {
+          "title": "Sara Ventura: \"Sono preoccupata per mia sorella, non sta bene\" - Today",
+          "source": "Today",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "Sara Ventura: \"Sono preoccupata per mia sorella, non sta bene\" Today"
+        },
+        {
+          "title": "Simona Ventura perde al televoto dell’Isola: era già previsto a tavolino? - Gay.it",
+          "source": "Gay.it",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Simona Ventura perde al televoto dell’Isola: era già previsto a tavolino? Gay.it"
+        },
+        {
+          "title": "Isola dei famosi 2016, Simona Ventura sarà la quarta eliminata per i lettori di Fanpage.it - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 04 Apr 2016 07:00:00 GMT",
+          "description": "Isola dei famosi 2016, Simona Ventura sarà la quarta eliminata per i lettori di Fanpage.it Fanpage"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Il valore della moneta in Italia dal 1861 al 2015 - Istat",
+          "source": "Istat",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Il valore della moneta in Italia dal 1861 al 2015 Istat"
+        },
+        {
+          "title": "Islam, Alfano: imam Suwaidan non potrà entrare in Italia - Ministero dell‘Interno",
+          "source": "Ministero dell‘Interno",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Islam, Alfano: imam Suwaidan non potrà entrare in Italia Ministero dell‘Interno"
+        },
+        {
+          "title": "Viaggio nella street art: i luoghi da non perdere in Italia - Travel On Art",
+          "source": "Travel On Art",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "Viaggio nella street art: i luoghi da non perdere in Italia Travel On Art"
+        },
+        {
+          "title": "Aborto: Consiglio d'Europa, in Italia difficile e non obiettori discriminati - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Mon, 11 Apr 2016 07:00:00 GMT",
+          "description": "Aborto: Consiglio d'Europa, in Italia difficile e non obiettori discriminati Focus.it"
+        },
+        {
+          "title": "TopGear Italia: parlano i protagonisti - alVolante",
+          "source": "alVolante",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "TopGear Italia: parlano i protagonisti alVolante"
+        },
+        {
+          "title": "Dalle profondità dei mari un messaggio contro le trivelle! - Greenpeace",
+          "source": "Greenpeace",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Dalle profondità dei mari un messaggio contro le trivelle! Greenpeace"
+        },
+        {
+          "title": "Tigre in crescita, un po’ più lontana dall’estinzione - WWF Italia",
+          "source": "WWF Italia",
+          "pubDate": "Mon, 11 Apr 2016 07:00:00 GMT",
+          "description": "Tigre in crescita, un po’ più lontana dall’estinzione WWF Italia"
+        },
+        {
+          "title": "Intel fa spesa in Italia e si compra la pisana Yogitech - StartupItalia",
+          "source": "StartupItalia",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Intel fa spesa in Italia e si compra la pisana Yogitech StartupItalia"
+        },
+        {
+          "title": "Exit per Emozione3 comprata da Smartbox. Dusi (Ceo): «Scelta difficile ma obbligata» - StartupItalia",
+          "source": "StartupItalia",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "Exit per Emozione3 comprata da Smartbox. Dusi (Ceo): «Scelta difficile ma obbligata» StartupItalia"
+        },
+        {
+          "title": "10 startup italiane poco note, ma che secondo Equidam stanno crescendo tantissimo - StartupItalia",
+          "source": "StartupItalia",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "10 startup italiane poco note, ma che secondo Equidam stanno crescendo tantissimo StartupItalia"
+        }
+      ]
+    },
+    "Peppino_Impastato": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giuseppe Impastato, detto Peppino, è stato un giornalista, conduttore radiofonico e attivista italiano, membro di Democrazia Proletaria e noto per le sue denunce contro le attività di Cosa nostra, a seguito delle quali fu assassinato il 9 maggio 1978.",
+      "news": [
+        {
+          "title": "La sedicenne Chiara porta Peppino Impastato a Italia's got Talent - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 07 Apr 2016 07:00:00 GMT",
+          "description": "La sedicenne Chiara porta Peppino Impastato a Italia's got Talent la Repubblica"
+        },
+        {
+          "title": "“Grazie a Chiara per il monologo su Peppino” - Radio Popolare",
+          "source": "Radio Popolare",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "“Grazie a Chiara per il monologo su Peppino” Radio Popolare"
+        },
+        {
+          "title": "7 aprile - Peppino Impastato contro la mafia - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "7 aprile - Peppino Impastato contro la mafia Rai.it"
+        },
+        {
+          "title": "Italia's Got Talent, Chiara conquista tutti raccontando la storia di Impastato - PalermoToday",
+          "source": "PalermoToday",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "Italia's Got Talent, Chiara conquista tutti raccontando la storia di Impastato PalermoToday"
+        },
+        {
+          "title": "La miglior risposta a Salvo Riina: Chiara, 16 anni, recita il monologo di Peppino Impastato a Italia's got talent - Famiglia Cristiana",
+          "source": "Famiglia Cristiana",
+          "pubDate": "Fri, 08 Apr 2016 07:00:00 GMT",
+          "description": "La miglior risposta a Salvo Riina: Chiara, 16 anni, recita il monologo di Peppino Impastato a Italia's got talent Famiglia Cristiana"
+        },
+        {
+          "title": "Il Filo Rosso della Memoria di Pino Manzella dalla Romagna a Cinisi - ilvespro.it",
+          "source": "ilvespro.it",
+          "pubDate": "Mon, 11 Apr 2016 07:00:00 GMT",
+          "description": "Il Filo Rosso della Memoria di Pino Manzella dalla Romagna a Cinisi ilvespro.it"
+        },
+        {
+          "title": "«I cento passi» arrivano a Italia's Got Talent. Il monologo da brividi di Chiara Perreca - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 07 Apr 2016 07:00:00 GMT",
+          "description": "«I cento passi» arrivano a Italia's Got Talent. Il monologo da brividi di Chiara Perreca Corriere della Sera"
+        },
+        {
+          "title": "Totò Riina raccontato dal figlio Salvo in un libro, una forma di speculazione non necessaria - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Totò Riina raccontato dal figlio Salvo in un libro, una forma di speculazione non necessaria Libreriamo"
+        },
+        {
+          "title": "Siulp su Riina: \"Quando un'intervista ferisce più di un colpo d'arma da fuoco\" - PalermoToday",
+          "source": "PalermoToday",
+          "pubDate": "Sat, 09 Apr 2016 07:00:00 GMT",
+          "description": "Siulp su Riina: \"Quando un'intervista ferisce più di un colpo d'arma da fuoco\" PalermoToday"
+        },
+        {
+          "title": "Incidente in moto per Claudio Bisio: gamba ingessata per il giudice di Italia’s Got Talent - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 09 Apr 2016 07:00:00 GMT",
+          "description": "Incidente in moto per Claudio Bisio: gamba ingessata per il giudice di Italia’s Got Talent Fanpage"
+        }
+      ]
+    },
+    "Eva_Henger": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Éva Mária Henger, nota solo come Éva Henger, è un'attrice, modella, ex attrice pornografica e personaggio televisivo ungherese naturalizzata italiana.",
+      "news": [
+        {
+          "title": "Mercedesz Henger, apnea all'Isola dei Famosi 2016 - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Mercedesz Henger, apnea all'Isola dei Famosi 2016 il Giornale"
+        },
+        {
+          "title": "Isola, terrore in studio per la Henger sott'acqua - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Isola, terrore in studio per la Henger sott'acqua Leggo.it"
+        },
+        {
+          "title": "Isola dei famosi 2016, una puntata isterica e brutta. Il reality di Canale5 è offensivo per concorrenti e telespettatori - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Isola dei famosi 2016, una puntata isterica e brutta. Il reality di Canale5 è offensivo per concorrenti e telespettatori Il Fatto Quotidiano"
+        },
+        {
+          "title": "Panico in Diretta a L’ Isola dei Famosi - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Panico in Diretta a L’ Isola dei Famosi www.panorama.it"
+        },
+        {
+          "title": "Il “non famoso” Jonas elimina Simona Ventura (che non lascia l’Isola ma cambia spiaggia) - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Il “non famoso” Jonas elimina Simona Ventura (che non lascia l’Isola ma cambia spiaggia) La Stampa"
+        },
+        {
+          "title": "Isola Dei Famosi: effusioni tra Jonas Berami e Marco Carta? - Gay.it",
+          "source": "Gay.it",
+          "pubDate": "Mon, 11 Apr 2016 07:00:00 GMT",
+          "description": "Isola Dei Famosi: effusioni tra Jonas Berami e Marco Carta? Gay.it"
+        },
+        {
+          "title": "Eva Henger: “L’apnea di Mercedesz è stata terribile, ho pensato a un’embolia” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 07 Apr 2016 07:00:00 GMT",
+          "description": "Eva Henger: “L’apnea di Mercedesz è stata terribile, ho pensato a un’embolia” Fanpage"
+        },
+        {
+          "title": "Isola dei Famosi, Mercedesz Henger in acqua: paura in studio - LadyBlitz",
+          "source": "LadyBlitz",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "Isola dei Famosi, Mercedesz Henger in acqua: paura in studio LadyBlitz"
+        },
+        {
+          "title": "“Mercedesz Henger era vicina a svenire”: un apneista commenta la prova all’Isola 2016 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 06 Apr 2016 07:00:00 GMT",
+          "description": "“Mercedesz Henger era vicina a svenire”: un apneista commenta la prova all’Isola 2016 Fanpage"
+        }
+      ]
+    },
+    "WrestleMania_32": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "WrestleMania 32 è stata la trentaduesima edizione dell'omonimo pay-per-view prodotto dalla WWE. L'evento si è svolto il 3 aprile 2016 presso l'AT&T Stadium di Arlington in Texas. Questa è stata la terza WrestleMania a tenersi nel Texas dopo l'edizione del 2001 e del 2009 ed è la prima tenutasi nell'area metropolitana di Dallas. La canzone ufficiale dell'evento è stata My House del rapper Flo Rida mentre lo sponsor è stato l'azienda Snickers.",
+      "news": []
+    },
+    "Episodi_di_The_Flash_(seconda_stagione)": {
+      "fetched_at": "2026-11-06T16:00:06+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La seconda stagione della serie televisiva The Flash, composta da ventitre episodi, è stata trasmessa in prima visione assoluta negli Stati Uniti d'America da The CW dal 6 ottobre 2015 al 24 maggio 2016.",
+      "news": [
+        {
+          "title": "The Flash 2: Katie Cassidy di Arrow comparirà in uno dei prossimi episodi! - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Tue, 05 Apr 2016 07:00:00 GMT",
+          "description": "The Flash 2: Katie Cassidy di Arrow comparirà in uno dei prossimi episodi! BadTaste"
+        },
+        {
+          "title": "Arrow 4x18, \"Eleven-Fifty-Nine\": la recensione - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sat, 09 Apr 2016 07:00:00 GMT",
+          "description": "Arrow 4x18, \"Eleven-Fifty-Nine\": la recensione BadTaste"
+        }
+      ]
+    }
+  }
+}

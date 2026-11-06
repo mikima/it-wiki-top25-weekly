@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Cristiano_Ronaldo",
       "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "description": "calciatore portoghese (1985-)",
+      "description": "Attaccante portoghese del Real Madrid, il 3 aprile segna in rovesciata contro la Juventus nei quarti di Champions League.",
       "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=John%20Harrison&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=John_Harrison",
       "article_url": "https://it.wikipedia.org/wiki/John_Harrison",
-      "description": "orologiaio e inventore britannico",
+      "description": "Orologiaio inglese e inventore del cronometro marino, il 3 aprile è celebrato da un Doodle per i 325 anni dalla nascita.",
       "image_filename": "John_Harrison_(Gemälde).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/John_Harrison_%28Gem%C3%A4lde%29.jpg/1280px-John_Harrison_%28Gem%C3%A4lde%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:John_Harrison_(Gem%C3%A4lde).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=La_casa_di_carta",
       "article_url": "https://it.wikipedia.org/wiki/La_casa_di_carta",
-      "description": "serie televisiva spagnola (2017-2021)",
+      "description": "Il 6 aprile viene distribuita su Netflix la seconda parte della serie spagnola.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=12%20anni%20schiavo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=12_anni_schiavo",
       "article_url": "https://it.wikipedia.org/wiki/12_anni_schiavo",
-      "description": "film del 2013 diretto da Steve McQueen",
+      "description": "Film del 2013 diretto da Steve McQueen, va in onda in televisione il 6 aprile.",
       "image_filename": "12_Years_a_Slave.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/12_Years_a_Slave.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:12_Years_a_Slave.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Lionel%20Messi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Lionel_Messi",
       "article_url": "https://it.wikipedia.org/wiki/Lionel_Messi",
-      "description": "calciatore argentino (1987-)",
+      "description": "Attaccante argentino del Barcellona, il 4 aprile gioca contro la Roma nei quarti di Champions League.",
       "image_filename": "Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg/1280px-Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-043_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Maya%20Angelou&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Maya_Angelou",
       "article_url": "https://it.wikipedia.org/wiki/Maya_Angelou",
-      "description": "poetessa, attrice e ballerina statunitense",
+      "description": "Poetessa e attrice statunitense, il 4 aprile è celebrata da un Doodle per i 90 anni dalla nascita.",
       "image_filename": "Maya_Angelou_visits_YCP_Feb_2013.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Maya_Angelou_visits_YCP_Feb_2013.jpg/1280px-Maya_Angelou_visits_YCP_Feb_2013.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maya_Angelou_visits_YCP_Feb_2013.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Iris_(rete_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Rete televisiva italiana, è in classifica da sette settimane consecutive, senza un picco di rilievo.",
       "image_filename": "Iris_-_Logo_2013.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Girlfriend%20Experience%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=The_Girlfriend_Experience_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Girlfriend_Experience_(serie_televisiva)",
-      "description": "serie televisiva statunitense",
+      "description": "Serie statunitense inserita nel palinsesto del nuovo canale 20 Mediaset, lanciato il 3 aprile.",
       "image_filename": "The_Girlfriend_Experience.jpeg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b6/The_Girlfriend_Experience.jpeg/1136px-The_Girlfriend_Experience.jpeg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Girlfriend_Experience.jpeg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Ready%20Player%20One%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Ready_Player_One_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Ready_Player_One_(film)",
-      "description": "film di fantascienza del 2018 diretto da Steven Spielberg",
+      "description": "Film di fantascienza diretto da Steven Spielberg, esce nelle sale italiane il 28 marzo.",
       "image_filename": "Ready_Player_One_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ready_Player_One_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ready_Player_One_logo.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=TeleColor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=TeleColor",
       "article_url": "https://it.wikipedia.org/wiki/TeleColor",
-      "description": "",
+      "description": "Voce riferita a emittenti televisive chiamate TeleColor; difficile individuare il motivo delle visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Philippe%20Petit&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Philippe_Petit",
       "article_url": "https://it.wikipedia.org/wiki/Philippe_Petit",
-      "description": "artista francese",
+      "description": "Funambolo francese, è protagonista del film The Walk, trasmesso in televisione il 5 aprile.",
       "image_filename": "PhilippePetitAAFeb09.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PhilippePetitAAFeb09.jpg/1100px-PhilippePetitAAFeb09.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:PhilippePetitAAFeb09.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Questo%20nostro%20amore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Questo_nostro_amore",
       "article_url": "https://it.wikipedia.org/wiki/Questo_nostro_amore",
-      "description": "serie televisiva italiana",
+      "description": "Il 3 aprile va in onda su Rai 1 la seconda puntata di Questo nostro amore 80, terza stagione della serie.",
       "image_filename": "Questo_nostro_amore.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1c/Questo_nostro_amore.png/1280px-Questo_nostro_amore.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Questo_nostro_amore.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Walk%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=The_Walk_(film)",
       "article_url": "https://it.wikipedia.org/wiki/The_Walk_(film)",
-      "description": "film del 2015 diretto da Robert Zemeckis",
+      "description": "Film del 2015 diretto da Robert Zemeckis sulla traversata del funambolo Philippe Petit, va in onda in televisione il 5 aprile.",
       "image_filename": "Thе_Walk_(film).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Th%D0%B5_Walk_%28film%29.png/1280px-Th%D0%B5_Walk_%28film%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Th%D0%B5_Walk_(film).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Heather%20Parisi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Heather_Parisi",
       "article_url": "https://it.wikipedia.org/wiki/Heather_Parisi",
-      "description": "ballerina, cantante, attrice teatrale e showgirl statunitense naturalizzata italiana (1960-)",
+      "description": "Ballerina e showgirl, partecipa alla prima puntata del serale di Amici 17, in onda il 7 aprile su Canale 5.",
       "image_filename": "Heather_Parisi_-_Fantastico_(1979).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/6/67/Heather_Parisi_-_Fantastico_%281979%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Heather_Parisi_-_Fantastico_(1979).jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Pirati%20dei%20Caraibi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Pirati_dei_Caraibi",
       "article_url": "https://it.wikipedia.org/wiki/Pirati_dei_Caraibi",
-      "description": "serie di film",
+      "description": "Franchise cinematografico Disney con Johnny Depp; difficile individuare il motivo delle visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Albo%20d%27oro%20della%20UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Albo_d%27oro_della_UEFA_Champions_League",
       "article_url": "https://it.wikipedia.org/wiki/Albo_d%27oro_della_UEFA_Champions_League",
-      "description": "lista di un progetto Wikimedia",
+      "description": "Il 3 e il 4 aprile si giocano le partite di andata dei quarti di finale di Champions League.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Luned%C3%AC%20dell%27Angelo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Luned%C3%AC_dell%27Angelo",
       "article_url": "https://it.wikipedia.org/wiki/Luned%C3%AC_dell%27Angelo",
-      "description": "giorno seguente la domenica di Pasqua",
+      "description": "La Pasquetta, giorno festivo successivo alla domenica di Pasqua, cade il 2 aprile.",
       "image_filename": "Fra_Angelico_-_Resurrection_of_Christ_and_Women_at_the_Tomb_(Cell_8)_-_WGA00542.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fra_Angelico_-_Resurrection_of_Christ_and_Women_at_the_Tomb_%28Cell_8%29_-_WGA00542.jpg/1009px-Fra_Angelico_-_Resurrection_of_Christ_and_Women_at_the_Tomb_%28Cell_8%29_-_WGA00542.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Resurrection_of_Christ_and_Women_at_the_Tomb_(Cell_8)_-_WGA00542.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Paulo%20Dybala&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Paulo_Dybala",
       "article_url": "https://it.wikipedia.org/wiki/Paulo_Dybala",
-      "description": "calciatore argentino (1993-)",
+      "description": "Attaccante argentino della Juventus, viene espulso contro il Real Madrid il 3 aprile e segna una tripletta al Benevento il 7.",
       "image_filename": "2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg/1280px-2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Paulo_Dybala_01.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Cheick%20Diabat%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Cheick_Diabat%C3%A9",
       "article_url": "https://it.wikipedia.org/wiki/Cheick_Diabat%C3%A9",
-      "description": "calciatore maliano",
+      "description": "Attaccante maliano del Benevento, il 7 aprile segna una doppietta nella sconfitta per 4-2 contro la Juventus.",
       "image_filename": "Persepolis_vs_Zob_Ahan_20_Jan_2023_03.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Persepolis_vs_Zob_Ahan_20_Jan_2023_03.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Persepolis_vs_Zob_Ahan_20_Jan_2023_03.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Nathalie%20Guetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Nathalie_Guetta",
       "article_url": "https://it.wikipedia.org/wiki/Nathalie_Guetta",
-      "description": "attrice e circense franco-italiana",
+      "description": "Attrice franco-italiana nota per Don Matteo, partecipa a Ballando con le stelle, in onda il 7 aprile su Rai 1.",
       "image_filename": "Natalie_Guetta-ph_Mattia_Passeri.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Natalie_Guetta-ph_Mattia_Passeri.jpg/1280px-Natalie_Guetta-ph_Mattia_Passeri.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Natalie_Guetta-ph_Mattia_Passeri.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Fox%20Sports&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Fox_Sports",
       "article_url": "https://it.wikipedia.org/wiki/Fox_Sports",
-      "description": "divisione del gruppo televisivo statunitense Fox Broadcasting Company",
+      "description": "Divisione sportiva della rete televisiva statunitense Fox; difficile individuare il motivo delle visite.",
       "image_filename": "FOX_Sports_logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FOX_Sports_logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Fabrizio%20Frizzi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Fabrizio_Frizzi",
       "article_url": "https://it.wikipedia.org/wiki/Fabrizio_Frizzi",
-      "description": "conduttore televisivo e conduttore radiofonico italiano (1958-2018)",
+      "description": "Conduttore televisivo italiano, noto anche per L'eredità, muore il 26 marzo a 60 anni.",
       "image_filename": "Fabrizio_Frizzi_2014.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1a/Fabrizio_Frizzi_2014.jpg/1280px-Fabrizio_Frizzi_2014.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fabrizio_Frizzi_2014.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Grey%27s_Anatomy",
       "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
-      "description": "serie televisiva statunitense del 2005",
+      "description": "Serie televisiva statunitense: il 5 aprile va in onda su ABC il diciottesimo episodio della quattordicesima stagione.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Exodus%20-%20Dei%20e%20re&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/02/2018,cd_max:04/08/2018&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2018-04-02&end=2018-04-08&pages=Exodus_-_Dei_e_re",
       "article_url": "https://it.wikipedia.org/wiki/Exodus_-_Dei_e_re",
-      "description": "film del 2014 diretto da Ridley Scott",
+      "description": "Film del 2014 diretto da Ridley Scott, va in onda il 2 aprile su Canale 5.",
       "image_filename": "Exodus_Gods-and-Kings.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/3/3e/Exodus_Gods-and-Kings.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Exodus_Gods-and-Kings.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

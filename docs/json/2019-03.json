@@ -98,13 +98,14 @@
       "google_news_url": "https://www.google.it/search?q=TG%20Norba%2024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=TG_Norba_24",
       "article_url": "https://it.wikipedia.org/wiki/TG_Norba_24",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale all-news del Gruppo Norba, è in classifica da 27 settimane consecutive senza un motivo preciso riconoscibile.",
       "image_filename": "Tg_norba24.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tg_norba24.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +144,14 @@
       "google_news_url": "https://www.google.it/search?q=Iris%20%28rete%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Iris_(rete_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Iris_(rete_televisiva)",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale cinematografico Mediaset, è in classifica da 27 settimane consecutive senza un motivo preciso riconoscibile.",
       "image_filename": "Iris_-_Logo_2013.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iris_-_Logo_2013.svg/1280px-Iris_-_Logo_2013.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iris_-_Logo_2013.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -413,13 +415,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai%20News24&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Rai_News24",
       "article_url": "https://it.wikipedia.org/wiki/Rai_News24",
-      "description": "",
+      "description": "Canale all-news della Rai, senza un picco di visite rilevante nella settimana.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +461,14 @@
       "google_news_url": "https://www.google.it/search?q=TeleColor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=TeleColor",
       "article_url": "https://it.wikipedia.org/wiki/TeleColor",
-      "description": "",
+      "description": "Nome di diverse emittenti televisive; non è chiaro il motivo delle visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +507,14 @@
       "google_news_url": "https://www.google.it/search?q=Euronews&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Euronews",
       "article_url": "https://it.wikipedia.org/wiki/Euronews",
-      "description": "rete televisiva paneuropea",
+      "description": "Canale televisivo di informazione paneuropeo, senza un picco di visite rilevante nella settimana.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +553,14 @@
       "google_news_url": "https://www.google.it/search?q=RSI%20LA1&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=RSI_LA1",
       "article_url": "https://it.wikipedia.org/wiki/RSI_LA1",
-      "description": "rete televisiva della Svizzera italiana",
+      "description": "Primo canale televisivo della Svizzera italiana, è in classifica da 13 settimane senza un motivo preciso riconoscibile.",
       "image_filename": "RSI_La_1_2012.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_1_2012.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +599,14 @@
       "google_news_url": "https://www.google.it/search?q=Studio%20Universal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Studio_Universal",
       "article_url": "https://it.wikipedia.org/wiki/Studio_Universal",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale televisivo dedicato al cinema statunitense, senza un picco di visite rilevante nella settimana.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +645,14 @@
       "google_news_url": "https://www.google.it/search?q=RSI%20LA2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=RSI_LA2",
       "article_url": "https://it.wikipedia.org/wiki/RSI_LA2",
-      "description": "rete televisiva della Svizzera italiana",
+      "description": "Secondo canale televisivo della Svizzera italiana, è in classifica da 13 settimane senza un motivo preciso riconoscibile.",
       "image_filename": "RSI_La_2_2012.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RSI_La_2_2012.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -728,13 +736,14 @@
       "google_news_url": "https://www.google.it/search?q=Premium%20Cinema&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Premium_Cinema",
       "article_url": "https://it.wikipedia.org/wiki/Premium_Cinema",
-      "description": "gruppo di reti televisive italiane nazionali",
+      "description": "Gruppo di canali cinematografici a pagamento di Mediaset, senza un picco di visite rilevante nella settimana.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -818,13 +827,14 @@
       "google_news_url": "https://www.google.it/search?q=Class%20CNBC&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Class_CNBC",
       "article_url": "https://it.wikipedia.org/wiki/Class_CNBC",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Canale televisivo italiano dedicato all'informazione economica e finanziaria, senza un picco di visite rilevante.",
       "image_filename": "Class_CNBC_2026.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/1280px-Class_CNBC_2026.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Class_CNBC_2026.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -953,13 +963,14 @@
       "google_news_url": "https://www.google.it/search?q=Incidente%20di%20Vermicino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Incidente_di_Vermicino",
       "article_url": "https://it.wikipedia.org/wiki/Incidente_di_Vermicino",
-      "description": "tragico avvenimento del 1981",
+      "description": "Nel 1981 Alfredo Rampi muore dopo essere caduto in un pozzo. Il 13 gennaio un bambino cade in un pozzo in Spagna.",
       "image_filename": "Alfredino_Rampi.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Alfredino_Rampi.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alfredino_Rampi.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1009,14 @@
       "google_news_url": "https://www.google.it/search?q=Federico%20Garc%C3%ADa%20Lorca&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Federico_Garc%C3%ADa_Lorca",
       "article_url": "https://it.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca",
-      "description": "poeta e drammaturgo spagnolo (1898-1936)",
+      "description": "Poeta e drammaturgo spagnolo, il picco del 18 gennaio potrebbe essere legato alla puntata di Chi vuol essere milionario? su Canale 5.",
       "image_filename": "Fotografía_anónima_MNCARS_4_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fotograf%C3%ADa_an%C3%B3nima_MNCARS_4_%28cropped%29.jpg/1280px-Fotograf%C3%ADa_an%C3%B3nima_MNCARS_4_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fotograf%C3%ADa_an%C3%B3nima_MNCARS_4_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1055,14 @@
       "google_news_url": "https://www.google.it/search?q=Canale%205&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Canale_5",
       "article_url": "https://it.wikipedia.org/wiki/Canale_5",
-      "description": "rete televisiva italiana nazionale",
+      "description": "Rete televisiva Mediaset, non è chiaro il motivo del picco di visite.",
       "image_filename": "Canale_5_-_2018_logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1280px-Canale_5_-_2018_logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Canale_5_-_2018_logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1101,14 @@
       "google_news_url": "https://www.google.it/search?q=Kayden%20Boche&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Kayden_Boche",
       "article_url": "https://it.wikipedia.org/wiki/Kayden_Boche",
-      "description": "",
+      "description": "Modello francese, è in classifica per la quinta settimana consecutiva senza un motivo preciso riconoscibile.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1147,14 @@
       "google_news_url": "https://www.google.it/search?q=Bruce%20Lee&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/14/2019,cd_max:01/20/2019&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-14&end=2019-01-20&pages=Bruce_Lee",
       "article_url": "https://it.wikipedia.org/wiki/Bruce_Lee",
-      "description": "artista marziale, attore, regista, sceneggiatore e produttore cinematografico cinese con cittadinanza statunitense (1940-1973)",
+      "description": "Attore e artista marziale di Hong Kong, morto nel 1973; non è chiaro il motivo del picco di visite.",
       "image_filename": "Bruce_Lee_1973.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bruce_Lee_1973.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

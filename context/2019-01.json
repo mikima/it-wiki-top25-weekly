@@ -1,0 +1,551 @@
+{
+  "week": "2019-01",
+  "start_date": "2018-12-31",
+  "end_date": "2019-01-06",
+  "articles": {
+    "TG_Norba_24": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "TG Norba 24 è un canale televisivo italiano regionale all-news edito da Gruppo Norba.",
+      "news": []
+    },
+    "Iris_(rete_televisiva)": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Iris è un canale televisivo gratuito italiano edito da Mediaset disponibile sul digitale terrestre italiano e via satellite con la piattaforma Tivùsat, lanciato il 30 novembre 2007.",
+      "news": [
+        {
+          "title": "Canali Mediaset su Sky, ora ci sono tutti. La nuova numerazione - DDay.it",
+          "source": "DDay.it",
+          "pubDate": "Wed, 02 Jan 2019 08:00:00 GMT",
+          "description": "Canali Mediaset su Sky, ora ci sono tutti. La nuova numerazione DDay.it"
+        }
+      ]
+    },
+    "RSI_LA1": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA1, noto più semplicemente come LA1, è il primo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR. È stata la prima emittente televisiva internazionale in lingua italiana, avendo cominciato le trasmissioni nel 1958.",
+      "news": []
+    },
+    "RSI_LA2": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "RSI LA2 è il secondo canale televisivo della RSI, la filiale in lingua italiana dell'azienda radiotelevisiva pubblica svizzera SRG SSR.",
+      "news": []
+    },
+    "TeleColor": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": []
+    },
+    "Kayden_Boche": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": []
+    },
+    "Diego_Godín": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Diego Roberto Godín Leal è un ex calciatore uruguaiano, di ruolo difensore.",
+      "news": [
+        {
+          "title": "Chi è Godin: tutto sull'ultimo colpo dell'Inter - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "Chi è Godin: tutto sull'ultimo colpo dell'Inter Sky Sport"
+        }
+      ]
+    },
+    "Befana": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Nel folclore italiano, la Befana è una figura tipica delle festività natalizie, spesso descritta come una donna molto anziana, simile a una strega, che cavalca una scopa volante per portare doni e dolcetti oppure carbone ai bambini italiani nella notte tra il 5 e il 6 gennaio.",
+      "news": [
+        {
+          "title": "Bambini in visibilio per l'arrivo della Befana a Riccione - FOTO - RiminiToday",
+          "source": "RiminiToday",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Bambini in visibilio per l'arrivo della Befana a Riccione - FOTO RiminiToday"
+        },
+        {
+          "title": "Musei aperti, shopping e solidarietà: così Milano festeggia la Befana - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Musei aperti, shopping e solidarietà: così Milano festeggia la Befana Corriere Milano"
+        },
+        {
+          "title": "Corteo Viva la Befana: i valori dell'Epifania e i doni al Papa - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Corteo Viva la Befana: i valori dell'Epifania e i doni al Papa Vatican News"
+        },
+        {
+          "title": "Domenica In 2018/19 - Lino Banfi nei panni inediti della befana - 06/01/2019 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Domenica In 2018/19 - Lino Banfi nei panni inediti della befana - 06/01/2019 - Video RaiPlay"
+        },
+        {
+          "title": "Questo weekend tutte le feste si porta via: è il fine settimana della Befana. Tutti gli eventi - ForlìToday",
+          "source": "ForlìToday",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "Questo weekend tutte le feste si porta via: è il fine settimana della Befana. Tutti gli eventi ForlìToday"
+        },
+        {
+          "title": "La Befana vien di notte è una favola consumista, e infatti ha un successo pazzesco - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "La Befana vien di notte è una favola consumista, e infatti ha un successo pazzesco Esquire"
+        },
+        {
+          "title": "La Notte della Befana: viaggio nel centro antico di Napoli tra brivido e magia - NapoliToday",
+          "source": "NapoliToday",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "La Notte della Befana: viaggio nel centro antico di Napoli tra brivido e magia NapoliToday"
+        },
+        {
+          "title": "Siracusa. Appuntamenti per la Befana: al parco di via Padova, simpatica decorazione - SiracusaOggi.it",
+          "source": "SiracusaOggi.it",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "Siracusa. Appuntamenti per la Befana: al parco di via Padova, simpatica decorazione SiracusaOggi.it"
+        },
+        {
+          "title": "Paola Cortellesi: A chi mi dice che sono una befana, dico grazie - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Paola Cortellesi: A chi mi dice che sono una befana, dico grazie Amica.it"
+        },
+        {
+          "title": "Portogallo, il villaggio dove la Befana porta sigarette ai bambini - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Portogallo, il villaggio dove la Befana porta sigarette ai bambini la Repubblica"
+        }
+      ]
+    },
+    "Bike_Channel": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Bike Channel è un canale televisivo tematico italiano dedicato al mondo del ciclismo.",
+      "news": []
+    },
+    "Queen": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Queen sono un gruppo musicale rock britannico, fondato a Londra nel 1970 dal cantante e pianista Freddie Mercury, il chitarrista Brian May e il batterista Roger Taylor. Dopo aver suonato con tre bassisti differenti, la formazione storica si completò nel 1971, con l'ingresso del bassista John Deacon.",
+      "news": [
+        {
+          "title": "Queen, filmato di Brian May sul set di ‘Bohemian Rhapsody’ - Metal Hammer Italia",
+          "source": "Metal Hammer Italia",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "Queen, filmato di Brian May sul set di ‘Bohemian Rhapsody’ Metal Hammer Italia"
+        },
+        {
+          "title": "Bohemian Rhapsody: il video che mette a confronto l’esibizione dei Queen con quella del film - Radio RDS",
+          "source": "Radio RDS",
+          "pubDate": "Mon, 07 Jan 2019 08:00:00 GMT",
+          "description": "Bohemian Rhapsody: il video che mette a confronto l’esibizione dei Queen con quella del film Radio RDS"
+        }
+      ]
+    },
+    "Black_Mirror:_Bandersnatch": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Black Mirror: Bandersnatch, noto anche come Bandersnatch, è un film TV interattivo pubblicato su Netflix il 28 dicembre 2018, pensato come parte della serie antologica Black Mirror. È stato scritto da Charlie Brooker e diretto da David Slade.",
+      "news": [
+        {
+          "title": "Bandersnatch: Black Mirror vi trasforma in big data e nemmeno ve ne accorgete [recensione] - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "Bandersnatch: Black Mirror vi trasforma in big data e nemmeno ve ne accorgete [recensione] Anonima Cinefili"
+        },
+        {
+          "title": "Com’è ‘Black Mirror: Bandersnatch’? Una delusione - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Com’è ‘Black Mirror: Bandersnatch’? Una delusione Rolling Stone Italia"
+        },
+        {
+          "title": "‘Black Mirror: Bandersnatch’ non è un gioco, ma una seduta di terapia a tradimento - VICE",
+          "source": "VICE",
+          "pubDate": "Wed, 02 Jan 2019 08:00:00 GMT",
+          "description": "‘Black Mirror: Bandersnatch’ non è un gioco, ma una seduta di terapia a tradimento VICE"
+        },
+        {
+          "title": "Black Mirror: Bandersnatch - Film (2018) - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Wed, 02 Jan 2019 08:00:00 GMT",
+          "description": "Black Mirror: Bandersnatch - Film (2018) MYmovies"
+        },
+        {
+          "title": "Black Mirror: Bandersnatch, i finali dell'episodio interattivo su Netflix - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 02 Jan 2019 08:00:00 GMT",
+          "description": "Black Mirror: Bandersnatch, i finali dell'episodio interattivo su Netflix Movieplayer"
+        },
+        {
+          "title": "Bandersnatch, la scelta di esperire - Birdmen Magazine",
+          "source": "Birdmen Magazine",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Bandersnatch, la scelta di esperire Birdmen Magazine"
+        },
+        {
+          "title": "Black Mirror, Bandersnatch: la novità che ti aspettavi - CulturaMente",
+          "source": "CulturaMente",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "Black Mirror, Bandersnatch: la novità che ti aspettavi CulturaMente"
+        },
+        {
+          "title": "Bandersnatch, la mappa per orientarti tra tutti i finali - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "Bandersnatch, la mappa per orientarti tra tutti i finali Wired Italia"
+        },
+        {
+          "title": "Black Mirror: Bandersnatch. Nella tana del Bianconiglio - www.darksidecinema.it",
+          "source": "www.darksidecinema.it",
+          "pubDate": "Mon, 07 Jan 2019 08:00:00 GMT",
+          "description": "Black Mirror: Bandersnatch. Nella tana del Bianconiglio www.darksidecinema.it"
+        },
+        {
+          "title": "Black Mirror: Bandersnatch - Due featurette ci portano nel backstage del film interattivo - screenWEEK",
+          "source": "screenWEEK",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "Black Mirror: Bandersnatch - Due featurette ci portano nel backstage del film interattivo screenWEEK"
+        }
+      ]
+    },
+    "Suspiria_(film_2018)": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Suspiria è un film del 2018 diretto e co-prodotto da Luca Guadagnino.",
+      "news": [
+        {
+          "title": "Mamma mia! Here we go again – La recensione di Suspiria (2018) - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Mon, 07 Jan 2019 08:00:00 GMT",
+          "description": "Mamma mia! Here we go again – La recensione di Suspiria (2018) i400Calci"
+        },
+        {
+          "title": "Suspiria: la spiegazione del finale e dei misteri del film - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "Suspiria: la spiegazione del finale e dei misteri del film Movieplayer"
+        },
+        {
+          "title": "Suspiria 2018 recensione: in sala il remake dell'horror firmato da Luca Guadagnino - Milano Weekend",
+          "source": "Milano Weekend",
+          "pubDate": "Tue, 01 Jan 2019 08:00:00 GMT",
+          "description": "Suspiria 2018 recensione: in sala il remake dell'horror firmato da Luca Guadagnino Milano Weekend"
+        },
+        {
+          "title": "Suspiria: perché il film di Guadagnino è l’horror più originale dell’anno - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "Suspiria: perché il film di Guadagnino è l’horror più originale dell’anno Movieplayer"
+        },
+        {
+          "title": "La recensione di Suspiria - Cineforum",
+          "source": "Cineforum",
+          "pubDate": "Tue, 01 Jan 2019 08:00:00 GMT",
+          "description": "La recensione di Suspiria Cineforum"
+        },
+        {
+          "title": "Suspiria: un video sugli effetti e il make-up gore del film di Luca Guadagnino - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Mon, 07 Jan 2019 08:00:00 GMT",
+          "description": "Suspiria: un video sugli effetti e il make-up gore del film di Luca Guadagnino Il Cineocchio"
+        },
+        {
+          "title": "Recensione Suspiria: nel non-remake di Luca Guadagnino il vero orrore è l'umano - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 01 Jan 2019 08:00:00 GMT",
+          "description": "Recensione Suspiria: nel non-remake di Luca Guadagnino il vero orrore è l'umano Movieplayer"
+        },
+        {
+          "title": "Suspiria: le curiosità sul film di Luca Guadagnino - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "Suspiria: le curiosità sul film di Luca Guadagnino Movieplayer"
+        },
+        {
+          "title": "Suspiria: Dakota Johnson e Tilda Swinton streghe per Luca Guadagnino - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 02 Jan 2019 08:00:00 GMT",
+          "description": "Suspiria: Dakota Johnson e Tilda Swinton streghe per Luca Guadagnino Movieplayer"
+        },
+        {
+          "title": "Suspiria: Tilda Swinton trasformata in tre personaggi diversi grazie al make up, ecco come! - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "Suspiria: Tilda Swinton trasformata in tre personaggi diversi grazie al make up, ecco come! Movieplayer"
+        }
+      ]
+    },
+    "Bohemian_Rhapsody_(film)": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Bohemian Rhapsody è un film del 2018 diretto da Bryan Singer.",
+      "news": [
+        {
+          "title": "«Bohemian Rhapsody», Rami Malek e Lucy Boynton stanno insieme - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "«Bohemian Rhapsody», Rami Malek e Lucy Boynton stanno insieme Corriere della Sera"
+        },
+        {
+          "title": "Bohemian Rhapsody, Rami Malek e Lucy Boynton stanno insieme. Come Freddie Mercury e Mary Austin, i due attori sono una coppia anche nella realtà - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "Bohemian Rhapsody, Rami Malek e Lucy Boynton stanno insieme. Come Freddie Mercury e Mary Austin, i due attori sono una coppia anche nella realtà Il Fatto Quotidiano"
+        },
+        {
+          "title": "Rami Malek e Lucy Boynton innamorati nella vita come sul set di \"Bohemian Rhapsody\" - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Rami Malek e Lucy Boynton innamorati nella vita come sul set di \"Bohemian Rhapsody\" iO Donna"
+        },
+        {
+          "title": "Rami Malek e Lucy Boynton sono una coppia come nel film “Bohemian Rhapsody” - Vogue",
+          "source": "Vogue",
+          "pubDate": "Mon, 07 Jan 2019 08:00:00 GMT",
+          "description": "Rami Malek e Lucy Boynton sono una coppia come nel film “Bohemian Rhapsody” Vogue"
+        },
+        {
+          "title": "Chi ha vinto i Golden Globe 2019 - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 07 Jan 2019 08:00:00 GMT",
+          "description": "Chi ha vinto i Golden Globe 2019 Il Post"
+        },
+        {
+          "title": "La voce di Freddie Mercury era letteralmente inarrestabile, e a confermarlo oggi c'è anche la scienza - ELLE",
+          "source": "ELLE",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "La voce di Freddie Mercury era letteralmente inarrestabile, e a confermarlo oggi c'è anche la scienza ELLE"
+        },
+        {
+          "title": "Bohemian Rhapsody: annunciati gli extra dell'edizione home video. Ecco quali scene inedite ci saranno - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Wed, 02 Jan 2019 08:00:00 GMT",
+          "description": "Bohemian Rhapsody: annunciati gli extra dell'edizione home video. Ecco quali scene inedite ci saranno Best Movie"
+        },
+        {
+          "title": "Bohemian Rhapsody: il video che mette a confronto l’esibizione dei Queen con quella del film - Radio RDS",
+          "source": "Radio RDS",
+          "pubDate": "Mon, 07 Jan 2019 08:00:00 GMT",
+          "description": "Bohemian Rhapsody: il video che mette a confronto l’esibizione dei Queen con quella del film Radio RDS"
+        },
+        {
+          "title": "Rami Malek come Freddie Mercury - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 07 Jan 2019 03:28:11 GMT",
+          "description": "Rami Malek come Freddie Mercury iO Donna"
+        }
+      ]
+    },
+    "La_casa_di_carta": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La casa di carta è una serie televisiva spagnola ideata da Álex Pina, trasmessa inizialmente dall'emittente Antena 3 e in seguito distribuita su Netflix.",
+      "news": [
+        {
+          "title": "Firenze, il set della \"La Casa di Carta\" invade piazzale Michelangelo - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "Firenze, il set della \"La Casa di Carta\" invade piazzale Michelangelo la Repubblica"
+        },
+        {
+          "title": "«La casa di carta 3»: Berlino e il Professore nel cuore di Firenze - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "«La casa di carta 3»: Berlino e il Professore nel cuore di Firenze Vanity Fair Italia"
+        },
+        {
+          "title": "‘La casa di carta’ è a Firenze: Berlino e il Professore sul set (e tra i fan) - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "‘La casa di carta’ è a Firenze: Berlino e il Professore sul set (e tra i fan) Radio Deejay"
+        },
+        {
+          "title": "La «Casa di carta 3», ciak a Firenze: il Professore e Berlino si incontrano davanti al Duomo - Corriere Fiorentino",
+          "source": "Corriere Fiorentino",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "La «Casa di carta 3», ciak a Firenze: il Professore e Berlino si incontrano davanti al Duomo Corriere Fiorentino"
+        },
+        {
+          "title": "Il Professore ritrova Berlino. In centinaia per i set de \"La casa di carta\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "Il Professore ritrova Berlino. In centinaia per i set de \"La casa di carta\" RaiNews"
+        },
+        {
+          "title": "La casa di carta 3, Berlino e il Professore si incontrano in piazza del Duomo a Firenze: \"Come è possibile?\". Sul set lo stupore dei fan - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "La casa di carta 3, Berlino e il Professore si incontrano in piazza del Duomo a Firenze: \"Come è possibile?\". Sul set lo stupore dei fan Il Fatto Quotidiano"
+        },
+        {
+          "title": "Uffizi, a sorpresa i protagonisti della serie Netflix 'La Casa di Carta': caccia al selfie nel museo / FOTO - FirenzeToday",
+          "source": "FirenzeToday",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "Uffizi, a sorpresa i protagonisti della serie Netflix 'La Casa di Carta': caccia al selfie nel museo / FOTO FirenzeToday"
+        },
+        {
+          "title": "Riprese e fan a Firenze per La casa di carta - CulturaMente",
+          "source": "CulturaMente",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "Riprese e fan a Firenze per La casa di carta CulturaMente"
+        },
+        {
+          "title": "La Casa di carta a Firenze - Il Reporter Firenze",
+          "source": "Il Reporter Firenze",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "La Casa di carta a Firenze Il Reporter Firenze"
+        },
+        {
+          "title": "'Berlino' de 'La casa di Carta', stregato dalle Terrazze del Duomo - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "'Berlino' de 'La casa di Carta', stregato dalle Terrazze del Duomo La Nazione"
+        }
+      ]
+    },
+    "Epifania": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Epifania, detta Teofania nell’Oriente cristiano, è una festa del cristianesimo celebrata il 6 gennaio. Essa commemora la manifestazione (theopháneia) di Gesù Cristo come Dio Figlio incarnato ed è una delle più antiche solennità cristiane, insieme a Pasqua e Pentecoste.",
+      "news": [
+        {
+          "title": "Roma, la parata dell'Epifania in via della Conciliazione - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Roma, la parata dell'Epifania in via della Conciliazione la Repubblica"
+        },
+        {
+          "title": "Corteo Viva la Befana: i valori dell'Epifania e i doni al Papa - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Corteo Viva la Befana: i valori dell'Epifania e i doni al Papa Vatican News"
+        },
+        {
+          "title": "\"Doni\" dell'Epifania al Museo della Città - Comune di Rimini",
+          "source": "Comune di Rimini",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "\"Doni\" dell'Epifania al Museo della Città Comune di Rimini"
+        },
+        {
+          "title": "Epifania al Museo Novecento: viaggio nei presepi di Maria Lai - Portale Giovani Comune di Firenze",
+          "source": "Portale Giovani Comune di Firenze",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Epifania al Museo Novecento: viaggio nei presepi di Maria Lai Portale Giovani Comune di Firenze"
+        },
+        {
+          "title": "I polacchi nei cortei dei Magi per celebrare l’Epifania - ACI Stampa",
+          "source": "ACI Stampa",
+          "pubDate": "Mon, 07 Jan 2019 08:00:00 GMT",
+          "description": "I polacchi nei cortei dei Magi per celebrare l’Epifania ACI Stampa"
+        },
+        {
+          "title": "Il Vescovo Corrado Sanguineti ha celebrato la S. Messa dell'Epifania alla Pediatria del San Matteo - Diocesi di Pavia",
+          "source": "Diocesi di Pavia",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Il Vescovo Corrado Sanguineti ha celebrato la S. Messa dell'Epifania alla Pediatria del San Matteo Diocesi di Pavia"
+        },
+        {
+          "title": "L’annunzio del giorno della Pasqua e delle feste mobili - Chiesa di Padova",
+          "source": "Chiesa di Padova",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "L’annunzio del giorno della Pasqua e delle feste mobili Chiesa di Padova"
+        },
+        {
+          "title": "Epifania in Valsassina - LeccoToday",
+          "source": "LeccoToday",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "Epifania in Valsassina LeccoToday"
+        },
+        {
+          "title": "A Lucca il Concerto dell’Epifania 2019 della Loggia Burlamacchi. Appuntamento il 6 gennaio - Grande Oriente d'Italia",
+          "source": "Grande Oriente d'Italia",
+          "pubDate": "Tue, 01 Jan 2019 08:00:00 GMT",
+          "description": "A Lucca il Concerto dell’Epifania 2019 della Loggia Burlamacchi. Appuntamento il 6 gennaio Grande Oriente d'Italia"
+        },
+        {
+          "title": "Epifania ortodossa, in acqua per recuperare la croce nel Bosforo - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "Epifania ortodossa, in acqua per recuperare la croce nel Bosforo Corriere della Sera"
+        }
+      ]
+    },
+    "Federica_Panicucci": {
+      "fetched_at": "2026-11-06T16:04:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Federica Panicucci è una conduttrice televisiva, conduttrice radiofonica ed ex showgirl italiana.",
+      "news": [
+        {
+          "title": "Chi è Junior Cally, che ha imbarazzato Federica Panicucci a Capodanno: \"Cosa ho detto di sbagliato?\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 02 Jan 2019 08:00:00 GMT",
+          "description": "Chi è Junior Cally, che ha imbarazzato Federica Panicucci a Capodanno: \"Cosa ho detto di sbagliato?\" Fanpage"
+        },
+        {
+          "title": "Federica Panicucci e Marco Bacini verso le nozze. Il post misterioso : «Il nostro anno speciale» - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "Federica Panicucci e Marco Bacini verso le nozze. Il post misterioso : «Il nostro anno speciale» Leggo.it"
+        },
+        {
+          "title": "Federica Panicucci e Marco Bacini verso le nozze. Il post misterioso : «Il nostro anno speciale» - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "Federica Panicucci e Marco Bacini verso le nozze. Il post misterioso : «Il nostro anno speciale» Il Mattino"
+        },
+        {
+          "title": "TG5: La festa è in piazza, diretta su Canale 5 Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 31 Dec 2018 08:00:00 GMT",
+          "description": "TG5: La festa è in piazza, diretta su Canale 5 Video Mediaset Infinity"
+        },
+        {
+          "title": "Nozze in gran segreto per Federica Panicucci: il retroscena bomba - Today",
+          "source": "Today",
+          "pubDate": "Thu, 03 Jan 2019 08:00:00 GMT",
+          "description": "Nozze in gran segreto per Federica Panicucci: il retroscena bomba Today"
+        },
+        {
+          "title": "Nozze pugliesi in vista per Federica Panicucci: il sì in estate a Monopoli - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Sat, 05 Jan 2019 08:00:00 GMT",
+          "description": "Nozze pugliesi in vista per Federica Panicucci: il sì in estate a Monopoli La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "\"L'anno che verrà\" asfalta il televeglione Mediaset - Il Tempo",
+          "source": "Il Tempo",
+          "pubDate": "Sun, 06 Jan 2019 08:00:00 GMT",
+          "description": "\"L'anno che verrà\" asfalta il televeglione Mediaset Il Tempo"
+        },
+        {
+          "title": "Vestito Panicucci Capodanno, tutti i look della serata - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 01 Jan 2019 08:00:00 GMT",
+          "description": "Vestito Panicucci Capodanno, tutti i look della serata Corriere della Sera"
+        },
+        {
+          "title": "Federica Panicucci, Junior Cally e le parolacce sul palco dello spettacolo di Capodanno su Canale 5. L'imbarazzo della conduttrice - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Tue, 01 Jan 2019 08:00:00 GMT",
+          "description": "Federica Panicucci, Junior Cally e le parolacce sul palco dello spettacolo di Capodanno su Canale 5. L'imbarazzo della conduttrice Leggo.it"
+        },
+        {
+          "title": "Federica Panicucci e Marco Bacini sono volati a Parigi e il loro 2019 sarà speciale: nozze in vista? - Gossip.it",
+          "source": "Gossip.it",
+          "pubDate": "Fri, 04 Jan 2019 08:00:00 GMT",
+          "description": "Federica Panicucci e Marco Bacini sono volati a Parigi e il loro 2019 sarà speciale: nozze in vista? Gossip.it"
+        }
+      ]
+    }
+  }
+}
