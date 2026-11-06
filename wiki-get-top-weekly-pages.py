@@ -505,8 +505,9 @@ def resolve_raw_output_path(raw_json_dir: str, year: int, week: int) -> str:
 
 
 def preserve_manual_descriptions(data: Dict[str, object], output_path: str) -> None:
-    """Keep hand-written descriptions (description_source == "manual") when an
-    existing weekly JSON file is regenerated."""
+    """Keep hand-edited fields when an existing weekly JSON file is regenerated:
+    manual descriptions (description_source == "manual") and the image framing
+    set with editor.py (image_focus, image_fit)."""
     path = Path(output_path)
     if not path.exists():
         return
@@ -514,18 +515,23 @@ def preserve_manual_descriptions(data: Dict[str, object], output_path: str) -> N
         old = json.loads(path.read_text(encoding="utf-8"))
     except (OSError, ValueError):
         return
-    manual = {
+    previous = {
         item.get("article"): item
         for item in old.get("articles", [])
-        if isinstance(item, dict) and item.get("description_source") == "manual"
+        if isinstance(item, dict)
     }
-    if not manual:
-        return
     for item in data.get("articles", []):  # type: ignore[union-attr]
-        previous = manual.get(item.get("article")) if isinstance(item, dict) else None
-        if previous:
-            item["description"] = previous.get("description", "")
+        if not isinstance(item, dict):
+            continue
+        before = previous.get(item.get("article"))
+        if not before:
+            continue
+        if before.get("description_source") == "manual":
+            item["description"] = before.get("description", "")
             item["description_source"] = "manual"
+        for key in ("image_focus", "image_fit"):
+            if key in before and before.get("image_filename") == item.get("image_filename"):
+                item[key] = before[key]
 
 
 def write_json(data: Dict[str, object], output_path: Optional[str]) -> None:

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Editor · Le 25 più lette</title>
+  <link rel="stylesheet" href="editor.css" />
+</head>
+<body>
+  <header class="bar">
+    <div class="bar-title">Editor <span>Le 25 più lette</span></div>
+    <div class="bar-nav">
+      <button type="button" id="prev" aria-label="Settimana precedente">‹</button>
+      <select id="year" aria-label="Anno"></select>
+      <select id="week" aria-label="Settimana"></select>
+      <button type="button" id="next" aria-label="Settimana successiva">›</button>
+    </div>
+    <label class="bar-filter"><input type="checkbox" id="only-img" /> solo voci con immagine</label>
+    <div class="bar-save">
+      <span id="status" class="status"></span>
+      <button type="button" id="save" class="save" disabled>Salva</button>
+    </div>
+  </header>
+  <p class="hint">
+    Clicca sull'immagine per scegliere il punto da tenere al centro (di solito il volto).
+    "Riempi", "larghezza intera" e "altezza intera" valgono per il primo piano e per la scheda; la miniatura usa sempre il punto scelto.
+    Le descrizioni modificate diventano <b>manuali</b> e OpenAI non le riscrive più. Salva con <kbd>⌘S</kbd>.
+  </p>
+  <main id="list"></main>
+  <script src="editor.js"></script>
+</body>
+</html>

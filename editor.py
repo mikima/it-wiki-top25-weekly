@@ -1,0 +1,161 @@
+#!/usr/bin/env python3
+"""Local visual editor for the weekly JSON files.
+
+    python3 editor.py            # then open http://localhost:8766
+
+Edit descriptions (saved as description_source "manual", so OpenAI never
+rewrites them) and image framing: focus point (image_focus) and, for the
+large views, how the image fills the frame (image_fit: cover / width / height).
+Only for local use: it writes docs/json/YYYY-WW.json directly.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import mimetypes
+import os
+import re
+from http import HTTPStatus
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+from pathlib import Path
+from urllib.parse import urlparse
+
+ROOT = Path(__file__).resolve().parent
+JSON_DIR = ROOT / "docs" / "json"
+STATIC_DIR = ROOT / "editor"
+WEEK_RE = re.compile(r"^\d{4}-\d{2}$")
+FITS = {"cover", "width", "height"}
+
+
+def week_path(week_id: str) -> Path:
+    if not WEEK_RE.match(week_id):
+        raise ValueError("settimana non valida")
+    return JSON_DIR / f"{week_id}.json"
+
+
+def write_json_atomic(path: Path, data: dict) -> None:
+    encoded = json.dumps(data, ensure_ascii=False, indent=2)
+    json.loads(encoded)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(encoded + "\n", encoding="utf-8")
+    os.replace(tmp, path)
+
+
+def apply_changes(data: dict, changes: list) -> int:
+    by_article = {a.get("article"): a for a in data.get("articles", []) if isinstance(a, dict)}
+    applied = 0
+    for change in changes:
+        item = by_article.get(change.get("article"))
+        if item is None:
+            continue
+        if "description" in change:
+            text = re.sub(r"\s+", " ", str(change["description"])).strip()
+            if text != item.get("description", ""):
+                item["description"] = text
+                item["description_source"] = "manual"
+                item.pop("description_model", None)
+                applied += 1
+        if "image_focus" in change:
+            focus = change["image_focus"]
+            if focus is None:
+                item.pop("image_focus", None)
+            else:
+                item["image_focus"] = {
+                    "x": max(0, min(100, round(float(focus["x"])))),
+                    "y": max(0, min(100, round(float(focus["y"])))),
+                }
+            applied += 1
+        if "image_fit" in change:
+            fit = change["image_fit"]
+            if fit in (None, "cover"):
+                item.pop("image_fit", None)
+            elif fit in FITS:
+                item["image_fit"] = fit
+            applied += 1
+    return applied
+
+
+class Handler(BaseHTTPRequestHandler):
+    server_version = "Top25Editor/1.0"
+
+    def log_message(self, fmt: str, *args) -> None:  # quieter log
+        print("  " + fmt % args)
+
+    def send_json(self, payload, status: int = 200) -> None:
+        body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+        self.send_response(status)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Content-Length", str(len(body)))
+        self.send_header("Cache-Control", "no-store")
+        self.end_headers()
+        self.wfile.write(body)
+
+    def do_GET(self) -> None:
+        path = urlparse(self.path).path
+        if path == "/api/weeks":
+            weeks = sorted(p.stem for p in JSON_DIR.glob("*.json") if WEEK_RE.match(p.stem))
+            return self.send_json({"weeks": weeks})
+        if path.startswith("/api/week/"):
+            try:
+                file = week_path(path.rsplit("/", 1)[1])
+            except ValueError as exc:
+                return self.send_json({"error": str(exc)}, 400)
+            if not file.exists():
+                return self.send_json({"error": "settimana non trovata"}, 404)
+            return self.send_json({
+                "data": json.loads(file.read_text(encoding="utf-8")),
+                "mtime": str(file.stat().st_mtime_ns),
+            })
+        # static files
+        rel = "index.html" if path in ("", "/") else path.lstrip("/")
+        file = (STATIC_DIR / rel).resolve()
+        if STATIC_DIR not in file.parents or not file.is_file():
+            self.send_error(HTTPStatus.NOT_FOUND)
+            return
+        body = file.read_bytes()
+        self.send_response(200)
+        self.send_header("Content-Type", mimetypes.guess_type(file.name)[0] or "application/octet-stream")
+        self.send_header("Content-Length", str(len(body)))
+        self.send_header("Cache-Control", "no-store")
+        self.end_headers()
+        self.wfile.write(body)
+
+    def do_POST(self) -> None:
+        path = urlparse(self.path).path
+        if not path.startswith("/api/week/"):
+            return self.send_json({"error": "not found"}, 404)
+        try:
+            file = week_path(path.rsplit("/", 1)[1])
+            length = int(self.headers.get("Content-Length", "0"))
+            body = json.loads(self.rfile.read(length) or b"{}")
+        except (ValueError, json.JSONDecodeError) as exc:
+            return self.send_json({"error": str(exc)}, 400)
+        if not file.exists():
+            return self.send_json({"error": "settimana non trovata"}, 404)
+        if str(body.get("mtime")) != str(file.stat().st_mtime_ns) and not body.get("force"):
+            return self.send_json({
+                "error": "Il file è stato modificato da un altro programma dopo l'apertura. "
+                         "Ricarica la settimana (le modifiche non salvate andranno perse) "
+                         "oppure salva comunque sovrascrivendo."
+            }, 409)
+        data = json.loads(file.read_text(encoding="utf-8"))
+        applied = apply_changes(data, body.get("changes", []))
+        write_json_atomic(file, data)
+        return self.send_json({"ok": True, "applied": applied, "mtime": str(file.stat().st_mtime_ns), "data": data})
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--port", type=int, default=8766)
+    args = ap.parse_args()
+    server = ThreadingHTTPServer(("127.0.0.1", args.port), Handler)
+    print(f"Editor su http://localhost:{args.port}  (Ctrl+C per chiudere)")
+    try:
+        server.serve_forever()
+    except KeyboardInterrupt:
+        pass
+
+
+if __name__ == "__main__":
+    main()

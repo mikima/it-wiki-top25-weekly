@@ -267,6 +267,8 @@
       trendColor,
       rankMove,
       image: article.image_url || "",
+      imageFocus: article.image_focus || null,
+      imageFit: article.image_fit || "cover",
     };
   }
 
@@ -481,9 +483,30 @@
     return parts.join(", ");
   }
 
+  // Framing set with editor.py: focus point and, for large views, fit mode.
+  // Same rules as frameStyle in editor/editor.js: keep them in sync.
+  function frameStyle(entry, large) {
+    const focus = entry.imageFocus;
+    const fit = large ? entry.imageFit : "cover";
+    const x = focus ? focus.x : 50;
+    const y = focus ? focus.y : 22;
+    if (fit === "width") {
+      return `position:absolute;left:0;width:100%;height:auto;top:${y}%;transform:translateY(-${y}%)`;
+    }
+    if (fit === "height") {
+      return `position:absolute;top:0;height:100%;width:auto;max-width:none;left:${x}%;transform:translateX(-${x}%)`;
+    }
+    return focus ? `object-position:${x}% ${y}%` : "";
+  }
+
+  function imgTag(entry, large, extra = "") {
+    const style = frameStyle(entry, large);
+    return `<img src="${escapeHtml(entry.image)}" alt=""${extra}${style ? ` style="${style}"` : ""} />`;
+  }
+
   function renderHero(entry) {
     const image = entry.image
-      ? `<span class="hero-img" style="display:block"><img src="${escapeHtml(entry.image)}" alt="" /></span>`
+      ? `<span class="hero-img" style="display:block">${imgTag(entry, true)}</span>`
       : `<span class="hero-img ph"><span class="ph-label">nessuna immagine su commons</span></span>`;
     const description = entry.description ? `<span class="hero-desc">${escapeHtml(entry.description)}</span>` : "";
     return `
@@ -510,7 +533,7 @@
 
   function renderRow(entry) {
     const thumb = entry.image
-      ? `<span class="thumb"><img src="${escapeHtml(entry.image)}" alt="" loading="lazy" /></span>`
+      ? `<span class="thumb">${imgTag(entry, false, ' loading="lazy"')}</span>`
       : `<span class="thumb ph"></span>`;
     const description = entry.description ? `<span class="row-desc cl2">${escapeHtml(entry.description)}</span>` : "";
     return `
@@ -805,7 +828,7 @@
     const creditUrl = raw.image_commons_url || raw.image_url;
 
     return `
-        ${entry.image ? `<div class="sheet-img"><img src="${escapeHtml(entry.image)}" alt="" /></div>` : ""}
+        ${entry.image ? `<div class="sheet-img">${imgTag(entry, true)}</div>` : ""}
         <div class="sheet-body">
           <h2 class="sheet-title" id="sheet-title">${escapeHtml(entry.title)}</h2>
           ${entry.description ? `<div class="sheet-desc">${escapeHtml(entry.description)}</div>` : ""}

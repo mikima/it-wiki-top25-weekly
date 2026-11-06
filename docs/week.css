@@ -103,7 +103,7 @@ body.sheet-open { overflow: hidden; }
 .rowbtn:active { background: #f8f9fa; }
 
 .hero { display: block; width: 100%; text-align: left; border-bottom: 1px solid #c8ccd1; padding: 0 0 18px; }
-.hero-img { width: 100%; aspect-ratio: 16 / 10; overflow: hidden; background-color: #f1f3f5; }
+.hero-img { position: relative; width: 100%; aspect-ratio: 16 / 10; overflow: hidden; background-color: #f1f3f5; }
 .hero-img img { width: 100%; height: 100%; object-fit: cover; object-position: center 22%; }
 .hero-img.ph { display: flex; align-items: flex-end; padding: 10px; }
 .ph-label {
@@ -132,7 +132,7 @@ body.sheet-open { overflow: hidden; }
 
 .row { display: flex; gap: 12px; width: 100%; text-align: left; padding: 14px 16px; border-bottom: 1px solid #eaecef; align-items: flex-start; }
 .row-rank { width: 22px; flex: none; font-size: 15px; font-weight: 700; color: #202122; padding-top: 1px; }
-.thumb { width: 64px; height: 64px; flex: none; display: block; overflow: hidden; background-color: #f1f3f5; }
+.thumb { position: relative; width: 64px; height: 64px; flex: none; display: block; overflow: hidden; background-color: #f1f3f5; }
 .thumb img { width: 100%; height: 100%; object-fit: cover; object-position: center 22%; }
 .row-text { flex: 1; min-width: 0; display: block; }
 .row-title { display: block; font-size: 15.5px; font-weight: 600; line-height: 1.25; letter-spacing: -.01em; text-wrap: pretty; }
@@ -189,7 +189,7 @@ body.sheet-open { overflow: hidden; }
 .sheet-pos { font-size: 11.5px; color: #72777d; min-width: 40px; text-align: center; }
 .sheet-close { font-size: 19px; color: #54595d; line-height: 1; padding: 0 4px 0 12px; min-height: 30px; }
 .sheet-swipe { will-change: transform; }
-.sheet-img { width: 100%; aspect-ratio: 16 / 9; background-color: #f1f3f5; overflow: hidden; }
+.sheet-img { position: relative; width: 100%; aspect-ratio: 16 / 9; background-color: #f1f3f5; overflow: hidden; }
 .sheet-img img { width: 100%; height: 100%; object-fit: cover; object-position: center 22%; }
 .sheet-body { padding: 16px 16px 26px; }
 .sheet-title { margin: 0; font-size: 23px; font-weight: 700; line-height: 1.15; letter-spacing: -.025em; text-wrap: pretty; }
