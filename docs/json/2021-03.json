@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Joe%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Joe_Biden",
       "article_url": "https://it.wikipedia.org/wiki/Joe_Biden",
-      "description": "politico statunitense (1942–), 46º presidente degli Stati Uniti d'America (2021–2025)",
+      "description": "Politico democratico statunitense, il 20 gennaio si insedia come 46º presidente degli Stati Uniti.",
       "image_filename": "Joe_Biden_presidential_portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1280px-Joe_Biden_presidential_portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Lello%20Ciampolillo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Lello_Ciampolillo",
       "article_url": "https://it.wikipedia.org/wiki/Lello_Ciampolillo",
-      "description": "politico italiano",
+      "description": "Senatore del gruppo misto, il 19 gennaio vota la fiducia al governo Conte dopo una verifica sul suo arrivo in aula.",
       "image_filename": "Lello_Ciampolillo_datisenato_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Lello_Ciampolillo_datisenato_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lello_Ciampolillo_datisenato_2018.jpg",
       "image_license": "CC BY 3.0 it",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Mario%20Mand%C5%BEuki%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Mario_Mand%C5%BEuki%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Mario_Mand%C5%BEuki%C4%87",
-      "description": "calciatore croato",
+      "description": "Attaccante croato ed ex Juventus, il 19 gennaio viene annunciato il suo ingaggio da parte del Milan.",
       "image_filename": "Mario_Mandžukić_in_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mario_Mand%C5%BEuki%C4%87_in_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mario_Mand%C5%BEuki%C4%87_in_2018.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Mina%20Settembre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Mina_Settembre",
       "article_url": "https://it.wikipedia.org/wiki/Mina_Settembre",
-      "description": "serie televisiva italiana del 2021",
+      "description": "La serie con Serena Rossi debutta il 17 gennaio su Rai 1; la seconda e la terza puntata vanno in onda il 18 e il 24 gennaio.",
       "image_filename": "Mina_Settembre.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a9/Mina_Settembre.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mina_Settembre.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Kamala%20Harris&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Kamala_Harris",
       "article_url": "https://it.wikipedia.org/wiki/Kamala_Harris",
-      "description": "procuratrice e politica statunitense",
+      "description": "Politica democratica statunitense, il 20 gennaio giura come vicepresidente di Joe Biden: è la prima donna a ricoprire la carica.",
       "image_filename": "Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/1280px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Fate%20-%20The%20Winx%20Saga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Fate_-_The_Winx_Saga",
       "article_url": "https://it.wikipedia.org/wiki/Fate_-_The_Winx_Saga",
-      "description": "",
+      "description": "Serie italo-britannica con attori in carne e ossa ispirata a Winx Club, debutta su Netflix il 22 gennaio.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Can%20Yaman&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Can_Yaman",
       "article_url": "https://it.wikipedia.org/wiki/Can_Yaman",
-      "description": "attore e modello turco (1989-)",
+      "description": "Attore turco, il 23 gennaio è ospite di C'è posta per te su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Liliana%20Segre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Liliana_Segre",
       "article_url": "https://it.wikipedia.org/wiki/Liliana_Segre",
-      "description": "antifascista e politica italiana, superstite dell'Olocausto e testimone attiva della Shoah (1930-)",
+      "description": "Senatrice a vita e superstite della Shoah, il 19 gennaio vota la fiducia al governo Conte in Senato.",
       "image_filename": "Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Liliana_Segre_%28XVIII_Legislatura_Senato%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_license": "CC BY 1.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Mariarosaria%20Rossi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Mariarosaria_Rossi",
       "article_url": "https://it.wikipedia.org/wiki/Mariarosaria_Rossi",
-      "description": "politica italiana",
+      "description": "Senatrice di Forza Italia, il 19 gennaio vota la fiducia al governo Conte e viene espulsa dal partito.",
       "image_filename": "Mariarosaria_Rossi_datisenato_2013.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mariarosaria_Rossi_datisenato_2013.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mariarosaria_Rossi_datisenato_2013.jpg",
       "image_license": "CC BY 3.0 it",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Giuseppe%20Conte&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Giuseppe_Conte",
       "article_url": "https://it.wikipedia.org/wiki/Giuseppe_Conte",
-      "description": "politico e avvocato italiano (1964-)",
+      "description": "Presidente del Consiglio, il 18 e il 19 gennaio ottiene la fiducia alla Camera e al Senato dopo l'uscita di Italia Viva dal governo.",
       "image_filename": "Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Giuseppe_Conte_-_Quirinale_2022_%28cropped2%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -548,13 +558,14 @@
       "google_news_url": "https://www.google.it/search?q=Senato%20della%20Repubblica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Senato_della_Repubblica",
       "article_url": "https://it.wikipedia.org/wiki/Senato_della_Repubblica",
-      "description": "ramo del Parlamento della Repubblica Italiana",
+      "description": "Il 19 gennaio il governo Conte ottiene la fiducia al Senato con 156 voti favorevoli.",
       "image_filename": "Senato_della_Repubblica_LOGO_(Italia).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Senato_della_Repubblica_LOGO_%28Italia%29.svg/1280px-Senato_della_Repubblica_LOGO_%28Italia%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Senato_della_Repubblica_LOGO_(Italia).svg",
       "image_license": "CC BY 3.0 it",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +604,14 @@
       "google_news_url": "https://www.google.it/search?q=Renata%20Polverini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Renata_Polverini",
       "article_url": "https://it.wikipedia.org/wiki/Renata_Polverini",
-      "description": "sindacalista e politica italiana",
+      "description": "Deputata ed ex presidente del Lazio, il 18 gennaio vota la fiducia al governo Conte e lascia Forza Italia.",
       "image_filename": "Renata_Polverini_daticamera_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Renata_Polverini_daticamera_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Renata_Polverini_daticamera_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +650,14 @@
       "google_news_url": "https://www.google.it/search?q=Bridgerton&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Bridgerton",
       "article_url": "https://it.wikipedia.org/wiki/Bridgerton",
-      "description": "serie televisiva statunitense del 2020",
+      "description": "Serie in costume su Netflix dal 25 dicembre 2020, è in classifica per la quinta settimana consecutiva; il 21 gennaio viene annunciata la seconda stagione.",
       "image_filename": "Bridgerton.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Bridgerton.png/1280px-Bridgerton.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bridgerton.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +696,14 @@
       "google_news_url": "https://www.google.it/search?q=Aleksandr%20Kokorin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Aleksandr_Kokorin",
       "article_url": "https://it.wikipedia.org/wiki/Aleksandr_Kokorin",
-      "description": "calciatore russo (1991-)",
+      "description": "Attaccante russo dello Spartak Mosca, il 21 gennaio annuncia il suo prossimo passaggio alla Fiorentina.",
       "image_filename": "Zenit-Slavia_Pr_(5).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Zenit-Slavia_Pr_%285%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zenit-Slavia_Pr_(5).jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +742,14 @@
       "google_news_url": "https://www.google.it/search?q=Blue%20Monday%20%28data%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Blue_Monday_(data)",
       "article_url": "https://it.wikipedia.org/wiki/Blue_Monday_(data)",
-      "description": "giorno più deprimente dell'anno per gli abitanti dell'emisfero boreale (nord).",
+      "description": "Il 18 gennaio cade il cosiddetto giorno più triste dell'anno, una ricorrenza priva di fondamento scientifico.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +788,14 @@
       "google_news_url": "https://www.google.it/search?q=Zlatan%20Ibrahimovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Zlatan_Ibrahimovi%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87",
-      "description": "dirigente sportivo e calciatore svedese (1981-)",
+      "description": "Attaccante svedese del Milan, il 18 gennaio segna una doppietta al Cagliari; il 23 gennaio la squadra perde 3-0 contro l'Atalanta.",
       "image_filename": "Zlatan_Ibrahimović_June_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +834,14 @@
       "google_news_url": "https://www.google.it/search?q=Lady%20Gaga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Lady_Gaga",
       "article_url": "https://it.wikipedia.org/wiki/Lady_Gaga",
-      "description": "cantautrice, compositrice, attrice e attivista statunitense (1986-)",
+      "description": "Cantante statunitense, il 20 gennaio canta l'inno nazionale alla cerimonia di insediamento del presidente Joe Biden.",
       "image_filename": "Lady_Gaga_at_the_White_House_in_2023_(3).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lady_Gaga_at_the_White_House_in_2023_%283%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lady_Gaga_at_the_White_House_in_2023_(3).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +880,14 @@
       "google_news_url": "https://www.google.it/search?q=Jill%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Jill_Biden",
       "article_url": "https://it.wikipedia.org/wiki/Jill_Biden",
-      "description": "insegnante, scrittrice e filantropa statunitense",
+      "description": "Insegnante e moglie di Joe Biden, diventa first lady degli Stati Uniti con l'insediamento del marito il 20 gennaio.",
       "image_filename": "First_Lady_Jill_Biden_official_portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/First_Lady_Jill_Biden_official_portrait.jpg/1280px-First_Lady_Jill_Biden_official_portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:First_Lady_Jill_Biden_official_portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +926,14 @@
       "google_news_url": "https://www.google.it/search?q=Fikayo%20Tomori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Fikayo_Tomori",
       "article_url": "https://it.wikipedia.org/wiki/Fikayo_Tomori",
-      "description": "calciatore inglese",
+      "description": "Difensore inglese, il 22 gennaio il Milan annuncia il suo arrivo in prestito dal Chelsea.",
       "image_filename": "FC_Salzburg_vs._AC_Mailand_(UEFA_Championsleague_2022-09-06)_42.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_42.jpg/1280px-FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_42.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_vs._AC_Mailand_(UEFA_Championsleague_2022-09-06)_42.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +972,14 @@
       "google_news_url": "https://www.google.it/search?q=Matilda%20De%20Angelis&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Matilda_De_Angelis",
       "article_url": "https://it.wikipedia.org/wiki/Matilda_De_Angelis",
-      "description": "attrice italiana (1995-)",
+      "description": "Attrice italiana, il 23 gennaio viene annunciata la sua partecipazione come co-conduttrice al Festival di Sanremo 2021.",
       "image_filename": "Matilda_De_Angelis-7948.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matilda_De_Angelis-7948.jpg/1280px-Matilda_De_Angelis-7948.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matilda_De_Angelis-7948.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1018,14 @@
       "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Donald_Trump",
       "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
-      "description": "politico e imprenditore statunitense, 45º e 47º presidente degli Stati Uniti d'America",
+      "description": "Presidente uscente degli Stati Uniti, il 20 gennaio lascia la Casa Bianca nel giorno dell'insediamento di Joe Biden.",
       "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1064,14 @@
       "google_news_url": "https://www.google.it/search?q=Winx%20Club&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Winx_Club",
       "article_url": "https://it.wikipedia.org/wiki/Winx_Club",
-      "description": "serie TV d'animazione italiana del 2004",
+      "description": "Serie animata italiana creata da Iginio Straffi, ispira Fate - The Winx Saga, su Netflix dal 22 gennaio.",
       "image_filename": "Winx_Club_Logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/4/4f/Winx_Club_Logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Winx_Club_Logo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1110,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Servizio pubblico radiotelevisivo italiano, è in classifica per l'undicesima settimana consecutiva, senza picchi di rilievo.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1156,14 @@
       "google_news_url": "https://www.google.it/search?q=Presidenti%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/18/2021,cd_max:01/24/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-18&end=2021-01-24&pages=Presidenti_degli_Stati_Uniti_d%27America",
       "article_url": "https://it.wikipedia.org/wiki/Presidenti_degli_Stati_Uniti_d%27America",
-      "description": "lista di un progetto Wikimedia",
+      "description": "Il 20 gennaio Joe Biden si insedia come 46º presidente degli Stati Uniti, succedendo a Donald Trump.",
       "image_filename": "Flag_of_the_President_of_the_United_States.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_the_President_of_the_United_States.svg/1280px-Flag_of_the_President_of_the_United_States.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_the_United_States.svg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

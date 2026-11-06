@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Spider-Man%3A%20No%20Way%20Home&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Spider-Man%3A_No_Way_Home",
       "article_url": "https://it.wikipedia.org/wiki/Spider-Man%3A_No_Way_Home",
-      "description": "film del 2021 diretto da Jon Watts",
+      "description": "Film diretto da Jon Watts, esce nelle sale italiane il 15 dicembre.",
       "image_filename": "Spider-Man.NoWayHome.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a2/Spider-Man.NoWayHome.png/1280px-Spider-Man.NoWayHome.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Spider-Man.NoWayHome.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=%C3%88%20stata%20la%20mano%20di%20Dio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=%C3%88_stata_la_mano_di_Dio",
       "article_url": "https://it.wikipedia.org/wiki/%C3%88_stata_la_mano_di_Dio",
-      "description": "film del 2021 diretto da Paolo Sorrentino",
+      "description": "Film di Paolo Sorrentino, esce su Netflix il 15 dicembre.",
       "image_filename": "È_stata_la_mano_di_Dio_screenshot.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a8/%C3%88_stata_la_mano_di_Dio_screenshot.jpg/1280px-%C3%88_stata_la_mano_di_Dio_screenshot.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:%C3%88_stata_la_mano_di_Dio_screenshot.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Paolo%20Sorrentino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Paolo_Sorrentino",
       "article_url": "https://it.wikipedia.org/wiki/Paolo_Sorrentino",
-      "description": "regista italiano (1970-)",
+      "description": "Regista italiano, il 15 dicembre esce su Netflix il suo film È stata la mano di Dio.",
       "image_filename": "Paolo_Sorrentino_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paolo_Sorrentino_2018.jpg/1280px-Paolo_Sorrentino_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paolo_Sorrentino_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Gomorra%20-%20La%20serie%20%28quinta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Episodi_di_Gomorra_-_La_serie_(quinta_stagione)",
       "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Gomorra_-_La_serie_(quinta_stagione)",
-      "description": "stagione televisiva",
+      "description": "Il 17 dicembre vanno in onda su Sky Atlantic il nono e il decimo episodio, gli ultimi della serie.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Patrizia%20Reggiani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Patrizia_Reggiani",
       "article_url": "https://it.wikipedia.org/wiki/Patrizia_Reggiani",
-      "description": "socialite e criminale italiana (1948-)",
+      "description": "Condannata come mandante dell'omicidio dell'ex marito Maurizio Gucci, è al centro di House of Gucci, al cinema dal 16 dicembre.",
       "image_filename": "Patrizia_Reggiani_matrimonio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Patrizia_Reggiani_matrimonio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Patrizia_Reggiani_matrimonio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Gomorra%20-%20La%20serie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Gomorra_-_La_serie",
       "article_url": "https://it.wikipedia.org/wiki/Gomorra_-_La_serie",
-      "description": "serie televisiva italiana (2014-2021)",
+      "description": "Il 17 dicembre vanno in onda su Sky Atlantic gli ultimi due episodi della quinta e ultima stagione.",
       "image_filename": "Gomorra_La_serie.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/85/Gomorra_La_serie.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gomorra_La_serie.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Sergio%20Ag%C3%BCero&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Sergio_Ag%C3%BCero",
       "article_url": "https://it.wikipedia.org/wiki/Sergio_Ag%C3%BCero",
-      "description": "calciatore argentino (1988-)",
+      "description": "Attaccante argentino del Barcellona, il 15 dicembre annuncia il ritiro dal calcio per problemi cardiaci.",
       "image_filename": "Agüero_in_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ag%C3%BCero_in_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ag%C3%BCero_in_2018.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Maurizio%20Gucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Maurizio_Gucci",
       "article_url": "https://it.wikipedia.org/wiki/Maurizio_Gucci",
-      "description": "imprenditore italiano (1948-1995)",
+      "description": "Imprenditore italiano ucciso nel 1995, è tra i protagonisti di House of Gucci, al cinema dal 16 dicembre.",
       "image_filename": "Maurizio_Gucci_matrimonio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Maurizio_Gucci_matrimonio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maurizio_Gucci_matrimonio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Zendaya&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Zendaya",
       "article_url": "https://it.wikipedia.org/wiki/Zendaya",
-      "description": "attrice e cantante statunitense",
+      "description": "Attrice statunitense, recita con Tom Holland in Spider-Man: No Way Home, al cinema dal 15 dicembre.",
       "image_filename": "Zendaya_-_2019_by_Glenn_Francis.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg/1280px-Zendaya_-_2019_by_Glenn_Francis.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zendaya_-_2019_by_Glenn_Francis.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=La_casa_di_carta",
       "article_url": "https://it.wikipedia.org/wiki/La_casa_di_carta",
-      "description": "serie televisiva spagnola (2017-2021)",
+      "description": "Il 3 dicembre escono su Netflix gli ultimi cinque episodi della serie spagnola.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Tom%20Holland%20%28attore%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Tom_Holland_(attore)",
       "article_url": "https://it.wikipedia.org/wiki/Tom_Holland_(attore)",
-      "description": "attore britannico",
+      "description": "Attore britannico, interpreta Spider-Man in Spider-Man: No Way Home, al cinema dal 15 dicembre.",
       "image_filename": "Tom_Holland_by_Gage_Skidmore.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tom_Holland_by_Gage_Skidmore.jpg/1280px-Tom_Holland_by_Gage_Skidmore.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tom_Holland_by_Gage_Skidmore.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Max%20Verstappen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Max_Verstappen",
       "article_url": "https://it.wikipedia.org/wiki/Max_Verstappen",
-      "description": "pilota automobilistico olandese con cittadinanza belga (1997-)",
+      "description": "Pilota olandese della Red Bull, il 12 dicembre vince ad Abu Dhabi il suo primo mondiale di Formula 1.",
       "image_filename": "2024-08-25_Motorsport,_Formel_1,_Großer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(portrait_cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28portrait_cropped%29.jpg/1280px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28portrait_cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(portrait_cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Sergio%20Marchionne&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Sergio_Marchionne",
       "article_url": "https://it.wikipedia.org/wiki/Sergio_Marchionne",
-      "description": "dirigente d'azienda italiano, naturalizzato canadese (1952-2018)",
+      "description": "Ex amministratore delegato di Fiat Chrysler, morto nel 2018, è protagonista di un documentario su Rai 3 il 17 dicembre.",
       "image_filename": "Fiat_Sergio_Marchionne_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fiat_Sergio_Marchionne_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fiat_Sergio_Marchionne_(cropped).jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Witcher%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=The_Witcher_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Witcher_(serie_televisiva)",
-      "description": "serie televisiva polacco-statunitense del 2019",
+      "description": "Il 17 dicembre esce su Netflix la seconda stagione della serie con Henry Cavill.",
       "image_filename": "The_Witcher_serie_TV.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8a/The_Witcher_serie_TV.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Witcher_serie_TV.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Lewis%20Hamilton&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Lewis_Hamilton",
       "article_url": "https://it.wikipedia.org/wiki/Lewis_Hamilton",
-      "description": "pilota automobilistico britannico (1985-)",
+      "description": "Pilota britannico della Mercedes, il 12 dicembre perde il mondiale contro Verstappen; il 15 riceve il titolo di cavaliere.",
       "image_filename": "Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_(54566928382)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/1280px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_(54566928382)_(cropped).jpg",
       "image_license": "OGL 3",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Tobey%20Maguire&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Tobey_Maguire",
       "article_url": "https://it.wikipedia.org/wiki/Tobey_Maguire",
-      "description": "attore e produttore cinematografico statunitense (1975-)",
+      "description": "Attore statunitense, torna a interpretare Spider-Man in Spider-Man: No Way Home, al cinema dal 15 dicembre.",
       "image_filename": "Tobey_Maguire_2014.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Tobey_Maguire_2014.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tobey_Maguire_2014.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=House%20of%20Gucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=House_of_Gucci",
       "article_url": "https://it.wikipedia.org/wiki/House_of_Gucci",
-      "description": "film del 2021 diretto da Ridley Scott",
+      "description": "Film di Ridley Scott con Lady Gaga, esce nelle sale italiane il 16 dicembre.",
       "image_filename": "Ridley_Scott_-_House_of_Gucci.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/7a/Ridley_Scott_-_House_of_Gucci.png/1280px-Ridley_Scott_-_House_of_Gucci.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ridley_Scott_-_House_of_Gucci.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Alex%20Belli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Alex_Belli",
       "article_url": "https://it.wikipedia.org/wiki/Alex_Belli",
-      "description": "attore, modello, fotografo e personaggio televisivo italiano (1982)",
+      "description": "Attore e personaggio televisivo italiano, il 13 dicembre viene squalificato dal Grande Fratello VIP su Canale 5.",
       "image_filename": "Alex_Belli_B&D_Production_Cine_&_Photo_2022.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Alex_Belli_B%26D_Production_Cine_%26_Photo_2022.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alex_Belli_B%26D_Production_Cine_%26_Photo_2022.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Sindrome%20di%20Asperger&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Sindrome_di_Asperger",
       "article_url": "https://it.wikipedia.org/wiki/Sindrome_di_Asperger",
-      "description": "categoria diagnostica usata fino al 2013 per un disturbo dello spettro autistico",
+      "description": "Categoria diagnostica relativa allo spettro autistico; non è riconoscibile un motivo preciso per il picco di visite.",
       "image_filename": "Riboflavin_penicillinamide.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Riboflavin_penicillinamide.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Riboflavin_penicillinamide.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Un%20professore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Un_professore",
       "article_url": "https://it.wikipedia.org/wiki/Un_professore",
-      "description": "serie televisiva italiana del 2021",
+      "description": "Il 16 dicembre va in onda su Rai 1 la sesta e ultima puntata della prima stagione, con Alessandro Gassmann.",
       "image_filename": "Un_professore.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e7/Un_professore.png/1280px-Un_professore.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Un_professore.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Graziano%20Mesina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Graziano_Mesina",
       "article_url": "https://it.wikipedia.org/wiki/Graziano_Mesina",
-      "description": "criminale italiano (1942-2025)",
+      "description": "Esponente del banditismo sardo, il 18 dicembre viene arrestato dopo una latitanza iniziata nel 2020.",
       "image_filename": "Gratzianu_Mesina.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gratzianu_Mesina.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gratzianu_Mesina.JPG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=K%C5%8Dstas%20Man%C5%8Dlas&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=K%C5%8Dstas_Man%C5%8Dlas",
       "article_url": "https://it.wikipedia.org/wiki/K%C5%8Dstas_Man%C5%8Dlas",
-      "description": "calciatore greco (1991-)",
+      "description": "Difensore greco del Napoli, il 16 dicembre viene annunciato il suo trasferimento all'Olympiakos.",
       "image_filename": "CSKA-Roma_(4).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/CSKA-Roma_%284%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:CSKA-Roma_(4).jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Antonio%20Capuano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Antonio_Capuano",
       "article_url": "https://it.wikipedia.org/wiki/Antonio_Capuano",
-      "description": "regista, scenografo e pittore italiano",
+      "description": "Regista italiano, è raccontato nel film di Paolo Sorrentino È stata la mano di Dio, uscito su Netflix il 15 dicembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Santa%20Lucia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Santa_Lucia",
       "article_url": "https://it.wikipedia.org/wiki/Santa_Lucia",
-      "description": "santa e martire cristiana (283-304)",
+      "description": "Martire cristiana venerata come santa, viene commemorata il 13 dicembre.",
       "image_filename": "Santa_Lucia,_Jacopo_Palma_il_Giovane,_Chiesa_dei_SS._Geremia_e_Lucia,_Venezia.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Santa_Lucia%2C_Jacopo_Palma_il_Giovane%2C_Chiesa_dei_SS._Geremia_e_Lucia%2C_Venezia.jpg/1220px-Santa_Lucia%2C_Jacopo_Palma_il_Giovane%2C_Chiesa_dei_SS._Geremia_e_Lucia%2C_Venezia.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Santa_Lucia%2C_Jacopo_Palma_il_Giovane%2C_Chiesa_dei_SS._Geremia_e_Lucia%2C_Venezia.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20mistero%20del%20principe%20Valiant&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/13/2021,cd_max:12/19/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-13&end=2021-12-19&pages=Il_mistero_del_principe_Valiant",
       "article_url": "https://it.wikipedia.org/wiki/Il_mistero_del_principe_Valiant",
-      "description": "film del 1997 diretto da Anthony Hickox",
+      "description": "Film del 1997: probabilmente un errore nei dati, con 51.100 visite il 16 dicembre e 867 il giorno dopo.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Leonardo%20da%20Vinci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Leonardo_da_Vinci",
       "article_url": "https://it.wikipedia.org/wiki/Leonardo_da_Vinci",
-      "description": "scienziato, inventore e artista italiano (1452-1519)",
+      "description": "Artista e scienziato italiano, è il protagonista della serie Leonardo, che debutta il 23 marzo su Rai 1.",
       "image_filename": "Leonardo_self.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo_self.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_self.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Canale%20di%20Suez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Canale_di_Suez",
       "article_url": "https://it.wikipedia.org/wiki/Canale_di_Suez",
-      "description": "canale artificiale che taglia l'istmo omonimo, in territorio egiziano",
+      "description": "Il 23 marzo la nave portacontainer Ever Given si incaglia nel canale egiziano, bloccando la navigazione.",
       "image_filename": "Eg-map.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Eg-map.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Eg-map.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Dante%20Alighieri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Dante_Alighieri",
       "article_url": "https://it.wikipedia.org/wiki/Dante_Alighieri",
-      "description": "poeta, scrittore e politico fiorentino, considerato il padre della lingua italiana (1265-1321)",
+      "description": "Poeta e autore della Divina Commedia, viene celebrato il 25 marzo nel Dantedì, nell'anno del 700° anniversario della morte.",
       "image_filename": "Portrait_de_Dante.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Portrait_de_Dante.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Portrait_de_Dante.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Leonardo%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Leonardo_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Leonardo_(serie_televisiva)",
-      "description": "serie televisiva italiana del 2021",
+      "description": "La serie su Leonardo da Vinci debutta il 23 marzo su Rai 1 con i primi due episodi.",
       "image_filename": "Leonardo_(serie_televisiva).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1c/Leonardo_%28serie_televisiva%29.jpg/1280px-Leonardo_%28serie_televisiva%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_(serie_televisiva).jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Nino%20Manfredi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Nino_Manfredi",
       "article_url": "https://it.wikipedia.org/wiki/Nino_Manfredi",
-      "description": "attore, regista, sceneggiatore, comico, cantante e doppiatore italiano (1921–2004)",
+      "description": "Attore e regista italiano, il 22 marzo ricorre il centenario della sua nascita.",
       "image_filename": "Nino_Manfredi,_1990.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nino_Manfredi%2C_1990.jpg/1280px-Nino_Manfredi%2C_1990.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nino_Manfredi%2C_1990.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Vita%20personale%20di%20Leonardo%20da%20Vinci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Vita_personale_di_Leonardo_da_Vinci",
       "article_url": "https://it.wikipedia.org/wiki/Vita_personale_di_Leonardo_da_Vinci",
-      "description": "",
+      "description": "Il picco è legato alla serie Leonardo, dedicata all'artista e trasmessa dal 23 marzo su Rai 1.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Amanda%20Lear&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Amanda_Lear",
       "article_url": "https://it.wikipedia.org/wiki/Amanda_Lear",
-      "description": "cantante, attrice, conduttrice televisiva e modella francese naturalizzata britannica",
+      "description": "Cantante e conduttrice televisiva, è ospite di Canzone segreta il 26 marzo su Rai 1.",
       "image_filename": "Amanda_Lear_2010_a.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Amanda_Lear_2010_a.jpg/1280px-Amanda_Lear_2010_a.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amanda_Lear_2010_a.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Francesco%20Totti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Francesco_Totti",
       "article_url": "https://it.wikipedia.org/wiki/Francesco_Totti",
-      "description": "calciatore italiano (1976-)",
+      "description": "Ex capitano della Roma, è protagonista della serie Speravo de morì prima, in onda su Sky dal 19 marzo.",
       "image_filename": "Francesco_Totti_-_AS_Roma_1998-99.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1d/Francesco_Totti_-_AS_Roma_1998-99.jpg/1280px-Francesco_Totti_-_AS_Roma_1998-99.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesco_Totti_-_AS_Roma_1998-99.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Svegliati%20amore%20mio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Svegliati_amore_mio",
       "article_url": "https://it.wikipedia.org/wiki/Svegliati_amore_mio",
-      "description": "miniserie televisiva italiana del 2021",
+      "description": "La miniserie diretta da Simona Izzo e Ricky Tognazzi debutta il 24 marzo su Canale 5.",
       "image_filename": "Svegliati_amore_mio.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c9/Svegliati_amore_mio.png/1280px-Svegliati_amore_mio.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Svegliati_amore_mio.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Zack%20Snyder%27s%20Justice%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Zack_Snyder%27s_Justice_League",
       "article_url": "https://it.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League",
-      "description": "film del 2021 diretto da Zack Snyder",
+      "description": "La versione di Zack Snyder del film Justice League del 2017 esce il 18 marzo, in Italia su Sky e NOW.",
       "image_filename": "Zack_Snyder's_Justice_League.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Zack_Snyder%27s_Justice_League.jpg/1280px-Zack_Snyder%27s_Justice_League.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zack_Snyder%27s_Justice_League.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Matilda%20De%20Angelis&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Matilda_De_Angelis",
       "article_url": "https://it.wikipedia.org/wiki/Matilda_De_Angelis",
-      "description": "attrice italiana (1995-)",
+      "description": "Attrice italiana, è nel cast della serie Leonardo, che debutta il 23 marzo su Rai 1.",
       "image_filename": "Matilda_De_Angelis-7948.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matilda_De_Angelis-7948.jpg/1280px-Matilda_De_Angelis-7948.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matilda_De_Angelis-7948.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Maurizio%20Gucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Maurizio_Gucci",
       "article_url": "https://it.wikipedia.org/wiki/Maurizio_Gucci",
-      "description": "imprenditore italiano (1948-1995)",
+      "description": "Imprenditore della moda ucciso il 27 marzo 1995, è interpretato da Adam Driver in House of Gucci, in lavorazione a marzo.",
       "image_filename": "Maurizio_Gucci_matrimonio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Maurizio_Gucci_matrimonio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maurizio_Gucci_matrimonio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -638,13 +650,14 @@
       "google_news_url": "https://www.google.it/search?q=Cesare%20Prandelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Cesare_Prandelli",
       "article_url": "https://it.wikipedia.org/wiki/Cesare_Prandelli",
-      "description": "allenatore di calcio e calciatore italiano (1957-)",
+      "description": "Allenatore di calcio italiano, il 23 marzo si dimette dalla Fiorentina e viene sostituito da Giuseppe Iachini.",
       "image_filename": "Cesare_Prandelli_Euro_2012_vs_England.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cesare_Prandelli_Euro_2012_vs_England.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cesare_Prandelli_Euro_2012_vs_England.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +696,14 @@
       "google_news_url": "https://www.google.it/search?q=Divina%20Commedia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Divina_Commedia",
       "article_url": "https://it.wikipedia.org/wiki/Divina_Commedia",
-      "description": "poema di Dante Alighieri",
+      "description": "Il poema di Dante Alighieri è legato al Dantedì, la giornata dedicata al poeta che si celebra il 25 marzo.",
       "image_filename": "Divina_Commedia_1555_Edition.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Divina_Commedia_1555_Edition.png/1280px-Divina_Commedia_1555_Edition.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Divina_Commedia_1555_Edition.png",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +742,14 @@
       "google_news_url": "https://www.google.it/search?q=Raoul%20Bova&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Raoul_Bova",
       "article_url": "https://it.wikipedia.org/wiki/Raoul_Bova",
-      "description": "attore italiano (1971-)",
+      "description": "Attore italiano, è ospite di Canzone segreta il 26 marzo su Rai 1; il 23 è vittima di uno scherzo delle Iene.",
       "image_filename": "LizSolari016_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/LizSolari016_%28cropped%29.jpg/1127px-LizSolari016_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:LizSolari016_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +788,14 @@
       "google_news_url": "https://www.google.it/search?q=Ritratto%20di%20Ginevra%20de%27%20Benci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Ritratto_di_Ginevra_de%27_Benci",
       "article_url": "https://it.wikipedia.org/wiki/Ritratto_di_Ginevra_de%27_Benci",
-      "description": "dipinto di Leonardo da Vinci",
+      "description": "Dipinto di Leonardo da Vinci, il picco è probabilmente legato alla serie Leonardo, che debutta il 23 marzo su Rai 1.",
       "image_filename": "Leonardo_da_Vinci_-_Ginevra_de'_Benci_-_Google_Art_Project.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg/1280px-Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +834,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Il servizio pubblico radiotelevisivo è in classifica per la ventesima settimana consecutiva, senza un picco di rilievo.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +880,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo durante la settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +926,14 @@
       "google_news_url": "https://www.google.it/search?q=Paul%20Gascoigne&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Paul_Gascoigne",
       "article_url": "https://it.wikipedia.org/wiki/Paul_Gascoigne",
-      "description": "allenatore di calcio e calciatore inglese",
+      "description": "Ex calciatore inglese della Lazio, partecipa all'Isola dei famosi, in onda il 22 marzo su Canale 5.",
       "image_filename": "Paul_Gascoigne_-_Inghilterra_-_Mondiali_1990.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/7/74/Paul_Gascoigne_-_Inghilterra_-_Mondiali_1990.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paul_Gascoigne_-_Inghilterra_-_Mondiali_1990.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +972,14 @@
       "google_news_url": "https://www.google.it/search?q=Pirati%20dei%20Caraibi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Pirati_dei_Caraibi",
       "article_url": "https://it.wikipedia.org/wiki/Pirati_dei_Caraibi",
-      "description": "serie di film",
+      "description": "Il 28 marzo il terzo film della saga, Ai confini del mondo, va in onda su Italia 1.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1018,14 @@
       "google_news_url": "https://www.google.it/search?q=Domenica%20delle%20palme&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Domenica_delle_palme",
       "article_url": "https://it.wikipedia.org/wiki/Domenica_delle_palme",
-      "description": "festività cristiana celebrata la domenica precedente la Pasqua",
+      "description": "La ricorrenza cristiana che precede la Pasqua si celebra il 28 marzo.",
       "image_filename": "Giotto_di_Bondone_-_No._26_Scenes_from_the_Life_of_Christ_-_10._Entry_into_Jerusalem_-_WGA09206.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Giotto_di_Bondone_-_No._26_Scenes_from_the_Life_of_Christ_-_10._Entry_into_Jerusalem_-_WGA09206.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_No._26_Scenes_from_the_Life_of_Christ_-_10._Entry_into_Jerusalem_-_WGA09206.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1064,14 @@
       "google_news_url": "https://www.google.it/search?q=M%C3%A0kari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=M%C3%A0kari",
       "article_url": "https://it.wikipedia.org/wiki/M%C3%A0kari",
-      "description": "miniserie televisiva italiana del 2021",
+      "description": "La terza puntata della serie con Claudio Gioè va in onda il 22 marzo su Rai 1.",
       "image_filename": "Màkari.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/M%C3%A0kari.jpg/1280px-M%C3%A0kari.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:M%C3%A0kari.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1110,14 @@
       "google_news_url": "https://www.google.it/search?q=Un%20piccolo%20favore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Un_piccolo_favore",
       "article_url": "https://it.wikipedia.org/wiki/Un_piccolo_favore",
-      "description": "film del 2018 diretto da Paul Feig",
+      "description": "Film del 2018 diretto da Paul Feig, va in onda il 27 marzo su Rai 2.",
       "image_filename": "Un_piccolo_favore.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/ea/Un_piccolo_favore.png/1280px-Un_piccolo_favore.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Un_piccolo_favore.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1156,14 @@
       "google_news_url": "https://www.google.it/search?q=Alessandra%20Celentano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/22/2021,cd_max:03/28/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-22&end=2021-03-28&pages=Alessandra_Celentano",
       "article_url": "https://it.wikipedia.org/wiki/Alessandra_Celentano",
-      "description": "coreografa ed ex ballerina italiana",
+      "description": "Coreografa e insegnante di danza, partecipa al serale di Amici, in onda il 27 marzo su Canale 5.",
       "image_filename": "Alessandra_Celentano_nel_1996.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alessandra_Celentano_nel_1996.jpg/1080px-Alessandra_Celentano_nel_1996.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alessandra_Celentano_nel_1996.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

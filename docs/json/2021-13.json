@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Jannik_Sinner",
       "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
-      "description": "tennista italiano (2001-)",
+      "description": "Tennista italiano, il 4 aprile perde la finale del torneo di Miami contro Hubert Hurkacz.",
       "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Leonardo%20da%20Vinci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Leonardo_da_Vinci",
       "article_url": "https://it.wikipedia.org/wiki/Leonardo_da_Vinci",
-      "description": "scienziato, inventore e artista italiano (1452-1519)",
+      "description": "Artista e scienziato italiano, è protagonista della serie Leonardo, la cui seconda puntata va in onda il 30 marzo su Rai 1.",
       "image_filename": "Leonardo_self.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo_self.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_self.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Canale%20di%20Suez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Canale_di_Suez",
       "article_url": "https://it.wikipedia.org/wiki/Canale_di_Suez",
-      "description": "canale artificiale che taglia l'istmo omonimo, in territorio egiziano",
+      "description": "Il 29 marzo viene disincagliata la portacontainer Ever Given, che bloccava il canale egiziano dal 23 marzo.",
       "image_filename": "Eg-map.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Eg-map.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Eg-map.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=John%20Paul%20Getty%20III&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=John_Paul_Getty_III",
       "article_url": "https://it.wikipedia.org/wiki/John_Paul_Getty_III",
-      "description": "imprenditore statunitense (1956-2011)",
+      "description": "Nipote dell'imprenditore Jean Paul Getty, il suo rapimento ispira il film Tutti i soldi del mondo, in onda il 1º aprile.",
       "image_filename": "John_Paul_Getty_III.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/John_Paul_Getty_III.jpg/1024px-John_Paul_Getty_III.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:John_Paul_Getty_III.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Gian%20Galeazzo%20Maria%20Sforza&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Gian_Galeazzo_Maria_Sforza",
       "article_url": "https://it.wikipedia.org/wiki/Gian_Galeazzo_Maria_Sforza",
-      "description": "duca di Milano",
+      "description": "Duca di Milano, compare nella serie Leonardo, la cui seconda puntata va in onda il 30 marzo su Rai 1.",
       "image_filename": "Workshop_of_Benedetto_Briosco,_Gian_Galeazzo_Maria_Sforza,_Duke_of_Milan,_early_1490s,_NGA_128.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Workshop_of_Benedetto_Briosco%2C_Gian_Galeazzo_Maria_Sforza%2C_Duke_of_Milan%2C_early_1490s%2C_NGA_128.jpg/1280px-Workshop_of_Benedetto_Briosco%2C_Gian_Galeazzo_Maria_Sforza%2C_Duke_of_Milan%2C_early_1490s%2C_NGA_128.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Workshop_of_Benedetto_Briosco%2C_Gian_Galeazzo_Maria_Sforza%2C_Duke_of_Milan%2C_early_1490s%2C_NGA_128.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Leonardo%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Leonardo_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Leonardo_(serie_televisiva)",
-      "description": "serie televisiva italiana del 2021",
+      "description": "Il 30 marzo va in onda su Rai 1 la seconda puntata della serie su Leonardo da Vinci, con il terzo e il quarto episodio.",
       "image_filename": "Leonardo_(serie_televisiva).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1c/Leonardo_%28serie_televisiva%29.jpg/1280px-Leonardo_%28serie_televisiva%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_(serie_televisiva).jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Ludovico%20il%20Moro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Ludovico_il_Moro",
       "article_url": "https://it.wikipedia.org/wiki/Ludovico_il_Moro",
-      "description": "duca di Milano",
+      "description": "Duca di Milano e mecenate di Leonardo da Vinci, compare nella serie Leonardo, in onda il 30 marzo su Rai 1.",
       "image_filename": "Pala_Sforzesca_-_detail_01.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pala_Sforzesca_-_detail_01.jpg/1080px-Pala_Sforzesca_-_detail_01.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pala_Sforzesca_-_detail_01.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Pasqua&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Pasqua",
       "article_url": "https://it.wikipedia.org/wiki/Pasqua",
-      "description": "festività del cristianesimo",
+      "description": "La festa cristiana che celebra la resurrezione di Gesù cade il 4 aprile.",
       "image_filename": "Resurrezione_Piero_della_Francesca_post_restauro.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Resurrezione_Piero_della_Francesca_post_restauro.jpg/1016px-Resurrezione_Piero_della_Francesca_post_restauro.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Resurrezione_Piero_della_Francesca_post_restauro.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Un%20passo%20dal%20cielo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Un_passo_dal_cielo",
       "article_url": "https://it.wikipedia.org/wiki/Un_passo_dal_cielo",
-      "description": "serie televisiva italiana",
+      "description": "Il 1º aprile debutta su Rai 1 la sesta stagione della serie, intitolata I guardiani.",
       "image_filename": "Un_passo_dal_cielo4.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b8/Un_passo_dal_cielo4.png/1136px-Un_passo_dal_cielo4.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Un_passo_dal_cielo4.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Francesco%20Totti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Francesco_Totti",
       "article_url": "https://it.wikipedia.org/wiki/Francesco_Totti",
-      "description": "calciatore italiano (1976-)",
+      "description": "Ex capitano della Roma, è protagonista della serie Speravo de morì prima, i cui ultimi episodi vanno in onda il 2 aprile su Sky.",
       "image_filename": "Francesco_Totti_-_AS_Roma_1998-99.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1d/Francesco_Totti_-_AS_Roma_1998-99.jpg/1280px-Francesco_Totti_-_AS_Roma_1998-99.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesco_Totti_-_AS_Roma_1998-99.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Cavallo%20di%20Leonardo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Cavallo_di_Leonardo",
       "article_url": "https://it.wikipedia.org/wiki/Cavallo_di_Leonardo",
-      "description": "progetto di statua equestre",
+      "description": "Progetto di monumento equestre di Leonardo da Vinci, compare nella seconda puntata della serie Leonardo, il 30 marzo su Rai 1.",
       "image_filename": "Study_of_horse.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Study_of_horse.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Study_of_horse.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Il servizio pubblico radiotelevisivo è in classifica per la ventunesima settimana consecutiva, senza un picco di rilievo.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=LOL%3A%20Chi%20ride%20%C3%A8%20fuori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=LOL%3A_Chi_ride_%C3%A8_fuori",
       "article_url": "https://it.wikipedia.org/wiki/LOL%3A_Chi_ride_%C3%A8_fuori",
-      "description": "",
+      "description": "Il 1º aprile escono su Prime Video i primi quattro episodi della prima edizione dello show comico.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Scomparsa%20di%20Denise%20Pipitone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Scomparsa_di_Denise_Pipitone",
       "article_url": "https://it.wikipedia.org/wiki/Scomparsa_di_Denise_Pipitone",
-      "description": "",
+      "description": "La bambina scompare nel 2004 a Mazara del Vallo. Il 31 marzo Chi l'ha visto? parla del caso di Olesya Rostova, una giovane in Russia.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Processo%20di%20Norimberga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Processo_di_Norimberga",
       "article_url": "https://it.wikipedia.org/wiki/Processo_di_Norimberga",
-      "description": "insieme di procedimenti giudiziari",
+      "description": "Processi ai criminali nazisti dopo la Seconda guerra mondiale. Difficile stabilire il motivo del picco del 29 marzo.",
       "image_filename": "Defendants_in_the_dock_at_the_Nuremberg_Trials.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Defendants_in_the_dock_at_the_Nuremberg_Trials.jpg/1280px-Defendants_in_the_dock_at_the_Nuremberg_Trials.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Defendants_in_the_dock_at_the_Nuremberg_Trials.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Christian%20De%20Sica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Christian_De_Sica",
       "article_url": "https://it.wikipedia.org/wiki/Christian_De_Sica",
-      "description": "attore, regista, cantante, comico, sceneggiatore e conduttore televisivo italiano (1951-)",
+      "description": "Attore e comico italiano, il 3 aprile è protagonista dello spettacolo Una serata tra amici su Rai 1.",
       "image_filename": "Christian_De_Sica.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Christian_De_Sica.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Christian_De_Sica.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Pirati%20dei%20Caraibi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Pirati_dei_Caraibi",
       "article_url": "https://it.wikipedia.org/wiki/Pirati_dei_Caraibi",
-      "description": "serie di film",
+      "description": "Il 4 aprile va in onda su Italia 1 Oltre i confini del mare, quarto film della saga.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo durante la settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Caterina%20Guzzanti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Caterina_Guzzanti",
       "article_url": "https://it.wikipedia.org/wiki/Caterina_Guzzanti",
-      "description": "attrice, comica e imitatrice italiana (1976-)",
+      "description": "Attrice e comica italiana, partecipa a LOL: Chi ride è fuori, i cui primi episodi escono il 1º aprile su Prime Video.",
       "image_filename": "Caterina_Guzzanti.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Caterina_Guzzanti.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Caterina_Guzzanti.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Vera%20Gemma&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Vera_Gemma",
       "article_url": "https://it.wikipedia.org/wiki/Vera_Gemma",
-      "description": "attrice italiana (1970-)",
+      "description": "Attrice italiana, il 29 marzo viene eliminata dal gruppo principale dell'Isola dei famosi su Canale 5 e resta in gioco su Parasite Island.",
       "image_filename": "Vera_Gemma_-_2025.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vera_Gemma_-_2025.jpg/1280px-Vera_Gemma_-_2025.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vera_Gemma_-_2025.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Sergio%20Ag%C3%BCero&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Sergio_Ag%C3%BCero",
       "article_url": "https://it.wikipedia.org/wiki/Sergio_Ag%C3%BCero",
-      "description": "calciatore argentino (1988-)",
+      "description": "Attaccante argentino del Manchester City, il 29 marzo annuncia che lascerà il club a fine stagione.",
       "image_filename": "Agüero_in_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ag%C3%BCero_in_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ag%C3%BCero_in_2018.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Alessandra%20Celentano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Alessandra_Celentano",
       "article_url": "https://it.wikipedia.org/wiki/Alessandra_Celentano",
-      "description": "coreografa ed ex ballerina italiana",
+      "description": "Coreografa e insegnante di danza, partecipa al serale di Amici, in onda il 3 aprile su Canale 5.",
       "image_filename": "Alessandra_Celentano_nel_1996.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alessandra_Celentano_nel_1996.jpg/1080px-Alessandra_Celentano_nel_1996.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alessandra_Celentano_nel_1996.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Ben-Hur%20%28film%201959%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Ben-Hur_(film_1959)",
       "article_url": "https://it.wikipedia.org/wiki/Ben-Hur_(film_1959)",
-      "description": "film del 1959 diretto da William Wyler",
+      "description": "Film del 1959 diretto da William Wyler, va in onda in televisione il 3 aprile, alla vigilia di Pasqua.",
       "image_filename": "Ben_hur_1959_poster.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ben_hur_1959_poster.jpg/1280px-Ben_hur_1959_poster.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ben_hur_1959_poster.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Vittorio%20De%20Sica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=Vittorio_De_Sica",
       "article_url": "https://it.wikipedia.org/wiki/Vittorio_De_Sica",
-      "description": "attore e regista italiano (1901-1974)",
+      "description": "Attore e regista italiano, è ricordato dal figlio Christian nello spettacolo Una serata tra amici, il 3 aprile su Rai 1.",
       "image_filename": "Vittorio_De_Sica_(1962).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vittorio_De_Sica_%281962%29.jpg/1280px-Vittorio_De_Sica_%281962%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vittorio_De_Sica_(1962).jpg",
       "image_license": "CC BY-SA 3.0 nl",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=M%C3%A0kari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/29/2021,cd_max:04/04/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-29&end=2021-04-04&pages=M%C3%A0kari",
       "article_url": "https://it.wikipedia.org/wiki/M%C3%A0kari",
-      "description": "miniserie televisiva italiana del 2021",
+      "description": "Il 29 marzo va in onda su Rai 1 la quarta e ultima puntata della prima stagione, con Claudio Gioè.",
       "image_filename": "Màkari.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/M%C3%A0kari.jpg/1280px-M%C3%A0kari.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:M%C3%A0kari.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

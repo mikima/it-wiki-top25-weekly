@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=M%C3%A5neskin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=M%C3%A5neskin",
       "article_url": "https://it.wikipedia.org/wiki/M%C3%A5neskin",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo rock italiano, vince il Festival di Sanremo nella notte del 7 marzo con Zitti e buoni.",
       "image_filename": "Maneskin_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Maneskin_2018.jpg/1280px-Maneskin_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maneskin_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo%202021&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Festival_di_Sanremo_2021",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo_2021",
-      "description": "71º Festival della canzone italiana",
+      "description": "La 71ª edizione va in onda su Rai 1 dal 2 al 6 marzo, con la conduzione di Amadeus; vincono i Måneskin.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Zlatan%20Ibrahimovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Zlatan_Ibrahimovi%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87",
-      "description": "dirigente sportivo e calciatore svedese (1981-)",
+      "description": "Calciatore svedese del Milan, è ospite fisso del Festival di Sanremo, in onda su Rai 1 dal 2 al 6 marzo.",
       "image_filename": "Zlatan_Ibrahimović_June_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Matilda%20De%20Angelis&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Matilda_De_Angelis",
       "article_url": "https://it.wikipedia.org/wiki/Matilda_De_Angelis",
-      "description": "attrice italiana (1995-)",
+      "description": "Attrice italiana, affianca Amadeus nella prima serata del Festival di Sanremo, il 2 marzo su Rai 1.",
       "image_filename": "Matilda_De_Angelis-7948.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matilda_De_Angelis-7948.jpg/1280px-Matilda_De_Angelis-7948.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matilda_De_Angelis-7948.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Festival_di_Sanremo",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo",
-      "description": "festival musicale della canzone italiana",
+      "description": "La 71ª edizione va in onda su Rai 1 dal 2 al 6 marzo; vincono i Måneskin con Zitti e buoni.",
       "image_filename": "Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Festival_di_Sanremo_16_febbraio_2013.JPG/1280px-Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Elodie%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Elodie_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Elodie_(cantante)",
-      "description": "",
+      "description": "Cantante italiana, affianca Amadeus nella seconda serata del Festival di Sanremo, il 3 marzo su Rai 1.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Madame%20%28rapper%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Madame_(rapper)",
       "article_url": "https://it.wikipedia.org/wiki/Madame_(rapper)",
-      "description": "",
+      "description": "Rapper e cantautrice italiana, partecipa al Festival di Sanremo dal 2 al 6 marzo con il brano Voce.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Achille%20Lauro%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Achille_Lauro_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Achille_Lauro_(cantante)",
-      "description": "cantautore e rapper italiano (1990-)",
+      "description": "Cantautore italiano, è ospite fisso del Festival di Sanremo, in onda su Rai 1 dal 2 al 6 marzo.",
       "image_filename": "Achille_Lauro_(Feb_2025).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Achille_Lauro_%28Feb_2025%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Achille_Lauro_(Feb_2025).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20Rappresentante%20di%20Lista&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=La_Rappresentante_di_Lista",
       "article_url": "https://it.wikipedia.org/wiki/La_Rappresentante_di_Lista",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale italiano, partecipa al Festival di Sanremo dal 2 al 6 marzo con il brano Amare.",
       "image_filename": "La_Rappresentante_di_Lista_Sherwood.it_2025.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/La_Rappresentante_di_Lista_Sherwood.it_2025.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_Rappresentante_di_Lista_Sherwood.it_2025.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Ermal%20Meta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Ermal_Meta",
       "article_url": "https://it.wikipedia.org/wiki/Ermal_Meta",
-      "description": "cantautore, compositore e polistrumentista italiano (1981-)",
+      "description": "Cantautore albanese naturalizzato italiano, è in gara a Sanremo con Un milione di cose da dirti e vince la serata delle cover il 4 marzo.",
       "image_filename": "Ermal_Meta_2022.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ermal_Meta_2022.jpg/1280px-Ermal_Meta_2022.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ermal_Meta_2022.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Ornella%20Vanoni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Ornella_Vanoni",
       "article_url": "https://it.wikipedia.org/wiki/Ornella_Vanoni",
-      "description": "cantante, attrice e conduttrice televisiva italiana (1934-2025)",
+      "description": "Cantante italiana, è ospite della finale del Festival di Sanremo il 6 marzo su Rai 1.",
       "image_filename": "Ornella_Vanoni_1960s.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ornella_Vanoni_1960s.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ornella_Vanoni_1960s.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Amadeus%20%28conduttore%20televisivo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Amadeus_(conduttore_televisivo)",
       "article_url": "https://it.wikipedia.org/wiki/Amadeus_(conduttore_televisivo)",
-      "description": "conduttore televisivo, conduttore radiofonico, showman e disc jockey italiano (1962-)",
+      "description": "Conduttore televisivo italiano, presenta il Festival di Sanremo su Rai 1 dal 2 al 6 marzo, affiancato da Fiorello.",
       "image_filename": "Amadeus_2023.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Amadeus_2023.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amadeus_2023.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Orietta%20Berti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Orietta_Berti",
       "article_url": "https://it.wikipedia.org/wiki/Orietta_Berti",
-      "description": "cantante e personaggio televisivo italiana (1943-)",
+      "description": "Cantante italiana, partecipa al Festival di Sanremo dal 2 al 6 marzo con Quando ti sei innamorato.",
       "image_filename": "Orietta_Berti_-_SWING_-_2008.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Orietta_Berti_-_SWING_-_2008.jpg/1280px-Orietta_Berti_-_SWING_-_2008.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Orietta_Berti_-_SWING_-_2008.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Coma%20Cose&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Coma_Cose",
       "article_url": "https://it.wikipedia.org/wiki/Coma_Cose",
-      "description": "duo musicale indie pop italiano",
+      "description": "Duo musicale italiano, partecipa al Festival di Sanremo dal 2 al 6 marzo con Fiamme negli occhi.",
       "image_filename": "Coma_Cose_(Feb_2025)_(cropped).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coma_Cose_%28Feb_2025%29_%28cropped%29.png/1192px-Coma_Cose_%28Feb_2025%29_%28cropped%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coma_Cose_(Feb_2025)_(cropped).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Malika%20Ayane&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Malika_Ayane",
       "article_url": "https://it.wikipedia.org/wiki/Malika_Ayane",
-      "description": "cantautrice italiana (1984-)",
+      "description": "Cantautrice italiana, partecipa al Festival di Sanremo dal 2 al 6 marzo con Ti piaci così.",
       "image_filename": "Malika_Ayane_Funweek.it_2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Malika_Ayane_Funweek.it_2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Malika_Ayane_Funweek.it_2024.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Willie%20Peyote&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Willie_Peyote",
       "article_url": "https://it.wikipedia.org/wiki/Willie_Peyote",
-      "description": "rapper e cantautore italiano (1985-)",
+      "description": "Rapper e cantautore italiano, partecipa al Festival di Sanremo dal 2 al 6 marzo con Mai dire mai (la locura).",
       "image_filename": "Willie_Peyote_Radio_Bruno_2021.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Willie_Peyote_Radio_Bruno_2021.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Willie_Peyote_Radio_Bruno_2021.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Il servizio pubblico radiotelevisivo trasmette su Rai 1 il Festival di Sanremo dal 2 al 6 marzo; è in classifica da 17 settimane.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Claudio%20Coccoluto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Claudio_Coccoluto",
       "article_url": "https://it.wikipedia.org/wiki/Claudio_Coccoluto",
-      "description": "disc jockey italiano (1962-2021)",
+      "description": "Disc jockey italiano noto anche all'estero, muore il 2 marzo a 58 anni dopo una lunga malattia.",
       "image_filename": "Claudio_Coccoluto_@_Presentazione_Portale_della_canzone_italiana,_2018_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Claudio_Coccoluto_%40_Presentazione_Portale_della_canzone_italiana%2C_2018_%28cropped%29.jpg/1280px-Claudio_Coccoluto_%40_Presentazione_Portale_della_canzone_italiana%2C_2018_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Claudio_Coccoluto_%40_Presentazione_Portale_della_canzone_italiana%2C_2018_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Fiorello&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Fiorello",
       "article_url": "https://it.wikipedia.org/wiki/Fiorello",
-      "description": "showman, comico, cabarettista, imitatore, cantante, conduttore radiofonico, conduttore televisivo e attore italiano (1960-)",
+      "description": "Showman italiano, affianca Amadeus al Festival di Sanremo, in onda su Rai 1 dal 2 al 6 marzo.",
       "image_filename": "Fiorello_byRobertoVicario_(cropped).JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Fiorello_byRobertoVicario_%28cropped%29.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fiorello_byRobertoVicario_(cropped).JPG",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Annalisa%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Annalisa_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Annalisa_(cantante)",
-      "description": "cantautrice italiana (1985-)",
+      "description": "Cantautrice italiana, è in gara a Sanremo con Dieci e il 4 marzo interpreta La musica è finita di Ornella Vanoni.",
       "image_filename": "Logo_Annalisa.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_Annalisa.svg/1280px-Logo_Annalisa.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Annalisa.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Aiello%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Aiello_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Aiello_(cantante)",
-      "description": "cantautore italiano (1985-)",
+      "description": "Cantautore italiano, debutta al Festival di Sanremo il 2 marzo con il brano Ora.",
       "image_filename": "Aiello_RadioBruno_Sanremo_2021.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Aiello_RadioBruno_Sanremo_2021.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Aiello_RadioBruno_Sanremo_2021.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Festival_di_Sanremo_2020",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo_2020",
-      "description": "70º Festival della canzone italiana",
+      "description": "Edizione vinta da Diodato e condotta da Amadeus. Il picco è probabilmente legato al Festival di Sanremo 2021, in onda dal 2 al 6 marzo.",
       "image_filename": "Festival_di_Sanremo_2020_logo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a9/Festival_di_Sanremo_2020_logo.jpg/1280px-Festival_di_Sanremo_2020_logo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_2020_logo.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Bugo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Bugo",
       "article_url": "https://it.wikipedia.org/wiki/Bugo",
-      "description": "cantautore e musicista italiano (1973-)",
+      "description": "Cantautore italiano, partecipa al Festival di Sanremo dal 2 al 6 marzo con E invece sì.",
       "image_filename": "Bugo_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bugo_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bugo_2018.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Noemi%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Noemi_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Noemi_(cantante)",
-      "description": "cantante italiana (1982-)",
+      "description": "Cantautrice italiana, partecipa al Festival di Sanremo dal 2 al 6 marzo con Glicine.",
       "image_filename": "Noemi-25.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Noemi-25.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Noemi-25.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Sini%C5%A1a%20Mihajlovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/01/2021,cd_max:03/07/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-01&end=2021-03-07&pages=Sini%C5%A1a_Mihajlovi%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Sini%C5%A1a_Mihajlovi%C4%87",
-      "description": "calciatore e allenatore di calcio serbo con cittadinanza italiana (1969-2022)",
+      "description": "Allenatore serbo del Bologna, il 4 marzo è ospite del Festival di Sanremo insieme a Zlatan Ibrahimović.",
       "image_filename": "Sinisa_Mihajlovic,_Sampdoria_1994-95.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Sinisa_Mihajlovic%2C_Sampdoria_1994-95.jpg/1084px-Sinisa_Mihajlovic%2C_Sampdoria_1994-95.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sinisa_Mihajlovic%2C_Sampdoria_1994-95.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

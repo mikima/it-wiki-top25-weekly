@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Spider-Man%3A%20No%20Way%20Home&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Spider-Man%3A_No_Way_Home",
       "article_url": "https://it.wikipedia.org/wiki/Spider-Man%3A_No_Way_Home",
-      "description": "film del 2021 diretto da Jon Watts",
+      "description": "Film di Jon Watts con Tom Holland e Zendaya, esce nelle sale italiane il 15 dicembre.",
       "image_filename": "Spider-Man.NoWayHome.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a2/Spider-Man.NoWayHome.png/1280px-Spider-Man.NoWayHome.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Spider-Man.NoWayHome.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Don%27t%20Look%20Up&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Don%27t_Look_Up",
       "article_url": "https://it.wikipedia.org/wiki/Don%27t_Look_Up",
-      "description": "film del 2021 diretto da Adam McKay",
+      "description": "Film di Adam McKay con Leonardo DiCaprio e Jennifer Lawrence, esce su Netflix il 24 dicembre.",
       "image_filename": "DontLookUpimmagine.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/22/DontLookUpimmagine.png/1280px-DontLookUpimmagine.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:DontLookUpimmagine.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Paolo%20Sorrentino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Paolo_Sorrentino",
       "article_url": "https://it.wikipedia.org/wiki/Paolo_Sorrentino",
-      "description": "regista italiano (1970-)",
+      "description": "Regista italiano, il 15 dicembre esce su Netflix il suo film È stata la mano di Dio.",
       "image_filename": "Paolo_Sorrentino_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paolo_Sorrentino_2018.jpg/1280px-Paolo_Sorrentino_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paolo_Sorrentino_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=%C3%88%20stata%20la%20mano%20di%20Dio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=%C3%88_stata_la_mano_di_Dio",
       "article_url": "https://it.wikipedia.org/wiki/%C3%88_stata_la_mano_di_Dio",
-      "description": "film del 2021 diretto da Paolo Sorrentino",
+      "description": "Film di Paolo Sorrentino, esce su Netflix il 15 dicembre.",
       "image_filename": "È_stata_la_mano_di_Dio_screenshot.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a8/%C3%88_stata_la_mano_di_Dio_screenshot.jpg/1280px-%C3%88_stata_la_mano_di_Dio_screenshot.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:%C3%88_stata_la_mano_di_Dio_screenshot.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Una%20poltrona%20per%20due&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Una_poltrona_per_due",
       "article_url": "https://it.wikipedia.org/wiki/Una_poltrona_per_due",
-      "description": "film del 1983 diretto da John Landis",
+      "description": "Film del 1983 diretto da John Landis, va in onda su Italia 1 la vigilia di Natale, il 24 dicembre.",
       "image_filename": "Una_poltrona_per_due.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/2/2f/Una_poltrona_per_due.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Una_poltrona_per_due.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Witcher%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=The_Witcher_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Witcher_(serie_televisiva)",
-      "description": "serie televisiva polacco-statunitense del 2019",
+      "description": "Il 17 dicembre esce su Netflix la seconda stagione della serie con Henry Cavill.",
       "image_filename": "The_Witcher_serie_TV.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8a/The_Witcher_serie_TV.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Witcher_serie_TV.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Encanto%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Encanto_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Encanto_(film)",
-      "description": "film d'animazione del 2021 diretto da Jared Bush e Byron Howard",
+      "description": "Film d'animazione Disney diretto da Byron Howard e Jared Bush, esce su Disney+ il 24 dicembre.",
       "image_filename": "EncantoDisney.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/61/EncantoDisney.png/1280px-EncantoDisney.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:EncantoDisney.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Tom%20Holland%20%28attore%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Tom_Holland_(attore)",
       "article_url": "https://it.wikipedia.org/wiki/Tom_Holland_(attore)",
-      "description": "attore britannico",
+      "description": "Attore britannico, interpreta Spider-Man in Spider-Man: No Way Home, al cinema dal 15 dicembre.",
       "image_filename": "Tom_Holland_by_Gage_Skidmore.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tom_Holland_by_Gage_Skidmore.jpg/1280px-Tom_Holland_by_Gage_Skidmore.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tom_Holland_by_Gage_Skidmore.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Zendaya&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Zendaya",
       "article_url": "https://it.wikipedia.org/wiki/Zendaya",
-      "description": "attrice e cantante statunitense",
+      "description": "Attrice statunitense, recita con Tom Holland in Spider-Man: No Way Home, al cinema dal 15 dicembre.",
       "image_filename": "Zendaya_-_2019_by_Glenn_Francis.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg/1280px-Zendaya_-_2019_by_Glenn_Francis.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zendaya_-_2019_by_Glenn_Francis.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Blanca%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Blanca_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Blanca_(serie_televisiva)",
-      "description": "serie televisiva italiana",
+      "description": "Il 21 dicembre va in onda su Rai 1 l'ultima puntata della prima stagione, con Maria Chiara Giannetta.",
       "image_filename": "Blanca_(serie_televisiva).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/87/Blanca_%28serie_televisiva%29.png/1280px-Blanca_%28serie_televisiva%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Blanca_(serie_televisiva).png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Pinocchio%20%28film%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Pinocchio_(film_2019)",
       "article_url": "https://it.wikipedia.org/wiki/Pinocchio_(film_2019)",
-      "description": "film del 2019 diretto da Matteo Garrone",
+      "description": "Film del 2019 diretto da Matteo Garrone, va in onda su Rai 1 il 22 dicembre.",
       "image_filename": "Pinocchio.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f5/Pinocchio.png/1280px-Pinocchio.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pinocchio.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Andrew%20Garfield&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Andrew_Garfield",
       "article_url": "https://it.wikipedia.org/wiki/Andrew_Garfield",
-      "description": "attore britannico",
+      "description": "Attore statunitense e britannico, torna a interpretare Spider-Man in Spider-Man: No Way Home, al cinema dal 15 dicembre.",
       "image_filename": "Andrew_Garfield_82nd_Venice_Film_Festival_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Andrew_Garfield_82nd_Venice_Film_Festival_%28cropped%29.jpg/1257px-Andrew_Garfield_82nd_Venice_Film_Festival_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Andrew_Garfield_82nd_Venice_Film_Festival_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Tobey%20Maguire&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Tobey_Maguire",
       "article_url": "https://it.wikipedia.org/wiki/Tobey_Maguire",
-      "description": "attore e produttore cinematografico statunitense (1975-)",
+      "description": "Attore statunitense, torna a interpretare Spider-Man in Spider-Man: No Way Home, al cinema dal 15 dicembre.",
       "image_filename": "Tobey_Maguire_2014.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Tobey_Maguire_2014.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tobey_Maguire_2014.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Mare%20fuori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Mare_fuori",
       "article_url": "https://it.wikipedia.org/wiki/Mare_fuori",
-      "description": "serie televisiva italiana del 2020",
+      "description": "Il 22 dicembre vanno in onda su Rai 2 gli ultimi due episodi della seconda stagione.",
       "image_filename": "Mare_fuori.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d5/Mare_fuori.png/1280px-Mare_fuori.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mare_fuori.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Patrizia%20Reggiani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Patrizia_Reggiani",
       "article_url": "https://it.wikipedia.org/wiki/Patrizia_Reggiani",
-      "description": "socialite e criminale italiana (1948-)",
+      "description": "Condannata come mandante dell'omicidio dell'ex marito Maurizio Gucci, è interpretata da Lady Gaga in House of Gucci, al cinema dal 16 dicembre.",
       "image_filename": "Patrizia_Reggiani_matrimonio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Patrizia_Reggiani_matrimonio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Patrizia_Reggiani_matrimonio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Marvel%20Cinematic%20Universe&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Marvel_Cinematic_Universe",
       "article_url": "https://it.wikipedia.org/wiki/Marvel_Cinematic_Universe",
-      "description": "media franchise cinematografico",
+      "description": "Universo narrativo dei film e delle serie Marvel, comprende Spider-Man: No Way Home, al cinema dal 15 dicembre, e Hawkeye, conclusa il 22 su Disney+.",
       "image_filename": "Marvel_Cinematic_Universe_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Marvel_Cinematic_Universe_logo.png/1280px-Marvel_Cinematic_Universe_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marvel_Cinematic_Universe_logo.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Hawkeye%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Hawkeye_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Hawkeye_(serie_televisiva)",
-      "description": "",
+      "description": "Il 22 dicembre esce su Disney+ il sesto e ultimo episodio della serie Marvel.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Via%20col%20vento&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Via_col_vento",
       "article_url": "https://it.wikipedia.org/wiki/Via_col_vento",
-      "description": "film del 1939 diretto da Victor Fleming",
+      "description": "Film del 1939 diretto da Victor Fleming, va in onda su Rete 4 il 25 dicembre.",
       "image_filename": "Poster_-_Gone_With_the_Wind_01.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Poster_-_Gone_With_the_Wind_01.jpg/1280px-Poster_-_Gone_With_the_Wind_01.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Poster_-_Gone_With_the_Wind_01.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Telescopio%20spaziale%20James%20Webb&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Telescopio_spaziale_James_Webb",
       "article_url": "https://it.wikipedia.org/wiki/Telescopio_spaziale_James_Webb",
-      "description": "telescopio orbitante a infrarossi",
+      "description": "Telescopio spaziale a infrarossi, viene lanciato il 25 dicembre da Kourou, nella Guiana francese.",
       "image_filename": "JWST_decal.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/JWST_decal.svg/1280px-JWST_decal.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:JWST_decal.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20casa%20di%20carta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=La_casa_di_carta",
       "article_url": "https://it.wikipedia.org/wiki/La_casa_di_carta",
-      "description": "serie televisiva spagnola (2017-2021)",
+      "description": "Il 3 dicembre escono su Netflix gli ultimi cinque episodi della serie spagnola, in classifica per la quarta settimana consecutiva.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Maurizio%20Gucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Maurizio_Gucci",
       "article_url": "https://it.wikipedia.org/wiki/Maurizio_Gucci",
-      "description": "imprenditore italiano (1948-1995)",
+      "description": "Imprenditore italiano ucciso nel 1995, è tra i protagonisti di House of Gucci, al cinema dal 16 dicembre.",
       "image_filename": "Maurizio_Gucci_matrimonio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Maurizio_Gucci_matrimonio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maurizio_Gucci_matrimonio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Gomorra%20-%20La%20serie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Gomorra_-_La_serie",
       "article_url": "https://it.wikipedia.org/wiki/Gomorra_-_La_serie",
-      "description": "serie televisiva italiana (2014-2021)",
+      "description": "Il 17 dicembre vanno in onda su Sky Atlantic gli ultimi due episodi della quinta e ultima stagione.",
       "image_filename": "Gomorra_La_serie.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/85/Gomorra_La_serie.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gomorra_La_serie.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=House%20of%20Gucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=House_of_Gucci",
       "article_url": "https://it.wikipedia.org/wiki/House_of_Gucci",
-      "description": "film del 2021 diretto da Ridley Scott",
+      "description": "Film di Ridley Scott con Lady Gaga, esce nelle sale italiane il 16 dicembre.",
       "image_filename": "Ridley_Scott_-_House_of_Gucci.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/7a/Ridley_Scott_-_House_of_Gucci.png/1280px-Ridley_Scott_-_House_of_Gucci.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ridley_Scott_-_House_of_Gucci.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Freddie%20Mercury&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Freddie_Mercury",
       "article_url": "https://it.wikipedia.org/wiki/Freddie_Mercury",
-      "description": "cantautore e compositore britannico (1946-1991)",
+      "description": "Cantante britannico e frontman dei Queen, morto nel 1991; non emerge un motivo preciso per il picco di visite.",
       "image_filename": "Freddie_Mercury_a_Sanremo_1984_(colori).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/9/9b/Freddie_Mercury_a_Sanremo_1984_%28colori%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_a_Sanremo_1984_(colori).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Vaccino%20anti%20COVID-19%20Novavax&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/20/2021,cd_max:12/26/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-12-20&end=2021-12-26&pages=Vaccino_anti_COVID-19_Novavax",
       "article_url": "https://it.wikipedia.org/wiki/Vaccino_anti_COVID-19_Novavax",
-      "description": "vaccino anti COVID-19",
+      "description": "Vaccino anti COVID-19 a base proteica, il 20 dicembre riceve il via libera dell'Agenzia europea per i medicinali.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

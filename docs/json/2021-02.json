@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Mario%20Mand%C5%BEuki%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Mario_Mand%C5%BEuki%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Mario_Mand%C5%BEuki%C4%87",
-      "description": "calciatore croato",
+      "description": "Attaccante croato ed ex Juventus, il 17 gennaio raggiunge un'intesa con il Milan e arriva in città.",
       "image_filename": "Mario_Mandžukić_in_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mario_Mand%C5%BEuki%C4%87_in_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mario_Mand%C5%BEuki%C4%87_in_2018.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Bridgerton&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Bridgerton",
       "article_url": "https://it.wikipedia.org/wiki/Bridgerton",
-      "description": "serie televisiva statunitense del 2020",
+      "description": "Serie in costume statunitense, debutta su Netflix il 25 dicembre 2020 ed è in classifica per la quarta settimana consecutiva.",
       "image_filename": "Bridgerton.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Bridgerton.png/1280px-Bridgerton.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bridgerton.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=James%20Naismith&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=James_Naismith",
       "article_url": "https://it.wikipedia.org/wiki/James_Naismith",
-      "description": "insegnante, allenatore di pallacanestro e inventore di nazionalità canadese",
+      "description": "Insegnante canadese e inventore della pallacanestro, il 15 gennaio viene celebrato con un Doodle di Google.",
       "image_filename": "James_Naismith_at_Springfield_College_circa_1920.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/James_Naismith_at_Springfield_College_circa_1920.jpg/1080px-James_Naismith_at_Springfield_College_circa_1920.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:James_Naismith_at_Springfield_College_circa_1920.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Mina%20Settembre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Mina_Settembre",
       "article_url": "https://it.wikipedia.org/wiki/Mina_Settembre",
-      "description": "serie televisiva italiana del 2021",
+      "description": "La serie italiana con Serena Rossi debutta il 17 gennaio su Rai 1.",
       "image_filename": "Mina_Settembre.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a9/Mina_Settembre.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mina_Settembre.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Clemente%20Mastella&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Clemente_Mastella",
       "article_url": "https://it.wikipedia.org/wiki/Clemente_Mastella",
-      "description": "politico italiano (1947-)",
+      "description": "Sindaco di Benevento, il 13 gennaio sua moglie Sandra Lonardo è indicata fra i possibili sostenitori del governo Conte in crisi.",
       "image_filename": "Clemente_Mastella_2020.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Clemente_Mastella_2020.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Clemente_Mastella_2020.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Io%20sono%20leggenda%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Io_sono_leggenda_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Io_sono_leggenda_(film)",
-      "description": "film del 2007 diretto da Francis Lawrence",
+      "description": "Film del 2007 diretto da Francis Lawrence e interpretato da Will Smith. Il motivo delle visite non è chiaro.",
       "image_filename": "Io_sono_leggenda_(film).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/03/Io_sono_leggenda_%28film%29.png/1280px-Io_sono_leggenda_%28film%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Io_sono_leggenda_(film).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Lupin%20%28serie%20televisiva%202021%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Lupin_(serie_televisiva_2021)",
       "article_url": "https://it.wikipedia.org/wiki/Lupin_(serie_televisiva_2021)",
-      "description": "serie televisiva francese del 2021",
+      "description": "Serie francese con Omar Sy ispirata ad Arsenio Lupin, debutta su Netflix l'8 gennaio.",
       "image_filename": "Lupin_logo_serieTV.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/91/Lupin_logo_serieTV.jpg/1080px-Lupin_logo_serieTV.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lupin_logo_serieTV.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Padrenostro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Padrenostro",
       "article_url": "https://it.wikipedia.org/wiki/Padrenostro",
-      "description": "film del 2020 diretto da Claudio Noce",
+      "description": "Film del 2020 diretto da Claudio Noce, va in onda il 16 gennaio in prima TV su Sky Cinema Due.",
       "image_filename": "Padrenostro_film.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8e/Padrenostro_film.png/1280px-Padrenostro_film.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Padrenostro_film.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=WandaVision&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=WandaVision",
       "article_url": "https://it.wikipedia.org/wiki/WandaVision",
-      "description": "miniserie televisiva statunitense del 2021",
+      "description": "Il 15 gennaio escono su Disney+ i primi due episodi della miniserie Marvel.",
       "image_filename": "WandaVisionLogo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d5/WandaVisionLogo.png/1280px-WandaVisionLogo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:WandaVisionLogo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Servizio pubblico radiotelevisivo italiano, senza picchi di rilievo nella settimana.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Matilda%20De%20Angelis&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Matilda_De_Angelis",
       "article_url": "https://it.wikipedia.org/wiki/Matilda_De_Angelis",
-      "description": "attrice italiana (1995-)",
+      "description": "Attrice italiana, recita nella miniserie The Undoing - Le verità non dette, in onda su Sky dall'8 gennaio.",
       "image_filename": "Matilda_De_Angelis-7948.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matilda_De_Angelis-7948.jpg/1280px-Matilda_De_Angelis-7948.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matilda_De_Angelis-7948.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Matteo%20Renzi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Matteo_Renzi",
       "article_url": "https://it.wikipedia.org/wiki/Matteo_Renzi",
-      "description": "politico italiano (1975-)",
+      "description": "Leader di Italia Viva, il 13 gennaio annuncia le dimissioni delle ministre del suo partito dal governo Conte.",
       "image_filename": "Matteo_Renzi_2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Matteo_Renzi_2.jpg/1280px-Matteo_Renzi_2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Renzi_2.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Can%20Yaman&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Can_Yaman",
       "article_url": "https://it.wikipedia.org/wiki/Can_Yaman",
-      "description": "attore e modello turco (1989-)",
+      "description": "Attore turco, l'11 gennaio alcune fan si radunano sotto il suo albergo a Roma; il 12 escono notizie sul suo rapporto con Diletta Leotta.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Vincenzo%20Muccioli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Vincenzo_Muccioli",
       "article_url": "https://it.wikipedia.org/wiki/Vincenzo_Muccioli",
-      "description": "imprenditore italiano (1934-1995)",
+      "description": "Fondatore della comunità di San Patrignano, è raccontato nella docuserie SanPa, su Netflix dal 30 dicembre 2020.",
       "image_filename": "Vincenzo_Muccioli.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Vincenzo_Muccioli.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vincenzo_Muccioli.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Giuseppe%20Conte&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Giuseppe_Conte",
       "article_url": "https://it.wikipedia.org/wiki/Giuseppe_Conte",
-      "description": "politico e avvocato italiano (1964-)",
+      "description": "Presidente del Consiglio, affronta la crisi aperta il 13 gennaio dalle dimissioni delle ministre di Italia Viva.",
       "image_filename": "Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Giuseppe_Conte_-_Quirinale_2022_%28cropped2%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte_-_Quirinale_2022_(cropped2).jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Undoing%20-%20Le%20verit%C3%A0%20non%20dette&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=The_Undoing_-_Le_verit%C3%A0_non_dette",
       "article_url": "https://it.wikipedia.org/wiki/The_Undoing_-_Le_verit%C3%A0_non_dette",
-      "description": "miniserie televisiva statunitense del 2020",
+      "description": "La miniserie con Nicole Kidman, Hugh Grant e Matilda De Angelis debutta su Sky l'8 gennaio.",
       "image_filename": "The_Undoing.jpeg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a9/The_Undoing.jpeg/1280px-The_Undoing.jpeg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Undoing.jpeg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Soualiho%20Me%C3%AFt%C3%A9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Soualiho_Me%C3%AFt%C3%A9",
       "article_url": "https://it.wikipedia.org/wiki/Soualiho_Me%C3%AFt%C3%A9",
-      "description": "calciatore francese (1994-)",
+      "description": "Centrocampista francese, il 15 gennaio il Milan annuncia il suo arrivo dal Torino.",
       "image_filename": "U-19_EC-Qualifikation_Austria_vs._France_2013-06-10_(117).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/U-19_EC-Qualifikation_Austria_vs._France_2013-06-10_%28117%29.jpg/1200px-U-19_EC-Qualifikation_Austria_vs._France_2013-06-10_%28117%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:U-19_EC-Qualifikation_Austria_vs._France_2013-06-10_(117).jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Che%20Dio%20ci%20aiuti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Che_Dio_ci_aiuti",
       "article_url": "https://it.wikipedia.org/wiki/Che_Dio_ci_aiuti",
-      "description": "serie televisiva italiana del 2011",
+      "description": "Il 14 gennaio va in onda su Rai 1 la terza puntata della sesta stagione.",
       "image_filename": "Che_Dio_ci_Aiuti_8.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3c/Che_Dio_ci_Aiuti_8.png/1280px-Che_Dio_ci_Aiuti_8.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Che_Dio_ci_Aiuti_8.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, il 9 gennaio viene vaccinata contro la COVID-19. È in classifica per la decima settimana consecutiva.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Made%20in%20Italy%20%28serie%20televisiva%202019%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Made_in_Italy_(serie_televisiva_2019)",
       "article_url": "https://it.wikipedia.org/wiki/Made_in_Italy_(serie_televisiva_2019)",
-      "description": "",
+      "description": "La serie italiana sulla moda debutta in chiaro il 13 gennaio su Canale 5, dopo l'uscita su Prime Video nel 2019.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Teresa%20Bellanova&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Teresa_Bellanova",
       "article_url": "https://it.wikipedia.org/wiki/Teresa_Bellanova",
-      "description": "politica italiana (1958-)",
+      "description": "Ministra delle Politiche agricole di Italia Viva, il 13 gennaio si dimette dal governo Conte insieme a Elena Bonetti.",
       "image_filename": "Teresa_Bellanova_datisenato_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Teresa_Bellanova_datisenato_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Teresa_Bellanova_datisenato_2018.jpg",
       "image_license": "CC BY 3.0 it",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Eddie%20Edwards%20%28sciatore%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Eddie_Edwards_(sciatore)",
       "article_url": "https://it.wikipedia.org/wiki/Eddie_Edwards_(sciatore)",
-      "description": "saltatore con gli sci britannico (1963)",
+      "description": "Ex saltatore con gli sci britannico, la sua storia ispira il film Eddie the Eagle. Il motivo del picco non è chiaro.",
       "image_filename": "Eddie_\"The_Eagle\"_Edwards_in_Calgary_2017-03-05_(crop).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eddie_%22The_Eagle%22_Edwards_in_Calgary_2017-03-05_%28crop%29.jpg/1280px-Eddie_%22The_Eagle%22_Edwards_in_Calgary_2017-03-05_%28crop%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Eddie_%22The_Eagle%22_Edwards_in_Calgary_2017-03-05_(crop).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia%20Viva&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Italia_Viva",
       "article_url": "https://it.wikipedia.org/wiki/Italia_Viva",
-      "description": "partito politico italiano",
+      "description": "Il partito di Matteo Renzi esce dal governo Conte il 13 gennaio, con le dimissioni delle ministre Bellanova e Bonetti.",
       "image_filename": "Italia_Viva_logo_elettorale.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/9d/Italia_Viva_logo_elettorale.svg/1280px-Italia_Viva_logo_elettorale.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Italia_Viva_logo_elettorale.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20ragazza%20dei%20tulipani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=La_ragazza_dei_tulipani",
       "article_url": "https://it.wikipedia.org/wiki/La_ragazza_dei_tulipani",
-      "description": "film del 2017 diretto da Justin Chadwick",
+      "description": "Film del 2017 diretto da Justin Chadwick, va in onda il 13 gennaio su Rai 2.",
       "image_filename": "Tulip_Fever.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/53/Tulip_Fever.jpg/1223px-Tulip_Fever.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tulip_Fever.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorgio%20VI%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/11/2021,cd_max:01/17/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-11&end=2021-01-17&pages=Giorgio_VI_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Giorgio_VI_del_Regno_Unito",
-      "description": "re del Regno Unito (r. 1936-1952)",
+      "description": "Re del Regno Unito fino al 1952 e padre di Elisabetta II. Il motivo del picco di visite non è chiaro.",
       "image_filename": "King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/1280px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

@@ -1,0 +1,1358 @@
+{
+  "week": "2021-13",
+  "start_date": "2021-03-29",
+  "end_date": "2021-04-04",
+  "articles": {
+    "Jannik_Sinner": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Jannik Sinner è un tennista italiano.",
+      "news": [
+        {
+          "title": "Magico Sinner! Così ha battuto Ruusuvuori, gli highlights - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Magico Sinner! Così ha battuto Ruusuvuori, gli highlights La Gazzetta dello Sport"
+        },
+        {
+          "title": "Jannik Sinner biografia, dallo sci alla finale di Miami: passioni, tic, segreti e amori del campione del... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Jannik Sinner biografia, dallo sci alla finale di Miami: passioni, tic, segreti e amori del campione del... Corriere della Sera"
+        },
+        {
+          "title": "Jannik Sinner non è solo il presente del tennis italiano - The Millennial",
+          "source": "The Millennial",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Jannik Sinner non è solo il presente del tennis italiano The Millennial"
+        },
+        {
+          "title": "Sinner, la nascita di un predestinato: “C’è un ragazzino che devi vedere” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Sinner, la nascita di un predestinato: “C’è un ragazzino che devi vedere” Fanpage"
+        },
+        {
+          "title": "Jannik Sinner: l'astro nascente del tennis ha coltivato all'Elba il suo talento - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Jannik Sinner: l'astro nascente del tennis ha coltivato all'Elba il suo talento La Nazione"
+        },
+        {
+          "title": "Ranking Atp, Sinner sale al 23° posto. 10 italiani nei primi 100 - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "Ranking Atp, Sinner sale al 23° posto. 10 italiani nei primi 100 Tuttosport"
+        },
+        {
+          "title": "Sinner avvisa Bublik: \"Mio obiettivo è andare più lontano\" - www.eurosport.it",
+          "source": "www.eurosport.it",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Sinner avvisa Bublik: \"Mio obiettivo è andare più lontano\" www.eurosport.it"
+        },
+        {
+          "title": "Ranking ATP: che balzi Hurkacz e Sinner, Italia record: dieci Top 100 - SuperTennis",
+          "source": "SuperTennis",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "Ranking ATP: che balzi Hurkacz e Sinner, Italia record: dieci Top 100 SuperTennis"
+        },
+        {
+          "title": "Chi è la fidanzata di Jannik Sinner, l’influencer 21enne Maria Braccini - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Chi è la fidanzata di Jannik Sinner, l’influencer 21enne Maria Braccini Il Riformista"
+        },
+        {
+          "title": "Atp Miami 2021, Sonego lotta ma non basta: passa Tsitsipas. Stasera c'è Sinner - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Atp Miami 2021, Sonego lotta ma non basta: passa Tsitsipas. Stasera c'è Sinner Sky Sport"
+        }
+      ]
+    },
+    "Leonardo_da_Vinci": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Leonardo di ser Piero da Vinci, noto semplicemente come Leonardo da Vinci o anche con il solo nome di Leonardo, è stato uno scienziato, inventore e artista italiano.",
+      "news": [
+        {
+          "title": "L'Ultima Cena di Leonardo da Vinci: origini e novità del Cenacolo di Milano - Finestre sull'Arte",
+          "source": "Finestre sull'Arte",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "L'Ultima Cena di Leonardo da Vinci: origini e novità del Cenacolo di Milano Finestre sull'Arte"
+        },
+        {
+          "title": "Chi era, davvero, Leonardo da Vinci, il più grande genio universale di tutti i tempi? - TuscanyPeople",
+          "source": "TuscanyPeople",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Chi era, davvero, Leonardo da Vinci, il più grande genio universale di tutti i tempi? TuscanyPeople"
+        },
+        {
+          "title": "Leonardo da Vinci, realtà e finzione nella serie tv - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Leonardo da Vinci, realtà e finzione nella serie tv Sky TG24"
+        },
+        {
+          "title": "Caterina da Cremona è davvero esistita? La risposta è sì (ed era una donna veramente libera) - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Caterina da Cremona è davvero esistita? La risposta è sì (ed era una donna veramente libera) Vanity Fair Italia"
+        },
+        {
+          "title": "Leonardo Da Vinci, la fiction tra l’omosessualità e Caterina da Cremona - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Leonardo Da Vinci, la fiction tra l’omosessualità e Caterina da Cremona Il Riformista"
+        },
+        {
+          "title": "L'Ultima Cena di Leonardo da Vinci è disponibile in alta definizione - Fotografi Digitali",
+          "source": "Fotografi Digitali",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "L'Ultima Cena di Leonardo da Vinci è disponibile in alta definizione Fotografi Digitali"
+        },
+        {
+          "title": "I tordi e la civetta: la favola di Leonardo Da Vinci che ci insegna a non gioire delle libertà negate (anche ai nostri peggiori nemici) - greenMe",
+          "source": "greenMe",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "I tordi e la civetta: la favola di Leonardo Da Vinci che ci insegna a non gioire delle libertà negate (anche ai nostri peggiori nemici) greenMe"
+        }
+      ]
+    },
+    "Canale_di_Suez": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il canale di Suez è un alveo artificiale navigabile situato in Egitto, a ovest della penisola del Sinai, tra Porto Said sul mar Mediterraneo e Suez (al-Suways) sul Mar Rosso.",
+      "news": [
+        {
+          "title": "Chi ha costruito il Canale di Suez, e perché - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Chi ha costruito il Canale di Suez, e perché Euronews.com"
+        },
+        {
+          "title": "Canale di Suez, la nave Ever Given è stata disincagliata: riprende la navigazione. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Canale di Suez, la nave Ever Given è stata disincagliata: riprende la navigazione. FOTO Sky TG24"
+        },
+        {
+          "title": "L’interruzione del Canale di Suez è stato un imprevisto non una catastrofe - Assinews.it",
+          "source": "Assinews.it",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "L’interruzione del Canale di Suez è stato un imprevisto non una catastrofe Assinews.it"
+        },
+        {
+          "title": "Quando il Canale di Suez rimase bloccato per 8 anni, o di come 14 equipaggi costituirono la Flotta Gialla - ELLE Decor",
+          "source": "ELLE Decor",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Quando il Canale di Suez rimase bloccato per 8 anni, o di come 14 equipaggi costituirono la Flotta Gialla ELLE Decor"
+        },
+        {
+          "title": "Ecco il video di come è stata liberata la nave nel canale di Suez - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Ecco il video di come è stata liberata la nave nel canale di Suez Esquire"
+        },
+        {
+          "title": "La lezione per l’industria della vicenda del Canale di Suez? Rivedere la supply chain - Industria Italiana",
+          "source": "Industria Italiana",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "La lezione per l’industria della vicenda del Canale di Suez? Rivedere la supply chain Industria Italiana"
+        },
+        {
+          "title": "Il blocco del canale di Suez mostra i problemi del trasporto marittimo - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Il blocco del canale di Suez mostra i problemi del trasporto marittimo Internazionale"
+        },
+        {
+          "title": "Il blocco del Canale di Suez e il precario equilibrio del commercio globale - Digital4",
+          "source": "Digital4",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Il blocco del Canale di Suez e il precario equilibrio del commercio globale Digital4"
+        },
+        {
+          "title": "Quanti danni ha prodotto il blocco del canale di Suez - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Quanti danni ha prodotto il blocco del canale di Suez Il Riformista"
+        },
+        {
+          "title": "Blog | L'incidente al Canale di Suez obbliga a una riflessione sul gigantismo delle navi - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Blog | L'incidente al Canale di Suez obbliga a una riflessione sul gigantismo delle navi Il Fatto Quotidiano"
+        }
+      ]
+    },
+    "John_Paul_Getty_III": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "John Paul Getty III è stato un imprenditore statunitense con cittadinanza irlandese.",
+      "news": [
+        {
+          "title": "Tutti i soldi del mondo: la storia vera che ha ispirato il film - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Tutti i soldi del mondo: la storia vera che ha ispirato il film Movieplayer"
+        },
+        {
+          "title": "Tutti i Soldi del Mondo | Paul Getty, Ridley Scott e la storia vera dietro il film - The HotCorn",
+          "source": "The HotCorn",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Tutti i Soldi del Mondo | Paul Getty, Ridley Scott e la storia vera dietro il film The HotCorn"
+        },
+        {
+          "title": "Quando Kevin Spacey fu sostituito in Tutti i soldi del mondo: retroscena e problemi - Orgoglionerd",
+          "source": "Orgoglionerd",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Quando Kevin Spacey fu sostituito in Tutti i soldi del mondo: retroscena e problemi Orgoglionerd"
+        },
+        {
+          "title": "Sesso e volentieri - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "Sesso e volentieri Il Foglio"
+        },
+        {
+          "title": "Gail Harris, madre John Paul Getty III/ Lo scambio di lettere durante il sequestro - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Gail Harris, madre John Paul Getty III/ Lo scambio di lettere durante il sequestro IlSussidiario.net"
+        },
+        {
+          "title": "Tutti i soldi del mondo film, trama, cast, location, dove è girato, attori, finale - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Tutti i soldi del mondo film, trama, cast, location, dove è girato, attori, finale Marida Caterini"
+        },
+        {
+          "title": "Jean Paul Getty, nonno John Paul/ Fu lui il vero bersaglio del sequestro del nipote - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Jean Paul Getty, nonno John Paul/ Fu lui il vero bersaglio del sequestro del nipote IlSussidiario.net"
+        }
+      ]
+    },
+    "Gian_Galeazzo_Maria_Sforza": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gian Galeazzo Maria Sforza è stato il sesto duca di Milano e il terzo della dinastia Sforza.",
+      "news": [
+        {
+          "title": "Chi era, davvero, Leonardo da Vinci, il più grande genio universale di tutti i tempi? - TuscanyPeople",
+          "source": "TuscanyPeople",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Chi era, davvero, Leonardo da Vinci, il più grande genio universale di tutti i tempi? TuscanyPeople"
+        },
+        {
+          "title": "Gian Galeazzo Maria, chi è? storia vera/ Duca di Milano tra virilità discussa e morte sospetta - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Gian Galeazzo Maria, chi è? storia vera/ Duca di Milano tra virilità discussa e morte sospetta IlSussidiario.net"
+        }
+      ]
+    },
+    "Leonardo_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Leonardo è una serie televisiva ideata da Frank Spotnitz e Steve Thompson, che sono anche gli showrunner e produttori esecutivi, trasmessa in prima visione assoluta su Rai 1 in otto episodi dal 23 marzo al 13 aprile 2021.",
+      "news": [
+        {
+          "title": "Leonardo da Vinci, realtà e finzione nella serie tv - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Leonardo da Vinci, realtà e finzione nella serie tv Sky TG24"
+        },
+        {
+          "title": "Caterina da Cremona è davvero esistita? La risposta è sì (ed era una donna veramente libera) - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Caterina da Cremona è davvero esistita? La risposta è sì (ed era una donna veramente libera) Vanity Fair Italia"
+        },
+        {
+          "title": "C’è un cavallo di Leonardo oltre la fiction: \"Torneranno in tanti al nostro ippodromo\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "C’è un cavallo di Leonardo oltre la fiction: \"Torneranno in tanti al nostro ippodromo\" la Repubblica"
+        },
+        {
+          "title": "Leonardo Cruciano: intervista al maestro di effetti speciali e makeup [degenere] - www.madmass.it",
+          "source": "www.madmass.it",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Leonardo Cruciano: intervista al maestro di effetti speciali e makeup [degenere] www.madmass.it"
+        },
+        {
+          "title": "Matilda De Angelis: a 18 anni suonava il violino a piedi nudi ad Amsterdam, il video! - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Matilda De Angelis: a 18 anni suonava il violino a piedi nudi ad Amsterdam, il video! Everyeye Cinema"
+        },
+        {
+          "title": "Chi è Carlos Cuevas, vita privata e carriera: tutto sul famoso attore spagnolo - UrbanPost",
+          "source": "UrbanPost",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Chi è Carlos Cuevas, vita privata e carriera: tutto sul famoso attore spagnolo UrbanPost"
+        }
+      ]
+    },
+    "Ludovico_il_Moro": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Ludovico Maria Sforza detto il Moro fu duca di Bari dal 1479, reggente del Ducato di Milano dal 1480, infine duca egli stesso dal 1494 al 1499, essendo al contempo signore di Genova. Ai suoi tempi considerato l'Arbitro di Italia, secondo l'espressione usata dal Guicciardini, per via della sua preminenza politica in seguito alla morte di Lorenzo il Magnifico.",
+      "news": [
+        {
+          "title": "Il Cavallo di Leonardo nella fiction Rai, i disegni dell'opera per Francesco Sforza nella seconda puntata - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Il Cavallo di Leonardo nella fiction Rai, i disegni dell'opera per Francesco Sforza nella seconda puntata Fanpage"
+        },
+        {
+          "title": "Chi era, davvero, Leonardo da Vinci, il più grande genio universale di tutti i tempi? - TuscanyPeople",
+          "source": "TuscanyPeople",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Chi era, davvero, Leonardo da Vinci, il più grande genio universale di tutti i tempi? TuscanyPeople"
+        },
+        {
+          "title": "C’è un cavallo di Leonardo oltre la fiction: \"Torneranno in tanti al nostro ippodromo\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "C’è un cavallo di Leonardo oltre la fiction: \"Torneranno in tanti al nostro ippodromo\" la Repubblica"
+        },
+        {
+          "title": "Quando la STORIA si è data appuntamento a MILANO - Milano Città Stato",
+          "source": "Milano Città Stato",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Quando la STORIA si è data appuntamento a MILANO Milano Città Stato"
+        },
+        {
+          "title": "Percorsi dell’Ottocento: 15 — Il ponte della Torretta - lanostraStoria",
+          "source": "lanostraStoria",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Percorsi dell’Ottocento: 15 — Il ponte della Torretta lanostraStoria"
+        },
+        {
+          "title": "Leonardo alla corte del Moro nei nuovi episodi della serie evento - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Leonardo alla corte del Moro nei nuovi episodi della serie evento la Repubblica"
+        },
+        {
+          "title": "Gian Galeazzo Maria, chi è? storia vera/ Duca di Milano tra virilità discussa e morte sospetta - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Gian Galeazzo Maria, chi è? storia vera/ Duca di Milano tra virilità discussa e morte sospetta IlSussidiario.net"
+        }
+      ]
+    },
+    "Pasqua": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Pasqua è una festa cristiana e culturale che commemora la resurrezione di Gesù dai morti, descritta nel Nuovo Testamento come avvenuta il terzo giorno della sua sepoltura dopo la sua crocifissione da parte dei Romani sul monte Calvario il 15 nisan 32 d.C. È il culmine della passione di Gesù, preceduta dalla Quaresima, un periodo di 40 giorni di digiuno, preghiera e penitenza. È una festa mobile e la principale solennità del cristianesimo.",
+      "news": [
+        {
+          "title": "Conigli assassini e altri orrori: 15 film per una Pasqua diversa - Esquire",
+          "source": "Esquire",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Conigli assassini e altri orrori: 15 film per una Pasqua diversa Esquire"
+        },
+        {
+          "title": "Servizio CTM di Pasqua e Pasquetta - Comune di Cagliari",
+          "source": "Comune di Cagliari",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Servizio CTM di Pasqua e Pasquetta Comune di Cagliari"
+        },
+        {
+          "title": "La posta di YoYo - Buona Pasqua con Yoyo - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "La posta di YoYo - Buona Pasqua con Yoyo - Video RaiPlay"
+        },
+        {
+          "title": "La Cassazione si pronuncia sulla sorpresa dell’uovo di Pasqua. - Diritto del Risparmio",
+          "source": "Diritto del Risparmio",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "La Cassazione si pronuncia sulla sorpresa dell’uovo di Pasqua. Diritto del Risparmio"
+        },
+        {
+          "title": "Pasqua 2021: restrizioni Covid, i divieti regione per regione dalle spiagge ai supermercati - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Pasqua 2021: restrizioni Covid, i divieti regione per regione dalle spiagge ai supermercati Il Sole 24 ORE"
+        },
+        {
+          "title": "Buona Pasqua dalla Federazione Italiana Sport Equestri - Federazione Italiana Sport Equestri",
+          "source": "Federazione Italiana Sport Equestri",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Buona Pasqua dalla Federazione Italiana Sport Equestri Federazione Italiana Sport Equestri"
+        },
+        {
+          "title": "Contratti per supplenze brevi e temporanee. Le vacanze di Pasqua sono retribuite? - Orizzonte Scuola Notizie",
+          "source": "Orizzonte Scuola Notizie",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Contratti per supplenze brevi e temporanee. Le vacanze di Pasqua sono retribuite? Orizzonte Scuola Notizie"
+        },
+        {
+          "title": "La Pasqua di Alessandro Manzoni - Filodiritto",
+          "source": "Filodiritto",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "La Pasqua di Alessandro Manzoni Filodiritto"
+        },
+        {
+          "title": "Veglia di Pasqua, il Papa: la vita ricomincia con Gesù che apre vie nuove - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Veglia di Pasqua, il Papa: la vita ricomincia con Gesù che apre vie nuove Vatican News"
+        },
+        {
+          "title": "Meteo Pasqua e Pasquetta a Bologna: nuvole e temperature giù - BolognaToday",
+          "source": "BolognaToday",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Meteo Pasqua e Pasquetta a Bologna: nuvole e temperature giù BolognaToday"
+        }
+      ]
+    },
+    "Un_passo_dal_cielo": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Un passo dal cielo è una serie televisiva italiana trasmessa su Rai 1 dal 2011 al 2025.",
+      "news": [
+        {
+          "title": "Arriva \"Un passo dal cielo 6 - I Guardiani\", con Daniele Liotti e Enrico Ianniello - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Arriva \"Un passo dal cielo 6 - I Guardiani\", con Daniele Liotti e Enrico Ianniello Rai.it"
+        },
+        {
+          "title": "Un passo dal cielo 6, il cast della serie tv con Daniele Liotti. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Un passo dal cielo 6, il cast della serie tv con Daniele Liotti. FOTO Sky TG24"
+        },
+        {
+          "title": "«Un passo dal cielo 6»: il ritorno alla montagna, tra natura e ansie da liberare - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "«Un passo dal cielo 6»: il ritorno alla montagna, tra natura e ansie da liberare Vanity Fair Italia"
+        },
+        {
+          "title": "\"Un passo dal cielo 6\": trama, cast e personaggi - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "\"Un passo dal cielo 6\": trama, cast e personaggi TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Un passo dal cielo 6, nel cast anche il fiorentino Carlo Cecchi - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Un passo dal cielo 6, nel cast anche il fiorentino Carlo Cecchi La Nazione"
+        },
+        {
+          "title": "Un passo dal cielo 6 su Rai 1. La tragica fine di Emma - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Un passo dal cielo 6 su Rai 1. La tragica fine di Emma Corriere Style"
+        },
+        {
+          "title": "Il ritorno di Giusy Buscemi dopo 6 anni... - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Il ritorno di Giusy Buscemi dopo 6 anni... iO Donna"
+        },
+        {
+          "title": "San Vito di Cadore (BL) è \"A un passo dal cielo\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "San Vito di Cadore (BL) è \"A un passo dal cielo\" RaiNews"
+        },
+        {
+          "title": "'Un passo dal cielo 6 - I guardiani del cielo', Daniele Liotti in difesa delle 'sue' montagne - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "'Un passo dal cielo 6 - I guardiani del cielo', Daniele Liotti in difesa delle 'sue' montagne la Repubblica"
+        },
+        {
+          "title": "Un Passo dal Cielo 6 – I Guardiani, sarà di Chiara Galiazzo la voce della colonna sonora - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Un Passo dal Cielo 6 – I Guardiani, sarà di Chiara Galiazzo la voce della colonna sonora Fanpage"
+        }
+      ]
+    },
+    "Francesco_Totti": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Francesco Totti è un ex calciatore italiano, di ruolo attaccante o centrocampista. Con la nazionale italiana è diventato campione del mondo nel 2006 e vicecampione d'Europa nel 2000.",
+      "news": [
+        {
+          "title": "Il vero Francesco Totti per il finale di \"Speravo de morì prima\" - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Il vero Francesco Totti per il finale di \"Speravo de morì prima\" Il Sole 24 ORE"
+        },
+        {
+          "title": "Speravo de morì prima, nell'episodio finale comparirà il vero Francesco Totti - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Speravo de morì prima, nell'episodio finale comparirà il vero Francesco Totti Sky TG24"
+        },
+        {
+          "title": "Cassano critica la serie tv su Totti: \"Non sono invadente come raccontano. Castellitto? Sembra più Perin\" - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Cassano critica la serie tv su Totti: \"Non sono invadente come raccontano. Castellitto? Sembra più Perin\" RomaToday"
+        },
+        {
+          "title": "Speravo de morì prima, gli autori Bises e Ribuoli: “La serie è pop e divertente perché Totti è così\" - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Speravo de morì prima, gli autori Bises e Ribuoli: “La serie è pop e divertente perché Totti è così\" Movieplayer"
+        },
+        {
+          "title": "Del Piero e Totti, numeri da Champions | UEFA Champions League 2020/21 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Del Piero e Totti, numeri da Champions | UEFA Champions League 2020/21 UEFA.com"
+        },
+        {
+          "title": "Antonio Cassano, il tapiro d'oro per la serie tv su Francesco Totti - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Antonio Cassano, il tapiro d'oro per la serie tv su Francesco Totti Mediaset Infinity"
+        },
+        {
+          "title": "Cassano e i primi tempi con Totti: \"Andavamo a letto alle 7 e dormivamo un paio d'ore\" - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Cassano e i primi tempi con Totti: \"Andavamo a letto alle 7 e dormivamo un paio d'ore\" Goal.com"
+        },
+        {
+          "title": "\"Speravo de morì prima\", gli ultimi due episodi della serie tv su Totti - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "\"Speravo de morì prima\", gli ultimi due episodi della serie tv su Totti Sky Sport"
+        },
+        {
+          "title": "GAZZARRINI: Scherzo a Moscardelli, crede di giocare con Totti ma è un imitatore - Le Iene",
+          "source": "Le Iene",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "GAZZARRINI: Scherzo a Moscardelli, crede di giocare con Totti ma è un imitatore Le Iene"
+        }
+      ]
+    },
+    "Cavallo_di_Leonardo": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Cavallo di Leonardo è parte di un monumento equestre a Francesco Sforza, progettato da Leonardo da Vinci dal 1482 al 1493, per essere fuso in bronzo, del quale riuscì a portare a termine solo un modello in creta, perduto. I disegni dei cavalli di Leonardo sono ora custoditi nel Castello di Windsor.",
+      "news": [
+        {
+          "title": "Il Cavallo di Leonardo nella fiction Rai, i disegni dell'opera per Francesco Sforza nella seconda puntata - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Il Cavallo di Leonardo nella fiction Rai, i disegni dell'opera per Francesco Sforza nella seconda puntata Fanpage"
+        },
+        {
+          "title": "C’è un cavallo di Leonardo oltre la fiction: \"Torneranno in tanti al nostro ippodromo\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "C’è un cavallo di Leonardo oltre la fiction: \"Torneranno in tanti al nostro ippodromo\" la Repubblica"
+        },
+        {
+          "title": "Chi era, davvero, Leonardo da Vinci, il più grande genio universale di tutti i tempi? - TuscanyPeople",
+          "source": "TuscanyPeople",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Chi era, davvero, Leonardo da Vinci, il più grande genio universale di tutti i tempi? TuscanyPeople"
+        },
+        {
+          "title": "L'Ultima Cena di Leonardo da Vinci: origini e novità del Cenacolo di Milano - Finestre sull'Arte",
+          "source": "Finestre sull'Arte",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "L'Ultima Cena di Leonardo da Vinci: origini e novità del Cenacolo di Milano Finestre sull'Arte"
+        },
+        {
+          "title": "Il metodo di Remo Buti, raccontato in un’intervista “radicale” - Domus Web",
+          "source": "Domus Web",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Il metodo di Remo Buti, raccontato in un’intervista “radicale” Domus Web"
+        },
+        {
+          "title": "La sangiorgese Fania Petrocchi producer delle serie tv di Rai Fiction: «Ecco il mio Leonardo moderno» - Corriere Adriatico",
+          "source": "Corriere Adriatico",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "La sangiorgese Fania Petrocchi producer delle serie tv di Rai Fiction: «Ecco il mio Leonardo moderno» Corriere Adriatico"
+        },
+        {
+          "title": "Se ti abbraccio non aver paura: su Nexo+ il road movie sul mondo dell'autismo - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Se ti abbraccio non aver paura: su Nexo+ il road movie sul mondo dell'autismo Taxidrivers.it"
+        },
+        {
+          "title": "LEONARDO cast: tutti i protagonisti della serie Rai - Tvserial.it",
+          "source": "Tvserial.it",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "LEONARDO cast: tutti i protagonisti della serie Rai Tvserial.it"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Che ci faccio qui 2020/21 - Giulia e Giulia - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Che ci faccio qui 2020/21 - Giulia e Giulia - Video RaiPlay"
+        },
+        {
+          "title": "Storia delle nostre città 2020/21 - Pisa - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Storia delle nostre città 2020/21 - Pisa - Video RaiPlay"
+        },
+        {
+          "title": "Brave Bunnies - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 31 Mar 2021 21:17:36 GMT",
+          "description": "Brave Bunnies RaiPlay"
+        },
+        {
+          "title": "Favola - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 04 Apr 2021 06:15:16 GMT",
+          "description": "Favola RaiPlay"
+        },
+        {
+          "title": "Una serata tra amici - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 03 Apr 2021 22:34:06 GMT",
+          "description": "Una serata tra amici RaiPlay"
+        },
+        {
+          "title": "Un posto al sole - S25E5662 - Puntata del 30/03/2021 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Un posto al sole - S25E5662 - Puntata del 30/03/2021 - Video RaiPlay"
+        },
+        {
+          "title": "L'Italia di Dante - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 29 Mar 2021 22:40:30 GMT",
+          "description": "L'Italia di Dante RaiPlay"
+        },
+        {
+          "title": "Lo specchio di Lorenzo - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 02 Apr 2021 08:59:54 GMT",
+          "description": "Lo specchio di Lorenzo RaiPlay"
+        },
+        {
+          "title": "\"Il Tempo e la Storia\" - Rai Scuola",
+          "source": "Rai Scuola",
+          "pubDate": "Mon, 29 Mar 2021 11:44:42 GMT",
+          "description": "\"Il Tempo e la Storia\" Rai Scuola"
+        }
+      ]
+    },
+    "LOL:_Chi_ride_è_fuori": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "LOL: Chi ride è fuori, parla Elio: “È stato come nelle gare di ballo in cui vince chi resta in piedi” - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "LOL: Chi ride è fuori, parla Elio: “È stato come nelle gare di ballo in cui vince chi resta in piedi” Movieplayer"
+        },
+        {
+          "title": "Angelo Pintus in LOL - Chi ride è fuori su Prime Video - FS News",
+          "source": "FS News",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Angelo Pintus in LOL - Chi ride è fuori su Prime Video FS News"
+        },
+        {
+          "title": "LOL, chi ride è fuori: ecco chi c'è e come funziona il nuovo show con Fedez e Mara Maionchi su Amazon Prime Video - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "LOL, chi ride è fuori: ecco chi c'è e come funziona il nuovo show con Fedez e Mara Maionchi su Amazon Prime Video Il Fatto Quotidiano"
+        },
+        {
+          "title": "“LOL, Chi ride è fuori”: ecco come funziona il nuovo show comico sulla bocca di tutti - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "“LOL, Chi ride è fuori”: ecco come funziona il nuovo show comico sulla bocca di tutti Radio Deejay"
+        },
+        {
+          "title": "Il cast di Lol: Chi ride è Fuori non scherza ed è pieno di comici (veri!) che si sfidano su Amazon Video - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Il cast di Lol: Chi ride è Fuori non scherza ed è pieno di comici (veri!) che si sfidano su Amazon Video Cosmopolitan"
+        },
+        {
+          "title": "LOL Chi ride è fuori: il cast del programma con Fedez su Amazon Prime. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "LOL Chi ride è fuori: il cast del programma con Fedez su Amazon Prime. FOTO Sky TG24"
+        },
+        {
+          "title": "«LOL: Chi ride è fuori», com'è il micidiale comedy show dove la risata è proibita - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "«LOL: Chi ride è fuori», com'è il micidiale comedy show dove la risata è proibita GQ Italia"
+        },
+        {
+          "title": "Lol: chi ride è fuori: il cast, presentatori, quando inizia e dove vederlo - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Lol: chi ride è fuori: il cast, presentatori, quando inizia e dove vederlo Il Giorno"
+        },
+        {
+          "title": "«Lol: Chi ride è fuori», la sfida fra dieci comici: restare seri per sei ore - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "«Lol: Chi ride è fuori», la sfida fra dieci comici: restare seri per sei ore Corriere della Sera"
+        },
+        {
+          "title": "'Lol: chi ride è fuori': lo show comico di Amazon Prime Video - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "'Lol: chi ride è fuori': lo show comico di Amazon Prime Video Quotidiano Nazionale"
+        }
+      ]
+    },
+    "Scomparsa_di_Denise_Pipitone": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La sparizione di Denise Pipitone è un fatto di cronaca irrisolto che ha visto coinvolta una minore italiana: il 1º settembre 2004, a Mazara del Vallo, in provincia di Trapani, la bambina, che all'epoca aveva quasi quattro anni, scomparve mentre si trovava nei pressi della casa della nonna materna.",
+      "news": [
+        {
+          "title": "Denise Pipitone, la storia dalla scomparsa agli appelli della mamma Piera Maggio - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Denise Pipitone, la storia dalla scomparsa agli appelli della mamma Piera Maggio Corriere della Sera"
+        },
+        {
+          "title": "Mattino Cinque: Denise Pipitone, la dinamica della scomparsa Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Mattino Cinque: Denise Pipitone, la dinamica della scomparsa Video Mediaset Infinity"
+        },
+        {
+          "title": "Chi è Behgjet Pacolli e cosa c’entra con la scomparsa di Denise Pipitone - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Chi è Behgjet Pacolli e cosa c’entra con la scomparsa di Denise Pipitone Fanpage"
+        },
+        {
+          "title": "\"Denise Pipitone è viva ed è in Russia?\", Chi l'ha visto e la possibile svolta sul caso della bimba sparita nel 2004 - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "\"Denise Pipitone è viva ed è in Russia?\", Chi l'ha visto e la possibile svolta sul caso della bimba sparita nel 2004 Il Riformista"
+        },
+        {
+          "title": "Blog | Al centro del caso di Denise Pipitone c'è un'altra protagonista: la tv - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Blog | Al centro del caso di Denise Pipitone c'è un'altra protagonista: la tv Il Fatto Quotidiano"
+        },
+        {
+          "title": "Denise Pipitone: perché è slittato a martedì il \"faccia a faccia\" tra Olesya Rostova e l'avvocato di Piera Maggio - Today",
+          "source": "Today",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Denise Pipitone: perché è slittato a martedì il \"faccia a faccia\" tra Olesya Rostova e l'avvocato di Piera Maggio Today"
+        },
+        {
+          "title": "Tutte le volte che è stata avvistata Denise Pipitone, dalla rom al milionario albanese - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Tutte le volte che è stata avvistata Denise Pipitone, dalla rom al milionario albanese la Repubblica"
+        },
+        {
+          "title": "Denise Pipitone, nuovo messaggio della mamma Piera Maggio: \"Mai perso la speranza di ritrovarla\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Denise Pipitone, nuovo messaggio della mamma Piera Maggio: \"Mai perso la speranza di ritrovarla\" Fanpage"
+        },
+        {
+          "title": "La storia di Denise Pipitone, la bambina scomparsa a Mazara del Vallo 17 anni fa - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "La storia di Denise Pipitone, la bambina scomparsa a Mazara del Vallo 17 anni fa Il Riformista"
+        },
+        {
+          "title": "Olesya Rostova è Denise Pipitone? Tra dubbi e riscontri, ecco chi è la ragazza russa che somiglia a Piera Maggio - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Olesya Rostova è Denise Pipitone? Tra dubbi e riscontri, ecco chi è la ragazza russa che somiglia a Piera Maggio Tgcom24"
+        }
+      ]
+    },
+    "Processo_di_Norimberga": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Processo di Norimberga è il nome usato per indicare due distinti gruppi di processi ai nazisti coinvolti nella seconda guerra mondiale e nella Shoah. Il primo e più famoso processo si tenne dal 20 novembre 1945 al 1º ottobre 1946 nel Palazzo di Giustizia a Norimberga. Fu denominato Processo dei principali criminali di guerra, e nel corso di esso il Tribunale militare internazionale (IMT) giudicò venti capi nazisti rimanenti o ancora ritenuti in vita. Il secondo gruppo di 12 processi fu aperto per criminali di guerra di grado inferiore e tenuto secondo la Legge numero 10 del Consiglio di controllo dal Tribunale militare di Norimberga (NMT); comprese anche il famoso Processo ai dottori. Questa voce tratta principalmente i processi del primo gruppo. Per i processi del secondo gruppo si veda la voce \"Processi secondari di Norimberga\".",
+      "news": [
+        {
+          "title": "Il processo ad Eichmann: l’ufficiale del Reich a giudizio sessant’anni fa - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Il processo ad Eichmann: l’ufficiale del Reich a giudizio sessant’anni fa Corriere della Sera"
+        }
+      ]
+    },
+    "Christian_De_Sica": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Christian De Sica è un attore, comico, cantante, showman, regista, sceneggiatore e conduttore televisivo italiano.",
+      "news": [
+        {
+          "title": "Una serata tra amici - Frank Sinatra il medley di Christian De Sica - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Frank Sinatra il medley di Christian De Sica - Video RaiPlay"
+        },
+        {
+          "title": "Christian De Sica: film, età, moglie e Massimo Boldi - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Christian De Sica: film, età, moglie e Massimo Boldi iO Donna"
+        },
+        {
+          "title": "Su Rai1 \"Una serata tra amici\" con Christian De Sica - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Su Rai1 \"Una serata tra amici\" con Christian De Sica Rai.it"
+        },
+        {
+          "title": "Una serata tra amici - Christian De Sica racconta il suo Natale da bambino - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Christian De Sica racconta il suo Natale da bambino - Video RaiPlay"
+        },
+        {
+          "title": "Una serata tra amici - Wanda Osiris nel racconto di Christian De Sica - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Wanda Osiris nel racconto di Christian De Sica - Video RaiPlay"
+        },
+        {
+          "title": "Una serata tra amici - Christian De Sica canta con la figlia Maria Rosa \"I am in the mood for love\" - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Christian De Sica canta con la figlia Maria Rosa \"I am in the mood for love\" - Video RaiPlay"
+        },
+        {
+          "title": "Una serata tra amici - Carlo Verdone ospite di Christian De Sica - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Carlo Verdone ospite di Christian De Sica - Video RaiPlay"
+        },
+        {
+          "title": "Una serata tra amici - Christian De Sica racconta il suo incontro con Charlie Chaplin e Roberto Rosselini - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Christian De Sica racconta il suo incontro con Charlie Chaplin e Roberto Rosselini - Video RaiPlay"
+        },
+        {
+          "title": "Una serata tra amici - Napoli e gli aneddoti di Christian De Sica - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Napoli e gli aneddoti di Christian De Sica - Video RaiPlay"
+        },
+        {
+          "title": "Una serata tra amici - Gli aneddoti di Carlo Verdone e Christian De Sica - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Gli aneddoti di Carlo Verdone e Christian De Sica - Video RaiPlay"
+        }
+      ]
+    },
+    "Pirati_dei_Caraibi": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Pirati dei Caraibi è un media franchise della Disney, incentrato su una serie cinematografica prodotta da Jerry Bruckheimer e basata sull'attrazione Pirates of the Caribbean dei parchi Walt Disney. La serie è composta da cinque film e si è espansa in fumetti, romanzi e altri media. La serie ha come protagonista il pirata Jack Sparrow, interpretato da Johnny Depp, e ha incassato complessivamente quattro miliardi e mezzo di dollari.",
+      "news": [
+        {
+          "title": "Pirati dei Caraibi 6: tutto quello che sappiamo sul film e sul (non) ritorno di Jack Sparrow - Orgoglionerd",
+          "source": "Orgoglionerd",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "Pirati dei Caraibi 6: tutto quello che sappiamo sul film e sul (non) ritorno di Jack Sparrow Orgoglionerd"
+        },
+        {
+          "title": "Pirati dei Caraibi-La vendetta di Salazar, Javier Bardem nel cast - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "Pirati dei Caraibi-La vendetta di Salazar, Javier Bardem nel cast Mediaset Infinity"
+        },
+        {
+          "title": "Film stasera in TV da non perdere oggi, domenica 4 aprile - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Film stasera in TV da non perdere oggi, domenica 4 aprile Sky TG24"
+        },
+        {
+          "title": "Arriva su Netflix film musical per teenager \"A week away\" che parla di fede, futuro e amore - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Arriva su Netflix film musical per teenager \"A week away\" che parla di fede, futuro e amore Cosmopolitan"
+        },
+        {
+          "title": "«Gesù di Nazareth» in tv: che fine hanno fatto i protagonisti della miniserie? - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "«Gesù di Nazareth» in tv: che fine hanno fatto i protagonisti della miniserie? Corriere della Sera"
+        },
+        {
+          "title": "Godzilla vs Kong: la costumista parla dell'evoluzione di Millie Bobby Brown - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Godzilla vs Kong: la costumista parla dell'evoluzione di Millie Bobby Brown BadTaste"
+        },
+        {
+          "title": "La copiosa quantità di \"danni\" che ha creato Akash Kumar uscito dall'Isola Dei Famosi (parliamone) - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "La copiosa quantità di \"danni\" che ha creato Akash Kumar uscito dall'Isola Dei Famosi (parliamone) Cosmopolitan"
+        },
+        {
+          "title": "Il cast di Lol: Chi ride è Fuori non scherza ed è pieno di comici (veri!) che si sfidano su Amazon Video - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Il cast di Lol: Chi ride è Fuori non scherza ed è pieno di comici (veri!) che si sfidano su Amazon Video Cosmopolitan"
+        },
+        {
+          "title": "No, ma cos'è questa storia che Tommaso Zorzi ai tempi di Riccanza non era davvero un rich kid?!??! - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "No, ma cos'è questa storia che Tommaso Zorzi ai tempi di Riccanza non era davvero un rich kid?!??! Cosmopolitan"
+        },
+        {
+          "title": "Jacob Elordi: ecco cosa DEVI assolutamente sapere sulla star di The Kissing Both - Idealia.it",
+          "source": "Idealia.it",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "Jacob Elordi: ecco cosa DEVI assolutamente sapere sulla star di The Kissing Both Idealia.it"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Rifugiati climatici e ambientali, arriva il riconoscimento giuridico in Italia - www.aics.gov.it",
+          "source": "www.aics.gov.it",
+          "pubDate": "Fri, 02 Apr 2021 20:58:31 GMT",
+          "description": "Rifugiati climatici e ambientali, arriva il riconoscimento giuridico in Italia www.aics.gov.it"
+        },
+        {
+          "title": "Sicilia, tornare granaio d'Italia si può - Collettiva",
+          "source": "Collettiva",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "Sicilia, tornare granaio d'Italia si può Collettiva"
+        },
+        {
+          "title": "Il Commissario Legnini incontra Elisa Grande, nuovo capo Dipartimento di Casa Italia. - - commissario straordinario ricostruzione sisma 2016",
+          "source": "commissario straordinario ricostruzione sisma 2016",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Il Commissario Legnini incontra Elisa Grande, nuovo capo Dipartimento di Casa Italia. - commissario straordinario ricostruzione sisma 2016"
+        },
+        {
+          "title": "Al via il 17 Aprile la Coppa Italia di Serie D - Volley News",
+          "source": "Volley News",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Al via il 17 Aprile la Coppa Italia di Serie D Volley News"
+        },
+        {
+          "title": "Infrazioni europee, migliora ancora la posizione dell’Italia - Openpolis",
+          "source": "Openpolis",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Infrazioni europee, migliora ancora la posizione dell’Italia Openpolis"
+        },
+        {
+          "title": "Ivan Zaytsev alla Videx Grottazzolina: ma è solo un pesce d’aprile… - Volley News",
+          "source": "Volley News",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Ivan Zaytsev alla Videx Grottazzolina: ma è solo un pesce d’aprile… Volley News"
+        },
+        {
+          "title": "Lombardia, definite le date delle Finali Regionali Giovanili 2020-2021 - Volley News",
+          "source": "Volley News",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Lombardia, definite le date delle Finali Regionali Giovanili 2020-2021 Volley News"
+        },
+        {
+          "title": "Sulmona, riaperto lo sportello della sede decentrata della Camera di Commercio - AbruzzoLive",
+          "source": "AbruzzoLive",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Sulmona, riaperto lo sportello della sede decentrata della Camera di Commercio AbruzzoLive"
+        }
+      ]
+    },
+    "Caterina_Guzzanti": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Caterina Guzzanti è un'attrice, comica e imitatrice italiana.",
+      "news": [
+        {
+          "title": "LOL, chi ride è fuori: ecco chi c'è e come funziona il nuovo show con Fedez e Mara Maionchi su Amazon Prime Video - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "LOL, chi ride è fuori: ecco chi c'è e come funziona il nuovo show con Fedez e Mara Maionchi su Amazon Prime Video Il Fatto Quotidiano"
+        },
+        {
+          "title": "Angelo Pintus in LOL - Chi ride è fuori su Prime Video - FS News",
+          "source": "FS News",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Angelo Pintus in LOL - Chi ride è fuori su Prime Video FS News"
+        },
+        {
+          "title": "Lol: chi ride è fuori: il cast, presentatori, quando inizia e dove vederlo - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Lol: chi ride è fuori: il cast, presentatori, quando inizia e dove vederlo Il Giorno"
+        },
+        {
+          "title": "LOL Chi ride è fuori: il cast del programma con Fedez su Amazon Prime. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "LOL Chi ride è fuori: il cast del programma con Fedez su Amazon Prime. FOTO Sky TG24"
+        },
+        {
+          "title": "«LOL: Chi ride è fuori», com'è il micidiale comedy show dove la risata è proibita - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "«LOL: Chi ride è fuori», com'è il micidiale comedy show dove la risata è proibita GQ Italia"
+        },
+        {
+          "title": "Caterina Guzzanti, chi è la comica di \"Lol: Chi Ride è Fuori\"? - MAM-e",
+          "source": "MAM-e",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Caterina Guzzanti, chi è la comica di \"Lol: Chi Ride è Fuori\"? MAM-e"
+        }
+      ]
+    },
+    "Vera_Gemma": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Vera Gemma è un'attrice e personaggio televisivo italiana.",
+      "news": [
+        {
+          "title": "Vera Gemma e il fidanzato di 22 anni, parla la sorella - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Vera Gemma e il fidanzato di 22 anni, parla la sorella Mediaset Infinity"
+        },
+        {
+          "title": "Isola dei famosi 2021, Vera Gemma e le scuse di Awed al gruppo: «Non capisco… è stato minacciato» - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Isola dei famosi 2021, Vera Gemma e le scuse di Awed al gruppo: «Non capisco… è stato minacciato» Il Mattino"
+        },
+        {
+          "title": "L’isola dei famosi, scoppiano le prime liti tra i naufraghi - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "L’isola dei famosi, scoppiano le prime liti tra i naufraghi La Stampa"
+        },
+        {
+          "title": "Isola dei Famosi 2021, Paul Gascoigne ancora fermo in panchina (ma vuole rientrare in gioco). Eliminata Vera... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Isola dei Famosi 2021, Paul Gascoigne ancora fermo in panchina (ma vuole rientrare in gioco). Eliminata Vera... Corriere della Sera"
+        },
+        {
+          "title": "Domenica Live, Vera Gemma e il giovane fidanzato Jeda. Parla la sorella: «Non è vero che i genitori sono contrari» - Corriere Adriatico",
+          "source": "Corriere Adriatico",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Domenica Live, Vera Gemma e il giovane fidanzato Jeda. Parla la sorella: «Non è vero che i genitori sono contrari» Corriere Adriatico"
+        },
+        {
+          "title": "Vera Gemma e Miryea Stabile su Playa Esperanza - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Vera Gemma e Miryea Stabile su Playa Esperanza Mediaset Infinity"
+        },
+        {
+          "title": "Isola, Valentina Persia show: imita Vera Gemma facendo l'Esorcista e conquista i social - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Isola, Valentina Persia show: imita Vera Gemma facendo l'Esorcista e conquista i social Il Mattino"
+        },
+        {
+          "title": "L'Isola dei Famosi 2021, Vera Gemma è l'eliminata della puntata - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "L'Isola dei Famosi 2021, Vera Gemma è l'eliminata della puntata Tgcom24"
+        },
+        {
+          "title": "Vera Gemma mette Gilles Rocca contro gli altri naufraghi - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Vera Gemma mette Gilles Rocca contro gli altri naufraghi Mediaset Infinity"
+        },
+        {
+          "title": "Isola dei Famosi 2021, Vera Gemma decide di restare a Parasite Island: \"Lo faccio per mio figlio\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Isola dei Famosi 2021, Vera Gemma decide di restare a Parasite Island: \"Lo faccio per mio figlio\" Fanpage"
+        }
+      ]
+    },
+    "Sergio_Agüero": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Sergio Leonel Agüero Del Castillo, noto come Sergio Agüero, è un ex calciatore argentino, di ruolo attaccante.",
+      "news": [
+        {
+          "title": "I tre minuti che hanno cambiato per sempre la storia del Kun Aguero e del Manchester City - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "I tre minuti che hanno cambiato per sempre la storia del Kun Aguero e del Manchester City Fanpage"
+        },
+        {
+          "title": "Daniel Osvaldo e Gianinna Maradona fidanzati? In Argentina rilanciano: “Stanno insieme” - Gaucho News",
+          "source": "Gaucho News",
+          "pubDate": "Fri, 02 Apr 2021 07:00:00 GMT",
+          "description": "Daniel Osvaldo e Gianinna Maradona fidanzati? In Argentina rilanciano: “Stanno insieme” Gaucho News"
+        }
+      ]
+    },
+    "Alessandra_Celentano": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Alessandra Celentano è un'ex ballerina, coreografa, maestra di balletto, répétiteur e personaggio televisivo italiana.",
+      "news": [
+        {
+          "title": "Alessandra Celentano dopo il like contro Amici: \"Un errore del mio social media manager\" - Today",
+          "source": "Today",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Alessandra Celentano dopo il like contro Amici: \"Un errore del mio social media manager\" Today"
+        },
+        {
+          "title": "Alessandra Celentano, la prof di danza di Amici severissima: chi è - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Alessandra Celentano, la prof di danza di Amici severissima: chi è Corriere della Sera"
+        },
+        {
+          "title": "Amici 2021, Alessandra Celentano contro Stefano De Martino: \"Meno male che hai cambiato carriera\". Gelo in studio - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Amici 2021, Alessandra Celentano contro Stefano De Martino: \"Meno male che hai cambiato carriera\". Gelo in studio Il Fatto Quotidiano"
+        },
+        {
+          "title": "Amici 20, Alessandra Celentano attacca Stefano De Martino: «Meno male che hai fatto un'altra carriera» - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "Amici 20, Alessandra Celentano attacca Stefano De Martino: «Meno male che hai fatto un'altra carriera» Il Mattino"
+        },
+        {
+          "title": "Maestra Alessandra Celentano: Tommaso le mie coreografie sono danza 29 marzo - Amici Clip | Witty TV - Witty TV",
+          "source": "Witty TV",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Maestra Alessandra Celentano: Tommaso le mie coreografie sono danza 29 marzo - Amici Clip | Witty TV Witty TV"
+        },
+        {
+          "title": "Amici 2021, l'ex di Rosa Di Grazia: «Bullismo da Alessandra Celentano, le distrugge la reputazione» - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Amici 2021, l'ex di Rosa Di Grazia: «Bullismo da Alessandra Celentano, le distrugge la reputazione» Leggo.it"
+        },
+        {
+          "title": "Il like di Alessandra Celentano al post per boicottare Amici: \"Una pagliacciata, trash\" - Today",
+          "source": "Today",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Il like di Alessandra Celentano al post per boicottare Amici: \"Una pagliacciata, trash\" Today"
+        },
+        {
+          "title": "Maestra Alessandra Celentano: Tommaso mi stai chiedendo di rifiutare il guanto? 29 marzo - Amici Clip | Witty TV - Witty TV",
+          "source": "Witty TV",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Maestra Alessandra Celentano: Tommaso mi stai chiedendo di rifiutare il guanto? 29 marzo - Amici Clip | Witty TV Witty TV"
+        },
+        {
+          "title": "Amici 2021, la Celentano si difende: “L’onestà non è cattiveria” - DiLei",
+          "source": "DiLei",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Amici 2021, la Celentano si difende: “L’onestà non è cattiveria” DiLei"
+        },
+        {
+          "title": "Celentano Vs De Martino “Menomale che hai cambiato carriera”/ Gelo ad Amici, lui… - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Celentano Vs De Martino “Menomale che hai cambiato carriera”/ Gelo ad Amici, lui… IlSussidiario.net"
+        }
+      ]
+    },
+    "Ben-Hur_(film_1959)": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Ben-Hur è un film del 1959 diretto da William Wyler con protagonista Charlton Heston. Colossal a tema storico e drammatico, è uno dei più grandi e premiati successi della storia del cinema, ispirato all'omonimo romanzo del generale Lewis \"Lew\" Wallace, da cui erano già stati tratti due film: uno del 1907 e l'altro del 1925, divenuti punti di riferimento del cinema muto. Il sottotitolo del film, A Tale of the Christ ovvero \"Un racconto del Cristo\", è dovuto al fatto che tutta la vicenda si svolge al tempo e nei luoghi in cui avviene la storia di Gesù Cristo, che, interpretato da Claude Heater, compare tre volte nel film senza mai essere inquadrato in volto.",
+      "news": [
+        {
+          "title": "Ben-Hur (1959) di William Wyler - Recensione - Quinlan.it",
+          "source": "Quinlan.it",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Ben-Hur (1959) di William Wyler - Recensione Quinlan.it"
+        },
+        {
+          "title": "Ben-Hur: la differenza tra il film del 1959 e quello del 2016, spiegata da Timur Bekmambetov - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+          "description": "Ben-Hur: la differenza tra il film del 1959 e quello del 2016, spiegata da Timur Bekmambetov Movieplayer"
+        },
+        {
+          "title": "Ben Hur, gli errori storici del film che non avevi notato - Funweek",
+          "source": "Funweek",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Ben Hur, gli errori storici del film che non avevi notato Funweek"
+        },
+        {
+          "title": "Film Tv sabato 3 aprile: A qualcuno piace caldo, Bianco, rosso e verdone, Pane, amore e gelosia - Vigilanza Tv",
+          "source": "Vigilanza Tv",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Film Tv sabato 3 aprile: A qualcuno piace caldo, Bianco, rosso e verdone, Pane, amore e gelosia Vigilanza Tv"
+        }
+      ]
+    },
+    "Vittorio_De_Sica": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Vittorio De Sica è stato un attore, regista e sceneggiatore italiano.",
+      "news": [
+        {
+          "title": "Una serata tra amici - I consigli di Vittorio De Sica a Christian De Sica - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 05 Apr 2021 03:48:20 GMT",
+          "description": "Una serata tra amici - I consigli di Vittorio De Sica a Christian De Sica - Video RaiPlay"
+        },
+        {
+          "title": "I De Sica e la saga famigliare: il padre Vittorio, le due famiglie, Christian e il cognato Verdone - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 03 Apr 2021 05:33:19 GMT",
+          "description": "I De Sica e la saga famigliare: il padre Vittorio, le due famiglie, Christian e il cognato Verdone Corriere della Sera"
+        },
+        {
+          "title": "Una serata tra amici - Vittorio De Sica nei racconti di Christian De Sica - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Vittorio De Sica nei racconti di Christian De Sica - Video RaiPlay"
+        },
+        {
+          "title": "“Adesso parlo io”: Maria Lucia Langella De Sica ricorda Manuel, marito e compositore - La Voce di New York",
+          "source": "La Voce di New York",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "“Adesso parlo io”: Maria Lucia Langella De Sica ricorda Manuel, marito e compositore La Voce di New York"
+        },
+        {
+          "title": "Brando De Sica, chi è il figlio di Christian e il nipote di Vittorio - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Brando De Sica, chi è il figlio di Christian e il nipote di Vittorio Virgilio"
+        },
+        {
+          "title": "Il generale Della Rovere – Il peso del dovere da De Sica a Favino - ArteSettima",
+          "source": "ArteSettima",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Il generale Della Rovere – Il peso del dovere da De Sica a Favino ArteSettima"
+        },
+        {
+          "title": "\"Munasterio e Santa chiara\" cantata da Christian De Sica insieme al padre - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "\"Munasterio e Santa chiara\" cantata da Christian De Sica insieme al padre RaiPlay"
+        },
+        {
+          "title": "Una serata tra amici - Parlami d'amore Mariù cantata da Christian De Sica - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 01 Apr 2021 07:00:00 GMT",
+          "description": "Una serata tra amici - Parlami d'amore Mariù cantata da Christian De Sica - Video RaiPlay"
+        },
+        {
+          "title": "VITTORIO DE SICA, PADRE CHRISTIAN DE SICA/ “L’ho conosciuto che era già vecchio” - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "VITTORIO DE SICA, PADRE CHRISTIAN DE SICA/ “L’ho conosciuto che era già vecchio” IlSussidiario.net"
+        },
+        {
+          "title": "VICKY LAGOS, PRESUNTA FIGLIA VITTORIO DE SICA/ Due le versioni della storia - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Sun, 04 Apr 2021 07:00:00 GMT",
+          "description": "VICKY LAGOS, PRESUNTA FIGLIA VITTORIO DE SICA/ Due le versioni della storia IlSussidiario.net"
+        }
+      ]
+    },
+    "Màkari": {
+      "fetched_at": "2026-11-06T16:31:30+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Màkari è una serie televisiva italiana, liberamente tratta dai romanzi e racconti di Gaetano Savatteri con protagonista il giornalista e investigatore Saverio Lamanna, trasmessa in prima visione su Rai 1 dal 15 marzo 2021.",
+      "news": [
+        {
+          "title": "Màkari, xXx o l’ultima puntata di PresaDiretta? La tv del 29 marzo - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Màkari, xXx o l’ultima puntata di PresaDiretta? La tv del 29 marzo BergamoNews"
+        },
+        {
+          "title": "Màkari a Castellammare del Golfo? Il comune siciliano si candida per la prossima stagione - All Food Sicily",
+          "source": "All Food Sicily",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Màkari a Castellammare del Golfo? Il comune siciliano si candida per la prossima stagione All Food Sicily"
+        },
+        {
+          "title": "Il successo di Màkari non è solo frutto di Lamanna: chi sono gli altri personaggi della serie TV - Balarm.it",
+          "source": "Balarm.it",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Il successo di Màkari non è solo frutto di Lamanna: chi sono gli altri personaggi della serie TV Balarm.it"
+        },
+        {
+          "title": "Parla la coppia di attori protagonisti di \"Màkari\", Claudio Gioè ed Ester Pantano - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Parla la coppia di attori protagonisti di \"Màkari\", Claudio Gioè ed Ester Pantano ELLE"
+        },
+        {
+          "title": "Claudio Gioè su Gattopardo racconta la sua Màkari - Giornale di Sicilia",
+          "source": "Giornale di Sicilia",
+          "pubDate": "Sat, 03 Apr 2021 07:00:00 GMT",
+          "description": "Claudio Gioè su Gattopardo racconta la sua Màkari Giornale di Sicilia"
+        },
+        {
+          "title": "Il sindaco di Castellammare del Golfo: \"Pronti ad ospitare la seconda stagione di Màkari\" - TrapaniOk",
+          "source": "TrapaniOk",
+          "pubDate": "Wed, 31 Mar 2021 07:00:00 GMT",
+          "description": "Il sindaco di Castellammare del Golfo: \"Pronti ad ospitare la seconda stagione di Màkari\" TrapaniOk"
+        },
+        {
+          "title": "Ester Pantano: “Màkari non è il nuovo Montalbano. Suleima? È prorompente” - DiLei",
+          "source": "DiLei",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Ester Pantano: “Màkari non è il nuovo Montalbano. Suleima? È prorompente” DiLei"
+        },
+        {
+          "title": "Màkari chiude in trionfo: Piccionello strepitoso. Attesa la seconda stagione - DiLei",
+          "source": "DiLei",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Màkari chiude in trionfo: Piccionello strepitoso. Attesa la seconda stagione DiLei"
+        },
+        {
+          "title": "Màkari, Claudio Gioè: \"Ci godiamo il successo, ma sulla seconda stagione non sappiamo nulla\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 29 Mar 2021 07:00:00 GMT",
+          "description": "Màkari, Claudio Gioè: \"Ci godiamo il successo, ma sulla seconda stagione non sappiamo nulla\" Fanpage"
+        },
+        {
+          "title": "Il gibellinese Claudio Masala nell’ultima puntata della fiction “Màkari” - primapaginatrapani.it",
+          "source": "primapaginatrapani.it",
+          "pubDate": "Tue, 30 Mar 2021 07:00:00 GMT",
+          "description": "Il gibellinese Claudio Masala nell’ultima puntata della fiction “Màkari” primapaginatrapani.it"
+        }
+      ]
+    }
+  }
+}

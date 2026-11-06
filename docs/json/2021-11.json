@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Renato%20Carosone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Renato_Carosone",
       "article_url": "https://it.wikipedia.org/wiki/Renato_Carosone",
-      "description": "cantautore, pianista e compositore italiano (1920-2001)",
+      "description": "Cantautore e pianista italiano, è protagonista del film TV Carosello Carosone, in onda il 18 marzo su Rai 1.",
       "image_filename": "Renato_Carosone_mentre_autografa.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Renato_Carosone_mentre_autografa.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Renato_Carosone_mentre_autografa.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Nino%20Manfredi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Nino_Manfredi",
       "article_url": "https://it.wikipedia.org/wiki/Nino_Manfredi",
-      "description": "attore, regista, sceneggiatore, comico, cantante e doppiatore italiano (1921–2004)",
+      "description": "Attore e regista italiano, il 22 marzo ricorre il centenario della sua nascita.",
       "image_filename": "Nino_Manfredi,_1990.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nino_Manfredi%2C_1990.jpg/1280px-Nino_Manfredi%2C_1990.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nino_Manfredi%2C_1990.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Green%20Book%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Green_Book_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Green_Book_(film)",
-      "description": "film del 2018 diretto da Peter Farrelly",
+      "description": "Film del 2018 diretto da Peter Farrelly, va in onda in televisione il 17 marzo.",
       "image_filename": "Green_Book_film.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/16/Green_Book_film.jpg/1280px-Green_Book_film.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Green_Book_film.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Zack%20Snyder%27s%20Justice%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Zack_Snyder%27s_Justice_League",
       "article_url": "https://it.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League",
-      "description": "film del 2021 diretto da Zack Snyder",
+      "description": "La versione di Zack Snyder del film Justice League del 2017 esce il 18 marzo, in Italia su Sky e NOW.",
       "image_filename": "Zack_Snyder's_Justice_League.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Zack_Snyder%27s_Justice_League.jpg/1280px-Zack_Snyder%27s_Justice_League.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Zack_Snyder%27s_Justice_League.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=M%C3%A0kari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=M%C3%A0kari",
       "article_url": "https://it.wikipedia.org/wiki/M%C3%A0kari",
-      "description": "miniserie televisiva italiana del 2021",
+      "description": "La serie con Claudio Gioè debutta su Rai 1 il 15 marzo; la seconda puntata va in onda il 16 marzo.",
       "image_filename": "Màkari.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/M%C3%A0kari.jpg/1280px-M%C3%A0kari.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:M%C3%A0kari.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Festa%20del%20pap%C3%A0&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Festa_del_pap%C3%A0",
       "article_url": "https://it.wikipedia.org/wiki/Festa_del_pap%C3%A0",
-      "description": "ricorrenza che celebra la paternità",
+      "description": "In Italia si celebra il 19 marzo, giorno di san Giuseppe; Google le dedica un doodle.",
       "image_filename": "Flickr_-_eflon_-_Father_and_Son.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flickr_-_eflon_-_Father_and_Son.jpg/1280px-Flickr_-_eflon_-_Father_and_Son.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_eflon_-_Father_and_Son.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=AstraZeneca&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=AstraZeneca",
       "article_url": "https://it.wikipedia.org/wiki/AstraZeneca",
-      "description": "azienda biofarmaceutica anglo-svedese",
+      "description": "Azienda farmaceutica anglo-svedese, il 15 marzo l'AIFA sospende il suo vaccino contro la COVID-19; il 19 ne riprende l'uso.",
       "image_filename": "AstraZeneca_HQ_in_Cambridge_UK.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/AstraZeneca_HQ_in_Cambridge_UK.jpg/1280px-AstraZeneca_HQ_in_Cambridge_UK.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:AstraZeneca_HQ_in_Cambridge_UK.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Paul%20Gascoigne&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Paul_Gascoigne",
       "article_url": "https://it.wikipedia.org/wiki/Paul_Gascoigne",
-      "description": "allenatore di calcio e calciatore inglese",
+      "description": "Ex calciatore inglese della Lazio, partecipa all'Isola dei famosi, che debutta il 15 marzo su Canale 5.",
       "image_filename": "Paul_Gascoigne_-_Inghilterra_-_Mondiali_1990.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/7/74/Paul_Gascoigne_-_Inghilterra_-_Mondiali_1990.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paul_Gascoigne_-_Inghilterra_-_Mondiali_1990.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=America%27s%20Cup&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=America%27s_Cup",
       "article_url": "https://it.wikipedia.org/wiki/America%27s_Cup",
-      "description": "trofeo nello sport della vela",
+      "description": "Il 17 marzo Team New Zealand vince la 36ª edizione del trofeo velico, battendo Luna Rossa per 7-3.",
       "image_filename": "The_America's_Cup.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_America%27s_Cup.jpg/1280px-The_America%27s_Cup.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_America%27s_Cup.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Fabrizio%20Corona&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Fabrizio_Corona",
       "article_url": "https://it.wikipedia.org/wiki/Fabrizio_Corona",
-      "description": "personaggio televisivo e imprenditore italiano (1974-)",
+      "description": "Personaggio televisivo, l'11 marzo si ferisce ai polsi dopo la revoca dei domiciliari; il 18 la Cassazione respinge un suo ricorso.",
       "image_filename": "Fabrizio_Corona_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Fabrizio_Corona_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fabrizio_Corona_(cropped).jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20giudice%20meschino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Il_giudice_meschino",
       "article_url": "https://it.wikipedia.org/wiki/Il_giudice_meschino",
-      "description": "miniserie televisiva italiana",
+      "description": "Miniserie con Luca Zingaretti e Luisa Ranieri, torna in onda il 21 marzo su Rai 1.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Maurizio%20Gucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Maurizio_Gucci",
       "article_url": "https://it.wikipedia.org/wiki/Maurizio_Gucci",
-      "description": "imprenditore italiano (1948-1995)",
+      "description": "Imprenditore ucciso nel 1995, è interpretato da Adam Driver in House of Gucci, le cui prime immagini dal set escono il 9 marzo.",
       "image_filename": "Maurizio_Gucci_matrimonio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Maurizio_Gucci_matrimonio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maurizio_Gucci_matrimonio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Il servizio pubblico radiotelevisivo è in classifica per la diciannovesima settimana consecutiva, senza un picco di rilievo.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=L%27isola%20dei%20famosi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=L%27isola_dei_famosi",
       "article_url": "https://it.wikipedia.org/wiki/L%27isola_dei_famosi",
-      "description": "versione italiana del reality Celebrity Survivor",
+      "description": "La quindicesima edizione del reality debutta il 15 marzo su Canale 5, condotta da Ilary Blasi.",
       "image_filename": "L'isola_dei_famosi_2019-Logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a4/L%27isola_dei_famosi_2019-Logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:L%27isola_dei_famosi_2019-Logo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Claudio%20Gio%C3%A8&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Claudio_Gio%C3%A8",
       "article_url": "https://it.wikipedia.org/wiki/Claudio_Gio%C3%A8",
-      "description": "attore italiano",
+      "description": "Attore italiano, è protagonista della serie Màkari, che debutta il 15 marzo su Rai 1.",
       "image_filename": "Claudio_Gioè,_Giffoni_Film_Festival_2012.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Claudio_Gio%C3%A8%2C_Giffoni_Film_Festival_2012.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Claudio_Gio%C3%A8%2C_Giffoni_Film_Festival_2012.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Geg%C3%A8%20Di%20Giacomo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Geg%C3%A8_Di_Giacomo",
       "article_url": "https://it.wikipedia.org/wiki/Geg%C3%A8_Di_Giacomo",
-      "description": "batterista e cantante italiano (1918-2005)",
+      "description": "Batterista e cantante italiano, suona con Renato Carosone, protagonista del film TV Carosello Carosone, in onda il 18 marzo su Rai 1.",
       "image_filename": "Gegè_Di_Giacomo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Geg%C3%A8_Di_Giacomo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Geg%C3%A8_Di_Giacomo.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Festa%20di%20san%20Patrizio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Festa_di_san_Patrizio",
       "article_url": "https://it.wikipedia.org/wiki/Festa_di_san_Patrizio",
-      "description": "festa cristiana",
+      "description": "Si celebra il 17 marzo in onore di san Patrizio, patrono dell'Irlanda.",
       "image_filename": "Kilbennan_St._Benin's_Church_Window_St._Patrick_Detail_2010_09_16.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Kilbennan_St._Benin%27s_Church_Window_St._Patrick_Detail_2010_09_16.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kilbennan_St._Benin%27s_Church_Window_St._Patrick_Detail_2010_09_16.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Eduardo%20Scarpetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Eduardo_Scarpetta",
       "article_url": "https://it.wikipedia.org/wiki/Eduardo_Scarpetta",
-      "description": "commediografo italiano (1853-1925)",
+      "description": "Attore e commediografo napoletano morto nel 1925, il picco è probabilmente legato all'omonimo discendente, protagonista di Carosello Carosone su Rai 1 il 18 marzo.",
       "image_filename": "Eduardo_Scarpetta_03_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Eduardo_Scarpetta_03_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Eduardo_Scarpetta_03_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Valentina%20Cenni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Valentina_Cenni",
       "article_url": "https://it.wikipedia.org/wiki/Valentina_Cenni",
-      "description": "attrice italiana (1982-)",
+      "description": "Attrice italiana, conduce con il marito Stefano Bollani Via dei Matti n°0, che debutta il 15 marzo su Rai 3.",
       "image_filename": "Valentina-Cenni.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Valentina-Cenni.jpg/1280px-Valentina-Cenni.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Valentina-Cenni.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Cristiano_Ronaldo",
       "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "description": "calciatore portoghese (1985-)",
+      "description": "Calciatore portoghese della Juventus, il 14 marzo segna una tripletta nella vittoria per 3-1 contro il Cagliari in Serie A.",
       "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, è nonna del principe Harry, intervistato con Meghan Markle da Oprah Winfrey il 7 marzo.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Golfo%20di%20Macari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Golfo_di_Macari",
       "article_url": "https://it.wikipedia.org/wiki/Golfo_di_Macari",
-      "description": "golfo della Sicilia",
+      "description": "Insenatura sulla costa nord-occidentale della Sicilia, è legata alla serie Màkari, che debutta il 15 marzo su Rai 1.",
       "image_filename": "D7A3614_bis_San_Vito_Lo_Capo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/D7A3614_bis_San_Vito_Lo_Capo.jpg/1280px-D7A3614_bis_San_Vito_Lo_Capo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:D7A3614_bis_San_Vito_Lo_Capo.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Viggo%20Mortensen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Viggo_Mortensen",
       "article_url": "https://it.wikipedia.org/wiki/Viggo_Mortensen",
-      "description": "attore statunitense (1958-)",
+      "description": "Attore statunitense, è tra i protagonisti di Green Book, in onda in televisione il 17 marzo.",
       "image_filename": "Viggo_Mortensen_B_(2020).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Viggo_Mortensen_B_%282020%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Viggo_Mortensen_B_(2020).jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Don%20Shirley&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Don_Shirley",
       "article_url": "https://it.wikipedia.org/wiki/Don_Shirley",
-      "description": "compositore e pianista statunitense (1927-2013)",
+      "description": "Pianista e compositore statunitense, è interpretato da Mahershala Ali in Green Book, in onda in televisione il 17 marzo.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Stefano%20Bollani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/15/2021,cd_max:03/21/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-03-15&end=2021-03-21&pages=Stefano_Bollani",
       "article_url": "https://it.wikipedia.org/wiki/Stefano_Bollani",
-      "description": "compositore e pianista italiano",
+      "description": "Pianista e compositore italiano, conduce con la moglie Valentina Cenni Via dei Matti n°0, che debutta il 15 marzo su Rai 3.",
       "image_filename": "Stefano-Bollani-ph-ValentinaCenni_2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Stefano-Bollani-ph-ValentinaCenni_2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Stefano-Bollani-ph-ValentinaCenni_2.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

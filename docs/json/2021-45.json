@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Giampiero%20Galeazzi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Giampiero_Galeazzi",
       "article_url": "https://it.wikipedia.org/wiki/Giampiero_Galeazzi",
-      "description": "",
+      "description": "Giornalista e telecronista sportivo, noto per le sue telecronache di canottaggio, muore il 12 novembre a 75 anni.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Lady%20Gaga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Lady_Gaga",
       "article_url": "https://it.wikipedia.org/wiki/Lady_Gaga",
-      "description": "cantautrice, compositrice, attrice e attivista statunitense (1986-)",
+      "description": "Cantante e attrice statunitense, il 14 novembre è ospite di Che tempo che fa su Rai 3 per presentare House of Gucci.",
       "image_filename": "Lady_Gaga_at_the_White_House_in_2023_(3).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lady_Gaga_at_the_White_House_in_2023_%283%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lady_Gaga_at_the_White_House_in_2023_(3).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Omicidio%20di%20Yara%20Gambirasio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Omicidio_di_Yara_Gambirasio",
       "article_url": "https://it.wikipedia.org/wiki/Omicidio_di_Yara_Gambirasio",
-      "description": "caso di omicidio avvenuto nel 2010",
+      "description": "L'omicidio della tredicenne Yara Gambirasio nel 2010 è raccontato nel film Yara, distribuito su Netflix dal 5 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Valentino%20Rossi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Valentino_Rossi",
       "article_url": "https://it.wikipedia.org/wiki/Valentino_Rossi",
-      "description": "pilota motociclistico, pilota automobilistico e dirigente sportivo italiano (1979-)",
+      "description": "Pilota motociclistico italiano, il 14 novembre corre a Valencia il suo ultimo Gran Premio di MotoGP.",
       "image_filename": "Valentino_Rossi_2017.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Valentino_Rossi_2017.jpg/1280px-Valentino_Rossi_2017.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Valentino_Rossi_2017.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Lorenzo%20Amoruso&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Lorenzo_Amoruso",
       "article_url": "https://it.wikipedia.org/wiki/Lorenzo_Amoruso",
-      "description": "dirigente sportivo e calciatore italiano (1971-)",
+      "description": "Ex calciatore italiano, l'8 novembre incontra la fidanzata Manila Nazzaro al Grande Fratello VIP su Canale 5.",
       "image_filename": "Lorenzo_Amoruso.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/17/Lorenzo_Amoruso.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Amoruso.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Eternals&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Eternals",
       "article_url": "https://it.wikipedia.org/wiki/Eternals",
-      "description": "film del 2021 diretto da Chloé Zhao",
+      "description": "Film Marvel diretto da Chloé Zhao, è nelle sale italiane dal 3 novembre.",
       "image_filename": "Chloé_Zhao_-_Eternals.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/03/Chlo%C3%A9_Zhao_-_Eternals.png/1280px-Chlo%C3%A9_Zhao_-_Eternals.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Chlo%C3%A9_Zhao_-_Eternals.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Qualificazioni%20al%20campionato%20mondiale%20di%20calcio%202022%20-%20UEFA&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Qualificazioni_al_campionato_mondiale_di_calcio_2022_-_UEFA",
       "article_url": "https://it.wikipedia.org/wiki/Qualificazioni_al_campionato_mondiale_di_calcio_2022_-_UEFA",
-      "description": "",
+      "description": "Il 12 novembre l'Italia pareggia 1-1 con la Svizzera nelle qualificazioni europee ai Mondiali 2022.",
       "image_filename": "Logo_UEFA_European_Qualifiers_(2015).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/a/a6/Logo_UEFA_European_Qualifiers_%282015%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_UEFA_European_Qualifiers_(2015).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=M%C3%A5neskin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=M%C3%A5neskin",
       "article_url": "https://it.wikipedia.org/wiki/M%C3%A5neskin",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo rock italiano, apre il concerto dei Rolling Stones a Las Vegas il 6 novembre e vince il premio Best Rock agli MTV EMA il 14 novembre.",
       "image_filename": "Maneskin_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Maneskin_2018.jpg/1280px-Maneskin_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maneskin_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Jan%20Vermeer&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Jan_Vermeer",
       "article_url": "https://it.wikipedia.org/wiki/Jan_Vermeer",
-      "description": "pittore olandese (1632-1675)",
+      "description": "Pittore olandese del Seicento, il 12 novembre è celebrato con un Doodle di Google.",
       "image_filename": "Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg/1016px-Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Carlo%20Verdone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Carlo_Verdone",
       "article_url": "https://it.wikipedia.org/wiki/Carlo_Verdone",
-      "description": "attore e regista italiano (1950-)",
+      "description": "Attore e regista italiano, è protagonista della serie Vita da Carlo, pubblicata il 5 novembre su Prime Video.",
       "image_filename": "Carlo_Verdone_2007_cropped.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Carlo_Verdone_2007_cropped.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carlo_Verdone_2007_cropped.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Wilbur%20Smith&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Wilbur_Smith",
       "article_url": "https://it.wikipedia.org/wiki/Wilbur_Smith",
-      "description": "scrittore sudafricano",
+      "description": "Scrittore sudafricano noto per i romanzi d'avventura ambientati in Africa, muore il 13 novembre a 88 anni.",
       "image_filename": "Wilbur_Smith_in_Sydney.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wilbur_Smith_in_Sydney.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Wilbur_Smith_in_Sydney.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Omicidio%20di%20Maurizio%20Gucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Omicidio_di_Maurizio_Gucci",
       "article_url": "https://it.wikipedia.org/wiki/Omicidio_di_Maurizio_Gucci",
-      "description": "caso di cronaca nera",
+      "description": "Il delitto del 1995 è raccontato nel film House of Gucci, presentato a Milano il 13 novembre con Lady Gaga.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo; la pagina è in classifica da 15 settimane consecutive.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Vita%20da%20Carlo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Vita_da_Carlo",
       "article_url": "https://it.wikipedia.org/wiki/Vita_da_Carlo",
-      "description": "serie televisiva italiana (2021-2025)",
+      "description": "La prima stagione della serie con Carlo Verdone è pubblicata il 5 novembre su Prime Video.",
       "image_filename": "Vita_da_carlo_(serie_televisiva).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/9c/Vita_da_carlo_%28serie_televisiva%29.jpg/1145px-Vita_da_carlo_%28serie_televisiva%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vita_da_carlo_(serie_televisiva).jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Claudia%20Pandolfi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Claudia_Pandolfi",
       "article_url": "https://it.wikipedia.org/wiki/Claudia_Pandolfi",
-      "description": "attrice italiana (1974-)",
+      "description": "Attrice italiana, il picco del 10 novembre potrebbe essere legato alla serie Un professore, al via l'11 novembre su Rai 1.",
       "image_filename": "Claudia_Pandolfi_Premio_Simpatia_2015_Canale25.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Claudia_Pandolfi_Premio_Simpatia_2015_Canale25.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Claudia_Pandolfi_Premio_Simpatia_2015_Canale25.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Diego%20Armando%20Maradona&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Diego_Armando_Maradona",
       "article_url": "https://it.wikipedia.org/wiki/Diego_Armando_Maradona",
-      "description": "calciatore, allenatore di calcio e dirigente sportivo argentino (1960-2020)",
+      "description": "Calciatore argentino morto nel 2020, è ricordato dal Napoli con una maglia speciale nella partita del 7 novembre.",
       "image_filename": "Maradona_gol_Napoli_1987-1988.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Maradona_gol_Napoli_1987-1988.jpg/1280px-Maradona_gol_Napoli_1987-1988.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maradona_gol_Napoli_1987-1988.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Imma%20Tataranni%20-%20Sostituto%20procuratore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Imma_Tataranni_-_Sostituto_procuratore",
       "article_url": "https://it.wikipedia.org/wiki/Imma_Tataranni_-_Sostituto_procuratore",
-      "description": "serie televisiva italiana del 2019",
+      "description": "L'8 e il 9 novembre vanno in onda su Rai 1 il terzo e il quarto episodio della seconda stagione.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Qualificazioni%20al%20campionato%20mondiale%20di%20calcio%202022&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Qualificazioni_al_campionato_mondiale_di_calcio_2022",
       "article_url": "https://it.wikipedia.org/wiki/Qualificazioni_al_campionato_mondiale_di_calcio_2022",
-      "description": "",
+      "description": "Il 12 novembre l'Italia pareggia 1-1 con la Svizzera nelle qualificazioni ai Mondiali 2022.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Pietro%20Aglieri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Pietro_Aglieri",
       "article_url": "https://it.wikipedia.org/wiki/Pietro_Aglieri",
-      "description": "mafioso italiano (1959)",
+      "description": "Boss di Cosa nostra, compare nell'ultima puntata della serie Il cacciatore, in onda il 10 novembre su Rai 2.",
       "image_filename": "Pietro_Aglieri.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/5/59/Pietro_Aglieri.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pietro_Aglieri.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Maurizio%20Gucci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Maurizio_Gucci",
       "article_url": "https://it.wikipedia.org/wiki/Maurizio_Gucci",
-      "description": "imprenditore italiano (1948-1995)",
+      "description": "Imprenditore della casa di moda Gucci, assassinato nel 1995, è raccontato nel film House of Gucci, presentato il 13 novembre a Milano.",
       "image_filename": "Maurizio_Gucci_matrimonio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Maurizio_Gucci_matrimonio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maurizio_Gucci_matrimonio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Sleepers&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Sleepers",
       "article_url": "https://it.wikipedia.org/wiki/Sleepers",
-      "description": "film del 1996 diretto da Barry Levinson",
+      "description": "Film del 1996 diretto da Barry Levinson, va in onda in televisione il 13 novembre.",
       "image_filename": "Sleepers_(1996).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b8/Sleepers_%281996%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sleepers_(1996).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Dani%20Alves&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Dani_Alves",
       "article_url": "https://it.wikipedia.org/wiki/Dani_Alves",
-      "description": "calciatore brasiliano (1983-)",
+      "description": "Calciatore brasiliano, il 12 novembre viene annunciato il suo ritorno al Barcellona.",
       "image_filename": "07_07_2019_Final_da_Copa_América_2019_(48226649586)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/07_07_2019_Final_da_Copa_Am%C3%A9rica_2019_%2848226649586%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:07_07_2019_Final_da_Copa_Am%C3%A9rica_2019_(48226649586)_(cropped).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Campionato%20mondiale%20di%20calcio%202022&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Campionato_mondiale_di_calcio_2022",
       "article_url": "https://it.wikipedia.org/wiki/Campionato_mondiale_di_calcio_2022",
-      "description": "22ª edizione del campionato mondiale di calcio FIFA",
+      "description": "Nelle qualificazioni al torneo in Qatar, il 12 novembre l'Italia pareggia con la Svizzera; il 14 si qualificano Serbia, Spagna e Croazia.",
       "image_filename": "Campionato_mondiale_di_calcio_2022_logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/Campionato_mondiale_di_calcio_2022_logo.svg/1280px-Campionato_mondiale_di_calcio_2022_logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Campionato_mondiale_di_calcio_2022_logo.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Amado%20Carrillo%20Fuentes&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Amado_Carrillo_Fuentes",
       "article_url": "https://it.wikipedia.org/wiki/Amado_Carrillo_Fuentes",
-      "description": "criminale messicano",
+      "description": "Narcotrafficante messicano del cartello di Juárez, è un personaggio della terza stagione di Narcos: Messico, uscita il 5 novembre su Netflix.",
       "image_filename": "Amadocarrillofuentes.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Amadocarrillofuentes.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amadocarrillofuentes.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Squid%20Game&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/08/2021,cd_max:11/14/2021&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-11-08&end=2021-11-14&pages=Squid_Game",
       "article_url": "https://it.wikipedia.org/wiki/Squid_Game",
-      "description": "serie televisiva sudcoreana (2021-2025)",
+      "description": "Serie sudcoreana distribuita su Netflix dal 17 settembre, è per la settima settimana consecutiva tra le pagine più viste.",
       "image_filename": "Squid_Game_international_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Squid_Game_international_logo.png/1280px-Squid_Game_international_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Squid_Game_international_logo.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }
