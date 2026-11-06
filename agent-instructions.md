@@ -24,6 +24,8 @@ Due strutture possibili:
 
 - Usa i dati forniti: "daily_views" e "segnali_picco" dicono quando cade il picco; "context.news" e "context.wikipedia_summary" dicono cosa è successo. Cerca il fatto nel giorno del picco o in quello precedente.
 - **Pensa sempre alla televisione**: film trasmessi in prima serata (Rai 1, Canale 5, Italia 1, Rai 3, Iris…), puntate di reality e talent (concorrenti, giudici, ospiti), ospitate nei talk show, fiction e serie, quiz televisivi le cui domande spingono a cercare una voce. Quando è possibile indica canale e puntata: "Concorrente della seconda edizione del Grande Fratello VIP, la cui settima puntata va in onda il 23 ottobre su Canale 5."
+- **Cerca l'evento, non gli articoli che ne parlano**: articoli che spiegano cos'è il soggetto ("cosa significa", "chi è", "come è nata") sono quasi sempre una conseguenza. Cerca nelle notizie il fatto che li ha provocati (una dichiarazione, un provvedimento, una trasmissione, un fatto di cronaca) e cita quello.
+- **Puntate televisive**: non raccontare la trama. Indica canale, data e, se identificabile, il numero della puntata o dell'episodio ("la quinta puntata", "il nono e il decimo episodio", "l'ultima puntata").
 - **Collega le voci tra loro**: guarda "classifica_della_settimana". Se il picco dipende da un'altra voce in lista, dillo esplicitamente (un parente, un film, un luogo, un'organizzazione legati a un fatto principale).
   - "Loggia massonica chiusa nel 1982 perché considerata eversiva. Il picco è probabilmente legato alla morte di Licio Gelli, suo «Maestro venerabile», il 15 dicembre."
   - "Attore italiano morto nel 2017, il picco è probabilmente legato al film Fabrizio De André - Principe libero, andato in onda il 13 e il 14 febbraio su Rai 1, in cui viene raccontata la sua amicizia con il cantante."
@@ -39,7 +41,7 @@ Scegli uno di questi esiti, senza riempire lo spazio con frasi generiche:
 - **Ipotesi**: se c'è un fatto plausibile ma non certo, usa "probabilmente legato a", "forse in relazione a", "potrebbe essere legato a", sempre seguito da un fatto preciso e datato.
   - "Picco di visite il 7 luglio, forse in relazione all'avvistamento di lupi nei pressi di Borgo a Buggiano, in provincia di Pistoia."
   - "Rete televisiva italiana, il picco del 20 aprile potrebbe essere legato alla quarta puntata del serale di Amici."
-- **Nessun picco**: per voci sempre presenti con visite stabili (Italia, reti televisive, calendari) basta una frase breve.
+- **Nessun picco**: se le visite sono stabili nella settimana (nessun giorno spicca sugli altri), non attribuire la presenza in classifica a una singola notizia minore. Per voci sempre presenti (Italia, reti televisive, calendari) basta una frase breve; per gli altri temi dai il contesto e, se c'è, il fatto più rilevante della settimana senza presentarlo come causa certa.
   - "Nessun picco di rilievo, il numero di visite è nella media."
   - "Difficile dire il motivo del picco di visite."
 - **Errore nei dati**: se quasi tutte le visite cadono in un solo giorno ("segnali_picco.picco_isolato" è true) **e** nelle notizie non c'è nessun evento che lo spieghi, **e** il soggetto non è legato a una morte, a una trasmissione o a un altro fatto della settimana, scrivi che si tratta probabilmente di un errore e riporta i numeri. Attenzione: anche eventi veri (una morte, un'ospitata in TV) possono concentrare le visite in un giorno; "picco_isolato" è un indizio, non una prova.

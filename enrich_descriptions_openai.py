@@ -158,7 +158,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--max-news-items",
         type=int,
-        default=5,
+        default=10,
         help="Maximum Google News RSS items to pass to OpenAI per article.",
     )
     parser.add_argument(
@@ -675,9 +675,9 @@ def apply_descriptions(
 BANNED_PHRASES = [
     r"\b(?:è |viene )?citat[oa] nelle notizie",
     r"\btorna nelle notizie",
-    r"\bè coinvolt[oa] nelle notizie",
+    r"\b(?:è )?coinvolt[oa] nell[ae] notizi[ae]",
     r"\bal centro (?:di|dei|degli|delle|dell'attenzione|delle ricerche) (?:articoli|recensioni|notizie|servizi|commenti|discussioni|ricerche)",
-    r"\blegat[oa] alle notizie",
+    r"\blegat[oa] all[ae] notizi[ae]",
     r"\btorna(?:no)? d'attualità",
     r"\boggetto di (?:notizie|articoli)",
     r"\bregistra (?:un picco|visualizzazioni)",
