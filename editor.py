@@ -93,8 +93,14 @@ def commons_info(raw: str) -> dict:
         warnings.append("Licenza non commerciale.")
     if re.search(r"\bnd\b|no.?deriv", lic):
         warnings.append("Licenza senza opere derivate: il ritaglio potrebbe non essere ammesso.")
-    if restrictions:
-        warnings.append("Restrizioni: " + restrictions)
+    notes = []
+    for r in [x.strip() for x in re.split(r"[|,]", restrictions) if x.strip()]:
+        if r.lower() == "trademarked":
+            notes.append("Marchio registrato: la licenza riguarda l'immagine, non il marchio. Va bene per illustrare la voce.")
+        elif r.lower() == "personality":
+            notes.append("Persona riconoscibile: valgono i diritti della personalità (va bene per illustrare la voce).")
+        else:
+            warnings.append("Restrizione: " + r)
     if not str(info.get("mime", "")).startswith("image/"):
         warnings.append("Non è un'immagine.")
     title = page.get("title", "File:" + name)
@@ -114,6 +120,7 @@ def commons_info(raw: str) -> dict:
         "height": info.get("height"),
         "free": not non_free and bool(license_short) and not warnings,
         "warnings": warnings,
+        "notes": notes,
     }
 
 

@@ -99,3 +99,4 @@ textarea:focus { outline: 2px solid #36c; outline-offset: -1px; }
 .look-actions { display: flex; gap: 6px; margin-top: 6px; }
 .look-actions button { padding: 4px 10px; border-radius: 4px; border: 1px solid #c8ccd1; background: #fff; font-size: 12px; }
 .look-actions .use { background: #36c; border-color: #36c; color: #fff; }
+.look .note { color: #54595d; }

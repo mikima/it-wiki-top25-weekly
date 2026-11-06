@@ -156,6 +156,7 @@
           ${info.image_artist ? `<div>Autore: ${esc(info.image_artist)}</div>` : ""}
           ${info.attribution_required ? `<div>Attribuzione obbligatoria (il sito mostra autore e licenza)</div>` : ""}
           ${info.warnings.map((w) => `<div class="warn">⚠ ${esc(w)}</div>`).join("")}
+          ${(info.notes || []).map((n) => `<div class="note">ℹ ${esc(n)}</div>`).join("")}
           <div>${fmt(info.width)}×${fmt(info.height)} px · <a href="${esc(info.image_commons_url)}" target="_blank" rel="noopener">pagina del file</a></div>
           <div class="look-actions">
             <button type="button" class="use">Usa questa immagine</button>
@@ -343,7 +344,7 @@
     rerenderCard(card);
     try {
       const res = await fetch(`/api/commons?file=${encodeURIComponent(value)}`);
-      const out = await res.json();
+      const out = await res.json().catch(() => ({ error: "Risposta inattesa dal server: riavvia l'editor (Ctrl+C e di nuovo python editor.py)." }));
       state.lookups[name] = res.ok ? { info: out } : { error: out.error || "Errore" };
     } catch (err) {
       state.lookups[name] = { error: String(err) };
