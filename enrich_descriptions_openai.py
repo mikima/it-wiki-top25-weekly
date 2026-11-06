@@ -703,10 +703,13 @@ def call_openai(
                 # flex requests can be slow: give them at least 15 minutes
                 timeout=max(timeout, 900.0) if tier == "flex" else timeout,
             )
-        except requests.Timeout:
-            if tier == "flex" and attempt < 3:
+        except (requests.Timeout, requests.ConnectionError) as exc:
+            # timeouts and dropped connections are usually temporary
+            if attempt < 4:
                 attempt += 1
-                log(f"Flex request timed out, retry {attempt}/3")
+                wait = 20 * attempt
+                log(f"Network error ({type(exc).__name__}), retry {attempt}/4 in {wait}s")
+                time.sleep(wait)
                 continue
             raise
         detail = response.text.strip().replace("\n", " ")
