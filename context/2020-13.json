@@ -1,0 +1,1388 @@
+{
+  "week": "2020-13",
+  "start_date": "2020-03-23",
+  "end_date": "2020-03-29",
+  "articles": {
+    "Alberto_Sordi": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Alberto Sordi è stato un attore, doppiatore, regista e sceneggiatore italiano.",
+      "news": [
+        {
+          "title": "Permette? Alberto Sordi - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Permette? Alberto Sordi Rai.it"
+        },
+        {
+          "title": "Permette? Alberto Sordi - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Permette? Alberto Sordi RaiPlay"
+        },
+        {
+          "title": "«Permette? Alberto Sordi»: tutti gli errori e le imprecisioni (secondo i familiari) - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "«Permette? Alberto Sordi»: tutti gli errori e le imprecisioni (secondo i familiari) Corriere della Sera"
+        },
+        {
+          "title": "Permette? Alberto Sordi, la recensione: storia di un italiano e del nostro cinema - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Permette? Alberto Sordi, la recensione: storia di un italiano e del nostro cinema Movieplayer"
+        },
+        {
+          "title": "\"Permette? Alberto Sordi\", il film omaggio al grande Albertone arriva su Rai 1 - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "\"Permette? Alberto Sordi\", il film omaggio al grande Albertone arriva su Rai 1 RomaToday"
+        },
+        {
+          "title": "'Permette? Alberto Sordi', Edoardo Pesce nel film che racconta gli esordi del mito - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "'Permette? Alberto Sordi', Edoardo Pesce nel film che racconta gli esordi del mito la Repubblica"
+        },
+        {
+          "title": "Alberto Sordi: dall’amore per Andreina Pagnani ai problemi per l’eredità - Bellacanzone",
+          "source": "Bellacanzone",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Alberto Sordi: dall’amore per Andreina Pagnani ai problemi per l’eredità Bellacanzone"
+        },
+        {
+          "title": "“Permette? Alberto Sordi”, l’uomo dietro l’icona nel film tv firmato da Luca Manfredi - Cinemonitor -",
+          "source": "Cinemonitor -",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "“Permette? Alberto Sordi”, l’uomo dietro l’icona nel film tv firmato da Luca Manfredi Cinemonitor -"
+        },
+        {
+          "title": "Edoardo Pesce: «Il mio Alberto Sordi? Un Re, malinconico e fanciullesco» - The HotCorn",
+          "source": "The HotCorn",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Edoardo Pesce: «Il mio Alberto Sordi? Un Re, malinconico e fanciullesco» The HotCorn"
+        },
+        {
+          "title": "Andreina Pagnani, il primo grande amore di Alberto Sordi - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Andreina Pagnani, il primo grande amore di Alberto Sordi ComingSoon.it"
+        }
+      ]
+    },
+    "Pandemia_di_COVID-19_del_2020_in_Italia": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Con pandemia di COVID-19 in Italia si fa riferimento alla diffusione in Italia della malattia infettiva COVID-19, iniziata il 29 gennaio 2020 e terminata ufficialmente il 5 maggio 2023 a seguito della dichiarazione dell'Organizzazione mondiale della sanità.",
+      "news": [
+        {
+          "title": "Coronavirus in Italia nel 2020, tutti i bollettini giorno per giorno: l'archivio - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus in Italia nel 2020, tutti i bollettini giorno per giorno: l'archivio Corriere della Sera"
+        },
+        {
+          "title": "COVID-19: è una pandemia. Ma tutti insieme ce la possiamo fare. I consigli dell’OMS - Policlinico Universitario Agostino Gemelli IRCCS",
+          "source": "Policlinico Universitario Agostino Gemelli IRCCS",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "COVID-19: è una pandemia. Ma tutti insieme ce la possiamo fare. I consigli dell’OMS Policlinico Universitario Agostino Gemelli IRCCS"
+        },
+        {
+          "title": "La pandemia di Covid-19 e la speculative fiction - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "La pandemia di Covid-19 e la speculative fiction Il Bo Live"
+        },
+        {
+          "title": "I limiti costituzionali della situazione d’emergenza provocata dal Covid-19 - Questione Giustizia",
+          "source": "Questione Giustizia",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "I limiti costituzionali della situazione d’emergenza provocata dal Covid-19 Questione Giustizia"
+        },
+        {
+          "title": "Il Papa prega per la fine della pandemia: Dio, non lasciarci in balia della tempesta - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Il Papa prega per la fine della pandemia: Dio, non lasciarci in balia della tempesta Vatican News"
+        },
+        {
+          "title": "Il laboratorio militare Usa trasferito a Sigonella aveva scoperto il coronavirus del 2012 - Limes - Rivista Italiana di geopolitica",
+          "source": "Limes - Rivista Italiana di geopolitica",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Il laboratorio militare Usa trasferito a Sigonella aveva scoperto il coronavirus del 2012 Limes - Rivista Italiana di geopolitica"
+        },
+        {
+          "title": "I saluti ai tempi del COVID - Policlinico Universitario Agostino Gemelli IRCCS",
+          "source": "Policlinico Universitario Agostino Gemelli IRCCS",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "I saluti ai tempi del COVID Policlinico Universitario Agostino Gemelli IRCCS"
+        },
+        {
+          "title": "Cosa è successo a Bergamo, la città italiana più colpita dal virus - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Cosa è successo a Bergamo, la città italiana più colpita dal virus Internazionale"
+        },
+        {
+          "title": "Il miglior amico dell’uomo potrebbe fare da scudo contro il coronavirus? - Policlinico Universitario Agostino Gemelli IRCCS",
+          "source": "Policlinico Universitario Agostino Gemelli IRCCS",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Il miglior amico dell’uomo potrebbe fare da scudo contro il coronavirus? Policlinico Universitario Agostino Gemelli IRCCS"
+        }
+      ]
+    },
+    "Pandemia_di_COVID-19_del_2019-2020": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La pandemia di COVID-19 è stata un’emergenza sanitaria pubblica di portata internazionale proclamata dall'Organizzazione mondiale della sanità il 30 gennaio 2020 e ufficialmente chiusa il 5 maggio 2023.",
+      "news": [
+        {
+          "title": "La scelta della Federazione Italiana Rugby - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "La scelta della Federazione Italiana Rugby Sky Sport"
+        },
+        {
+          "title": "Azzolina: \"Si rientra solo quando ci sarà piena sicurezza. Così cambia la maturità\" - Tecnica della Scuola",
+          "source": "Tecnica della Scuola",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Azzolina: \"Si rientra solo quando ci sarà piena sicurezza. Così cambia la maturità\" Tecnica della Scuola"
+        },
+        {
+          "title": "Cosa accade a rette per servizi di mensa e per asili nido con l'emergenza Coronavirus? - Brocardi.it",
+          "source": "Brocardi.it",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Cosa accade a rette per servizi di mensa e per asili nido con l'emergenza Coronavirus? Brocardi.it"
+        },
+        {
+          "title": "La Chiesa nel mondo per sconfiggere il coronavirus - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "La Chiesa nel mondo per sconfiggere il coronavirus Vatican News"
+        },
+        {
+          "title": "La Finanza ai tempi del Coronavirus: sospensione o allungamento? - Commercialista Telematico",
+          "source": "Commercialista Telematico",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "La Finanza ai tempi del Coronavirus: sospensione o allungamento? Commercialista Telematico"
+        },
+        {
+          "title": "Coronavirus, tutti gli eventi sportivi sospesi o rinviati - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, tutti gli eventi sportivi sospesi o rinviati Sky Sport"
+        },
+        {
+          "title": "Coronavirus, il film Contagion aveva previsto la pandemia - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, il film Contagion aveva previsto la pandemia www.panorama.it"
+        },
+        {
+          "title": "La moratoria Cura Italia - Commercialista Telematico",
+          "source": "Commercialista Telematico",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "La moratoria Cura Italia Commercialista Telematico"
+        },
+        {
+          "title": "IL BOARD DI EUROLEGA. LE COMPETIZIONI RIPRENDERANNO APPENA LA SITUAZIONE LO CONSENTIRA' - Bologna Basket",
+          "source": "Bologna Basket",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "IL BOARD DI EUROLEGA. LE COMPETIZIONI RIPRENDERANNO APPENA LA SITUAZIONE LO CONSENTIRA' Bologna Basket"
+        },
+        {
+          "title": "Il Borussia Dortmund torna ad allenarsi - Periodico Daily",
+          "source": "Periodico Daily",
+          "pubDate": "Sun, 29 Mar 2020 07:00:00 GMT",
+          "description": "Il Borussia Dortmund torna ad allenarsi Periodico Daily"
+        }
+      ]
+    },
+    "Giuseppe_Conte": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giuseppe Conte è un politico e avvocato italiano, presidente del Consiglio dei ministri della Repubblica Italiana dal 1º giugno 2018 al 13 febbraio 2021 e presidente del Movimento 5 Stelle dal 6 agosto 2021.",
+      "news": [
+        {
+          "title": "Conferenza stampa Giuseppe Conte: 4,3 miliardi ai Comuni - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Conferenza stampa Giuseppe Conte: 4,3 miliardi ai Comuni Corriere della Sera"
+        },
+        {
+          "title": "Francesco riceve in udienza Giuseppe Conte - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Francesco riceve in udienza Giuseppe Conte Vatican News"
+        },
+        {
+          "title": "Giuseppe Conte, il Walt Whitman della poesia italiana - www.pangea.news",
+          "source": "www.pangea.news",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Giuseppe Conte, il Walt Whitman della poesia italiana www.pangea.news"
+        },
+        {
+          "title": "Marco Travaglio e la sua difesa di Giuseppe Conte: \"Certi critici lo accusano di qualunque cosa\" - La7",
+          "source": "La7",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Marco Travaglio e la sua difesa di Giuseppe Conte: \"Certi critici lo accusano di qualunque cosa\" La7"
+        },
+        {
+          "title": "Blog | Massimo Giannini continua a cannoneggiare Giuseppe Conte. Perché? - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Blog | Massimo Giannini continua a cannoneggiare Giuseppe Conte. Perché? Il Fatto Quotidiano"
+        },
+        {
+          "title": "Coronavirus, Conte in Aula: \"Altri 25 miliardi su credito-liquidità. Probabile recessione in tutta Europa\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, Conte in Aula: \"Altri 25 miliardi su credito-liquidità. Probabile recessione in tutta Europa\" la Repubblica"
+        },
+        {
+          "title": "La lettera di Conte all’Ue (firmata da altri 8 Paesi) per chiedere i coronabond - Forbes Italia",
+          "source": "Forbes Italia",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "La lettera di Conte all’Ue (firmata da altri 8 Paesi) per chiedere i coronabond Forbes Italia"
+        },
+        {
+          "title": "Papa Francesco ha incontrato Giuseppe Conte in Vaticano - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Papa Francesco ha incontrato Giuseppe Conte in Vaticano HuffPost Italia"
+        },
+        {
+          "title": "Coronavirus, Conte alla Camera: «Combattiamo nemico invisibile e insidioso» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, Conte alla Camera: «Combattiamo nemico invisibile e insidioso» Corriere della Sera"
+        },
+        {
+          "title": "No, Conte non si è tagliato lo stipendio del 20% per l’emergenza Covid-19 - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "No, Conte non si è tagliato lo stipendio del 20% per l’emergenza Covid-19 Pagella Politica"
+        }
+      ]
+    },
+    "Influenza_spagnola": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'influenza spagnola, conosciuta anche come la spagnola o la grande influenza, fu una pandemia influenzale di natura virale e insolitamente mortale, che fra il 1918 e il 1920 uccise dalle decine al centinaio di milioni di persone nel mondo.",
+      "news": [
+        {
+          "title": "La malattia, la quarantena, i funerali solitari: la lettera del 1918 (che sembra scritta oggi) - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "La malattia, la quarantena, i funerali solitari: la lettera del 1918 (che sembra scritta oggi) Corriere della Sera"
+        },
+        {
+          "title": "Frontiere 2020 - Le grandi epidemie della storia - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Frontiere 2020 - Le grandi epidemie della storia - Video RaiPlay"
+        },
+        {
+          "title": "Perché gli scienziati sono sicuri che la COVID-19 non sia stata prodotta in laboratorio - The Vision",
+          "source": "The Vision",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Perché gli scienziati sono sicuri che la COVID-19 non sia stata prodotta in laboratorio The Vision"
+        },
+        {
+          "title": "Coronavirus: Rihanna dona 5 milioni per la lotta la virus - Vogue",
+          "source": "Vogue",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus: Rihanna dona 5 milioni per la lotta la virus Vogue"
+        },
+        {
+          "title": "Da coronavirus a spagnola e peste nera: quando le pandemie dimezzano la popolazione - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Da coronavirus a spagnola e peste nera: quando le pandemie dimezzano la popolazione Il Mattino"
+        },
+        {
+          "title": "Dalla Peste al Coronavirus: come le pandemie hanno cambiato la storia dell’uomo | Milena Gabanelli - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Dalla Peste al Coronavirus: come le pandemie hanno cambiato la storia dell’uomo | Milena Gabanelli Corriere della Sera"
+        },
+        {
+          "title": "Da Tex a Elvis, un secolo contro i virus (con carabine e rock’n’roll) - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Da Tex a Elvis, un secolo contro i virus (con carabine e rock’n’roll) Corriere della Sera"
+        },
+        {
+          "title": "42 foto storiche dell'influenza spagnola del 1918 mostrano com'era una pandemia nel passato - Keblog",
+          "source": "Keblog",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "42 foto storiche dell'influenza spagnola del 1918 mostrano com'era una pandemia nel passato Keblog"
+        }
+      ]
+    },
+    "Indulgenza": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'indulgenza, nella dottrina cattolica, è la riduzione o cancellazione davanti a Dio della conseguenza che resta dopo il perdono di un peccato. Anche se il peccato è già stato perdonato, rimane una sorta di \"debito spirituale\" da riparare. La Chiesa, grazie al sacrificio di Gesù e ai meriti dei santi, può aiutare il fedele a ottenere questa grazia, a patto che sia sinceramente pentito e rispetti certe condizioni.",
+      "news": [
+        {
+          "title": "Cos’è l’indulgenza plenaria? - Chiesa di Milano",
+          "source": "Chiesa di Milano",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Cos’è l’indulgenza plenaria? Chiesa di Milano"
+        },
+        {
+          "title": "L'indulgenza plenaria Urbi et Orbi del Papa: cosa significa - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "L'indulgenza plenaria Urbi et Orbi del Papa: cosa significa Sky TG24"
+        },
+        {
+          "title": "Il Papa concede l'indulgenza plenaria per la preghiera del 27 marzo - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Il Papa concede l'indulgenza plenaria per la preghiera del 27 marzo Vatican News"
+        },
+        {
+          "title": "Coronavirus, la preghiera di Papa Francesco e l'indulgenza plenaria - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, la preghiera di Papa Francesco e l'indulgenza plenaria Corriere della Sera"
+        },
+        {
+          "title": "Coronavirus, indulgenza plenaria: la preghiera di papa Francesco in una piazza San Pietro vuota - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, indulgenza plenaria: la preghiera di papa Francesco in una piazza San Pietro vuota la Repubblica"
+        },
+        {
+          "title": "Papa Francesco, l'appuntamento epocale: oggi alle 18 l'indulgenza plenaria dai peccati - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Papa Francesco, l'appuntamento epocale: oggi alle 18 l'indulgenza plenaria dai peccati Leggo.it"
+        },
+        {
+          "title": "Indulgenza plenaria: ecco cos’è e come si ottiene al tempo del Coronavirus. Stasera alle 18 è associata alla benedizione di Papa Francesco - Gente Veneta",
+          "source": "Gente Veneta",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Indulgenza plenaria: ecco cos’è e come si ottiene al tempo del Coronavirus. Stasera alle 18 è associata alla benedizione di Papa Francesco Gente Veneta"
+        },
+        {
+          "title": "Il Papa prega per la fine della pandemia: Dio, non lasciarci in balia della tempesta - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Il Papa prega per la fine della pandemia: Dio, non lasciarci in balia della tempesta Vatican News"
+        },
+        {
+          "title": "Coronavirus, Papa Francesco: ecco com'è nata l'idea di concedere l'indulgenza plenaria - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, Papa Francesco: ecco com'è nata l'idea di concedere l'indulgenza plenaria Il Messaggero"
+        },
+        {
+          "title": "Coronavirus, il Papa e l'indulgenza plenaria nella piazza vuota: «Ti imploriamo Dio, non lasciarci nella... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, il Papa e l'indulgenza plenaria nella piazza vuota: «Ti imploriamo Dio, non lasciarci nella... Corriere della Sera"
+        }
+      ]
+    },
+    "Pandemia_di_COVID-19_del_2019-2020_nel_mondo": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Questa voce tratta la diffusione a livello mondiale del COVID-19, il cui primo caso è stato individuato il 17 novembre 2019 a Wuhan, nella provincia cinese dell'Hubei. Il 12 gennaio 2020 l'Organizzazione mondiale della sanità (OMS) ha confermato che un nuovo coronavirus era la causa dell'infezione polmonare che aveva colpito diversi abitanti della sopracitata città. Tale caso era stato portato all'attenzione dell'OMS il 31 dicembre 2019.",
+      "news": [
+        {
+          "title": "Coronavirus, tutti gli eventi sportivi sospesi o rinviati - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, tutti gli eventi sportivi sospesi o rinviati Sky Sport"
+        },
+        {
+          "title": "La Chiesa nel mondo per sconfiggere il coronavirus - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "La Chiesa nel mondo per sconfiggere il coronavirus Vatican News"
+        },
+        {
+          "title": "Il conservatorio Canepa di Sassari, unico in Italia, riduce e sospende i contributi da versare - La Voce dell'Isola",
+          "source": "La Voce dell'Isola",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Il conservatorio Canepa di Sassari, unico in Italia, riduce e sospende i contributi da versare La Voce dell'Isola"
+        },
+        {
+          "title": "Coronavirus, il film Contagion aveva previsto la pandemia - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, il film Contagion aveva previsto la pandemia www.panorama.it"
+        },
+        {
+          "title": "La scelta della Federazione Italiana Rugby - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "La scelta della Federazione Italiana Rugby Sky Sport"
+        },
+        {
+          "title": "Il Borussia Dortmund torna ad allenarsi - Periodico Daily",
+          "source": "Periodico Daily",
+          "pubDate": "Sun, 29 Mar 2020 07:00:00 GMT",
+          "description": "Il Borussia Dortmund torna ad allenarsi Periodico Daily"
+        }
+      ]
+    },
+    "Cateno_De_Luca": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cateno Roberto Salvatore De Luca è un politico italiano, sindaco di Messina e dell'omonima città metropolitana dal 2018 al 2022, deputato all'Assemblea Regionale Siciliana dal 2017, sindaco di Taormina dal 2023 e leader di Sud chiama Nord, partito da lui fondato.",
+      "news": [
+        {
+          "title": "Coronavirus, Cateno De Luca diventa un videogioco online per raccogliere fondi - LetteraEmme",
+          "source": "LetteraEmme",
+          "pubDate": "Sun, 29 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, Cateno De Luca diventa un videogioco online per raccogliere fondi LetteraEmme"
+        },
+        {
+          "title": "Mattino Cinque: Cateno De Luca, sindaco di Messina, a Mattino 5 Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Mattino Cinque: Cateno De Luca, sindaco di Messina, a Mattino 5 Video Mediaset Infinity"
+        },
+        {
+          "title": "Coronavirus, il sindaco di Siracusa: \"Non tutti i siciliani sono con Cateno De Luca\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, il sindaco di Siracusa: \"Non tutti i siciliani sono con Cateno De Luca\" la Repubblica"
+        },
+        {
+          "title": "Coronavirus, Viminale denuncia sindaco De Luca: pioggia di solidarietà dagli Amministratori siciliani - MessinaToday",
+          "source": "MessinaToday",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, Viminale denuncia sindaco De Luca: pioggia di solidarietà dagli Amministratori siciliani MessinaToday"
+        },
+        {
+          "title": "Droni per controllare i cittadini a Messina, De Luca: \"In volo entro 3 giorni\" - Giornale di Sicilia",
+          "source": "Giornale di Sicilia",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Droni per controllare i cittadini a Messina, De Luca: \"In volo entro 3 giorni\" Giornale di Sicilia"
+        },
+        {
+          "title": "Coronavirus, a Messina i droni con la voce del sindaco De Luca: «Dove c***o vai?» - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, a Messina i droni con la voce del sindaco De Luca: «Dove c***o vai?» Il Mattino"
+        },
+        {
+          "title": "Mattino Cinque: Cateno De Luca sull'uso del drone per controllare i movimenti dei cittadini Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Mattino Cinque: Cateno De Luca sull'uso del drone per controllare i movimenti dei cittadini Video Mediaset Infinity"
+        },
+        {
+          "title": "De Luca non molla: andata e ritorno in traghetto Messina-Villa San Giovanni - IlDispaccio",
+          "source": "IlDispaccio",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "De Luca non molla: andata e ritorno in traghetto Messina-Villa San Giovanni IlDispaccio"
+        },
+        {
+          "title": "Dalla Francia alla Sicilia con una Renault 4 stracolma di bagagli: risolto il “giallo” dell’auto salita sul traghetto a Messina - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Dalla Francia alla Sicilia con una Renault 4 stracolma di bagagli: risolto il “giallo” dell’auto salita sul traghetto a Messina La Stampa"
+        },
+        {
+          "title": "Coronavirus, Cateno De Luca usa i droni con la sua voce - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, Cateno De Luca usa i droni con la sua voce Mediaset Infinity"
+        }
+      ]
+    },
+    "Lucia_Bosè": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lucia Bosè è stata un'attrice italiana naturalizzata spagnola, eletta Miss Italia 1947.",
+      "news": [
+        {
+          "title": "Lucia Bosè, la più bella di tutte - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Lucia Bosè, la più bella di tutte Rai Cultura"
+        },
+        {
+          "title": "Il nostro ultimo saluto alla straordinaria Lucia Bosè, musa di Antonioni, Visconti e mamma di Miguel - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Il nostro ultimo saluto alla straordinaria Lucia Bosè, musa di Antonioni, Visconti e mamma di Miguel ELLE"
+        },
+        {
+          "title": "Sottovoce 2019/20 - Un ricordo di Lucia Bosè - 24/03/2020 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Sottovoce 2019/20 - Un ricordo di Lucia Bosè - 24/03/2020 - Video RaiPlay"
+        },
+        {
+          "title": "Lucia Bosè, morta di Coronavirus l'attrice: aveva 89 anni - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Lucia Bosè, morta di Coronavirus l'attrice: aveva 89 anni Corriere della Sera"
+        },
+        {
+          "title": "Addio a Lucia Bosè, attrice icona di bellezza e ribellione - ArtsLife",
+          "source": "ArtsLife",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Addio a Lucia Bosè, attrice icona di bellezza e ribellione ArtsLife"
+        },
+        {
+          "title": "Coronavirus; addio a Lucia Bosé, star del cinema e mamma di Miguel - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus; addio a Lucia Bosé, star del cinema e mamma di Miguel BergamoNews"
+        },
+        {
+          "title": "È morta Lucia Bosé, era ricoverata in Spagna per una polmonite - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "È morta Lucia Bosé, era ricoverata in Spagna per una polmonite Il Sole 24 ORE"
+        },
+        {
+          "title": "Addio a Lucia Bosè - Vogue",
+          "source": "Vogue",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Addio a Lucia Bosè Vogue"
+        },
+        {
+          "title": "Ritratto di Lucia Bosé, strappata dal coronavirus - Marcello Veneziani",
+          "source": "Marcello Veneziani",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Ritratto di Lucia Bosé, strappata dal coronavirus Marcello Veneziani"
+        },
+        {
+          "title": "Rai ricorda Lucia Bosè - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Rai ricorda Lucia Bosè Rai.it"
+        }
+      ]
+    },
+    "Marc_Márquez": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Marc Márquez Alentà è un pilota motociclistico spagnolo, vincitore di nove titoli nel motomondiale, uno nella classe 125 nel 2010; uno nella classe Moto2 nel 2012 e sette nella classe MotoGP nel 2013, 2014, 2016, 2017, 2018, 2019 e 2025.",
+      "news": [
+        {
+          "title": "Alex Marquez: \"Tocca a noi portare le gare a casa della gente!\" - Motorsport.com",
+          "source": "Motorsport.com",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Alex Marquez: \"Tocca a noi portare le gare a casa della gente!\" Motorsport.com"
+        },
+        {
+          "title": "Fabio Quartararo: \"Ora gli altri piloti mi guardano diversamente\" - www.motoblog.it",
+          "source": "www.motoblog.it",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Fabio Quartararo: \"Ora gli altri piloti mi guardano diversamente\" www.motoblog.it"
+        },
+        {
+          "title": "MotoGP. Alberto Puig: Lorenzo ci ha provato con la Honda ma non era felice - Moto.it",
+          "source": "Moto.it",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "MotoGP. Alberto Puig: Lorenzo ci ha provato con la Honda ma non era felice Moto.it"
+        },
+        {
+          "title": "MotoGP. Lezione di tecnica dell’Ing. Gigi Dall’Igna - Moto.it",
+          "source": "Moto.it",
+          "pubDate": "Sun, 29 Mar 2020 07:00:00 GMT",
+          "description": "MotoGP. Lezione di tecnica dell’Ing. Gigi Dall’Igna Moto.it"
+        },
+        {
+          "title": "Aron Canet: \"Marc Márquez il migliore a ripartire dopo una caduta\" - Corsedimoto",
+          "source": "Corsedimoto",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Aron Canet: \"Marc Márquez il migliore a ripartire dopo una caduta\" Corsedimoto"
+        },
+        {
+          "title": "Max Biaggi: \"Romano Fenati pilota da top 3 nel Mondiale\" - Corsedimoto",
+          "source": "Corsedimoto",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Max Biaggi: \"Romano Fenati pilota da top 3 nel Mondiale\" Corsedimoto"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "RAI, UN'OFFERTA DEDICATA NELL'EMERGENZA CORONAVIRUS - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "RAI, UN'OFFERTA DEDICATA NELL'EMERGENZA CORONAVIRUS Rai.it"
+        },
+        {
+          "title": "Permette? Alberto Sordi - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Permette? Alberto Sordi RaiPlay"
+        },
+        {
+          "title": "Sermonti legge Dante - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 25 Mar 2020 07:49:03 GMT",
+          "description": "Sermonti legge Dante RaiPlay"
+        },
+        {
+          "title": "Doc - Nelle tue mani - S1E1 - Amnesia - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Doc - Nelle tue mani - S1E1 - Amnesia - Video RaiPlay"
+        },
+        {
+          "title": "L'intervista di Gino Strada a Che Tempo che Fa - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "L'intervista di Gino Strada a Che Tempo che Fa RaiPlay"
+        },
+        {
+          "title": "A casa con l'Orchestra Rai - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Sat, 28 Mar 2020 10:40:03 GMT",
+          "description": "A casa con l'Orchestra Rai Rai Cultura"
+        },
+        {
+          "title": "Doc - Nelle tue mani - S1E3 - Niente di personale - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Doc - Nelle tue mani - S1E3 - Niente di personale - Video RaiPlay"
+        },
+        {
+          "title": "Suburbicon - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 29 Mar 2020 22:18:41 GMT",
+          "description": "Suburbicon RaiPlay"
+        },
+        {
+          "title": "Doc - Nelle tue mani - S1E2 - Selfie - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Doc - Nelle tue mani - S1E2 - Selfie - Video RaiPlay"
+        },
+        {
+          "title": "Dantedì - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 24 Mar 2020 15:58:44 GMT",
+          "description": "Dantedì RaiPlay"
+        }
+      ]
+    },
+    "Filippo_di_Edimburgo": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Filippo di Edimburgo è stato il consorte reale del Regno Unito e degli altri reami del Commonwealth dal 1952 fino alla morte, come marito di Elisabetta II.",
+      "news": [
+        {
+          "title": "Perché proprio ora tutti sono convinti che il principe Filippo sia morto (ma ancora nessuno lo sa)? - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Perché proprio ora tutti sono convinti che il principe Filippo sia morto (ma ancora nessuno lo sa)? Cosmopolitan"
+        }
+      ]
+    },
+    "Sigmund_Freud": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Sigismund Schlomo Freud, noto come Sigmund Freud, è stato un neurologo, psicoanalista e filosofo austriaco, fondatore della psicoanalisi, la più antica tra le correnti della psicologia dinamica.",
+      "news": [
+        {
+          "title": "Freud, la parola agli autori: “Volevamo sovvertire le aspettative sul personaggio” - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Freud, la parola agli autori: “Volevamo sovvertire le aspettative sul personaggio” Movieplayer"
+        },
+        {
+          "title": "Freud, la trama della serie tv dal 23 marzo su Netflix - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Freud, la trama della serie tv dal 23 marzo su Netflix Sky TG24"
+        },
+        {
+          "title": "Freud - Netflix: La serie tra crime e horror sul padre della psicoanalisi :-) - Serial Minds",
+          "source": "Serial Minds",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Freud - Netflix: La serie tra crime e horror sul padre della psicoanalisi :-) Serial Minds"
+        },
+        {
+          "title": "Freud: Cinque incredibili curiosità sulla serie TV Netflix - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Freud: Cinque incredibili curiosità sulla serie TV Netflix ComingSoon.it"
+        },
+        {
+          "title": "Un giovane Freud a caccia di serial killer: ecco trama e trailer della serie Netflix - SoloLibri.net",
+          "source": "SoloLibri.net",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Un giovane Freud a caccia di serial killer: ecco trama e trailer della serie Netflix SoloLibri.net"
+        },
+        {
+          "title": "Freud: tutto quello che sappiamo sulla serie TV - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Freud: tutto quello che sappiamo sulla serie TV Telefilm Central"
+        },
+        {
+          "title": "Freud, parlano i protagonisti: “La serie è stata una scoperta continua” - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Freud, parlano i protagonisti: “La serie è stata una scoperta continua” Movieplayer"
+        },
+        {
+          "title": "Freud, recensione: mistero e psicanalisi su Netflix - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Freud, recensione: mistero e psicanalisi su Netflix Movieplayer"
+        },
+        {
+          "title": "Freud la nuova serie Netflix in cui la psicoanalisi ha il volto dell’horror e del thriller - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Freud la nuova serie Netflix in cui la psicoanalisi ha il volto dell’horror e del thriller Fanpage"
+        },
+        {
+          "title": "Freud, la nuova serie tv Netflix è disponibile da oggi. Trama e curiosità - ZON.it",
+          "source": "ZON.it",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Freud, la nuova serie tv Netflix è disponibile da oggi. Trama e curiosità ZON.it"
+        }
+      ]
+    },
+    "COVID-19": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La COVID-19, conosciuta anche come malattia respiratoria acuta da SARS-CoV-2 o malattia da coronavirus 2019, è una malattia infettiva respiratoria causata dal virus denominato SARS-CoV-2 appartenente alla famiglia dei coronavirus.",
+      "news": [
+        {
+          "title": "COVID-19 infetta anche cellule di esofago, fegato e intestino. Primo segno può essere la diarrea - Policlinico Universitario Agostino Gemelli IRCCS",
+          "source": "Policlinico Universitario Agostino Gemelli IRCCS",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "COVID-19 infetta anche cellule di esofago, fegato e intestino. Primo segno può essere la diarrea Policlinico Universitario Agostino Gemelli IRCCS"
+        },
+        {
+          "title": "Covid-19: altri 22 posti di terapia intensiva dai vecchi ospedali. Rossi a Pisa e Lucca fa il punto della situazione - AOUP",
+          "source": "AOUP",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Covid-19: altri 22 posti di terapia intensiva dai vecchi ospedali. Rossi a Pisa e Lucca fa il punto della situazione AOUP"
+        },
+        {
+          "title": "Febbre da COVID-19 in età pediatrica: stai in guardia e non farti influenzare da notizie false sui farmaci antipiretici - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Febbre da COVID-19 in età pediatrica: stai in guardia e non farti influenzare da notizie false sui farmaci antipiretici www.sifweb.org"
+        },
+        {
+          "title": "Covid-19: servizio di assistenza per persone sorde e mute - Comune di Lecce",
+          "source": "Comune di Lecce",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Covid-19: servizio di assistenza per persone sorde e mute Comune di Lecce"
+        },
+        {
+          "title": "Differenze di genere nella COVID-19. Perché si ammalano di più i maschi? - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Differenze di genere nella COVID-19. Perché si ammalano di più i maschi? www.sifweb.org"
+        }
+      ]
+    },
+    "La_casa_di_carta": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La casa di carta è una serie televisiva spagnola ideata da Álex Pina, trasmessa inizialmente dall'emittente Antena 3 e in seguito distribuita su Netflix.",
+      "news": [
+        {
+          "title": "«La Casa di Carta 4»: cosa ci raccontano le prime immagini - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "«La Casa di Carta 4»: cosa ci raccontano le prime immagini Vanity Fair Italia"
+        },
+        {
+          "title": "«La Casa di Carta», chi è il Professore - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "«La Casa di Carta», chi è il Professore GQ Italia"
+        },
+        {
+          "title": "«La Casa di Carta», la classifica dei personaggi dal migliore al peggiore - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "«La Casa di Carta», la classifica dei personaggi dal migliore al peggiore GQ Italia"
+        },
+        {
+          "title": "«La casa di carta», i personaggi e il test. Tu a chi assomigli? - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "«La casa di carta», i personaggi e il test. Tu a chi assomigli? GQ Italia"
+        }
+      ]
+    },
+    "Urbi_et_Orbi": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Urbi et Orbi è una locuzione latina composta da due sostantivi, Urbi e Orbi, uniti dalla congiunzione et: Urbi significa \"all'Urbe\", per gli antichi Romani la città di Roma, Orbi significa \"all'Orbe\", nel senso di \"mondo\". La locuzione quindi significa \"all'Urbe e all'Orbe\", nel linguaggio corrente resa con \"a Roma e al mondo\". La locuzione si usa anche al genitivo: Urbis et Orbis.",
+      "news": [
+        {
+          "title": "La Benedizione che rischiara le tenebre - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "La Benedizione che rischiara le tenebre Vatican News"
+        },
+        {
+          "title": "Papa Francesco prega in una piazza San Pietro deserta. FOTO - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Papa Francesco prega in una piazza San Pietro deserta. FOTO Sky Sport"
+        },
+        {
+          "title": "IL SIGNIFICATO DELLA BENEDIZIONE \"URBI ET ORBI\" - Ruvesi.it",
+          "source": "Ruvesi.it",
+          "pubDate": "Fri, 27 Mar 2020 12:03:16 GMT",
+          "description": "IL SIGNIFICATO DELLA BENEDIZIONE \"URBI ET ORBI\" Ruvesi.it"
+        },
+        {
+          "title": "Rai1: in diretta la preghiera e la benedizione \"Urbi et Orbi\" del Papa - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Rai1: in diretta la preghiera e la benedizione \"Urbi et Orbi\" del Papa Rai.it"
+        },
+        {
+          "title": "Coronavirus, la preghiera di Papa Francesco e l'indulgenza plenaria - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, la preghiera di Papa Francesco e l'indulgenza plenaria Corriere della Sera"
+        },
+        {
+          "title": "“Urbi et Orbi” del Papa, i fedeli scorgono qualcosa nel cielo - Minformo.com",
+          "source": "Minformo.com",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "“Urbi et Orbi” del Papa, i fedeli scorgono qualcosa nel cielo Minformo.com"
+        },
+        {
+          "title": "Papa, in diretta su Tv2000 la preghiera e la benedizione ‘Urbi et orbi’ - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Papa, in diretta su Tv2000 la preghiera e la benedizione ‘Urbi et orbi’ Tv2000"
+        },
+        {
+          "title": "Oggi alle 18 Papa Francesco impartirà la benedizione ‘Urbi et Orbi’ - Ragusah24.it",
+          "source": "Ragusah24.it",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Oggi alle 18 Papa Francesco impartirà la benedizione ‘Urbi et Orbi’ Ragusah24.it"
+        },
+        {
+          "title": "“Urbi et Orbi” : un atto senza precedenti del Successore di Pietro per ogni credente - Le Cronache Lucane",
+          "source": "Le Cronache Lucane",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "“Urbi et Orbi” : un atto senza precedenti del Successore di Pietro per ogni credente Le Cronache Lucane"
+        },
+        {
+          "title": "Il testo integrale della preghiera di Papa Francesco: benedizione urbi et orbi contro il Coronavirus - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Il testo integrale della preghiera di Papa Francesco: benedizione urbi et orbi contro il Coronavirus Fanpage"
+        }
+      ]
+    },
+    "Meccanismo_europeo_di_stabilità": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Meccanismo europeo di stabilità (MES), detto anche Fondo salva-Stati, è un'organizzazione internazionale a carattere regionale nata come fondo finanziario europeo per la stabilità finanziaria della zona euro, istituita per trattato dagli Stati membri della zona euro per fondare un'organizzazione internazionale con sede in Lussemburgo, che avrebbe dovuto funzionare come fonte permanente di assistenza finanziaria per gli Stati membri in difficoltà, con una capacità di prestito massima di € 500 miliardi.",
+      "news": [
+        {
+          "title": "Il MES: cos’è e come potrebbe essere utilizzato nell’attuale emergenza - Università Cattolica del Sacro Cuore",
+          "source": "Università Cattolica del Sacro Cuore",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Il MES: cos’è e come potrebbe essere utilizzato nell’attuale emergenza Università Cattolica del Sacro Cuore"
+        },
+        {
+          "title": "Coronavirus, MES e Fondo Salva-Stati: perché aderire a queste condizioni è impossibile - nextQuotidiano",
+          "source": "nextQuotidiano",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, MES e Fondo Salva-Stati: perché aderire a queste condizioni è impossibile nextQuotidiano"
+        },
+        {
+          "title": "Bce, cos’è il «piano Omt»: allo studio l’acquisto di titoli di Stato senza limiti - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Bce, cos’è il «piano Omt»: allo studio l’acquisto di titoli di Stato senza limiti Corriere della Sera"
+        },
+        {
+          "title": "L'Europa arriva divisa al Consiglio. Slitta anche il Mes - AGI",
+          "source": "AGI",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "L'Europa arriva divisa al Consiglio. Slitta anche il Mes AGI"
+        },
+        {
+          "title": "Editoriale: UE non è stato un rinvio ma una rottura - Italia Report USA",
+          "source": "Italia Report USA",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Editoriale: UE non è stato un rinvio ma una rottura Italia Report USA"
+        },
+        {
+          "title": "[INTERNAZIONALISMO] Tempesta finanziaria, interventi emergenziali: lacrime e sangue per il proletariato - S.I. Cobas",
+          "source": "S.I. Cobas",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "[INTERNAZIONALISMO] Tempesta finanziaria, interventi emergenziali: lacrime e sangue per il proletariato S.I. Cobas"
+        }
+      ]
+    },
+    "Harry_Potter": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Harry Potter è una serie di romanzi fantasy scritta da J. K. Rowling, incentrata sulle avventure del giovane mago Harry Potter e dei suoi migliori amici Ron Weasley ed Hermione Granger, studenti della Scuola di Magia e Stregoneria di Hogwarts. Il mondo magico nel quale è ambientata la saga consiste in una società parallela che vive celata al resto del mondo reale, quello delle persone comuni, che vengono definite \"babbani\". L'arco narrativo segue principalmente lo scontro tra il protagonista e il mago oscuro Lord Voldemort, desideroso di conquistare il mondo magico e l'immortalità.",
+      "news": [
+        {
+          "title": "Harry Potter e i Doni della Morte in tv su Italia 1 il 7 aprile 2020 - Style Magazine",
+          "source": "Style Magazine",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter e i Doni della Morte in tv su Italia 1 il 7 aprile 2020 Style Magazine"
+        },
+        {
+          "title": "Harry Potter e il calice di fuoco (2005) di Mike Newell - Recensione - Quinlan.it",
+          "source": "Quinlan.it",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter e il calice di fuoco (2005) di Mike Newell - Recensione Quinlan.it"
+        },
+        {
+          "title": "10 curiosità su Harry Potter e il prigioniero di Azkaban - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "10 curiosità su Harry Potter e il prigioniero di Azkaban Sky TG24"
+        },
+        {
+          "title": "In Harry Potter c'è tutto quello che ci serve: il successo della saga in tv nei giorni della quarantena forzata - ilLibraio.it",
+          "source": "ilLibraio.it",
+          "pubDate": "Sun, 29 Mar 2020 07:00:00 GMT",
+          "description": "In Harry Potter c'è tutto quello che ci serve: il successo della saga in tv nei giorni della quarantena forzata ilLibraio.it"
+        },
+        {
+          "title": "Harry Potter, arrivano in tv i film “L’ordine della fenice” e “Il principe mezzosangue” - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter, arrivano in tv i film “L’ordine della fenice” e “Il principe mezzosangue” iO Donna"
+        },
+        {
+          "title": "Harry Potter: 10 cose che (forse) non sai sulla saga - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter: 10 cose che (forse) non sai sulla saga Radio Deejay"
+        },
+        {
+          "title": "Harry Potter, la felicità al tempo del virus - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter, la felicità al tempo del virus la Repubblica"
+        },
+        {
+          "title": "Harry Potter, stasera e domani in tv su Italia 1 con altre due avventure - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter, stasera e domani in tv su Italia 1 con altre due avventure Amica.it"
+        },
+        {
+          "title": "Harry Potter e il prigioniero di Azkaban: il film in cui cambia tutto - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter e il prigioniero di Azkaban: il film in cui cambia tutto Mediaset Infinity"
+        },
+        {
+          "title": "“Non voglio che le persone dimentichino che sono stato Harry Potter”. Un’intervista a Daniel Radcliffe - Wired",
+          "source": "Wired",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "“Non voglio che le persone dimentichino che sono stato Harry Potter”. Un’intervista a Daniel Radcliffe Wired"
+        }
+      ]
+    },
+    "Elisabetta_II_del_Regno_Unito": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elisabetta II è stata regina del Regno Unito di Gran Bretagna e Irlanda del Nord e degli altri reami del Commonwealth dal 6 febbraio 1952 fino alla sua morte.",
+      "news": [
+        {
+          "title": "Eugenia di York: royal baby in arrivo? I bookmakers chiudono le scommesse - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Eugenia di York: royal baby in arrivo? I bookmakers chiudono le scommesse iO Donna"
+        },
+        {
+          "title": "Gordon Ramsay chiude tutti i suoi ristoranti, è la fine del \"diavolo in cucina\"? - Marie Claire",
+          "source": "Marie Claire",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Gordon Ramsay chiude tutti i suoi ristoranti, è la fine del \"diavolo in cucina\"? Marie Claire"
+        },
+        {
+          "title": "“Il principe Filippo è morto. Ma la regina Elisabetta è costretta al silenzio”. L’indiscrezione - GiornaleSM",
+          "source": "GiornaleSM",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "“Il principe Filippo è morto. Ma la regina Elisabetta è costretta al silenzio”. L’indiscrezione GiornaleSM"
+        }
+      ]
+    },
+    "Il_buco_(film_2019)": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il buco è un film del 2019 diretto da Galder Gaztelu-Urrutia.",
+      "news": [
+        {
+          "title": "Il Buco: lo straordinario horror distopico Netflix che è una spietata allegoria sociale [recensione] - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Il Buco: lo straordinario horror distopico Netflix che è una spietata allegoria sociale [recensione] Anonima Cinefili"
+        },
+        {
+          "title": "Il buco - Onda Cinema",
+          "source": "Onda Cinema",
+          "pubDate": "Sun, 29 Mar 2020 07:00:00 GMT",
+          "description": "Il buco Onda Cinema"
+        },
+        {
+          "title": "Il Buco, di Galder Gaztelu-Urrutia. La recensione - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Sun, 29 Mar 2020 07:00:00 GMT",
+          "description": "Il Buco, di Galder Gaztelu-Urrutia. La recensione Sentieri selvaggi"
+        },
+        {
+          "title": "Il Buco - Recensione del thriller spagnolo disponibile su Netflix - Nerdevil",
+          "source": "Nerdevil",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Il Buco - Recensione del thriller spagnolo disponibile su Netflix Nerdevil"
+        },
+        {
+          "title": "Il cinema di genere ai tempi del… The Platform. - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Il cinema di genere ai tempi del… The Platform. i400Calci"
+        },
+        {
+          "title": "Il Buco – la metafora di una società al collasso. Recensione film Netflix - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Il Buco – la metafora di una società al collasso. Recensione film Netflix Telefilm Central"
+        },
+        {
+          "title": "Il buco: cosa significa il finale del film su Netflix? - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Il buco: cosa significa il finale del film su Netflix? Movieplayer"
+        },
+        {
+          "title": "Il Buco – Cane mangia cane nell’horror spagnolo di Netflix - Birdmen Magazine",
+          "source": "Birdmen Magazine",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Il Buco – Cane mangia cane nell’horror spagnolo di Netflix Birdmen Magazine"
+        },
+        {
+          "title": "IL BUCO | Recensione del film Netflix - MovieDigger",
+          "source": "MovieDigger",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "IL BUCO | Recensione del film Netflix MovieDigger"
+        },
+        {
+          "title": "Il Buco disponibile su Netflix, l’horror perfetto (o anche no) per questo periodo di isolamento - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Il Buco disponibile su Netflix, l’horror perfetto (o anche no) per questo periodo di isolamento Fanpage"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Coronavirus: la letalità in Italia, tra apparenza e realtà - ISPI",
+          "source": "ISPI",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus: la letalità in Italia, tra apparenza e realtà ISPI"
+        },
+        {
+          "title": "Decreto “Cura Italia”: le risposte alle FAQ - Ministero del Lavoro e delle Politiche",
+          "source": "Ministero del Lavoro e delle Politiche",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Decreto “Cura Italia”: le risposte alle FAQ Ministero del Lavoro e delle Politiche"
+        },
+        {
+          "title": "La nuova fattispecie di conversione delle “DTA” introdotta dal Decreto “Cura Italia” - DB - Non solo Diritto Bancario",
+          "source": "DB - Non solo Diritto Bancario",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "La nuova fattispecie di conversione delle “DTA” introdotta dal Decreto “Cura Italia” DB - Non solo Diritto Bancario"
+        },
+        {
+          "title": "Viaggio in Italia di Gabriele Salvatores. Perché la memoria costruisce il futuro - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Wed, 25 Mar 2020 18:04:28 GMT",
+          "description": "Viaggio in Italia di Gabriele Salvatores. Perché la memoria costruisce il futuro Rai.it"
+        },
+        {
+          "title": "Coronavirus in Italia: lo staff medico lavora oltre ogni limite - Medici Senza Frontiere ETS",
+          "source": "Medici Senza Frontiere ETS",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus in Italia: lo staff medico lavora oltre ogni limite Medici Senza Frontiere ETS"
+        },
+        {
+          "title": "01. Le lingue minoritarie in Europa, Italia, Friuli - ARLeF",
+          "source": "ARLeF",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "01. Le lingue minoritarie in Europa, Italia, Friuli ARLeF"
+        }
+      ]
+    },
+    "Mina_(cantante)": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mina, pseudonimo di Mina Anna Mazzini, è una cantante, produttrice discografica, conduttrice televisiva, conduttrice radiofonica e attrice italiana naturalizzata svizzera.",
+      "news": [
+        {
+          "title": "Nasce Mina Mazzini - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Wed, 25 Mar 2020 06:39:17 GMT",
+          "description": "Nasce Mina Mazzini Rai Cultura"
+        },
+        {
+          "title": "Mina Mazzini: compleanno e migliori trucco e capelli - Vogue",
+          "source": "Vogue",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Mina Mazzini: compleanno e migliori trucco e capelli Vogue"
+        },
+        {
+          "title": "Mina compie 80 anni: 10 curiosità sulla cantante - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Mina compie 80 anni: 10 curiosità sulla cantante Corriere della Sera"
+        },
+        {
+          "title": "Mina: 80 anni e il coraggio di dire \"basta\" - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Mina: 80 anni e il coraggio di dire \"basta\" Il Bo Live"
+        },
+        {
+          "title": "Mina, 80 anni da diva libera: “Preferisco un contratto a vita con la mia famiglia che con la tv, il rapporto col pubblico vive con i miei dischi” - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Mina, 80 anni da diva libera: “Preferisco un contratto a vita con la mia famiglia che con la tv, il rapporto col pubblico vive con i miei dischi” Il Fatto Quotidiano"
+        },
+        {
+          "title": "I 15 duetti più belli tra Mina e i big della canzone. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "I 15 duetti più belli tra Mina e i big della canzone. FOTO Sky TG24"
+        },
+        {
+          "title": "Superlativa in tutto. Persino nell'anticipare la quarantena. Auguri, Signora della canzone! - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Superlativa in tutto. Persino nell'anticipare la quarantena. Auguri, Signora della canzone! iO Donna"
+        },
+        {
+          "title": "Mina compie 80 anni ed è ancora un esempio da seguire - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Mina compie 80 anni ed è ancora un esempio da seguire Rolling Stone Italia"
+        },
+        {
+          "title": "Compleanno Mina 80. Tutti gli uomini della sua vita - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Compleanno Mina 80. Tutti gli uomini della sua vita Amica.it"
+        },
+        {
+          "title": "Mina, furore e languore (a tutte le età) - Harper's BAZAAR",
+          "source": "Harper's BAZAAR",
+          "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
+          "description": "Mina, furore e languore (a tutte le età) Harper's BAZAAR"
+        }
+      ]
+    },
+    "Epidemia_di_coronavirus": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "La pandemia di Covid-19 e la speculative fiction - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "La pandemia di Covid-19 e la speculative fiction Il Bo Live"
+        },
+        {
+          "title": "Ilaria Capua: virus opportunista e scippatore - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Ilaria Capua: virus opportunista e scippatore Scienza in rete"
+        },
+        {
+          "title": "I saluti ai tempi del COVID - Policlinico Universitario Agostino Gemelli IRCCS",
+          "source": "Policlinico Universitario Agostino Gemelli IRCCS",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "I saluti ai tempi del COVID Policlinico Universitario Agostino Gemelli IRCCS"
+        },
+        {
+          "title": "Il Papa prega per la fine della pandemia: Dio, non lasciarci in balia della tempesta - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Il Papa prega per la fine della pandemia: Dio, non lasciarci in balia della tempesta Vatican News"
+        },
+        {
+          "title": "Febbre da COVID-19 in età pediatrica: stai in guardia e non farti influenzare da notizie false sui farmaci antipiretici - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Febbre da COVID-19 in età pediatrica: stai in guardia e non farti influenzare da notizie false sui farmaci antipiretici www.sifweb.org"
+        },
+        {
+          "title": "Il testo integrale dell'omelia del Papa in tempo di epidemia - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Il testo integrale dell'omelia del Papa in tempo di epidemia Vatican News"
+        },
+        {
+          "title": "CoVid-19: il virus era presente in Lombardia già il 1° gennaio 2020 - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "CoVid-19: il virus era presente in Lombardia già il 1° gennaio 2020 Il Bo Live"
+        }
+      ]
+    },
+    "Élite_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Élite è una serie serie televisiva spagnola ideata da Carlos Montero Castiñeira e Darío Madrona per Netflix e distribuita per otto stagioni dal 2018 al 2024.",
+      "news": [
+        {
+          "title": "Elite, il cast della serie tv Netflix. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Elite, il cast della serie tv Netflix. FOTO Sky TG24"
+        },
+        {
+          "title": "Danna Paola: 10 curiosità sull’attrice che interpreta Lucrecia in Élite - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Fri, 27 Mar 2020 07:00:00 GMT",
+          "description": "Danna Paola: 10 curiosità sull’attrice che interpreta Lucrecia in Élite Telefilm Central"
+        },
+        {
+          "title": "Élite 3 – Ognuno ha quel che si merita - Birdmen Magazine",
+          "source": "Birdmen Magazine",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Élite 3 – Ognuno ha quel che si merita Birdmen Magazine"
+        },
+        {
+          "title": "Dress like 'Élite' - nss magazine",
+          "source": "nss magazine",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Dress like 'Élite' nss magazine"
+        },
+        {
+          "title": "Jorge López: 10 curiosità sull’attore che veste i panni di Valerio in Élite - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Jorge López: 10 curiosità sull’attore che veste i panni di Valerio in Élite Telefilm Central"
+        },
+        {
+          "title": "Elite 3, Álvaro Rico: \"Le scene di sesso? Mai avuto problemi a girarle\" - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Tue, 24 Mar 2020 07:00:00 GMT",
+          "description": "Elite 3, Álvaro Rico: \"Le scene di sesso? Mai avuto problemi a girarle\" ComingSoon.it"
+        },
+        {
+          "title": "La casa di carta: In una foto di Miguel Herrán un dettaglio che non passa inosservato... - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "La casa di carta: In una foto di Miguel Herrán un dettaglio che non passa inosservato... ComingSoon.it"
+        },
+        {
+          "title": "Toy Boy: tutto quello che sappiamo sulla serie TV spagnola - Telefilm Central",
+          "source": "Telefilm Central",
+          "pubDate": "Sat, 28 Mar 2020 07:00:00 GMT",
+          "description": "Toy Boy: tutto quello che sappiamo sulla serie TV spagnola Telefilm Central"
+        },
+        {
+          "title": "Ma ha senso una quarta stagione di Élite? - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Ma ha senso una quarta stagione di Élite? Hall of Series"
+        },
+        {
+          "title": "7 curiosità su Danna Paola, la Lucrecia di Élite - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "7 curiosità su Danna Paola, la Lucrecia di Élite Hall of Series"
+        }
+      ]
+    },
+    "Doc_-_Nelle_tue_mani": {
+      "fetched_at": "2026-11-06T16:19:50+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Doc - Nelle tue mani è una serie televisiva italiana trasmessa su Rai 1 dal 26 marzo 2020.",
+      "news": [
+        {
+          "title": "DOC. Nelle tue mani - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "DOC. Nelle tue mani Rai.it"
+        },
+        {
+          "title": "Doc - Nelle tue mani - S1E2 - Selfie - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Doc - Nelle tue mani - S1E2 - Selfie - Video RaiPlay"
+        },
+        {
+          "title": "Pierdante Piccioni: i libri e la fiction \"Doc - Nelle tue mani\" - Libri Mondadori",
+          "source": "Libri Mondadori",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Pierdante Piccioni: i libri e la fiction \"Doc - Nelle tue mani\" Libri Mondadori"
+        },
+        {
+          "title": "Pierdante Piccioni è il medico che ha ispirato \"Doc. Nelle tue mani\" - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Pierdante Piccioni è il medico che ha ispirato \"Doc. Nelle tue mani\" TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Doc - Nelle tue mani - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Mon, 30 Mar 2020 07:00:00 GMT",
+          "description": "Doc - Nelle tue mani MYmovies"
+        },
+        {
+          "title": "DOC, la recensione degli episodi 1 e 2: Argentero, un medico in cerca di sé dopo un'amnesia - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "DOC, la recensione degli episodi 1 e 2: Argentero, un medico in cerca di sé dopo un'amnesia Movieplayer"
+        },
+        {
+          "title": "Matilde Gioli: «\"Doc, nelle tue mani\" lo dedico ai medici che si fanno il mazzo per noi» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Matilde Gioli: «\"Doc, nelle tue mani\" lo dedico ai medici che si fanno il mazzo per noi» Vanity Fair Italia"
+        },
+        {
+          "title": "Doc Nelle tue mani Luca Argentero è il medico Pierdante Piccioni - FS News",
+          "source": "FS News",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Doc Nelle tue mani Luca Argentero è il medico Pierdante Piccioni FS News"
+        },
+        {
+          "title": "Luca Argentero racconta la serie Doc - Nelle tue Mani - The HotCorn",
+          "source": "The HotCorn",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "Luca Argentero racconta la serie Doc - Nelle tue Mani The HotCorn"
+        },
+        {
+          "title": "'Doc - Nelle tue mani', le anticipazioni della prima puntata - Today",
+          "source": "Today",
+          "pubDate": "Thu, 26 Mar 2020 07:00:00 GMT",
+          "description": "'Doc - Nelle tue mani', le anticipazioni della prima puntata Today"
+        }
+      ]
+    }
+  }
+}

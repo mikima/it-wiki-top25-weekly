@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Coronavirus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Coronavirus",
       "article_url": "https://it.wikipedia.org/wiki/Coronavirus",
-      "description": "",
+      "description": "Famiglia di virus che comprende SARS-CoV-2. Il 21 febbraio viene individuato un focolaio di COVID-19 a Codogno.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20SARS-CoV-2%20del%202020%20in%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Epidemia_di_SARS-CoV-2_del_2020_in_Italia",
       "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_SARS-CoV-2_del_2020_in_Italia",
-      "description": "",
+      "description": "Dopo il focolaio di Codogno del 21 febbraio, i contagi aumentano: il 26 febbraio si contano 12 vittime in Italia.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20SARS-CoV-2%20del%202019-2020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Epidemia_di_SARS-CoV-2_del_2019-2020",
       "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_SARS-CoV-2_del_2019-2020",
-      "description": "",
+      "description": "L'epidemia di COVID-19 si diffonde anche in Italia, dove il 21 febbraio viene individuato un focolaio a Codogno.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "La concessionaria del servizio pubblico radiotelevisivo è in classifica da 27 settimane consecutive, senza un picco di rilievo.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Influenza%20spagnola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Influenza_spagnola",
       "article_url": "https://it.wikipedia.org/wiki/Influenza_spagnola",
-      "description": "pandemia dal 1918 al 1920",
+      "description": "Pandemia influenzale del 1918-1920, il picco è probabilmente legato al focolaio di COVID-19 individuato a Codogno il 21 febbraio.",
       "image_filename": "Reconstructed_Spanish_Flu_Virus.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Reconstructed_Spanish_Flu_Virus.jpg/1280px-Reconstructed_Spanish_Flu_Virus.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Reconstructed_Spanish_Flu_Virus.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=SARS-CoV-2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=SARS-CoV-2",
       "article_url": "https://it.wikipedia.org/wiki/SARS-CoV-2",
-      "description": "specie di virus della famiglia Coronaviridae",
+      "description": "Coronavirus responsabile della COVID-19, malattia di cui il 21 febbraio viene individuato un focolaio a Codogno.",
       "image_filename": "Coronavirus._SARS-CoV-2.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1280px-Coronavirus._SARS-CoV-2.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronavirus._SARS-CoV-2.png",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Pedigree&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Pedigree",
       "article_url": "https://it.wikipedia.org/wiki/Pedigree",
-      "description": "",
+      "description": "Documento genealogico degli animali. Probabile errore nei dati: 143.925 visite il 26 febbraio e zero in quattro giorni.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Tommaso%20Buscetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Tommaso_Buscetta",
       "article_url": "https://it.wikipedia.org/wiki/Tommaso_Buscetta",
-      "description": "mafioso e collaboratore di giustizia italiano (1928-2000)",
+      "description": "Mafioso e collaboratore di giustizia morto nel 2000, viene nominato da Clizia Incorvaia, squalificata il 24 febbraio dal Grande Fratello VIP.",
       "image_filename": "Buscetta_tommaso.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Buscetta_tommaso.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Buscetta_tommaso.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Vincenzo%20Mollica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Vincenzo_Mollica",
       "article_url": "https://it.wikipedia.org/wiki/Vincenzo_Mollica",
-      "description": "giornalista e scrittore italiano (1953-)",
+      "description": "Giornalista del Tg1, va in pensione ed è ospite il 1º marzo a Domenica In su Rai 1.",
       "image_filename": "Vincenzo_Mollica.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vincenzo_Mollica.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vincenzo_Mollica.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Pandemia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Pandemia",
       "article_url": "https://it.wikipedia.org/wiki/Pandemia",
-      "description": "epidemia la cui diffusione interessa più aree geografiche del mondo",
+      "description": "Epidemia diffusa su vasta scala. Il picco è probabilmente legato al focolaio di COVID-19 individuato a Codogno il 21 febbraio.",
       "image_filename": "1918FluVictimsStLouis.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1918FluVictimsStLouis.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:1918FluVictimsStLouis.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=L%27amica%20geniale%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=L%27amica_geniale_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/L%27amica_geniale_(serie_televisiva)",
-      "description": "serie televisiva italo-statunitense",
+      "description": "Il 24 febbraio vanno in onda su Rai 1 il quinto e il sesto episodio della seconda stagione.",
       "image_filename": "AmicaGeniale.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/07/AmicaGeniale.jpg/1280px-AmicaGeniale.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:AmicaGeniale.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Codogno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Codogno",
       "article_url": "https://it.wikipedia.org/wiki/Codogno",
-      "description": "comune italiano",
+      "description": "Comune in provincia di Lodi, il 21 febbraio vi viene individuato un focolaio di COVID-19.",
       "image_filename": "Flag_blue_green_3x2.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_blue_green_3x2.svg/1280px-Flag_blue_green_3x2.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_blue_green_3x2.svg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=SARS&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=SARS",
       "article_url": "https://it.wikipedia.org/wiki/SARS",
-      "description": "sindrome respiratoria acuta grave",
+      "description": "Malattia respiratoria causata da un coronavirus, il picco è probabilmente legato al focolaio di COVID-19 individuato a Codogno il 21 febbraio.",
       "image_filename": "Coronaviruses_004_lores.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/1280px-Coronaviruses_004_lores.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronaviruses_004_lores.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Mia%20Martini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Mia_Martini",
       "article_url": "https://it.wikipedia.org/wiki/Mia_Martini",
-      "description": "cantautrice italiana (1947-1995)",
+      "description": "Cantante italiana morta nel 1995, è ricordata nel documentario Mia Martini, fammi sentire bella, in onda il 27 febbraio su Rai 3.",
       "image_filename": "Mia_Martini_(69).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Mia_Martini_%2869%29.jpg/1280px-Mia_Martini_%2869%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mia_Martini_(69).jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Albert%20Einstein&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Albert_Einstein",
       "article_url": "https://it.wikipedia.org/wiki/Albert_Einstein",
-      "description": "fisico svizzero-tedesco e statunitense (1879–1955)",
+      "description": "Fisico tedesco, è probabilmente al centro di una domanda sul Nobel nella puntata del 26 febbraio di Chi vuol essere milionario? su Canale 5.",
       "image_filename": "Albert_Einstein_Head_cleaned.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/1280px-Albert_Einstein_Head_cleaned.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Peste%20nera&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Peste_nera",
       "article_url": "https://it.wikipedia.org/wiki/Peste_nera",
-      "description": "pandemia di peste del XIV secolo",
+      "description": "Pandemia di peste del XIV secolo, il picco è probabilmente legato al focolaio di COVID-19 individuato a Codogno il 21 febbraio.",
       "image_filename": "Trionfo_della_morte,_già_a_palazzo_sclafani,_galleria_regionale_di_Palazzo_Abbatellis,_palermo_(1446)_,_affresco_staccato.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_%281446%29_%2C_affresco_staccato.jpg/1280px-Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_%281446%29_%2C_affresco_staccato.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_(1446)_%2C_affresco_staccato.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=12%20anni%20schiavo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=12_anni_schiavo",
       "article_url": "https://it.wikipedia.org/wiki/12_anni_schiavo",
-      "description": "film del 2013 diretto da Steve McQueen",
+      "description": "Film del 2013 diretto da Steve McQueen, va in onda in televisione il 27 febbraio.",
       "image_filename": "12_Years_a_Slave.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/12_Years_a_Slave.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:12_Years_a_Slave.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=COVID-19&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=COVID-19",
       "article_url": "https://it.wikipedia.org/wiki/COVID-19",
-      "description": "malattia infettiva respiratoria causata dal ceppo patogeno SARS-CoV-2",
+      "description": "Malattia respiratoria causata dal coronavirus SARS-CoV-2, il 21 febbraio ne viene individuato un focolaio a Codogno.",
       "image_filename": "Fphar-11-00937-g001.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fphar-11-00937-g001.jpg/1280px-Fphar-11-00937-g001.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fphar-11-00937-g001.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Virus%20%28biologia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Virus_(biologia)",
       "article_url": "https://it.wikipedia.org/wiki/Virus_(biologia)",
-      "description": "entità biologica",
+      "description": "Entità biologica che si replica nelle cellule degli organismi. Il picco è probabilmente legato al focolaio di COVID-19 individuato il 21 febbraio a Codogno.",
       "image_filename": "Rotavirus_Reconstruction.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rotavirus_Reconstruction.jpg/1280px-Rotavirus_Reconstruction.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rotavirus_Reconstruction.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Elettra%20Lamborghini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Elettra_Lamborghini",
       "article_url": "https://it.wikipedia.org/wiki/Elettra_Lamborghini",
-      "description": "cantante, showgirl e conduttrice televisiva italiana (1994-)",
+      "description": "Cantante e showgirl italiana, è in classifica dalla partecipazione al Festival di Sanremo, concluso l'8 febbraio.",
       "image_filename": "Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_%28cropped%29.jpg/1280px-Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Attilio%20Fontana%20%28politico%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Attilio_Fontana_(politico)",
       "article_url": "https://it.wikipedia.org/wiki/Attilio_Fontana_(politico)",
-      "description": "",
+      "description": "Presidente della Lombardia ed esponente della Lega, il 26 febbraio si mette in isolamento dopo la positività di una collaboratrice al coronavirus.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Hunters%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Hunters_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Hunters_(serie_televisiva)",
-      "description": "serie televisiva statunitense del 2020",
+      "description": "Il 21 febbraio esce su Amazon Prime Video la prima stagione della serie statunitense con Al Pacino.",
       "image_filename": "Hunters_trailer.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/e/e0/Hunters_trailer.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hunters_trailer.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Starbucks&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Starbucks",
       "article_url": "https://it.wikipedia.org/wiki/Starbucks",
-      "description": "catena internazionale di caffetterie",
+      "description": "Catena statunitense di caffetterie, è probabilmente oggetto di una domanda nella puntata del 26 febbraio di Chi vuol essere milionario? su Canale 5.",
       "image_filename": "Starbuckscenter.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/1280px-Starbuckscenter.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Starbuckscenter.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Ipoclorito%20di%20sodio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/24/2020,cd_max:03/01/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-24&end=2020-03-01&pages=Ipoclorito_di_sodio",
       "article_url": "https://it.wikipedia.org/wiki/Ipoclorito_di_sodio",
-      "description": "composto chimico",
+      "description": "Composto usato nei disinfettanti, il picco è probabilmente legato al focolaio di COVID-19 individuato a Codogno il 21 febbraio.",
       "image_filename": "Sodium-hypochlorite.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sodium-hypochlorite.png/1280px-Sodium-hypochlorite.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sodium-hypochlorite.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

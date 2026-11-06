@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, è protagonista di The Crown, la cui quarta stagione esce su Netflix il 15 novembre.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20regina%20degli%20scacchi%20%28miniserie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=La_regina_degli_scacchi_(miniserie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/La_regina_degli_scacchi_(miniserie_televisiva)",
-      "description": "miniserie televisiva statunitense del 2020",
+      "description": "Miniserie con Anya Taylor-Joy, disponibile su Netflix dal 23 ottobre, è in classifica per la quarta settimana consecutiva.",
       "image_filename": "La_regina_degli_scacchi_TV.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/72/La_regina_degli_scacchi_TV.png/1280px-La_regina_degli_scacchi_TV.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_regina_degli_scacchi_TV.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Margaret%20Thatcher&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Margaret_Thatcher",
       "article_url": "https://it.wikipedia.org/wiki/Margaret_Thatcher",
-      "description": "politica britannica (1925-2013)",
+      "description": "Ex prima ministra britannica, è interpretata da Gillian Anderson nella quarta stagione di The Crown, uscita il 15 novembre su Netflix.",
       "image_filename": "Margaret_Thatcher_stock_portrait_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait_(cropped).jpg",
       "image_license": "Copyrighted free use",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Margaret%2C%20contessa%20di%20Snowdon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Margaret%2C_contessa_di_Snowdon",
       "article_url": "https://it.wikipedia.org/wiki/Margaret%2C_contessa_di_Snowdon",
-      "description": "principessa britannica",
+      "description": "Principessa britannica e sorella di Elisabetta II, compare in The Crown, la cui quarta stagione esce il 15 novembre su Netflix.",
       "image_filename": "Prinses_Margaret_in_het_Amstel_Hotel_(Bestanddeelnr_917-7739).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Prinses_Margaret_in_het_Amstel_Hotel_%28Bestanddeelnr_917-7739%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Prinses_Margaret_in_het_Amstel_Hotel_(Bestanddeelnr_917-7739).jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Crown%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=The_Crown_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Crown_(serie_televisiva)",
-      "description": "serie televisiva anglo-statunitense (2016-2023)",
+      "description": "Il 15 novembre esce su Netflix la quarta stagione della serie sulla famiglia reale britannica.",
       "image_filename": "The_Crown_Logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/ff/The_Crown_Logo.png/1280px-The_Crown_Logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Crown_Logo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Diana%20Spencer&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Diana_Spencer",
       "article_url": "https://it.wikipedia.org/wiki/Diana_Spencer",
-      "description": "principessa del Galles (1961-1997)",
+      "description": "Principessa del Galles, è interpretata da Emma Corrin nella quarta stagione di The Crown, uscita il 15 novembre su Netflix.",
       "image_filename": "Diana,_Princess_of_Wales_1997_(2).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diana%2C_Princess_of_Wales_1997_(2).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Gli%20orologi%20del%20diavolo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Gli_orologi_del_diavolo",
       "article_url": "https://it.wikipedia.org/wiki/Gli_orologi_del_diavolo",
-      "description": "serie televisiva italiana del 2020",
+      "description": "Il 16 e il 17 novembre vanno in onda su Rai 1 la terza e l'ultima puntata della miniserie con Giuseppe Fiorello.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Carlo%20Verdone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Carlo_Verdone",
       "article_url": "https://it.wikipedia.org/wiki/Carlo_Verdone",
-      "description": "attore e regista italiano (1950-)",
+      "description": "Attore e regista italiano, compie 70 anni il 17 novembre.",
       "image_filename": "Carlo_Verdone_2007_cropped.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Carlo_Verdone_2007_cropped.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carlo_Verdone_2007_cropped.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Eli%C5%A1ka%20Junkov%C3%A1&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Eli%C5%A1ka_Junkov%C3%A1",
       "article_url": "https://it.wikipedia.org/wiki/Eli%C5%A1ka_Junkov%C3%A1",
-      "description": "pilota automobilistica cecoslovacca",
+      "description": "Pilota automobilistica cecoslovacca, il 16 novembre Google le dedica un Doodle per i 120 anni dalla nascita.",
       "image_filename": "Elisabeth_Junek_en_1927.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Elisabeth_Junek_en_1927.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elisabeth_Junek_en_1927.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Filippo%20di%20Edimburgo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Filippo_di_Edimburgo",
       "article_url": "https://it.wikipedia.org/wiki/Filippo_di_Edimburgo",
-      "description": "membro della famiglia reale britannica, marito di Elisabetta II, duca di Edimburgo (1921-2021)",
+      "description": "Duca di Edimburgo, il 20 novembre festeggia 73 anni di matrimonio con la regina Elisabetta II.",
       "image_filename": "Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Duke_of_Edinburgh_33_Allan_Warren.jpg/1280px-Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Duke_of_Edinburgh_33_Allan_Warren.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Resta%20con%20me%20%28film%202018%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Resta_con_me_(film_2018)",
       "article_url": "https://it.wikipedia.org/wiki/Resta_con_me_(film_2018)",
-      "description": "film del 2018 diretto da Baltasar Kormákur",
+      "description": "Film del 2018 diretto da Baltasar Kormákur, va in onda il 18 novembre su Canale 5.",
       "image_filename": "Adrift_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/67/Adrift_2018.jpg/1280px-Adrift_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Adrift_2018.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20Gregoraci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Elisabetta_Gregoraci",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_Gregoraci",
-      "description": "conduttrice televisiva, showgirl ed ex modella italiana (1980-)",
+      "description": "Conduttrice e showgirl italiana, partecipa al Grande Fratello VIP, in onda il 20 novembre su Canale 5.",
       "image_filename": "Elisabetta_Gregoraci_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Elisabetta_Gregoraci_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elisabetta_Gregoraci_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Servizio pubblico radiotelevisivo italiano; nessun picco di rilievo nella settimana.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Gino%20Strada&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Gino_Strada",
       "article_url": "https://it.wikipedia.org/wiki/Gino_Strada",
-      "description": "medico, attivista, filantropo e scrittore italiano (1948-2021)",
+      "description": "Medico e fondatore di Emergency, il 16 novembre viene proposta una sua collaborazione per l'emergenza COVID-19 in Calabria.",
       "image_filename": "Gino_Strada_2010.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gino_Strada_2010.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gino_Strada_2010.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Anya%20Taylor-Joy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Anya_Taylor-Joy",
       "article_url": "https://it.wikipedia.org/wiki/Anya_Taylor-Joy",
-      "description": "attrice e modella statunitense",
+      "description": "Attrice statunitense, è protagonista della miniserie La regina degli scacchi, disponibile su Netflix dal 23 ottobre.",
       "image_filename": "Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_%28cropped%29.jpg/1280px-Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Carlo%2C%20principe%20del%20Galles&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Carlo%2C_principe_del_Galles",
       "article_url": "https://it.wikipedia.org/wiki/Carlo%2C_principe_del_Galles",
-      "description": "",
+      "description": "Principe del Galles e figlio di Elisabetta II, compare nella quarta stagione di The Crown, uscita il 15 novembre su Netflix.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=UEFA%20Nations%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=UEFA_Nations_League",
       "article_url": "https://it.wikipedia.org/wiki/UEFA_Nations_League",
-      "description": "competizione calcistica continentale per squadre nazionali organizzata dalla UEFA",
+      "description": "Il 18 novembre l'Italia batte la Bosnia-Erzegovina per 2-0 e si qualifica alla fase finale della Nations League.",
       "image_filename": "UEFA_Nations_League.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/1280px-UEFA_Nations_League.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Nations_League.svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorgio%20VI%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Giorgio_VI_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Giorgio_VI_del_Regno_Unito",
-      "description": "re del Regno Unito (r. 1936-1952)",
+      "description": "Re del Regno Unito e padre di Elisabetta II, il picco è probabilmente legato a The Crown, tornata su Netflix il 15 novembre.",
       "image_filename": "King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/1280px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Anna%2C%20principessa%20reale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Anna%2C_principessa_reale",
       "article_url": "https://it.wikipedia.org/wiki/Anna%2C_principessa_reale",
-      "description": "principessa reale britannica",
+      "description": "Principessa britannica e figlia di Elisabetta II, compare nella quarta stagione di The Crown, uscita il 15 novembre su Netflix.",
       "image_filename": "Trooping_the_Colour_2023_(06).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Trooping_the_Colour_2023_%2806%29.jpg/1280px-Trooping_the_Colour_2023_%2806%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Trooping_the_Colour_2023_(06).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Doc%20-%20Nelle%20tue%20mani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Doc_-_Nelle_tue_mani",
       "article_url": "https://it.wikipedia.org/wiki/Doc_-_Nelle_tue_mani",
-      "description": "serie televisiva italiana del 2020",
+      "description": "Il 19 novembre va in onda su Rai 1 l'ultima puntata della prima stagione, con Luca Argentero.",
       "image_filename": "Doc_-_Nelle_tue_mani.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/69/Doc_-_Nelle_tue_mani.png/1280px-Doc_-_Nelle_tue_mani.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Doc_-_Nelle_tue_mani.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Suburra%20-%20La%20serie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Suburra_-_La_serie",
       "article_url": "https://it.wikipedia.org/wiki/Suburra_-_La_serie",
-      "description": "serie televisiva italiana (2017-2020)",
+      "description": "La terza e ultima stagione della serie italiana esce su Netflix il 30 ottobre; è la quarta settimana consecutiva in classifica.",
       "image_filename": "Suburra_-_La_serie.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/15/Suburra_-_La_serie.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Suburra_-_La_serie.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Camilla%20Shand&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Camilla_Shand",
       "article_url": "https://it.wikipedia.org/wiki/Camilla_Shand",
-      "description": "regina consorte del Regno Unito di Gran Bretagna e Irlanda del Nord e dei reami del Commonwealth",
+      "description": "Duchessa di Cornovaglia e moglie del principe Carlo, compare nella quarta stagione di The Crown, uscita il 15 novembre su Netflix.",
       "image_filename": "Queen_Camilla_(enthroned)_2024.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Queen_Camilla_%28enthroned%29_2024.jpg/1280px-Queen_Camilla_%28enthroned%29_2024.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Camilla_(enthroned)_2024.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Flavio%20Briatore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Flavio_Briatore",
       "article_url": "https://it.wikipedia.org/wiki/Flavio_Briatore",
-      "description": "imprenditore e dirigente sportivo italiano (1950-)",
+      "description": "Imprenditore italiano, il 18 novembre smentisce di aver chiesto all'ex moglie Elisabetta Gregoraci di risposarlo.",
       "image_filename": "Briatore_66ème_Festival_de_Venise_(Mostra)_-_cropped.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Briatore_66%C3%A8me_Festival_de_Venise_%28Mostra%29_-_cropped.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Briatore_66%C3%A8me_Festival_de_Venise_(Mostra)_-_cropped.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Louis%20Mountbatten&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Louis_Mountbatten",
       "article_url": "https://it.wikipedia.org/wiki/Louis_Mountbatten",
-      "description": "ultimo viceré d'India, primo conte Mountbatten di Birmania e ammiraglio britannico",
+      "description": "Ammiraglio britannico e zio del principe Filippo, compare nella quarta stagione di The Crown, uscita il 15 novembre su Netflix.",
       "image_filename": "Lord_Mountbatten_Naval_in_colour_Allan_Warren.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lord_Mountbatten_Naval_in_colour_Allan_Warren.jpg/1280px-Lord_Mountbatten_Naval_in_colour_Allan_Warren.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lord_Mountbatten_Naval_in_colour_Allan_Warren.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2020,cd_max:11/22/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-16&end=2020-11-22&pages=Grey%27s_Anatomy",
       "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
-      "description": "serie televisiva statunitense del 2005",
+      "description": "Il 12 novembre debutta su ABC negli Stati Uniti la diciassettesima stagione, con il ritorno di Patrick Dempsey.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

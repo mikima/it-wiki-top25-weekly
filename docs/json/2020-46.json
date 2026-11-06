@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20regina%20degli%20scacchi%20%28miniserie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=La_regina_degli_scacchi_(miniserie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/La_regina_degli_scacchi_(miniserie_televisiva)",
-      "description": "miniserie televisiva statunitense del 2020",
+      "description": "Miniserie statunitense con Anya Taylor-Joy, è disponibile su Netflix dal 23 ottobre.",
       "image_filename": "La_regina_degli_scacchi_TV.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/72/La_regina_degli_scacchi_TV.png/1280px-La_regina_degli_scacchi_TV.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_regina_degli_scacchi_TV.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Pfizer&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Pfizer",
       "article_url": "https://it.wikipedia.org/wiki/Pfizer",
-      "description": "azienda farmaceutica statunitense",
+      "description": "Azienda farmaceutica statunitense, il 9 novembre annuncia con BioNTech risultati promettenti per il vaccino contro la COVID-19.",
       "image_filename": "Pfizer_World_Headquarters_Entrance.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pfizer_World_Headquarters_Entrance.jpg/1280px-Pfizer_World_Headquarters_Entrance.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pfizer_World_Headquarters_Entrance.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Vincenzo%20Grifo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Vincenzo_Grifo",
       "article_url": "https://it.wikipedia.org/wiki/Vincenzo_Grifo",
-      "description": "calciatore italo-tedesco (1993-)",
+      "description": "Calciatore italo-tedesco del Friburgo, segna una doppietta l'11 novembre nell'amichevole vinta dall'Italia 4-0 contro l'Estonia.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Joe%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Joe_Biden",
       "article_url": "https://it.wikipedia.org/wiki/Joe_Biden",
-      "description": "politico statunitense (1942–), 46º presidente degli Stati Uniti d'America (2021–2025)",
+      "description": "Politico democratico statunitense, il 7 novembre viene annunciata la sua vittoria alle presidenziali contro Donald Trump.",
       "image_filename": "Joe_Biden_presidential_portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1280px-Joe_Biden_presidential_portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2020",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2020",
-      "description": "59ª elezione presidenziale degli Stati Uniti d'America",
+      "description": "Si tengono il 3 novembre; il 7 viene annunciata la vittoria del democratico Joe Biden sul presidente uscente Donald Trump.",
       "image_filename": "Joe_Biden_presidential_portrait_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Joe_Biden_presidential_portrait_%28cropped%29.jpg/1280px-Joe_Biden_presidential_portrait_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Jannik_Sinner",
       "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
-      "description": "tennista italiano (2001-)",
+      "description": "Tennista italiano, il 14 novembre vince il Sofia Open, suo primo titolo ATP, a 19 anni.",
       "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Stefano%20D%27Orazio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Stefano_D%27Orazio",
       "article_url": "https://it.wikipedia.org/wiki/Stefano_D%27Orazio",
-      "description": "batterista, paroliere, cantante e regista italiano (1948-2020)",
+      "description": "Storico batterista dei Pooh, muore il 6 novembre a 72 anni; il 9 novembre si tengono i funerali a Roma.",
       "image_filename": "Stefano_D'Orazio_2016.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Stefano_D%27Orazio_2016.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Stefano_D%27Orazio_2016.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Suburra%20-%20La%20serie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Suburra_-_La_serie",
       "article_url": "https://it.wikipedia.org/wiki/Suburra_-_La_serie",
-      "description": "serie televisiva italiana (2017-2020)",
+      "description": "Serie televisiva italiana, la terza e ultima stagione viene distribuita su Netflix il 30 ottobre.",
       "image_filename": "Suburra_-_La_serie.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/15/Suburra_-_La_serie.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Suburra_-_La_serie.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Servizio pubblico radiotelevisivo italiano; nessun picco di rilievo nella settimana.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Donald_Trump",
       "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
-      "description": "politico e imprenditore statunitense, 45º e 47º presidente degli Stati Uniti d'America",
+      "description": "Presidente statunitense uscente e candidato repubblicano, viene sconfitto da Joe Biden alle presidenziali, il cui esito è annunciato il 7 novembre.",
       "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Kamala%20Harris&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Kamala_Harris",
       "article_url": "https://it.wikipedia.org/wiki/Kamala_Harris",
-      "description": "procuratrice e politica statunitense",
+      "description": "Senatrice democratica statunitense, il 7 novembre viene annunciata la sua elezione a vicepresidente insieme a Joe Biden.",
       "image_filename": "Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/1280px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Anya%20Taylor-Joy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Anya_Taylor-Joy",
       "article_url": "https://it.wikipedia.org/wiki/Anya_Taylor-Joy",
-      "description": "attrice e modella statunitense",
+      "description": "Attrice statunitense, è la protagonista della miniserie La regina degli scacchi, disponibile su Netflix dal 23 ottobre.",
       "image_filename": "Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_%28cropped%29.jpg/1280px-Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Gli%20orologi%20del%20diavolo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Gli_orologi_del_diavolo",
       "article_url": "https://it.wikipedia.org/wiki/Gli_orologi_del_diavolo",
-      "description": "serie televisiva italiana del 2020",
+      "description": "Miniserie italiana con Giuseppe Fiorello, va in onda su Rai 1 con le prime due puntate il 9 e il 10 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Calciatori%20per%20numero%20di%20gol%20realizzati%20in%20incontri%20ufficiali&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Calciatori_per_numero_di_gol_realizzati_in_incontri_ufficiali",
       "article_url": "https://it.wikipedia.org/wiki/Calciatori_per_numero_di_gol_realizzati_in_incontri_ufficiali",
-      "description": "lista di un progetto Wikimedia",
+      "description": "Elenco dei calciatori con più gol in incontri ufficiali; difficile individuare il motivo del picco di visite.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20II%20del%20Regno%20Unito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Elisabetta_II_del_Regno_Unito",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_II_del_Regno_Unito",
-      "description": "regina del Regno Unito e dei reami del Commonwealth (r. 1952-2022)",
+      "description": "Regina del Regno Unito, è protagonista di The Crown, la cui quarta stagione esce su Netflix il 15 novembre.",
       "image_filename": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Grey%27s%20Anatomy&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Grey%27s_Anatomy",
       "article_url": "https://it.wikipedia.org/wiki/Grey%27s_Anatomy",
-      "description": "serie televisiva statunitense del 2005",
+      "description": "Il 12 novembre vanno in onda su ABC negli Stati Uniti i primi due episodi della diciassettesima stagione, con il ritorno di Patrick Dempsey.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=San%20Martino%20%28poesia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=San_Martino_(poesia)",
       "article_url": "https://it.wikipedia.org/wiki/San_Martino_(poesia)",
-      "description": "componimento poetico di Giosuè Carducci",
+      "description": "Poesia di Giosuè Carducci, legata alla ricorrenza di San Martino, celebrata l'11 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Sophia%20Loren&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Sophia_Loren",
       "article_url": "https://it.wikipedia.org/wiki/Sophia_Loren",
-      "description": "attrice italiana (1934-)",
+      "description": "Attrice italiana, è protagonista del film La vita davanti a sé, distribuito su Netflix il 13 novembre.",
       "image_filename": "Sophia_Loren_-_1959.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sophia_Loren_-_1959.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sophia_Loren_-_1959.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Presidenti%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Presidenti_degli_Stati_Uniti_d%27America",
       "article_url": "https://it.wikipedia.org/wiki/Presidenti_degli_Stati_Uniti_d%27America",
-      "description": "lista di un progetto Wikimedia",
+      "description": "Il 7 novembre viene annunciata la vittoria di Joe Biden, destinato a diventare il 46º presidente degli Stati Uniti.",
       "image_filename": "Flag_of_the_President_of_the_United_States.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_the_President_of_the_United_States.svg/1280px-Flag_of_the_President_of_the_United_States.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_the_United_States.svg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Alberico%20Evani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Alberico_Evani",
       "article_url": "https://it.wikipedia.org/wiki/Alberico_Evani",
-      "description": "allenatore di calcio e calciatore italiano (1963-)",
+      "description": "Vice allenatore della nazionale italiana, l'11 novembre guida gli azzurri contro l'Estonia al posto di Roberto Mancini, positivo al COVID-19.",
       "image_filename": "Alberigo_Evani_2007.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Alberigo_Evani_2007.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alberigo_Evani_2007.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Influenza%20spagnola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Influenza_spagnola",
       "article_url": "https://it.wikipedia.org/wiki/Influenza_spagnola",
-      "description": "pandemia dal 1918 al 1920",
+      "description": "Pandemia influenzale del 1918-1920, non presenta un picco di visite riconducibile a un evento preciso nella settimana.",
       "image_filename": "Reconstructed_Spanish_Flu_Virus.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Reconstructed_Spanish_Flu_Virus.jpg/1280px-Reconstructed_Spanish_Flu_Virus.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Reconstructed_Spanish_Flu_Virus.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Nicola%20Pietrangeli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Nicola_Pietrangeli",
       "article_url": "https://it.wikipedia.org/wiki/Nicola_Pietrangeli",
-      "description": "tennista italiano (1933-2025)",
+      "description": "Ex tennista italiano, il picco del 14 novembre potrebbe essere legato alla vittoria di Jannik Sinner al Sofia Open, suo primo titolo ATP.",
       "image_filename": "Nicola_Pietrangeli_cropped.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nicola_Pietrangeli_cropped.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nicola_Pietrangeli_cropped.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20collegio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Il_collegio",
       "article_url": "https://it.wikipedia.org/wiki/Il_collegio",
-      "description": "programma televisivo italiano",
+      "description": "Il 10 novembre va in onda su Rai 2 la terza puntata della quinta edizione del docu-reality.",
       "image_filename": "Il_Collegio.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Il_Collegio.png/1280px-Il_Collegio.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Collegio.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Pooh&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2020,cd_max:11/15/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-09&end=2020-11-15&pages=Pooh",
       "article_url": "https://it.wikipedia.org/wiki/Pooh",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale italiano, il 6 novembre muore lo storico batterista Stefano D'Orazio; i funerali si tengono il 9 novembre.",
       "image_filename": "Pooh_72.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pooh_72.jpg/1280px-Pooh_72.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pooh_72.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

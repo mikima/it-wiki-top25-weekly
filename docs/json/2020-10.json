@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20COVID-19%20del%202019-2020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Epidemia_di_COVID-19_del_2019-2020",
       "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_COVID-19_del_2019-2020",
-      "description": "",
+      "description": "L'epidemia si diffonde nel mondo; il 7 marzo l'OMS segnala oltre 100.000 casi di COVID-19.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Coronavirus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Coronavirus",
       "article_url": "https://it.wikipedia.org/wiki/Coronavirus",
-      "description": "",
+      "description": "Famiglia di virus che comprende SARS-CoV-2. Il 4 marzo il governo dispone la sospensione delle lezioni per l'epidemia di COVID-19.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "La concessionaria del servizio pubblico radiotelevisivo è in classifica da molte settimane, senza un picco di rilievo.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20COVID-19%20del%202020%20in%20Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Epidemia_di_COVID-19_del_2020_in_Italia",
       "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_COVID-19_del_2020_in_Italia",
-      "description": "",
+      "description": "L'8 marzo il bollettino nazionale riporta 7.375 casi di COVID-19 e 366 morti.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Francesca%20Manzini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Francesca_Manzini",
       "article_url": "https://it.wikipedia.org/wiki/Francesca_Manzini",
-      "description": "imitatrice, conduttrice televisiva e conduttrice radiofonica italiana",
+      "description": "Imitatrice e conduttrice italiana, dal 2 marzo conduce Striscia la notizia con Gerry Scotti su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Influenza%20spagnola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Influenza_spagnola",
       "article_url": "https://it.wikipedia.org/wiki/Influenza_spagnola",
-      "description": "pandemia dal 1918 al 1920",
+      "description": "Pandemia influenzale del 1918-1920, è messa a confronto con l'epidemia di COVID-19 in un articolo di Focus del 7 marzo.",
       "image_filename": "Reconstructed_Spanish_Flu_Virus.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Reconstructed_Spanish_Flu_Virus.jpg/1280px-Reconstructed_Spanish_Flu_Virus.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Reconstructed_Spanish_Flu_Virus.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Pandemia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Pandemia",
       "article_url": "https://it.wikipedia.org/wiki/Pandemia",
-      "description": "epidemia la cui diffusione interessa più aree geografiche del mondo",
+      "description": "Epidemia diffusa su vasta scala, il picco è probabilmente legato alla diffusione della COVID-19: il 4 marzo l'Italia sospende le lezioni.",
       "image_filename": "1918FluVictimsStLouis.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1918FluVictimsStLouis.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:1918FluVictimsStLouis.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=SARS-CoV-2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=SARS-CoV-2",
       "article_url": "https://it.wikipedia.org/wiki/SARS-CoV-2",
-      "description": "specie di virus della famiglia Coronaviridae",
+      "description": "Coronavirus responsabile della COVID-19, l'8 marzo il governo adotta nuove misure per contenere il contagio.",
       "image_filename": "Coronavirus._SARS-CoV-2.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1280px-Coronavirus._SARS-CoV-2.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronavirus._SARS-CoV-2.png",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Epidemia%20di%20COVID-19%20del%202019-2020%20nel%20mondo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Epidemia_di_COVID-19_del_2019-2020_nel_mondo",
       "article_url": "https://it.wikipedia.org/wiki/Epidemia_di_COVID-19_del_2019-2020_nel_mondo",
-      "description": "",
+      "description": "Il 7 marzo l'OMS segnala oltre 100.000 casi di COVID-19 nel mondo.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Giornata%20internazionale%20della%20donna&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Giornata_internazionale_della_donna",
       "article_url": "https://it.wikipedia.org/wiki/Giornata_internazionale_della_donna",
-      "description": "ricorrenza annuale (8 marzo)",
+      "description": "La ricorrenza dedicata ai diritti e alle conquiste delle donne si celebra l'8 marzo.",
       "image_filename": "Concentración_del_Sindicato_de_Estudiantes_por_la_Huelga_Feminista_8M_2019.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Concentraci%C3%B3n_del_Sindicato_de_Estudiantes_por_la_Huelga_Feminista_8M_2019.jpg/1280px-Concentraci%C3%B3n_del_Sindicato_de_Estudiantes_por_la_Huelga_Feminista_8M_2019.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Concentraci%C3%B3n_del_Sindicato_de_Estudiantes_por_la_Huelga_Feminista_8M_2019.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=L%27amica%20geniale%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=L%27amica_geniale_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/L%27amica_geniale_(serie_televisiva)",
-      "description": "serie televisiva italo-statunitense",
+      "description": "Il 2 marzo vanno in onda su Rai 1 il settimo e l'ottavo episodio della seconda stagione, gli ultimi.",
       "image_filename": "AmicaGeniale.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/07/AmicaGeniale.jpg/1280px-AmicaGeniale.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:AmicaGeniale.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=COVID-19&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=COVID-19",
       "article_url": "https://it.wikipedia.org/wiki/COVID-19",
-      "description": "malattia infettiva respiratoria causata dal ceppo patogeno SARS-CoV-2",
+      "description": "Malattia respiratoria causata dal coronavirus SARS-CoV-2, l'8 marzo in Italia si contano 7.375 casi e 366 morti.",
       "image_filename": "Fphar-11-00937-g001.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fphar-11-00937-g001.jpg/1280px-Fphar-11-00937-g001.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fphar-11-00937-g001.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Influenza%20asiatica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Influenza_asiatica",
       "article_url": "https://it.wikipedia.org/wiki/Influenza_asiatica",
-      "description": "Pandemia influenzale negli anni 1957-60",
+      "description": "Pandemia influenzale del 1957-1960, è probabilmente in classifica per l'epidemia di COVID-19, contro cui il governo interviene il 4 marzo.",
       "image_filename": "Asian_flu_in_Sweden_1957_(2).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Asian_flu_in_Sweden_1957_%282%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Asian_flu_in_Sweden_1957_(2).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Lucia%20Azzolina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Lucia_Azzolina",
       "article_url": "https://it.wikipedia.org/wiki/Lucia_Azzolina",
-      "description": "politica italiana (1982-)",
+      "description": "Ministra dell'istruzione, il 4 marzo annuncia la sospensione delle lezioni fino al 15 marzo per l'epidemia di COVID-19.",
       "image_filename": "Lucia_Azzolina_2021_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lucia_Azzolina_2021_%28cropped%29.jpg/1280px-Lucia_Azzolina_2021_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lucia_Azzolina_2021_(cropped).jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Ralf%20Rangnick&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Ralf_Rangnick",
       "article_url": "https://it.wikipedia.org/wiki/Ralf_Rangnick",
-      "description": "allenatore di calcio, dirigente sportivo e calciatore tedesco (1958-)",
+      "description": "Allenatore e dirigente tedesco, il 2 marzo è accostato al Milan mentre emergono tensioni tra il club e il dirigente Zvonimir Boban.",
       "image_filename": "2022-07-30_Fußball,_Männer,_DFL-Supercup,_RB_Leipzig_-_FC_Bayern_München_1DX_3148_by_Stepro.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3148_by_Stepro.jpg/1280px-2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3148_by_Stepro.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3148_by_Stepro.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Alessandro%20Manzoni&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Alessandro_Manzoni",
       "article_url": "https://it.wikipedia.org/wiki/Alessandro_Manzoni",
-      "description": "scrittore e poeta italiano (1785-1873)",
+      "description": "Scrittore e poeta italiano, il 7 marzo ricorre il 235° anniversario della sua nascita.",
       "image_filename": "Ritratto_di_Alessandro_Manzoni_by_Francesco_Hayez.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ritratto_di_Alessandro_Manzoni_by_Francesco_Hayez.jpg/1280px-Ritratto_di_Alessandro_Manzoni_by_Francesco_Hayez.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ritratto_di_Alessandro_Manzoni_by_Francesco_Hayez.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Peste%20nera&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Peste_nera",
       "article_url": "https://it.wikipedia.org/wiki/Peste_nera",
-      "description": "pandemia di peste del XIV secolo",
+      "description": "Pandemia di peste del XIV secolo, il picco è probabilmente legato all'epidemia di COVID-19, per cui l'8 marzo il governo vara nuove restrizioni.",
       "image_filename": "Trionfo_della_morte,_già_a_palazzo_sclafani,_galleria_regionale_di_Palazzo_Abbatellis,_palermo_(1446)_,_affresco_staccato.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_%281446%29_%2C_affresco_staccato.jpg/1280px-Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_%281446%29_%2C_affresco_staccato.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Trionfo_della_morte%2C_gi%C3%A0_a_palazzo_sclafani%2C_galleria_regionale_di_Palazzo_Abbatellis%2C_palermo_(1446)_%2C_affresco_staccato.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=SARS&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=SARS",
       "article_url": "https://it.wikipedia.org/wiki/SARS",
-      "description": "sindrome respiratoria acuta grave",
+      "description": "Malattia respiratoria causata da un coronavirus, il picco è probabilmente legato all'epidemia di COVID-19, che l'8 marzo conta 7.375 casi in Italia.",
       "image_filename": "Coronaviruses_004_lores.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/1280px-Coronaviruses_004_lores.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronaviruses_004_lores.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Riverdale%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Riverdale_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Riverdale_(serie_televisiva)",
-      "description": "serie televisiva statunitense del 2017",
+      "description": "Serie televisiva statunitense, il 2 marzo il Corriere della Sera segnala la terza stagione su Netflix. Nessun picco di rilievo nella settimana.",
       "image_filename": "Riverdale.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/1/1b/Riverdale.jpg/1280px-Riverdale.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Riverdale.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Giovanni%20Brusca&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Giovanni_Brusca",
       "article_url": "https://it.wikipedia.org/wiki/Giovanni_Brusca",
-      "description": "mafioso e collaboratore di giustizia italiano",
+      "description": "Mafioso e collaboratore di giustizia, compare nella serie Il Cacciatore, in onda il 4 marzo su Rai 2.",
       "image_filename": "Giovanni_Brusca.jpeg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d0/Giovanni_Brusca.jpeg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Brusca.jpeg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Earl%20Grey&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Earl_Grey",
       "article_url": "https://it.wikipedia.org/wiki/Earl_Grey",
-      "description": "varietà di tè nero aromatizzato al bergamotto",
+      "description": "Varietà di tè al bergamotto. Probabile errore nei dati: 74.358 visite il 4 marzo, 5.859 il giorno dopo e zero negli altri cinque giorni.",
       "image_filename": "Frisch_aufgebrühter_EarlGrey_Tee.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Frisch_aufgebr%C3%BChter_EarlGrey_Tee.jpg/1280px-Frisch_aufgebr%C3%BChter_EarlGrey_Tee.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Frisch_aufgebr%C3%BChter_EarlGrey_Tee.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Virus%20%28biologia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Virus_(biologia)",
       "article_url": "https://it.wikipedia.org/wiki/Virus_(biologia)",
-      "description": "entità biologica",
+      "description": "Entità biologica che si replica nelle cellule. La voce è probabilmente in classifica per l'epidemia di COVID-19, che l'8 marzo conta 7.375 casi in Italia.",
       "image_filename": "Rotavirus_Reconstruction.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rotavirus_Reconstruction.jpg/1280px-Rotavirus_Reconstruction.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rotavirus_Reconstruction.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Ulay&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Ulay",
       "article_url": "https://it.wikipedia.org/wiki/Ulay",
-      "description": "artista, fotografo e accademico tedesco (1943-2020)",
+      "description": "Artista e fotografo tedesco, noto per le performance con Marina Abramović, muore il 2 marzo a 76 anni.",
       "image_filename": "Ulay.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ulay.jpg/1280px-Ulay.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ulay.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Marina%20Abramovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Marina_Abramovi%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Marina_Abramovi%C4%87",
-      "description": "artista statunitense d'origine serba",
+      "description": "Artista serba, il 2 marzo muore Ulay, suo ex compagno e collaboratore in numerose performance.",
       "image_filename": "Marina_Abramović._The_Cleaner_(45524492341).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marina_Abramovi%C4%87._The_Cleaner_%2845524492341%29.jpg/1280px-Marina_Abramovi%C4%87._The_Cleaner_%2845524492341%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Marina_Abramovi%C4%87._The_Cleaner_(45524492341).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Giacomo%20Leopardi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:03/02/2020,cd_max:03/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-03-02&end=2020-03-08&pages=Giacomo_Leopardi",
       "article_url": "https://it.wikipedia.org/wiki/Giacomo_Leopardi",
-      "description": "poeta, filosofo, scrittore e filologo italiano (1798-1837)",
+      "description": "Poeta e filosofo italiano, il motivo del picco di visite non è riconoscibile.",
       "image_filename": "Giacomo_Leopardi_Morelli.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Giacomo_Leopardi_Morelli.jpg/1161px-Giacomo_Leopardi_Morelli.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giacomo_Leopardi_Morelli.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

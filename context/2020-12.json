@@ -1,0 +1,1273 @@
+{
+  "week": "2020-12",
+  "start_date": "2020-03-16",
+  "end_date": "2020-03-22",
+  "articles": {
+    "Pandemia_di_COVID-19_del_2020_in_Italia": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Con pandemia di COVID-19 in Italia si fa riferimento alla diffusione in Italia della malattia infettiva COVID-19, iniziata il 29 gennaio 2020 e terminata ufficialmente il 5 maggio 2023 a seguito della dichiarazione dell'Organizzazione mondiale della sanità.",
+      "news": [
+        {
+          "title": "La storia del coronavirus: tutte le tappe del Covid-19 dalla comparsa in Cina a oggi - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "La storia del coronavirus: tutte le tappe del Covid-19 dalla comparsa in Cina a oggi Wired Italia"
+        },
+        {
+          "title": "Cinque cose che dovresti sapere riguardo alla pandemia di COVID-19 - Unric",
+          "source": "Unric",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Cinque cose che dovresti sapere riguardo alla pandemia di COVID-19 Unric"
+        },
+        {
+          "title": "Coronavirus: quanto resiste sulle varie superfici - www.medicalfacts.it",
+          "source": "www.medicalfacts.it",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus: quanto resiste sulle varie superfici www.medicalfacts.it"
+        },
+        {
+          "title": "Le bare dei morti di COVID-19 di Bergamo portate sui camion dell’esercito - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Le bare dei morti di COVID-19 di Bergamo portate sui camion dell’esercito Il Post"
+        }
+      ]
+    },
+    "Influenza_spagnola": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'influenza spagnola, conosciuta anche come la spagnola o la grande influenza, fu una pandemia influenzale di natura virale e insolitamente mortale, che fra il 1918 e il 1920 uccise dalle decine al centinaio di milioni di persone nel mondo.",
+      "news": [
+        {
+          "title": "Lezioni di storia: peste nera, spagnola e vaiolo - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Lezioni di storia: peste nera, spagnola e vaiolo Focus.it"
+        },
+        {
+          "title": "La malattia, la quarantena, i funerali solitari: la lettera del 1918 (che sembra scritta oggi) - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "La malattia, la quarantena, i funerali solitari: la lettera del 1918 (che sembra scritta oggi) Corriere della Sera"
+        },
+        {
+          "title": "Quando l’influenza spagnola devastò la Valle d’Aosta: 1.300 morti dimenticati - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Quando l’influenza spagnola devastò la Valle d’Aosta: 1.300 morti dimenticati La Stampa"
+        },
+        {
+          "title": "Focolai, epidemie e pandemie - American Liver Foundation",
+          "source": "American Liver Foundation",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Focolai, epidemie e pandemie American Liver Foundation"
+        },
+        {
+          "title": "Distaziamento sociale e coronavirus - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Distaziamento sociale e coronavirus Focus.it"
+        },
+        {
+          "title": "Dalla peste al coronavirus: le pandemie nell’arte - Panorama",
+          "source": "Panorama",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Dalla peste al coronavirus: le pandemie nell’arte Panorama"
+        },
+        {
+          "title": "Il settore cinematografico ai tempi della pandemia - CineGuru",
+          "source": "CineGuru",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Il settore cinematografico ai tempi della pandemia CineGuru"
+        },
+        {
+          "title": "David Grossman: \"Dopo la peste torneremo a essere umani\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "David Grossman: \"Dopo la peste torneremo a essere umani\" la Repubblica"
+        },
+        {
+          "title": "Coronavirus, le sette risposte di Burioni: che cosa sono e da dove vengono i virus - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, le sette risposte di Burioni: che cosa sono e da dove vengono i virus Corriere della Sera"
+        },
+        {
+          "title": "L’incredibile teoria della Maledizione del ’20: è vero che ogni 100 anni si verifica un’epidemia? - Radio Monte Carlo",
+          "source": "Radio Monte Carlo",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "L’incredibile teoria della Maledizione del ’20: è vero che ogni 100 anni si verifica un’epidemia? Radio Monte Carlo"
+        }
+      ]
+    },
+    "Pandemia_di_COVID-19_del_2019-2020": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La pandemia di COVID-19 è stata un’emergenza sanitaria pubblica di portata internazionale proclamata dall'Organizzazione mondiale della sanità il 30 gennaio 2020 e ufficialmente chiusa il 5 maggio 2023.",
+      "news": [
+        {
+          "title": "Termine approvazione dei bilanci e assemblee: cosa cambia - Fisco e Tasse",
+          "source": "Fisco e Tasse",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Termine approvazione dei bilanci e assemblee: cosa cambia Fisco e Tasse"
+        },
+        {
+          "title": "La Finanza ai tempi del Coronavirus: sospensione o allungamento? - Commercialista Telematico",
+          "source": "Commercialista Telematico",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "La Finanza ai tempi del Coronavirus: sospensione o allungamento? Commercialista Telematico"
+        },
+        {
+          "title": "Imprese per l’emergenza: Grafica Veneta “stampa” mascherine (e ne dona 2 milioni) - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Imprese per l’emergenza: Grafica Veneta “stampa” mascherine (e ne dona 2 milioni) Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Giuseppe_Conte": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giuseppe Conte è un politico e avvocato italiano, presidente del Consiglio dei ministri della Repubblica Italiana dal 1º giugno 2018 al 13 febbraio 2021 e presidente del Movimento 5 Stelle dal 6 agosto 2021.",
+      "news": [
+        {
+          "title": "\"Ci attendono settimane decisive. Tutti a casa\", avverte Conte - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "\"Ci attendono settimane decisive. Tutti a casa\", avverte Conte AGI"
+        },
+        {
+          "title": "Covid 19, Conte: ulteriore stretta - Città Metropolitana di Firenze",
+          "source": "Città Metropolitana di Firenze",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Covid 19, Conte: ulteriore stretta Città Metropolitana di Firenze"
+        },
+        {
+          "title": "Come si veste Giuseppe Conte? - nss magazine",
+          "source": "nss magazine",
+          "pubDate": "Tue, 17 Mar 2020 12:10:20 GMT",
+          "description": "Come si veste Giuseppe Conte? nss magazine"
+        },
+        {
+          "title": "Le bimbe di Giuseppe Conte su Instagram - Radio m2o",
+          "source": "Radio m2o",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Le bimbe di Giuseppe Conte su Instagram Radio m2o"
+        },
+        {
+          "title": "FOTO | VIDEO | Giuseppe Conte come Patrick Swayze in 'Dirty Dancing': è il nuovo sex symbol del web - Agenzia Dire",
+          "source": "Agenzia Dire",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "FOTO | VIDEO | Giuseppe Conte come Patrick Swayze in 'Dirty Dancing': è il nuovo sex symbol del web Agenzia Dire"
+        },
+        {
+          "title": "Coronavirus, nuova stretta del governo. Conte: “Il periodo più duro per l’Italia” [VIDEO] - Tecnica della Scuola",
+          "source": "Tecnica della Scuola",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, nuova stretta del governo. Conte: “Il periodo più duro per l’Italia” [VIDEO] Tecnica della Scuola"
+        },
+        {
+          "title": "Internet ha trasformato Conte da politico irrilevante a eroe dei meme - The Vision",
+          "source": "The Vision",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Internet ha trasformato Conte da politico irrilevante a eroe dei meme The Vision"
+        },
+        {
+          "title": "Giuseppe Conte, idolo delle ragazze sui social - Donna Moderna",
+          "source": "Donna Moderna",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Giuseppe Conte, idolo delle ragazze sui social Donna Moderna"
+        },
+        {
+          "title": "Coronavirus, firmato il Dpcm 22 marzo 2020: le attività consentite - Città Metropolitana di Firenze",
+          "source": "Città Metropolitana di Firenze",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, firmato il Dpcm 22 marzo 2020: le attività consentite Città Metropolitana di Firenze"
+        },
+        {
+          "title": "Nuova ordinanza del Governo: stop agli spostamenti in altri comuni - TraniLive.it",
+          "source": "TraniLive.it",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Nuova ordinanza del Governo: stop agli spostamenti in altri comuni TraniLive.it"
+        }
+      ]
+    },
+    "Assassinio_sull'Orient_Express_(film_2017)": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Assassinio sull'Orient Express è un film del 2017 diretto e interpretato da Kenneth Branagh.",
+      "news": [
+        {
+          "title": "“Assassinio sull’Orient Express”, stasera in prima tv su Rai1 il film con Johnny Depp - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "“Assassinio sull’Orient Express”, stasera in prima tv su Rai1 il film con Johnny Depp iO Donna"
+        },
+        {
+          "title": "Assassinio sull’Orient Express: la recensione del film sul treno di Kenneth Branagh - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Assassinio sull’Orient Express: la recensione del film sul treno di Kenneth Branagh Il Cineocchio"
+        },
+        {
+          "title": "Assassinio sull'Orient Express e la vera storia dell'omicidio di Maria Farcasanu - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Assassinio sull'Orient Express e la vera storia dell'omicidio di Maria Farcasanu Movieplayer"
+        },
+        {
+          "title": "Assassinio sull'Orient Express: la vera storia del leggendario treno protagonista di film e romanzi - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Assassinio sull'Orient Express: la vera storia del leggendario treno protagonista di film e romanzi ComingSoon.it"
+        },
+        {
+          "title": "Su RAI1 “Assassinio sull’Orient Express” mercoledì 18 marzo. La recensione - Fattitaliani.it",
+          "source": "Fattitaliani.it",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Su RAI1 “Assassinio sull’Orient Express” mercoledì 18 marzo. La recensione Fattitaliani.it"
+        },
+        {
+          "title": "I 7 migliori film tratti dai libri di Agatha Christie - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "I 7 migliori film tratti dai libri di Agatha Christie Movieplayer"
+        },
+        {
+          "title": "E l’assassino e’….Cena con delitto – Knives Out arriva in home video in edizione combo Blu-ray + DVD - www.darksidecinema.it",
+          "source": "www.darksidecinema.it",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "E l’assassino e’….Cena con delitto – Knives Out arriva in home video in edizione combo Blu-ray + DVD www.darksidecinema.it"
+        },
+        {
+          "title": "Josh Gad legge storie online durante la quarantena - Orgoglionerd",
+          "source": "Orgoglionerd",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Josh Gad legge storie online durante la quarantena Orgoglionerd"
+        }
+      ]
+    },
+    "COVID-19": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La COVID-19, conosciuta anche come malattia respiratoria acuta da SARS-CoV-2 o malattia da coronavirus 2019, è una malattia infettiva respiratoria causata dal virus denominato SARS-CoV-2 appartenente alla famiglia dei coronavirus.",
+      "news": [
+        {
+          "title": "COVID-19, esistono farmaci efficaci in uso o in sperimentazione? - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "COVID-19, esistono farmaci efficaci in uso o in sperimentazione? www.sifweb.org"
+        },
+        {
+          "title": "CINGOLI / Casa di Riposo: prime due vittime da Covid-19 - QdM Notizie",
+          "source": "QdM Notizie",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "CINGOLI / Casa di Riposo: prime due vittime da Covid-19 QdM Notizie"
+        },
+        {
+          "title": "Farmaci per l’ipertensione e infezione da coronavirus (COVID-19) - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Farmaci per l’ipertensione e infezione da coronavirus (COVID-19) www.sifweb.org"
+        },
+        {
+          "title": "Nuova ordinanza del Governo: stop agli spostamenti in altri comuni - TraniLive.it",
+          "source": "TraniLive.it",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Nuova ordinanza del Governo: stop agli spostamenti in altri comuni TraniLive.it"
+        }
+      ]
+    },
+    "Élite_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Élite è una serie serie televisiva spagnola ideata da Carlos Montero Castiñeira e Darío Madrona per Netflix e distribuita per otto stagioni dal 2018 al 2024.",
+      "news": [
+        {
+          "title": "Elite 3 è la serie TV più vista in binge watching nell'ultima settimana - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Elite 3 è la serie TV più vista in binge watching nell'ultima settimana ComingSoon.it"
+        },
+        {
+          "title": "Élite non è brutto come dicono tutti, o per lo meno è brutto in modo interessante - Esquire",
+          "source": "Esquire",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Élite non è brutto come dicono tutti, o per lo meno è brutto in modo interessante Esquire"
+        },
+        {
+          "title": "Elite 4: la quarta stagione della serie ci sarà? - Stay Nerd",
+          "source": "Stay Nerd",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Elite 4: la quarta stagione della serie ci sarà? Stay Nerd"
+        },
+        {
+          "title": "Élite - Stagione 3 (2020) - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Tue, 17 Mar 2020 16:56:57 GMT",
+          "description": "Élite - Stagione 3 (2020) MYmovies"
+        },
+        {
+          "title": "Élite – Recensione della terza stagione della serie Netflix - www.universalmovies.it",
+          "source": "www.universalmovies.it",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Élite – Recensione della terza stagione della serie Netflix www.universalmovies.it"
+        },
+        {
+          "title": "Elite: Come erano gli attori da piccoli? La #BabyChallenge dei protagonisti - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Elite: Come erano gli attori da piccoli? La #BabyChallenge dei protagonisti ComingSoon.it"
+        },
+        {
+          "title": "Elite 3: Un attore di Glee appare nella terza stagione. Lo avete riconosciuto? - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Elite 3: Un attore di Glee appare nella terza stagione. Lo avete riconosciuto? ComingSoon.it"
+        },
+        {
+          "title": "Elite 4: nuovi personaggi e addio Spagna? Parlano gli sceneggiatori - Gossip e TV",
+          "source": "Gossip e TV",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Elite 4: nuovi personaggi e addio Spagna? Parlano gli sceneggiatori Gossip e TV"
+        },
+        {
+          "title": "7 curiosità su Maria Pedraza, la caliente Marina di Élite - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "7 curiosità su Maria Pedraza, la caliente Marina di Élite Hall of Series"
+        },
+        {
+          "title": "Elite stagione 3 - danicommento della serie - DANinSERIES",
+          "source": "DANinSERIES",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Elite stagione 3 - danicommento della serie DANinSERIES"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Diario di casa - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 20 Mar 2020 17:25:16 GMT",
+          "description": "Diario di casa RaiPlay"
+        },
+        {
+          "title": "Lampadino e Caramella nel MagiRegno degli Zampa - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 20 Mar 2020 01:21:28 GMT",
+          "description": "Lampadino e Caramella nel MagiRegno degli Zampa RaiPlay"
+        },
+        {
+          "title": "Permette? Alberto Sordi - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Permette? Alberto Sordi RaiPlay"
+        },
+        {
+          "title": "Dal mito alla Storia - Giulio Cesare - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Dal mito alla Storia - Giulio Cesare - Video RaiPlay"
+        },
+        {
+          "title": "Doc - Nelle tue mani - S1E1 - Amnesia - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Doc - Nelle tue mani - S1E1 - Amnesia - Video RaiPlay"
+        },
+        {
+          "title": "Giù dal nido - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 19 Mar 2020 18:04:11 GMT",
+          "description": "Giù dal nido RaiPlay"
+        },
+        {
+          "title": "Rai per la Protezione Civile - Emergenza Coronavirus - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Rai per la Protezione Civile - Emergenza Coronavirus RaiPlay"
+        },
+        {
+          "title": "Testimoni del tempo - Lezioni sulla Divina Commedia - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 16 Mar 2020 16:32:25 GMT",
+          "description": "Testimoni del tempo - Lezioni sulla Divina Commedia RaiPlay"
+        },
+        {
+          "title": "Doc - Nelle tue mani - S1E2 - Selfie - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Doc - Nelle tue mani - S1E2 - Selfie - Video RaiPlay"
+        },
+        {
+          "title": "Bella da morire - S1E3 - Episodio 3 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Bella da morire - S1E3 - Episodio 3 - Video RaiPlay"
+        }
+      ]
+    },
+    "Peste_nera": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La peste nera fu una pandemia generatasi quasi certamente nel sistema montuoso Tian Shan, in Asia centrale, sul finire degli anni trenta del XIV secolo e diffusasi in Europa a partire dal 1347, dando origine alla cosiddetta seconda pandemia di peste. La prima era stata la cosiddetta Peste di Giustiniano.",
+      "news": [
+        {
+          "title": "Lezioni di storia: peste nera, spagnola e vaiolo - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Lezioni di storia: peste nera, spagnola e vaiolo Focus.it"
+        },
+        {
+          "title": "Quel che abbiamo imparato dal Medioevo | Persone - Altre/storie di Mario Calabresi",
+          "source": "Altre/storie di Mario Calabresi",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Quel che abbiamo imparato dal Medioevo | Persone Altre/storie di Mario Calabresi"
+        },
+        {
+          "title": "Epidemie e pandemie, cosa insegna la storia - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Epidemie e pandemie, cosa insegna la storia Il Bo Live"
+        },
+        {
+          "title": "Il commercio è alleato dei virus, lo dice la storia | L. Boerner e B. Severgnini - Lavoce.info",
+          "source": "Lavoce.info",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Il commercio è alleato dei virus, lo dice la storia | L. Boerner e B. Severgnini Lavoce.info"
+        },
+        {
+          "title": "Dalla peste al Coronavirus: la drammatica «seconda volta» della Lombardia - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Dalla peste al Coronavirus: la drammatica «seconda volta» della Lombardia Corriere della Sera"
+        },
+        {
+          "title": "I Papi, Roma e le epidemie del passato - ACI Stampa",
+          "source": "ACI Stampa",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "I Papi, Roma e le epidemie del passato ACI Stampa"
+        },
+        {
+          "title": "Breve storia della quarantena, dalla peste bubbonica al coronavirus - Esquire",
+          "source": "Esquire",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Breve storia della quarantena, dalla peste bubbonica al coronavirus Esquire"
+        },
+        {
+          "title": "Dalla peste al coronavirus: le pandemie nell’arte - Panorama",
+          "source": "Panorama",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Dalla peste al coronavirus: le pandemie nell’arte Panorama"
+        },
+        {
+          "title": "Le storiche epidemie a Palermo: tra fattori comuni e personaggi eccellenti - italiani.it",
+          "source": "italiani.it",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Le storiche epidemie a Palermo: tra fattori comuni e personaggi eccellenti italiani.it"
+        },
+        {
+          "title": "Hawkman medico della peste: la nuova versione del super eroe DC Comics - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Hawkman medico della peste: la nuova versione del super eroe DC Comics BadTaste"
+        }
+      ]
+    },
+    "Pandemia_di_COVID-19_del_2019-2020_nel_mondo": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Questa voce tratta la diffusione a livello mondiale del COVID-19, il cui primo caso è stato individuato il 17 novembre 2019 a Wuhan, nella provincia cinese dell'Hubei. Il 12 gennaio 2020 l'Organizzazione mondiale della sanità (OMS) ha confermato che un nuovo coronavirus era la causa dell'infezione polmonare che aveva colpito diversi abitanti della sopracitata città. Tale caso era stato portato all'attenzione dell'OMS il 31 dicembre 2019.",
+      "news": []
+    },
+    "Epidemia_di_coronavirus": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Cinque cose che dovresti sapere riguardo alla pandemia di COVID-19 - Unric",
+          "source": "Unric",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Cinque cose che dovresti sapere riguardo alla pandemia di COVID-19 Unric"
+        },
+        {
+          "title": "La storia del coronavirus: tutte le tappe del Covid-19 dalla comparsa in Cina a oggi - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "La storia del coronavirus: tutte le tappe del Covid-19 dalla comparsa in Cina a oggi Wired Italia"
+        },
+        {
+          "title": "Coronavirus, app e sistemi per tracciare i positivi: come funzionano (nel mondo, in Italia) - Agenda Digitale",
+          "source": "Agenda Digitale",
+          "pubDate": "Fri, 20 Mar 2020 07:42:14 GMT",
+          "description": "Coronavirus, app e sistemi per tracciare i positivi: come funzionano (nel mondo, in Italia) Agenda Digitale"
+        },
+        {
+          "title": "COVID-19: il contagio è maggiore dai presintomatici? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "COVID-19: il contagio è maggiore dai presintomatici? Focus.it"
+        },
+        {
+          "title": "Coronavirus, allarme per i bambini nei campi profughi del mondo - Save the Children Italia",
+          "source": "Save the Children Italia",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, allarme per i bambini nei campi profughi del mondo Save the Children Italia"
+        },
+        {
+          "title": "Focolai, epidemie e pandemie - American Liver Foundation",
+          "source": "American Liver Foundation",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Focolai, epidemie e pandemie American Liver Foundation"
+        },
+        {
+          "title": "Lo \"Spillover\" alla sorgente dei nuovi virus che infettano l’uomo - WWF Italia",
+          "source": "WWF Italia",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Lo \"Spillover\" alla sorgente dei nuovi virus che infettano l’uomo WWF Italia"
+        },
+        {
+          "title": "Ilaria Capua: virus opportunista e scippatore - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Ilaria Capua: virus opportunista e scippatore Scienza in rete"
+        },
+        {
+          "title": "Regione Autonoma Friuli Venezia Giulia - - Regione Autonoma Friuli Venezia Giulia",
+          "source": "Regione Autonoma Friuli Venezia Giulia",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Regione Autonoma Friuli Venezia Giulia - Regione Autonoma Friuli Venezia Giulia"
+        },
+        {
+          "title": "La pandemia Covid-19 come fenomeno diacronico - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "La pandemia Covid-19 come fenomeno diacronico Il Bo Live"
+        }
+      ]
+    },
+    "Harry_Potter": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Harry Potter è una serie di romanzi fantasy scritta da J. K. Rowling, incentrata sulle avventure del giovane mago Harry Potter e dei suoi migliori amici Ron Weasley ed Hermione Granger, studenti della Scuola di Magia e Stregoneria di Hogwarts. Il mondo magico nel quale è ambientata la saga consiste in una società parallela che vive celata al resto del mondo reale, quello delle persone comuni, che vengono definite \"babbani\". L'arco narrativo segue principalmente lo scontro tra il protagonista e il mago oscuro Lord Voldemort, desideroso di conquistare il mondo magico e l'immortalità.",
+      "news": [
+        {
+          "title": "10 curiosità su Harry Potter e il prigioniero di Azkaban - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "10 curiosità su Harry Potter e il prigioniero di Azkaban Sky TG24"
+        },
+        {
+          "title": "Harry Potter e il prigioniero di Azkaban (2004) di Alfonso Cuarón - Recensione - Quinlan.it",
+          "source": "Quinlan.it",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter e il prigioniero di Azkaban (2004) di Alfonso Cuarón - Recensione Quinlan.it"
+        },
+        {
+          "title": "Grafica Veneta stampava Harry Potter: ora produce mascherine - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Grafica Veneta stampava Harry Potter: ora produce mascherine Il Sole 24 ORE"
+        },
+        {
+          "title": "I tormenti di Radcliffe: «Il mio alcolismo legato a Harry Potter» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "I tormenti di Radcliffe: «Il mio alcolismo legato a Harry Potter» Corriere della Sera"
+        },
+        {
+          "title": "Da stasera in tv tutta la saga di Harry Potter - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Da stasera in tv tutta la saga di Harry Potter Amica.it"
+        },
+        {
+          "title": "Daniel Radcliffe: \"Finito Harry Potter ero nel panico e ho iniziato a... - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Daniel Radcliffe: \"Finito Harry Potter ero nel panico e ho iniziato a... Mediaset Infinity"
+        },
+        {
+          "title": "Maratona Harry Potter. Una fuga nella magia - Vogue",
+          "source": "Vogue",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Maratona Harry Potter. Una fuga nella magia Vogue"
+        },
+        {
+          "title": "8 segnali che stai frequentando un fan di Harry Potter - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "8 segnali che stai frequentando un fan di Harry Potter Libreriamo"
+        },
+        {
+          "title": "“Non voglio che le persone dimentichino che sono stato Harry Potter”. Un’intervista a Daniel Radcliffe - Wired",
+          "source": "Wired",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "“Non voglio che le persone dimentichino che sono stato Harry Potter”. Un’intervista a Daniel Radcliffe Wired"
+        },
+        {
+          "title": "‘Harry Potter’ torna al cinema in Cina per riportare gli spettatori in sala - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "‘Harry Potter’ torna al cinema in Cina per riportare gli spettatori in sala Rolling Stone Italia"
+        }
+      ]
+    },
+    "Coronavirus": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Orthocoronavirinae è una sottofamiglia di virus, noti anche come coronavirus, della famiglia Coronaviridae, del sottordine Cornidovirineae, dell'ordine Nidovirales. In passato era classificata come genere.",
+      "news": [
+        {
+          "title": "Coronavirus, l'Ambasciata d'Italia a Bruxelles a disposizione per il rientro dei connazionali - Regione Toscana",
+          "source": "Regione Toscana",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, l'Ambasciata d'Italia a Bruxelles a disposizione per il rientro dei connazionali Regione Toscana"
+        },
+        {
+          "title": "Coronavirus e influenza: quali differenze? - Humanitas",
+          "source": "Humanitas",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus e influenza: quali differenze? Humanitas"
+        },
+        {
+          "title": "Emergenza coronavirus: le nuove misure restrittive in Gazzetta Ufficiale - Ministero dell‘Interno",
+          "source": "Ministero dell‘Interno",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Emergenza coronavirus: le nuove misure restrittive in Gazzetta Ufficiale Ministero dell‘Interno"
+        },
+        {
+          "title": "Coronavirus. Mit ferma navi passeggeri: basta crociere - Ministero delle infrastrutture e dei trasporti",
+          "source": "Ministero delle infrastrutture e dei trasporti",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus. Mit ferma navi passeggeri: basta crociere Ministero delle infrastrutture e dei trasporti"
+        },
+        {
+          "title": "Siamo in guerra! Il coronavirus e le sue metafore - Daniele Cassandro - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Siamo in guerra! Il coronavirus e le sue metafore - Daniele Cassandro Internazionale"
+        },
+        {
+          "title": "Farmaci per l’ipertensione e infezione da coronavirus (COVID-19) - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Farmaci per l’ipertensione e infezione da coronavirus (COVID-19) www.sifweb.org"
+        }
+      ]
+    },
+    "La_casa_di_carta": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La casa di carta è una serie televisiva spagnola ideata da Álex Pina, trasmessa inizialmente dall'emittente Antena 3 e in seguito distribuita su Netflix.",
+      "news": [
+        {
+          "title": "«La Casa di Carta 4»: cosa ci raccontano le prime immagini - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "«La Casa di Carta 4»: cosa ci raccontano le prime immagini Vanity Fair Italia"
+        },
+        {
+          "title": "«La Casa di Carta», chi è il Professore - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "«La Casa di Carta», chi è il Professore GQ Italia"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Coronavirus, l'Ambasciata d'Italia a Bruxelles a disposizione per il rientro dei connazionali - Regione Toscana",
+          "source": "Regione Toscana",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, l'Ambasciata d'Italia a Bruxelles a disposizione per il rientro dei connazionali Regione Toscana"
+        },
+        {
+          "title": "N. 546 - Irpef, (in)equità e (in)efficienza: un'analisi strutturale basata sul modello di microsimulazione BIMic - Banca d'Italia",
+          "source": "Banca d'Italia",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "N. 546 - Irpef, (in)equità e (in)efficienza: un'analisi strutturale basata sul modello di microsimulazione BIMic Banca d'Italia"
+        },
+        {
+          "title": "Coronavirus, Cuba in soccorso dell’Italia: 52 medici e infermieri in arrivo a Crema - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, Cuba in soccorso dell’Italia: 52 medici e infermieri in arrivo a Crema la Repubblica"
+        },
+        {
+          "title": "Decreto Legge \"Cura Italia\" 17 marzo 2020: sospensione dei versamenti e degli adempimenti fiscali - Assolombarda.it",
+          "source": "Assolombarda.it",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Decreto Legge \"Cura Italia\" 17 marzo 2020: sospensione dei versamenti e degli adempimenti fiscali Assolombarda.it"
+        },
+        {
+          "title": "Covid-19, il virus è arrivato in Italia da Germania e Cina. Studio rivela il meccanismo di diffusione - insalutenews.it",
+          "source": "insalutenews.it",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Covid-19, il virus è arrivato in Italia da Germania e Cina. Studio rivela il meccanismo di diffusione insalutenews.it"
+        },
+        {
+          "title": "La nuova fattispecie di conversione delle “DTA” introdotta dal Decreto “Cura Italia” - DB - Non solo Diritto Bancario",
+          "source": "DB - Non solo Diritto Bancario",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "La nuova fattispecie di conversione delle “DTA” introdotta dal Decreto “Cura Italia” DB - Non solo Diritto Bancario"
+        },
+        {
+          "title": "Analisi dei dati epidemiologici del coronavirus in Italia (al 21 marzo) - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Analisi dei dati epidemiologici del coronavirus in Italia (al 21 marzo) Scienza in rete"
+        },
+        {
+          "title": "L’Italia è un Paese meraviglioso: il video che sta spopolando sui social - Dove Viaggi Corriere",
+          "source": "Dove Viaggi Corriere",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "L’Italia è un Paese meraviglioso: il video che sta spopolando sui social Dove Viaggi Corriere"
+        },
+        {
+          "title": "L’Italia dopo l’Italia - Limes - Rivista Italiana di geopolitica",
+          "source": "Limes - Rivista Italiana di geopolitica",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "L’Italia dopo l’Italia Limes - Rivista Italiana di geopolitica"
+        }
+      ]
+    },
+    "Cassa_integrazione_guadagni": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La cassa integrazione guadagni o CIG è un istituto previsto dalla legislazione italiana consistente in una prestazione economica, erogata dall'INPS o dall'INPGI, a favore dei lavoratori sospesi dall'obbligo di eseguire la prestazione lavorativa o che lavorino a orario ridotto. Si distingue tra ordinaria o CIGO e straordinaria o CIGS.",
+      "news": [
+        {
+          "title": "MASSIMALI CASSA INTEGRAZIONE GUADAGNI “anno 2020” - Fim Cisl",
+          "source": "Fim Cisl",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "MASSIMALI CASSA INTEGRAZIONE GUADAGNI “anno 2020” Fim Cisl"
+        },
+        {
+          "title": "Coronavirus, in G.U. il decreto 'Cura Italia' - Consulenti del Lavoro",
+          "source": "Consulenti del Lavoro",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, in G.U. il decreto 'Cura Italia' Consulenti del Lavoro"
+        },
+        {
+          "title": "#coronavirus. La Faiveley assicura i lavoratori dal Covid-19 - Vita Diocesana Pinerolese",
+          "source": "Vita Diocesana Pinerolese",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "#coronavirus. La Faiveley assicura i lavoratori dal Covid-19 Vita Diocesana Pinerolese"
+        }
+      ]
+    },
+    "Virus_(biologia)": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Un virus è un'entità biologica con caratteristiche di simbionte o parassita obbligato, in quanto si replica esclusivamente all'interno delle cellule degli organismi. I virus possono infettare tutte le forme di vita, dagli animali, alle piante, ai microrganismi e anche altri virus. Molte specie di virus convivono all'interno di sistemi viventi ospiti in modo simbiotico e gli individui di ogni specie animale, compreso l'essere umano, ospitano normalmente un elevato numero di specie virali simbionti, che formano una popolazione detta viroma.",
+      "news": [
+        {
+          "title": "Coronavirus: un video spiega come si esegue il tampone per la diagnosi del Covid-19 - IRCCS Ospedale Sacro Cuore Don Calabria",
+          "source": "IRCCS Ospedale Sacro Cuore Don Calabria",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus: un video spiega come si esegue il tampone per la diagnosi del Covid-19 IRCCS Ospedale Sacro Cuore Don Calabria"
+        },
+        {
+          "title": "Pipistrelli: il segreto del loro sistema immunitario eccezionale - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Pipistrelli: il segreto del loro sistema immunitario eccezionale Scienza in rete"
+        },
+        {
+          "title": "COVID-19, esistono farmaci efficaci in uso o in sperimentazione? - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "COVID-19, esistono farmaci efficaci in uso o in sperimentazione? www.sifweb.org"
+        },
+        {
+          "title": "No, il Coronavirus non è nato in un laboratorio - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "No, il Coronavirus non è nato in un laboratorio Corriere della Sera"
+        },
+        {
+          "title": "Virus e tamponi, perché bisogna farne di più e con quali risorse - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Virus e tamponi, perché bisogna farne di più e con quali risorse Corriere della Sera"
+        }
+      ]
+    },
+    "Alessandro_Manzoni": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Alessandro Francesco Tommaso Antonio Manzoni è stato uno scrittore, poeta, drammaturgo e politico italiano.",
+      "news": [
+        {
+          "title": "Lezioni alternative: I Promessi Sposi come non li hanno mai raccontati - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Lezioni alternative: I Promessi Sposi come non li hanno mai raccontati FocusJunior.it"
+        },
+        {
+          "title": "La peste a Milano: quando la città volle a tutti i costi l'«untore» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "La peste a Milano: quando la città volle a tutti i costi l'«untore» Vanity Fair Italia"
+        },
+        {
+          "title": "Gioele Dix rilegge «I Promessi Sposi»: «Anche allora c’era la gara a chi parlava a sproposito» - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Gioele Dix rilegge «I Promessi Sposi»: «Anche allora c’era la gara a chi parlava a sproposito» Corriere Milano"
+        },
+        {
+          "title": "Fiducia - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Fiducia Rai Cultura"
+        },
+        {
+          "title": "Morto Gianni Mura: addio al celebre giornalista sportivo milanese - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Morto Gianni Mura: addio al celebre giornalista sportivo milanese Il Giorno"
+        },
+        {
+          "title": "La Provvidenza Divina salverà tutti i Sud poveri del nostro pianeta - Monreale News",
+          "source": "Monreale News",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "La Provvidenza Divina salverà tutti i Sud poveri del nostro pianeta Monreale News"
+        },
+        {
+          "title": "Il denaro creato dal nulla finanzi il deficit - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Il denaro creato dal nulla finanzi il deficit il manifesto"
+        },
+        {
+          "title": "8 marzo, i 10 personaggi femminili più indimenticabili della letteratura - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "8 marzo, i 10 personaggi femminili più indimenticabili della letteratura Libreriamo"
+        },
+        {
+          "title": "Dalla peste al Coronavirus: la drammatica «seconda volta» della Lombardia - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Dalla peste al Coronavirus: la drammatica «seconda volta» della Lombardia Corriere della Sera"
+        },
+        {
+          "title": "Mrs Dalloway di Virginia Woolf - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Mrs Dalloway di Virginia Woolf Rai Cultura"
+        }
+      ]
+    },
+    "Riverdale_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Riverdale è una serie televisiva statunitense di genere teen drama e thriller basata sui personaggi della serie a fumetti Archie della Archie Comics, già adattati in sceneggiati radiofonici, cartoni animati e film. La serie è stata adattata per The CW dal capo creativo degli Archie Comics, Roberto Aguirre-Sacasa, ed è prodotta dalla Warner Bros. Television e dalla CBS Television Studios, in associazione con Berlanti Productions e Archie Comics. Originariamente concepita come adattamento cinematografico per la Warner Bros. Pictures, l'idea è stata reimmaginata come serie televisiva per la Fox. Nel 2015, lo sviluppo del progetto è passato alla The CW, dove la serie è stata ordinata per un pilot. Le riprese si svolgono a Vancouver, in British Columbia.",
+      "news": [
+        {
+          "title": "Riverdale: le origini a fumetti di Archie e i suoi amici - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Riverdale: le origini a fumetti di Archie e i suoi amici BadTaste"
+        },
+        {
+          "title": "Riverdale, K. J. Apa sarà Archie Andrews per i prossimi tre anni - Lega Nerd",
+          "source": "Lega Nerd",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Riverdale, K. J. Apa sarà Archie Andrews per i prossimi tre anni Lega Nerd"
+        },
+        {
+          "title": "Elite 3 è la serie TV più vista in binge watching nell'ultima settimana - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Elite 3 è la serie TV più vista in binge watching nell'ultima settimana ComingSoon.it"
+        },
+        {
+          "title": "Riverdale 4: in attesa di Hedwig, ripercorriamo gli episodi musicali della serie! - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Riverdale 4: in attesa di Hedwig, ripercorriamo gli episodi musicali della serie! BadTaste"
+        },
+        {
+          "title": "Dieci momenti in cui Riverdale ha citato il cinema horror - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Dieci momenti in cui Riverdale ha citato il cinema horror BadTaste"
+        },
+        {
+          "title": "40 serie tv da vedere almeno una volta nella vita - Uni Info News",
+          "source": "Uni Info News",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "40 serie tv da vedere almeno una volta nella vita Uni Info News"
+        }
+      ]
+    },
+    "Peste": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La peste è una malattia infettiva di origine batterica causata dal bacillo Yersinia pestis. È una zoonosi, il cui bacino è costituito da varie specie di roditori e il cui principale vettore è la pulce dei ratti ma che può essere trasmessa da varie specie di parassiti ematofagi e che si può trasmettere anche da uomo a uomo. È una malattia quarantenaria e per il regolamento sanitario internazionale è assoggettata a denuncia internazionale all'OMS, sia per i casi accertati sia per quelli sospetti. Dal 2010 al 2015 sono stati riportati 3 248 casi in tutto il mondo di cui 584 con esito mortale, ed è diffusa in tutti i continenti, fatta eccezione per Oceania ed Europa.",
+      "news": [
+        {
+          "title": "Lezioni di storia: peste nera, spagnola e vaiolo - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Lezioni di storia: peste nera, spagnola e vaiolo Focus.it"
+        },
+        {
+          "title": "Storie virali. Il ‘paese straniero’ della peste - Treccani",
+          "source": "Treccani",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Storie virali. Il ‘paese straniero’ della peste Treccani"
+        },
+        {
+          "title": "La peste a Milano: quando la città volle a tutti i costi l'«untore» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "La peste a Milano: quando la città volle a tutti i costi l'«untore» Vanity Fair Italia"
+        },
+        {
+          "title": "Peste suina africana: dalla Cina in arrivo un vaccino - Il Fatto Alimentare",
+          "source": "Il Fatto Alimentare",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Peste suina africana: dalla Cina in arrivo un vaccino Il Fatto Alimentare"
+        },
+        {
+          "title": "Dalla peste de \"I promessi sposi\" al Coronavirus è cambiato tutto, tranne una cosa: noi. Manzoni racconta come eravamo (e come siamo ancora) - il Dolomiti",
+          "source": "il Dolomiti",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Dalla peste de \"I promessi sposi\" al Coronavirus è cambiato tutto, tranne una cosa: noi. Manzoni racconta come eravamo (e come siamo ancora) il Dolomiti"
+        },
+        {
+          "title": "Dalla peste al Coronavirus: la drammatica «seconda volta» della Lombardia - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Dalla peste al Coronavirus: la drammatica «seconda volta» della Lombardia Corriere della Sera"
+        },
+        {
+          "title": "Nessuno più e meglio di Albert Camus avrebbe potuto raccontare la peste - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Nessuno più e meglio di Albert Camus avrebbe potuto raccontare la peste Il Foglio"
+        },
+        {
+          "title": "La peste del 1682 arrivò in città con un commerciante di cavalli - Il Piccolo",
+          "source": "Il Piccolo",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "La peste del 1682 arrivò in città con un commerciante di cavalli Il Piccolo"
+        },
+        {
+          "title": "Il prete avveduto che salvò Gambolò dalla peste - L'Araldo Lomellino",
+          "source": "L'Araldo Lomellino",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Il prete avveduto che salvò Gambolò dalla peste L'Araldo Lomellino"
+        },
+        {
+          "title": "No, questa poesia non è stata scritta “durante l’epidemia di peste nel 1800” - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "No, questa poesia non è stata scritta “durante l’epidemia di peste nel 1800” Pagella Politica"
+        }
+      ]
+    },
+    "Giacomo_Leopardi": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giacomo Taldegardo Francesco Salesio Saverio Pietro Leopardi è stato un poeta, filosofo, scrittore e filologo italiano.",
+      "news": [
+        {
+          "title": "I grandi della Letteratura Italiana - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "I grandi della Letteratura Italiana Rai.it"
+        },
+        {
+          "title": "''Il giovane favoloso'', il Leopardi ribelle conquista Venezia - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "''Il giovane favoloso'', il Leopardi ribelle conquista Venezia Libreriamo"
+        },
+        {
+          "title": "Distanza - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Distanza Rai Cultura"
+        },
+        {
+          "title": "Eterno ritorno | Quando Giuseppe Belli raccontò in romanesco l’epidemia in cui morì anche Leopardi - Linkiesta.it",
+          "source": "Linkiesta.it",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Eterno ritorno | Quando Giuseppe Belli raccontò in romanesco l’epidemia in cui morì anche Leopardi Linkiesta.it"
+        },
+        {
+          "title": "21 marzo, Giornata Mondiale della Poesia: 5 grandi poesie - Ipersoap",
+          "source": "Ipersoap",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "21 marzo, Giornata Mondiale della Poesia: 5 grandi poesie Ipersoap"
+        },
+        {
+          "title": "Intervista a Ficarra e Picone: \"Con noi ridono anche i polli\" - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Mon, 16 Mar 2020 13:51:27 GMT",
+          "description": "Intervista a Ficarra e Picone: \"Con noi ridono anche i polli\" FocusJunior.it"
+        },
+        {
+          "title": "Il ''giovane favoloso'' Leopardi di Martone è il film più visto al cinema - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Il ''giovane favoloso'' Leopardi di Martone è il film più visto al cinema Libreriamo"
+        },
+        {
+          "title": "Domani su 7 Elio Germano e gli altri giovani favolosi del cinema italiano - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Domani su 7 Elio Germano e gli altri giovani favolosi del cinema italiano Corriere della Sera"
+        },
+        {
+          "title": "Convitto, la lettera di una mamma: «Le istituzioni hanno il dovere di salvarlo» - Cronache Maceratesi",
+          "source": "Cronache Maceratesi",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Convitto, la lettera di una mamma: «Le istituzioni hanno il dovere di salvarlo» Cronache Maceratesi"
+        },
+        {
+          "title": "Come trovare la felicità, esce oggi in libreria il nuovo libro di Alessandro D’Avenia - Libreriamo",
+          "source": "Libreriamo",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Come trovare la felicità, esce oggi in libreria il nuovo libro di Alessandro D’Avenia Libreriamo"
+        }
+      ]
+    },
+    "SARS-CoV-2": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il coronavirus 2 da sindrome respiratoria acuta grave, abbreviato in SARS-CoV-2, in precedenza nominato nuovo coronavirus del 2019 (2019-nCoV), è un ceppo virale della specie Betacoronavirus pandemicum facente parte del genere Betacoronavirus, sottogenere Sarbecovirus, scoperto intorno alla fine del 2019; si tratta del settimo coronavirus riconosciuto in grado di infettare esseri umani.",
+      "news": [
+        {
+          "title": "Perché per trattare i pazienti con infezione da SARS-CoV-2 si usano farmaci autorizzati per altre patologie? - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Perché per trattare i pazienti con infezione da SARS-CoV-2 si usano farmaci autorizzati per altre patologie? www.sifweb.org"
+        },
+        {
+          "title": "SARS-CoV-2: la bufala degli Ogm e il salto di specie - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "SARS-CoV-2: la bufala degli Ogm e il salto di specie Scienza in rete"
+        },
+        {
+          "title": "COVID-19: Vestizione e svestizione con dispositivi di protezione individuale - ISS -Epicentro",
+          "source": "ISS -Epicentro",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "COVID-19: Vestizione e svestizione con dispositivi di protezione individuale ISS -Epicentro"
+        },
+        {
+          "title": "Coronavirus: un video spiega come si esegue il tampone per la diagnosi del Covid-19 - IRCCS Ospedale Sacro Cuore Don Calabria",
+          "source": "IRCCS Ospedale Sacro Cuore Don Calabria",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus: un video spiega come si esegue il tampone per la diagnosi del Covid-19 IRCCS Ospedale Sacro Cuore Don Calabria"
+        },
+        {
+          "title": "Coronavirus: quanto sopravvive nell'ambiente - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 18 Mar 2020 17:01:11 GMT",
+          "description": "Coronavirus: quanto sopravvive nell'ambiente Focus.it"
+        },
+        {
+          "title": "Coronavirus e vaccino: le sperimentazioni in corso - Fondazione Umberto Veronesi",
+          "source": "Fondazione Umberto Veronesi",
+          "pubDate": "Thu, 19 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus e vaccino: le sperimentazioni in corso Fondazione Umberto Veronesi"
+        },
+        {
+          "title": "COVID-19, esistono farmaci efficaci in uso o in sperimentazione? - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "COVID-19, esistono farmaci efficaci in uso o in sperimentazione? www.sifweb.org"
+        },
+        {
+          "title": "Coronavirus (SARS-CoV2) conseguenza di uno sviluppo non sostenibile e della distruzione degli ecosistemi - Rete Clima",
+          "source": "Rete Clima",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus (SARS-CoV2) conseguenza di uno sviluppo non sostenibile e della distruzione degli ecosistemi Rete Clima"
+        },
+        {
+          "title": "Farmaci per l’ipertensione e infezione da coronavirus (COVID-19) - www.sifweb.org",
+          "source": "www.sifweb.org",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "Farmaci per l’ipertensione e infezione da coronavirus (COVID-19) www.sifweb.org"
+        }
+      ]
+    },
+    "Favipiravir": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Favipiravir, noto anche come T-705, è un farmaco antivirale che possiede un'attività diretta contro molti virus a RNA. È stato sviluppato dalla Toyama Kagaku Kōgyō, una consociata giapponese della Fujifilm Holdings Corporation.",
+      "news": [
+        {
+          "title": "Avigan/Favipiravir: un nuovo farmaco contro il Coronavirus - nextQuotidiano",
+          "source": "nextQuotidiano",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Avigan/Favipiravir: un nuovo farmaco contro il Coronavirus nextQuotidiano"
+        },
+        {
+          "title": "Avigan, interviene l'AIFA: \"Non esistono studi relativi all’efficacia e alla sicurezza del farmaco\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Avigan, interviene l'AIFA: \"Non esistono studi relativi all’efficacia e alla sicurezza del farmaco\" Fanpage"
+        },
+        {
+          "title": "Il Policlinico di Milano testa due nuovi farmaci per la cura del coronavirus - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Il Policlinico di Milano testa due nuovi farmaci per la cura del coronavirus AGI"
+        },
+        {
+          "title": "Covid-19, Speranza: Aifa procede su sperimentazione Avigan - Nurse24.it",
+          "source": "Nurse24.it",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Covid-19, Speranza: Aifa procede su sperimentazione Avigan Nurse24.it"
+        },
+        {
+          "title": "Coronavirus, la speranza dell'antivirale Avigan e il video su Facebook. I dubbi dell'Aifa e la sperimentazion… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, la speranza dell'antivirale Avigan e il video su Facebook. I dubbi dell'Aifa e la sperimentazion… la Repubblica"
+        },
+        {
+          "title": "Coronavirus, Pechino: “In Giappone un farmaco efficace”. Si chiama Avigan (favipiravir) della Fujifilm Toyama Chemical - GiornaleSM",
+          "source": "GiornaleSM",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Coronavirus, Pechino: “In Giappone un farmaco efficace”. Si chiama Avigan (favipiravir) della Fujifilm Toyama Chemical GiornaleSM"
+        },
+        {
+          "title": "Rimini. Covid-19: da oggi il Rimini chiude la circolazione sulla via Piemonte dalla via Panzano alla via Trebbiano al confine col Comune di Riccione - GiornaleSM",
+          "source": "GiornaleSM",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Rimini. Covid-19: da oggi il Rimini chiude la circolazione sulla via Piemonte dalla via Panzano alla via Trebbiano al confine col Comune di Riccione GiornaleSM"
+        }
+      ]
+    },
+    "Pandemia": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Una pandemia è un'epidemia che si diffonde rapidamente estendendosi su vastissima scala, coinvolgendo gran parte della popolazione mondiale. Tale situazione presuppone la mancanza di immunizzazione dell'uomo nei confronti di un patogeno altamente pericoloso. Nella storia umana si sono verificate numerose pandemie.",
+      "news": [
+        {
+          "title": "Cinque cose che dovresti sapere riguardo alla pandemia di COVID-19 - Unric",
+          "source": "Unric",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Cinque cose che dovresti sapere riguardo alla pandemia di COVID-19 Unric"
+        },
+        {
+          "title": "Epidemie e pandemie, cosa insegna la storia - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Tue, 17 Mar 2020 07:00:00 GMT",
+          "description": "Epidemie e pandemie, cosa insegna la storia Il Bo Live"
+        },
+        {
+          "title": "Il Papa: alla pandemia del virus rispondiamo con l'universalità della preghiera - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Il Papa: alla pandemia del virus rispondiamo con l'universalità della preghiera Vatican News"
+        },
+        {
+          "title": "Pandemia: disuguaglianze socio-economiche e impatto del Covid-19 - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Sun, 22 Mar 2020 07:00:00 GMT",
+          "description": "Pandemia: disuguaglianze socio-economiche e impatto del Covid-19 Scienza in rete"
+        },
+        {
+          "title": "La pandemia Covid-19 come fenomeno diacronico - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "La pandemia Covid-19 come fenomeno diacronico Il Bo Live"
+        },
+        {
+          "title": "Pandemia, il prezzo pagato dai sacerdoti - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sat, 21 Mar 2020 07:00:00 GMT",
+          "description": "Pandemia, il prezzo pagato dai sacerdoti Vatican News"
+        }
+      ]
+    },
+    "Harry_Potter_(serie_di_film)": {
+      "fetched_at": "2026-11-06T16:19:22+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Harry Potter è una saga cinematografica fantasy basata sull'omonima saga letteraria di J. K. Rowling. Distribuita dalla Warner Bros., è composta da otto lungometraggi usciti nell'arco del primo decennio del XXI secolo, da La pietra filosofale (2001) a I Doni della Morte - Parte 2 (2011). È terza tra le saghe con il maggior incasso di tutti i tempi con 7,7 miliardi di dollari.",
+      "news": [
+        {
+          "title": "10 curiosità su Harry Potter e il prigioniero di Azkaban - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "10 curiosità su Harry Potter e il prigioniero di Azkaban Sky TG24"
+        },
+        {
+          "title": "Da stasera in tv tutta la saga di Harry Potter - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Da stasera in tv tutta la saga di Harry Potter Amica.it"
+        },
+        {
+          "title": "‘Harry Potter’ torna al cinema in Cina per riportare gli spettatori in sala - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 20 Mar 2020 07:00:00 GMT",
+          "description": "‘Harry Potter’ torna al cinema in Cina per riportare gli spettatori in sala Rolling Stone Italia"
+        },
+        {
+          "title": "Harry Potter e il prigioniero di Azkaban: il film in cui cambia tutto - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter e il prigioniero di Azkaban: il film in cui cambia tutto Mediaset Infinity"
+        },
+        {
+          "title": "Harry Potter e la Pietra Filosofale stasera su Italia1, 10 curiosità sul film - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter e la Pietra Filosofale stasera su Italia1, 10 curiosità sul film BadTaste"
+        },
+        {
+          "title": "10 cose che (forse) non sai su Harry Potter e il Prigioniero di Azkaban - Uagna",
+          "source": "Uagna",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "10 cose che (forse) non sai su Harry Potter e il Prigioniero di Azkaban Uagna"
+        },
+        {
+          "title": "Harry Potter e il prigioniero di Azkaban stasera su Italia1, 10 curiosità sul film - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 23 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter e il prigioniero di Azkaban stasera su Italia1, 10 curiosità sul film BadTaste"
+        },
+        {
+          "title": "Harry Potter: I film della saga dal migliore al peggiore - CiakClub",
+          "source": "CiakClub",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter: I film della saga dal migliore al peggiore CiakClub"
+        },
+        {
+          "title": "Harry Potter: le differenze trai personaggi dei film e dei libri - Cinefilos.it",
+          "source": "Cinefilos.it",
+          "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter: le differenze trai personaggi dei film e dei libri Cinefilos.it"
+        },
+        {
+          "title": "Harry Potter, la saga dei film su Italia 1: ecco quando in tv - Super Guida TV",
+          "source": "Super Guida TV",
+          "pubDate": "Mon, 16 Mar 2020 07:00:00 GMT",
+          "description": "Harry Potter, la saga dei film su Italia 1: ecco quando in tv Super Guida TV"
+        }
+      ]
+    }
+  }
+}

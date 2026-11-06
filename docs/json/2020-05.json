@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Kobe%20Bryant&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Kobe_Bryant",
       "article_url": "https://it.wikipedia.org/wiki/Kobe_Bryant",
-      "description": "cestista statunitense (1978-2020)",
+      "description": "Campione di basket statunitense dei Los Angeles Lakers, muore il 26 gennaio a 41 anni in un incidente in elicottero.",
       "image_filename": "KBryant8.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/KBryant8.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:KBryant8.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Coronavirus&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Coronavirus",
       "article_url": "https://it.wikipedia.org/wiki/Coronavirus",
-      "description": "",
+      "description": "Famiglia di virus cui appartiene quello dell'epidemia partita da Wuhan; il 30 gennaio vengono confermati i primi due casi in Italia.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Eugene%20Cernan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Eugene_Cernan",
       "article_url": "https://it.wikipedia.org/wiki/Eugene_Cernan",
-      "description": "astronauta statunitense",
+      "description": "Astronauta statunitense e ultimo uomo a camminare sulla Luna, è oggetto di una domanda di Chi vuol essere milionario? il 29 gennaio su Canale 5.",
       "image_filename": "Cernan_s71-51308.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cernan_s71-51308.jpg/1280px-Cernan_s71-51308.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cernan_s71-51308.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=SARS&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=SARS",
       "article_url": "https://it.wikipedia.org/wiki/SARS",
-      "description": "sindrome respiratoria acuta grave",
+      "description": "Malattia respiratoria causata da un coronavirus, viene confrontata con l'epidemia partita da Wuhan, isolata il 23 gennaio.",
       "image_filename": "Coronaviruses_004_lores.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coronaviruses_004_lores.jpg/1280px-Coronaviruses_004_lores.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Coronaviruses_004_lores.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Chico%20Forti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Chico_Forti",
       "article_url": "https://it.wikipedia.org/wiki/Chico_Forti",
-      "description": "assassino, velista e produttore televisivo italiano (1959-)",
+      "description": "Italiano condannato all'ergastolo negli Stati Uniti per omicidio, il 30 gennaio è al centro di uno speciale delle Iene su Italia 1.",
       "image_filename": "Enrico_Forti.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Enrico_Forti.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Enrico_Forti.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Concessionaria del servizio pubblico radiotelevisivo, è in classifica da oltre sei mesi.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Joe%20Bryant&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Joe_Bryant",
       "article_url": "https://it.wikipedia.org/wiki/Joe_Bryant",
-      "description": "cestista e allenatore di pallacanestro statunitense (1954-2024)",
+      "description": "Ex cestista statunitense e padre di Kobe Bryant, morto il 26 gennaio in un incidente in elicottero.",
       "image_filename": "Joe_Bryant_(Standa_Reggio_Calabria_1986-87).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/9/96/Joe_Bryant_%28Standa_Reggio_Calabria_1986-87%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Bryant_(Standa_Reggio_Calabria_1986-87).jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Christian%20Eriksen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Christian_Eriksen",
       "article_url": "https://it.wikipedia.org/wiki/Christian_Eriksen",
-      "description": "calciatore danese (1992-)",
+      "description": "Centrocampista danese, il 28 gennaio passa dal Tottenham all'Inter.",
       "image_filename": "20140904_-_Christian_Eriksen_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/20140904_-_Christian_Eriksen_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:20140904_-_Christian_Eriksen_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=J-Ax&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=J-Ax",
       "article_url": "https://it.wikipedia.org/wiki/J-Ax",
-      "description": "rapper, cantautore e produttore discografico italiano (1972-)",
+      "description": "Rapper italiano, il picco del 29 gennaio è probabilmente legato all'uscita del suo album ReAle, il 24 gennaio.",
       "image_filename": "J-Ax_-_Lucca_Comics_&_Games_2016.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/J-Ax_-_Lucca_Comics_%26_Games_2016.jpg/1280px-J-Ax_-_Lucca_Comics_%26_Games_2016.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:J-Ax_-_Lucca_Comics_%26_Games_2016.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=LeBron%20James&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=LeBron_James",
       "article_url": "https://it.wikipedia.org/wiki/LeBron_James",
-      "description": "cestista statunitense (1984-)",
+      "description": "Cestista statunitense dei Los Angeles Lakers, il 27 gennaio ricorda Kobe Bryant, morto il giorno prima in un incidente in elicottero.",
       "image_filename": "LeBron_James_(51959977144)_(cropped2).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:LeBron_James_(51959977144)_(cropped2).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Michael%20Jordan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Michael_Jordan",
       "article_url": "https://it.wikipedia.org/wiki/Michael_Jordan",
-      "description": "dirigente sportivo, imprenditore e cestista statunitense (1963-)",
+      "description": "Ex cestista statunitense e modello di Kobe Bryant, il 27 gennaio ricorda il campione dei Lakers, morto il giorno prima.",
       "image_filename": "Michael_Jordan_in_2014.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_2014.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Liliana%20Segre&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Liliana_Segre",
       "article_url": "https://it.wikipedia.org/wiki/Liliana_Segre",
-      "description": "antifascista e politica italiana, superstite della Shoah e testimone della Shoah (1930-)",
+      "description": "Senatrice a vita e superstite della Shoah, il 26 gennaio è ospite di Che tempo che fa su Rai 2, alla vigilia del Giorno della Memoria.",
       "image_filename": "Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Liliana_Segre_%28XVIII_Legislatura_Senato%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Liliana_Segre_(XVIII_Legislatura_Senato).jpg",
       "image_license": "CC BY 1.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorni%20della%20merla&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Giorni_della_merla",
       "article_url": "https://it.wikipedia.org/wiki/Giorni_della_merla",
-      "description": "nome con cui vengono chiamati 29, 30 e 31 gennaio",
+      "description": "Il 29, 30 e 31 gennaio sono detti giorni della merla e sono tradizionalmente considerati i più freddi dell'anno.",
       "image_filename": "Turdus_merula.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Turdus_merula.JPG/1280px-Turdus_merula.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Turdus_merula.JPG",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=1917%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=1917_(film)",
       "article_url": "https://it.wikipedia.org/wiki/1917_(film)",
-      "description": "film del 2019 diretto da Sam Mendes",
+      "description": "Il film di guerra diretto da Sam Mendes è al cinema in Italia dal 23 gennaio.",
       "image_filename": "1917logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/1917logo.svg/1280px-1917logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:1917logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorno%20della%20Memoria&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Giorno_della_Memoria",
       "article_url": "https://it.wikipedia.org/wiki/Giorno_della_Memoria",
-      "description": "giornata internazionale per la commemorazione delle vittime dell'Olocausto",
+      "description": "Il 27 gennaio si commemorano le vittime dell'Olocausto, nel 75° anniversario della liberazione di Auschwitz.",
       "image_filename": "Auschwitz_I_entrance_snow.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Auschwitz_I_entrance_snow.jpg/1280px-Auschwitz_I_entrance_snow.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_entrance_snow.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Coronavirus%202019-nCoV&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Coronavirus_2019-nCoV",
       "article_url": "https://it.wikipedia.org/wiki/Coronavirus_2019-nCoV",
-      "description": "",
+      "description": "Virus responsabile dell'epidemia partita da Wuhan, il 30 gennaio porta l'OMS a dichiarare l'emergenza sanitaria internazionale.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Influenza%20spagnola&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Influenza_spagnola",
       "article_url": "https://it.wikipedia.org/wiki/Influenza_spagnola",
-      "description": "pandemia dal 1918 al 1920",
+      "description": "Pandemia influenzale del 1918-1920, il picco è probabilmente legato all'epidemia di coronavirus, dichiarata emergenza internazionale il 30 gennaio.",
       "image_filename": "Reconstructed_Spanish_Flu_Virus.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Reconstructed_Spanish_Flu_Virus.jpg/1280px-Reconstructed_Spanish_Flu_Virus.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Reconstructed_Spanish_Flu_Virus.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Wuhan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Wuhan",
       "article_url": "https://it.wikipedia.org/wiki/Wuhan",
-      "description": "città cinese",
+      "description": "Città cinese da cui parte l'epidemia del nuovo coronavirus, viene isolata il 23 gennaio per limitare i contagi.",
       "image_filename": "WuhanSkyline.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WuhanSkyline.jpg/1280px-WuhanSkyline.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:WuhanSkyline.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Olocausto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Olocausto",
       "article_url": "https://it.wikipedia.org/wiki/Olocausto",
-      "description": "genocidio perpetrato dalla Germania nazista e dai suoi alleati ai danni degli ebrei d'Europa e di altre minoranze",
+      "description": "Il 27 gennaio si commemorano le vittime del genocidio degli ebrei d'Europa nel Giorno della Memoria.",
       "image_filename": "PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg/1280px-PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_12495_hall_of_names_in_yad_vashem.jpg",
       "image_license": "CC BY 2.5",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Wonder%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Wonder_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Wonder_(film)",
-      "description": "film del 2017 diretto da Stephen Chbosky",
+      "description": "Film del 2017 diretto da Stephen Chbosky, va in onda il 1° febbraio su Rai 1.",
       "image_filename": "Wonder_film.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/0/01/Wonder_film.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Wonder_film.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Campo%20di%20concentramento%20di%20Auschwitz&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Campo_di_concentramento_di_Auschwitz",
       "article_url": "https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Auschwitz",
-      "description": "campo di concentramento nazista",
+      "description": "Complesso di campi nazisti in Polonia, il 27 gennaio ricorre il 75° anniversario della sua liberazione.",
       "image_filename": "Brzezinka,_Auschwitz-Birkenau.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Brzezinka%2C_Auschwitz-Birkenau.jpg/1280px-Brzezinka%2C_Auschwitz-Birkenau.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brzezinka%2C_Auschwitz-Birkenau.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Schindler%27s%20List%20-%20La%20lista%20di%20Schindler&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Schindler%27s_List_-_La_lista_di_Schindler",
       "article_url": "https://it.wikipedia.org/wiki/Schindler%27s_List_-_La_lista_di_Schindler",
-      "description": "film del 1993 diretto da Steven Spielberg",
+      "description": "Film del 1993 diretto da Steven Spielberg sulla Shoah, il picco è legato al Giorno della Memoria del 27 gennaio.",
       "image_filename": "Schindler's_List_01.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/4/46/Schindler%27s_List_01.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Schindler%27s_List_01.JPG",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Jojo%20Rabbit&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Jojo_Rabbit",
       "article_url": "https://it.wikipedia.org/wiki/Jojo_Rabbit",
-      "description": "film del 2019 diretto da Taika Waititi",
+      "description": "Il film di Taika Waititi è al cinema dal 16 gennaio e ha ottenuto sei candidature agli Oscar.",
       "image_filename": "Jojo_Rabbit.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f0/Jojo_Rabbit.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jojo_Rabbit.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Oskar%20Schindler&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Oskar_Schindler",
       "article_url": "https://it.wikipedia.org/wiki/Oskar_Schindler",
-      "description": "imprenditore tedesco (1908-1974)",
+      "description": "Imprenditore tedesco che salvò ebrei dalla Shoah, è il protagonista di Schindler's List, legato al Giorno della Memoria del 27 gennaio.",
       "image_filename": "Schindler,_Oskar.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Schindler%2C_Oskar.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Schindler%2C_Oskar.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Shaquille%20O%27Neal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/27/2020,cd_max:02/02/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-01-27&end=2020-02-02&pages=Shaquille_O%27Neal",
       "article_url": "https://it.wikipedia.org/wiki/Shaquille_O%27Neal",
-      "description": "opinionista sportivo, attore, rapper e cestista statunitense",
+      "description": "Ex cestista statunitense e compagno di Kobe Bryant ai Lakers, lo ricorda dopo la sua morte del 26 gennaio.",
       "image_filename": "Shaquille_O'Neal_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Shaquille_O%27Neal_%28cropped%29.jpg/1280px-Shaquille_O%27Neal_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Shaquille_O%27Neal_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

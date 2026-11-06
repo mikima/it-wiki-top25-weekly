@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "La concessionaria del servizio pubblico trasmette su Rai 1 il Festival di Sanremo dal 4 all'8 febbraio.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Diodato%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Diodato_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Diodato_(cantante)",
-      "description": "cantautore italiano (1981-)",
+      "description": "Cantautore italiano, vince il Festival di Sanremo nella finale dell'8 febbraio con Fai rumore.",
       "image_filename": "Diodato_RadioBruno_Festival_di_Sanremo_2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Diodato_RadioBruno_Festival_di_Sanremo_2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diodato_RadioBruno_Festival_di_Sanremo_2024.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Achille%20Lauro%20%28rapper%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Achille_Lauro_(rapper)",
       "article_url": "https://it.wikipedia.org/wiki/Achille_Lauro_(rapper)",
-      "description": "",
+      "description": "Cantautore italiano, è in gara al Festival di Sanremo dal 4 all'8 febbraio con Me ne frego.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Festival_di_Sanremo_2020",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo_2020",
-      "description": "70º Festival della canzone italiana",
+      "description": "Dal 4 all'8 febbraio va in onda su Rai 1 la 70ª edizione del Festival, condotta da Amadeus e vinta da Diodato.",
       "image_filename": "Festival_di_Sanremo_2020_logo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a9/Festival_di_Sanremo_2020_logo.jpg/1280px-Festival_di_Sanremo_2020_logo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_2020_logo.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Rula%20Jebreal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Rula_Jebreal",
       "article_url": "https://it.wikipedia.org/wiki/Rula_Jebreal",
-      "description": "giornalista e scrittrice palestinese con cittadinanza israeliana e italiana",
+      "description": "Giornalista e scrittrice palestinese, il 4 febbraio co-conduce Sanremo e pronuncia un monologo sulla violenza contro le donne.",
       "image_filename": "Rula_Jebreal,_portrait_by_Fabrizio_Ferri.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rula_Jebreal%2C_portrait_by_Fabrizio_Ferri.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rula_Jebreal%2C_portrait_by_Fabrizio_Ferri.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Bugo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Bugo",
       "article_url": "https://it.wikipedia.org/wiki/Bugo",
-      "description": "cantautore e musicista italiano (1973-)",
+      "description": "Cantautore italiano, nella notte tra il 7 e l'8 febbraio lascia il palco di Sanremo durante l'esibizione con Morgan: i due vengono squalificati.",
       "image_filename": "Bugo_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bugo_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bugo_2018.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Cantico%20dei%20cantici&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Cantico_dei_cantici",
       "article_url": "https://it.wikipedia.org/wiki/Cantico_dei_cantici",
-      "description": "libro dell'Antico Testamento della Bibbia",
+      "description": "Libro della Bibbia, viene letto e commentato da Roberto Benigni al Festival di Sanremo il 6 febbraio.",
       "image_filename": "Song_of_songs_Rothschild_mahzor.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Song_of_songs_Rothschild_mahzor.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Song_of_songs_Rothschild_mahzor.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Elettra%20Lamborghini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Elettra_Lamborghini",
       "article_url": "https://it.wikipedia.org/wiki/Elettra_Lamborghini",
-      "description": "cantante, showgirl e conduttrice televisiva italiana (1994-)",
+      "description": "Cantante e showgirl italiana, è in gara a Sanremo dal 4 all'8 febbraio con Musica (e il resto scompare).",
       "image_filename": "Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_%28cropped%29.jpg/1280px-Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elettra_Miura_Lamborghini_at_82nd_Venice_International_Film_Festival-4_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Festival_di_Sanremo",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo",
-      "description": "festival musicale della canzone italiana",
+      "description": "Dal 4 all'8 febbraio va in onda su Rai 1 la 70ª edizione del Festival, vinta da Diodato con Fai rumore.",
       "image_filename": "Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Festival_di_Sanremo_16_febbraio_2013.JPG/1280px-Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Amadeus%20%28conduttore%20televisivo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Amadeus_(conduttore_televisivo)",
       "article_url": "https://it.wikipedia.org/wiki/Amadeus_(conduttore_televisivo)",
-      "description": "conduttore televisivo, conduttore radiofonico, showman e disc jockey italiano (1962-)",
+      "description": "Conduttore televisivo italiano, dirige e conduce il Festival di Sanremo dal 4 all'8 febbraio su Rai 1.",
       "image_filename": "Amadeus_2023.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Amadeus_2023.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amadeus_2023.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Ricchi%20e%20Poveri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Ricchi_e_Poveri",
       "article_url": "https://it.wikipedia.org/wiki/Ricchi_e_Poveri",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale italiano, il 5 febbraio si riunisce nella formazione originale per esibirsi al Festival di Sanremo.",
       "image_filename": "71_Ricchi_e_Poveri.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/71_Ricchi_e_Poveri.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:71_Ricchi_e_Poveri.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Pinguini%20Tattici%20Nucleari&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Pinguini_Tattici_Nucleari",
       "article_url": "https://it.wikipedia.org/wiki/Pinguini_Tattici_Nucleari",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale bergamasco, si classifica terzo al Festival di Sanremo nella finale dell'8 febbraio con Ringo Starr.",
       "image_filename": "Pinguini_Tattici_Nucleari_in_Assago_Forum,_2022-07-04_(1).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pinguini_Tattici_Nucleari_in_Assago_Forum%2C_2022-07-04_%281%29.jpg/1280px-Pinguini_Tattici_Nucleari_in_Assago_Forum%2C_2022-07-04_%281%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pinguini_Tattici_Nucleari_in_Assago_Forum%2C_2022-07-04_(1).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Elodie%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Elodie_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Elodie_(cantante)",
-      "description": "",
+      "description": "Cantante italiana, è in gara al Festival di Sanremo dal 4 all'8 febbraio con Andromeda.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Diletta%20Leotta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Diletta_Leotta",
       "article_url": "https://it.wikipedia.org/wiki/Diletta_Leotta",
-      "description": "conduttrice televisiva e conduttrice radiofonica italiana (1991-)",
+      "description": "Conduttrice televisiva italiana, il 4 e l'8 febbraio affianca Amadeus alla conduzione del Festival di Sanremo.",
       "image_filename": "Diletta_Leotta_2019.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Diletta_Leotta_2019.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Diletta_Leotta_2019.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Andromeda%20%28mitologia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Andromeda_(mitologia)",
       "article_url": "https://it.wikipedia.org/wiki/Andromeda_(mitologia)",
-      "description": "personaggio della mitologia greca, principessa d'Etiopia",
+      "description": "Principessa della mitologia greca, dà il nome alla canzone con cui Elodie partecipa a Sanremo dal 4 all'8 febbraio.",
       "image_filename": "Paul_Gustave_Dore_Andromeda.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Paul_Gustave_Dore_Andromeda.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paul_Gustave_Dore_Andromeda.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Sabrina%20Salerno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Sabrina_Salerno",
       "article_url": "https://it.wikipedia.org/wiki/Sabrina_Salerno",
-      "description": "cantante, showgirl e attrice italiana (1968-)",
+      "description": "Cantante e showgirl italiana, il 5 e l'8 febbraio affianca Amadeus alla conduzione del Festival di Sanremo.",
       "image_filename": "Sabrina_Salerno_30_October_2010.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sabrina_Salerno_30_October_2010.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sabrina_Salerno_30_October_2010.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Lewis%20Capaldi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Lewis_Capaldi",
       "article_url": "https://it.wikipedia.org/wiki/Lewis_Capaldi",
-      "description": "cantautore e polistrumentista britannico (1996-)",
+      "description": "Cantautore scozzese, il 6 febbraio è ospite del Festival di Sanremo, dove canta Someone You Loved.",
       "image_filename": "Glasto2023_(176_of_468)_(53008945661)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Glasto2023_%28176_of_468%29_%2853008945661%29_%28cropped%29.jpg/1280px-Glasto2023_%28176_of_468%29_%2853008945661%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Glasto2023_(176_of_468)_(53008945661)_(cropped).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Tiziano%20Ferro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Tiziano_Ferro",
       "article_url": "https://it.wikipedia.org/wiki/Tiziano_Ferro",
-      "description": "cantautore, paroliere e produttore discografico italiano (1980-)",
+      "description": "Cantautore italiano, è ospite fisso del Festival di Sanremo dal 4 all'8 febbraio; il 7 si scusa con Fiorello dopo una polemica.",
       "image_filename": "Tiziano_Ferro_in_Schwyz_(1)_(cropped_2).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tiziano_Ferro_in_Schwyz_%281%29_%28cropped_2%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Tiziano_Ferro_in_Schwyz_(1)_(cropped_2).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Francesco%20Gabbani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Francesco_Gabbani",
       "article_url": "https://it.wikipedia.org/wiki/Francesco_Gabbani",
-      "description": "cantautore e polistrumentista italiano (1982-)",
+      "description": "Cantautore italiano, si classifica secondo al Festival di Sanremo nella finale dell'8 febbraio con Viceversa.",
       "image_filename": "Francesco_Gabbani_di_Sanremo_2020IMG_2331_(cropped).JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Francesco_Gabbani_di_Sanremo_2020IMG_2331_%28cropped%29.JPG/1280px-Francesco_Gabbani_di_Sanremo_2020IMG_2331_%28cropped%29.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesco_Gabbani_di_Sanremo_2020IMG_2331_(cropped).JPG",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Vincenzo%20Mollica&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Vincenzo_Mollica",
       "article_url": "https://it.wikipedia.org/wiki/Vincenzo_Mollica",
-      "description": "giornalista e scrittore italiano (1953-)",
+      "description": "Giornalista del TG1, riceve un omaggio al Festival di Sanremo il 7 febbraio, prima di andare in pensione.",
       "image_filename": "Vincenzo_Mollica.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vincenzo_Mollica.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Vincenzo_Mollica.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Fiorello&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Fiorello",
       "article_url": "https://it.wikipedia.org/wiki/Fiorello",
-      "description": "showman, comico, cabarettista, imitatore, cantante, conduttore radiofonico, conduttore televisivo e attore italiano (1960-)",
+      "description": "Showman italiano, affianca Amadeus al Festival di Sanremo dal 4 all'8 febbraio su Rai 1.",
       "image_filename": "Fiorello_byRobertoVicario_(cropped).JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Fiorello_byRobertoVicario_%28cropped%29.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fiorello_byRobertoVicario_(cropped).JPG",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Rita%20Pavone&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Rita_Pavone",
       "article_url": "https://it.wikipedia.org/wiki/Rita_Pavone",
-      "description": "cantante, attrice e showgirl italiana (1945-)",
+      "description": "Cantante italiana, è in gara al Festival di Sanremo dal 4 all'8 febbraio con Niente (resilienza 74).",
       "image_filename": "Rita_Pavone_1965b.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rita_Pavone_1965b.jpg/1280px-Rita_Pavone_1965b.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rita_Pavone_1965b.jpg",
       "image_license": "CC BY-SA 3.0 nl",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Piero%20Pel%C3%B9&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Piero_Pel%C3%B9",
       "article_url": "https://it.wikipedia.org/wiki/Piero_Pel%C3%B9",
-      "description": "cantautore italiano (1962-)",
+      "description": "Cantautore italiano e cofondatore dei Litfiba, è in gara al Festival di Sanremo dal 4 all'8 febbraio con Gigante.",
       "image_filename": "Piero_Pelù_Funweek.it_2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Piero_Pel%C3%B9_Funweek.it_2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Piero_Pel%C3%B9_Funweek.it_2024.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Irene%20Grandi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Irene_Grandi",
       "article_url": "https://it.wikipedia.org/wiki/Irene_Grandi",
-      "description": "cantautrice italiana (1969-)",
+      "description": "Cantautrice italiana, è in gara al Festival di Sanremo dal 4 all'8 febbraio con Finalmente io.",
       "image_filename": "Irene_Grandi_di_Sanremo_-_2020IMG_1849_(head_shot).JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Irene_Grandi_di_Sanremo_-_2020IMG_1849_%28head_shot%29.JPG/1200px-Irene_Grandi_di_Sanremo_-_2020IMG_1849_%28head_shot%29.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Irene_Grandi_di_Sanremo_-_2020IMG_1849_(head_shot).JPG",
       "image_license": "GFDL",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Levante%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/03/2020,cd_max:02/09/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-02-03&end=2020-02-09&pages=Levante_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Levante_(cantante)",
-      "description": "cantautrice italiana (1987-)",
+      "description": "Cantautrice italiana, è in gara a Sanremo con Tikibombom dall'4 all'8 febbraio; è l'ex compagna del vincitore Diodato.",
       "image_filename": "Levante_Radio_Bruno_2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Levante_Radio_Bruno_2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Levante_Radio_Bruno_2024.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

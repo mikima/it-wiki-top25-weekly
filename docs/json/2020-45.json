@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Joe%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Joe_Biden",
       "article_url": "https://it.wikipedia.org/wiki/Joe_Biden",
-      "description": "politico statunitense (1942–), 46º presidente degli Stati Uniti d'America (2021–2025)",
+      "description": "Politico democratico statunitense, il 7 novembre viene annunciata la sua vittoria alle presidenziali contro Donald Trump.",
       "image_filename": "Joe_Biden_presidential_portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1280px-Joe_Biden_presidential_portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Gigi%20Proietti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Gigi_Proietti",
       "article_url": "https://it.wikipedia.org/wiki/Gigi_Proietti",
-      "description": "attore, doppiatore e conduttore televisivo italiano (1940-2020)",
+      "description": "Attore, comico e doppiatore italiano, muore il 2 novembre, giorno del suo ottantesimo compleanno.",
       "image_filename": "Gigi_proietti_autografo1.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gigi_proietti_autografo1.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gigi_proietti_autografo1.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Stefano%20D%27Orazio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Stefano_D%27Orazio",
       "article_url": "https://it.wikipedia.org/wiki/Stefano_D%27Orazio",
-      "description": "batterista, paroliere, cantante e regista italiano (1948-2020)",
+      "description": "Storico batterista dei Pooh, muore il 6 novembre a 72 anni.",
       "image_filename": "Stefano_D'Orazio_2016.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Stefano_D%27Orazio_2016.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Stefano_D%27Orazio_2016.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Donald%20Trump&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Donald_Trump",
       "article_url": "https://it.wikipedia.org/wiki/Donald_Trump",
-      "description": "politico e imprenditore statunitense, 45º e 47º presidente degli Stati Uniti d'America",
+      "description": "Presidente uscente e candidato repubblicano, perde le elezioni statunitensi: la vittoria di Joe Biden viene annunciata il 7 novembre.",
       "image_filename": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Kamala%20Harris&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Kamala_Harris",
       "article_url": "https://it.wikipedia.org/wiki/Kamala_Harris",
-      "description": "procuratrice e politica statunitense",
+      "description": "Senatrice democratica statunitense, il 7 novembre viene annunciata la sua elezione a vicepresidente insieme a Joe Biden.",
       "image_filename": "Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/1280px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202020&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2020",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2020",
-      "description": "59ª elezione presidenziale degli Stati Uniti d'America",
+      "description": "Si tengono il 3 novembre; il 7 novembre viene annunciata la vittoria del democratico Joe Biden sul presidente uscente Donald Trump.",
       "image_filename": "Joe_Biden_presidential_portrait_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Joe_Biden_presidential_portrait_%28cropped%29.jpg/1280px-Joe_Biden_presidential_portrait_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202016&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2016",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2016",
-      "description": "58ª elezione presidenziale degli Stati Uniti d'America",
+      "description": "Vinte da Donald Trump contro Hillary Clinton, il picco è legato alle nuove presidenziali statunitensi del 3 novembre.",
       "image_filename": "Donald_Trump_official_portrait_(3x4a).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/1280px-Donald_Trump_official_portrait_%283x4a%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait_(3x4a).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Grandi%20elettori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Grandi_elettori",
       "article_url": "https://it.wikipedia.org/wiki/Grandi_elettori",
-      "description": "pagina di disambiguazione di un progetto Wikimedia",
+      "description": "Negli Stati Uniti eleggono presidente e vicepresidente: il 3 novembre si vota per le nuove elezioni presidenziali.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Presidenti%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Presidenti_degli_Stati_Uniti_d%27America",
       "article_url": "https://it.wikipedia.org/wiki/Presidenti_degli_Stati_Uniti_d%27America",
-      "description": "lista di un progetto Wikimedia",
+      "description": "Il 7 novembre viene annunciata la vittoria di Joe Biden, destinato a diventare il 46º presidente degli Stati Uniti.",
       "image_filename": "Flag_of_the_President_of_the_United_States.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_the_President_of_the_United_States.svg/1280px-Flag_of_the_President_of_the_United_States.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_President_of_the_United_States.svg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Suburra%20-%20La%20serie&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Suburra_-_La_serie",
       "article_url": "https://it.wikipedia.org/wiki/Suburra_-_La_serie",
-      "description": "serie televisiva italiana (2017-2020)",
+      "description": "Serie televisiva italiana, la terza e ultima stagione viene distribuita su Netflix il 30 ottobre.",
       "image_filename": "Suburra_-_La_serie.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/1/15/Suburra_-_La_serie.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Suburra_-_La_serie.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Jill%20Biden&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Jill_Biden",
       "article_url": "https://it.wikipedia.org/wiki/Jill_Biden",
-      "description": "insegnante, scrittrice e filantropa statunitense",
+      "description": "Insegnante statunitense e moglie di Joe Biden, la cui vittoria alle elezioni presidenziali viene annunciata il 7 novembre.",
       "image_filename": "First_Lady_Jill_Biden_official_portrait.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/First_Lady_Jill_Biden_official_portrait.jpg/1280px-First_Lady_Jill_Biden_official_portrait.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:First_Lady_Jill_Biden_official_portrait.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Barack%20Obama&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Barack_Obama",
       "article_url": "https://it.wikipedia.org/wiki/Barack_Obama",
-      "description": "politico e avvocato statunitense (1961–), 44º presidente degli Stati Uniti d'America (2009–2017)",
+      "description": "Ex presidente degli Stati Uniti, il 7 novembre viene annunciata la vittoria alle presidenziali di Joe Biden, già suo vice.",
       "image_filename": "President_Barack_Obama.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/1280px-President_Barack_Obama.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Filippo%20Neri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Filippo_Neri",
       "article_url": "https://it.wikipedia.org/wiki/Filippo_Neri",
-      "description": "sacerdote italiano, santo (1515-1595)",
+      "description": "Sacerdote e santo italiano, è interpretato da Gigi Proietti in Preferisco il Paradiso, trasmesso il 3 novembre su Rai 1.",
       "image_filename": "FNeri.gif",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/FNeri.gif",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:FNeri.gif",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202012&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2012",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2012",
-      "description": "57ª elezione presidenziale degli Stati Uniti d'America",
+      "description": "Vinte da Barack Obama contro Mitt Romney, il picco è legato alle nuove presidenziali statunitensi del 3 novembre.",
       "image_filename": "President_Barack_Obama,_2012_portrait_crop.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/President_Barack_Obama%2C_2012_portrait_crop.jpg/1280px-President_Barack_Obama%2C_2012_portrait_crop.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama%2C_2012_portrait_crop.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20regina%20degli%20scacchi%20%28miniserie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=La_regina_degli_scacchi_(miniserie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/La_regina_degli_scacchi_(miniserie_televisiva)",
-      "description": "miniserie televisiva statunitense del 2020",
+      "description": "Miniserie statunitense con Anya Taylor-Joy, è disponibile su Netflix dal 23 ottobre.",
       "image_filename": "La_regina_degli_scacchi_TV.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/72/La_regina_degli_scacchi_TV.png/1280px-La_regina_degli_scacchi_TV.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_regina_degli_scacchi_TV.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202008&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2008",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2008",
-      "description": "56ª elezione presidenziale degli Stati Uniti d'America",
+      "description": "Vinte da Barack Obama con Joe Biden candidato alla vicepresidenza, il picco è legato alle presidenziali del 3 novembre.",
       "image_filename": "Obama_portrait_crop.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Obama_portrait_crop.jpg/1280px-Obama_portrait_crop.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Obama_portrait_crop.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -818,13 +834,14 @@
       "google_news_url": "https://www.google.it/search?q=Pooh&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Pooh",
       "article_url": "https://it.wikipedia.org/wiki/Pooh",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale italiano, il 6 novembre muore a 72 anni lo storico batterista Stefano D'Orazio.",
       "image_filename": "Pooh_72.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pooh_72.jpg/1280px-Pooh_72.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pooh_72.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +880,14 @@
       "google_news_url": "https://www.google.it/search?q=No%20Nut%20November&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=No_Nut_November",
       "article_url": "https://it.wikipedia.org/wiki/No_Nut_November",
-      "description": "fenomeno di Internet",
+      "description": "Sfida nata su Internet che invita all'astinenza sessuale per tutto novembre, dal 1º al 30 del mese.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +926,14 @@
       "google_news_url": "https://www.google.it/search?q=Presidente%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Presidente_degli_Stati_Uniti_d%27America",
       "article_url": "https://it.wikipedia.org/wiki/Presidente_degli_Stati_Uniti_d%27America",
-      "description": "capo di Stato e di governo degli Stati Uniti d'America",
+      "description": "Il 7 novembre viene annunciata la vittoria di Joe Biden, destinato a succedere a Donald Trump alla presidenza.",
       "image_filename": "Seal_of_the_President_of_the_United_States.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/1280px-Seal_of_the_President_of_the_United_States.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_President_of_the_United_States.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +972,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America",
-      "description": "procedura elettorale negli Stati Uniti d'America",
+      "description": "Il 3 novembre si vota per le presidenziali statunitensi; il 7 viene annunciata la vittoria di Joe Biden.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1018,14 @@
       "google_news_url": "https://www.google.it/search?q=Elezioni%20presidenziali%20negli%20Stati%20Uniti%20d%27America%20del%202000&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2000",
       "article_url": "https://it.wikipedia.org/wiki/Elezioni_presidenziali_negli_Stati_Uniti_d%27America_del_2000",
-      "description": "54ª elezione presidenziale degli Stati Uniti d'America",
+      "description": "Vinte da George W. Bush contro Al Gore, il picco è legato alle nuove presidenziali statunitensi del 3 novembre.",
       "image_filename": "GeorgeWBush_(1).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/GeorgeWBush_%281%29.jpg/1280px-GeorgeWBush_%281%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:GeorgeWBush_(1).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1064,14 @@
       "google_news_url": "https://www.google.it/search?q=Ken%20Miles&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Ken_Miles",
       "article_url": "https://it.wikipedia.org/wiki/Ken_Miles",
-      "description": "pilota automobilistico anglo-statunitense (1918-1966)",
+      "description": "Pilota britannico naturalizzato statunitense, è protagonista del film Le Mans 66 - La grande sfida, presentato da Sky TG24 il 2 novembre.",
       "image_filename": "Dolphin_Mk_2_with_ken_MIles.tif",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dolphin_Mk_2_with_ken_MIles.tif/lossy-page1-1000px-Dolphin_Mk_2_with_ken_MIles.tif.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dolphin_Mk_2_with_ken_MIles.tif",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1110,14 @@
       "google_news_url": "https://www.google.it/search?q=Collegio%20elettorale%20degli%20Stati%20Uniti%20d%27America&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Collegio_elettorale_degli_Stati_Uniti_d%27America",
       "article_url": "https://it.wikipedia.org/wiki/Collegio_elettorale_degli_Stati_Uniti_d%27America",
-      "description": "organo che elegge Presidente e Vicepresidente degli Stati Uniti d'America",
+      "description": "Organo composto dai grandi elettori che eleggono presidente e vicepresidente degli Stati Uniti; si vota il 3 novembre.",
       "image_filename": "ElectoralCollege2028.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ElectoralCollege2028.svg/1280px-ElectoralCollege2028.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:ElectoralCollege2028.svg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1156,14 @@
       "google_news_url": "https://www.google.it/search?q=Partito%20Repubblicano%20%28Stati%20Uniti%20d%27America%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/02/2020,cd_max:11/08/2020&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2020-11-02&end=2020-11-08&pages=Partito_Repubblicano_(Stati_Uniti_d%27America)",
       "article_url": "https://it.wikipedia.org/wiki/Partito_Repubblicano_(Stati_Uniti_d%27America)",
-      "description": "partito politico statunitense",
+      "description": "Partito del presidente uscente Donald Trump, sconfitto da Joe Biden alle elezioni presidenziali del 3 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

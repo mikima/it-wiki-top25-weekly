@@ -1,0 +1,1286 @@
+{
+  "week": "2020-09",
+  "start_date": "2020-02-24",
+  "end_date": "2020-03-01",
+  "articles": {
+    "Coronavirus": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Orthocoronavirinae è una sottofamiglia di virus, noti anche come coronavirus, della famiglia Coronaviridae, del sottordine Cornidovirineae, dell'ordine Nidovirales. In passato era classificata come genere.",
+      "news": [
+        {
+          "title": "Corso FAD-Iss Emergenza sanitaria da nuovo coronavirus SARS CoV-2 - FNOPI",
+          "source": "FNOPI",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Corso FAD-Iss Emergenza sanitaria da nuovo coronavirus SARS CoV-2 FNOPI"
+        },
+        {
+          "title": "Coronavirus: attivata e-mail alla prefettura di Lodi - Ministero dell‘Interno",
+          "source": "Ministero dell‘Interno",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus: attivata e-mail alla prefettura di Lodi Ministero dell‘Interno"
+        },
+        {
+          "title": "Coronavirus: il decalogo in italiano, tedesco e inglese - Ufficio Stampa della Provincia autonoma di Trento",
+          "source": "Ufficio Stampa della Provincia autonoma di Trento",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus: il decalogo in italiano, tedesco e inglese Ufficio Stampa della Provincia autonoma di Trento"
+        },
+        {
+          "title": "Vademecum psicologico coronavirus per i cittadini - Perché le paure possono diventare panico e come proteggersi con comportamenti adeguati, con pensieri corretti e emozioni fondate - CNOP",
+          "source": "CNOP",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Vademecum psicologico coronavirus per i cittadini - Perché le paure possono diventare panico e come proteggersi con comportamenti adeguati, con pensieri corretti e emozioni fondate CNOP"
+        },
+        {
+          "title": "Coronavirus: cos’è l’epidemia da nuovo coronavirus SARS-CoV-2 - Humanitas",
+          "source": "Humanitas",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus: cos’è l’epidemia da nuovo coronavirus SARS-CoV-2 Humanitas"
+        },
+        {
+          "title": "Coronavirus: modificate le modalità di accesso allo smart working - Ministero del Lavoro e delle Politiche",
+          "source": "Ministero del Lavoro e delle Politiche",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "Coronavirus: modificate le modalità di accesso allo smart working Ministero del Lavoro e delle Politiche"
+        },
+        {
+          "title": "Nuovo Coronavirus, dieci comportamenti da seguire - Policlinico Universitario Agostino Gemelli IRCCS",
+          "source": "Policlinico Universitario Agostino Gemelli IRCCS",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Nuovo Coronavirus, dieci comportamenti da seguire Policlinico Universitario Agostino Gemelli IRCCS"
+        },
+        {
+          "title": "Emergenza coronavirus: informazioni utili per gli utenti - ASUFC",
+          "source": "ASUFC",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Emergenza coronavirus: informazioni utili per gli utenti ASUFC"
+        },
+        {
+          "title": "Nuovo coronavirus, le norme di comportamento da seguire - Ministero delle infrastrutture e dei trasporti",
+          "source": "Ministero delle infrastrutture e dei trasporti",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Nuovo coronavirus, le norme di comportamento da seguire Ministero delle infrastrutture e dei trasporti"
+        },
+        {
+          "title": "Coronavirus, le misure aggiornate per contenere l'emergenza - Ministero dell‘Interno",
+          "source": "Ministero dell‘Interno",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, le misure aggiornate per contenere l'emergenza Ministero dell‘Interno"
+        }
+      ]
+    },
+    "Epidemia_di_SARS-CoV-2_del_2020_in_Italia": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Coronavirus: 8 cose da sapere oggi - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus: 8 cose da sapere oggi Focus.it"
+        },
+        {
+          "title": "Primi Casi di Coronavirus in Sicilia...ma niente psicosi - Vaccinarsi in Sicilia",
+          "source": "Vaccinarsi in Sicilia",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Primi Casi di Coronavirus in Sicilia...ma niente psicosi Vaccinarsi in Sicilia"
+        },
+        {
+          "title": "Cosa sappiamo di nuovo sull’epidemia di Covid-19 - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Cosa sappiamo di nuovo sull’epidemia di Covid-19 Internazionale"
+        },
+        {
+          "title": "Evoluzione epidemia coronavirus Italia: dati e analisi - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "Evoluzione epidemia coronavirus Italia: dati e analisi Scienza in rete"
+        },
+        {
+          "title": "Coronavirus in Italia: tutte le notizie di febbraio - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "Coronavirus in Italia: tutte le notizie di febbraio la Repubblica"
+        },
+        {
+          "title": "La Covid-19 è davvero «poco più di una normale influenza»? - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "La Covid-19 è davvero «poco più di una normale influenza»? Pagella Politica"
+        },
+        {
+          "title": "La Cina e il commercio di animali selvatici - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "La Cina e il commercio di animali selvatici Focus.it"
+        },
+        {
+          "title": "Coronavirus in Lombardia: collaboratrice positiva, Fontana in isolamento. Sono 12 le vittime in Italia - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus in Lombardia: collaboratrice positiva, Fontana in isolamento. Sono 12 le vittime in Italia la Repubblica"
+        },
+        {
+          "title": "Coronavirus - Storie di pazienti zero - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus - Storie di pazienti zero Focus.it"
+        },
+        {
+          "title": "Coronavirus: 10 bufale smentite sul contagio - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 29 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus: 10 bufale smentite sul contagio la Repubblica"
+        }
+      ]
+    },
+    "Epidemia_di_SARS-CoV-2_del_2019-2020": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Coronavirus, il testo del DPCM firmato dal premier Giuseppe Conte - Lombardia Notizie Online",
+          "source": "Lombardia Notizie Online",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "Coronavirus, il testo del DPCM firmato dal premier Giuseppe Conte Lombardia Notizie Online"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Oceano Canada - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 29 Feb 2020 10:31:29 GMT",
+          "description": "Oceano Canada RaiPlay"
+        },
+        {
+          "title": "Madre Teresa, la piccola di Dio - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 27 Feb 2020 23:55:50 GMT",
+          "description": "Madre Teresa, la piccola di Dio RaiPlay"
+        },
+        {
+          "title": "Roberto Capucci - Incontri Ravvicinati - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 24 Feb 2020 16:10:00 GMT",
+          "description": "Roberto Capucci - Incontri Ravvicinati RaiPlay"
+        },
+        {
+          "title": "La Porta Segreta - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 29 Feb 2020 18:11:58 GMT",
+          "description": "La Porta Segreta RaiPlay"
+        },
+        {
+          "title": "Padre Pio, la storia di un Santo - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 29 Feb 2020 02:49:56 GMT",
+          "description": "Padre Pio, la storia di un Santo RaiPlay"
+        },
+        {
+          "title": "Candice Renoir - Episodi - Stagione 4 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 29 Feb 2020 03:14:57 GMT",
+          "description": "Candice Renoir - Episodi - Stagione 4 RaiPlay"
+        },
+        {
+          "title": "Luca Ronconi - Lo scandalo della parola - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 29 Feb 2020 23:33:50 GMT",
+          "description": "Luca Ronconi - Lo scandalo della parola RaiPlay"
+        },
+        {
+          "title": "Gae Aulenti - Incontri Ravvicinati - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 24 Feb 2020 16:08:34 GMT",
+          "description": "Gae Aulenti - Incontri Ravvicinati RaiPlay"
+        },
+        {
+          "title": "Il “trillo” del tranese Vincenzo Angarano a “La Corrida” di Carlo Conti su Rai 1 - TraniLive.it",
+          "source": "TraniLive.it",
+          "pubDate": "Sat, 29 Feb 2020 08:00:00 GMT",
+          "description": "Il “trillo” del tranese Vincenzo Angarano a “La Corrida” di Carlo Conti su Rai 1 TraniLive.it"
+        }
+      ]
+    },
+    "Influenza_spagnola": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'influenza spagnola, conosciuta anche come la spagnola o la grande influenza, fu una pandemia influenzale di natura virale e insolitamente mortale, che fra il 1918 e il 1920 uccise dalle decine al centinaio di milioni di persone nel mondo.",
+      "news": [
+        {
+          "title": "Come l’influenza spagnola ha cambiato il corso della storia, un secolo fa - Esquire",
+          "source": "Esquire",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Come l’influenza spagnola ha cambiato il corso della storia, un secolo fa Esquire"
+        },
+        {
+          "title": "Che effetti può avere una pandemia sull’economia mondiale? - Università Cattolica del Sacro Cuore",
+          "source": "Università Cattolica del Sacro Cuore",
+          "pubDate": "Sat, 29 Feb 2020 08:00:00 GMT",
+          "description": "Che effetti può avere una pandemia sull’economia mondiale? Università Cattolica del Sacro Cuore"
+        },
+        {
+          "title": "Le grandi epidemie nella storia e nella letteratura - Treccani",
+          "source": "Treccani",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Le grandi epidemie nella storia e nella letteratura Treccani"
+        },
+        {
+          "title": "Coronavirus? Era peggio la Spagnola, “La più grande catastrofe del Novecento” - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus? Era peggio la Spagnola, “La più grande catastrofe del Novecento” La Stampa"
+        },
+        {
+          "title": "Contagi da Coronavirus, quante persone può contagiare un infetto - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Contagi da Coronavirus, quante persone può contagiare un infetto Corriere della Sera"
+        },
+        {
+          "title": "La peste nera e la fine di un'epoca: così il mondo cambiò per sempre - Ciociaria Oggi",
+          "source": "Ciociaria Oggi",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "La peste nera e la fine di un'epoca: così il mondo cambiò per sempre Ciociaria Oggi"
+        },
+        {
+          "title": "I Parolari di Chiarano, una stirpe di Partigiani - La Busa",
+          "source": "La Busa",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "I Parolari di Chiarano, una stirpe di Partigiani La Busa"
+        },
+        {
+          "title": "Piero Angela: “Fidiamoci degli esperti senza cambiare vita” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Piero Angela: “Fidiamoci degli esperti senza cambiare vita” la Repubblica"
+        },
+        {
+          "title": "Velletri – Tutti identificati gli 83 prigionieri austro-ungarici. Taddei: “Affissa la nuova tabella sulla scalinata” - Castelli Notizie",
+          "source": "Castelli Notizie",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Velletri – Tutti identificati gli 83 prigionieri austro-ungarici. Taddei: “Affissa la nuova tabella sulla scalinata” Castelli Notizie"
+        }
+      ]
+    },
+    "SARS-CoV-2": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il coronavirus 2 da sindrome respiratoria acuta grave, abbreviato in SARS-CoV-2, in precedenza nominato nuovo coronavirus del 2019 (2019-nCoV), è un ceppo virale della specie Betacoronavirus pandemicum facente parte del genere Betacoronavirus, sottogenere Sarbecovirus, scoperto intorno alla fine del 2019; si tratta del settimo coronavirus riconosciuto in grado di infettare esseri umani.",
+      "news": [
+        {
+          "title": "Corso FAD-Iss Emergenza sanitaria da nuovo coronavirus SARS CoV-2 - FNOPI",
+          "source": "FNOPI",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Corso FAD-Iss Emergenza sanitaria da nuovo coronavirus SARS CoV-2 FNOPI"
+        },
+        {
+          "title": "Coronavirus: cos’è l’epidemia da nuovo coronavirus SARS-CoV-2 - Humanitas",
+          "source": "Humanitas",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus: cos’è l’epidemia da nuovo coronavirus SARS-CoV-2 Humanitas"
+        },
+        {
+          "title": "Nuovo coronavirus: ora l'emergenza è fuori dalla Cina - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Sat, 29 Feb 2020 08:00:00 GMT",
+          "description": "Nuovo coronavirus: ora l'emergenza è fuori dalla Cina Focus.it"
+        },
+        {
+          "title": "Primi Casi di Coronavirus in Sicilia...ma niente psicosi - Vaccinarsi in Sicilia",
+          "source": "Vaccinarsi in Sicilia",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Primi Casi di Coronavirus in Sicilia...ma niente psicosi Vaccinarsi in Sicilia"
+        },
+        {
+          "title": "Biodiversità: la migliore medicina contro le pandemie - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Biodiversità: la migliore medicina contro le pandemie Scienza in rete"
+        },
+        {
+          "title": "No, il coronavirus SARS-CoV-2 non è stato brevettato dal Pirbright Institute - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "No, il coronavirus SARS-CoV-2 non è stato brevettato dal Pirbright Institute Pagella Politica"
+        },
+        {
+          "title": "Nuovo coronavirus: quanto è contagioso? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Nuovo coronavirus: quanto è contagioso? Focus.it"
+        },
+        {
+          "title": "Spillover: l'attualità del libro di Quammen ai tempi del coronavirus - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "Spillover: l'attualità del libro di Quammen ai tempi del coronavirus Scienza in rete"
+        },
+        {
+          "title": "La Covid-19 è davvero «poco più di una normale influenza»? - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "La Covid-19 è davvero «poco più di una normale influenza»? Pagella Politica"
+        },
+        {
+          "title": "Vaccino CoViD-19: a che punto siamo? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Vaccino CoViD-19: a che punto siamo? Focus.it"
+        }
+      ]
+    },
+    "Pedigree": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il pedigree è un documento riportante l'elenco completo degli ascendenti paterni e materni di un animale, come risultante dagli appositi libri genealogici.",
+      "news": [
+        {
+          "title": "Enrico Pandiani e la Torino in noir di 'Polvere' - Torino Magazine",
+          "source": "Torino Magazine",
+          "pubDate": "Thu, 27 Feb 2020 11:35:16 GMT",
+          "description": "Enrico Pandiani e la Torino in noir di 'Polvere' Torino Magazine"
+        }
+      ]
+    },
+    "Tommaso_Buscetta": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Tommaso Buscetta, detto anche Il boss dei due mondi e don Masino, è stato un mafioso e collaboratore di giustizia italiano.",
+      "news": [
+        {
+          "title": "Chi era Tommaso Buscetta - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Chi era Tommaso Buscetta Mediaset Infinity"
+        },
+        {
+          "title": "Grande Fratello vip, l'influencer Clizia Incorvaia squalificata - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Grande Fratello vip, l'influencer Clizia Incorvaia squalificata la Repubblica"
+        },
+        {
+          "title": "Clizia Incorvaia, il fratello Mattia: \"Frasi gravissime\" - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Clizia Incorvaia, il fratello Mattia: \"Frasi gravissime\" Mediaset Infinity"
+        },
+        {
+          "title": "Clizia Incorvaia squalificata: \"Mi dispiace, ho sbagliato\" - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Clizia Incorvaia squalificata: \"Mi dispiace, ho sbagliato\" Mediaset Infinity"
+        },
+        {
+          "title": "Clizia Incorvaia in lacrime: \"Chiedo scusa a tutti\" - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Clizia Incorvaia in lacrime: \"Chiedo scusa a tutti\" Mediaset Infinity"
+        },
+        {
+          "title": "Perché la squalifica di Clizia Incorvaia per la frase su Tommaso Buscetta era doverosa - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Perché la squalifica di Clizia Incorvaia per la frase su Tommaso Buscetta era doverosa Fanpage"
+        },
+        {
+          "title": "‘Gf Vip 4’, Clizia Incorvaia espulsa dal reality per le frasi su Buscetta (Video) - Isa e Chia",
+          "source": "Isa e Chia",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "‘Gf Vip 4’, Clizia Incorvaia espulsa dal reality per le frasi su Buscetta (Video) Isa e Chia"
+        },
+        {
+          "title": "“Sei un Buscetta”: significato, perché Clizia rischia la squalifica? - VIDEO - Blog Tivvù",
+          "source": "Blog Tivvù",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "“Sei un Buscetta”: significato, perché Clizia rischia la squalifica? - VIDEO Blog Tivvù"
+        },
+        {
+          "title": "‘Sei un Buscetta’, Micol difende la sorella Clizia Incorvaia: “Modo di dire comune in italiano” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "‘Sei un Buscetta’, Micol difende la sorella Clizia Incorvaia: “Modo di dire comune in italiano” Fanpage"
+        }
+      ]
+    },
+    "Vincenzo_Mollica": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Vincenzo Mollica è un giornalista, scrittore, disegnatore, autore televisivo, conduttore televisivo e radiofonico italiano.",
+      "news": [
+        {
+          "title": "Vita in diretta 2019/20 - Mollica, oscar alla carriera - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Vita in diretta 2019/20 - Mollica, oscar alla carriera - Video RaiPlay"
+        },
+        {
+          "title": "Vincenzo Mollica, l'ultimo saluto al Tg1 prima della pensione: \"Ho sempre considerato importanti le persone, non le loro casacche\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Vincenzo Mollica, l'ultimo saluto al Tg1 prima della pensione: \"Ho sempre considerato importanti le persone, non le loro casacche\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Vincenzo Mollica: sono un pezzo di pane. E allora? - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Vincenzo Mollica: sono un pezzo di pane. E allora? la Repubblica"
+        },
+        {
+          "title": "Vincenzo Mollica va in pensione, emozione e ironia a Domenica In: \"Hai fatto la storia\" - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "Vincenzo Mollica va in pensione, emozione e ironia a Domenica In: \"Hai fatto la storia\" Il Riformista"
+        },
+        {
+          "title": "Vincenzo Mollica va in pensione e lascia la Rai - VareseNews",
+          "source": "VareseNews",
+          "pubDate": "Sat, 29 Feb 2020 08:00:00 GMT",
+          "description": "Vincenzo Mollica va in pensione e lascia la Rai VareseNews"
+        },
+        {
+          "title": "Vincenzo Mollica, sorpresa a La Vita in Diretta: arriva in studio Enrico Mentana - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Vincenzo Mollica, sorpresa a La Vita in Diretta: arriva in studio Enrico Mentana Leggo.it"
+        },
+        {
+          "title": "Vincenzo Mollica: “Mai chiesto nulla a un direttore per tenermi la possibilità di mandarli a fan**” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "Vincenzo Mollica: “Mai chiesto nulla a un direttore per tenermi la possibilità di mandarli a fan**” Fanpage"
+        },
+        {
+          "title": "Rosa Maria moglie Vincenzo Mollica, chi è? Un grande amore - YouMovies",
+          "source": "YouMovies",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "Rosa Maria moglie Vincenzo Mollica, chi è? Un grande amore YouMovies"
+        },
+        {
+          "title": "VINCENZO MOLLICA/ “Mai sbagliare i tempi di un addio o di un vaffanc*” (Domenica In) - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "VINCENZO MOLLICA/ “Mai sbagliare i tempi di un addio o di un vaffanc*” (Domenica In) IlSussidiario.net"
+        },
+        {
+          "title": "L'ultimo saluto di Vincenzo Mollica al Tg1: \"Ho sempre considerato le persone, non le loro casacche\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "L'ultimo saluto di Vincenzo Mollica al Tg1: \"Ho sempre considerato le persone, non le loro casacche\" Fanpage"
+        }
+      ]
+    },
+    "Pandemia": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Una pandemia è un'epidemia che si diffonde rapidamente estendendosi su vastissima scala, coinvolgendo gran parte della popolazione mondiale. Tale situazione presuppone la mancanza di immunizzazione dell'uomo nei confronti di un patogeno altamente pericoloso. Nella storia umana si sono verificate numerose pandemie.",
+      "news": [
+        {
+          "title": "Coronavirus: per l'OMS non è ancora pandemia - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus: per l'OMS non è ancora pandemia Focus.it"
+        },
+        {
+          "title": "Pandemia ed epidemia, significato e differenze - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Pandemia ed epidemia, significato e differenze GQ Italia"
+        },
+        {
+          "title": "La differenza tra epidemia e pandemia - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "La differenza tra epidemia e pandemia Il Post"
+        },
+        {
+          "title": "Che effetti può avere una pandemia sull’economia mondiale? - Università Cattolica del Sacro Cuore",
+          "source": "Università Cattolica del Sacro Cuore",
+          "pubDate": "Sat, 29 Feb 2020 08:00:00 GMT",
+          "description": "Che effetti può avere una pandemia sull’economia mondiale? Università Cattolica del Sacro Cuore"
+        },
+        {
+          "title": "Pandemia, epidemia ed endemia: significato e differenze - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Pandemia, epidemia ed endemia: significato e differenze Sky TG24"
+        },
+        {
+          "title": "Coronavirus: potrebbe diventare una pandemia, ma è bene pesare le parole - National Geographic",
+          "source": "National Geographic",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "Coronavirus: potrebbe diventare una pandemia, ma è bene pesare le parole National Geographic"
+        },
+        {
+          "title": "Come l’influenza spagnola ha cambiato il corso della storia, un secolo fa - Esquire",
+          "source": "Esquire",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Come l’influenza spagnola ha cambiato il corso della storia, un secolo fa Esquire"
+        },
+        {
+          "title": "Nuovo coronavirus, oltre 200 casi registrati in Italia. Non chiamiamola pandemia - insalutenews.it",
+          "source": "insalutenews.it",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Nuovo coronavirus, oltre 200 casi registrati in Italia. Non chiamiamola pandemia insalutenews.it"
+        },
+        {
+          "title": "Da Cluster a Focolaio, fino a Pandemia: dizionario di tutte le parole del Coronavirus - Mashable Italia",
+          "source": "Mashable Italia",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Da Cluster a Focolaio, fino a Pandemia: dizionario di tutte le parole del Coronavirus Mashable Italia"
+        },
+        {
+          "title": "Coronavirus, un altro figlio del cattivo sviluppo - Valori.it",
+          "source": "Valori.it",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, un altro figlio del cattivo sviluppo Valori.it"
+        }
+      ]
+    },
+    "L'amica_geniale_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'amica geniale è una serie televisiva italo-statunitense creata da Saverio Costanzo e trasmessa in prima visione dal 18 novembre 2018 all'11 novembre 2024 negli Stati Uniti su HBO e dal 27 novembre 2018 al 9 dicembre 2024 in Italia su Rai 1 per 34 episodi in quattro stagioni. Prodotta da Wildside, Fandango e The Apartment con Umedia e Mowe per Rai Fiction, HBO e TIMvision, è una trasposizione dell'omonima serie di romanzi di Elena Ferrante.",
+      "news": [
+        {
+          "title": "«L'Amica Geniale 2»: Lenù e tutti coloro che si sono sempre sentiti un «quasi» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "«L'Amica Geniale 2»: Lenù e tutti coloro che si sono sempre sentiti un «quasi» Vanity Fair Italia"
+        },
+        {
+          "title": "L’amica geniale 2, la recensione degli episodi 5 e 6: Resilienza ed emancipazione - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "L’amica geniale 2, la recensione degli episodi 5 e 6: Resilienza ed emancipazione Movieplayer"
+        },
+        {
+          "title": "L'amica geniale, il cast della serie tv - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "L'amica geniale, il cast della serie tv Sky TG24"
+        },
+        {
+          "title": "“L’amica geniale”, Giovanni Amura interpreta Stefano Carracci - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "“L’amica geniale”, Giovanni Amura interpreta Stefano Carracci TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Nei panni di Nino Sarratore sarà pure uno st****o, ma IRL Francesco Serpico è un figo totale - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Nei panni di Nino Sarratore sarà pure uno st****o, ma IRL Francesco Serpico è un figo totale Cosmopolitan"
+        },
+        {
+          "title": "L'amica geniale 2: Trama e anticipazioni dell'ultima puntata del 2 marzo - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "L'amica geniale 2: Trama e anticipazioni dell'ultima puntata del 2 marzo ComingSoon.it"
+        },
+        {
+          "title": "“L’amica geniale”, Gennaro De Stefano interpreta Rino Cerullo - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "“L’amica geniale”, Gennaro De Stefano interpreta Rino Cerullo TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "L'amica geniale 2, Francesco Serpico: \"Così è nata l'intesa con Gaia Girace sul set\" - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "L'amica geniale 2, Francesco Serpico: \"Così è nata l'intesa con Gaia Girace sul set\" ComingSoon.it"
+        },
+        {
+          "title": "L'amica geniale 2: Antonio prima e dopo il militare. La trasformazione di Christian Giroso - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "L'amica geniale 2: Antonio prima e dopo il militare. La trasformazione di Christian Giroso ComingSoon.it"
+        },
+        {
+          "title": "L'amica geniale 2: La controversa scena di sesso tra Lenù e Donato Sarratore nel libro di Elena Ferrante - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "L'amica geniale 2: La controversa scena di sesso tra Lenù e Donato Sarratore nel libro di Elena Ferrante ComingSoon.it"
+        }
+      ]
+    },
+    "Codogno": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Codogno è un comune italiano di 15 677 abitanti della provincia di Lodi in Lombardia.",
+      "news": [
+        {
+          "title": "Coronavirus, polmoniti anomale a metà gennaio: \"Così è nato il focolaio di Codogno” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, polmoniti anomale a metà gennaio: \"Così è nato il focolaio di Codogno” la Repubblica"
+        },
+        {
+          "title": "L'appello di una cittadina di Codogno, Simona Pedrazzini: \"Ci mettano in condizione di poter lavorare\" - LA7",
+          "source": "LA7",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "L'appello di una cittadina di Codogno, Simona Pedrazzini: \"Ci mettano in condizione di poter lavorare\" LA7"
+        },
+        {
+          "title": "Coronavirus: FCA potrà recuperare le forniture della MTA di Codogno | Quattroruote.it - Quattroruote",
+          "source": "Quattroruote",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus: FCA potrà recuperare le forniture della MTA di Codogno | Quattroruote.it Quattroruote"
+        },
+        {
+          "title": "Coronavirus, a Codogno: «Nella città blindata ci ritroviamo più amici di prima» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, a Codogno: «Nella città blindata ci ritroviamo più amici di prima» Corriere della Sera"
+        },
+        {
+          "title": "Da Codogno, i cavalli al tempo del Coronavirus - Cavallo Magazine",
+          "source": "Cavallo Magazine",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Da Codogno, i cavalli al tempo del Coronavirus Cavallo Magazine"
+        },
+        {
+          "title": "Pomeriggio Cinque: Emergenza Coronavirus: da Codogno a Lauro - Parla Luca Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "Pomeriggio Cinque: Emergenza Coronavirus: da Codogno a Lauro - Parla Luca Video Mediaset Infinity"
+        },
+        {
+          "title": "Isolato fisso a Codogno. I video di Maurizio Milani - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Isolato fisso a Codogno. I video di Maurizio Milani Il Foglio"
+        },
+        {
+          "title": "Coronavirus, Codogno verso la telescuola: \"Continuità e nervi saldi\" - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, Codogno verso la telescuola: \"Continuità e nervi saldi\" Il Giorno"
+        },
+        {
+          "title": "Video: l’esperienza dalla zona rossa di Conad Codogno - Gdoweek",
+          "source": "Gdoweek",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Video: l’esperienza dalla zona rossa di Conad Codogno Gdoweek"
+        },
+        {
+          "title": "Medici di famiglia, pediatri, farmacisti: da Codogno le storie degli eroi silenziosi in prima linea ogni giorno - www.sanitainformazione.it",
+          "source": "www.sanitainformazione.it",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Medici di famiglia, pediatri, farmacisti: da Codogno le storie degli eroi silenziosi in prima linea ogni giorno www.sanitainformazione.it"
+        }
+      ]
+    },
+    "SARS": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La SARS o sindrome respiratoria acuta grave, è una forma atipica di polmonite causata dal virus SARS-CoV-1, apparsa per la prima volta nel novembre 2002 nella provincia del Guangdong (Canton) in Cina.",
+      "news": [
+        {
+          "title": "Corso FAD-Iss Emergenza sanitaria da nuovo coronavirus SARS CoV-2 - FNOPI",
+          "source": "FNOPI",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Corso FAD-Iss Emergenza sanitaria da nuovo coronavirus SARS CoV-2 FNOPI"
+        },
+        {
+          "title": "Coronavirus: cos’è l’epidemia da nuovo coronavirus SARS-CoV-2 - Humanitas",
+          "source": "Humanitas",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus: cos’è l’epidemia da nuovo coronavirus SARS-CoV-2 Humanitas"
+        },
+        {
+          "title": "Coronavirus: come si è arrivati alla sperimentazione della Clorochina - Home - ISS",
+          "source": "Home - ISS",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "Coronavirus: come si è arrivati alla sperimentazione della Clorochina Home - ISS"
+        },
+        {
+          "title": "Nuovo coronavirus: quanto è contagioso? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Nuovo coronavirus: quanto è contagioso? Focus.it"
+        },
+        {
+          "title": "Coronavirus, un altro figlio del cattivo sviluppo - Valori.it",
+          "source": "Valori.it",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, un altro figlio del cattivo sviluppo Valori.it"
+        },
+        {
+          "title": "Carlo Urbani, scoprì la Sars salvando il mondo dalla pandemia - italiani.it",
+          "source": "italiani.it",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Carlo Urbani, scoprì la Sars salvando il mondo dalla pandemia italiani.it"
+        },
+        {
+          "title": "No, il coronavirus SARS-CoV-2 non è stato brevettato dal Pirbright Institute - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "No, il coronavirus SARS-CoV-2 non è stato brevettato dal Pirbright Institute Pagella Politica"
+        },
+        {
+          "title": "SARS, AIDS, AVIARIA, MUCCA PAZZA: come sono state gestite negli anni le 🚨 EMERGENZE SANITARIE? - Milano Città Stato",
+          "source": "Milano Città Stato",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "SARS, AIDS, AVIARIA, MUCCA PAZZA: come sono state gestite negli anni le 🚨 EMERGENZE SANITARIE? Milano Città Stato"
+        },
+        {
+          "title": "Vaccino CoViD-19: a che punto siamo? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Vaccino CoViD-19: a che punto siamo? Focus.it"
+        },
+        {
+          "title": "Il falso tweet del governatore della Toscana sul nuovo coronavirus (SARS-CoV-2) - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Il falso tweet del governatore della Toscana sul nuovo coronavirus (SARS-CoV-2) Pagella Politica"
+        }
+      ]
+    },
+    "Mia_Martini": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mia Martini, pseudonimo di Domenica Rita Adriana Bertè, è stata una cantautrice italiana.",
+      "news": [
+        {
+          "title": "Docufilm su Mia Martini, un atto dovuto il risarcimento postumo - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Docufilm su Mia Martini, un atto dovuto il risarcimento postumo Corriere della Sera"
+        },
+        {
+          "title": "Mia Martini, fammi sentire bella - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Mia Martini, fammi sentire bella Rai.it"
+        },
+        {
+          "title": "Mia Martini, singolo inedito a 25 anni dalla morte: si intitola \"Fammi sentire bella\" - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Mia Martini, singolo inedito a 25 anni dalla morte: si intitola \"Fammi sentire bella\" Sky TG24"
+        },
+        {
+          "title": "Il diario di Anna - Rai Due. \"Fammi sentire bella\", il doc su Mia Martini - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Il diario di Anna - Rai Due. \"Fammi sentire bella\", il doc su Mia Martini - Video RaiPlay"
+        },
+        {
+          "title": "Mia Martini tra ricordi, rarità e una canzone inedita - Famiglia Cristiana",
+          "source": "Famiglia Cristiana",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Mia Martini tra ricordi, rarità e una canzone inedita Famiglia Cristiana"
+        },
+        {
+          "title": "Lino Capolicchio e la biografia in cui racconta l’amore per Mia Martini - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Lino Capolicchio e la biografia in cui racconta l’amore per Mia Martini iO Donna"
+        },
+        {
+          "title": "«Fammi sentire bella»: la nuova canzone di Mia Martini (a 25 anni dalla scomparsa) - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "«Fammi sentire bella»: la nuova canzone di Mia Martini (a 25 anni dalla scomparsa) Vanity Fair Italia"
+        },
+        {
+          "title": "Karaoke con i grandi in 3 eventi speciali - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Karaoke con i grandi in 3 eventi speciali GQ Italia"
+        },
+        {
+          "title": "“Mia Martini, fammi sentire bella”, su Rai 3 il ricordo della cantante a 25 anni dalla scomparsa - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "“Mia Martini, fammi sentire bella”, su Rai 3 il ricordo della cantante a 25 anni dalla scomparsa Leggo.it"
+        },
+        {
+          "title": "“Mia Martini, fammi sentire bella”: Sonia Bergamasco racconta la vita della cantante - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "“Mia Martini, fammi sentire bella”: Sonia Bergamasco racconta la vita della cantante iO Donna"
+        }
+      ]
+    },
+    "Albert_Einstein": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Albert Einstein è stato un fisico tedesco naturalizzato svizzero e statunitense.",
+      "news": [
+        {
+          "title": "Perché Albert Einstein ricevette il Nobel per la Fisica nel 1921 - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Perché Albert Einstein ricevette il Nobel per la Fisica nel 1921 Mediaset Infinity"
+        },
+        {
+          "title": "Il duplice verdetto per Caterina de’ Medici al Teatro Eliseo. Foto di Pizzi - Formiche.net",
+          "source": "Formiche.net",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Il duplice verdetto per Caterina de’ Medici al Teatro Eliseo. Foto di Pizzi Formiche.net"
+        },
+        {
+          "title": "Chi vuol essere milionario diretta 26 febbraio – Riprende la scalata al milione - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Chi vuol essere milionario diretta 26 febbraio – Riprende la scalata al milione Marida Caterini"
+        }
+      ]
+    },
+    "Peste_nera": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La peste nera fu una pandemia generatasi quasi certamente nel sistema montuoso Tian Shan, in Asia centrale, sul finire degli anni trenta del XIV secolo e diffusasi in Europa a partire dal 1347, dando origine alla cosiddetta seconda pandemia di peste. La prima era stata la cosiddetta Peste di Giustiniano.",
+      "news": [
+        {
+          "title": "La peste nera e la fine di un'epoca: così il mondo cambiò per sempre - Ciociaria Oggi",
+          "source": "Ciociaria Oggi",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "La peste nera e la fine di un'epoca: così il mondo cambiò per sempre Ciociaria Oggi"
+        },
+        {
+          "title": "Dalla peste al Rinascimento. La storia aiuta a vincere la sfida - Italia a Tavola",
+          "source": "Italia a Tavola",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Dalla peste al Rinascimento. La storia aiuta a vincere la sfida Italia a Tavola"
+        },
+        {
+          "title": "Le grandi epidemie nella storia e nella letteratura - Treccani",
+          "source": "Treccani",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Le grandi epidemie nella storia e nella letteratura Treccani"
+        },
+        {
+          "title": "Coronavirus, quarantena (contumacia): cos'è e cosa si rischia - Altalex",
+          "source": "Altalex",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, quarantena (contumacia): cos'è e cosa si rischia Altalex"
+        },
+        {
+          "title": "I libri al tempo della peste - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 29 Feb 2020 08:00:00 GMT",
+          "description": "I libri al tempo della peste la Repubblica"
+        },
+        {
+          "title": "Decameron, la lezione di Boccaccio. Quando la ragione vince il terrore - Italia a Tavola",
+          "source": "Italia a Tavola",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Decameron, la lezione di Boccaccio. Quando la ragione vince il terrore Italia a Tavola"
+        },
+        {
+          "title": "«Il coronavirus un avvertimento della Madonna di Medjugorie alla umanità», la tesi choc di Radio Maria - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "«Il coronavirus un avvertimento della Madonna di Medjugorie alla umanità», la tesi choc di Radio Maria Il Messaggero"
+        },
+        {
+          "title": "La pandemia e la globalizzazione: dalla peste nera al coronavirus - Sovranità Popolare - Rivista",
+          "source": "Sovranità Popolare - Rivista",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "La pandemia e la globalizzazione: dalla peste nera al coronavirus Sovranità Popolare - Rivista"
+        }
+      ]
+    },
+    "12_anni_schiavo": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "12 anni schiavo è un film del 2013 diretto da Steve McQueen.",
+      "news": [
+        {
+          "title": "'12 anni schiavo' il film di Steve McQueen premiato con l'Oscar - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "'12 anni schiavo' il film di Steve McQueen premiato con l'Oscar Taxidrivers.it"
+        },
+        {
+          "title": "12 anni schiavo: la vera storia di Solomon Northup dal libro al film - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "12 anni schiavo: la vera storia di Solomon Northup dal libro al film ComingSoon.it"
+        },
+        {
+          "title": "I film da vedere in chiaro in prima serata questa settimana - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "I film da vedere in chiaro in prima serata questa settimana TV Sorrisi e Canzoni"
+        }
+      ]
+    },
+    "COVID-19": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La COVID-19, conosciuta anche come malattia respiratoria acuta da SARS-CoV-2 o malattia da coronavirus 2019, è una malattia infettiva respiratoria causata dal virus denominato SARS-CoV-2 appartenente alla famiglia dei coronavirus.",
+      "news": [
+        {
+          "title": "Decreto-legge “COVID-19”, sistemi di risposta all’emergenza, equilibrio costituzionale - Questione Giustizia",
+          "source": "Questione Giustizia",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "Decreto-legge “COVID-19”, sistemi di risposta all’emergenza, equilibrio costituzionale Questione Giustizia"
+        },
+        {
+          "title": "Covid-19: montata la nuova tenda pre-triage davanti al Pronto soccorso - AOUP",
+          "source": "AOUP",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Covid-19: montata la nuova tenda pre-triage davanti al Pronto soccorso AOUP"
+        },
+        {
+          "title": "Covid-19: letalità e mortalità, le differenze spiegate - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Covid-19: letalità e mortalità, le differenze spiegate Scienza in rete"
+        },
+        {
+          "title": "Covid-19, telemedicina alla Dermatologia dell'AOU Federico II - Unina",
+          "source": "Unina",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Covid-19, telemedicina alla Dermatologia dell'AOU Federico II Unina"
+        },
+        {
+          "title": "Covid-19, l'Aoup ha riunito la task-force aziendale: tutte le misure adottate - AOUP",
+          "source": "AOUP",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Covid-19, l'Aoup ha riunito la task-force aziendale: tutte le misure adottate AOUP"
+        },
+        {
+          "title": "Anche l’Iran ferma i campionati per l’emergenza coronavirus - Volley News",
+          "source": "Volley News",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Anche l’Iran ferma i campionati per l’emergenza coronavirus Volley News"
+        },
+        {
+          "title": "La pallavolo ai tempi del coronavirus: \"Evitare i luoghi affollati, ma l’attività fisica fa bene\" - Volley News",
+          "source": "Volley News",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "La pallavolo ai tempi del coronavirus: \"Evitare i luoghi affollati, ma l’attività fisica fa bene\" Volley News"
+        },
+        {
+          "title": "Serie C Femminile: Revolution, che rimonta! - Volley News",
+          "source": "Volley News",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Serie C Femminile: Revolution, che rimonta! Volley News"
+        },
+        {
+          "title": "Ancora una prova di forza della Icom C88 che supera Volleyrò Casal de’ Pazzi - Volley News",
+          "source": "Volley News",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Ancora una prova di forza della Icom C88 che supera Volleyrò Casal de’ Pazzi Volley News"
+        },
+        {
+          "title": "La Paoloni Macerata lotta con le unghie e con i denti ma alla fine vince la BlueItaly Pineto 3-0 - Volley News",
+          "source": "Volley News",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "La Paoloni Macerata lotta con le unghie e con i denti ma alla fine vince la BlueItaly Pineto 3-0 Volley News"
+        }
+      ]
+    },
+    "Virus_(biologia)": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Un virus è un'entità biologica con caratteristiche di simbionte o parassita obbligato, in quanto si replica esclusivamente all'interno delle cellule degli organismi. I virus possono infettare tutte le forme di vita, dagli animali, alle piante, ai microrganismi e anche altri virus. Molte specie di virus convivono all'interno di sistemi viventi ospiti in modo simbiotico e gli individui di ogni specie animale, compreso l'essere umano, ospitano normalmente un elevato numero di specie virali simbionti, che formano una popolazione detta viroma.",
+      "news": [
+        {
+          "title": "Come diventare virologo - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Mon, 02 Mar 2020 07:55:04 GMT",
+          "description": "Come diventare virologo MilanoToday"
+        },
+        {
+          "title": "Coronavirus, pangolini sospettati di aver trasmesso la malattia - Il Fatto Alimentare",
+          "source": "Il Fatto Alimentare",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, pangolini sospettati di aver trasmesso la malattia Il Fatto Alimentare"
+        },
+        {
+          "title": "Coronavirus, un altro figlio del cattivo sviluppo - Valori.it",
+          "source": "Valori.it",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, un altro figlio del cattivo sviluppo Valori.it"
+        }
+      ]
+    },
+    "Elettra_Lamborghini": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elettra Miura Lamborghini è una cantante, showgirl e conduttrice televisiva italiana.",
+      "news": [
+        {
+          "title": "Arriva Elettra Lamborghini a Palermo e la paura del coronavirus scompare - Tecnica della Scuola",
+          "source": "Tecnica della Scuola",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Arriva Elettra Lamborghini a Palermo e la paura del coronavirus scompare Tecnica della Scuola"
+        },
+        {
+          "title": "ELETTRA LAMBORGHINI A PORTO ALLEGRO PRESENTA “TWERKING QUEEN-EL RESTO ES NADA” - Virtù Quotidiane",
+          "source": "Virtù Quotidiane",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "ELETTRA LAMBORGHINI A PORTO ALLEGRO PRESENTA “TWERKING QUEEN-EL RESTO ES NADA” Virtù Quotidiane"
+        },
+        {
+          "title": "Elettra Lamborghini e mamma Luisa Peterlongo hanno un legame speciale (e si somigliano assai) - ELLE",
+          "source": "ELLE",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Elettra Lamborghini e mamma Luisa Peterlongo hanno un legame speciale (e si somigliano assai) ELLE"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Il Novecento - L'Italia dal 1946 al 2000 - Rai Cultura",
+          "source": "Rai Cultura",
+          "pubDate": "Tue, 25 Feb 2020 16:17:29 GMT",
+          "description": "Il Novecento - L'Italia dal 1946 al 2000 Rai Cultura"
+        },
+        {
+          "title": "Italia a rischio isolamento / La Svizzera: nessun limite a confini Italia (per ora) - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Italia a rischio isolamento / La Svizzera: nessun limite a confini Italia (per ora) Il Sole 24 ORE"
+        },
+        {
+          "title": "Evoluzione epidemia coronavirus Italia: dati e analisi - Scienza in rete",
+          "source": "Scienza in rete",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "Evoluzione epidemia coronavirus Italia: dati e analisi Scienza in rete"
+        },
+        {
+          "title": "Progetti PON Governance|Agenzia per l'Italia Digitale - Agid",
+          "source": "Agid",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Progetti PON Governance|Agenzia per l'Italia Digitale Agid"
+        },
+        {
+          "title": "Lo stato dell’arte dell’edilizia in legno: economia e diffusione in Italia ed Europa - infobuild",
+          "source": "infobuild",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Lo stato dell’arte dell’edilizia in legno: economia e diffusione in Italia ed Europa infobuild"
+        },
+        {
+          "title": "Coppa Italia verso la F4, coach Andrea Ebana: \"Esperienza per crescere le nostre qualità\" - Volley News",
+          "source": "Volley News",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Coppa Italia verso la F4, coach Andrea Ebana: \"Esperienza per crescere le nostre qualità\" Volley News"
+        },
+        {
+          "title": "Auguri a “Mila e Shiro due cuori nella pallavolo”: 34 anni fa la prima puntata su Italia 1 - Volley News",
+          "source": "Volley News",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Auguri a “Mila e Shiro due cuori nella pallavolo”: 34 anni fa la prima puntata su Italia 1 Volley News"
+        },
+        {
+          "title": "Chi è Baptiste Giabiconi, il modello che ha ereditato quasi tutto il patrimonio di Karl Lagerfeld - DiLei",
+          "source": "DiLei",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Chi è Baptiste Giabiconi, il modello che ha ereditato quasi tutto il patrimonio di Karl Lagerfeld DiLei"
+        }
+      ]
+    },
+    "Attilio_Fontana_(politico)": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Coronavirus, il presidente Fontana in video con la mascherina: «Ma non spaventatevi» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, il presidente Fontana in video con la mascherina: «Ma non spaventatevi» Corriere della Sera"
+        },
+        {
+          "title": "Renzi e il fuorionda di Fontana, il leader di Iv pubblica la chat: «Falso che odio Conte» - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Renzi e il fuorionda di Fontana, il leader di Iv pubblica la chat: «Falso che odio Conte» Il Messaggero"
+        },
+        {
+          "title": "Blog | Coronavirus, il gesto di Fontana è finto e pericoloso: oggi le immagini contano più delle parole - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Blog | Coronavirus, il gesto di Fontana è finto e pericoloso: oggi le immagini contano più delle parole Il Fatto Quotidiano"
+        },
+        {
+          "title": "La Covid-19 è davvero «poco più di una normale influenza»? - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "La Covid-19 è davvero «poco più di una normale influenza»? Pagella Politica"
+        },
+        {
+          "title": "Supermercati vuoti e note audio su WhatsApp: come l'Italia sta impazzendo per il coronavirus - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Supermercati vuoti e note audio su WhatsApp: come l'Italia sta impazzendo per il coronavirus Rolling Stone Italia"
+        }
+      ]
+    },
+    "Hunters_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Hunters è una serie televisiva statunitense del 2020, scritta e ideata da David Weil.",
+      "news": [
+        {
+          "title": "HUNTERS - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "HUNTERS MYmovies"
+        },
+        {
+          "title": "“Hunters”, la serie tv con Al Pacino a caccia di nazisti. Ma l’Auschwitz Museum è critico - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "“Hunters”, la serie tv con Al Pacino a caccia di nazisti. Ma l’Auschwitz Museum è critico iO Donna"
+        },
+        {
+          "title": "I cacciatori di «Hunters», il problema è la mescolanza degli stili - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 02 Mar 2020 08:00:00 GMT",
+          "description": "I cacciatori di «Hunters», il problema è la mescolanza degli stili Corriere della Sera"
+        },
+        {
+          "title": "Hunters - Stagione 1 - La recensione - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Tue, 25 Feb 2020 08:00:00 GMT",
+          "description": "Hunters - Stagione 1 - La recensione IGN Italia"
+        },
+        {
+          "title": "“Hunters”: cosa c’è di vero nella nuova serie tv Amazon? - NientePopcorn",
+          "source": "NientePopcorn",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "“Hunters”: cosa c’è di vero nella nuova serie tv Amazon? NientePopcorn"
+        },
+        {
+          "title": "Hunters è una serie in cui anche i buoni sono cattivi - Rivista Studio",
+          "source": "Rivista Studio",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Hunters è una serie in cui anche i buoni sono cattivi Rivista Studio"
+        },
+        {
+          "title": "Hunters 1x05 - At Night, All Birds Are Black - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Sun, 01 Mar 2020 08:00:00 GMT",
+          "description": "Hunters 1x05 - At Night, All Birds Are Black Recenserie"
+        },
+        {
+          "title": "20 migliori film e serie TV sul nazismo da vedere - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "20 migliori film e serie TV sul nazismo da vedere Movieplayer"
+        },
+        {
+          "title": "Hunters 1x04 - The Pious Thieves - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Hunters 1x04 - The Pious Thieves Recenserie"
+        },
+        {
+          "title": "Come finisce Hunters: Spiegazione Ultima Puntata - Tvserial.it",
+          "source": "Tvserial.it",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Come finisce Hunters: Spiegazione Ultima Puntata Tvserial.it"
+        }
+      ]
+    },
+    "Starbucks": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Starbucks è una catena multinazionale di caffè statunitense fondata a Seattle nel 1971.",
+      "news": [
+        {
+          "title": "Starbuck, il personaggio da cui deriva il nome della catena americana... - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Starbuck, il personaggio da cui deriva il nome della catena americana... Mediaset Infinity"
+        },
+        {
+          "title": "Cos'è il dead name e perché il nome è così importante per una persona transgender? - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Cos'è il dead name e perché il nome è così importante per una persona transgender? Vanity Fair Italia"
+        },
+        {
+          "title": "I chicchi di caffè Nespresso di George Clooney \"li raccolgono bambini guatemaltechi\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "I chicchi di caffè Nespresso di George Clooney \"li raccolgono bambini guatemaltechi\" la Repubblica"
+        }
+      ]
+    },
+    "Ipoclorito_di_sodio": {
+      "fetched_at": "2026-11-06T16:18:03+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'ipoclorito di sodio è il sale di sodio dell'acido ipocloroso. La sua formula chimica è NaClO.",
+      "news": [
+        {
+          "title": "Lavarsi le mani | Cloro, varechina, amuchina: ecco com’è nata l’acqua santa dell’era coronavirus - Linkiesta.it",
+          "source": "Linkiesta.it",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Lavarsi le mani | Cloro, varechina, amuchina: ecco com’è nata l’acqua santa dell’era coronavirus Linkiesta.it"
+        },
+        {
+          "title": "Coronavirus, come scegliere il disinfettante giusto per inattivarlo dalle superfici - Nurse24.it",
+          "source": "Nurse24.it",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Coronavirus, come scegliere il disinfettante giusto per inattivarlo dalle superfici Nurse24.it"
+        },
+        {
+          "title": "La storia di Oronzio de Nora, l'inventore dell'amuchina | Fedaiisf Federazione delle Associazioni - Fedaiisf",
+          "source": "Fedaiisf",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "La storia di Oronzio de Nora, l'inventore dell'amuchina | Fedaiisf Federazione delle Associazioni Fedaiisf"
+        },
+        {
+          "title": "Amuchina, come prepararla in casa - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Amuchina, come prepararla in casa MilanoToday"
+        },
+        {
+          "title": "Amuchina e disinfettanti fai-da-te: \"Sconsigliato prepararli in casa\" - Today",
+          "source": "Today",
+          "pubDate": "Fri, 28 Feb 2020 08:00:00 GMT",
+          "description": "Amuchina e disinfettanti fai-da-te: \"Sconsigliato prepararli in casa\" Today"
+        },
+        {
+          "title": "L'inventore dell'Amuchina? È un ingegnere elettrotecnico nato ad Altamura a fine Ottocento - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "L'inventore dell'Amuchina? È un ingegnere elettrotecnico nato ad Altamura a fine Ottocento la Repubblica"
+        },
+        {
+          "title": "Gel disinfettante per Coronavirus a 4 euro massimo: le disposizioni della Regione Campania - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 26 Feb 2020 08:00:00 GMT",
+          "description": "Gel disinfettante per Coronavirus a 4 euro massimo: le disposizioni della Regione Campania Fanpage"
+        },
+        {
+          "title": "Dall’Amuchina all’High Tech: il genio industriale del pugliese Oronzio De Nora - Fame di Sud",
+          "source": "Fame di Sud",
+          "pubDate": "Thu, 27 Feb 2020 08:00:00 GMT",
+          "description": "Dall’Amuchina all’High Tech: il genio industriale del pugliese Oronzio De Nora Fame di Sud"
+        },
+        {
+          "title": "Alcol etilico, acqua ossigenata, glicerina: come fare amuchina fai da te in casa - Internapoli.it",
+          "source": "Internapoli.it",
+          "pubDate": "Mon, 24 Feb 2020 08:00:00 GMT",
+          "description": "Alcol etilico, acqua ossigenata, glicerina: come fare amuchina fai da te in casa Internapoli.it"
+        }
+      ]
+    }
+  }
+}
