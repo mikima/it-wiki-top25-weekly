@@ -1,0 +1,1364 @@
+{
+  "week": "2023-21",
+  "start_date": "2023-05-22",
+  "end_date": "2023-05-28",
+  "articles": {
+    "Tina_Turner": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Tina Turner, pseudonimo di Anna Mae Bullock, è stata una cantante statunitense naturalizzata svizzera, tra le più celebri e acclamate interpreti femminili della musica rock.",
+      "news": [
+        {
+          "title": "Tina Turner dai capelli, le gambe e il trucco indimenticabili - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Tina Turner dai capelli, le gambe e il trucco indimenticabili Vanity Fair Italia"
+        },
+        {
+          "title": "Tina Turner - 1939-2023 - RSI",
+          "source": "RSI",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Tina Turner - 1939-2023 RSI"
+        },
+        {
+          "title": "Mondo della musica in lutto, addio a Tina Turner - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Mondo della musica in lutto, addio a Tina Turner Euronews.com"
+        },
+        {
+          "title": "Tina Turner, fiori e candele davanti alla casa in Svizzera - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Tina Turner, fiori e candele davanti alla casa in Svizzera Il Sole 24 ORE"
+        },
+        {
+          "title": "Elisa ricorda la collaborazione con Tina Turner: «Una forza gentile, saggia e materna» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Elisa ricorda la collaborazione con Tina Turner: «Una forza gentile, saggia e materna» Rolling Stone Italia"
+        },
+        {
+          "title": "Tina Turner manda in visibilio il pubblico: la performance sulla passerella, con i tacchi - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Tina Turner manda in visibilio il pubblico: la performance sulla passerella, con i tacchi RaiNews"
+        },
+        {
+          "title": "Addio a Tina Turner - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Wed, 24 May 2023 19:18:17 GMT",
+          "description": "Addio a Tina Turner il manifesto"
+        },
+        {
+          "title": "Tina Turner e What's Love Got To Do With It , la canzone della sua rinascita - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Tina Turner e What's Love Got To Do With It , la canzone della sua rinascita GQ Italia"
+        },
+        {
+          "title": "«La mia vita era fatta di morte». Tina Turner raccontata da due premi Oscar - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "«La mia vita era fatta di morte». Tina Turner raccontata da due premi Oscar Corriere della Sera"
+        },
+        {
+          "title": "Tina Turner, l’amicizia con Senna e l'invito sul palco per dedicargli \"The Best - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Tina Turner, l’amicizia con Senna e l'invito sul palco per dedicargli \"The Best La Gazzetta dello Sport"
+        }
+      ]
+    },
+    "Maria_Giovanna_Maglie": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Maria Giovanna Maglie è stata una saggista, opinionista e giornalista italiana.",
+      "news": [
+        {
+          "title": "Addio alla giornalista Maria Giovanna Maglie: aveva 70 anni - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Addio alla giornalista Maria Giovanna Maglie: aveva 70 anni Vanity Fair Italia"
+        },
+        {
+          "title": "Addio a Maria Giovanna Maglie, giornalista e saggista: \"Adesso è in pace, ha lottato fino alla fine\" - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Addio a Maria Giovanna Maglie, giornalista e saggista: \"Adesso è in pace, ha lottato fino alla fine\" Il Riformista"
+        },
+        {
+          "title": "Addio all'opinionista Maria Giovanna Maglie - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Addio all'opinionista Maria Giovanna Maglie RaiNews"
+        },
+        {
+          "title": "È morta Maria Giovanna Maglie, la giornalista aveva 70 anni - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "È morta Maria Giovanna Maglie, la giornalista aveva 70 anni Corriere della Sera"
+        },
+        {
+          "title": "L'uscita del feretro di Maria Giovanna Maglie dalla Chiesa degli Artisti a Roma - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "L'uscita del feretro di Maria Giovanna Maglie dalla Chiesa degli Artisti a Roma Il Sole 24 ORE"
+        },
+        {
+          "title": "È morta Maria Giovanna Maglie, aveva 70 anni - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "È morta Maria Giovanna Maglie, aveva 70 anni HuffPost Italia"
+        },
+        {
+          "title": "È morta Maria Giovanna Maglie, aveva 70 anni - Today",
+          "source": "Today",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "È morta Maria Giovanna Maglie, aveva 70 anni Today"
+        },
+        {
+          "title": "Maria Giovanna Maglie, il marito Carlo Spallino e l'amica Francesca Chaouqui con lei fino alla fine - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Maria Giovanna Maglie, il marito Carlo Spallino e l'amica Francesca Chaouqui con lei fino alla fine Fanpage"
+        },
+        {
+          "title": "È morta Maria Giovanna Maglie, la giornalista aveva 70 anni: \"Ha avuto una complicazione venosa\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "È morta Maria Giovanna Maglie, la giornalista aveva 70 anni: \"Ha avuto una complicazione venosa\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Muore a 70 anni la giornalista Maria Giovanna Maglie - Metropolitano.it",
+          "source": "Metropolitano.it",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Muore a 70 anni la giornalista Maria Giovanna Maglie Metropolitano.it"
+        }
+      ]
+    },
+    "Football_Club_Internazionale_Milano": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Football Club Internazionale Milano, meglio conosciuto come Internazionale o più semplicemente come Inter, è una società calcistica italiana con sede nella città di Milano.",
+      "news": [
+        {
+          "title": "Tanti auguri a Nicola Ventola! - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Tanti auguri a Nicola Ventola! Inter.it"
+        },
+        {
+          "title": "Storia: Man City 1-0 Inter | La finale: UEFA Champions League 2022/23 F. - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Storia: Man City 1-0 Inter | La finale: UEFA Champions League 2022/23 F. UEFA.com"
+        },
+        {
+          "title": "Le 9 vittorie in Coppa Italia della storia dell'Inter - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Le 9 vittorie in Coppa Italia della storia dell'Inter Inter.it"
+        },
+        {
+          "title": "Femminile, in vendita i biglietti per il derby contro il Milan - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Thu, 25 May 2023 14:13:06 GMT",
+          "description": "Femminile, in vendita i biglietti per il derby contro il Milan Inter.it"
+        }
+      ]
+    },
+    "Coppa_Italia": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Coppa Italia, nota come Coppa Italia Frecciarossa per ragioni di sponsorizzazione, è la principale coppa calcistica italiana, nonché la seconda competizione professionistica nazionale per prestigio dopo il campionato di Serie A. Il torneo è organizzato dalla Lega Calcio Serie A, sotto la giurisdizione della FIGC, ed è considerato di fatto la coppa federale nazionale, sebbene, in virtù della propria organizzazione, sia formalmente una coppa di lega. La squadra detentrice della Coppa Italia può fregiare sulla propria maglia, per i dodici mesi successivi la conquista del trofeo, la coccarda italiana tricolore come simbolo identificativo dell'avvenuta vittoria.",
+      "news": [
+        {
+          "title": "Fiorentina-Inter, le formazioni ufficiali della finale di Coppa Italia - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Fiorentina-Inter, le formazioni ufficiali della finale di Coppa Italia Inter.it"
+        },
+        {
+          "title": "L’Inter vince la Coppa Italia: in finale ha battuto 2-1, in rimonta, la Fiorentina - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "L’Inter vince la Coppa Italia: in finale ha battuto 2-1, in rimonta, la Fiorentina Sky TG24"
+        },
+        {
+          "title": "COPPA ITALIA FRECCIAROSSA - Designazione Finale - AIA FIGC",
+          "source": "AIA FIGC",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "COPPA ITALIA FRECCIAROSSA - Designazione Finale AIA FIGC"
+        },
+        {
+          "title": "La Fiorentina ha mai vinto la Coppa Italia? Trofei e albo d'oro - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "La Fiorentina ha mai vinto la Coppa Italia? Trofei e albo d'oro Goal.com"
+        },
+        {
+          "title": "L’Inter ha vinto la Coppa Italia - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "L’Inter ha vinto la Coppa Italia Il Post"
+        },
+        {
+          "title": "L'Inter vince la Coppa Italia, la festa dei tifosi in piazza Duomo - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "L'Inter vince la Coppa Italia, la festa dei tifosi in piazza Duomo RaiNews"
+        },
+        {
+          "title": "Lautaro mostruoso, Fiorentina ribaltata: la Coppa Italia è dell'Inter! - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Lautaro mostruoso, Fiorentina ribaltata: la Coppa Italia è dell'Inter! La Gazzetta dello Sport"
+        },
+        {
+          "title": "Incontro con le squadre finaliste della Coppa Italia di calcio Freccia Rossa Fiorentina - Inter. - Quirinale",
+          "source": "Quirinale",
+          "pubDate": "Tue, 23 May 2023 16:12:29 GMT",
+          "description": "Incontro con le squadre finaliste della Coppa Italia di calcio Freccia Rossa Fiorentina - Inter. Quirinale"
+        },
+        {
+          "title": "Coppa Italia Frecciarossa, l’Inter batte la Fiorentina - FS News",
+          "source": "FS News",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Coppa Italia Frecciarossa, l’Inter batte la Fiorentina FS News"
+        },
+        {
+          "title": "Coppa Italia 2023, come raggiungere lo Stadio Olimpico: le indicazioni per i tifosi di Fiorentina e Inter - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Coppa Italia 2023, come raggiungere lo Stadio Olimpico: le indicazioni per i tifosi di Fiorentina e Inter RomaToday"
+        }
+      ]
+    },
+    "Ray_Stevenson": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "George Raymond Stevenson, detto Ray, è stato un attore britannico.",
+      "news": [
+        {
+          "title": "Ray Stevenson, morto a Ischia l'attore che interpretò Tito Pullo nella serie \"Roma\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Ray Stevenson, morto a Ischia l'attore che interpretò Tito Pullo nella serie \"Roma\" la Repubblica"
+        },
+        {
+          "title": "Morto sul set a Ischia, addio all'attore britannico Ray Stevenson - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Morto sul set a Ischia, addio all'attore britannico Ray Stevenson RaiNews"
+        },
+        {
+          "title": "Morto l'attore Ray Stevenson, a Castel Volturno i funerali - ANSA",
+          "source": "ANSA",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Morto l'attore Ray Stevenson, a Castel Volturno i funerali ANSA"
+        },
+        {
+          "title": "Ray Stevenson ci lascia: l'omone dal grande cuore che non aveva paura di mettersi in gioco - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Ray Stevenson ci lascia: l'omone dal grande cuore che non aveva paura di mettersi in gioco Movieplayer"
+        },
+        {
+          "title": "L’attore Ray Stevenson morto a Ischia, rivelate le possibili cause del decesso - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "L’attore Ray Stevenson morto a Ischia, rivelate le possibili cause del decesso Fanpage"
+        },
+        {
+          "title": "Ray Stevenson, morto a 59 anni l’attore di «Punisher - Zona di guerra» e «Thor» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Ray Stevenson, morto a 59 anni l’attore di «Punisher - Zona di guerra» e «Thor» Corriere della Sera"
+        },
+        {
+          "title": "Ray Stevenson morto a 59 anni, l'attore colto da malore a Ischia mentre girava un film: ha recitato in ​Thor e Re Artù - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Ray Stevenson morto a 59 anni, l'attore colto da malore a Ischia mentre girava un film: ha recitato in ​Thor e Re Artù Il Messaggero"
+        },
+        {
+          "title": "Ray Stevenson morto improvvisamente mentre girava un film a Ischia - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Ray Stevenson morto improvvisamente mentre girava un film a Ischia Tgcom24"
+        },
+        {
+          "title": "Ray Stevenson, morto a Ischia l'attore di Thor: colpito da malore mentre gira un film. Aveva 59 anni - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Ray Stevenson, morto a Ischia l'attore di Thor: colpito da malore mentre gira un film. Aveva 59 anni Leggo.it"
+        },
+        {
+          "title": "Ray Stevenson, morto a 58 anni l’attore di Roma e Thor - Ciak Magazine",
+          "source": "Ciak Magazine",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Ray Stevenson, morto a 58 anni l’attore di Roma e Thor Ciak Magazine"
+        }
+      ]
+    },
+    "Società_Sportiva_Calcio_Napoli": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Società Sportiva Calcio Napoli, meglio nota come Napoli, è una società calcistica italiana della città di Napoli. Milita in Serie A, la massima serie del campionato italiano.",
+      "news": [
+        {
+          "title": "La Zecca conia le medaglie del Napoli campione d'Italia - Corriere Del Mezzogiorno",
+          "source": "Corriere Del Mezzogiorno",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "La Zecca conia le medaglie del Napoli campione d'Italia Corriere Del Mezzogiorno"
+        },
+        {
+          "title": "Com'è dura la vita per chi non tifa Napoli a Napoli - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Com'è dura la vita per chi non tifa Napoli a Napoli la Repubblica"
+        },
+        {
+          "title": "Medaglia per il terzo scudetto del Napoli - Il Nuovo Terraglio",
+          "source": "Il Nuovo Terraglio",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Medaglia per il terzo scudetto del Napoli Il Nuovo Terraglio"
+        },
+        {
+          "title": "Dalla ZECCA due medaglie per il NAPOLI CAMPIONE d’Italia 2022-2023 - Cronaca Numismatica",
+          "source": "Cronaca Numismatica",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Dalla ZECCA due medaglie per il NAPOLI CAMPIONE d’Italia 2022-2023 Cronaca Numismatica"
+        },
+        {
+          "title": "Anche i brand festeggiano il terzo scudetto del Napoli - Inside Marketing",
+          "source": "Inside Marketing",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Anche i brand festeggiano il terzo scudetto del Napoli Inside Marketing"
+        },
+        {
+          "title": "Arriva la medaglia celebrativa del terzo scudetto del Napoli - ANSA",
+          "source": "ANSA",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Arriva la medaglia celebrativa del terzo scudetto del Napoli ANSA"
+        }
+      ]
+    },
+    "Albo_d'oro_della_Coppa_Italia": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Coppa Italia venne assegnata per la prima volta dalla FIGC nel 1922; la sua creazione si intersecò strettamente coi contemporanei eventi del campionato, poiché la nuova coppa nazionale nacque principalmente per rimpolpare una stagione agonistica rimasta orfana delle grandi squadre, fuggite verso la nuova lega CCI e il relativo torneo. L'edizione del debutto, che non riscosse successo, rimase un caso isolato – per l'immediato risanamento dello \"scisma\" calcistico – fino alla riorganizzazione del torneo nel 1935-36. Gli eventi della seconda guerra mondiale portarono poi a un nuovo fermo del torneo al termine dell'edizione 1942-43. La pausa durò stavolta quindici anni, prima che la competizione venisse riportata in voga nel 1958; da allora, la principale coppa italiana per squadre viene disputata ininterrottamente.",
+      "news": [
+        {
+          "title": "Le 9 vittorie in Coppa Italia della storia dell'Inter - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Le 9 vittorie in Coppa Italia della storia dell'Inter Inter.it"
+        },
+        {
+          "title": "Albo d'oro Coppa Italia, chi ha vinto più volte il trofeo? La classifica - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Albo d'oro Coppa Italia, chi ha vinto più volte il trofeo? La classifica Goal.com"
+        },
+        {
+          "title": "La Fiorentina ha mai vinto la Coppa Italia? Trofei e albo d'oro - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "La Fiorentina ha mai vinto la Coppa Italia? Trofei e albo d'oro Goal.com"
+        },
+        {
+          "title": "Gaia Gozzi canta l'Inno di Mameli prima di Fiorentina-Inter, finale di Coppa Italia: giallo sui social e critica feroce - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Gaia Gozzi canta l'Inno di Mameli prima di Fiorentina-Inter, finale di Coppa Italia: giallo sui social e critica feroce Virgilio"
+        },
+        {
+          "title": "Coppa Titano, la prima della Virtus: Tre Penne ko 3-1 - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Coppa Titano, la prima della Virtus: Tre Penne ko 3-1 San Marino Rtv"
+        },
+        {
+          "title": "Albo d'oro della Supercoppa Italiana - AreaNapoli",
+          "source": "AreaNapoli",
+          "pubDate": "Sat, 27 May 2023 17:18:20 GMT",
+          "description": "Albo d'oro della Supercoppa Italiana AreaNapoli"
+        },
+        {
+          "title": "Coppa Italia: quanti allenatori l'hanno vinta? Chi sono e chi detie... - TAG24 by Unicusano",
+          "source": "TAG24 by Unicusano",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Coppa Italia: quanti allenatori l'hanno vinta? Chi sono e chi detie... TAG24 by Unicusano"
+        },
+        {
+          "title": "Pagelle Fiorentina-Inter 1-2: Lautaro (8) Re di coppa Italia. Bonaventura (7) ovunque. Dodò (7) decolla, Dimarco (5,5) plana - Virgilio Sport",
+          "source": "Virgilio Sport",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Pagelle Fiorentina-Inter 1-2: Lautaro (8) Re di coppa Italia. Bonaventura (7) ovunque. Dodò (7) decolla, Dimarco (5,5) plana Virgilio Sport"
+        }
+      ]
+    },
+    "Lautaro_Martínez": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lautaro Javier Martínez è un calciatore argentino, attaccante dell'Inter, di cui è capitano, e della nazionale argentina, con cui è diventato campione del mondo nel 2022, vicecampione del mondo nel 2026 e campione del Sud America nel 2021 e nel 2024.",
+      "news": [
+        {
+          "title": "Lautaro si è sposato: sul lago di Como tanta Inter e mezza Nazionale ma non... Messi - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Mon, 29 May 2023 07:00:00 GMT",
+          "description": "Lautaro si è sposato: sul lago di Como tanta Inter e mezza Nazionale ma non... Messi La Gazzetta dello Sport"
+        },
+        {
+          "title": "Lautaro Martínez e Agustina: nozze sul lago di Como festeggiati dall’Inter - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 29 May 2023 07:00:00 GMT",
+          "description": "Lautaro Martínez e Agustina: nozze sul lago di Como festeggiati dall’Inter Corriere della Sera"
+        },
+        {
+          "title": "Lautaro Martinez, chi è la moglie Agustina Gandolfo: età, lavoro, figli e Instagram - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Lautaro Martinez, chi è la moglie Agustina Gandolfo: età, lavoro, figli e Instagram Il Giorno"
+        },
+        {
+          "title": "Inzaghi Re di Coppe: Fiorentina-Inter 1-2, doppietta di Lautaro e nono titolo nerazzurro - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Inzaghi Re di Coppe: Fiorentina-Inter 1-2, doppietta di Lautaro e nono titolo nerazzurro RaiNews"
+        },
+        {
+          "title": "Lautaro Martínez consola Nico González prima della festa: sportività e amicizia in un solo gesto - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Lautaro Martínez consola Nico González prima della festa: sportività e amicizia in un solo gesto Fanpage"
+        },
+        {
+          "title": "Inter, obiettivo Champions League: con un Lautaro così anche il City fa meno paura - Diretta",
+          "source": "Diretta",
+          "pubDate": "Thu, 25 May 2023 10:22:21 GMT",
+          "description": "Inter, obiettivo Champions League: con un Lautaro così anche il City fa meno paura Diretta"
+        },
+        {
+          "title": "Coppa Italia, Inter: Lautaro Martinez non si vuole fermare - Sportal.it",
+          "source": "Sportal.it",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Coppa Italia, Inter: Lautaro Martinez non si vuole fermare Sportal.it"
+        },
+        {
+          "title": "Pagelle Fiorentina-Inter 1-2: Lautaro (8) Re di coppa Italia. Bonaventura (7) ovunque. Dodò (7) decolla, Dimarco (5,5) plana - Virgilio Sport",
+          "source": "Virgilio Sport",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Pagelle Fiorentina-Inter 1-2: Lautaro (8) Re di coppa Italia. Bonaventura (7) ovunque. Dodò (7) decolla, Dimarco (5,5) plana Virgilio Sport"
+        },
+        {
+          "title": "Lautaro può vincere il Pallone d'Oro? Le statistiche del Toro sono incontrovertibili - Tribuna.com",
+          "source": "Tribuna.com",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Lautaro può vincere il Pallone d'Oro? Le statistiche del Toro sono incontrovertibili Tribuna.com"
+        }
+      ]
+    },
+    "La_sirenetta_(film_2023)": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La sirenetta è un film del 2023 diretto e co-prodotto da Rob Marshall.",
+      "news": [
+        {
+          "title": "La sirenetta - Film (2023) - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "La sirenetta - Film (2023) MYmovies"
+        },
+        {
+          "title": "Tutti i motivi per cui La Sirenetta del 2023 è meglio dell'originale. Sì hai letto bene - Vogue",
+          "source": "Vogue",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Tutti i motivi per cui La Sirenetta del 2023 è meglio dell'originale. Sì hai letto bene Vogue"
+        },
+        {
+          "title": "La Sirenetta, recensione: pasticcio in fondo al mare - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "La Sirenetta, recensione: pasticcio in fondo al mare Movieplayer"
+        },
+        {
+          "title": "La Sirenetta, un remake-fotocopia con una grande attrice - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "La Sirenetta, un remake-fotocopia con una grande attrice Vanity Fair Italia"
+        },
+        {
+          "title": "Tra acque cristalline e scogliere scoscese, tutte le location (italiane) de La Sirenetta - ELLE Decor",
+          "source": "ELLE Decor",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Tra acque cristalline e scogliere scoscese, tutte le location (italiane) de La Sirenetta ELLE Decor"
+        },
+        {
+          "title": "Chi è Jonah Hauer-King, il principe Eric nel live action Disney \"La Sirenetta\"? - L’OFFICIEL Italia",
+          "source": "L’OFFICIEL Italia",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Chi è Jonah Hauer-King, il principe Eric nel live action Disney \"La Sirenetta\"? L’OFFICIEL Italia"
+        },
+        {
+          "title": "La Sirenetta | Un Classico Disney per un nuovo pubblico - FRAMED Magazine",
+          "source": "FRAMED Magazine",
+          "pubDate": "Mon, 29 May 2023 07:00:00 GMT",
+          "description": "La Sirenetta | Un Classico Disney per un nuovo pubblico FRAMED Magazine"
+        },
+        {
+          "title": "LA SIRENETTA, finalmente in sala il remake live action - MaSeDomani",
+          "source": "MaSeDomani",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "LA SIRENETTA, finalmente in sala il remake live action MaSeDomani"
+        },
+        {
+          "title": "\"La Sirenetta\", esce l'adattamento in live-action del classico Disney: 5 cose da sapere - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "\"La Sirenetta\", esce l'adattamento in live-action del classico Disney: 5 cose da sapere Sky TG24"
+        },
+        {
+          "title": "\"La Sirenetta\" Halle Bailey sogna ancora in fondo al mar, ma senza la magia Disney - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "\"La Sirenetta\" Halle Bailey sogna ancora in fondo al mar, ma senza la magia Disney iO Donna"
+        }
+      ]
+    },
+    "Tommaso_Buscetta": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Tommaso Buscetta, detto anche Il boss dei due mondi e don Masino, è stato un mafioso e collaboratore di giustizia italiano.",
+      "news": [
+        {
+          "title": "La cattura in Brasile, il veleno e il pentimento di don Masino - Domani",
+          "source": "Domani",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "La cattura in Brasile, il veleno e il pentimento di don Masino Domani"
+        },
+        {
+          "title": "\"Il traditore\" su Rai 1, Piefrancesco Favino è Tommaso Buscetta - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "\"Il traditore\" su Rai 1, Piefrancesco Favino è Tommaso Buscetta iO Donna"
+        },
+        {
+          "title": "Il traditore: la storia vera dietro il film di Marco Bellocchio - The HotCorn",
+          "source": "The HotCorn",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Il traditore: la storia vera dietro il film di Marco Bellocchio The HotCorn"
+        },
+        {
+          "title": "Una delle figure più controverse della Storia recente d'Italia: stasera in tv \"Il Traditore\" è il film da non perdere - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Una delle figure più controverse della Storia recente d'Italia: stasera in tv \"Il Traditore\" è il film da non perdere Amica.it"
+        },
+        {
+          "title": "Maria Cristina de Almeida Guimarães è esistita veramente?/ Tommaso Buscetta e l’amore - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Maria Cristina de Almeida Guimarães è esistita veramente?/ Tommaso Buscetta e l’amore IlSussidiario.net"
+        },
+        {
+          "title": "Melchiorra Cavallaro la prima moglie di Tommaso Buscetta: storia vera e figli - AmalfiNotizie.it",
+          "source": "AmalfiNotizie.it",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Melchiorra Cavallaro la prima moglie di Tommaso Buscetta: storia vera e figli AmalfiNotizie.it"
+        },
+        {
+          "title": "Il traditore, come finisce il film? - CultWeb.it",
+          "source": "CultWeb.it",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Il traditore, come finisce il film? CultWeb.it"
+        },
+        {
+          "title": "Chi era Maria Cristina de Almeida Guimaraes la moglie di Tommaso Buscetta: storia vera - AmalfiNotizie.it",
+          "source": "AmalfiNotizie.it",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Chi era Maria Cristina de Almeida Guimaraes la moglie di Tommaso Buscetta: storia vera AmalfiNotizie.it"
+        },
+        {
+          "title": "Chi era Vera Girotti la seconda moglie di Tommaso Buscetta scomparsa nel nulla: storia vera - AmalfiNotizie.it",
+          "source": "AmalfiNotizie.it",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Chi era Vera Girotti la seconda moglie di Tommaso Buscetta scomparsa nel nulla: storia vera AmalfiNotizie.it"
+        },
+        {
+          "title": "Maria Cristina de Almeida Guimaraes moglie di Tommaso Buscetta è esistita nella realtà? La verità - AmalfiNotizie.it",
+          "source": "AmalfiNotizie.it",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Maria Cristina de Almeida Guimaraes moglie di Tommaso Buscetta è esistita nella realtà? La verità AmalfiNotizie.it"
+        }
+      ]
+    },
+    "Chiara_Colosimo": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Chiara Colosimo è una politica italiana, dal 13 ottobre 2022 deputata alla Camera per Fratelli d'Italia e dal 23 maggio 2023 presidente della Commissione parlamentare antimafia.",
+      "news": [
+        {
+          "title": "Chiara Colosimo è stata eletta nuovo presidente della Commissione Antimafia - articolo - Rai.it - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Tue, 23 May 2023 12:18:53 GMT",
+          "description": "Chiara Colosimo è stata eletta nuovo presidente della Commissione Antimafia - articolo - Rai.it Rai.it"
+        },
+        {
+          "title": "Chiara Colosimo eletta presidente della Commissione antimafia, Pd-M5s-Avs escono dall'aula - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Chiara Colosimo eletta presidente della Commissione antimafia, Pd-M5s-Avs escono dall'aula RaiNews"
+        },
+        {
+          "title": "Chiara Colosimo all’Antimafia, tra critiche e chiarimenti: i motivi della polemica - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Chiara Colosimo all’Antimafia, tra critiche e chiarimenti: i motivi della polemica Vanity Fair Italia"
+        },
+        {
+          "title": "Le polemiche sulla nuova presidente della Commissione antimafia - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Le polemiche sulla nuova presidente della Commissione antimafia Il Post"
+        },
+        {
+          "title": "Antimafia, Chiara Colosimo eletta presidente: \"Non ho amicizia con Ciavardini\" - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Antimafia, Chiara Colosimo eletta presidente: \"Non ho amicizia con Ciavardini\" Tgcom24"
+        },
+        {
+          "title": "Andrea Scanzi: \"Ciavardini ha una fedina penale lunga da qui all'Everest. Non c'era nessuno di migliore?\" - La7",
+          "source": "La7",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Andrea Scanzi: \"Ciavardini ha una fedina penale lunga da qui all'Everest. Non c'era nessuno di migliore?\" La7"
+        },
+        {
+          "title": "Scontro sulla Commissione Antimafia: il centrodestra vota Colosimo, le opposizioni lasciano l'aula - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Scontro sulla Commissione Antimafia: il centrodestra vota Colosimo, le opposizioni lasciano l'aula HuffPost Italia"
+        },
+        {
+          "title": "Antimafia, Colosimo eletta presidente: l'opposizione abbandona l'aula - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Antimafia, Colosimo eletta presidente: l'opposizione abbandona l'aula Sky TG24"
+        },
+        {
+          "title": "Chi è Chiara Colosimo, giovane colonna di FdI eletta presidente dell'Antimafia - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Chi è Chiara Colosimo, giovane colonna di FdI eletta presidente dell'Antimafia Il Foglio"
+        },
+        {
+          "title": "Chiara Colosimo e Luigi Ciavardini: la presidente dell'Antimafia spiega la foto con il terrorista - Open",
+          "source": "Open",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Chiara Colosimo e Luigi Ciavardini: la presidente dell'Antimafia spiega la foto con il terrorista Open"
+        }
+      ]
+    },
+    "Ike_Turner": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Izear Luster Turner Jr., detto Ike, è stato un cantante, musicista e bandleader statunitense.",
+      "news": [
+        {
+          "title": "Le violenze del primo marito Ike, l'amore per Erwin, la tragica morte dei figli: la burrascosa vita di Tina Turner - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Le violenze del primo marito Ike, l'amore per Erwin, la tragica morte dei figli: la burrascosa vita di Tina Turner Vanity Fair Italia"
+        },
+        {
+          "title": "Tina Turner e l'amore violento con Ike (che ha lasciato con soli 36 centesimi in tasca) - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Tina Turner e l'amore violento con Ike (che ha lasciato con soli 36 centesimi in tasca) Cosmopolitan"
+        },
+        {
+          "title": "«La mia vita era fatta di morte». Tina Turner raccontata da due premi Oscar - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "«La mia vita era fatta di morte». Tina Turner raccontata da due premi Oscar Corriere della Sera"
+        },
+        {
+          "title": "La vita privata di Tina Turner: quattro figli e i matrimoni con Ike Turner e Erwin Bach - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "La vita privata di Tina Turner: quattro figli e i matrimoni con Ike Turner e Erwin Bach Fanpage"
+        },
+        {
+          "title": "È morta Tina Turner - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "È morta Tina Turner Rolling Stone Italia"
+        },
+        {
+          "title": "Addio a Tina Turner - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Wed, 24 May 2023 19:18:17 GMT",
+          "description": "Addio a Tina Turner il manifesto"
+        },
+        {
+          "title": "Tina Turner - 1939-2023 - RSI",
+          "source": "RSI",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Tina Turner - 1939-2023 RSI"
+        },
+        {
+          "title": "Come Tina Turner contribuì a diffondere consapevolezza sulla violenza domestica - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Come Tina Turner contribuì a diffondere consapevolezza sulla violenza domestica Il Post"
+        },
+        {
+          "title": "L'omaggio di Rai Cultura a Tina Turner - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "L'omaggio di Rai Cultura a Tina Turner Rai.it"
+        },
+        {
+          "title": "Morta Tina Turner, la cantante che «visse» due volte - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Morta Tina Turner, la cantante che «visse» due volte Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Strage_di_Capaci": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La strage di Capaci fu un attentato di stampo terroristico-mafioso compiuto sabato 23 maggio, 1992 con una carica composta da tritolo, RDX e nitrato d'ammonio con potenza pari a 300 kg di tritolo, per uccidere Giovanni Falcone. Gli attentatori fecero esplodere un tratto dell'autostrada A29 in direzione verso il capoluogo siciliano, alle ore 17:58, mentre vi transitava sopra il corteo della scorta con a bordo il giudice, la moglie e gli agenti di Polizia, sistemati in tre Fiat Croma blindate. Oltre al giudice, morirono altre quattro persone: la moglie Francesca Morvillo e gli agenti della scorta Vito Schifani, Rocco Dicillo e Antonio Montinaro. Vi furono ventitré feriti, fra i quali gli agenti Paolo Capuzza, Angelo Corbo, Gaspare Cervello e l'autista giudiziario Giuseppe Costanza.",
+      "news": [
+        {
+          "title": "La strage di Capaci: l'attentato che cambiò il volto dell'Italia - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "La strage di Capaci: l'attentato che cambiò il volto dell'Italia Focus.it"
+        },
+        {
+          "title": "Anniversario della strage di Capaci - Regione Autonoma Friuli Venezia Giulia",
+          "source": "Regione Autonoma Friuli Venezia Giulia",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Anniversario della strage di Capaci Regione Autonoma Friuli Venezia Giulia"
+        },
+        {
+          "title": "Strage di Capaci, il Presidente Meloni depone una corona nel Parco intitolato a Falcone e Borsellino - Governo.it",
+          "source": "Governo.it",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Strage di Capaci, il Presidente Meloni depone una corona nel Parco intitolato a Falcone e Borsellino Governo.it"
+        },
+        {
+          "title": "Strage di Capaci: Bagheria ricorda Giovanni Falcone, Francesca Morvillo e gli agenti della scorta - Città di Bagheria",
+          "source": "Città di Bagheria",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Strage di Capaci: Bagheria ricorda Giovanni Falcone, Francesca Morvillo e gli agenti della scorta Città di Bagheria"
+        },
+        {
+          "title": "Rai per il 31° anniversario della strage di Capaci - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Rai per il 31° anniversario della strage di Capaci Rai.it"
+        },
+        {
+          "title": "31 anni dalla strage di Capaci, la memoria e l'impegno - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "31 anni dalla strage di Capaci, la memoria e l'impegno RaiNews"
+        },
+        {
+          "title": "Strage di Capaci: “Il tramonto si avvicina” - Metropolitano.it",
+          "source": "Metropolitano.it",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Strage di Capaci: “Il tramonto si avvicina” Metropolitano.it"
+        },
+        {
+          "title": "Strage Capaci, PD: \"Ricordare oggi significa combattere la mafia ogni giorno\" - Partito democratico",
+          "source": "Partito democratico",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Strage Capaci, PD: \"Ricordare oggi significa combattere la mafia ogni giorno\" Partito democratico"
+        },
+        {
+          "title": "23 maggio: oggi ricorre il trentunesimo anniversario della strage di Capaci - Confesercenti Nazionale",
+          "source": "Confesercenti Nazionale",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "23 maggio: oggi ricorre il trentunesimo anniversario della strage di Capaci Confesercenti Nazionale"
+        },
+        {
+          "title": "23 Maggio 1992, la strage di Capaci - coisp",
+          "source": "coisp",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "23 Maggio 1992, la strage di Capaci coisp"
+        }
+      ]
+    },
+    "Simone_Inzaghi": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Simone Inzaghi è un allenatore di calcio ed ex calciatore italiano, di ruolo attaccante, tecnico dell'Al-Hilal.",
+      "news": [
+        {
+          "title": "Simone Inzaghi (Inter) perché piace solo quando vince? - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Simone Inzaghi (Inter) perché piace solo quando vince? Corriere della Sera"
+        },
+        {
+          "title": "Il re di coppe: per Simone Inzaghi è la settima finale consecutiva vinta - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Il re di coppe: per Simone Inzaghi è la settima finale consecutiva vinta Goal.com"
+        },
+        {
+          "title": "Simone Inzaghi, Re di Coppe - Sportellate",
+          "source": "Sportellate",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Simone Inzaghi, Re di Coppe Sportellate"
+        },
+        {
+          "title": "Inter-Atalanta, Inzaghi: \"I ragazzi sono stati straordinari\" - DAZN",
+          "source": "DAZN",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Inter-Atalanta, Inzaghi: \"I ragazzi sono stati straordinari\" DAZN"
+        },
+        {
+          "title": "L’Inter ricevuta al Quirinale dal Presidente della Repubblica Sergio Mattarella - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "L’Inter ricevuta al Quirinale dal Presidente della Repubblica Sergio Mattarella Inter.it"
+        },
+        {
+          "title": "Inzaghi Re di Coppe: Fiorentina-Inter 1-2, doppietta di Lautaro e nono titolo nerazzurro - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Inzaghi Re di Coppe: Fiorentina-Inter 1-2, doppietta di Lautaro e nono titolo nerazzurro RaiNews"
+        },
+        {
+          "title": "Inter, rivincita Inzaghi: ora c’è da decidere chi resta e che ne sarà di Handanovic e Lukaku - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Inter, rivincita Inzaghi: ora c’è da decidere chi resta e che ne sarà di Handanovic e Lukaku Virgilio"
+        },
+        {
+          "title": "La moglie di Inzaghi: \"Cosa mi succede quando l'Inter perde\", poi parla della Marcuzzi - Corriere dello Sport",
+          "source": "Corriere dello Sport",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "La moglie di Inzaghi: \"Cosa mi succede quando l'Inter perde\", poi parla della Marcuzzi Corriere dello Sport"
+        },
+        {
+          "title": "Gaia Lucariello, moglie di Simone Inzaghi, l’Inter, la Champions e lo stress: «Con lui sono invecchiata di 26... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 29 May 2023 07:00:00 GMT",
+          "description": "Gaia Lucariello, moglie di Simone Inzaghi, l’Inter, la Champions e lo stress: «Con lui sono invecchiata di 26... Corriere della Sera"
+        },
+        {
+          "title": "L'auto di Simone Inzaghi: finalista Champions, elegante al volante - Autospecial",
+          "source": "Autospecial",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "L'auto di Simone Inzaghi: finalista Champions, elegante al volante Autospecial"
+        }
+      ]
+    },
+    "Lorenzo_Milani": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Don Lorenzo Milani, nome completo Lorenzo Carlo Domenico Milani Comparetti, è stato un presbitero, scrittore, docente ed educatore cattolico italiano.",
+      "news": [
+        {
+          "title": "Il messaggio di don Milani - La rivista il Mulino",
+          "source": "La rivista il Mulino",
+          "pubDate": "Mon, 29 May 2023 07:00:00 GMT",
+          "description": "Il messaggio di don Milani La rivista il Mulino"
+        },
+        {
+          "title": "Il segreto di don Milani: amare i propri studenti - Chiesa di Milano",
+          "source": "Chiesa di Milano",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Il segreto di don Milani: amare i propri studenti Chiesa di Milano"
+        },
+        {
+          "title": "Don Milani, maestro e profeta di una scuola dell'inclusione culturale e sociale - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Don Milani, maestro e profeta di una scuola dell'inclusione culturale e sociale Vatican News"
+        },
+        {
+          "title": "Un'ora sola - S2023E19 - Don Milani e la scuola di tutti - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Un'ora sola - S2023E19 - Don Milani e la scuola di tutti - Video RaiPlay"
+        },
+        {
+          "title": "Salire a Barbiana a 100 anni dalla nascita di don Lorenzo Milani - Città Nuova",
+          "source": "Città Nuova",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Salire a Barbiana a 100 anni dalla nascita di don Lorenzo Milani Città Nuova"
+        },
+        {
+          "title": "Don Lorenzo Milani, il ricordo a 100 anni dalla nascita - FS News",
+          "source": "FS News",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Don Lorenzo Milani, il ricordo a 100 anni dalla nascita FS News"
+        },
+        {
+          "title": "La lezione di don Milani - La Voce e il Tempo",
+          "source": "La Voce e il Tempo",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "La lezione di don Milani La Voce e il Tempo"
+        },
+        {
+          "title": "“Così ricordo don Lorenzo Milani, il mio maestro” - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "“Così ricordo don Lorenzo Milani, il mio maestro” Tv2000"
+        },
+        {
+          "title": "Don Lorenzo Milani. Mattarella: \"La scuola deve essere di tutti\" e \"Mai mettere a tacere i libri\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Don Lorenzo Milani. Mattarella: \"La scuola deve essere di tutti\" e \"Mai mettere a tacere i libri\" RaiNews"
+        },
+        {
+          "title": "100 anni dalla nascita di Don Milani - Feltrinelli",
+          "source": "Feltrinelli",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "100 anni dalla nascita di Don Milani Feltrinelli"
+        }
+      ]
+    },
+    "Primož_Roglič": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Primož Roglič è un ciclista su strada ed ex saltatore con gli sci sloveno che corre per il team Red Bull-Bora-Hansgrohe.",
+      "news": [
+        {
+          "title": "Primoz Roglic vince la ventesima tappa del Giro d’Italia e conquista la Maglia Rosa - Giro d'Italia",
+          "source": "Giro d'Italia",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Primoz Roglic vince la ventesima tappa del Giro d’Italia e conquista la Maglia Rosa Giro d'Italia"
+        },
+        {
+          "title": "Giro d'Italia 2023, l'incidente a Primož Roglič nella cronoscalata Tarvisio-Monte Lussari - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Giro d'Italia 2023, l'incidente a Primož Roglič nella cronoscalata Tarvisio-Monte Lussari RaiNews"
+        },
+        {
+          "title": "Primoz Roglic vince il 106^ Giro d’Italia. Mark Cavendish si impone nella tappa finale di Roma - Giro d'Italia",
+          "source": "Giro d'Italia",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Primoz Roglic vince il 106^ Giro d’Italia. Mark Cavendish si impone nella tappa finale di Roma Giro d'Italia"
+        },
+        {
+          "title": "Perché i corridori sloveni stanno dominando il ciclismo mondiale - Bikeitalia.it",
+          "source": "Bikeitalia.it",
+          "pubDate": "Mon, 29 May 2023 07:00:00 GMT",
+          "description": "Perché i corridori sloveni stanno dominando il ciclismo mondiale Bikeitalia.it"
+        },
+        {
+          "title": "Il volo di Santiago. Roglic recupera tre secondi a Thomas - BDC Mag",
+          "source": "BDC Mag",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Il volo di Santiago. Roglic recupera tre secondi a Thomas BDC Mag"
+        },
+        {
+          "title": "Giro d'Italia, Primož Roglič vince la cronoscalata Tarvisio-Monte Lussari ed è maglia rosa - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Giro d'Italia, Primož Roglič vince la cronoscalata Tarvisio-Monte Lussari ed è maglia rosa RaiNews"
+        },
+        {
+          "title": "Giro d'Italia: a Roma l'ultimo acuto di Cavendish e il trionfo di Roglic - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Giro d'Italia: a Roma l'ultimo acuto di Cavendish e il trionfo di Roglic San Marino Rtv"
+        },
+        {
+          "title": "Giro d'Italia 2023, Primož Roglič vince la cronoscalata Tarvisio-Monte Lussari e la Maglia Rosa - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Giro d'Italia 2023, Primož Roglič vince la cronoscalata Tarvisio-Monte Lussari e la Maglia Rosa RaiNews"
+        },
+        {
+          "title": "Giro d'Italia 2023, Mark Cavendish vince allo sprint l'ultima tappa. Primož Roglič trionfa in Rosa - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Giro d'Italia 2023, Mark Cavendish vince allo sprint l'ultima tappa. Primož Roglič trionfa in Rosa RaiNews"
+        },
+        {
+          "title": "Decine di migliaia di tifosi fra Tarvisio e Lussari per il trionfo di Roglič - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Decine di migliaia di tifosi fra Tarvisio e Lussari per il trionfo di Roglič RaiNews"
+        }
+      ]
+    },
+    "Anthony_Hopkins": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Sir Philip Anthony Hopkins è un attore britannico naturalizzato statunitense.",
+      "news": [
+        {
+          "title": "Che tempo che fa 2022/23 - Sir Anthony Hopkins - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Che tempo che fa 2022/23 - Sir Anthony Hopkins - Video RaiPlay"
+        },
+        {
+          "title": "A \"Che Tempo Che Fa\" il due volte Premio Oscar Anthony Hopkins - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "A \"Che Tempo Che Fa\" il due volte Premio Oscar Anthony Hopkins Rai.it"
+        },
+        {
+          "title": "Anthony Hopkins, dai film premiati con l'Oscar alla malattia e i problemi con l'alcool: l'attore ospite all'ultima puntata di Che tempo... - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Anthony Hopkins, dai film premiati con l'Oscar alla malattia e i problemi con l'alcool: l'attore ospite all'ultima puntata di Che tempo... Il Messaggero"
+        },
+        {
+          "title": "Anthony Hopkins: \"Non ero un bambino molto sveglio, ho capito che la mia insicurezza era un dono\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Anthony Hopkins: \"Non ero un bambino molto sveglio, ho capito che la mia insicurezza era un dono\" Fanpage"
+        },
+        {
+          "title": "Anthony Hopkins, dai film premiati con l'Oscar alla malattia e i problemi con l'alcool: l'attore ospite all'ultima puntata di Che tempo che fa - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Anthony Hopkins, dai film premiati con l'Oscar alla malattia e i problemi con l'alcool: l'attore ospite all'ultima puntata di Che tempo che fa Il Mattino"
+        },
+        {
+          "title": "Anthony Hopkins a Firenze con Jeff Goldblum: la foto dei due attori spopola sui social - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Anthony Hopkins a Firenze con Jeff Goldblum: la foto dei due attori spopola sui social La Nazione"
+        },
+        {
+          "title": "Anthony Hopkins a Firenze con Jeff Goldblum: lo scatto sui social - Corriere Fiorentino",
+          "source": "Corriere Fiorentino",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Anthony Hopkins a Firenze con Jeff Goldblum: lo scatto sui social Corriere Fiorentino"
+        },
+        {
+          "title": "Anthony Hopkins rifa Hannibal Lecter a Che tempo che fa - Ciak Magazine",
+          "source": "Ciak Magazine",
+          "pubDate": "Mon, 29 May 2023 07:00:00 GMT",
+          "description": "Anthony Hopkins rifa Hannibal Lecter a Che tempo che fa Ciak Magazine"
+        },
+        {
+          "title": "Chi è Stella Arroyave, moglie Anthony Hopkins/ L’aneddoto sul primo incontro - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Chi è Stella Arroyave, moglie Anthony Hopkins/ L’aneddoto sul primo incontro IlSussidiario.net"
+        },
+        {
+          "title": "Anthony Hopkins, chi è la moglie Stella Arroyave: età, carriera, oggi, vita privata e figli - Il Corriere della Città",
+          "source": "Il Corriere della Città",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Anthony Hopkins, chi è la moglie Stella Arroyave: età, carriera, oggi, vita privata e figli Il Corriere della Città"
+        }
+      ]
+    },
+    "Facebook": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Facebook è un social network statunitense, fondato il 4 febbraio 2004 da Mark Zuckerberg e altri studenti dell'Università di Harvard, inizialmente riservato alla comunità universitaria e successivamente aperto al pubblico. Il nome deriva dagli yearbooks, gli annuari statunitensi contenenti fotografie e informazioni sui membri delle istituzioni educative. È di proprietà di Meta Platforms, società precedentemente denominata Facebook Inc. fino al 2021.",
+      "news": [
+        {
+          "title": "Facebook, a Meta multa record da 1,2 miliardi per aver violato norme Ue sulla privacy - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Facebook, a Meta multa record da 1,2 miliardi per aver violato norme Ue sulla privacy Sky TG24"
+        },
+        {
+          "title": "Il professore, il bancario, la pensionata: ecco i volontari Facebook (o Whatsapp) - Vita.it",
+          "source": "Vita.it",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Il professore, il bancario, la pensionata: ecco i volontari Facebook (o Whatsapp) Vita.it"
+        },
+        {
+          "title": "Le offese su Facebook non possono trovare giustificazione nella polemica politica - SIULP",
+          "source": "SIULP",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Le offese su Facebook non possono trovare giustificazione nella polemica politica SIULP"
+        }
+      ]
+    },
+    "Super_Mario_Bros._-_Il_film": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Super Mario Bros. - Il film è un film d'animazione del 2023 diretto da Aaron Horvath e Michael Jelenic.",
+      "news": [
+        {
+          "title": "Super Mario Bros. il film, il cosplay di Peach da Kalinka Fox ha dei grandi occhi azzurri - Multiplayer",
+          "source": "Multiplayer",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. il film, il cosplay di Peach da Kalinka Fox ha dei grandi occhi azzurri Multiplayer"
+        },
+        {
+          "title": "Super Mario Bros. - Il film batte un imbarazzante record del Re Leone - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. - Il film batte un imbarazzante record del Re Leone ComingSoon.it"
+        },
+        {
+          "title": "Super Mario Bros. il film, il cosplay di Peach da Shirogane è carinissimo - Multiplayer",
+          "source": "Multiplayer",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. il film, il cosplay di Peach da Shirogane è carinissimo Multiplayer"
+        }
+      ]
+    },
+    "Scream_VI": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Scream VI è un film del 2023 diretto da Matt Bettinelli-Olpin e Tyler Gillett.",
+      "news": [
+        {
+          "title": "Scream: Liev Schreiber rimpiange di aver chiesto di far fuori il suo personaggio nel terzo capitolo - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Scream: Liev Schreiber rimpiange di aver chiesto di far fuori il suo personaggio nel terzo capitolo BadTaste"
+        }
+      ]
+    },
+    "Juventus_Football_Club": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Juventus Football Club, meglio nota come Juventus, è una società calcistica italiana della città di Torino. Milita in Serie A, la massima divisione del campionato italiano.",
+      "news": [
+        {
+          "title": "Heysel, 38 anni dopo - Juventus.com",
+          "source": "Juventus.com",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Heysel, 38 anni dopo Juventus.com"
+        }
+      ]
+    },
+    "Fabio_Quagliarella": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fabio Quagliarella è un ex calciatore italiano, di ruolo attaccante.",
+      "news": [
+        {
+          "title": "Quagliarella saluta in lacrime i propri tifosi - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Quagliarella saluta in lacrime i propri tifosi Sky Sport"
+        },
+        {
+          "title": "Serie A, Fabio Quagliarella: “Scudetto Napoli? Strameritato” - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Serie A, Fabio Quagliarella: “Scudetto Napoli? Strameritato” Virgilio"
+        },
+        {
+          "title": "Sampdoria, le lacrime di Fabio Quagliarella per la sua ultima partita al Ferraris in Serie A - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Sampdoria, le lacrime di Fabio Quagliarella per la sua ultima partita al Ferraris in Serie A la Repubblica"
+        },
+        {
+          "title": "Fabio Quagliarella lascia il campo in lacrime, l'applauso per il capitano della Samp che saluta la Serie A - Il video - Open",
+          "source": "Open",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Fabio Quagliarella lascia il campo in lacrime, l'applauso per il capitano della Samp che saluta la Serie A - Il video Open"
+        },
+        {
+          "title": "L'addio di Fabio Quagliarella al calcio - TGLA7",
+          "source": "TGLA7",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "L'addio di Fabio Quagliarella al calcio TGLA7"
+        },
+        {
+          "title": "Sampdoria, Quagliarella: \"Non mi fermo. Voglio riportare questa squadra in A\" - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Sat, 27 May 2023 07:00:00 GMT",
+          "description": "Sampdoria, Quagliarella: \"Non mi fermo. Voglio riportare questa squadra in A\" Tuttosport"
+        },
+        {
+          "title": "Sampdoria-Sassuolo 2-2, orgoglio blucerchiato (nonostante la B) - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Sampdoria-Sassuolo 2-2, orgoglio blucerchiato (nonostante la B) RaiNews"
+        },
+        {
+          "title": "Quagliarella: \"Ci sarò sempre per la Sampdoria\" - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Quagliarella: \"Ci sarò sempre per la Sampdoria\" Virgilio"
+        },
+        {
+          "title": "Fabio Quagliarella esce in lacrime ma non scappa: le foto - Sportal.it",
+          "source": "Sportal.it",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Fabio Quagliarella esce in lacrime ma non scappa: le foto Sportal.it"
+        },
+        {
+          "title": "Quagliarella: \"Alla Fiorentina non avevamo nemmeno la roba per vestirci. Italiano? Non trovo meglio di lui\" - Labaro Viola",
+          "source": "Labaro Viola",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Quagliarella: \"Alla Fiorentina non avevamo nemmeno la roba per vestirci. Italiano? Non trovo meglio di lui\" Labaro Viola"
+        }
+      ]
+    },
+    "Luis_Enrique": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Luis Enrique Martínez García, noto semplicemente come Luis Enrique, è un allenatore di calcio ed ex calciatore spagnolo, di ruolo centrocampista, tecnico del Paris Saint-Germain.",
+      "news": [
+        {
+          "title": "Luis Enrique, chi è l’ex ct della Spagna che il Napoli vuole: la tragedia della figlia morta, i video dal... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Luis Enrique, chi è l’ex ct della Spagna che il Napoli vuole: la tragedia della figlia morta, i video dal... Corriere della Sera"
+        },
+        {
+          "title": "Luis Enrique, che fisico a 53 anni! I suoi segreti dalla corsa alla mountain bike - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Luis Enrique, che fisico a 53 anni! I suoi segreti dalla corsa alla mountain bike La Gazzetta dello Sport"
+        },
+        {
+          "title": "Napoli, chi è Luis Enrique: come gioca, il dramma familiare, la carriera - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Napoli, chi è Luis Enrique: come gioca, il dramma familiare, la carriera Virgilio"
+        },
+        {
+          "title": "Napoli: Luis Enrique per il dopo Spalletti? E intanto Conte... - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Napoli: Luis Enrique per il dopo Spalletti? E intanto Conte... Eurosport.it"
+        },
+        {
+          "title": "Da Luis Enrique a Gasperini: i 10 possibili eredi di Spalletti al Napoli - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Mon, 29 May 2023 07:00:00 GMT",
+          "description": "Da Luis Enrique a Gasperini: i 10 possibili eredi di Spalletti al Napoli Goal.com"
+        },
+        {
+          "title": "Luis Enrique nuovo allenatore del Napoli? Tutte le ipotesi per il dopo Spalletti - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Luis Enrique nuovo allenatore del Napoli? Tutte le ipotesi per il dopo Spalletti Corriere della Sera"
+        },
+        {
+          "title": "La figlia di Luis Enrique e Ferran Torres si sono lasciati: colpa dell'Aston Villa? - Corriere dello Sport",
+          "source": "Corriere dello Sport",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "La figlia di Luis Enrique e Ferran Torres si sono lasciati: colpa dell'Aston Villa? Corriere dello Sport"
+        },
+        {
+          "title": "Napoli, su Luis Enrique c’è anche il Psg: gli altri nomi e gli obiettivi di mercato - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Napoli, su Luis Enrique c’è anche il Psg: gli altri nomi e gli obiettivi di mercato Virgilio"
+        },
+        {
+          "title": "Serie A, Totti suggerisce Luis Enrique al Napoli: “Simile a Spalletti” - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Fri, 26 May 2023 07:00:00 GMT",
+          "description": "Serie A, Totti suggerisce Luis Enrique al Napoli: “Simile a Spalletti” Virgilio"
+        },
+        {
+          "title": "Ansia Napoli, i nomi degli eredi di Spalletti: l’indizio che porta a Benitez, idea Luis Enrique - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Ansia Napoli, i nomi degli eredi di Spalletti: l’indizio che porta a Benitez, idea Luis Enrique Virgilio"
+        }
+      ]
+    },
+    "Fast_X": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Fast X, noto anche come Fast & Furious 10, è un film del 2023 diretto da Louis Leterrier.",
+      "news": [
+        {
+          "title": "Il diavolo veste Drogo: la rece di Fast X - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Il diavolo veste Drogo: la rece di Fast X i400Calci"
+        },
+        {
+          "title": "In Fast X, il cattivo di Jason Momoa si prende gioco della mascolinità tossica del franchise Fast & Furious - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "In Fast X, il cattivo di Jason Momoa si prende gioco della mascolinità tossica del franchise Fast & Furious GQ Italia"
+        },
+        {
+          "title": "Fast X, la Drive-ina Commedia del Dante di Jason Momoa - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "Fast X, la Drive-ina Commedia del Dante di Jason Momoa Movieplayer"
+        },
+        {
+          "title": "Abbiamo visto Fast X senza aver mai seguito la saga - NPC Magazine",
+          "source": "NPC Magazine",
+          "pubDate": "Tue, 23 May 2023 07:00:00 GMT",
+          "description": "Abbiamo visto Fast X senza aver mai seguito la saga NPC Magazine"
+        },
+        {
+          "title": "“Fast X”: gli ottimi risultati al Box Office - Torino Piemonte Film Commission",
+          "source": "Torino Piemonte Film Commission",
+          "pubDate": "Mon, 22 May 2023 07:00:00 GMT",
+          "description": "“Fast X”: gli ottimi risultati al Box Office Torino Piemonte Film Commission"
+        },
+        {
+          "title": "Fast X, la recensione - Gamesurf",
+          "source": "Gamesurf",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Fast X, la recensione Gamesurf"
+        }
+      ]
+    },
+    "Associazione_Calcio_Milan": {
+      "fetched_at": "2026-11-06T16:59:51+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Associazione Calcio Milan, meglio nota come AC Milan o semplicemente Milan, è una società calcistica italiana con sede nella città di Milano. Milita nella Serie A, massima serie del campionato italiano di calcio.",
+      "news": [
+        {
+          "title": "Femminile, in vendita i biglietti per il derby contro il Milan - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Thu, 25 May 2023 14:13:06 GMT",
+          "description": "Femminile, in vendita i biglietti per il derby contro il Milan Inter.it"
+        },
+        {
+          "title": "Pellegatti lancia l’ultima voce: «Per il vice Leao due nomi, uno è incredibile!» - Daily Milan",
+          "source": "Daily Milan",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "Pellegatti lancia l’ultima voce: «Per il vice Leao due nomi, uno è incredibile!» Daily Milan"
+        },
+        {
+          "title": "Juve-Milan, banale coincidenza o famoso scherzo del destino? - Daily Milan",
+          "source": "Daily Milan",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Juve-Milan, banale coincidenza o famoso scherzo del destino? Daily Milan"
+        },
+        {
+          "title": "Al diavolo i prezzi dello Stadium: la Curva Sud sceglie di aiutare la Romagna - Daily Milan",
+          "source": "Daily Milan",
+          "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
+          "description": "Al diavolo i prezzi dello Stadium: la Curva Sud sceglie di aiutare la Romagna Daily Milan"
+        },
+        {
+          "title": "una delle maglie meno utilizzate è la più bella di tutti i tempi. Ti sfidiamo a dire il contrario - Daily Milan",
+          "source": "Daily Milan",
+          "pubDate": "Wed, 24 May 2023 07:00:00 GMT",
+          "description": "una delle maglie meno utilizzate è la più bella di tutti i tempi. Ti sfidiamo a dire il contrario Daily Milan"
+        },
+        {
+          "title": "Juve-Milan dal sapore di Champions, come nel 2003 - Daily Milan",
+          "source": "Daily Milan",
+          "pubDate": "Sun, 28 May 2023 07:00:00 GMT",
+          "description": "Juve-Milan dal sapore di Champions, come nel 2003 Daily Milan"
+        }
+      ]
+    }
+  }
+}

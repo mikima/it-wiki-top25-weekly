@@ -1,0 +1,1484 @@
+{
+  "week": "2023-10",
+  "start_date": "2023-03-06",
+  "end_date": "2023-03-12",
+  "articles": {
+    "Giornata_internazionale_della_donna": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Giornata internazionale della donna è una ricorrenza internazionale che si celebra l'8 marzo di ogni anno e sottolinea l'importanza della lotta per i diritti delle donne, in particolare per la loro emancipazione, ricordando le conquiste sociali, economiche, politiche e portando l'attenzione su questioni come l'uguaglianza di genere, i diritti riproduttivi, le discriminazioni e le violenze contro le donne.",
+      "news": [
+        {
+          "title": "8 marzo, la dichiarazione del Presidente Meloni - Governo.it",
+          "source": "Governo.it",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "8 marzo, la dichiarazione del Presidente Meloni Governo.it"
+        },
+        {
+          "title": "7 film da vedere per la Festa della Donna - Radio Capital",
+          "source": "Radio Capital",
+          "pubDate": "Wed, 08 Mar 2023 07:09:37 GMT",
+          "description": "7 film da vedere per la Festa della Donna Radio Capital"
+        },
+        {
+          "title": "Inclusione, diritti e prospettive: la Giornata Internazionale della Donna a “Tor Vergata” - UniRoma2",
+          "source": "UniRoma2",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Inclusione, diritti e prospettive: la Giornata Internazionale della Donna a “Tor Vergata” UniRoma2"
+        },
+        {
+          "title": "Giornata della donna: la parità di genere allunga la vita (anche agli uomini!) - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Giornata della donna: la parità di genere allunga la vita (anche agli uomini!) Focus.it"
+        },
+        {
+          "title": "Giornata internazionale della donna, le iniziative in campo nei Comuni - Anci.it",
+          "source": "Anci.it",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Giornata internazionale della donna, le iniziative in campo nei Comuni Anci.it"
+        },
+        {
+          "title": "Celebrazione della “Giornata Internazionale della Donna” - Quirinale",
+          "source": "Quirinale",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Celebrazione della “Giornata Internazionale della Donna” Quirinale"
+        },
+        {
+          "title": "Festa della donna: la bellezza che viene in sostegno - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Festa della donna: la bellezza che viene in sostegno Vanity Fair Italia"
+        },
+        {
+          "title": "Non possiamo accontentarci! - Azione Cattolica Italiana",
+          "source": "Azione Cattolica Italiana",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Non possiamo accontentarci! Azione Cattolica Italiana"
+        },
+        {
+          "title": "Ha ancora senso celebrare la giornata della donna? - Vita.it",
+          "source": "Vita.it",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Ha ancora senso celebrare la giornata della donna? Vita.it"
+        },
+        {
+          "title": "Festa della donna, storia e leggenda della celebrazione dell'8 marzo - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Festa della donna, storia e leggenda della celebrazione dell'8 marzo la Repubblica"
+        }
+      ]
+    },
+    "Mare_fuori": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mare fuori è una serie televisiva italiana ideata da Cristiana Farina, scritta con Maurizio Careddu, prodotta da Rai Fiction e Picomedia.",
+      "news": [
+        {
+          "title": "Mare Fuori 3 : cosa è successo nel settimo e ottavo episodio - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare Fuori 3 : cosa è successo nel settimo e ottavo episodio Vanity Fair Italia"
+        },
+        {
+          "title": "Paola Vinci di Mare Fuori è un passo avanti nella rappresentazione delle persone disabili - Vogue",
+          "source": "Vogue",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Paola Vinci di Mare Fuori è un passo avanti nella rappresentazione delle persone disabili Vogue"
+        },
+        {
+          "title": "Due canzoni della colonna sonora di Mare Fuori sono nella classifica dei singoli più venduti - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Due canzoni della colonna sonora di Mare Fuori sono nella classifica dei singoli più venduti Cosmopolitan"
+        },
+        {
+          "title": "7 curiosità sulla serie Mare Fuori - Libero",
+          "source": "Libero",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "7 curiosità sulla serie Mare Fuori Libero"
+        },
+        {
+          "title": "«Mare Fuori», perché ne parlano tutti: funziona perché è una Gomorra a fin di bene - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "«Mare Fuori», perché ne parlano tutti: funziona perché è una Gomorra a fin di bene Corriere della Sera"
+        },
+        {
+          "title": "Il miracolo di Mare fuori - Rivista Studio",
+          "source": "Rivista Studio",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Il miracolo di Mare fuori Rivista Studio"
+        },
+        {
+          "title": "Il toccante video dell’addio di Carolina Crescentini al set di Mare Fuori - ELLE",
+          "source": "ELLE",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Il toccante video dell’addio di Carolina Crescentini al set di Mare Fuori ELLE"
+        },
+        {
+          "title": "Mare fuori 3 , Anna Ammirati: «Io, la mia Liz e Tinto Brass» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Mare fuori 3 , Anna Ammirati: «Io, la mia Liz e Tinto Brass» Vanity Fair Italia"
+        },
+        {
+          "title": "Mare Fuori, dove avevamo già visto il cast della fiction Rai - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare Fuori, dove avevamo già visto il cast della fiction Rai Cosmopolitan"
+        },
+        {
+          "title": "Mare fuori 3, anticipazioni della quarta puntata (episodi 7 e 8): la cerimonia degli addii - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare fuori 3, anticipazioni della quarta puntata (episodi 7 e 8): la cerimonia degli addii Corriere Style"
+        }
+      ]
+    },
+    "Elly_Schlein": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elena Ethel Schlein, detta Elly, è una politica italiana, membro della Camera dei deputati dal 2022 e segretaria del Partito Democratico dal 2023. In precedenza, Schlein ha servito come Assessora regionale al Welfare e Vicepresidente della Regione Emilia-Romagna dal 2020 al 2022 e ancor prima come europarlamentare dal 2014 al 2019.",
+      "news": [
+        {
+          "title": "Elly Schlein proporrà Stefano Bonaccini come presidente del PD - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Elly Schlein proporrà Stefano Bonaccini come presidente del PD Il Post"
+        },
+        {
+          "title": "Il discorso di Elly Schlein all'assemblea del Pd - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 12 Mar 2023 08:00:00 GMT",
+          "description": "Il discorso di Elly Schlein all'assemblea del Pd Corriere della Sera"
+        },
+        {
+          "title": "Il PD di Elly Schlein - SettimanaNews",
+          "source": "SettimanaNews",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Il PD di Elly Schlein SettimanaNews"
+        },
+        {
+          "title": "Elly Schlein: una svolta, circondata da molti «ma» - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Elly Schlein: una svolta, circondata da molti «ma» il manifesto"
+        },
+        {
+          "title": "Impatto Elly Schlein: ecco come risale il PD nei sondaggi - LA7",
+          "source": "LA7",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Impatto Elly Schlein: ecco come risale il PD nei sondaggi LA7"
+        },
+        {
+          "title": "Bonaccini eletto Presidente del Pd, l'abbraccio con Elly Schlein - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Sun, 12 Mar 2023 08:00:00 GMT",
+          "description": "Bonaccini eletto Presidente del Pd, l'abbraccio con Elly Schlein Il Sole 24 ORE"
+        },
+        {
+          "title": "Elly Schlein proclamata nuova segretaria del Pd - Domani",
+          "source": "Domani",
+          "pubDate": "Sun, 12 Mar 2023 08:00:00 GMT",
+          "description": "Elly Schlein proclamata nuova segretaria del Pd Domani"
+        },
+        {
+          "title": "Chaudhary, da Barack a Elly: \"Schlein? Carisma, passione e una campagna inclusiva. Ecco come cambierà il Pd\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Chaudhary, da Barack a Elly: \"Schlein? Carisma, passione e una campagna inclusiva. Ecco come cambierà il Pd\" la Repubblica"
+        },
+        {
+          "title": "Elly Schlein è stata proclamata ufficialmente segretaria del Partito Democratico - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sun, 12 Mar 2023 08:00:00 GMT",
+          "description": "Elly Schlein è stata proclamata ufficialmente segretaria del Partito Democratico Il Post"
+        },
+        {
+          "title": "Ucraina, Elly Schlein: \"La mia posizione mai cambiata, giusto sostenere Kiev ma serve UE più forte sul piano diplomatico\" - La7",
+          "source": "La7",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Ucraina, Elly Schlein: \"La mia posizione mai cambiata, giusto sostenere Kiev ma serve UE più forte sul piano diplomatico\" La7"
+        }
+      ]
+    },
+    "Volo_Malaysia_Airlines_370": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il volo Malaysia Airlines 370 era un collegamento aereo internazionale della Malaysia Airlines fra l'aeroporto Internazionale di Kuala Lumpur, in Malaysia, e l'aeroporto di Pechino-Capitale, in Cina. Il giorno 8 marzo 2014, il volo, operato da un Boeing 777-200ER, scomparve dai sistemi di localizzazione e venne dato per disperso con un comunicato ufficiale dalla Malaysia Airlines.",
+      "news": [
+        {
+          "title": "Blog | La scomparsa del volo MH370 diventa una serie Netflix: nove anni di tesi e misteri irrisolti - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Blog | La scomparsa del volo MH370 diventa una serie Netflix: nove anni di tesi e misteri irrisolti Il Fatto Quotidiano"
+        },
+        {
+          "title": "Il mistero del volo MH 370, nove anni dopo - Corriere del Ticino",
+          "source": "Corriere del Ticino",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Il mistero del volo MH 370, nove anni dopo Corriere del Ticino"
+        },
+        {
+          "title": "Volo MH370, su Netflix la docu-serie su uno dei gialli aerei più misteriosi di sempre - Today",
+          "source": "Today",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Volo MH370, su Netflix la docu-serie su uno dei gialli aerei più misteriosi di sempre Today"
+        },
+        {
+          "title": "'Volo MH370: l'aereo sparito nel nulla' la storia vera della docuserie Netflix - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "'Volo MH370: l'aereo sparito nel nulla' la storia vera della docuserie Netflix Taxidrivers.it"
+        },
+        {
+          "title": "Almanacco | Venerdì 10 Marzo: accadde oggi, compleanni, santo e proverbio del giorno - ModenaToday",
+          "source": "ModenaToday",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Almanacco | Venerdì 10 Marzo: accadde oggi, compleanni, santo e proverbio del giorno ModenaToday"
+        }
+      ]
+    },
+    "Bianca_Balti": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Bianca Balti è una supermodella italiana.",
+      "news": [
+        {
+          "title": "Belve 4 - Bianca Balti - 07/03/2023 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Belve 4 - Bianca Balti - 07/03/2023 - Video RaiPlay"
+        },
+        {
+          "title": "Bianca Balti: “Sono stata stuprata a un rave. Ho cercato il mio aguzzino, speravo di fare pace” - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Bianca Balti: “Sono stata stuprata a un rave. Ho cercato il mio aguzzino, speravo di fare pace” Il Giorno"
+        },
+        {
+          "title": "Bianca Balti chi è? Lo stupro a 18 anni, la dipendenza dalle droghe, gli ex mariti, le figlie e la mastectomia: tutto sulla top model... - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Tue, 07 Mar 2023 13:03:20 GMT",
+          "description": "Bianca Balti chi è? Lo stupro a 18 anni, la dipendenza dalle droghe, gli ex mariti, le figlie e la mastectomia: tutto sulla top model... Il Messaggero"
+        },
+        {
+          "title": "Lo stile e i look più belli di Bianca Balti, dagli esordi con Dolce & Gabbana al programma 'Belve' - Vogue",
+          "source": "Vogue",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Lo stile e i look più belli di Bianca Balti, dagli esordi con Dolce & Gabbana al programma 'Belve' Vogue"
+        },
+        {
+          "title": "Bianca Balti si racconta a Belve: \"Ho subito uno stupro a 18 anni\" - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Bianca Balti si racconta a Belve: \"Ho subito uno stupro a 18 anni\" Sky TG24"
+        },
+        {
+          "title": "Bianca Balti: il look Y2K di primavera mostra la cicatrice con orgoglio - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Bianca Balti: il look Y2K di primavera mostra la cicatrice con orgoglio iO Donna"
+        },
+        {
+          "title": "Bianca Balti: «Mi portò in una stanza dove eravamo soli e mi violentò. Per anni sperai di rivederlo» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Bianca Balti: «Mi portò in una stanza dove eravamo soli e mi violentò. Per anni sperai di rivederlo» Corriere della Sera"
+        },
+        {
+          "title": "#ItGirl // I trucchi di stile di Bianca Balti - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "#ItGirl // I trucchi di stile di Bianca Balti Cosmopolitan"
+        },
+        {
+          "title": "Bianca Balti a Belve: l’intervista con i pantaloni gialli a vita altissima e le unghie XXL - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Bianca Balti a Belve: l’intervista con i pantaloni gialli a vita altissima e le unghie XXL Fanpage"
+        },
+        {
+          "title": "Bianca Balti choc a 'Belve': \"A 18 anni ho subito uno stupro\" - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Bianca Balti choc a 'Belve': \"A 18 anni ho subito uno stupro\" Il Sole 24 ORE"
+        }
+      ]
+    },
+    "The_Last_of_Us_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The Last of Us è una serie televisiva statunitense ideata da Craig Mazin e Neil Druckmann.",
+      "news": [
+        {
+          "title": "The Last of Us è la prova che ci piace ancora guardare serie tv tutti insieme - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "The Last of Us è la prova che ci piace ancora guardare serie tv tutti insieme Wired Italia"
+        },
+        {
+          "title": "The Last of Us, tutta la rabbia di Ellie. Recensione dell'episodio 8 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "The Last of Us, tutta la rabbia di Ellie. Recensione dell'episodio 8 Sky TG24"
+        },
+        {
+          "title": "The Last of Us: la Stagione 2 della serie TV \"non sarà uguale al gioco\", confermato il ritorno di Bella Ramsey - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "The Last of Us: la Stagione 2 della serie TV \"non sarà uguale al gioco\", confermato il ritorno di Bella Ramsey IGN Italia"
+        },
+        {
+          "title": "The Last of Us, la recensione dell'ottavo episodio: un pastore e le sue pecore - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "The Last of Us, la recensione dell'ottavo episodio: un pastore e le sue pecore Movieplayer"
+        },
+        {
+          "title": "Il finale di The Last of Us: la nostra recensione e cosa ci dice della seconda stagione - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Il finale di The Last of Us: la nostra recensione e cosa ci dice della seconda stagione Corriere Style"
+        },
+        {
+          "title": "The Last of Us: Ashley Johnson sulla serie tv \"Non me ne sono mai andata da quel mondo\" - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "The Last of Us: Ashley Johnson sulla serie tv \"Non me ne sono mai andata da quel mondo\" BadTaste"
+        },
+        {
+          "title": "The Last of Us, il riassunto della stagione 1 prima del gran finale - Today",
+          "source": "Today",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "The Last of Us, il riassunto della stagione 1 prima del gran finale Today"
+        },
+        {
+          "title": "A Milano effetto serie tv: per The Last of Us una escape room a tema per fuggire dall'Apocalisse - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "A Milano effetto serie tv: per The Last of Us una escape room a tema per fuggire dall'Apocalisse la Repubblica"
+        },
+        {
+          "title": "I migliori easter egg contenuti in The Last of Us - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "I migliori easter egg contenuti in The Last of Us GQ Italia"
+        },
+        {
+          "title": "The Last of Us serie TV si prepara al gran finale e mostra un personaggio mai visto prima - SpazioGames",
+          "source": "SpazioGames",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "The Last of Us serie TV si prepara al gran finale e mostra un personaggio mai visto prima SpazioGames"
+        }
+      ]
+    },
+    "Episodi_di_Mare_fuori_(terza_stagione)": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La terza stagione della serie televisiva Mare fuori, composta da dodici episodi, è stata distribuita in prima visione assoluta da RaiPlay: i primi sei episodi il 1º febbraio 2023, e gli altri sei il 13 febbraio. Successivamente è stata trasmessa su Rai 2 dal 15 febbraio al 22 marzo 2023.",
+      "news": [
+        {
+          "title": "La terza stagione di \"Mare fuori\" - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "La terza stagione di \"Mare fuori\" Rai.it"
+        },
+        {
+          "title": "Mare fuori 3, anticipazioni della quarta puntata (episodi 7 e 8): la cerimonia degli addii - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare fuori 3, anticipazioni della quarta puntata (episodi 7 e 8): la cerimonia degli addii Corriere Style"
+        },
+        {
+          "title": "Marefuori 3 la serie TV girata a Napoli su RAI 2: cosa succede nella puntata del 15 marzo 2023 - Napoli da Vivere",
+          "source": "Napoli da Vivere",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Marefuori 3 la serie TV girata a Napoli su RAI 2: cosa succede nella puntata del 15 marzo 2023 Napoli da Vivere"
+        },
+        {
+          "title": "Mare Fuori 3 – L’era di Edoardo Conte: la Recensione della settima e ottava puntata - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare Fuori 3 – L’era di Edoardo Conte: la Recensione della settima e ottava puntata Hall of Series"
+        },
+        {
+          "title": "Mare Fuori 3, recensione del settimo e ottavo episodio - CinemaSerieTV.it",
+          "source": "CinemaSerieTV.it",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare Fuori 3, recensione del settimo e ottavo episodio CinemaSerieTV.it"
+        },
+        {
+          "title": "Mare Fuori – Carolina Crescentini dice addio alla serie: l’intenso video dell’annuncio - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Mare Fuori – Carolina Crescentini dice addio alla serie: l’intenso video dell’annuncio Hall of Series"
+        }
+      ]
+    },
+    "Episodi_di_The_Last_of_Us": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The Last of Us è una serie televisiva statunitense ideata da Craig Mazin e Neil Druckmann.",
+      "news": [
+        {
+          "title": "Il finale di The Last of Us: la nostra recensione e cosa ci dice della seconda stagione - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Il finale di The Last of Us: la nostra recensione e cosa ci dice della seconda stagione Corriere Style"
+        },
+        {
+          "title": "The Last of Us, il riassunto della stagione 1 prima del gran finale - Today",
+          "source": "Today",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "The Last of Us, il riassunto della stagione 1 prima del gran finale Today"
+        },
+        {
+          "title": "The Last of Us ep.8 – Il bisogno fa l’uomo selvaggio - MegaNerd",
+          "source": "MegaNerd",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "The Last of Us ep.8 – Il bisogno fa l’uomo selvaggio MegaNerd"
+        },
+        {
+          "title": "The Last of Us, grande successo a Milano per l'evento targato NOW - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "The Last of Us, grande successo a Milano per l'evento targato NOW Sky TG24"
+        },
+        {
+          "title": "The Last of Us è già la serie dell’anno - Rivista Studio",
+          "source": "Rivista Studio",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "The Last of Us è già la serie dell’anno Rivista Studio"
+        },
+        {
+          "title": "The Last Of Us 1×08, Recensione – L’inferno di Silver Lake - HyNerd",
+          "source": "HyNerd",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "The Last Of Us 1×08, Recensione – L’inferno di Silver Lake HyNerd"
+        },
+        {
+          "title": "The Last of Us: l’episodio 9 e le differenze con il videogioco - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "The Last of Us: l’episodio 9 e le differenze con il videogioco LaScimmiaPensa.com"
+        },
+        {
+          "title": "The Last of Us: Craig Mazin spiega il minor numero di infetti negli episodi della stagione 1 - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "The Last of Us: Craig Mazin spiega il minor numero di infetti negli episodi della stagione 1 BadTaste"
+        },
+        {
+          "title": "The Last Of Us Part I per PC: requisiti ufficiali e funzioni esclusive - HDblog.it",
+          "source": "HDblog.it",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "The Last Of Us Part I per PC: requisiti ufficiali e funzioni esclusive HDblog.it"
+        },
+        {
+          "title": "The Mandalorian 3, fuori oggi il secondo episodio: Quando il destino chiama, Mando risponde. Anticipazioni - Style Magazine",
+          "source": "Style Magazine",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "The Mandalorian 3, fuori oggi il secondo episodio: Quando il destino chiama, Mando risponde. Anticipazioni Style Magazine"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Regina Viarum. Via Appia nella storia - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 08 Mar 2023 22:26:34 GMT",
+          "description": "Regina Viarum. Via Appia nella storia RaiPlay"
+        },
+        {
+          "title": "Mi manda Rai Tre 2022/23 - Caffè, pane e acrilammide - 11/03/2023 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "Mi manda Rai Tre 2022/23 - Caffè, pane e acrilammide - 11/03/2023 - Video RaiPlay"
+        },
+        {
+          "title": "OSN: L'Imperatore di Beethoven e una prima italiana di Borboudakis per l'Orchestra Rai - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 09 Mar 2023 23:20:05 GMT",
+          "description": "OSN: L'Imperatore di Beethoven e una prima italiana di Borboudakis per l'Orchestra Rai RaiPlay"
+        },
+        {
+          "title": "Il Presidente Meloni incontra l'Amministratore delegato della Rai Fuortes - Governo.it",
+          "source": "Governo.it",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Il Presidente Meloni incontra l'Amministratore delegato della Rai Fuortes Governo.it"
+        }
+      ]
+    },
+    "Mateo_Retegui": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mateo Retegui è un calciatore argentino naturalizzato italiano, attaccante dell'Al-Qadisiya e della nazionale italiana.",
+      "news": [
+        {
+          "title": "Mateo Retegui, un nuovo attaccante per l'Italia? - DAZN",
+          "source": "DAZN",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Mateo Retegui, un nuovo attaccante per l'Italia? DAZN"
+        },
+        {
+          "title": "Italia senza attaccanti, convocato El Chapita Retegui: Mancini si gioca la carta della disperazione - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Italia senza attaccanti, convocato El Chapita Retegui: Mancini si gioca la carta della disperazione Fanpage"
+        },
+        {
+          "title": "Le origini italiane di Mateo Retegui - Sisal",
+          "source": "Sisal",
+          "pubDate": "Fri, 10 Mar 2023 09:49:38 GMT",
+          "description": "Le origini italiane di Mateo Retegui Sisal"
+        },
+        {
+          "title": "Clamoroso: l'Italia convoca Mateo Retegui, 23 anni, bomber argentino del Tigre - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Clamoroso: l'Italia convoca Mateo Retegui, 23 anni, bomber argentino del Tigre Tuttosport"
+        },
+        {
+          "title": "Papà Retegui: \"Mateo è orgoglioso della chiamata azzurra. Vieri e Batistuta i suoi idoli\" - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Papà Retegui: \"Mateo è orgoglioso della chiamata azzurra. Vieri e Batistuta i suoi idoli\" La Gazzetta dello Sport"
+        },
+        {
+          "title": "Mateo Retegui, chi è l’attaccante pre-convocato dall’Italia di Mancini. Con lui Andrea Compagno - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Mateo Retegui, chi è l’attaccante pre-convocato dall’Italia di Mancini. Con lui Andrea Compagno Corriere della Sera"
+        },
+        {
+          "title": "Mateo Retegui, chi è il calciatore con doppio passaporto preconvocato dal ct Mancini - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Mateo Retegui, chi è il calciatore con doppio passaporto preconvocato dal ct Mancini il Giornale"
+        },
+        {
+          "title": "Chi è Mateo Retegui, il nuovo centravanti per l'Italia di Mancini - Today",
+          "source": "Today",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Chi è Mateo Retegui, il nuovo centravanti per l'Italia di Mancini Today"
+        },
+        {
+          "title": "Mateo Retegui, chi è l'attaccante argentino preconvocato da Mancini - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Mateo Retegui, chi è l'attaccante argentino preconvocato da Mancini Sky TG24"
+        },
+        {
+          "title": "Mateo Retegui, chi è il nuovo attaccante dell'Italia che Mancini convocherà per le sfide con Inghilterra e Ma… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Mateo Retegui, chi è il nuovo attaccante dell'Italia che Mancini convocherà per le sfide con Inghilterra e Ma… la Repubblica"
+        }
+      ]
+    },
+    "Cristiano_Caccamo": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cristiano Caccamo è un attore italiano.",
+      "news": [
+        {
+          "title": "Chi è Cristiano Caccamo: la vita privata e i film in cui ha recitato il concorrente di LOL 3 - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Chi è Cristiano Caccamo: la vita privata e i film in cui ha recitato il concorrente di LOL 3 Radio Deejay"
+        },
+        {
+          "title": "Cristiano Caccamo, l’attore influencer di Lol 3: carriera e fidanzate - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Cristiano Caccamo, l’attore influencer di Lol 3: carriera e fidanzate Quotidiano Nazionale"
+        },
+        {
+          "title": "Lol 3, la video intervista al cast - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Lol 3, la video intervista al cast Cosmopolitan"
+        },
+        {
+          "title": "TELEVISIONE Brenda tra i big della risata: «Guardavo Lol da casa e non riuscivo a stare seria» - Il Cittadino di Lodi",
+          "source": "Il Cittadino di Lodi",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "TELEVISIONE Brenda tra i big della risata: «Guardavo Lol da casa e non riuscivo a stare seria» Il Cittadino di Lodi"
+        },
+        {
+          "title": "Ritorna su Prime Video una serie comica con Fedez in veste di conduttore - Team World",
+          "source": "Team World",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Ritorna su Prime Video una serie comica con Fedez in veste di conduttore Team World"
+        },
+        {
+          "title": "LOL 3, Nino Frassica: \"Mara Maionchi non c'è perché ha preso la varicella!\" - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "LOL 3, Nino Frassica: \"Mara Maionchi non c'è perché ha preso la varicella!\" Movieplayer"
+        },
+        {
+          "title": "Arriva la terza stagione di Lol, quando i comici non devono ridere - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Arriva la terza stagione di Lol, quando i comici non devono ridere La Stampa"
+        },
+        {
+          "title": "Il cast di LOL 3: i nomi e le foto dei concorrenti - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Il cast di LOL 3: i nomi e le foto dei concorrenti Fanpage"
+        },
+        {
+          "title": "Chi sono i genitori di Cristiano Caccamo: la storia e le curiosità - Donna Glamour",
+          "source": "Donna Glamour",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Chi sono i genitori di Cristiano Caccamo: la storia e le curiosità Donna Glamour"
+        },
+        {
+          "title": "Chi è Cristiano Caccamo? Biografia, lavoro e curiosità sull’attore di “Che Dio ci aiuti” - Ecodelcinema",
+          "source": "Ecodelcinema",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Chi è Cristiano Caccamo? Biografia, lavoro e curiosità sull’attore di “Che Dio ci aiuti” Ecodelcinema"
+        }
+      ]
+    },
+    "Lucio_Battisti": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lucio Battisti è stato un cantautore, produttore discografico e arrangiatore italiano.",
+      "news": [
+        {
+          "title": "8 marzo: otto donne cantate da Lucio Battisti - Rockol",
+          "source": "Rockol",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "8 marzo: otto donne cantate da Lucio Battisti Rockol"
+        },
+        {
+          "title": "Lucio Battisti a Milano, dagli esordi musicali all'incontro con Mogol - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Lucio Battisti a Milano, dagli esordi musicali all'incontro con Mogol la Repubblica"
+        },
+        {
+          "title": "Quarta Repubblica: Lucio Battisti, l'anniversario del cantante amato a destra Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Quarta Repubblica: Lucio Battisti, l'anniversario del cantante amato a destra Video Mediaset Infinity"
+        },
+        {
+          "title": "Lucio Battisti e gli altri della Numero 1, \"Tutti insieme\", 1971 - Rockol",
+          "source": "Rockol",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Lucio Battisti e gli altri della Numero 1, \"Tutti insieme\", 1971 Rockol"
+        }
+      ]
+    },
+    "The_Whale_(film)": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The Whale è un film del 2022 diretto da Darren Aronofsky.",
+      "news": [
+        {
+          "title": "Io, “The Whale” e voi - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Io, “The Whale” e voi Il Post"
+        },
+        {
+          "title": "The Whale vince l'Oscar (e ci insegna qualcosa sull'obesità) - Fondazione Umberto Veronesi",
+          "source": "Fondazione Umberto Veronesi",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "The Whale vince l'Oscar (e ci insegna qualcosa sull'obesità) Fondazione Umberto Veronesi"
+        },
+        {
+          "title": "The Whale - Recenserie",
+          "source": "Recenserie",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "The Whale Recenserie"
+        },
+        {
+          "title": "The Whale: ecco come è stato realizzato il trucco di Brendan Fraser - Lega Nerd",
+          "source": "Lega Nerd",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "The Whale: ecco come è stato realizzato il trucco di Brendan Fraser Lega Nerd"
+        },
+        {
+          "title": "«The Whale», il corpo obeso e senza amore dell’America - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "«The Whale», il corpo obeso e senza amore dell’America il manifesto"
+        },
+        {
+          "title": "Brendan Fraser, The Whale - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Brendan Fraser, The Whale Il Sole 24 ORE"
+        },
+        {
+          "title": "Andate al cinema a vedere The Whale con Brendan Fraser: così se non gli danno l’Oscar vi arrabbierete come noi - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "Andate al cinema a vedere The Whale con Brendan Fraser: così se non gli danno l’Oscar vi arrabbierete come noi Corriere Style"
+        },
+        {
+          "title": "Brendan Fraser vince l’Oscar con The Whale: “Solo le balene arrivano così in profondità” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Brendan Fraser vince l’Oscar con The Whale: “Solo le balene arrivano così in profondità” Fanpage"
+        },
+        {
+          "title": "The Whale, volevo Melville e ho trovato Lo Squalo - N3rdcore",
+          "source": "N3rdcore",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "The Whale, volevo Melville e ho trovato Lo Squalo N3rdcore"
+        },
+        {
+          "title": "La sorpresa “The Whale” e il tema dell’obesità - Segnali Sonori",
+          "source": "Segnali Sonori",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "La sorpresa “The Whale” e il tema dell’obesità Segnali Sonori"
+        }
+      ]
+    },
+    "UEFA_Champions_League_2022-2023": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La UEFA Champions League 2022-2023 è stata la 68ª edizione della Champions League, organizzata dall'UEFA. Il torneo è iniziato il 21 giugno 2022 e si è concluso il 10 giugno 2023 con la finale allo Stadio olimpico Atatürk di Istanbul, in Turchia. Il Real Madrid era campione in carica, avendo vinto l'edizione precedente.",
+      "news": [
+        {
+          "title": "Storia: Bayern München 2-0 Paris: UEFA Champions League 2022/23 Ottavi di finale - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Storia: Bayern München 2-0 Paris: UEFA Champions League 2022/23 Ottavi di finale UEFA.com"
+        },
+        {
+          "title": "Champions 2023: calendario e orari delle partite di domani - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Champions 2023: calendario e orari delle partite di domani Sky Sport"
+        },
+        {
+          "title": "PSG o Bayern ai quarti di Champions? Cosa serve per qualificarsi, combinazioni e risultati - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "PSG o Bayern ai quarti di Champions? Cosa serve per qualificarsi, combinazioni e risultati Goal.com"
+        },
+        {
+          "title": "Le possibili avversarie del Milan ai quarti di Champions League. Brivido Bayern Monaco, speranza Benfica - OA Sport",
+          "source": "OA Sport",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Le possibili avversarie del Milan ai quarti di Champions League. Brivido Bayern Monaco, speranza Benfica OA Sport"
+        },
+        {
+          "title": "Spezia-Inter 2-1 - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Spezia-Inter 2-1 Inter.it"
+        },
+        {
+          "title": "Psg fuori dalla Champions, tutti contro Verratti - IlPescara",
+          "source": "IlPescara",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Psg fuori dalla Champions, tutti contro Verratti IlPescara"
+        },
+        {
+          "title": "Conference League 2022-2023, Lazio-Az: le formazioni ufficiali - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Conference League 2022-2023, Lazio-Az: le formazioni ufficiali Virgilio"
+        },
+        {
+          "title": "Europa League 2022-2023, Juventus-Friburgo: le formazioni ufficiali - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Europa League 2022-2023, Juventus-Friburgo: le formazioni ufficiali Virgilio"
+        },
+        {
+          "title": "Champions League 2022/2023: Taylor arbitrerà Napoli-Eintracht Francoforte - Sportface.it",
+          "source": "Sportface.it",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Champions League 2022/2023: Taylor arbitrerà Napoli-Eintracht Francoforte Sportface.it"
+        }
+      ]
+    },
+    "Episodi_di_Mare_fuori_(seconda_stagione)": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La seconda stagione della serie televisiva Mare fuori, composta da dodici episodi, è stata trasmessa in prima visione su Rai 2 dal 17 novembre al 22 dicembre 2021. Soltanto i primi due episodi sono stati distribuiti in anteprima da RaiPlay il 15 novembre 2021.",
+      "news": [
+        {
+          "title": "La terza stagione di \"Mare fuori\" - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "La terza stagione di \"Mare fuori\" Rai.it"
+        },
+        {
+          "title": "Mare fuori 3, anticipazioni della quarta puntata (episodi 7 e 8): la cerimonia degli addii - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare fuori 3, anticipazioni della quarta puntata (episodi 7 e 8): la cerimonia degli addii Corriere Style"
+        },
+        {
+          "title": "Mare Fuori 3 e quel dettaglio tra Rosa e Carmine - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Mare Fuori 3 e quel dettaglio tra Rosa e Carmine Cosmopolitan"
+        },
+        {
+          "title": "Marefuori 3 la serie TV girata a Napoli su RAI 2: cosa succede nella puntata del 15 marzo 2023 - Napoli da Vivere",
+          "source": "Napoli da Vivere",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Marefuori 3 la serie TV girata a Napoli su RAI 2: cosa succede nella puntata del 15 marzo 2023 Napoli da Vivere"
+        },
+        {
+          "title": "Il finale di The Last of Us: la nostra recensione e cosa ci dice della seconda stagione - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Il finale di The Last of Us: la nostra recensione e cosa ci dice della seconda stagione Corriere Style"
+        }
+      ]
+    },
+    "Brendan_Fraser": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Brendan James Fraser è un attore canadese naturalizzato statunitense.",
+      "news": [
+        {
+          "title": "Ci sono due Brendan Fraser - Esquire",
+          "source": "Esquire",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Ci sono due Brendan Fraser Esquire"
+        },
+        {
+          "title": "Brendan Fraser, miglior attore protagonista per The Whale: la sua storia - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Brendan Fraser, miglior attore protagonista per The Whale: la sua storia Corriere della Sera"
+        },
+        {
+          "title": "La rinascita di Brendan Fraser: dalla depressione più profonda al suo primo Oscar - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "La rinascita di Brendan Fraser: dalla depressione più profonda al suo primo Oscar Vanity Fair Italia"
+        },
+        {
+          "title": "L'importanza dell'Oscar a Brendan Fraser, per cui abbiamo tifato tutti - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "L'importanza dell'Oscar a Brendan Fraser, per cui abbiamo tifato tutti GQ Italia"
+        },
+        {
+          "title": "Oscar: Brendan Fraser miglior attore - ANSA",
+          "source": "ANSA",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Oscar: Brendan Fraser miglior attore ANSA"
+        },
+        {
+          "title": "Oscar 2023: Brendan Fraser, da Venezia a \"miglior attore\" - Metropolitano.it",
+          "source": "Metropolitano.it",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Oscar 2023: Brendan Fraser, da Venezia a \"miglior attore\" Metropolitano.it"
+        },
+        {
+          "title": "Oscar 2023, il discorso di Brendan Fraser dopo il premio come miglior attore protagonista per The Whale - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Oscar 2023, il discorso di Brendan Fraser dopo il premio come miglior attore protagonista per The Whale Sky TG24"
+        },
+        {
+          "title": "Oscar 2023, Brendan Fraser vince la statuetta: dalla dieta drastica che gli fece perdere la memoria alla tuta prostetica che gli ha fatto prendere 136 chili - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Oscar 2023, Brendan Fraser vince la statuetta: dalla dieta drastica che gli fece perdere la memoria alla tuta prostetica che gli ha fatto prendere 136 chili Il Fatto Quotidiano"
+        },
+        {
+          "title": "Brendan Fraser vince l’Oscar con The Whale: “Solo le balene arrivano così in profondità” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Brendan Fraser vince l’Oscar con The Whale: “Solo le balene arrivano così in profondità” Fanpage"
+        },
+        {
+          "title": "Brendan Fraser, The Whale - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Brendan Fraser, The Whale Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Episodi_di_Mare_fuori_(prima_stagione)": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La prima stagione della serie televisiva Mare fuori, composta da dodici episodi, è stata trasmessa in prima visione su Rai 2 dal 23 settembre al 28 ottobre 2020.",
+      "news": [
+        {
+          "title": "La terza stagione di \"Mare fuori\" - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "La terza stagione di \"Mare fuori\" Rai.it"
+        },
+        {
+          "title": "Mare fuori 3, anticipazioni della quarta puntata (episodi 7 e 8): la cerimonia degli addii - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare fuori 3, anticipazioni della quarta puntata (episodi 7 e 8): la cerimonia degli addii Corriere Style"
+        },
+        {
+          "title": "Mare Fuori, dove avevamo già visto il cast della fiction Rai - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare Fuori, dove avevamo già visto il cast della fiction Rai Cosmopolitan"
+        },
+        {
+          "title": "Carolina Crescentini saluta Mare Fuori, il video commovente a fine riprese: \"Mi mancherete\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Carolina Crescentini saluta Mare Fuori, il video commovente a fine riprese: \"Mi mancherete\" Fanpage"
+        },
+        {
+          "title": "Mare Fuori, da Carmine a Filippo e Naditza: chi sono i personaggi e gli attori che li interpretano - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Mare Fuori, da Carmine a Filippo e Naditza: chi sono i personaggi e gli attori che li interpretano La Stampa"
+        },
+        {
+          "title": "Marefuori 3 la serie TV girata a Napoli su RAI 2: cosa succede nella puntata del 15 marzo 2023 - Napoli da Vivere",
+          "source": "Napoli da Vivere",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Marefuori 3 la serie TV girata a Napoli su RAI 2: cosa succede nella puntata del 15 marzo 2023 Napoli da Vivere"
+        },
+        {
+          "title": "Mare Fuori 3 e quel dettaglio tra Rosa e Carmine - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Mare Fuori 3 e quel dettaglio tra Rosa e Carmine Cosmopolitan"
+        },
+        {
+          "title": "Il finale di The Last of Us: la nostra recensione e cosa ci dice della seconda stagione - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Il finale di The Last of Us: la nostra recensione e cosa ci dice della seconda stagione Corriere Style"
+        },
+        {
+          "title": "Mare Fuori – Carolina Crescentini dice addio alla serie: l’intenso video dell’annuncio - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Mare Fuori – Carolina Crescentini dice addio alla serie: l’intenso video dell’annuncio Hall of Series"
+        },
+        {
+          "title": "Forse non lo ricordate, ma Valentina Romani di Mare Fuori appare nella prima stagione di SKAM (FOTO) - DANinSERIES",
+          "source": "DANinSERIES",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Forse non lo ricordate, ma Valentina Romani di Mare Fuori appare nella prima stagione di SKAM (FOTO) DANinSERIES"
+        }
+      ]
+    },
+    "Il_commissario_Ricciardi": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il commissario Ricciardi è una serie televisiva italiana basata sulla saga letteraria di Maurizio De Giovanni con protagonista Luigi Alfredo Ricciardi, commissario di polizia nella Napoli degli anni trenta del XX secolo, e trasmessa su Rai 1 dal 25 gennaio 2021.",
+      "news": [
+        {
+          "title": "Il commissario Ricciardi - S2E3 - Serenata senza nome - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Il commissario Ricciardi - S2E3 - Serenata senza nome - Video RaiPlay"
+        },
+        {
+          "title": "“Il Commissario Ricciardi”, stasera su Rai 1 al via la seconda stagione: anticipazioni e novità - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "“Il Commissario Ricciardi”, stasera su Rai 1 al via la seconda stagione: anticipazioni e novità Amica.it"
+        },
+        {
+          "title": "\"Il commissario Ricciardi\": trama, cast e personaggi della seconda stagione - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "\"Il commissario Ricciardi\": trama, cast e personaggi della seconda stagione TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Il Commissario Ricciardi 2, il cast della fiction serie TV da Lino Guanciale a Serena Iansiti - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Il Commissario Ricciardi 2, il cast della fiction serie TV da Lino Guanciale a Serena Iansiti Sky TG24"
+        },
+        {
+          "title": "Dove è stato girato il Commissario Ricciardi 2: i luoghi a Napoli della fiction con Lino Guanciale - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Dove è stato girato il Commissario Ricciardi 2: i luoghi a Napoli della fiction con Lino Guanciale Fanpage"
+        },
+        {
+          "title": "Il commissario Ricciardi 2, la recensione: nuovi casi e intrecci per una delle serie più amate di Rai1 - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Il commissario Ricciardi 2, la recensione: nuovi casi e intrecci per una delle serie più amate di Rai1 Movieplayer"
+        },
+        {
+          "title": "Il Commissario Ricciardi 2 : ma quanto è bravo Lino Guanciale? - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Il Commissario Ricciardi 2 : ma quanto è bravo Lino Guanciale? Vanity Fair Italia"
+        },
+        {
+          "title": "Il Commissario Ricciardi 2: tutto sulla seconda stagione della serie con Guanciale - www.panorama.it",
+          "source": "www.panorama.it",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Il Commissario Ricciardi 2: tutto sulla seconda stagione della serie con Guanciale www.panorama.it"
+        },
+        {
+          "title": "Lino Guanciale è il commissario Ricciardi nella seconda stagione della serie: l’intervista del Trio Medusa - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Sun, 12 Mar 2023 08:00:00 GMT",
+          "description": "Lino Guanciale è il commissario Ricciardi nella seconda stagione della serie: l’intervista del Trio Medusa Radio Deejay"
+        },
+        {
+          "title": "Fiorenza D'Antonio, new entry de Il Commissario Ricciardi:\"Essere Bianca è la realizzazione di un sogno\" - NapoliToday",
+          "source": "NapoliToday",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Fiorenza D'Antonio, new entry de Il Commissario Ricciardi:\"Essere Bianca è la realizzazione di un sogno\" NapoliToday"
+        }
+      ]
+    },
+    "Brenda_Lodigiani": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Brenda Lodigiani è un'attrice, imitatrice e conduttrice televisiva italiana.",
+      "news": [
+        {
+          "title": "LOL 3, riparte il Comedy Show dove chi ride è fuori - Radio Capital",
+          "source": "Radio Capital",
+          "pubDate": "Wed, 08 Mar 2023 13:55:59 GMT",
+          "description": "LOL 3, riparte il Comedy Show dove chi ride è fuori Radio Capital"
+        },
+        {
+          "title": "Brenda Lodigiani: dalle imitazioni a “Camera Café” e “Via Massena”, chi è la comica di “LOL: Chi ride è fuori 3” - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Brenda Lodigiani: dalle imitazioni a “Camera Café” e “Via Massena”, chi è la comica di “LOL: Chi ride è fuori 3” Radio Deejay"
+        },
+        {
+          "title": "Chi è Brenda Lodigiani, l’influencer concorrente a LoL 3 [VIDEO] - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Chi è Brenda Lodigiani, l’influencer concorrente a LoL 3 [VIDEO] LaScimmiaPensa.com"
+        },
+        {
+          "title": "TELEVISIONE Che fatica non ridere: “Lol” porta in scena le mille sfumature di Brenda Lodigiani - Il Cittadino di Lodi",
+          "source": "Il Cittadino di Lodi",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "TELEVISIONE Che fatica non ridere: “Lol” porta in scena le mille sfumature di Brenda Lodigiani Il Cittadino di Lodi"
+        },
+        {
+          "title": "Chi è Brenda Lodigiani: la Milanese Imbruttita a Lol 3 - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Chi è Brenda Lodigiani: la Milanese Imbruttita a Lol 3 Quotidiano Nazionale"
+        },
+        {
+          "title": "Love Snack: Quarta puntata Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "Love Snack: Quarta puntata Video Mediaset Infinity"
+        },
+        {
+          "title": "LOL 3, il cast e i partecipanti della nuova stagione in uscita il 9 Marzo - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "LOL 3, il cast e i partecipanti della nuova stagione in uscita il 9 Marzo Sky TG24"
+        },
+        {
+          "title": "LOL 3, 7 momenti tra cult (e flop): dal quiz di Nino Frassica a Frank Matano cosplay di Fedez - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "LOL 3, 7 momenti tra cult (e flop): dal quiz di Nino Frassica a Frank Matano cosplay di Fedez Corriere della Sera"
+        },
+        {
+          "title": "TELEVISIONE Brenda tra i big della risata: «Guardavo Lol da casa e non riuscivo a stare seria» - Il Cittadino di Lodi",
+          "source": "Il Cittadino di Lodi",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "TELEVISIONE Brenda tra i big della risata: «Guardavo Lol da casa e non riuscivo a stare seria» Il Cittadino di Lodi"
+        },
+        {
+          "title": "Brenda Lodigiani, a Lol abbiamo perso una comica e scoperto una showgirl? - Mowmag.com",
+          "source": "Mowmag.com",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "Brenda Lodigiani, a Lol abbiamo perso una comica e scoperto una showgirl? Mowmag.com"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Busia: finalmente l’Italia recepisce in via definitiva la direttiva sul whistleblowing - ANAC",
+          "source": "ANAC",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Busia: finalmente l’Italia recepisce in via definitiva la direttiva sul whistleblowing ANAC"
+        },
+        {
+          "title": "Case, ecco i quartieri più cari d'Italia - MutuiOnline.it",
+          "source": "MutuiOnline.it",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Case, ecco i quartieri più cari d'Italia MutuiOnline.it"
+        },
+        {
+          "title": "L'esercito (in crescita) degli Hikikomori in Italia - Fondazione Umberto Veronesi",
+          "source": "Fondazione Umberto Veronesi",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "L'esercito (in crescita) degli Hikikomori in Italia Fondazione Umberto Veronesi"
+        },
+        {
+          "title": "Tassazione del trust estero con beneficiario in Italia - DB - Non solo Diritto Bancario",
+          "source": "DB - Non solo Diritto Bancario",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Tassazione del trust estero con beneficiario in Italia DB - Non solo Diritto Bancario"
+        },
+        {
+          "title": "Al mare in primavera ma non troppo lontano dall’Italia: dove andare - SiViaggia",
+          "source": "SiViaggia",
+          "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT",
+          "description": "Al mare in primavera ma non troppo lontano dall’Italia: dove andare SiViaggia"
+        },
+        {
+          "title": "Malattie rare endocrine, Italia prima in Europa con 20 centri Ma gap al Sud. Al Meridione solo 3 a Napoli e 1 a Messina. Intervista alla prof.ssa Maria Piccione | Università degli Studi di Palermo - Unipa",
+          "source": "Unipa",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Malattie rare endocrine, Italia prima in Europa con 20 centri Ma gap al Sud. Al Meridione solo 3 a Napoli e 1 a Messina. Intervista alla prof.ssa Maria Piccione | Università degli Studi di Palermo Unipa"
+        },
+        {
+          "title": "Shiffrin a caccia della vittoria numero 86: appuntamento ad Are. In gara Goggia e Bassino - Quotidiano Sportivo",
+          "source": "Quotidiano Sportivo",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Shiffrin a caccia della vittoria numero 86: appuntamento ad Are. In gara Goggia e Bassino Quotidiano Sportivo"
+        },
+        {
+          "title": "Sinner e Musetti oggi a Indian Wells: orari e dove vederli in tv - Quotidiano Sportivo",
+          "source": "Quotidiano Sportivo",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "Sinner e Musetti oggi a Indian Wells: orari e dove vederli in tv Quotidiano Sportivo"
+        }
+      ]
+    },
+    "Everything_Everywhere_All_at_Once": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Everything Everywhere All at Once è un film del 2022 diretto da Daniel Kwan e Daniel Scheinert. Il cast include Michelle Yeoh, Ke Huy Quan, Stephanie Hsu, Jamie Lee Curtis e James Hong.",
+      "news": [
+        {
+          "title": "Everything Everywhere All At Once, ecco perché il film folle e geniale dei Daniels ha trionfato agli Oscar 2023 - Vogue",
+          "source": "Vogue",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Everything Everywhere All At Once, ecco perché il film folle e geniale dei Daniels ha trionfato agli Oscar 2023 Vogue"
+        },
+        {
+          "title": "Everything Everywhere All At Once, cosa c'è da sapere sul film che ha vinto 7 Oscar - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Everything Everywhere All At Once, cosa c'è da sapere sul film che ha vinto 7 Oscar Sky TG24"
+        },
+        {
+          "title": "Il successo di “Everything Everywhere All at Once” ha richiesto un gran lavoro - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Il successo di “Everything Everywhere All at Once” ha richiesto un gran lavoro Il Post"
+        },
+        {
+          "title": "Di cosa parla Everything Everywhere All at Once, il film che ha sbancato gli Oscar - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Di cosa parla Everything Everywhere All at Once, il film che ha sbancato gli Oscar Corriere della Sera"
+        },
+        {
+          "title": "Everything everywhere all at once: le 10 scene cult - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Everything everywhere all at once: le 10 scene cult Vanity Fair Italia"
+        },
+        {
+          "title": "Everything Everywhere All At Once: la recensione del film dei Daniels - The HotCorn",
+          "source": "The HotCorn",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Everything Everywhere All At Once: la recensione del film dei Daniels The HotCorn"
+        },
+        {
+          "title": "Everything Everywhere All at Once, dove è stato girato il Miglior film agli Oscar 2023 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Everything Everywhere All at Once, dove è stato girato il Miglior film agli Oscar 2023 Fanpage"
+        },
+        {
+          "title": "Oscar 2023, trionfo di “Everything Everywhere All at Once” - Blog Università eCampus",
+          "source": "Blog Università eCampus",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Oscar 2023, trionfo di “Everything Everywhere All at Once” Blog Università eCampus"
+        },
+        {
+          "title": "Oscar 2023, \"Everything everywhere all at once\" vince sette statuette. Il trailer del film - Il video - Open",
+          "source": "Open",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Oscar 2023, \"Everything everywhere all at once\" vince sette statuette. Il trailer del film - Il video Open"
+        },
+        {
+          "title": "Daniel Kwan E Daniel Scheinert ( Daniels ) - Everything Everywhere All at Once Recensione - Mescalina.it",
+          "source": "Mescalina.it",
+          "pubDate": "Sun, 12 Mar 2023 08:00:00 GMT",
+          "description": "Daniel Kwan E Daniel Scheinert ( Daniels ) - Everything Everywhere All at Once Recensione Mescalina.it"
+        }
+      ]
+    },
+    "Giancarlo_Giannini": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giancarlo Giannini è un attore e doppiatore italiano.",
+      "news": [
+        {
+          "title": "Giancarlo Giannini ha ricevuto la stella sulla Walk of Fame - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Giancarlo Giannini ha ricevuto la stella sulla Walk of Fame Sentieri selvaggi"
+        },
+        {
+          "title": "Una stella sulla Walk of Fame per Giancarlo Giannini: \"È per sempre. Meglio dell'Oscar\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Una stella sulla Walk of Fame per Giancarlo Giannini: \"È per sempre. Meglio dell'Oscar\" RaiNews"
+        },
+        {
+          "title": "Giancarlo Giannini, la stella sulla Hollywood Walk of Fame - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Giancarlo Giannini, la stella sulla Hollywood Walk of Fame Tv2000"
+        },
+        {
+          "title": "Giancarlo Giannini riceve la stella sulla Walk of Fame a Hollywood - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Giancarlo Giannini riceve la stella sulla Walk of Fame a Hollywood Sky TG24"
+        },
+        {
+          "title": "Giancarlo Giannini: «A Hollywood mi danno la stella, a Venezia non mi hanno dato neanche un gatto nero - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Giancarlo Giannini: «A Hollywood mi danno la stella, a Venezia non mi hanno dato neanche un gatto nero Rolling Stone Italia"
+        },
+        {
+          "title": "Oggi è un altro giorno 2022/23 - Giancarlo Giannini approda sulla \"Walk of fame\" di Hollywood - 07/03/2023 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Oggi è un altro giorno 2022/23 - Giancarlo Giannini approda sulla \"Walk of fame\" di Hollywood - 07/03/2023 - Video RaiPlay"
+        },
+        {
+          "title": "Giancarlo Giannini scoperchia la sua stella sulla Hollywood walk of fame: «La dedico a Lina Wertmüller» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Giancarlo Giannini scoperchia la sua stella sulla Hollywood walk of fame: «La dedico a Lina Wertmüller» Corriere della Sera"
+        },
+        {
+          "title": "Giancarlo Giannini riceve la stella sulla Walk of Fame: \"Sono forse più amato qui che in Italia\" - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Giancarlo Giannini riceve la stella sulla Walk of Fame: \"Sono forse più amato qui che in Italia\" Tgcom24"
+        },
+        {
+          "title": "Sulla Walk of Fame posata la stella di Giancarlo Giannini - Agenzia Dire",
+          "source": "Agenzia Dire",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Sulla Walk of Fame posata la stella di Giancarlo Giannini Agenzia Dire"
+        },
+        {
+          "title": "Giancarlo Giannini sulla Walk of Fame: «Ma a Venezia non mi hanno dato neanche un gatto» - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Giancarlo Giannini sulla Walk of Fame: «Ma a Venezia non mi hanno dato neanche un gatto» Il Messaggero"
+        }
+      ]
+    },
+    "Premi_Oscar_2023": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La 95ª edizione dei premi Oscar si è tenuta a Los Angeles al Dolby Theatre il 12 marzo 2023 ed è stata presentata da Jimmy Kimmel, che torna alla conduzione del celebre evento per la terza volta dopo le edizioni del 2017 e 2018.",
+      "news": [
+        {
+          "title": "Oscar 2023, tutti i vincitori da Brendan Fraser a Michelle Yeoh. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Oscar 2023, tutti i vincitori da Brendan Fraser a Michelle Yeoh. FOTO Sky TG24"
+        },
+        {
+          "title": "Oscar 2023, trionfa “Everything Everywhere All at Once”, che vince 7 premi - Finestre sull'Arte",
+          "source": "Finestre sull'Arte",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Oscar 2023, trionfa “Everything Everywhere All at Once”, che vince 7 premi Finestre sull'Arte"
+        },
+        {
+          "title": "Tutti i vincitori dei premi Oscar 2023: film, attori e la lista completa delle statuette - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Tutti i vincitori dei premi Oscar 2023: film, attori e la lista completa delle statuette Corriere della Sera"
+        },
+        {
+          "title": "Tutti i vincitori degli Oscar 2023 - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Tutti i vincitori degli Oscar 2023 la Repubblica"
+        },
+        {
+          "title": "Nomination Oscar 2023, ecco tutti i candidati - Vogue",
+          "source": "Vogue",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Nomination Oscar 2023, ecco tutti i candidati Vogue"
+        },
+        {
+          "title": "Oscar 2023, trionfa il folle Everything Everywhere All At Once con sette premi. Tutti i vincitori - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Oscar 2023, trionfa il folle Everything Everywhere All At Once con sette premi. Tutti i vincitori Vanity Fair Italia"
+        },
+        {
+          "title": "OSCAR 2023: Ecco tutti i vincitori - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "OSCAR 2023: Ecco tutti i vincitori ComingSoon.it"
+        },
+        {
+          "title": "Tutti i vincitori dei premi Oscar - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sun, 12 Mar 2023 08:00:00 GMT",
+          "description": "Tutti i vincitori dei premi Oscar Il Post"
+        },
+        {
+          "title": "Agli Oscar non ha mai vinto il merito - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Agli Oscar non ha mai vinto il merito Esquire"
+        },
+        {
+          "title": "Tutte le foto dei look ai premi Oscar 2023 - Harper's BAZAAR",
+          "source": "Harper's BAZAAR",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Tutte le foto dei look ai premi Oscar 2023 Harper's BAZAAR"
+        }
+      ]
+    },
+    "Il_padrino_(film)": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il padrino è un film del 1972 co-sceneggiato e diretto da Francis Ford Coppola.",
+      "news": [
+        {
+          "title": "Ecco «Il Padrino» mito del cinema con Marlon Brando - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Fri, 10 Mar 2023 08:00:00 GMT",
+          "description": "Ecco «Il Padrino» mito del cinema con Marlon Brando La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Da Harry Potter a Il Padrino: le regole assurde che alcuni film hanno dovuto rispettare - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Tue, 07 Mar 2023 08:00:00 GMT",
+          "description": "Da Harry Potter a Il Padrino: le regole assurde che alcuni film hanno dovuto rispettare Best Movie"
+        },
+        {
+          "title": "Quella volta che Marlon Brando rifiutò l'Oscar - ELLE",
+          "source": "ELLE",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "Quella volta che Marlon Brando rifiutò l'Oscar ELLE"
+        },
+        {
+          "title": "Oscar e controversie, i premi più discussi di sempre - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "Oscar e controversie, i premi più discussi di sempre Sky TG24"
+        },
+        {
+          "title": "Oscar 1973, 50 anni dalla cerimonia più scandalosa dell’Academy - NPC Magazine",
+          "source": "NPC Magazine",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "Oscar 1973, 50 anni dalla cerimonia più scandalosa dell’Academy NPC Magazine"
+        },
+        {
+          "title": "I sequel cinematografici migliori di tutti i tempi - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "I sequel cinematografici migliori di tutti i tempi Taxidrivers.it"
+        },
+        {
+          "title": "Su Netflix L’uomo della pioggia – The Rainmaker, un capolavoro di Francis Ford Coppola. - Agendaonline",
+          "source": "Agendaonline",
+          "pubDate": "Mon, 06 Mar 2023 08:00:00 GMT",
+          "description": "Su Netflix L’uomo della pioggia – The Rainmaker, un capolavoro di Francis Ford Coppola. Agendaonline"
+        },
+        {
+          "title": "John Cazale: l’uomo che fece 5 capolavori da Oscar e poi morì - CiakClub",
+          "source": "CiakClub",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "John Cazale: l’uomo che fece 5 capolavori da Oscar e poi morì CiakClub"
+        },
+        {
+          "title": "I 15 Oscar più meritati della storia - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "I 15 Oscar più meritati della storia Hall of Series"
+        },
+        {
+          "title": "Cavalli Selvaggi: trama, cast e curiosità del film di Robert Duvall - CiakClub",
+          "source": "CiakClub",
+          "pubDate": "Sat, 11 Mar 2023 08:00:00 GMT",
+          "description": "Cavalli Selvaggi: trama, cast e curiosità del film di Robert Duvall CiakClub"
+        }
+      ]
+    },
+    "UEFA_Champions_League": {
+      "fetched_at": "2026-11-06T16:57:29+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La UEFA Champions League, meglio nota come Champions League, o con la sigla UCL, è la più prestigiosa competizione calcistica continentale per squadre di club organizzata dalla UEFA.",
+      "news": [
+        {
+          "title": "Storia: Bayern München 2-0 Paris: UEFA Champions League 2022/23 Ottavi di finale - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Storia: Bayern München 2-0 Paris: UEFA Champions League 2022/23 Ottavi di finale UEFA.com"
+        },
+        {
+          "title": "Porto - Inter, anteprima ottavi di finale Champions League: dove guardarla, orario, formazioni ufficiali - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Mon, 13 Mar 2023 07:00:00 GMT",
+          "description": "Porto - Inter, anteprima ottavi di finale Champions League: dove guardarla, orario, formazioni ufficiali UEFA.com"
+        },
+        {
+          "title": "UCL - Heineken GOTW - Bjorn Meijer MD8a (Club Brugge) - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "UCL - Heineken GOTW - Bjorn Meijer MD8a (Club Brugge) UEFA.com"
+        },
+        {
+          "title": "Verso Porto-Inter: la guida completa - Inter.it",
+          "source": "Inter.it",
+          "pubDate": "Sun, 12 Mar 2023 16:03:33 GMT",
+          "description": "Verso Porto-Inter: la guida completa Inter.it"
+        },
+        {
+          "title": "Il Milan si è qualificato per i quarti di finale di Champions League - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Il Milan si è qualificato per i quarti di finale di Champions League Il Post"
+        },
+        {
+          "title": "Champions League, Tottenham-Milan 0-0: i rossoneri approdano ai quarti - Quotidiano Sportivo",
+          "source": "Quotidiano Sportivo",
+          "pubDate": "Wed, 08 Mar 2023 08:00:00 GMT",
+          "description": "Champions League, Tottenham-Milan 0-0: i rossoneri approdano ai quarti Quotidiano Sportivo"
+        }
+      ]
+    }
+  }
+}

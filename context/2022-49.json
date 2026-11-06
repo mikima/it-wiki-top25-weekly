@@ -1,0 +1,1228 @@
+{
+  "week": "2022-49",
+  "start_date": "2022-12-05",
+  "end_date": "2022-12-11",
+  "articles": {
+    "Campionato_mondiale_di_calcio": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il campionato mondiale di calcio è la massima competizione tra le squadre nazionali maschili di calcio affiliate alla FIFA. Istituito nel 1930 dalla FIFA su iniziativa del presidente Jules Rimet, si è da allora tenuto ogni quattro anni eccezion fatta per l'interruzione bellica in cui le edizioni previste per il 1942 e il 1946 non furono disputate. Il trofeo originariamente in palio, la coppa Jules Rimet, fu itinerante fino all'edizione tenutasi nel 1970, quando il Brasile, vincendolo per la terza volta, lo acquisì definitivamente; al suo posto si assegna, dal 1974, la coppa del Mondo FIFA, anch'essa itinerante.",
+      "news": []
+    },
+    "Campionato_mondiale_di_calcio_2022": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il campionato mondiale di calcio 2022 o Coppa del Mondo FIFA 2022, noto anche come Qatar 2022, è stata la ventiduesima edizione della massima competizione per le rappresentative di calcio maschili maggiori delle federazioni sportive affiliate alla FIFA. Si è svolta in Qatar dal 20 novembre al 18 dicembre 2022.",
+      "news": [
+        {
+          "title": "I 5 motivi del fallimento della Spagna a Qatar 2022 - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "I 5 motivi del fallimento della Spagna a Qatar 2022 Eurosport.it"
+        },
+        {
+          "title": "La Spagna alla Coppa del Mondo FIFA 2022: risultati, squadra e marcatori - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "La Spagna alla Coppa del Mondo FIFA 2022: risultati, squadra e marcatori UEFA.com"
+        },
+        {
+          "title": "Argentina-Francia è la finalissima: si gioca domenica 18 - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Argentina-Francia è la finalissima: si gioca domenica 18 Eurosport.it"
+        },
+        {
+          "title": "La Svizzera alla Coppa del Mondo FIFA 2022: risultati, convocati e marcatori - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "La Svizzera alla Coppa del Mondo FIFA 2022: risultati, convocati e marcatori UEFA.com"
+        }
+      ]
+    },
+    "Kirstie_Alley": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Kirsten Louise Alley, detta Kirstie, è stata un'attrice e produttrice cinematografica statunitense.",
+      "news": [
+        {
+          "title": "È morta Kirstie Alley, star di Cin Cin e Senti chi parla - Wired",
+          "source": "Wired",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "È morta Kirstie Alley, star di Cin Cin e Senti chi parla Wired"
+        },
+        {
+          "title": "È morta Kirstie Alley - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "È morta Kirstie Alley Sentieri selvaggi"
+        },
+        {
+          "title": "Morta Kirstie Alley, l'attrice due volte vincitrice di un Emmy - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Morta Kirstie Alley, l'attrice due volte vincitrice di un Emmy RaiNews"
+        },
+        {
+          "title": "Addio a Kirstie Alley, attrice di Cheers e Senti chi parla - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Addio a Kirstie Alley, attrice di Cheers e Senti chi parla Il Sole 24 ORE"
+        },
+        {
+          "title": "Kirstie Alley, l’avventura di un corpo e la crudeltà di Hollywood - Cinematografo",
+          "source": "Cinematografo",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Kirstie Alley, l’avventura di un corpo e la crudeltà di Hollywood Cinematografo"
+        },
+        {
+          "title": "Addio Kirstie Alley, volto celebre di \"Cin cin\". L'attrice aveva 71 anni - AGI",
+          "source": "AGI",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Addio Kirstie Alley, volto celebre di \"Cin cin\". L'attrice aveva 71 anni AGI"
+        },
+        {
+          "title": "Perché Kirstie Alley ha sempre considerato John Travolta «il più grande amore della mia vita» - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Perché Kirstie Alley ha sempre considerato John Travolta «il più grande amore della mia vita» Cosmopolitan"
+        },
+        {
+          "title": "Kirstie Alley, star di Senti chi parla, è morta all'età di 71 anni - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Kirstie Alley, star di Senti chi parla, è morta all'età di 71 anni Sky TG24"
+        },
+        {
+          "title": "Addio a Kirstie Alley: i film da vedere e il ricordo di John Travolta - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Addio a Kirstie Alley: i film da vedere e il ricordo di John Travolta Radio Deejay"
+        },
+        {
+          "title": "Kirstie Alley, l’attrice è morta a 71 anni. John Travolta: «So che ci rivedremo» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Kirstie Alley, l’attrice è morta a 71 anni. John Travolta: «So che ci rivedremo» Corriere della Sera"
+        }
+      ]
+    },
+    "Mercoledì_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mercoledì (Wednesday) è una serie televisiva statunitense ideata da Alfred Gough, Miles Millar e Tim Burton, ispirata ai personaggi della famiglia Addams, creata da Charles Addams per le sue vignette sul periodico The New Yorker nel 1939. L'opera viene prodotta in collaborazione con la piattaforma Netflix e la casa di produzione MGM Television.",
+      "news": [
+        {
+          "title": "Mercoledì. La recensione della serie Netflix - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Mercoledì. La recensione della serie Netflix Sentieri selvaggi"
+        },
+        {
+          "title": "Mercoledì : tutte le particolarità da conoscere sulla serie - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Mercoledì : tutte le particolarità da conoscere sulla serie Vanity Fair Italia"
+        },
+        {
+          "title": "Il cast di “Mercoledì”: una guida - Marie Claire",
+          "source": "Marie Claire",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Il cast di “Mercoledì”: una guida Marie Claire"
+        },
+        {
+          "title": "Ecco le Serie TV e i film da guardare se vi è piaciuta Mercoledì - Techprincess",
+          "source": "Techprincess",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Ecco le Serie TV e i film da guardare se vi è piaciuta Mercoledì Techprincess"
+        },
+        {
+          "title": "Mercoledì, il ballo di Jenna Ortega è virale (lo fa anche Lady Gaga) - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "Mercoledì, il ballo di Jenna Ortega è virale (lo fa anche Lady Gaga) Sky TG24"
+        },
+        {
+          "title": "Film, serie tv e libri da scoprire se avete finito (e adorato) Mercoledì di Tim Burton - ELLE",
+          "source": "ELLE",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Film, serie tv e libri da scoprire se avete finito (e adorato) Mercoledì di Tim Burton ELLE"
+        },
+        {
+          "title": "Mercoledì Addams non ride mai, ma Jenna Ortega sì: Ecco i blooper della serie Netflix - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "Mercoledì Addams non ride mai, ma Jenna Ortega sì: Ecco i blooper della serie Netflix ComingSoon.it"
+        },
+        {
+          "title": "“Mercoledì è un’icona gay”, parola di Jenna Ortega - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "“Mercoledì è un’icona gay”, parola di Jenna Ortega Sky TG24"
+        },
+        {
+          "title": "Chi c'è dietro Mano di Mercoledì , la serie di Tim Burton - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Chi c'è dietro Mano di Mercoledì , la serie di Tim Burton Vanity Fair Italia"
+        }
+      ]
+    },
+    "Elly_Schlein": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elena Ethel Schlein, detta Elly, è una politica italiana, membro della Camera dei deputati dal 2022 e segretaria del Partito Democratico dal 2023. In precedenza, Schlein ha servito come Assessora regionale al Welfare e Vicepresidente della Regione Emilia-Romagna dal 2020 al 2022 e ancor prima come europarlamentare dal 2014 al 2019.",
+      "news": [
+        {
+          "title": "Che tempo che fa 2022/23 - Elly Schlein - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 11 Dec 2022 08:00:00 GMT",
+          "description": "Che tempo che fa 2022/23 - Elly Schlein - Video RaiPlay"
+        },
+        {
+          "title": "Elly Schlein apre al cambio del nome: \"Partito del lavoro? Proposta interessante\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Elly Schlein apre al cambio del nome: \"Partito del lavoro? Proposta interessante\" la Repubblica"
+        },
+        {
+          "title": "Elly Schlein, ecco il legame con il «suo» Ticino - Corriere del Ticino",
+          "source": "Corriere del Ticino",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Elly Schlein, ecco il legame con il «suo» Ticino Corriere del Ticino"
+        },
+        {
+          "title": "Elly Schlein fino a qui - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Elly Schlein fino a qui Il Post"
+        },
+        {
+          "title": "La scommessa di Elly Schlein: ricostruire l’identità dem. Nel Pd ci sono ormai due partiti - Strisciarossa",
+          "source": "Strisciarossa",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "La scommessa di Elly Schlein: ricostruire l’identità dem. Nel Pd ci sono ormai due partiti Strisciarossa"
+        },
+        {
+          "title": "Elly Schlein: dalle occupazioni alla primarie. Chi è il volto nuovo nel PD - BolognaToday",
+          "source": "BolognaToday",
+          "pubDate": "Sun, 11 Dec 2022 08:00:00 GMT",
+          "description": "Elly Schlein: dalle occupazioni alla primarie. Chi è il volto nuovo nel PD BolognaToday"
+        },
+        {
+          "title": "Tutti i dubbi del Pd su Elly Schlein - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "Tutti i dubbi del Pd su Elly Schlein Il Foglio"
+        },
+        {
+          "title": "Elly Schlein prende la tessera del Pd: \"Bisogna dare voce alla base\" - AGI",
+          "source": "AGI",
+          "pubDate": "Sun, 11 Dec 2022 08:00:00 GMT",
+          "description": "Elly Schlein prende la tessera del Pd: \"Bisogna dare voce alla base\" AGI"
+        },
+        {
+          "title": "Con Elly Schlein può vincere un PD «intersezionale»? - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Con Elly Schlein può vincere un PD «intersezionale»? Esquire"
+        },
+        {
+          "title": "Conosciamo meglio Elly Schlein, nuova candidata alla segreteria del Pd - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Conosciamo meglio Elly Schlein, nuova candidata alla segreteria del Pd ELLE"
+        }
+      ]
+    },
+    "Jenna_Ortega": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Jenna Marie Ortega è un'attrice statunitense.",
+      "news": [
+        {
+          "title": "“Mercoledì è un’icona gay”, parola di Jenna Ortega - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "“Mercoledì è un’icona gay”, parola di Jenna Ortega Sky TG24"
+        },
+        {
+          "title": "Jenna Ortega, determinazione e sacrifici: chi è la protagonista di Mercoledì - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Jenna Ortega, determinazione e sacrifici: chi è la protagonista di Mercoledì Vanity Fair Italia"
+        },
+        {
+          "title": "Jenna Ortega ha parecchie cose in comune con Mercoledì - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Jenna Ortega ha parecchie cose in comune con Mercoledì Cosmopolitan"
+        },
+        {
+          "title": "Mercoledì: Jenna Ortega aveva il Covid quando ha girato la celebre scena di ballo - screenWEEK",
+          "source": "screenWEEK",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Mercoledì: Jenna Ortega aveva il Covid quando ha girato la celebre scena di ballo screenWEEK"
+        },
+        {
+          "title": "Cosa c'entrano Jenna Ortega, protagonista della serie Mercoledì, e i Santi Francesi di X Factor - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Cosa c'entrano Jenna Ortega, protagonista della serie Mercoledì, e i Santi Francesi di X Factor Fanpage"
+        },
+        {
+          "title": "Mercoledì: tutto quello che c'è da sapere su Jenna Ortega e sulla Jenna-mania - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sun, 11 Dec 2022 08:00:00 GMT",
+          "description": "Mercoledì: tutto quello che c'è da sapere su Jenna Ortega e sulla Jenna-mania Movieplayer"
+        },
+        {
+          "title": "Jenna Ortega è single: la vita privata della star di Netflix che interpreta Mercoledì Addams - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "Jenna Ortega è single: la vita privata della star di Netflix che interpreta Mercoledì Addams Fanpage"
+        }
+      ]
+    },
+    "Boris_Godunov_(opera)": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Boris Godunov è un'opera lirica di Modest Petrovič Musorgskij, su libretto proprio, basata sul dramma omonimo di Aleksandr Sergeevič Puškin e sulla Storia dello Stato Russo di Nikolaj Michajlovič Karamzin. È la sola opera lirica completata da Musorgskij ed è considerata il suo capolavoro, oltre ad essere una pietra miliare della scuola russa ottocentesca: influenzerà in maniera non indifferente la musica europea di gran parte del Novecento. La musica è stata composta con quel particolare stile che riflette la profonda conoscenza del compositore della musica popolare del suo paese e che rifiuta volontariamente l'influenza delle scuole operistiche tedesca e italiana. Puškin basò il suo dramma sul personaggio storico di Boris Godunov, traendo larghe ispirazioni dall'Amleto di William Shakespeare. Una migliore comprensione dell'opera è facilitata dalla conoscenza degli eventi storici relativi al cosiddetto Periodo dei torbidi, quel periodo di interregno, guerre e disordini in Russia che seguì la fine della dinastia dei Rurikidi (1598) fino all'avvento della dinastia dei Romanov (1613).",
+      "news": [
+        {
+          "title": "Prima della Scala, in scena il Boris Godunov di Musorgskij: trama e durata dell'opera, ecco tutto quello che c'è da sapere - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Prima della Scala, in scena il Boris Godunov di Musorgskij: trama e durata dell'opera, ecco tutto quello che c'è da sapere Il Fatto Quotidiano"
+        },
+        {
+          "title": "Boris Godunov al cinema, i migliori film ispirati all’opera lirica - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Boris Godunov al cinema, i migliori film ispirati all’opera lirica Sky TG24"
+        },
+        {
+          "title": "Boris Godunov alla prima della Scala: la trama dell’opera di Musorgskij - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Boris Godunov alla prima della Scala: la trama dell’opera di Musorgskij Fanpage"
+        },
+        {
+          "title": "“Boris Godunov”, alla Scala la prima versione dell’opera di Musorgskij - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "“Boris Godunov”, alla Scala la prima versione dell’opera di Musorgskij Il Sole 24 ORE"
+        },
+        {
+          "title": "Boris Godunov alla Scala - SettimanaNews",
+          "source": "SettimanaNews",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Boris Godunov alla Scala SettimanaNews"
+        },
+        {
+          "title": "«Boris Godunov», dramma della storia e del potere brutale che manipola il popolo: sette cose che non sapete... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "«Boris Godunov», dramma della storia e del potere brutale che manipola il popolo: sette cose che non sapete... Corriere della Sera"
+        },
+        {
+          "title": "Boris Godunov di Andrzej Żuławski: La Russia, La Scala e la comunità Ucraina - www.indie-eye.it",
+          "source": "www.indie-eye.it",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Boris Godunov di Andrzej Żuławski: La Russia, La Scala e la comunità Ucraina www.indie-eye.it"
+        },
+        {
+          "title": "Prima della Scala, il Boris Godunov è un trionfo: 13 minuti di applausi per l'opera russa che scaccia così le polemiche. Affollato il palco reale con Meloni, Mattarella e von der Leyen - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Prima della Scala, il Boris Godunov è un trionfo: 13 minuti di applausi per l'opera russa che scaccia così le polemiche. Affollato il palco reale con Meloni, Mattarella e von der Leyen Il Fatto Quotidiano"
+        },
+        {
+          "title": "Boris Godunov, alla Prima della Scala presenti Mattarella, von der Leyen e Meloni. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Boris Godunov, alla Prima della Scala presenti Mattarella, von der Leyen e Meloni. FOTO Sky TG24"
+        },
+        {
+          "title": "Prima della Scala, Meloni canta l'inno. Ovazione a Mattarella. Per il «Boris Godunov» 13 minuti di applausi - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Prima della Scala, Meloni canta l'inno. Ovazione a Mattarella. Per il «Boris Godunov» 13 minuti di applausi Corriere Milano"
+        }
+      ]
+    },
+    "Cristiano_Ronaldo": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cristiano Ronaldo dos Santos Aveiro è un calciatore portoghese, attaccante dell'Al-Nassr, di cui è capitano. Con la nazionale portoghese, è diventato campione d'Europa nel 2016 e ha vinto la UEFA Nations League 2018-2019 e 2024-2025.",
+      "news": [
+        {
+          "title": "Un'isola e poi? Le cose più assurde che potrebbe comprarsi CR7 - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 05 Dec 2022 18:15:17 GMT",
+          "description": "Un'isola e poi? Le cose più assurde che potrebbe comprarsi CR7 Sky Sport"
+        },
+        {
+          "title": "Il re Cristiano Ronaldo ha perso la corona (e non serve più al Portogallo) - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Il re Cristiano Ronaldo ha perso la corona (e non serve più al Portogallo) Vanity Fair Italia"
+        },
+        {
+          "title": "Cristiano Ronaldo e il Portogallo: ha minacciato di lasciare il Mondiale - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo e il Portogallo: ha minacciato di lasciare il Mondiale Corriere della Sera"
+        },
+        {
+          "title": "Cristiano Ronaldo dice sì all'Al Nassr: offerta da 200 milioni all'anno - DAZN",
+          "source": "DAZN",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo dice sì all'Al Nassr: offerta da 200 milioni all'anno DAZN"
+        },
+        {
+          "title": "Cristiano Ronaldo in lacrime dopo l’eliminazione del Portogallo contro il Marocco ai Mondiali - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo in lacrime dopo l’eliminazione del Portogallo contro il Marocco ai Mondiali Corriere della Sera"
+        },
+        {
+          "title": "Cristiano Ronaldo out: un capolinea (troppo) rumoroso - DAZN",
+          "source": "DAZN",
+          "pubDate": "Sun, 11 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo out: un capolinea (troppo) rumoroso DAZN"
+        },
+        {
+          "title": "Georgina Rodriguez, in Qatar con Cristiano Ronaldo: tra spiagge, musei e una sceicca - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Georgina Rodriguez, in Qatar con Cristiano Ronaldo: tra spiagge, musei e una sceicca Vanity Fair Italia"
+        },
+        {
+          "title": "Calciomercato Roma, Tiago Pinto incontrerà l'agente di Zaniolo: c'è distanza sull'ingaggio - Quotidiano Sportivo",
+          "source": "Quotidiano Sportivo",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Calciomercato Roma, Tiago Pinto incontrerà l'agente di Zaniolo: c'è distanza sull'ingaggio Quotidiano Sportivo"
+        }
+      ]
+    },
+    "Bert_Trautmann": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Bernhard Carl Trautmann, detto Bert, è stato un calciatore e allenatore di calcio tedesco, di ruolo portiere.",
+      "news": [
+        {
+          "title": "The Keeper - La leggenda di un portiere - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Dec 2022 20:53:46 GMT",
+          "description": "The Keeper - La leggenda di un portiere RaiPlay"
+        },
+        {
+          "title": "The Keeper, la vera storia del portiere tedesco Bert Trautmann - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "The Keeper, la vera storia del portiere tedesco Bert Trautmann Radio Deejay"
+        },
+        {
+          "title": "La vera storia di \"The Keeper - La leggenda di un portiere\". VIDEO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "La vera storia di \"The Keeper - La leggenda di un portiere\". VIDEO Sky TG24"
+        },
+        {
+          "title": "The Keeper - La leggenda di un portiere, la recensione: un prevedibile biopic sportivo - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "The Keeper - La leggenda di un portiere, la recensione: un prevedibile biopic sportivo Movieplayer"
+        },
+        {
+          "title": "The Keeper - La leggenda di un portiere: trama e cast del film sulla storia vera di Bert Trautmann - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "The Keeper - La leggenda di un portiere: trama e cast del film sulla storia vera di Bert Trautmann ComingSoon.it"
+        },
+        {
+          "title": "Bono, l'eroe scatena la festa in tutta Europa - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Bono, l'eroe scatena la festa in tutta Europa il Giornale"
+        },
+        {
+          "title": "The Keeper - La leggenda di un portiere - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "The Keeper - La leggenda di un portiere RaiPlay"
+        },
+        {
+          "title": "\"The keeper – La leggenda di un portiere\": cast e trama - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "\"The keeper – La leggenda di un portiere\": cast e trama TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Bert Trautmann: moglie, infortunio, carriera e morte di The Keeper - Virgilio Sport",
+          "source": "Virgilio Sport",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Bert Trautmann: moglie, infortunio, carriera e morte di The Keeper Virgilio Sport"
+        },
+        {
+          "title": "Chi era Bert Trautmann: storia vera, moglie, figli, vita privata e carriera - AmalfiNotizie.it",
+          "source": "AmalfiNotizie.it",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Chi era Bert Trautmann: storia vera, moglie, figli, vita privata e carriera AmalfiNotizie.it"
+        }
+      ]
+    },
+    "Lionel_Messi": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lionel Andrés Messi Cuccittini, detto Leo, è un calciatore argentino, attaccante o centrocampista dell'Inter Miami, di cui è capitano. Con la nazionale argentina è diventato campione del mondo nel 2022, vicecampione del mondo nel 2014 e nel 2026 e campione del Sud America nel 2021 e nel 2024.",
+      "news": []
+    },
+    "Immacolata_Concezione": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il dogma dell'Immacolata Concezione è un dogma della Chiesa cattolica, proclamato dal beato Pio IX l'8 dicembre 1854 con la bolla Ineffabilis Deus, il quale afferma che la Vergine Maria fu preservata dal peccato originale fin dal primo istante del suo concepimento.",
+      "news": [
+        {
+          "title": "Mons. Repole celebra Messa e guida processione per la festa dell'Immacolata Concezione a Carmagnola, 8 dicembre 2022 - Diocesi di Torino",
+          "source": "Diocesi di Torino",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Mons. Repole celebra Messa e guida processione per la festa dell'Immacolata Concezione a Carmagnola, 8 dicembre 2022 Diocesi di Torino"
+        },
+        {
+          "title": "Lodi, in cattedrale la Messa per l’Immacolata Concezione - Il Cittadino di Lodi",
+          "source": "Il Cittadino di Lodi",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Lodi, in cattedrale la Messa per l’Immacolata Concezione Il Cittadino di Lodi"
+        },
+        {
+          "title": "8 dicembre, l'Immacolata Concezione: cos'è e le origini della festa - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "8 dicembre, l'Immacolata Concezione: cos'è e le origini della festa Corriere della Sera"
+        },
+        {
+          "title": "“Piena di grazia”, la festa dell’Immacolata Concezione - Tv2000",
+          "source": "Tv2000",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "“Piena di grazia”, la festa dell’Immacolata Concezione Tv2000"
+        },
+        {
+          "title": "Immacolata Concezione, il dogma tra devozione popolare e teologia - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Immacolata Concezione, il dogma tra devozione popolare e teologia Avvenire"
+        },
+        {
+          "title": "Le lacrime di papa Francesco ai piedi dell'Immacolata: \"Sulla guerra vinca la pace\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Le lacrime di papa Francesco ai piedi dell'Immacolata: \"Sulla guerra vinca la pace\" RaiNews"
+        },
+        {
+          "title": "Festa Immacolata: l'omaggio dei pompieri romani alla statua della Madonna di piazza di Spagna - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Thu, 08 Dec 2022 09:41:10 GMT",
+          "description": "Festa Immacolata: l'omaggio dei pompieri romani alla statua della Madonna di piazza di Spagna RomaToday"
+        },
+        {
+          "title": "Immacolata concezione di Maria, concepimento virginale di Gesù, verginità perpetua di Maria... facciamo un pò di chiarezza dogmatica (di Andrea Marsiletti) - ParmaDaily.it",
+          "source": "ParmaDaily.it",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "Immacolata concezione di Maria, concepimento virginale di Gesù, verginità perpetua di Maria... facciamo un pò di chiarezza dogmatica (di Andrea Marsiletti) ParmaDaily.it"
+        },
+        {
+          "title": "Italia – L’oratorio di Testaccio celebra l’Immacolata Concezione e l’anniversario del primo oratorio salesiano iniziato da Don Bosco nel 1841 - ANS - Agenzia iNfo Salesiana",
+          "source": "ANS - Agenzia iNfo Salesiana",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Italia – L’oratorio di Testaccio celebra l’Immacolata Concezione e l’anniversario del primo oratorio salesiano iniziato da Don Bosco nel 1841 ANS - Agenzia iNfo Salesiana"
+        },
+        {
+          "title": "Commento al Vangelo dell’Immacolata Concezione di Maria - Clarus",
+          "source": "Clarus",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Commento al Vangelo dell’Immacolata Concezione di Maria Clarus"
+        }
+      ]
+    },
+    "Neymar": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Neymar da Silva Santos Júnior, meglio noto come Neymar o Neymar Jr., è un calciatore brasiliano, attaccante del Santos.",
+      "news": [
+        {
+          "title": "Nel recupero del primo tempo supplementare Neymar tira fuori il coniglio dal cilindro - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Nel recupero del primo tempo supplementare Neymar tira fuori il coniglio dal cilindro RaiNews"
+        },
+        {
+          "title": "Brasile, per Neymar un gol storico contro la Croazia - DAZN",
+          "source": "DAZN",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Brasile, per Neymar un gol storico contro la Croazia DAZN"
+        },
+        {
+          "title": "Si è spento il sole: Neymar piange, il Brasile è fuori - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Si è spento il sole: Neymar piange, il Brasile è fuori la Repubblica"
+        },
+        {
+          "title": "Neymar cambia look per il ritorno in campo - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Neymar cambia look per il ritorno in campo Sky Sport"
+        },
+        {
+          "title": "Il Brasile di Neymar, la stella di una generazione di perdenti - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Il Brasile di Neymar, la stella di una generazione di perdenti La Gazzetta dello Sport"
+        },
+        {
+          "title": "Mondiali: Neymar, è arrivata l'ora di andare lontano di Qatar 2022 - ANSA",
+          "source": "ANSA",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Mondiali: Neymar, è arrivata l'ora di andare lontano di Qatar 2022 ANSA"
+        },
+        {
+          "title": "Neymar dopo Mbappé e Messi: è il Mondiale delle stelle del Psg - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Neymar dopo Mbappé e Messi: è il Mondiale delle stelle del Psg Corriere della Sera"
+        },
+        {
+          "title": "Neymar non si dà pace: \"Sono distrutto, farà male per molto tempo\" - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Sun, 11 Dec 2022 08:00:00 GMT",
+          "description": "Neymar non si dà pace: \"Sono distrutto, farà male per molto tempo\" Eurosport.it"
+        },
+        {
+          "title": "Leo, il figlio del croato Perisic, consola il campione brasiliano Neymar - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Leo, il figlio del croato Perisic, consola il campione brasiliano Neymar BergamoNews"
+        },
+        {
+          "title": "Il campione antipatico | In Qatar Neymar ha l’ultima occasione per sfatare la sua maledizione - Linkiesta.it",
+          "source": "Linkiesta.it",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Il campione antipatico | In Qatar Neymar ha l’ultima occasione per sfatare la sua maledizione Linkiesta.it"
+        }
+      ]
+    },
+    "Yassine_Bounou": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Yassine Bounou, detto Bono, è un calciatore marocchino, portiere dell'Al-Hilal e della nazionale marocchina, con la quale ha vinto la Coppa d'Africa nel 2026.",
+      "news": [
+        {
+          "title": "Pararigori, goleador e quella provocazione a Haaland - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Pararigori, goleador e quella provocazione a Haaland Sky Sport"
+        },
+        {
+          "title": "Yassine Bounou (detto Bono), il portiere del Marocco che ha stregato la Spagna - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Yassine Bounou (detto Bono), il portiere del Marocco che ha stregato la Spagna Corriere della Sera"
+        },
+        {
+          "title": "La perseveranza paga: Bounou eroe del Marocco - FIFA",
+          "source": "FIFA",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "La perseveranza paga: Bounou eroe del Marocco FIFA"
+        },
+        {
+          "title": "Chi è Yassine Bounou, l’eroico portiere che ha portato il Marocco ai quarti dei Mondiali. Una star nella Liga… - OA Sport",
+          "source": "OA Sport",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Chi è Yassine Bounou, l’eroico portiere che ha portato il Marocco ai quarti dei Mondiali. Una star nella Liga… OA Sport"
+        },
+        {
+          "title": "Bounou, il portiere pararigori del Marocco sulla strada di Buffon - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Bounou, il portiere pararigori del Marocco sulla strada di Buffon la Repubblica"
+        },
+        {
+          "title": "Ecco chi è Yassine Bounou: il para rigori che ha portato il Marocco ai quarti di finale - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Ecco chi è Yassine Bounou: il para rigori che ha portato il Marocco ai quarti di finale il Giornale"
+        },
+        {
+          "title": "I segreti di \"Bono\", portiere che fa sognare il Marocco: finora ha subito solo... un autogol - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "I segreti di \"Bono\", portiere che fa sognare il Marocco: finora ha subito solo... un autogol La Gazzetta dello Sport"
+        },
+        {
+          "title": "Bono è un vero uomo squadra, cede il premio di migliore in campo a En-Nesyri: estasi Marocco - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Bono è un vero uomo squadra, cede il premio di migliore in campo a En-Nesyri: estasi Marocco Fanpage"
+        },
+        {
+          "title": "Chi è Bono, il portiere para rigori del Marocco che si ispira a Goycoechea - Corriere dello Sport",
+          "source": "Corriere dello Sport",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Chi è Bono, il portiere para rigori del Marocco che si ispira a Goycoechea Corriere dello Sport"
+        },
+        {
+          "title": "Chi è Bono, il portiere pararigori che fa sognare il Marocco in Qatar - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Chi è Bono, il portiere pararigori che fa sognare il Marocco in Qatar La Stampa"
+        }
+      ]
+    },
+    "Nazionale_di_calcio_del_Marocco": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La nazionale maschile di calcio del Marocco è la rappresentativa calcistica del Marocco ed è posta sotto l'egida della Federazione calcistica del Marocco.",
+      "news": [
+        {
+          "title": "I 13 giocatori del Marocco che non sono nati in Marocco - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "I 13 giocatori del Marocco che non sono nati in Marocco Sky Sport"
+        },
+        {
+          "title": "Il re del Marocco festeggia la vittoria della nazionale in strada a Tangeri - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Il re del Marocco festeggia la vittoria della nazionale in strada a Tangeri RaiNews"
+        },
+        {
+          "title": "Il Marocco è in semifinale e scrive la storia - Rivista Africa",
+          "source": "Rivista Africa",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Il Marocco è in semifinale e scrive la storia Rivista Africa"
+        },
+        {
+          "title": "Il Marocco ha eliminato la Spagna agli ottavi di finale dei Mondiali di calcio - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Il Marocco ha eliminato la Spagna agli ottavi di finale dei Mondiali di calcio Il Post"
+        },
+        {
+          "title": "Dove giocano i calciatori del Marocco? Tante conoscenze della Serie A e…Serie B italiana! - OA Sport",
+          "source": "OA Sport",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Dove giocano i calciatori del Marocco? Tante conoscenze della Serie A e…Serie B italiana! OA Sport"
+        },
+        {
+          "title": "La particolarità del Marocco: 14 giocatori su 26 sono nati all'estero - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "La particolarità del Marocco: 14 giocatori su 26 sono nati all'estero Goal.com"
+        },
+        {
+          "title": "Qatar 2022 - Marocco nella storia! È la prima africana a qualificarsi in semifinale di un Mondiale - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Qatar 2022 - Marocco nella storia! È la prima africana a qualificarsi in semifinale di un Mondiale Eurosport.it"
+        },
+        {
+          "title": "Marocco nella storia: piega il Portogallo e vola in semifinale - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Marocco nella storia: piega il Portogallo e vola in semifinale il Giornale"
+        },
+        {
+          "title": "Marocco - Portogallo 1-0, la sintesi della partita - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Marocco - Portogallo 1-0, la sintesi della partita RaiNews"
+        },
+        {
+          "title": "Vittoria storica del Marocco ai Mondiali: la festa incontenibile dei tifosi - Rivista Africa",
+          "source": "Rivista Africa",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Vittoria storica del Marocco ai Mondiali: la festa incontenibile dei tifosi Rivista Africa"
+        }
+      ]
+    },
+    "Gonçalo_Ramos": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gonçalo Matias Ramos è un calciatore portoghese, attaccante del Milan e della nazionale portoghese, con cui ha vinto la UEFA Nations League 2024-2025.",
+      "news": [
+        {
+          "title": "Lo stregone di Olhão alla conquista del mondo - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Lo stregone di Olhão alla conquista del mondo Sky Sport"
+        },
+        {
+          "title": "Il Portogallo (senza Ronaldo) è uno spettacolo: 6-1 alla Svizzera. E Gonçalo Ramos segna una tripletta! - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Il Portogallo (senza Ronaldo) è uno spettacolo: 6-1 alla Svizzera. E Gonçalo Ramos segna una tripletta! La Gazzetta dello Sport"
+        },
+        {
+          "title": "Gonçalo Ramos porta in vantaggio il Portogallo sulla Svizzera - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Gonçalo Ramos porta in vantaggio il Portogallo sulla Svizzera RaiNews"
+        },
+        {
+          "title": "Gonçalo Ramos, prima tripletta di Qatar 2022: tutto sul bomber del Portogallo - Tuttosport",
+          "source": "Tuttosport",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Gonçalo Ramos, prima tripletta di Qatar 2022: tutto sul bomber del Portogallo Tuttosport"
+        },
+        {
+          "title": "L'esplosione di Gonçalo Ramos: da erede di Darwin Nuñez a nuova stella del Portogallo - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "L'esplosione di Gonçalo Ramos: da erede di Darwin Nuñez a nuova stella del Portogallo Goal.com"
+        },
+        {
+          "title": "Gonçalo Ramos: chi è lo «stregone» del Portogallo che ha rubato il posto a Ronaldo - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Gonçalo Ramos: chi è lo «stregone» del Portogallo che ha rubato il posto a Ronaldo Corriere della Sera"
+        },
+        {
+          "title": "Chi è Gonçalo Ramos, il sostituto di Cristiano Ronaldo che irrompe ai Mondiali con le sue pistole - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Chi è Gonçalo Ramos, il sostituto di Cristiano Ronaldo che irrompe ai Mondiali con le sue pistole Fanpage"
+        },
+        {
+          "title": "Portogallo, chi è Ramos: il nuovo bomber che ha fatto dimenticare Ronaldo - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Portogallo, chi è Ramos: il nuovo bomber che ha fatto dimenticare Ronaldo Virgilio"
+        },
+        {
+          "title": "Mondiali: Gonçalo Ramos, 'sto sognando, spero di continuare' di Qatar 2022 - ANSA",
+          "source": "ANSA",
+          "pubDate": "Wed, 07 Dec 2022 08:00:00 GMT",
+          "description": "Mondiali: Gonçalo Ramos, 'sto sognando, spero di continuare' di Qatar 2022 ANSA"
+        },
+        {
+          "title": "Gonçalo Ramos, chi è il sostituto di Ronaldo nel Portogallo che ha segnato una tripletta alla Svizzera - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Gonçalo Ramos, chi è il sostituto di Ronaldo nel Portogallo che ha segnato una tripletta alla Svizzera la Repubblica"
+        }
+      ]
+    },
+    "Pelé": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Pelé, pseudonimo di Edson Arantes do Nascimento, è stato un calciatore e dirigente sportivo brasiliano, di ruolo centrocampista o attaccante. È considerato uno dei più grandi calciatori di tutti i tempi.",
+      "news": []
+    },
+    "Kylian_Mbappé": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Kylian Mbappé Lottin è un calciatore francese, attaccante del Real Madrid e della nazionale francese, di cui è capitano e con cui è diventato campione del mondo nel 2018, vicecampione del mondo nel 2022 e ha vinto la UEFA Nations League 2020-2021.",
+      "news": [
+        {
+          "title": "Fermi tutti. Kylian Mbappé ha degli Oakley tutti suoi, ed è ancora più stiloso - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Fermi tutti. Kylian Mbappé ha degli Oakley tutti suoi, ed è ancora più stiloso GQ Italia"
+        },
+        {
+          "title": "Tutti i numeri di Kylian Mbappé - laRegione",
+          "source": "laRegione",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Tutti i numeri di Kylian Mbappé laRegione"
+        },
+        {
+          "title": "Il capriccio estremo di Mbappé, non ha mai preso la patente ma possiede un parco auto milionario - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Il capriccio estremo di Mbappé, non ha mai preso la patente ma possiede un parco auto milionario Fanpage"
+        },
+        {
+          "title": "Dilemmi mondiali: Mbappé sa di grande giocatore, Messi una divinità da celebrare - Nuovo dialogo",
+          "source": "Nuovo dialogo",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Dilemmi mondiali: Mbappé sa di grande giocatore, Messi una divinità da celebrare Nuovo dialogo"
+        },
+        {
+          "title": "Ave Kylian Mbappé - Sportellate",
+          "source": "Sportellate",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Ave Kylian Mbappé Sportellate"
+        },
+        {
+          "title": "Mbappé ride, Messi deride, Modric consola Rodrygo: non esiste un galateo delle esultanze - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "Mbappé ride, Messi deride, Modric consola Rodrygo: non esiste un galateo delle esultanze Corriere della Sera"
+        },
+        {
+          "title": "Classifica marcatori Mondiali 2022/ Il capocannoniere è Kylian Mbappé - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Classifica marcatori Mondiali 2022/ Il capocannoniere è Kylian Mbappé IlSussidiario.net"
+        }
+      ]
+    },
+    "La_famiglia_Addams": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La famiglia Addams è un gruppo di personaggi creato da Charles Addams a partire dal 1938 e protagonista di una serie di vignette che dagli anni sessanta hanno ispirato la realizzazione di opere in diversi altri media come serie televisive, cartoni animati, lungometraggi, oltre a vario merchandising comprendente tra l'altro: arcade game, videogiochi, giochi da tavolo, action figures, dischetti per sistema View-Master, ecc.",
+      "news": [
+        {
+          "title": "Barry Sonnenfeld su Forrest Gump: \"Lasciai la regia per La Famiglia Addams 2; decisivi Michael J. Fox e Martin Brest\" - Il Cineocchio",
+          "source": "Il Cineocchio",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Barry Sonnenfeld su Forrest Gump: \"Lasciai la regia per La Famiglia Addams 2; decisivi Michael J. Fox e Martin Brest\" Il Cineocchio"
+        },
+        {
+          "title": "Mercoledì, tutti i riferimenti alla Famiglia Addams e a Tim Burton che (forse) vi siete persi - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Mercoledì, tutti i riferimenti alla Famiglia Addams e a Tim Burton che (forse) vi siete persi LaScimmiaPensa.com"
+        },
+        {
+          "title": "Chi c'è dietro Mano di Mercoledì , la serie di Tim Burton - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Chi c'è dietro Mano di Mercoledì , la serie di Tim Burton Vanity Fair Italia"
+        },
+        {
+          "title": "Il cast di “Mercoledì”: una guida - Marie Claire",
+          "source": "Marie Claire",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Il cast di “Mercoledì”: una guida Marie Claire"
+        },
+        {
+          "title": "‘Wednesday’: la nuova serie Netflix su Mercoledì Addams - Voci di Città",
+          "source": "Voci di Città",
+          "pubDate": "Sun, 11 Dec 2022 08:00:00 GMT",
+          "description": "‘Wednesday’: la nuova serie Netflix su Mercoledì Addams Voci di Città"
+        },
+        {
+          "title": "La Nevermore Academy, il liceo di Mercoledì Addams esiste davvero: ecco dove si trova - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "La Nevermore Academy, il liceo di Mercoledì Addams esiste davvero: ecco dove si trova Fanpage"
+        }
+      ]
+    },
+    "Campionato_mondiale_di_calcio_2018": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il campionato mondiale di calcio 2018 o Coppa del Mondo FIFA 2018, noto anche come Russia 2018, è stato la ventunesima edizione della massima competizione per le rappresentative di calcio maschili maggiori delle federazioni sportive affiliate alla FIFA.",
+      "news": [
+        {
+          "title": "Argentina-Francia è la finalissima: si gioca domenica 18 - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Argentina-Francia è la finalissima: si gioca domenica 18 Eurosport.it"
+        },
+        {
+          "title": "Il Marocco riscrive la storia del calcio - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Il Marocco riscrive la storia del calcio Sky Sport"
+        },
+        {
+          "title": "Mondiali, le squadre che hanno giocato più finali nella storia - Today",
+          "source": "Today",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Mondiali, le squadre che hanno giocato più finali nella storia Today"
+        },
+        {
+          "title": "Mondiali, le migliori nazionali per ogni continente - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "Mondiali, le migliori nazionali per ogni continente Sky Sport"
+        }
+      ]
+    },
+    "Campionato_mondiale_di_calcio_2026": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il campionato mondiale di calcio 2026 o Coppa del Mondo FIFA 2026, noto anche come Canada-Messico-USA 2026, è stata la ventitreesima edizione del campionato mondiale di calcio e la quattordicesima disputata sotto la denominazione di Coppa del Mondo FIFA. Si è svolta dall'11 giugno al 19 luglio 2026 in Canada, Messico e Stati Uniti d'America, prima edizione organizzata congiuntamente da tre Paesi. Il Messico è diventato il primo Paese a ospitare per tre volte la manifestazione, dopo le edizioni del 1970 e del 1986, mentre gli Stati Uniti l'hanno ospitata per la seconda volta dopo il 1994; per il Canada, invece, si è trattata della prima organizzazione della competizione.",
+      "news": [
+        {
+          "title": "Siete stufi dei Mondiali di Calcio? Ecco 8 film e serie per fare pace con il pallone - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "Siete stufi dei Mondiali di Calcio? Ecco 8 film e serie per fare pace con il pallone Wired Italia"
+        }
+      ]
+    },
+    "Krampus": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Nella mitologia delle zone europee di lingua bavarese e in quelle di lingua ladina il Krampus è un essere demoniaco che accompagna la figura religiosa-folkloristica della reincarnazione di San Nicola. La sua figura ricorre in una tradizionale sfilata in maschera lungo le strade del paese, paragonabile ai Faunalia dell'Italia antica. Il krampus è legato alle tradizioni pre-cristiane e si è poi integrato nella mitologia cristiana: con il cristianesimo, il krampus viene subordinato dal vescovo San Nicola ed è costretto a servirlo. Queste manifestazioni sono eventi tipici della giornata della vigilia di San Nicola, 5 dicembre, tuttora festeggiate in Slovenia, Germania, Croazia, Austria, Italia.",
+      "news": [
+        {
+          "title": "Trento, Krampus aggrediti da un gruppo di giovani. Annullata la sfilata a Levico Terme - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Trento, Krampus aggrediti da un gruppo di giovani. Annullata la sfilata a Levico Terme Sky TG24"
+        },
+        {
+          "title": "Trento, Krampus picchiati con calci e sassate: gli aggressori sono minorenni - Corriere del Veneto",
+          "source": "Corriere del Veneto",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Trento, Krampus picchiati con calci e sassate: gli aggressori sono minorenni Corriere del Veneto"
+        },
+        {
+          "title": "Krampus aggrediti a Levico, lo sfogo: \"Non siamo pagliacci da prendere in giro\" - Montagna.TV",
+          "source": "Montagna.TV",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "Krampus aggrediti a Levico, lo sfogo: \"Non siamo pagliacci da prendere in giro\" Montagna.TV"
+        },
+        {
+          "title": "Krampus aggrediti durante la sfilata al mercatino di Levico Terme - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Krampus aggrediti durante la sfilata al mercatino di Levico Terme RaiNews"
+        },
+        {
+          "title": "Krampus, i demoni natalizi presi a sassate e calci: annullata la tradizionale sfilata a Levico - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Krampus, i demoni natalizi presi a sassate e calci: annullata la tradizionale sfilata a Levico Fanpage"
+        },
+        {
+          "title": "Essere Krampus oggi: dalle sfilate in piazza ad Italia’s Got Talent - BZ News 24",
+          "source": "BZ News 24",
+          "pubDate": "Mon, 12 Dec 2022 08:00:00 GMT",
+          "description": "Essere Krampus oggi: dalle sfilate in piazza ad Italia’s Got Talent BZ News 24"
+        },
+        {
+          "title": "Pelli, corna e maschere: all'inferno coi Krampus - Trentino",
+          "source": "Trentino",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Pelli, corna e maschere: all'inferno coi Krampus Trentino"
+        },
+        {
+          "title": "La vera storia del Krampus, il mostruoso servitore di san Nicola - it.aleteia.org",
+          "source": "it.aleteia.org",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "La vera storia del Krampus, il mostruoso servitore di san Nicola it.aleteia.org"
+        },
+        {
+          "title": "Tiktok invaso dai Krampus, chi sono gli spaventosi demoni di San Nicola - VareseNews",
+          "source": "VareseNews",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Tiktok invaso dai Krampus, chi sono gli spaventosi demoni di San Nicola VareseNews"
+        },
+        {
+          "title": "Levico, Krampus aggrediti al Parco - Il T Quotidiano",
+          "source": "Il T Quotidiano",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Levico, Krampus aggrediti al Parco Il T Quotidiano"
+        }
+      ]
+    },
+    "Louis_van_Gaal": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Aloysius Paulus Maria van Gaal, detto Louis, è un dirigente sportivo, allenatore di calcio ed ex calciatore olandese, di ruolo difensore, consulente del consiglio d’amministrazione dell'Ajax.",
+      "news": [
+        {
+          "title": "Olanda, Van Gaal conferma l'addio da selezionatore - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Olanda, Van Gaal conferma l'addio da selezionatore Sky Sport"
+        },
+        {
+          "title": "Un’altra Olanda di Van Gaal - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Un’altra Olanda di Van Gaal Il Post"
+        },
+        {
+          "title": "Breve storia dell’odio di Van Gaal per l’Argentina - Ultimo Uomo",
+          "source": "Ultimo Uomo",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Breve storia dell’odio di Van Gaal per l’Argentina Ultimo Uomo"
+        },
+        {
+          "title": "Edgar Davids ha dovuto placare Messi: era andato dritto contro Van Gaal per regolare i conti - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Edgar Davids ha dovuto placare Messi: era andato dritto contro Van Gaal per regolare i conti Fanpage"
+        },
+        {
+          "title": "L'incredibile storia della scommessa vincente di van Gaal - bluewin.ch",
+          "source": "bluewin.ch",
+          "pubDate": "Fri, 09 Dec 2022 15:20:41 GMT",
+          "description": "L'incredibile storia della scommessa vincente di van Gaal bluewin.ch"
+        },
+        {
+          "title": "Perché Messi detesta Van Gaal: cosa c’è dietro lo scontro dopo Olanda-Argentina - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Perché Messi detesta Van Gaal: cosa c’è dietro lo scontro dopo Olanda-Argentina Corriere della Sera"
+        },
+        {
+          "title": "Olanda, Van Gaal: \"Di Maria dice che sono il peggiore? Anche Depay mi odiava, ora ci baciamo in bocca\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 08 Dec 2022 08:00:00 GMT",
+          "description": "Olanda, Van Gaal: \"Di Maria dice che sono il peggiore? Anche Depay mi odiava, ora ci baciamo in bocca\" la Repubblica"
+        },
+        {
+          "title": "Olanda-Argentina, tensioni ed esultanza provocatoria: la Fifa apre un'indagine. Messi contro van Gaal: «Non parli più?» - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Sun, 11 Dec 2022 08:00:00 GMT",
+          "description": "Olanda-Argentina, tensioni ed esultanza provocatoria: la Fifa apre un'indagine. Messi contro van Gaal: «Non parli più?» Il Messaggero"
+        },
+        {
+          "title": "Olanda-Argentina, Messi vs van Gaal: lo scontro - video - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Olanda-Argentina, Messi vs van Gaal: lo scontro - video Leggo.it"
+        },
+        {
+          "title": "Gli argentini hanno cercato di vendicare la vecchia faida tra Riquelme e Van Gaal? - Rivista Undici",
+          "source": "Rivista Undici",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Gli argentini hanno cercato di vendicare la vecchia faida tra Riquelme e Van Gaal? Rivista Undici"
+        }
+      ]
+    },
+    "Antonio_Panzeri": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Pier Antonio Panzeri, detto Antonio, è un sindacalista ed ex politico italiano, europarlamentare dal 2004 al 2019.",
+      "news": [
+        {
+          "title": "Chi è Antonio Panzeri, ex europarlamentare indagato a Bruxelles - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Chi è Antonio Panzeri, ex europarlamentare indagato a Bruxelles Sky TG24"
+        },
+        {
+          "title": "Panzeri, dalla Camera del lavoro ai soldi degli arabi: una vita a sinistra e per 15 anni al Parlamento europeo - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Panzeri, dalla Camera del lavoro ai soldi degli arabi: una vita a sinistra e per 15 anni al Parlamento europeo Il Sole 24 ORE"
+        },
+        {
+          "title": "L’ex eurodeputato Antonio Panzeri arrestato a Bruxelles per corruzione. Indagata la vicepresidente Kaili - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "L’ex eurodeputato Antonio Panzeri arrestato a Bruxelles per corruzione. Indagata la vicepresidente Kaili Corriere della Sera"
+        },
+        {
+          "title": "L' ex eurodeputato del PD Antonio Panzeri indagato a Bruxelles per corruzione - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "L' ex eurodeputato del PD Antonio Panzeri indagato a Bruxelles per corruzione RaiNews"
+        },
+        {
+          "title": "Corruzione dal Qatar al Parlamento: interrogati quattro italiani tra cui l'ex deputato Pd Panzeri - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Corruzione dal Qatar al Parlamento: interrogati quattro italiani tra cui l'ex deputato Pd Panzeri la Repubblica"
+        },
+        {
+          "title": "L’ex eurodeputato bergamasco Antonio Panzeri indagato a Bruxelles per corruzione - Prima Bergamo",
+          "source": "Prima Bergamo",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "L’ex eurodeputato bergamasco Antonio Panzeri indagato a Bruxelles per corruzione Prima Bergamo"
+        },
+        {
+          "title": "Due giornali belgi scrivono che quattro cittadini italiani, tra cui l’ex eurodeputato Pier Antonio Panzeri, sono indagati in un caso di corruzione internazionale - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Due giornali belgi scrivono che quattro cittadini italiani, tra cui l’ex eurodeputato Pier Antonio Panzeri, sono indagati in un caso di corruzione internazionale Il Post"
+        },
+        {
+          "title": "Sospetta corruzione dal Qatar, fermato Antonio Panzeri: ora nessuno lo conosce - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Sospetta corruzione dal Qatar, fermato Antonio Panzeri: ora nessuno lo conosce Il Giorno"
+        },
+        {
+          "title": "Sospetta corruzione dal Qatar: fermato a Bruxelles anche il bergamasco Antonio Panzeri - BergamoNews",
+          "source": "BergamoNews",
+          "pubDate": "Fri, 09 Dec 2022 08:00:00 GMT",
+          "description": "Sospetta corruzione dal Qatar: fermato a Bruxelles anche il bergamasco Antonio Panzeri BergamoNews"
+        },
+        {
+          "title": "Chi è Antonio Panzeri, indagato a Bruxelles per corruzione: dal sindacato al Parlamento Ue - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Sat, 10 Dec 2022 08:00:00 GMT",
+          "description": "Chi è Antonio Panzeri, indagato a Bruxelles per corruzione: dal sindacato al Parlamento Ue Corriere Milano"
+        }
+      ]
+    },
+    "Francesca_Fagnani": {
+      "fetched_at": "2026-11-06T16:51:33+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Francesca Fagnani è una giornalista, scrittrice e conduttrice televisiva italiana.",
+      "news": [
+        {
+          "title": "Sanremo 2023, Francesca Fagnani sarà co-conduttrice in una delle serate della kermesse - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Sanremo 2023, Francesca Fagnani sarà co-conduttrice in una delle serate della kermesse RaiNews"
+        },
+        {
+          "title": "Rai: Sanremo 2023, Francesca Fagnani co conduttrice con Amadeus - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Rai: Sanremo 2023, Francesca Fagnani co conduttrice con Amadeus Rai.it"
+        },
+        {
+          "title": "Francesca Fagnani co-conduttrice di Sanremo 2023 - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Francesca Fagnani co-conduttrice di Sanremo 2023 Rolling Stone Italia"
+        },
+        {
+          "title": "Francesca Fagnani a Sanremo: «Mentana? È felice, io ho già messo gli occhi su Ferragni e Morandi per Belve» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Francesca Fagnani a Sanremo: «Mentana? È felice, io ho già messo gli occhi su Ferragni e Morandi per Belve» Corriere della Sera"
+        },
+        {
+          "title": "Chi è Francesca Fagnani, la giornalista della trasmissione \"Belve\" che condurrà Sanremo: è la compagna di Enrico Mentana - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Chi è Francesca Fagnani, la giornalista della trasmissione \"Belve\" che condurrà Sanremo: è la compagna di Enrico Mentana Il Riformista"
+        },
+        {
+          "title": "Francesca Fagnani co-conduttrice di Sanremo 2023: che Belva sarà? - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Francesca Fagnani co-conduttrice di Sanremo 2023: che Belva sarà? Cosmopolitan"
+        },
+        {
+          "title": "Sanremo 2023, dopo Chiara Ferragni arriva Francesca Fagnani - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Sanremo 2023, dopo Chiara Ferragni arriva Francesca Fagnani iO Donna"
+        },
+        {
+          "title": "Sanremo 2023: Francesca Fagnani sarà una delle co-conduttrice della kermesse canora - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Sanremo 2023: Francesca Fagnani sarà una delle co-conduttrice della kermesse canora Movieplayer"
+        },
+        {
+          "title": "Conosciamo meglio Francesca Fagnani, prima co-conduttrice annunciata di Sanremo - ELLE",
+          "source": "ELLE",
+          "pubDate": "Mon, 05 Dec 2022 08:00:00 GMT",
+          "description": "Conosciamo meglio Francesca Fagnani, prima co-conduttrice annunciata di Sanremo ELLE"
+        },
+        {
+          "title": "La \"belva\" Francesca Fagnani al Festival di Sanremo, le Cavalier King Nina e Bice a casa con Mentana - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 06 Dec 2022 08:00:00 GMT",
+          "description": "La \"belva\" Francesca Fagnani al Festival di Sanremo, le Cavalier King Nina e Bice a casa con Mentana Fanpage"
+        }
+      ]
+    }
+  }
+}

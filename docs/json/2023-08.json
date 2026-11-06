@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Maurizio%20Costanzo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Maurizio_Costanzo",
       "article_url": "https://it.wikipedia.org/wiki/Maurizio_Costanzo",
-      "description": "giornalista, conduttore televisivo e radiofonico, accademico, scrittore, sceneggiatore e paroliere italiano (1938-2023)",
+      "description": "Giornalista e conduttore del Maurizio Costanzo Show, muore il 24 febbraio a 84 anni.",
       "image_filename": "Costanzobau_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Costanzobau_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Costanzobau_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Mare%20fuori&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Mare_fuori",
       "article_url": "https://it.wikipedia.org/wiki/Mare_fuori",
-      "description": "serie televisiva italiana del 2020",
+      "description": "Il 22 febbraio vanno in onda su Rai 2 il terzo e il quarto episodio della terza stagione della serie.",
       "image_filename": "Mare_fuori.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d5/Mare_fuori.png/1280px-Mare_fuori.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mare_fuori.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Maria%20De%20Filippi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Maria_De_Filippi",
       "article_url": "https://it.wikipedia.org/wiki/Maria_De_Filippi",
-      "description": "conduttrice televisiva, autrice televisiva e produttrice televisiva italiana (1961-)",
+      "description": "Conduttrice televisiva, è la moglie di Maurizio Costanzo, morto il 24 febbraio a 84 anni.",
       "image_filename": "Maria_De_Filippi_a_Sanremo_2009.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Maria_De_Filippi_a_Sanremo_2009.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maria_De_Filippi_a_Sanremo_2009.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Elly%20Schlein&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Elly_Schlein",
       "article_url": "https://it.wikipedia.org/wiki/Elly_Schlein",
-      "description": "politica italiana (1985-)",
+      "description": "Politica italiana, il 26 febbraio vince le primarie del Partito Democratico battendo Stefano Bonaccini.",
       "image_filename": "Elly_Schlein_in_2023_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Elly_Schlein_in_2023_%28cropped%29.jpg/1280px-Elly_Schlein_in_2023_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elly_Schlein_in_2023_(cropped).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Lidia%20Po%C3%ABt&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Lidia_Po%C3%ABt",
       "article_url": "https://it.wikipedia.org/wiki/Lidia_Po%C3%ABt",
-      "description": "avvocata italiana (1855-1949)",
+      "description": "Prima avvocata italiana, ispira la serie La legge di Lidia Poët, uscita su Netflix il 15 febbraio con Matilda De Angelis.",
       "image_filename": "Lidia-poët.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8d/Lidia-po%C3%ABt.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lidia-po%C3%ABt.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Megan%20%28film%202023%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Megan_(film_2023)",
       "article_url": "https://it.wikipedia.org/wiki/Megan_(film_2023)",
-      "description": "",
+      "description": "Film horror diretto da Gerard Johnstone, uscito nei cinema italiani il 4 gennaio. Il motivo del picco non è chiaro.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Mare%20fuori%20%28terza%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Episodi_di_Mare_fuori_(terza_stagione)",
       "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Mare_fuori_(terza_stagione)",
-      "description": "lista di episodi della terza stagione",
+      "description": "Il terzo e il quarto episodio vanno in onda il 22 febbraio su Rai 2, dopo la pubblicazione su RaiPlay.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Saverio%20Costanzo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Saverio_Costanzo",
       "article_url": "https://it.wikipedia.org/wiki/Saverio_Costanzo",
-      "description": "regista italiano (1975-)",
+      "description": "Regista italiano, è figlio del giornalista e conduttore Maurizio Costanzo, morto il 24 febbraio.",
       "image_filename": "Saverio_Costanzo_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Saverio_Costanzo_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Saverio_Costanzo_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Marta%20Flavi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Marta_Flavi",
       "article_url": "https://it.wikipedia.org/wiki/Marta_Flavi",
-      "description": "conduttrice televisiva italiana (1951-)",
+      "description": "Conduttrice televisiva ed ex moglie di Maurizio Costanzo, morto il 24 febbraio; il giorno dopo lo ricorda in un'intervista.",
       "image_filename": "Flavi_Costanzo.jpeg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/6/65/Flavi_Costanzo.jpeg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flavi_Costanzo.jpeg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Servizio pubblico radiotelevisivo italiano, senza picchi di visite rilevanti nella settimana.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Mare%20fuori%20%28prima%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Episodi_di_Mare_fuori_(prima_stagione)",
       "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Mare_fuori_(prima_stagione)",
-      "description": "lista di episodi della prima stagione",
+      "description": "La terza stagione di Mare fuori debutta su Rai 2 il 15 febbraio; il 22 vanno in onda il terzo e il quarto episodio.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Mare%20fuori%20%28seconda%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Episodi_di_Mare_fuori_(seconda_stagione)",
       "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Mare_fuori_(seconda_stagione)",
-      "description": "lista di episodi della seconda stagione",
+      "description": "La terza stagione di Mare fuori debutta su Rai 2 il 15 febbraio; il 22 vanno in onda il terzo e il quarto episodio.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Last%20of%20Us%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=The_Last_of_Us_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Last_of_Us_(serie_televisiva)",
-      "description": "serie televisiva statunitense del 2023",
+      "description": "Serie statunitense tratta dall'omonimo videogioco, il 20 febbraio va in onda su Sky Atlantic il sesto episodio.",
       "image_filename": "The_Last_of_Us_TV_logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Last_of_Us_TV_logo.svg/1280px-The_Last_of_Us_TV_logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Last_of_Us_TV_logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Whale%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=The_Whale_(film)",
       "article_url": "https://it.wikipedia.org/wiki/The_Whale_(film)",
-      "description": "film del 2022 diretto da Darren Aronofsky",
+      "description": "Film di Darren Aronofsky con Brendan Fraser, esce nei cinema italiani il 23 febbraio.",
       "image_filename": "TheWhale2022.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/68/TheWhale2022.png/1280px-TheWhale2022.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:TheWhale2022.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=P2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=P2",
       "article_url": "https://it.wikipedia.org/wiki/P2",
-      "description": "associazione per delinquere e loggia massonica aderente al Grande Oriente d'Italia, protagonista di un grave scandalo nel 1981",
+      "description": "Loggia massonica sciolta nel 1982, tra i suoi iscritti figura Maurizio Costanzo, morto il 24 febbraio.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Fiori%20sopra%20l%27inferno%20-%20I%20casi%20di%20Teresa%20Battaglia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Fiori_sopra_l%27inferno_-_I_casi_di_Teresa_Battaglia",
       "article_url": "https://it.wikipedia.org/wiki/Fiori_sopra_l%27inferno_-_I_casi_di_Teresa_Battaglia",
-      "description": "",
+      "description": "Serie italiana con Elena Sofia Ricci, va in onda il 20 febbraio su Rai 1 con la seconda puntata.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Episodi%20di%20The%20Last%20of%20Us&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Episodi_di_The_Last_of_Us",
       "article_url": "https://it.wikipedia.org/wiki/Episodi_di_The_Last_of_Us",
-      "description": "",
+      "description": "Il 20 febbraio va in onda su Sky Atlantic il sesto episodio della serie tratta dal videogioco The Last of Us.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Victor%20Osimhen&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Victor_Osimhen",
       "article_url": "https://it.wikipedia.org/wiki/Victor_Osimhen",
-      "description": "calciatore nigeriano (1998-)",
+      "description": "Attaccante nigeriano del Napoli, il 21 febbraio segna nella vittoria per 2-0 sull'Eintracht Francoforte in Champions League.",
       "image_filename": "Victor-osimhen-nigeria-2024-3-4.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Victor-osimhen-nigeria-2024-3-4.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Victor-osimhen-nigeria-2024-3-4.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Giovanna%20Ralli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Giovanna_Ralli",
       "article_url": "https://it.wikipedia.org/wiki/Giovanna_Ralli",
-      "description": "attrice italiana (1935-)",
+      "description": "Attrice italiana, aveva avuto una relazione con Maurizio Costanzo, morto il 24 febbraio; lo ricorda a Domenica In il 26.",
       "image_filename": "La_vita_agra_Ralli_cropped.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/La_vita_agra_Ralli_cropped.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_vita_agra_Ralli_cropped.png",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Societ%C3%A0%20Sportiva%20Calcio%20Napoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Societ%C3%A0_Sportiva_Calcio_Napoli",
       "article_url": "https://it.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
-      "description": "club calcistico italiano di Napoli",
+      "description": "Il 21 febbraio il Napoli batte 2-0 l'Eintracht Francoforte nell'andata degli ottavi di Champions League.",
       "image_filename": "SSC_Napoli_2025_(white_and_azure).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/1280px-SSC_Napoli_2025_%28white_and_azure%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:SSC_Napoli_2025_(white_and_azure).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Cristiano%20Ronaldo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Cristiano_Ronaldo",
       "article_url": "https://it.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "description": "calciatore portoghese (1985-)",
+      "description": "Attaccante portoghese dell'Al-Nassr, il 25 febbraio segna una tripletta nella vittoria per 3-0 contro il Damac.",
       "image_filename": "Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cristiano_Ronaldo_2275_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_2275_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Mercoled%C3%AC%20delle%20ceneri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Mercoled%C3%AC_delle_ceneri",
       "article_url": "https://it.wikipedia.org/wiki/Mercoled%C3%AC_delle_ceneri",
-      "description": "giorno di inizio della Quaresima",
+      "description": "Il 22 febbraio ricorre il Mercoledì delle ceneri, inizio della Quaresima nel rito romano.",
       "image_filename": "Crossofashes.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Crossofashes.jpg/1280px-Crossofashes.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Crossofashes.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Matilda%20De%20Angelis&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Matilda_De_Angelis",
       "article_url": "https://it.wikipedia.org/wiki/Matilda_De_Angelis",
-      "description": "attrice italiana (1995-)",
+      "description": "Attrice italiana, interpreta la protagonista della serie La legge di Lidia Poët, uscita su Netflix il 15 febbraio.",
       "image_filename": "Matilda_De_Angelis-7948.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matilda_De_Angelis-7948.jpg/1280px-Matilda_De_Angelis-7948.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matilda_De_Angelis-7948.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Brendan%20Fraser&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=Brendan_Fraser",
       "article_url": "https://it.wikipedia.org/wiki/Brendan_Fraser",
-      "description": "attore canadese naturalizzato statunitense (1968-)",
+      "description": "Attore canadese, è protagonista di The Whale, film di Darren Aronofsky uscito nei cinema italiani il 23 febbraio.",
       "image_filename": "Brendan_Fraser_October_2022.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Brendan_Fraser_October_2022.jpg/1280px-Brendan_Fraser_October_2022.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brendan_Fraser_October_2022.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=UEFA%20Champions%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/20/2023,cd_max:02/26/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-02-20&end=2023-02-26&pages=UEFA_Champions_League",
       "article_url": "https://it.wikipedia.org/wiki/UEFA_Champions_League",
-      "description": "massima competizione calcistica UEFA per squadre di club",
+      "description": "Il 21 e il 22 febbraio si giocano gli ottavi di andata: il Napoli batte l'Eintracht 2-0 e l'Inter supera il Porto 1-0.",
       "image_filename": "UEFA_Champions_League_logo_(2021).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/UEFA_Champions_League_logo_%282021%29.svg/1280px-UEFA_Champions_League_logo_%282021%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Champions_League_logo_(2021).svg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

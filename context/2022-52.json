@@ -1,0 +1,1399 @@
+{
+  "week": "2022-52",
+  "start_date": "2022-12-26",
+  "end_date": "2023-01-01",
+  "articles": {
+    "Pelé": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Pelé, pseudonimo di Edson Arantes do Nascimento, è stato un calciatore e dirigente sportivo brasiliano, di ruolo centrocampista o attaccante. È considerato uno dei più grandi calciatori di tutti i tempi.",
+      "news": [
+        {
+          "title": "Black & White Stories: Ciao Pelé - Juventus.com",
+          "source": "Juventus.com",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Black & White Stories: Ciao Pelé Juventus.com"
+        },
+        {
+          "title": "Pelé è morto, il re del calcio aveva 82 anni - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Pelé è morto, il re del calcio aveva 82 anni Corriere della Sera"
+        },
+        {
+          "title": "Pelé: ho avuto paura a Messico 1970 - FIFA",
+          "source": "FIFA",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Pelé: ho avuto paura a Messico 1970 FIFA"
+        },
+        {
+          "title": "Quando Pelé portò il calcio negli Stati Uniti, gli anni d'oro nei New York Cosmos - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Quando Pelé portò il calcio negli Stati Uniti, gli anni d'oro nei New York Cosmos RaiNews"
+        },
+        {
+          "title": "10 cose da sapere sul mito di Pelé, legate alla Roma - AS Roma",
+          "source": "AS Roma",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "10 cose da sapere sul mito di Pelé, legate alla Roma AS Roma"
+        },
+        {
+          "title": "Pelé, Brasile in lutto: quando si svolgeranno i funerali? - DAZN",
+          "source": "DAZN",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Pelé, Brasile in lutto: quando si svolgeranno i funerali? DAZN"
+        },
+        {
+          "title": "È morto Pelé: 'O Rei' aveva 82 anni - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "È morto Pelé: 'O Rei' aveva 82 anni Sky TG24"
+        },
+        {
+          "title": "Pelé è morto a 82 anni, a causa di un cancro - Olympics",
+          "source": "Olympics",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Pelé è morto a 82 anni, a causa di un cancro Olympics"
+        },
+        {
+          "title": "Pelé è morto: lo ricordiamo con tre momenti inediti - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Pelé è morto: lo ricordiamo con tre momenti inediti Wired Italia"
+        },
+        {
+          "title": "Il calcio piange la leggenda brasiliana Pelé - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Il calcio piange la leggenda brasiliana Pelé UEFA.com"
+        }
+      ]
+    },
+    "Papa_Benedetto_XVI": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Papa Benedetto XVI è stato il 265º papa della Chiesa cattolica e vescovo di Roma, 7º sovrano dello Stato della Città del Vaticano, primate d'Italia, oltre agli altri titoli propri del romano pontefice, dal 19 aprile 2005 al 28 febbraio 2013.",
+      "news": [
+        {
+          "title": "Le ultime parole di Benedetto XVI: “Signore ti amo!” - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "Le ultime parole di Benedetto XVI: “Signore ti amo!” Vatican News"
+        },
+        {
+          "title": "«La nostra riconoscenza a Benedetto XVI» - Meeting di Rimini",
+          "source": "Meeting di Rimini",
+          "pubDate": "Sat, 31 Dec 2022 10:51:18 GMT",
+          "description": "«La nostra riconoscenza a Benedetto XVI» Meeting di Rimini"
+        },
+        {
+          "title": "Benedetto XVI, il coraggio di un Papa conservatore - ISPI",
+          "source": "ISPI",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Benedetto XVI, il coraggio di un Papa conservatore ISPI"
+        },
+        {
+          "title": "Cordoglio e preghiera per la morte del papa emerito Benedetto XVI - Chiesa di Padova",
+          "source": "Chiesa di Padova",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Cordoglio e preghiera per la morte del papa emerito Benedetto XVI Chiesa di Padova"
+        },
+        {
+          "title": "Benedetto XVI, l’innamorato di Gesù - Azione Cattolica Italiana",
+          "source": "Azione Cattolica Italiana",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Benedetto XVI, l’innamorato di Gesù Azione Cattolica Italiana"
+        },
+        {
+          "title": "In morte di Papa Benedetto XVI, papa emerito - Le Grand Continent",
+          "source": "Le Grand Continent",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "In morte di Papa Benedetto XVI, papa emerito Le Grand Continent"
+        },
+        {
+          "title": "È morto Joseph Ratzinger, che fu papa Benedetto XVI - Wired",
+          "source": "Wired",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "È morto Joseph Ratzinger, che fu papa Benedetto XVI Wired"
+        },
+        {
+          "title": "Benedetto XVI, umile lavoratore nella vigna del Signore - Comunione e Liberazione",
+          "source": "Comunione e Liberazione",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Benedetto XVI, umile lavoratore nella vigna del Signore Comunione e Liberazione"
+        },
+        {
+          "title": "Cosa c’era dietro le dimissioni di papa Benedetto XVI - Domani",
+          "source": "Domani",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Cosa c’era dietro le dimissioni di papa Benedetto XVI Domani"
+        },
+        {
+          "title": "Scola: «Benedetto XVI, un amico, ma ancor più un padre» - Chiesa di Milano",
+          "source": "Chiesa di Milano",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Scola: «Benedetto XVI, un amico, ma ancor più un padre» Chiesa di Milano"
+        }
+      ]
+    },
+    "Cristiano_Ronaldo": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cristiano Ronaldo dos Santos Aveiro è un calciatore portoghese, attaccante dell'Al-Nassr, di cui è capitano. Con la nazionale portoghese, è diventato campione d'Europa nel 2016 e ha vinto la UEFA Nations League 2018-2019 e 2024-2025.",
+      "news": [
+        {
+          "title": "Cristiano Ronaldo è il calciatore più pagato al mondo, ma non il più ricco - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Cristiano Ronaldo è il calciatore più pagato al mondo, ma non il più ricco GQ Italia"
+        },
+        {
+          "title": "Cristiano Ronaldo cerca chef e maggiordomo per la sua nuova villa - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo cerca chef e maggiordomo per la sua nuova villa Sky Sport"
+        },
+        {
+          "title": "Cristiano Ronaldo ha firmato con l’Al Nassr: a lui un miliardo di euro fino al 2030 (ma giocherà solo fino al... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo ha firmato con l’Al Nassr: a lui un miliardo di euro fino al 2030 (ma giocherà solo fino al... Corriere della Sera"
+        },
+        {
+          "title": "Nuova avventura per Cristiano Ronaldo: ufficiale il trasferimento all'Al Nassr - DAZN",
+          "source": "DAZN",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Nuova avventura per Cristiano Ronaldo: ufficiale il trasferimento all'Al Nassr DAZN"
+        },
+        {
+          "title": "Ora è ufficiale, Cristiano Ronaldo ha firmato con l'Al Nassr: un miliardo di euro fino al 2030! - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Ora è ufficiale, Cristiano Ronaldo ha firmato con l'Al Nassr: un miliardo di euro fino al 2030! La Gazzetta dello Sport"
+        },
+        {
+          "title": "Cristiano Ronaldo e il “buen ritiro” in Arabia Saudita. La fine di un mito o l’inizio di una sfida? - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo e il “buen ritiro” in Arabia Saudita. La fine di un mito o l’inizio di una sfida? RaiNews"
+        },
+        {
+          "title": "Cristiano Ronaldo ha firmato con l'Al Nassr: non solo giocatore, così guadagnerà un miliardo di euro - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo ha firmato con l'Al Nassr: non solo giocatore, così guadagnerà un miliardo di euro Il Fatto Quotidiano"
+        },
+        {
+          "title": "Cristiano Ronaldo cerca un maggiordomo: seimila euro al mese per prendersi cura della villa da dieci milioni - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo cerca un maggiordomo: seimila euro al mese per prendersi cura della villa da dieci milioni la Repubblica"
+        },
+        {
+          "title": "Cristiano Ronaldo cerca maggiordomo e cuoco: stipendio da 6mila euro - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo cerca maggiordomo e cuoco: stipendio da 6mila euro Sky TG24"
+        },
+        {
+          "title": "E' ufficiale, Cristiano Ronaldo ha firmato con l'Al Nassr: contratto da 200 milioni a stagione - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "E' ufficiale, Cristiano Ronaldo ha firmato con l'Al Nassr: contratto da 200 milioni a stagione RaiNews"
+        }
+      ]
+    },
+    "Avatar_(film_2009)": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Avatar è un film del 2009 scritto, diretto, co-prodotto e co-montato da James Cameron.",
+      "news": [
+        {
+          "title": "Avatar 2, ecco come sono stati realizzati gli effetti visivi - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Avatar 2, ecco come sono stati realizzati gli effetti visivi Sky TG24"
+        },
+        {
+          "title": "Avatar, l’idea del film nacque da un furto di James Cameron: ecco come andò davvero - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Avatar, l’idea del film nacque da un furto di James Cameron: ecco come andò davvero Best Movie"
+        },
+        {
+          "title": "Successo per \"Avatar: la via dell'acqua\", supera 1 miliardo di dollari di incassi in tutto il mondo - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Successo per \"Avatar: la via dell'acqua\", supera 1 miliardo di dollari di incassi in tutto il mondo Fanpage"
+        },
+        {
+          "title": "Avatar 2: una bella epopea sull'ambientalismo - La Mente è Meravigliosa",
+          "source": "La Mente è Meravigliosa",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Avatar 2: una bella epopea sull'ambientalismo La Mente è Meravigliosa"
+        },
+        {
+          "title": "Perché Avatar non è recuperabile in 4K? Potrebbero presto esserci novità - Everyeye Tech",
+          "source": "Everyeye Tech",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Perché Avatar non è recuperabile in 4K? Potrebbero presto esserci novità Everyeye Tech"
+        }
+      ]
+    },
+    "Glass_Onion_-_Knives_Out": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Glass Onion: Knives Out è un film del 2022 scritto e diretto da Rian Johnson.",
+      "news": [
+        {
+          "title": "‘Glass Onion – Knives Out’: Daniel Craig, un giallo, stron*i ricchissimi… e meno sorprese - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "‘Glass Onion – Knives Out’: Daniel Craig, un giallo, stron*i ricchissimi… e meno sorprese Rolling Stone Italia"
+        },
+        {
+          "title": "Glass Onion: spiegazione del finale del film con Daniel Craig - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Glass Onion: spiegazione del finale del film con Daniel Craig Radio Deejay"
+        },
+        {
+          "title": "Hugh Grant: \"Nel sequel di Knives Out sono sposato con James Bond\" - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Hugh Grant: \"Nel sequel di Knives Out sono sposato con James Bond\" Sky TG24"
+        },
+        {
+          "title": "Glass Onion – Knives Out di Rian Johnson - Close-up - Storie della visione",
+          "source": "Close-up - Storie della visione",
+          "pubDate": "Mon, 26 Dec 2022 10:15:38 GMT",
+          "description": "Glass Onion – Knives Out di Rian Johnson Close-up - Storie della visione"
+        },
+        {
+          "title": "Glass Onion: sotto il primo strato, niente. La recensione del sequel di Knives Out - Best Movie",
+          "source": "Best Movie",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Glass Onion: sotto il primo strato, niente. La recensione del sequel di Knives Out Best Movie"
+        },
+        {
+          "title": "Glass Onion: la guida completa a tutti i cameo e riferimenti alle celebrità presenti nel film - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Glass Onion: la guida completa a tutti i cameo e riferimenti alle celebrità presenti nel film BadTaste"
+        },
+        {
+          "title": "Glass Onion - Knives Out: Rian Johnson ha già un'idea per Cena con delitto 3 ed è davvero spassosa! - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Glass Onion - Knives Out: Rian Johnson ha già un'idea per Cena con delitto 3 ed è davvero spassosa! ComingSoon.it"
+        },
+        {
+          "title": "\"Glass Onion: Knives Out\" è così stupido da risultare... geniale - SentireAscoltare",
+          "source": "SentireAscoltare",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "\"Glass Onion: Knives Out\" è così stupido da risultare... geniale SentireAscoltare"
+        },
+        {
+          "title": "Glass Onion - Knives Out, c'è anche una Porsche da 875 CV - Mondo Auto - AutoMoto - FormulaPassion",
+          "source": "FormulaPassion",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Glass Onion - Knives Out, c'è anche una Porsche da 875 CV - Mondo Auto - AutoMoto FormulaPassion"
+        },
+        {
+          "title": "Ricompare un'icona Porsche di 10 anni fa: Glass Onion - Knives Out la celebra - Automoto.it",
+          "source": "Automoto.it",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Ricompare un'icona Porsche di 10 anni fa: Glass Onion - Knives Out la celebra Automoto.it"
+        }
+      ]
+    },
+    "Franco_Frattini": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Franco Frattini è stato un politico e magistrato italiano.",
+      "news": [
+        {
+          "title": "L'ultimo saluto a Franco Frattini - AGI",
+          "source": "AGI",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "L'ultimo saluto a Franco Frattini AGI"
+        },
+        {
+          "title": "Le esequie di Stato per il Presidente del Consiglio di Stato Franco Frattini - Governo.it",
+          "source": "Governo.it",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Le esequie di Stato per il Presidente del Consiglio di Stato Franco Frattini Governo.it"
+        },
+        {
+          "title": "Scomparso Franco Frattini, il ricordo del Presidente Malagò: \"Ho perso un amico vero\" - Comitato Olimpico Nazionale",
+          "source": "Comitato Olimpico Nazionale",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Scomparso Franco Frattini, il ricordo del Presidente Malagò: \"Ho perso un amico vero\" Comitato Olimpico Nazionale"
+        },
+        {
+          "title": "Funerali di Stato per Franco Frattini, l'arrivo del feretro - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Funerali di Stato per Franco Frattini, l'arrivo del feretro RaiNews"
+        },
+        {
+          "title": "Addio a Franco Frattini, uomo di Stato - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Addio a Franco Frattini, uomo di Stato Il Sole 24 ORE"
+        },
+        {
+          "title": "Franco Frattini, a Roma i funerali di Stato dell’ex ministro. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Franco Frattini, a Roma i funerali di Stato dell’ex ministro. FOTO Sky TG24"
+        },
+        {
+          "title": "Il Presidente Sergio Mattarella alle Esequie di Stato del Cons. Franco Frattini, Presidente del Consiglio di Stato - Quirinale",
+          "source": "Quirinale",
+          "pubDate": "Tue, 27 Dec 2022 12:43:38 GMT",
+          "description": "Il Presidente Sergio Mattarella alle Esequie di Stato del Cons. Franco Frattini, Presidente del Consiglio di Stato Quirinale"
+        },
+        {
+          "title": "L'addio a Franco Frattini, a Roma in centinaia per i funerali di Stato - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "L'addio a Franco Frattini, a Roma in centinaia per i funerali di Stato RomaToday"
+        },
+        {
+          "title": "Funerali di Stato e picchetto d'onore per Franco Frattini. La Russa: \"Abbiamo condiviso momenti importanti\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Funerali di Stato e picchetto d'onore per Franco Frattini. La Russa: \"Abbiamo condiviso momenti importanti\" la Repubblica"
+        },
+        {
+          "title": "Franco Frattini, un grande \"uomo del silenzio\". Il ricordo di Tivelli - Formiche.net",
+          "source": "Formiche.net",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Franco Frattini, un grande \"uomo del silenzio\". Il ricordo di Tivelli Formiche.net"
+        }
+      ]
+    },
+    "Avatar_-_La_via_dell'acqua": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Avatar - La via dell'acqua è un film del 2022 co-scritto, diretto, co-prodotto e co-montato da James Cameron.",
+      "news": [
+        {
+          "title": "‘Avatar – La via dell’acqua’ è un atto di fede nel cinema - Birdmen Magazine",
+          "source": "Birdmen Magazine",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "‘Avatar – La via dell’acqua’ è un atto di fede nel cinema Birdmen Magazine"
+        },
+        {
+          "title": "Avatar: La Via dell’Acqua – Cinema, uomo e natura - ArteSettima",
+          "source": "ArteSettima",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "Avatar: La Via dell’Acqua – Cinema, uomo e natura ArteSettima"
+        },
+        {
+          "title": "Avatar - La via dell'acqua: padri, madri e figli in James Cameron - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Avatar - La via dell'acqua: padri, madri e figli in James Cameron Movieplayer"
+        },
+        {
+          "title": "Avatar: La via dell'acqua e la mano dipinta che inganna tutti - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Avatar: La via dell'acqua e la mano dipinta che inganna tutti ComingSoon.it"
+        },
+        {
+          "title": "\"Avatar - La via dell'acqua\" di James Cameron in versione 3D al Cinema Adriano di Firenze - Portale Giovani Comune di Firenze",
+          "source": "Portale Giovani Comune di Firenze",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "\"Avatar - La via dell'acqua\" di James Cameron in versione 3D al Cinema Adriano di Firenze Portale Giovani Comune di Firenze"
+        },
+        {
+          "title": "Avatar 2, cos’è davvero l’Amrita? Ecco 3 Teorie inedite! - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Avatar 2, cos’è davvero l’Amrita? Ecco 3 Teorie inedite! LaScimmiaPensa.com"
+        },
+        {
+          "title": "Cos'è l'Avatar Blues, la malinconia che colpisce gli spettatori dopo la visione del film - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Cos'è l'Avatar Blues, la malinconia che colpisce gli spettatori dopo la visione del film Cosmopolitan"
+        }
+      ]
+    },
+    "Andrew_Tate": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Emory Andrew Tate III è un imprenditore ed ex kickboxer statunitense con cittadinanza britannica.",
+      "news": [
+        {
+          "title": "I due giorni intensi dell’influencer misogino Andrew Tate - Il Post",
+          "source": "Il Post",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "I due giorni intensi dell’influencer misogino Andrew Tate Il Post"
+        },
+        {
+          "title": "Chi è Andrew Tate: il litigio con Greta Thunberg e l'arresto per tratta di esseri umani - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Chi è Andrew Tate: il litigio con Greta Thunberg e l'arresto per tratta di esseri umani Vanity Fair Italia"
+        },
+        {
+          "title": "Andrew Tate vs Greta, lezione di umiltà per chi sul web si crede invincibile - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Andrew Tate vs Greta, lezione di umiltà per chi sul web si crede invincibile la Repubblica"
+        },
+        {
+          "title": "Romania, arrestato Andrew Tate: il blitz della polizia - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Romania, arrestato Andrew Tate: il blitz della polizia Il Sole 24 ORE"
+        },
+        {
+          "title": "Andrew Tate, chi è l’ex kick boxer arrestato per tratta di esseri umani - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Andrew Tate, chi è l’ex kick boxer arrestato per tratta di esseri umani Corriere della Sera"
+        },
+        {
+          "title": "Greta Thunberg \"blasta\" Andrew Tate: \"Fatti una vita\". E il post diventa virale - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Greta Thunberg \"blasta\" Andrew Tate: \"Fatti una vita\". E il post diventa virale RaiNews"
+        },
+        {
+          "title": "Greta Thunberg contro provocazioni Andrew Tate su Twitter: 'Fatti una vita' - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Greta Thunberg contro provocazioni Andrew Tate su Twitter: 'Fatti una vita' Sky TG24"
+        },
+        {
+          "title": "Traffico di esseri umani: l'influencer Andrew Tate agli arresti per 30 giorni - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Traffico di esseri umani: l'influencer Andrew Tate agli arresti per 30 giorni Euronews.com"
+        },
+        {
+          "title": "Tutte le supercar di Andrew Tate: lusso estremo per l'ex kickboxer - Corriere dello Sport",
+          "source": "Corriere dello Sport",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Tutte le supercar di Andrew Tate: lusso estremo per l'ex kickboxer Corriere dello Sport"
+        },
+        {
+          "title": "L’ex kickboxer Tate arrestato in Romania con il fratello per tratta di esseri umani - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "L’ex kickboxer Tate arrestato in Romania con il fratello per tratta di esseri umani La Stampa"
+        }
+      ]
+    },
+    "C'era_una_volta_in_America": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "C'era una volta in America è un film del 1984 co-sceneggiato e diretto da Sergio Leone.",
+      "news": [
+        {
+          "title": "“C’era una volta in America”: cast, trama e trailer - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "“C’era una volta in America”: cast, trama e trailer TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Perché C’era una volta in America, l’epopea leggendaria di Sergio Leone, è il film da vedere stasera in tv - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Perché C’era una volta in America, l’epopea leggendaria di Sergio Leone, è il film da vedere stasera in tv Corriere Style"
+        },
+        {
+          "title": "«C’era una volta in America» restaurato dalla Cineteca di Bologna il film capolavoro di Sergio Leone - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "«C’era una volta in America» restaurato dalla Cineteca di Bologna il film capolavoro di Sergio Leone La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Grandi colonne sonore con il flautista di Morricone - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Grandi colonne sonore con il flautista di Morricone La Stampa"
+        },
+        {
+          "title": "“C’era una volta un cuore spezzato” di Stephanie Garber - Zeta Luiss",
+          "source": "Zeta Luiss",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "“C’era una volta un cuore spezzato” di Stephanie Garber Zeta Luiss"
+        },
+        {
+          "title": "C’era una volta in America: Robert De Niro e l’incontro “sporco” con Sergio Leone - CinemaSerieTV.it",
+          "source": "CinemaSerieTV.it",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "C’era una volta in America: Robert De Niro e l’incontro “sporco” con Sergio Leone CinemaSerieTV.it"
+        },
+        {
+          "title": "C'era una volta in America... ma le location del film sono anche in Italia - Donna Glamour",
+          "source": "Donna Glamour",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "C'era una volta in America... ma le location del film sono anche in Italia Donna Glamour"
+        }
+      ]
+    },
+    "Papa_Francesco": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Papa Francesco è stato il 266º papa della Chiesa cattolica e vescovo di Roma, 8º sovrano dello Stato della Città del Vaticano e primate d'Italia, oltre agli altri titoli propri del romano pontefice, dal 13 marzo 2013 fino alla morte.",
+      "news": [
+        {
+          "title": "Il Papa ricorda Benedetto XVI: grato a Dio per averlo donato alla Chiesa - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Il Papa ricorda Benedetto XVI: grato a Dio per averlo donato alla Chiesa Vatican News"
+        },
+        {
+          "title": "Incontri tra Papa Francesco e Benedetto XVI - www.omnesmag.com",
+          "source": "www.omnesmag.com",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Incontri tra Papa Francesco e Benedetto XVI www.omnesmag.com"
+        },
+        {
+          "title": "Papa Francesco: «Viviamo il nuovo anno come artigiani di pace» - Vita.it",
+          "source": "Vita.it",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Papa Francesco: «Viviamo il nuovo anno come artigiani di pace» Vita.it"
+        },
+        {
+          "title": "Benedetto XVI, le sue ultime parole e il rapporto con papa Francesco - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "Benedetto XVI, le sue ultime parole e il rapporto con papa Francesco Corriere della Sera"
+        },
+        {
+          "title": "Il 2022 di papa Francesco: un anno nel segno della pace - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Il 2022 di papa Francesco: un anno nel segno della pace Avvenire"
+        },
+        {
+          "title": "Melloni: \"Annuncio dimissioni di Papa Francesco una cosa buffa\" - La7",
+          "source": "La7",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Melloni: \"Annuncio dimissioni di Papa Francesco una cosa buffa\" La7"
+        },
+        {
+          "title": "Il Papa: preghiamo per Benedetto XVI, è malato e nel silenzio sostiene la Chiesa - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Il Papa: preghiamo per Benedetto XVI, è malato e nel silenzio sostiene la Chiesa Vatican News"
+        }
+      ]
+    },
+    "Elisabetta_di_Baviera": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Elisabetta Amalia Eugenia di Wittelsbach, detta Sisi, conosciuta con il nome di Sissi, fu imperatrice d'Austria, regina apostolica d'Ungheria, regina di Boemia e Croazia e moglie consorte di Francesco Giuseppe d'Austria, nata duchessa in Baviera.",
+      "news": [
+        {
+          "title": "Sissi 2: torna stasera la serie evento sull’imperatrice d’Austria (mai così sexy e già influencer) - Style Magazine",
+          "source": "Style Magazine",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Sissi 2: torna stasera la serie evento sull’imperatrice d’Austria (mai così sexy e già influencer) Style Magazine"
+        },
+        {
+          "title": "IL CORSETTO DELL’IMPERATRICE - Spietati",
+          "source": "Spietati",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "IL CORSETTO DELL’IMPERATRICE Spietati"
+        },
+        {
+          "title": "Sissi: Sissi Atto Secondo, le reazioni sui social alla prima puntata Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Sissi: Sissi Atto Secondo, le reazioni sui social alla prima puntata Video Mediaset Infinity"
+        },
+        {
+          "title": "15 le medaglie azzurre nel Pararowing fisico e ID nel 2022 - Federazione Italiana Canottaggio - Federazione Italiana Canottaggio",
+          "source": "Federazione Italiana Canottaggio",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "15 le medaglie azzurre nel Pararowing fisico e ID nel 2022 - Federazione Italiana Canottaggio Federazione Italiana Canottaggio"
+        },
+        {
+          "title": "Sissi 2, anticipazioni della seconda stagione su Canale 5 - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Sissi 2, anticipazioni della seconda stagione su Canale 5 Mediaset Infinity"
+        },
+        {
+          "title": "Sissi, il riassunto della prima stagione - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Sissi, il riassunto della prima stagione Mediaset Infinity"
+        },
+        {
+          "title": "Sissi, malattia e storia vera di Elisabetta di Baviera/ Dall’anoressia nervosa a come è morta - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Sissi, malattia e storia vera di Elisabetta di Baviera/ Dall’anoressia nervosa a come è morta IlSussidiario.net"
+        },
+        {
+          "title": "Sissi 2 trama completa: di cosa parla? - Tvserial.it",
+          "source": "Tvserial.it",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Sissi 2 trama completa: di cosa parla? Tvserial.it"
+        },
+        {
+          "title": "Francesco ‘Franz’ D’Austria, com’è morto il marito di Sissi/ Dai drammi d’amore alla malattia - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Francesco ‘Franz’ D’Austria, com’è morto il marito di Sissi/ Dai drammi d’amore alla malattia IlSussidiario.net"
+        },
+        {
+          "title": "Dominique Devenport: chi è l’attrice che interpreta Sissi - Tv per tutti",
+          "source": "Tv per tutti",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Dominique Devenport: chi è l’attrice che interpreta Sissi Tv per tutti"
+        }
+      ]
+    },
+    "Diego_Armando_Maradona": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Diego Armando Maradona è stato un calciatore, allenatore di calcio e dirigente sportivo argentino.",
+      "news": [
+        {
+          "title": "Pelè e Maradona, prima rivali poi amici: “E un giorno giocheremo insieme nel cielo” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Pelè e Maradona, prima rivali poi amici: “E un giorno giocheremo insieme nel cielo” Fanpage"
+        },
+        {
+          "title": "XII San Paolo Sport Day - www.fidal.it",
+          "source": "www.fidal.it",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "XII San Paolo Sport Day www.fidal.it"
+        },
+        {
+          "title": "Addio Pelè, quel dualismo con Maradona che non trovò mai un vero vincitore - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Addio Pelè, quel dualismo con Maradona che non trovò mai un vero vincitore Virgilio"
+        },
+        {
+          "title": "Maradona-Pelé, una rivalità diventata amicizia - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Maradona-Pelé, una rivalità diventata amicizia Corriere della Sera"
+        },
+        {
+          "title": "Quando Pelé salutò Maradona: \"Un giorno giocheremo in Paradiso\" - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Quando Pelé salutò Maradona: \"Un giorno giocheremo in Paradiso\" Sky TG24"
+        },
+        {
+          "title": "Quando Pelé salutò Maradona: \"Un giorno giocheremo in Paradiso\" - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Quando Pelé salutò Maradona: \"Un giorno giocheremo in Paradiso\" La Gazzetta dello Sport"
+        },
+        {
+          "title": "Pelé e Maradona: amici, nemici, rivali, ma soprattutto amici - Corriere del Ticino",
+          "source": "Corriere del Ticino",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Pelé e Maradona: amici, nemici, rivali, ma soprattutto amici Corriere del Ticino"
+        },
+        {
+          "title": "Pelé e Maradona, le due leggende dell’epoca dolce dei nostri sogni - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Pelé e Maradona, le due leggende dell’epoca dolce dei nostri sogni La Stampa"
+        },
+        {
+          "title": "Caccia all’uomo 41 anni dopo questa foto con Maradona: “Devo trovarlo, aiutatemi” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Caccia all’uomo 41 anni dopo questa foto con Maradona: “Devo trovarlo, aiutatemi” Fanpage"
+        },
+        {
+          "title": "Lo Stadio Maradona di Napoli sarà un museo con cimeli ed esposizioni interattive - Napolike.it",
+          "source": "Napolike.it",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Lo Stadio Maradona di Napoli sarà un museo con cimeli ed esposizioni interattive Napolike.it"
+        }
+      ]
+    },
+    "Papa_Giovanni_Paolo_II": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Papa Giovanni Paolo II è stato il 264º papa della Chiesa cattolica e vescovo di Roma, 6º sovrano dello Stato della Città del Vaticano, oltre agli altri titoli propri del romano pontefice, dal 16 ottobre 1978 fino alla morte.",
+      "news": [
+        {
+          "title": "Benedetto XVI e l’amicizia con Giovanni Paolo II e Francesco - RomaSette",
+          "source": "RomaSette",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Benedetto XVI e l’amicizia con Giovanni Paolo II e Francesco RomaSette"
+        },
+        {
+          "title": "Quarant’anni fa la visita di Giovanni Paolo II a Rieti e Greccio - Frontiera Rieti",
+          "source": "Frontiera Rieti",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Quarant’anni fa la visita di Giovanni Paolo II a Rieti e Greccio Frontiera Rieti"
+        },
+        {
+          "title": "Benedetto XVI riposerà nella tomba che fu di Giovanni Paolo II - ACI Stampa",
+          "source": "ACI Stampa",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Benedetto XVI riposerà nella tomba che fu di Giovanni Paolo II ACI Stampa"
+        },
+        {
+          "title": "Joseph Ratzinger: l’infanzia, il Vaticano, la rinuncia. La storia del papa emerito - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Joseph Ratzinger: l’infanzia, il Vaticano, la rinuncia. La storia del papa emerito Corriere della Sera"
+        },
+        {
+          "title": "È morto Joseph Ratzinger, l'uomo che fu tre volte Papa - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "È morto Joseph Ratzinger, l'uomo che fu tre volte Papa HuffPost Italia"
+        },
+        {
+          "title": "Le tappe del pontificato di Ratzinger - AGI",
+          "source": "AGI",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Le tappe del pontificato di Ratzinger AGI"
+        },
+        {
+          "title": "Il monastero, le suore, Giovanni Paolo II: il luogo scelto da Ratzinger per \"l'ultimo tratto di strada\" - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Il monastero, le suore, Giovanni Paolo II: il luogo scelto da Ratzinger per \"l'ultimo tratto di strada\" il Giornale"
+        },
+        {
+          "title": "Il cardinale Re: «Il Papa della fede lucido e sereno fino agli ultimi istanti» - Giornale di Brescia",
+          "source": "Giornale di Brescia",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Il cardinale Re: «Il Papa della fede lucido e sereno fino agli ultimi istanti» Giornale di Brescia"
+        },
+        {
+          "title": "Addio al pittore milanese Giorgio Salmoiraghi: dal ritratto di papa Giovanni Paolo II alla pubblicità della Barilla - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Addio al pittore milanese Giorgio Salmoiraghi: dal ritratto di papa Giovanni Paolo II alla pubblicità della Barilla Corriere Milano"
+        },
+        {
+          "title": "Ratzinger e Benelli Il patto di ferro segreto per risolvere il sequestro dei cugini Kronzucker - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Ratzinger e Benelli Il patto di ferro segreto per risolvere il sequestro dei cugini Kronzucker La Nazione"
+        }
+      ]
+    },
+    "Mercoledì_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mercoledì (Wednesday) è una serie televisiva statunitense ideata da Alfred Gough, Miles Millar e Tim Burton, ispirata ai personaggi della famiglia Addams, creata da Charles Addams per le sue vignette sul periodico The New Yorker nel 1939. L'opera viene prodotta in collaborazione con la piattaforma Netflix e la casa di produzione MGM Television.",
+      "news": [
+        {
+          "title": "«Mercoledì», il trailer della serie Tv Netflix con la regia di Tim Burton - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "«Mercoledì», il trailer della serie Tv Netflix con la regia di Tim Burton Corriere della Sera"
+        },
+        {
+          "title": "Christina Ricci ha interpretato Mercoledì Addams prima di Jenna Ortega - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Christina Ricci ha interpretato Mercoledì Addams prima di Jenna Ortega Cosmopolitan"
+        },
+        {
+          "title": "'Mercoledì', seconda stagione. Ecco cosa si sa - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "'Mercoledì', seconda stagione. Ecco cosa si sa la Repubblica"
+        },
+        {
+          "title": "Mercoledì: la pattinatrice russa Kamila Valieva ricrea sulla pista l'iconico ballo della serie Netflix - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Mercoledì: la pattinatrice russa Kamila Valieva ricrea sulla pista l'iconico ballo della serie Netflix Movieplayer"
+        },
+        {
+          "title": "«Mercoledì», la serie che celebra l’esaltazione del diverso - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "«Mercoledì», la serie che celebra l’esaltazione del diverso Corriere della Sera"
+        },
+        {
+          "title": "Mercoledì: C'è del tenero tra Enid e Mercoledì? Rispondono i creatori della serie - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "Mercoledì: C'è del tenero tra Enid e Mercoledì? Rispondono i creatori della serie ComingSoon.it"
+        }
+      ]
+    },
+    "Lionel_Messi": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lionel Andrés Messi Cuccittini, detto Leo, è un calciatore argentino, attaccante o centrocampista dell'Inter Miami, di cui è capitano. Con la nazionale argentina è diventato campione del mondo nel 2022, vicecampione del mondo nel 2014 e nel 2026 e campione del Sud America nel 2021 e nel 2024.",
+      "news": []
+    },
+    "Righeira": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Righeira sono stati un gruppo musicale italiano formato da Johnson Righeira e Michael Righeira, pseudonimi rispettivamente di Stefano Righi e Stefano Rota, che ottennero il loro maggior successo discografico negli anni ottanta, soprattutto con i successi Vamos a la playa (1983), No tengo dinero (1983) e L'estate sta finendo (1985).",
+      "news": [
+        {
+          "title": "Capodanno in tv: dal Festivalbar alla \"battaglia\" per l'audience fra Amadeus e Federica Panicucci - Vivo Umbria",
+          "source": "Vivo Umbria",
+          "pubDate": "Sat, 31 Dec 2022 13:40:11 GMT",
+          "description": "Capodanno in tv: dal Festivalbar alla \"battaglia\" per l'audience fra Amadeus e Federica Panicucci Vivo Umbria"
+        },
+        {
+          "title": "CANAVESE - Capodanno su Rai Uno: Johnson Righeira saluta il Canavese e l'Erbaluce - QC Quotidiano del Canavese",
+          "source": "QC Quotidiano del Canavese",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "CANAVESE - Capodanno su Rai Uno: Johnson Righeira saluta il Canavese e l'Erbaluce QC Quotidiano del Canavese"
+        }
+      ]
+    },
+    "Roberto_Bolle": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Roberto Bolle è un ballerino italiano.",
+      "news": [
+        {
+          "title": "Roberto Bolle - Danza con me 2023 - Quel ballerino è proprio Luca Zingaretti - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Roberto Bolle - Danza con me 2023 - Quel ballerino è proprio Luca Zingaretti - Video RaiPlay"
+        },
+        {
+          "title": "Il corpo che lotta contro malattia: Roberto Bolle danza per il maestro Ezio Bosso - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Il corpo che lotta contro malattia: Roberto Bolle danza per il maestro Ezio Bosso RaiNews"
+        },
+        {
+          "title": "Torna Danza con me, lo show di Roberto Bolle che porta la danza in tv. Tra gli ospiti, Alberto Angela - Finestre sull'Arte",
+          "source": "Finestre sull'Arte",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "Torna Danza con me, lo show di Roberto Bolle che porta la danza in tv. Tra gli ospiti, Alberto Angela Finestre sull'Arte"
+        },
+        {
+          "title": "Roberto Bolle - Danza con me 2023 - \"Onegin\" di John Cranko, di Roberto Bolle e Marianela Nuñez - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Roberto Bolle - Danza con me 2023 - \"Onegin\" di John Cranko, di Roberto Bolle e Marianela Nuñez - Video RaiPlay"
+        },
+        {
+          "title": "Roberto Bolle danza tra i capolavori delle Gallerie d'Italia, ed è emozione davanti a Caravaggio - Finestre sull'Arte",
+          "source": "Finestre sull'Arte",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "Roberto Bolle danza tra i capolavori delle Gallerie d'Italia, ed è emozione davanti a Caravaggio Finestre sull'Arte"
+        },
+        {
+          "title": "Roberto Bolle - Danza con me 2023 - \"Spring Waters\" di Asaf Messerer di Roberto Bolle e Fumi Kaneko - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Roberto Bolle - Danza con me 2023 - \"Spring Waters\" di Asaf Messerer di Roberto Bolle e Fumi Kaneko - Video RaiPlay"
+        },
+        {
+          "title": "Roberto Bolle - Danza con me 2023 - Roberto Bolle balla sulle note di Blanco con \"Blu Celeste\" - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Roberto Bolle - Danza con me 2023 - Roberto Bolle balla sulle note di Blanco con \"Blu Celeste\" - Video RaiPlay"
+        },
+        {
+          "title": "Roberto Bolle - Danza con me 2023 - Elio sfida Roberto Bolle a colpi di passi di danza nel metaverso - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Roberto Bolle - Danza con me 2023 - Elio sfida Roberto Bolle a colpi di passi di danza nel metaverso - Video RaiPlay"
+        },
+        {
+          "title": "Roberto Bolle - Danza con me 2023 - L'omaggio di Roberto Bolle al Maestro Ezio Bosso - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Roberto Bolle - Danza con me 2023 - L'omaggio di Roberto Bolle al Maestro Ezio Bosso - Video RaiPlay"
+        },
+        {
+          "title": "Roberto Bolle - Danza con me 2023 - \"La Bella Addormentata\" di Roberto Bolle e Yasmine Naghdi - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Roberto Bolle - Danza con me 2023 - \"La Bella Addormentata\" di Roberto Bolle e Yasmine Naghdi - Video RaiPlay"
+        }
+      ]
+    },
+    "Alice_in_Borderland_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Alice in Borderland  è una serie televisiva giapponese diretta da Shinsuke Sato di genere fantascientifico, thriller e drammatico basata sull'omonimo manga scritto e disegnato da Haro Asō.",
+      "news": [
+        {
+          "title": "Alice in Borderland, le foto del backstage - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Alice in Borderland, le foto del backstage Sky TG24"
+        },
+        {
+          "title": "Alice in Borderland 2, la recensione: risolvere l'enigma di Joker - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Alice in Borderland 2, la recensione: risolvere l'enigma di Joker Movieplayer"
+        },
+        {
+          "title": "Alice in Borderland 2: la rivelazione di un mondo - NPC Magazine",
+          "source": "NPC Magazine",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Alice in Borderland 2: la rivelazione di un mondo NPC Magazine"
+        },
+        {
+          "title": "Alice in Borderland (stagione 2), la recensione - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Alice in Borderland (stagione 2), la recensione BadTaste"
+        },
+        {
+          "title": "Alice in Borderland 2, recensione della seconda stagione - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "Alice in Borderland 2, recensione della seconda stagione LaScimmiaPensa.com"
+        },
+        {
+          "title": "Alice in Borderland 2, Recensione – Tra vita e morte - HyNerd",
+          "source": "HyNerd",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Alice in Borderland 2, Recensione – Tra vita e morte HyNerd"
+        },
+        {
+          "title": "Perché ci piacciono opere come Alice in Borderland e Squid Game? - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Perché ci piacciono opere come Alice in Borderland e Squid Game? Movieplayer"
+        },
+        {
+          "title": "Alice in Borderland: la spiegazione del finale della stagione 2 - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Alice in Borderland: la spiegazione del finale della stagione 2 BadTaste"
+        },
+        {
+          "title": "Come finisce Alice in Borderland 2: spiegazione del finale - DANinSERIES",
+          "source": "DANinSERIES",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Come finisce Alice in Borderland 2: spiegazione del finale DANinSERIES"
+        },
+        {
+          "title": "State adorando Alice in Borderland? Allora amerete ancora di più il fatto che esiste anche un anime - DANinSERIES",
+          "source": "DANinSERIES",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "State adorando Alice in Borderland? Allora amerete ancora di più il fatto che esiste anche un anime DANinSERIES"
+        }
+      ]
+    },
+    "José_Altafini": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "José João Altafini, noto in Brasile anche come Mazzola per la somiglianza con Valentino Mazzola, è un ex calciatore brasiliano naturalizzato italiano, di ruolo attaccante.\nHa fatto parte sia della nazionale brasiliana, con cui si è laureato campione del mondo nel 1958 sia, dal 1961 al 1962, di quella italiana.",
+      "news": [
+        {
+          "title": "Altafini: \"Pelé il più grande di tutti\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Altafini: \"Pelé il più grande di tutti\" RaiNews"
+        },
+        {
+          "title": "José Altafini cresciuto con Pelè: «L'ho amato, era il più grande» - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "José Altafini cresciuto con Pelè: «L'ho amato, era il più grande» Il Mattino"
+        },
+        {
+          "title": "Black & White Stories: Ciao Pelé - Juventus.com",
+          "source": "Juventus.com",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Black & White Stories: Ciao Pelé Juventus.com"
+        },
+        {
+          "title": "Altafini: “Pelé aveva 17 anni, io 19. In Svezia conquistammo il mondo come alla play” - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Altafini: “Pelé aveva 17 anni, io 19. In Svezia conquistammo il mondo come alla play” La Stampa"
+        },
+        {
+          "title": "Pelé è morto, il calcio in lutto: da Stallone a Falcao, tutti i messaggi - Corriere dello Sport",
+          "source": "Corriere dello Sport",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Pelé è morto, il calcio in lutto: da Stallone a Falcao, tutti i messaggi Corriere dello Sport"
+        },
+        {
+          "title": "Da Platini a Rivera, l'omaggio dei grandi per Pelé: \"Inutile fare classifiche\" - Sportmediaset",
+          "source": "Sportmediaset",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Da Platini a Rivera, l'omaggio dei grandi per Pelé: \"Inutile fare classifiche\" Sportmediaset"
+        },
+        {
+          "title": "Addio Pelé, leggenda del calcio - TGLA7",
+          "source": "TGLA7",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Addio Pelé, leggenda del calcio TGLA7"
+        },
+        {
+          "title": "Altafini: «Pelé ha avuto una carriera più usurante di quanto si creda, un logorio pazzesco» - ilNapolista",
+          "source": "ilNapolista",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Altafini: «Pelé ha avuto una carriera più usurante di quanto si creda, un logorio pazzesco» ilNapolista"
+        },
+        {
+          "title": "Pelè, il film su Prime Video: guardatelo coi vostri figli, conosceranno O Rei - Castelli Notizie",
+          "source": "Castelli Notizie",
+          "pubDate": "Thu, 29 Dec 2022 08:00:00 GMT",
+          "description": "Pelè, il film su Prime Video: guardatelo coi vostri figli, conosceranno O Rei Castelli Notizie"
+        }
+      ]
+    },
+    "Al-Nassr_Football_Club": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Al-Nassr Football Club, meglio noto come Al-Nassr, è una società calcistica saudita di Riad. Milita nella Lega saudita professionistica, la massima divisione del campionato saudita di calcio.",
+      "news": [
+        {
+          "title": "E' ufficiale, Cristiano Ronaldo ha firmato con l'Al Nassr: contratto da 200 milioni a stagione - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "E' ufficiale, Cristiano Ronaldo ha firmato con l'Al Nassr: contratto da 200 milioni a stagione RaiNews"
+        },
+        {
+          "title": "Nuova avventura per Cristiano Ronaldo: ufficiale il trasferimento all'Al Nassr - DAZN",
+          "source": "DAZN",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Nuova avventura per Cristiano Ronaldo: ufficiale il trasferimento all'Al Nassr DAZN"
+        },
+        {
+          "title": "Cristiano Ronaldo ha firmato con l'Al Nassr: «Non vedo l'ora di scoprire un nuovo campionato di calcio in un Paese diverso - Open",
+          "source": "Open",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo ha firmato con l'Al Nassr: «Non vedo l'ora di scoprire un nuovo campionato di calcio in un Paese diverso Open"
+        },
+        {
+          "title": "Ronaldo all'Al Nassr. La carriera, i trofei e i numeri del recordman - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Ronaldo all'Al Nassr. La carriera, i trofei e i numeri del recordman Sky TG24"
+        },
+        {
+          "title": "Cristiano Ronaldo è il calciatore più pagato al mondo, ma non il più ricco - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Cristiano Ronaldo è il calciatore più pagato al mondo, ma non il più ricco GQ Italia"
+        },
+        {
+          "title": "Cristiano Ronaldo verso l’Al Nassr: l’indizio che non lascia dubbi - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo verso l’Al Nassr: l’indizio che non lascia dubbi Virgilio"
+        },
+        {
+          "title": "Cristiano Ronaldo ha firmato per l'Al Nassr. Contratto fino al 2025, poi ambasciatore del calcio saudita: a lui un miliardo di euro - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo ha firmato per l'Al Nassr. Contratto fino al 2025, poi ambasciatore del calcio saudita: a lui un miliardo di euro Il Messaggero"
+        },
+        {
+          "title": "Cristiano Ronaldo e il “buen ritiro” in Arabia Saudita. La fine di un mito o l’inizio di una sfida? - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo e il “buen ritiro” in Arabia Saudita. La fine di un mito o l’inizio di una sfida? RaiNews"
+        },
+        {
+          "title": "Cristiano Ronaldo firma con l'Al Nassr: contratto record fino al 2025 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo firma con l'Al Nassr: contratto record fino al 2025 Sky TG24"
+        },
+        {
+          "title": "L'Arabia esaudita di Cristiano Ronaldo: sì all'Al Nassr, ingaggio monstre - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "L'Arabia esaudita di Cristiano Ronaldo: sì all'Al Nassr, ingaggio monstre Virgilio"
+        }
+      ]
+    },
+    "Film_con_maggiori_incassi_nella_storia_del_cinema": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Questa è la classifica dei film con maggiori incassi nella storia del cinema; gli incassi sono espressi in dollari statunitensi e non viene tenuto conto del tasso d'inflazione.",
+      "news": [
+        {
+          "title": "Successo per \"Avatar: la via dell'acqua\", supera 1 miliardo di dollari di incassi in tutto il mondo - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Successo per \"Avatar: la via dell'acqua\", supera 1 miliardo di dollari di incassi in tutto il mondo Fanpage"
+        },
+        {
+          "title": "\"Il Re Leone\" in live action - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "\"Il Re Leone\" in live action Rai.it"
+        },
+        {
+          "title": "Come stanno andando le feste 2022 nei cinema italiani? - CineGuru",
+          "source": "CineGuru",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Come stanno andando le feste 2022 nei cinema italiani? CineGuru"
+        },
+        {
+          "title": "6 film romantici perfetti per i sognatori - Esquire",
+          "source": "Esquire",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "6 film romantici perfetti per i sognatori Esquire"
+        },
+        {
+          "title": "Mai scommettere contro James Cameron: Avatar 2 supera il miliardo, e lo fa in tempi record - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Mai scommettere contro James Cameron: Avatar 2 supera il miliardo, e lo fa in tempi record Everyeye Cinema"
+        },
+        {
+          "title": "I migliori film del 2022: gli imperdibili da vedere assolutamente [classifica top 10] - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "I migliori film del 2022: gli imperdibili da vedere assolutamente [classifica top 10] Anonima Cinefili"
+        },
+        {
+          "title": "Avatar 2: il nuovo film boicottato a causa di un’intervista di James Cameron - Voci di Città",
+          "source": "Voci di Città",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Avatar 2: il nuovo film boicottato a causa di un’intervista di James Cameron Voci di Città"
+        },
+        {
+          "title": "Commedie italiane: i film di Checco Zalone che hanno fatto impazzire gli italiani - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Commedie italiane: i film di Checco Zalone che hanno fatto impazzire gli italiani Esquire"
+        },
+        {
+          "title": "Quanto conosci Avatar? Mettiti alla prova con questo QUIZ - VISTO TV",
+          "source": "VISTO TV",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Quanto conosci Avatar? Mettiti alla prova con questo QUIZ VISTO TV"
+        }
+      ]
+    },
+    "Jenna_Ortega": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Jenna Marie Ortega è un'attrice statunitense.",
+      "news": [
+        {
+          "title": "Christina Ricci ha interpretato Mercoledì Addams prima di Jenna Ortega - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Christina Ricci ha interpretato Mercoledì Addams prima di Jenna Ortega Cosmopolitan"
+        }
+      ]
+    },
+    "Cena_con_delitto_-_Knives_Out": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cena con delitto - Knives Out è un film del 2019 scritto e diretto da Rian Johnson.",
+      "news": [
+        {
+          "title": "Glass Onion - Knives Out: Rian Johnson ha già un'idea per Cena con delitto 3 ed è davvero spassosa! - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Glass Onion - Knives Out: Rian Johnson ha già un'idea per Cena con delitto 3 ed è davvero spassosa! ComingSoon.it"
+        },
+        {
+          "title": "‘Glass Onion – Knives Out’: Daniel Craig, un giallo, stron*i ricchissimi… e meno sorprese - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "‘Glass Onion – Knives Out’: Daniel Craig, un giallo, stron*i ricchissimi… e meno sorprese Rolling Stone Italia"
+        },
+        {
+          "title": "\"Glass Onion: Knives Out\" è così stupido da risultare... geniale - SentireAscoltare",
+          "source": "SentireAscoltare",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "\"Glass Onion: Knives Out\" è così stupido da risultare... geniale SentireAscoltare"
+        },
+        {
+          "title": "Glass Onion – Knives Out di Rian Johnson - Close-up - Storie della visione",
+          "source": "Close-up - Storie della visione",
+          "pubDate": "Mon, 26 Dec 2022 10:15:38 GMT",
+          "description": "Glass Onion – Knives Out di Rian Johnson Close-up - Storie della visione"
+        },
+        {
+          "title": "Knives Out, Daniel Craig ammette: 'Mai capito l'ossessione per il maglione di Chris Evans' - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Knives Out, Daniel Craig ammette: 'Mai capito l'ossessione per il maglione di Chris Evans' Everyeye Cinema"
+        },
+        {
+          "title": "Daniel Craig non capisce la popolarità del maglione di Chris Evans nel primo Knives Out - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Daniel Craig non capisce la popolarità del maglione di Chris Evans nel primo Knives Out BadTaste"
+        },
+        {
+          "title": "Glass Onion - Knives Out, c'è anche una Porsche da 875 CV - Mondo Auto - AutoMoto - FormulaPassion",
+          "source": "FormulaPassion",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Glass Onion - Knives Out, c'è anche una Porsche da 875 CV - Mondo Auto - AutoMoto FormulaPassion"
+        },
+        {
+          "title": "Glass Onion: ecco il riferimento \"nascosto\" al primo Knives Out - BadTaste",
+          "source": "BadTaste",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Glass Onion: ecco il riferimento \"nascosto\" al primo Knives Out BadTaste"
+        },
+        {
+          "title": "Glass Onion, Kate Hudson ammette di aver seguito una dieta particolare per la scena in bikini - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Glass Onion, Kate Hudson ammette di aver seguito una dieta particolare per la scena in bikini ComingSoon.it"
+        },
+        {
+          "title": "GLASS ONION – KNIVES OUT/ Un trattato giocoso sulla lotta di classe contemporanea - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "GLASS ONION – KNIVES OUT/ Un trattato giocoso sulla lotta di classe contemporanea IlSussidiario.net"
+        }
+      ]
+    },
+    "Billy_Elliot": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Billy Elliot è un film del 2000 scritto da Lee Hall e diretto da Stephen Daldry, ispirato alla vera storia del ballerino Philip Mosley.",
+      "news": [
+        {
+          "title": "Billy Elliot, 4 curiosità sul film di Stephen Daldry stasera in tv - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Billy Elliot, 4 curiosità sul film di Stephen Daldry stasera in tv Sky TG24"
+        },
+        {
+          "title": "Billy Elliot, trama, cast e curiosità del film - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Billy Elliot, trama, cast e curiosità del film ComingSoon.it"
+        },
+        {
+          "title": "Billy Elliot, stasera in tv (27 dicembre) su Italia 1: le 7 curiosità che non sai (ma dovresti sapere) sul film con Jamie Bell. Cast e trama - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Billy Elliot, stasera in tv (27 dicembre) su Italia 1: le 7 curiosità che non sai (ma dovresti sapere) sul film con Jamie Bell. Cast e trama Il Messaggero"
+        },
+        {
+          "title": "Billy Elliot: trama, cast, dove vederlo - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Mon, 26 Dec 2022 08:00:00 GMT",
+          "description": "Billy Elliot: trama, cast, dove vederlo Mediaset Infinity"
+        },
+        {
+          "title": "\"Billy Elliot\" - QuiMediaset",
+          "source": "QuiMediaset",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "\"Billy Elliot\" QuiMediaset"
+        },
+        {
+          "title": "The Hours, 20 anni dopo: storie di ordinaria infelicità - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "The Hours, 20 anni dopo: storie di ordinaria infelicità Movieplayer"
+        },
+        {
+          "title": "Jodie Foster ora indaga tra i ghiacciai, True Detective 4 sarà ambientato in Islanda: la serie tv diventa (quasi) horror - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Jodie Foster ora indaga tra i ghiacciai, True Detective 4 sarà ambientato in Islanda: la serie tv diventa (quasi) horror Il Messaggero"
+        },
+        {
+          "title": "Virna Lisi-La donna che rinunciò a Hollywood, stasera in tv su La7: il docu-film che racconta la storia della grande attrice scomparsa... - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Virna Lisi-La donna che rinunciò a Hollywood, stasera in tv su La7: il docu-film che racconta la storia della grande attrice scomparsa... Il Messaggero"
+        },
+        {
+          "title": "Billy Elliot, storia vera: chi è Philip Mosley/ Qual’è il significato del finale? - IlSussidiario.net",
+          "source": "IlSussidiario.net",
+          "pubDate": "Tue, 27 Dec 2022 08:00:00 GMT",
+          "description": "Billy Elliot, storia vera: chi è Philip Mosley/ Qual’è il significato del finale? IlSussidiario.net"
+        },
+        {
+          "title": "Ballerino Billy Elliot storia vera? Ecco chi ha ispirato il film - TAG24 by Unicusano",
+          "source": "TAG24 by Unicusano",
+          "pubDate": "Wed, 28 Dec 2022 08:00:00 GMT",
+          "description": "Ballerino Billy Elliot storia vera? Ecco chi ha ispirato il film TAG24 by Unicusano"
+        }
+      ]
+    },
+    "Ricchi_e_Poveri": {
+      "fetched_at": "2026-11-06T16:52:55+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Ricchi e Poveri sono un gruppo musicale italiano, originario di Genova, formato nel 1967.",
+      "news": [
+        {
+          "title": "Capodanno Rai, Perugia e l'Umbria in vetrina - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Capodanno Rai, Perugia e l'Umbria in vetrina RaiNews"
+        },
+        {
+          "title": "Dai Ricchi e Poveri a Paola e Chiara: i Sanremo di Amadeus nel segno delle reunion - DiLei",
+          "source": "DiLei",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Dai Ricchi e Poveri a Paola e Chiara: i Sanremo di Amadeus nel segno delle reunion DiLei"
+        },
+        {
+          "title": "L'anno che verrà, il concerto di Capodanno 2023 a Perugia e in tv sulla Rai - La Nazione",
+          "source": "La Nazione",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "L'anno che verrà, il concerto di Capodanno 2023 a Perugia e in tv sulla Rai La Nazione"
+        },
+        {
+          "title": "Il cardinale: «La Chiesa cammina accanto ai poveri, non ai ricchi e ai potenti» - La Provincia di Como",
+          "source": "La Provincia di Como",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Il cardinale: «La Chiesa cammina accanto ai poveri, non ai ricchi e ai potenti» La Provincia di Como"
+        },
+        {
+          "title": "Lavoratori poveri, poveri lavoratori - Collettiva",
+          "source": "Collettiva",
+          "pubDate": "Mon, 02 Jan 2023 08:00:00 GMT",
+          "description": "Lavoratori poveri, poveri lavoratori Collettiva"
+        },
+        {
+          "title": "Africa, il 56% della ricchezza privata è concentrata in tre Paesi: sono solo 143mila i super ricchi e centina… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 01 Jan 2023 08:00:00 GMT",
+          "description": "Africa, il 56% della ricchezza privata è concentrata in tre Paesi: sono solo 143mila i super ricchi e centina… la Repubblica"
+        },
+        {
+          "title": "Stadio in lutto: è morto il batterista Giovanni Pezzoli - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Fri, 30 Dec 2022 08:00:00 GMT",
+          "description": "Stadio in lutto: è morto il batterista Giovanni Pezzoli TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Angela Brambati: età, malattia, marito e figlio della brunetta dei ... - TAG24 by Unicusano",
+          "source": "TAG24 by Unicusano",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Angela Brambati: età, malattia, marito e figlio della brunetta dei ... TAG24 by Unicusano"
+        },
+        {
+          "title": "Chi è Angelo Sotgiu? Origini, vita privata e biografia del musicista dei Ricchi e Poveri - TAG24 by Unicusano",
+          "source": "TAG24 by Unicusano",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Chi è Angelo Sotgiu? Origini, vita privata e biografia del musicista dei Ricchi e Poveri TAG24 by Unicusano"
+        },
+        {
+          "title": "Marina Occhiena, chi è il marito Giuseppe Giordano: “Ho trovato tardi l’uomo giusto” - Metropolitan Magazine Italia",
+          "source": "Metropolitan Magazine Italia",
+          "pubDate": "Sat, 31 Dec 2022 08:00:00 GMT",
+          "description": "Marina Occhiena, chi è il marito Giuseppe Giordano: “Ho trovato tardi l’uomo giusto” Metropolitan Magazine Italia"
+        }
+      ]
+    }
+  }
+}

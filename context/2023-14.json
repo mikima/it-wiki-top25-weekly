@@ -1,0 +1,1417 @@
+{
+  "week": "2023-14",
+  "start_date": "2023-04-03",
+  "end_date": "2023-04-09",
+  "articles": {
+    "Silvio_Berlusconi": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Silvio Berlusconi è stato un imprenditore e politico italiano, fondatore del gruppo Fininvest e di Forza Italia, quattro volte Presidente del Consiglio dei ministri della Repubblica Italiana, il che lo rende attualmente il più longevo dell'Italia repubblicana.",
+      "news": [
+        {
+          "title": "Silvio Berlusconi, Marina, Paolo e Luigi escono dall'ospedale - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Silvio Berlusconi, Marina, Paolo e Luigi escono dall'ospedale Il Sole 24 ORE"
+        },
+        {
+          "title": "Silvio Berlusconi è ricoverato in terapia intensiva - MilanoToday",
+          "source": "MilanoToday",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Silvio Berlusconi è ricoverato in terapia intensiva MilanoToday"
+        },
+        {
+          "title": "Silvio Berlusconi ricoverato a Milano: «È in terapia intensiva» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Silvio Berlusconi ricoverato a Milano: «È in terapia intensiva» Vanity Fair Italia"
+        },
+        {
+          "title": "Silvio Berlusconi, quinta giornata tranquilla al San Raffaele - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "Silvio Berlusconi, quinta giornata tranquilla al San Raffaele Tgcom24"
+        },
+        {
+          "title": "Silvio Berlusconi ricoverato in terapia intensiva a Milano. Le condizioni sarebbero stabili - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Silvio Berlusconi ricoverato in terapia intensiva a Milano. Le condizioni sarebbero stabili Euronews.com"
+        },
+        {
+          "title": "Silvio Berlusconi ricoverato al San Raffaele: le ultime sulle sue condizioni - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Silvio Berlusconi ricoverato al San Raffaele: le ultime sulle sue condizioni La Gazzetta dello Sport"
+        },
+        {
+          "title": "Silvio Berlusconi, la famiglia sogna il passo indietro. Il partito regge e guarda a Tajani - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Silvio Berlusconi, la famiglia sogna il passo indietro. Il partito regge e guarda a Tajani Quotidiano Nazionale"
+        },
+        {
+          "title": "Silvio Berlusconi ricoverato in ospedale, le visite dei figli e dei parenti FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Silvio Berlusconi ricoverato in ospedale, le visite dei figli e dei parenti FOTO Sky TG24"
+        },
+        {
+          "title": "Oggi è un altro giorno 2022/23 - Silvio Berlusconi, seconda notte al San Raffaele - 07/04/2023 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Oggi è un altro giorno 2022/23 - Silvio Berlusconi, seconda notte al San Raffaele - 07/04/2023 - Video RaiPlay"
+        },
+        {
+          "title": "Tutti i 'mali' di Berlusconi: dal cuore, al menisco, al Covid, i tanti ricoveri del cavaliere - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Tutti i 'mali' di Berlusconi: dal cuore, al menisco, al Covid, i tanti ricoveri del cavaliere RaiNews"
+        }
+      ]
+    },
+    "Cocainorso": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cocainorso è un film del 2023 diretto da Elizabeth Banks.",
+      "news": [
+        {
+          "title": "Cocainorso, caos tutto italiano: vietato ai minori di 14 anni, poi di 18, poi ancora di 14 - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Cocainorso, caos tutto italiano: vietato ai minori di 14 anni, poi di 18, poi ancora di 14 Everyeye Cinema"
+        }
+      ]
+    },
+    "Scream_VI": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Scream VI è un film del 2023 diretto da Matt Bettinelli-Olpin e Tyler Gillett.",
+      "news": []
+    },
+    "Mare_fuori": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mare fuori è una serie televisiva italiana ideata da Cristiana Farina, scritta con Maurizio Careddu, prodotta da Rai Fiction e Picomedia.",
+      "news": [
+        {
+          "title": "\"Mare Fuori\" si sposta al Palazzetto dello Sport di Rovereto - Ufficio Stampa della Provincia autonoma di Trento",
+          "source": "Ufficio Stampa della Provincia autonoma di Trento",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "\"Mare Fuori\" si sposta al Palazzetto dello Sport di Rovereto Ufficio Stampa della Provincia autonoma di Trento"
+        },
+        {
+          "title": "Carolina Crescentini ha parlato dell'addio a Mare Fuori: «La gente mi abbraccia per strada» - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Carolina Crescentini ha parlato dell'addio a Mare Fuori: «La gente mi abbraccia per strada» Cosmopolitan"
+        },
+        {
+          "title": "La nuova serie con gli attori di Mare Fuori - Libero",
+          "source": "Libero",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "La nuova serie con gli attori di Mare Fuori Libero"
+        },
+        {
+          "title": "«I miei alunni stravedono per la serie Mare fuori, e io ho paura di fare la figura della boomer» - Famiglia Cristiana",
+          "source": "Famiglia Cristiana",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "«I miei alunni stravedono per la serie Mare fuori, e io ho paura di fare la figura della boomer» Famiglia Cristiana"
+        },
+        {
+          "title": "Massimiliano Caiazzo potrebbe non apparire in Mare Fuori 4 - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Massimiliano Caiazzo potrebbe non apparire in Mare Fuori 4 Cosmopolitan"
+        },
+        {
+          "title": "Mare Fuori 4 cast, chi lascia e chi rimane: cosa sappiamo - DiLei",
+          "source": "DiLei",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Mare Fuori 4 cast, chi lascia e chi rimane: cosa sappiamo DiLei"
+        },
+        {
+          "title": "Maria Esposito, Rosa Ricci in Mare Fuori, avrebbe rivelato per sbaglio il finale della terza stagione - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Maria Esposito, Rosa Ricci in Mare Fuori, avrebbe rivelato per sbaglio il finale della terza stagione Cosmopolitan"
+        },
+        {
+          "title": "Le scene più belle di Mare Fuori viste nella fiction Rai - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Le scene più belle di Mare Fuori viste nella fiction Rai Cosmopolitan"
+        }
+      ]
+    },
+    "Marta_Fascina": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Marta Antonia Fascina è una politica italiana, dal 23 marzo 2018 deputata alla Camera per Forza Italia.",
+      "news": [
+        {
+          "title": "Marta Fascina, sempre accanto a Silvio Berlusconi nel momento più difficile - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Marta Fascina, sempre accanto a Silvio Berlusconi nel momento più difficile Vanity Fair Italia"
+        },
+        {
+          "title": "Orazio Fascina, il padre di Marta, al San Raffaele: chi è l’ex cancelliere che Berlusconi chiama «papà» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 10 Apr 2023 07:00:00 GMT",
+          "description": "Orazio Fascina, il padre di Marta, al San Raffaele: chi è l’ex cancelliere che Berlusconi chiama «papà» Corriere della Sera"
+        },
+        {
+          "title": "Marta Fascina 'filtra' le notizie sul ricovero di Berlusconi: la privacy del leader prima di tutto - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Marta Fascina 'filtra' le notizie sul ricovero di Berlusconi: la privacy del leader prima di tutto la Repubblica"
+        },
+        {
+          "title": "Marta Fascina il tramite tra famiglia e partito, Meloni si informa chiamando Marina Berlusconi - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Marta Fascina il tramite tra famiglia e partito, Meloni si informa chiamando Marina Berlusconi Il Messaggero"
+        },
+        {
+          "title": "Il patto tra Marina Berlusconi e Marta Fascina - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Il patto tra Marina Berlusconi e Marta Fascina La Stampa"
+        },
+        {
+          "title": "Il delicato ruolo di Marta Fascina: \"Lei gestisce contatti\" - Il Digitale",
+          "source": "Il Digitale",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Il delicato ruolo di Marta Fascina: \"Lei gestisce contatti\" Il Digitale"
+        },
+        {
+          "title": "Silvio Berlusconi ricoverato: tutti i figli e Marta Fascina al suo capezzale - Today",
+          "source": "Today",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Silvio Berlusconi ricoverato: tutti i figli e Marta Fascina al suo capezzale Today"
+        },
+        {
+          "title": "Marta Fascina, la «moglie» di Berlusconi sempre accanto a lui: ha la delega piena a gestire tutti i contatti - Corriere Roma",
+          "source": "Corriere Roma",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Marta Fascina, la «moglie» di Berlusconi sempre accanto a lui: ha la delega piena a gestire tutti i contatti Corriere Roma"
+        },
+        {
+          "title": "Berlusconi ricoverato, il piano della famiglia: separare FI da Arcore. Il tentativo di Silvio con Marina: «Te ne occupi tu del... - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Berlusconi ricoverato, il piano della famiglia: separare FI da Arcore. Il tentativo di Silvio con Marina: «Te ne occupi tu del... Il Messaggero"
+        },
+        {
+          "title": "La 'rivoluzione Fascina' dentro Forza Italia continua: il nuovo tesoriere alla Camera è il suo amico Benigni - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "La 'rivoluzione Fascina' dentro Forza Italia continua: il nuovo tesoriere alla Camera è il suo amico Benigni la Repubblica"
+        }
+      ]
+    },
+    "Rocco_Schiavone_(serie_televisiva)": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rocco Schiavone è una serie televisiva italiana prodotta dal 2016 e trasmessa da Rai 2.",
+      "news": [
+        {
+          "title": "Rocco Schiavone riparte da Aosta: la quinta stagione dal 5 aprile - Italy for Movies",
+          "source": "Italy for Movies",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Rocco Schiavone riparte da Aosta: la quinta stagione dal 5 aprile Italy for Movies"
+        },
+        {
+          "title": "Stasera in tv torna Rocco Schiavone: nuove indagini e nuovi tormenti per il vicequestore Marco Giallini - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Stasera in tv torna Rocco Schiavone: nuove indagini e nuovi tormenti per il vicequestore Marco Giallini Amica.it"
+        },
+        {
+          "title": "Rocco Schiavone 5, Marco Giallini: \"È difficile fare una top 3 delle rotture di c**** nella vita, sono troppe\" - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Rocco Schiavone 5, Marco Giallini: \"È difficile fare una top 3 delle rotture di c**** nella vita, sono troppe\" Movieplayer"
+        },
+        {
+          "title": "Rocco Schiavone indaga in cima al Monte Bianco - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Rocco Schiavone indaga in cima al Monte Bianco TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Dove è stata girata \"Rocco Schiavone\": le location - Today",
+          "source": "Today",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Dove è stata girata \"Rocco Schiavone\": le location Today"
+        },
+        {
+          "title": "I libri di Rocco Schiavone che hanno ispirato la quinta stagione della fiction con Marco Giallini - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "I libri di Rocco Schiavone che hanno ispirato la quinta stagione della fiction con Marco Giallini Fanpage"
+        },
+        {
+          "title": "Stasera in tv torna Rocco Schiavone, il poliziotto che piace perché è un uomo imperfetto - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Stasera in tv torna Rocco Schiavone, il poliziotto che piace perché è un uomo imperfetto Corriere Style"
+        },
+        {
+          "title": "I nuovi episodi di 'Rocco Schiavone'. Dove eravamo rimasti - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "I nuovi episodi di 'Rocco Schiavone'. Dove eravamo rimasti la Repubblica"
+        },
+        {
+          "title": "Rocco Schiavone 5, la prima 'rottura' è sul Monte Bianco. Anticipazioni - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Rocco Schiavone 5, la prima 'rottura' è sul Monte Bianco. Anticipazioni Quotidiano Nazionale"
+        },
+        {
+          "title": "Marco Giallini: film, moglie, figli, laurea - Libero",
+          "source": "Libero",
+          "pubDate": "Tue, 04 Apr 2023 05:33:44 GMT",
+          "description": "Marco Giallini: film, moglie, figli, laurea Libero"
+        }
+      ]
+    },
+    "Avatar_-_La_via_dell'acqua": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Avatar - La via dell'acqua è un film del 2022 co-scritto, diretto, co-prodotto e co-montato da James Cameron.",
+      "news": [
+        {
+          "title": "Come Avatar: La via dell'acqua ha già introdotto il nuovo protagonista e perché - ComingSoon.it",
+          "source": "ComingSoon.it",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "Come Avatar: La via dell'acqua ha già introdotto il nuovo protagonista e perché ComingSoon.it"
+        },
+        {
+          "title": "The Abyss di James Cameron – Il filo nascosto - Techprincess",
+          "source": "Techprincess",
+          "pubDate": "Mon, 10 Apr 2023 07:00:00 GMT",
+          "description": "The Abyss di James Cameron – Il filo nascosto Techprincess"
+        },
+        {
+          "title": "Ottimo esordio in Italia per Super Mario Bros. – Il film - boxofficebiz.it",
+          "source": "boxofficebiz.it",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Ottimo esordio in Italia per Super Mario Bros. – Il film boxofficebiz.it"
+        },
+        {
+          "title": "Super Mario Bros. debutta oltre 1,2 milioni: il box office di mercoledì 5 aprile - CineGuru",
+          "source": "CineGuru",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. debutta oltre 1,2 milioni: il box office di mercoledì 5 aprile CineGuru"
+        },
+        {
+          "title": "Super Mario, D’Artagnan, Damon arruola Michael Jordan e altri 9 film da non perdere: Pasqua al cinema e in... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario, D’Artagnan, Damon arruola Michael Jordan e altri 9 film da non perdere: Pasqua al cinema e in... Corriere della Sera"
+        },
+        {
+          "title": "Carbonara Day 2023, dove mangiare la migliore a Roma: 10 indirizzi da non perdere - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Carbonara Day 2023, dove mangiare la migliore a Roma: 10 indirizzi da non perdere Fanpage"
+        },
+        {
+          "title": "Avatar: La via dell’acqua, 13 dettagli nascosti del film di James Cameron - Cinefilos.it",
+          "source": "Cinefilos.it",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Avatar: La via dell’acqua, 13 dettagli nascosti del film di James Cameron Cinefilos.it"
+        }
+      ]
+    },
+    "Pasqua": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Pasqua è una festa cristiana e culturale che commemora la resurrezione di Gesù dai morti, descritta nel Nuovo Testamento come avvenuta il terzo giorno della sua sepoltura dopo la sua crocifissione da parte dei Romani sul monte Calvario il 15 nisan 32 d.C. È il culmine della passione di Gesù, preceduta dalla Quaresima, un periodo di 40 giorni di digiuno, preghiera e penitenza. È una festa mobile e la principale solennità del cristianesimo.",
+      "news": [
+        {
+          "title": "Tante attività per tutti in occasione della Pasqua per le vie del Castello - Castello di Santa Severa",
+          "source": "Castello di Santa Severa",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Tante attività per tutti in occasione della Pasqua per le vie del Castello Castello di Santa Severa"
+        },
+        {
+          "title": "Pasqua e pasquetta ai Musei - Padova Cultura",
+          "source": "Padova Cultura",
+          "pubDate": "Thu, 06 Apr 2023 07:47:13 GMT",
+          "description": "Pasqua e pasquetta ai Musei Padova Cultura"
+        },
+        {
+          "title": "\"Culto Evangelico di Pasqua. Come vasi d'argilla in Eurovisione\" - 09/04/2023 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "\"Culto Evangelico di Pasqua. Come vasi d'argilla in Eurovisione\" - 09/04/2023 RaiPlay"
+        },
+        {
+          "title": "Turismo, a Pasqua e Pasquetta apertura straordinaria del Giardino Scotto - Comune di Pisa",
+          "source": "Comune di Pisa",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Turismo, a Pasqua e Pasquetta apertura straordinaria del Giardino Scotto Comune di Pisa"
+        },
+        {
+          "title": "Pasqua 2023: 100 uova, dono di MAWDY - ASL Biella",
+          "source": "ASL Biella",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Pasqua 2023: 100 uova, dono di MAWDY ASL Biella"
+        },
+        {
+          "title": "Vivere questa Santa Pasqua con un gesto di solidarietà - Comune di Cagliari",
+          "source": "Comune di Cagliari",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Vivere questa Santa Pasqua con un gesto di solidarietà Comune di Cagliari"
+        },
+        {
+          "title": "Pasqua e Pasquetta il Museo sarà regolarmente aperto - Museo e Real Bosco di Capodimonte",
+          "source": "Museo e Real Bosco di Capodimonte",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Pasqua e Pasquetta il Museo sarà regolarmente aperto Museo e Real Bosco di Capodimonte"
+        },
+        {
+          "title": "Dove mangiare a Pasqua e Pasquetta a Roma: 6 proposte \"last minute\" - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Dove mangiare a Pasqua e Pasquetta a Roma: 6 proposte \"last minute\" RomaToday"
+        },
+        {
+          "title": "2023, 09 aprile 2023: Auguri di Buona Pasqua a tutti voi - IRCCS Burlo Garofolo",
+          "source": "IRCCS Burlo Garofolo",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "2023, 09 aprile 2023: Auguri di Buona Pasqua a tutti voi IRCCS Burlo Garofolo"
+        },
+        {
+          "title": "Santo del giorno 05 Aprile 2023 Domenica di Pasqua – Resurrezione del Signore - Conferenza Episcopale Italiana",
+          "source": "Conferenza Episcopale Italiana",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Santo del giorno 05 Aprile 2023 Domenica di Pasqua – Resurrezione del Signore Conferenza Episcopale Italiana"
+        }
+      ]
+    },
+    "Super_Mario_Bros._-_Il_film": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Super Mario Bros. - Il film è un film d'animazione del 2023 diretto da Aaron Horvath e Michael Jelenic.",
+      "news": [
+        {
+          "title": "Super Mario Bros. - Il film - La recensione - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. - Il film - La recensione IGN Italia"
+        },
+        {
+          "title": "Super Mario Bros. Il film, ecco i migliori easter egg - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. Il film, ecco i migliori easter egg GQ Italia"
+        },
+        {
+          "title": "Super Mario Bros. La recensione del film - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. La recensione del film Sentieri selvaggi"
+        },
+        {
+          "title": "Super Mario Bros. Il Film: la recensione - Multiplayer",
+          "source": "Multiplayer",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. Il Film: la recensione Multiplayer"
+        },
+        {
+          "title": "Super Mario Bros - Il Film è il fan service elevato a scelta artistica - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario Bros - Il Film è il fan service elevato a scelta artistica Wired Italia"
+        },
+        {
+          "title": "La cosa migliore di Super Mario Bros. - Il film è Peach - Esquire",
+          "source": "Esquire",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "La cosa migliore di Super Mario Bros. - Il film è Peach Esquire"
+        },
+        {
+          "title": "Super Mario Bros. Il Film, la recensione: un adattamento al servizio dell'icona Nintendo - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. Il Film, la recensione: un adattamento al servizio dell'icona Nintendo Movieplayer"
+        },
+        {
+          "title": "\"Super Mario Bros. – Il film\" è arrivato al cinema - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "\"Super Mario Bros. – Il film\" è arrivato al cinema TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Super Mario Bros: un film perfetto tratto da un videogioco? Sembra di sì, finalmente! - Everyeye.it",
+          "source": "Everyeye.it",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario Bros: un film perfetto tratto da un videogioco? Sembra di sì, finalmente! Everyeye.it"
+        },
+        {
+          "title": "Super Mario Bros. - Il film - Cinematografo",
+          "source": "Cinematografo",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario Bros. - Il film Cinematografo"
+        }
+      ]
+    },
+    "ChatGPT": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "ChatGPT è un chat bot basato su intelligenza artificiale e apprendimento automatico, sviluppato dall'organizzazione di ricerca OpenAI.",
+      "news": [
+        {
+          "title": "Il Garante e ChatGpt si parlano dopo il gelo, prove d’intesa sull’intelligenza artificiale - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Il Garante e ChatGpt si parlano dopo il gelo, prove d’intesa sull’intelligenza artificiale la Repubblica"
+        },
+        {
+          "title": "ChatGPT: OpenAI collabora con il Garante privacy con impegni per tutelare gli utenti italiani - Garante Privacy",
+          "source": "Garante Privacy",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "ChatGPT: OpenAI collabora con il Garante privacy con impegni per tutelare gli utenti italiani Garante Privacy"
+        },
+        {
+          "title": "ChatGPT, più rischi o opportunità per la scuola? - Tecnica della Scuola",
+          "source": "Tecnica della Scuola",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "ChatGPT, più rischi o opportunità per la scuola? Tecnica della Scuola"
+        },
+        {
+          "title": "ChatGPT è il buco nero della privacy, il Garante ha fatto bene: ecco perché - Cyber Security 360",
+          "source": "Cyber Security 360",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "ChatGPT è il buco nero della privacy, il Garante ha fatto bene: ecco perché Cyber Security 360"
+        },
+        {
+          "title": "«ChatGpt? Mi ha già tolto il lavoro»: le testimonianze di lettori e lettrici sull'intelligenza artificiale - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "«ChatGpt? Mi ha già tolto il lavoro»: le testimonianze di lettori e lettrici sull'intelligenza artificiale Corriere della Sera"
+        },
+        {
+          "title": "ChatGPT: \"utile servitore o pericoloso padrone\"? - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "ChatGPT: \"utile servitore o pericoloso padrone\"? Il Sole 24 ORE"
+        },
+        {
+          "title": "Chat GPT viola il GDPR: quali sono gli effetti per le imprese dopo il blocco - Ipsoa",
+          "source": "Ipsoa",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Chat GPT viola il GDPR: quali sono gli effetti per le imprese dopo il blocco Ipsoa"
+        },
+        {
+          "title": "ChatGPT: Garante privacy, iniziato l’esame delle misure proposte da OpenAI - Garante Privacy",
+          "source": "Garante Privacy",
+          "pubDate": "Sat, 08 Apr 2023 13:15:27 GMT",
+          "description": "ChatGPT: Garante privacy, iniziato l’esame delle misure proposte da OpenAI Garante Privacy"
+        },
+        {
+          "title": "ChatGPT e GDPR: cosa è realmente accaduto e cosa potrà accadere a breve - Cyber Security 360",
+          "source": "Cyber Security 360",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "ChatGPT e GDPR: cosa è realmente accaduto e cosa potrà accadere a breve Cyber Security 360"
+        },
+        {
+          "title": "La privacy di ChatGPT fa rabbrividire il mondo: Canada, Europa, grandi aziende - Cyber Security 360",
+          "source": "Cyber Security 360",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "La privacy di ChatGPT fa rabbrividire il mondo: Canada, Europa, grandi aziende Cyber Security 360"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "StraMorgan - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 06 Apr 2023 10:24:04 GMT",
+          "description": "StraMorgan RaiPlay"
+        },
+        {
+          "title": "Basco Rosso - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 03 Apr 2023 23:42:48 GMT",
+          "description": "Basco Rosso RaiPlay"
+        },
+        {
+          "title": "Shake - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 05 Apr 2023 12:32:43 GMT",
+          "description": "Shake RaiPlay"
+        },
+        {
+          "title": "1917 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 06 Apr 2023 20:28:47 GMT",
+          "description": "1917 RaiPlay"
+        },
+        {
+          "title": "In Viaggio - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 07 Apr 2023 20:37:56 GMT",
+          "description": "In Viaggio RaiPlay"
+        },
+        {
+          "title": "OSN: la Pasqua dell'Orchestra Rai con grandi pagine wagneriane dirette da Fabio Luisi - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 06 Apr 2023 21:57:11 GMT",
+          "description": "OSN: la Pasqua dell'Orchestra Rai con grandi pagine wagneriane dirette da Fabio Luisi RaiPlay"
+        },
+        {
+          "title": "Amici per la pelle - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 09 Apr 2023 19:40:09 GMT",
+          "description": "Amici per la pelle RaiPlay"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Juventus-Inter, i precedenti in Coppa Italia - Juventus.com",
+          "source": "Juventus.com",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Juventus-Inter, i precedenti in Coppa Italia Juventus.com"
+        },
+        {
+          "title": "L’Italia nel 2100. Saremo 8,8 milioni di abitanti in meno ma vivremo più a lungo: quasi 9 anni in più gli uomini e 8 anni le donne - Quotidiano Sanità",
+          "source": "Quotidiano Sanità",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "L’Italia nel 2100. Saremo 8,8 milioni di abitanti in meno ma vivremo più a lungo: quasi 9 anni in più gli uomini e 8 anni le donne Quotidiano Sanità"
+        },
+        {
+          "title": "Viaggio in Italia, la voce del paese che risorgeva - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Viaggio in Italia, la voce del paese che risorgeva Il Bo Live"
+        },
+        {
+          "title": "Italia-Spagna, due test a Novarello: live YouTube Italbasket alle 17.00 - Federazione Italiana Pallacanestro",
+          "source": "Federazione Italiana Pallacanestro",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Italia-Spagna, due test a Novarello: live YouTube Italbasket alle 17.00 Federazione Italiana Pallacanestro"
+        },
+        {
+          "title": "Valle d’Aosta in primavera: 10 esperienze da non perdere - SiViaggia",
+          "source": "SiViaggia",
+          "pubDate": "Mon, 10 Apr 2023 07:00:00 GMT",
+          "description": "Valle d’Aosta in primavera: 10 esperienze da non perdere SiViaggia"
+        },
+        {
+          "title": "Paola Belloni, fidanzata di Elly Schlein, contro le foto rubate: «Si chiama outing e io ne sono stata travolta» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Paola Belloni, fidanzata di Elly Schlein, contro le foto rubate: «Si chiama outing e io ne sono stata travolta» Vanity Fair Italia"
+        },
+        {
+          "title": "MOURINHO “Le partite si vincono quando fai un gol in più dell’avversario” - Rivista LA ROMA",
+          "source": "Rivista LA ROMA",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "MOURINHO “Le partite si vincono quando fai un gol in più dell’avversario” Rivista LA ROMA"
+        }
+      ]
+    },
+    "Michelle_Hunziker": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Michelle Yvonne Hunziker è una conduttrice televisiva, showgirl, attrice e modella svizzera naturalizzata italiana.",
+      "news": [
+        {
+          "title": "Verissimo, Michelle Hunziker confessa: \"I corteggiatori fuggono da me per il pacchetto famiglia\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 10 Apr 2023 07:00:00 GMT",
+          "description": "Verissimo, Michelle Hunziker confessa: \"I corteggiatori fuggono da me per il pacchetto famiglia\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Michelle Hunziker su Instagram parla del nipote Cesare: «Non sarò nonna, ma mamma al cubo» - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Michelle Hunziker su Instagram parla del nipote Cesare: «Non sarò nonna, ma mamma al cubo» Cosmopolitan"
+        },
+        {
+          "title": "Michelle Hunziker: \"Ho assistito alla nascita di mio nipote Cesare\" - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "Michelle Hunziker: \"Ho assistito alla nascita di mio nipote Cesare\" Tgcom24"
+        },
+        {
+          "title": "Michelle Hunziker nonna: «Preferisco mamma al cubo» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Michelle Hunziker nonna: «Preferisco mamma al cubo» Vanity Fair Italia"
+        },
+        {
+          "title": "Michelle Hunziker a Verissimo: «Ho visto nascere Cesare, il figlio di Aurora» - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Mon, 10 Apr 2023 07:00:00 GMT",
+          "description": "Michelle Hunziker a Verissimo: «Ho visto nascere Cesare, il figlio di Aurora» Cosmopolitan"
+        },
+        {
+          "title": "Verissimo: Michelle Hunziker e il rapporto con Gerry Scotti Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "Verissimo: Michelle Hunziker e il rapporto con Gerry Scotti Video Mediaset Infinity"
+        },
+        {
+          "title": "Michelle Hunziker e Tomaso Trussardi, quando una storia finisce e l’amore si trasforma - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Michelle Hunziker e Tomaso Trussardi, quando una storia finisce e l’amore si trasforma Cosmopolitan"
+        },
+        {
+          "title": "Verissimo: Michelle Hunziker: l'intervista integrale Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "Verissimo: Michelle Hunziker: l'intervista integrale Video Mediaset Infinity"
+        },
+        {
+          "title": "Verissimo: Michelle Hunziker e l'amore Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "Verissimo: Michelle Hunziker e l'amore Video Mediaset Infinity"
+        },
+        {
+          "title": "Verissimo: Michelle Hunziker e il suo ritorno a \"Striscia la Notizia\" Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "Verissimo: Michelle Hunziker e il suo ritorno a \"Striscia la Notizia\" Video Mediaset Infinity"
+        }
+      ]
+    },
+    "Ryūichi_Sakamoto": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Ryūichi Sakamoto è stato un compositore e attore giapponese.",
+      "news": [
+        {
+          "title": "L’ultimo saluto di Ryuichi Sakamoto - LifeGate",
+          "source": "LifeGate",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "L’ultimo saluto di Ryuichi Sakamoto LifeGate"
+        },
+        {
+          "title": "Il ricordo di Ryuichi Sakamoto attraverso le sue più belle colonne sonore - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Il ricordo di Ryuichi Sakamoto attraverso le sue più belle colonne sonore Wired Italia"
+        },
+        {
+          "title": "Ryūichi Sakamoto e la scoperta dell’Altro - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Ryūichi Sakamoto e la scoperta dell’Altro Rolling Stone Italia"
+        },
+        {
+          "title": "Sakamoto, il professore magico - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Sakamoto, il professore magico il manifesto"
+        },
+        {
+          "title": "Addio a Ryūichi Sakamoto, l’Ultimo Imperatore - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Addio a Ryūichi Sakamoto, l’Ultimo Imperatore Movieplayer"
+        },
+        {
+          "title": "Addio a Ryuichi Sakamoto: come cambiò la musica nei videogiochi - Everyeye.it",
+          "source": "Everyeye.it",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Addio a Ryuichi Sakamoto: come cambiò la musica nei videogiochi Everyeye.it"
+        },
+        {
+          "title": "Quando Ryuichi Sakamoto raccontò: \"Per la morte di Bertolucci mi sono seduto al piano e ho scritto per lui\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Quando Ryuichi Sakamoto raccontò: \"Per la morte di Bertolucci mi sono seduto al piano e ho scritto per lui\" la Repubblica"
+        },
+        {
+          "title": "Le ultime parole e l’ultimo concerto di Ryuichi Sakamoto - Rivista Studio",
+          "source": "Rivista Studio",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Le ultime parole e l’ultimo concerto di Ryuichi Sakamoto Rivista Studio"
+        },
+        {
+          "title": "Sette dischi per cominciare a capire Ryūichi Sakamoto - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Sette dischi per cominciare a capire Ryūichi Sakamoto Rolling Stone Italia"
+        },
+        {
+          "title": "La musica in lutto per Ryuichi Sakamoto - MyWhere",
+          "source": "MyWhere",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "La musica in lutto per Ryuichi Sakamoto MyWhere"
+        }
+      ]
+    },
+    "Società_Sportiva_Calcio_Napoli": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Società Sportiva Calcio Napoli, meglio nota come Napoli, è una società calcistica italiana della città di Napoli. Milita in Serie A, la massima serie del campionato italiano.",
+      "news": [
+        {
+          "title": "Nota del Napoli: \"Allo stadio possono entrare bandiere e striscioni\" - Quotidiano Napoli",
+          "source": "Quotidiano Napoli",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Nota del Napoli: \"Allo stadio possono entrare bandiere e striscioni\" Quotidiano Napoli"
+        },
+        {
+          "title": "Gli stadi, i diritti tv, il ruolo dei fondi: l’insolito duetto De Laurentiis-Scaroni ospiti del Sole - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Gli stadi, i diritti tv, il ruolo dei fondi: l’insolito duetto De Laurentiis-Scaroni ospiti del Sole Il Sole 24 ORE"
+        },
+        {
+          "title": "De Laurentiis, gli ultras e i napoletani per bene. Aspettando lo scudetto nella città in vendita - Napoli Monitor",
+          "source": "Napoli Monitor",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "De Laurentiis, gli ultras e i napoletani per bene. Aspettando lo scudetto nella città in vendita Napoli Monitor"
+        },
+        {
+          "title": "Al Maradona il tifo nel caos: cronaca e ragioni di una surreale follia – Video - Stylo24",
+          "source": "Stylo24",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Al Maradona il tifo nel caos: cronaca e ragioni di una surreale follia – Video Stylo24"
+        },
+        {
+          "title": "Plusvalenze Lazio, Roma e Salernitana: le operazioni sotto accusa - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Plusvalenze Lazio, Roma e Salernitana: le operazioni sotto accusa Corriere della Sera"
+        },
+        {
+          "title": "Esclusivo – Ultras del Milan sconfessano ADL: «Richiesta fatta dal nostro SLO» - Stylo24",
+          "source": "Stylo24",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Esclusivo – Ultras del Milan sconfessano ADL: «Richiesta fatta dal nostro SLO» Stylo24"
+        },
+        {
+          "title": "Il dovere di sorveglianza degli allenatori sportivi, cenni sulla responsabilità - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Il dovere di sorveglianza degli allenatori sportivi, cenni sulla responsabilità Il Sole 24 ORE"
+        },
+        {
+          "title": "Tifosi e violenza: 127 daspo in tre mesi emessi dalla questura di Napoli - Ottopagine",
+          "source": "Ottopagine",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Tifosi e violenza: 127 daspo in tre mesi emessi dalla questura di Napoli Ottopagine"
+        }
+      ]
+    },
+    "Le_cose_che_non_ti_ho_detto_(film)": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Le cose che non ti ho detto è un film del 2018 diretto da William Nicholson.",
+      "news": [
+        {
+          "title": "Le cose che non ti ho detto, trama e cast del film di stasera su Rai 3 - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Le cose che non ti ho detto, trama e cast del film di stasera su Rai 3 Movieplayer"
+        },
+        {
+          "title": "Film stasera in TV da non perdere sabato 8 aprile 2023 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Film stasera in TV da non perdere sabato 8 aprile 2023 Sky TG24"
+        },
+        {
+          "title": "Bugo replica a Morgan dopo il pezzo su Rolling: «Dove sono i tuoi dischi? Non ti vuole nessuno» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Bugo replica a Morgan dopo il pezzo su Rolling: «Dove sono i tuoi dischi? Non ti vuole nessuno» Rolling Stone Italia"
+        },
+        {
+          "title": "Annalisa: «\"Bellissima\" nasce da un due di picche che ho preso. La laurea in fisica la mia marcia in più» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Annalisa: «\"Bellissima\" nasce da un due di picche che ho preso. La laurea in fisica la mia marcia in più» Corriere della Sera"
+        },
+        {
+          "title": "Eleonora Giorgi: \"Ho detto no ad Alain Delon, Jack Nicholson e Moravia. Sono stata una stupida\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 10 Apr 2023 07:00:00 GMT",
+          "description": "Eleonora Giorgi: \"Ho detto no ad Alain Delon, Jack Nicholson e Moravia. Sono stata una stupida\" la Repubblica"
+        },
+        {
+          "title": "Dente ha scritto dieci nuove canzoni con se stesso - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Dente ha scritto dieci nuove canzoni con se stesso Rolling Stone Italia"
+        },
+        {
+          "title": "Le cose che non ti ho detto, la poesia finale: testo, traduzione in italiano e significato - CinemaSerieTV.it",
+          "source": "CinemaSerieTV.it",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Le cose che non ti ho detto, la poesia finale: testo, traduzione in italiano e significato CinemaSerieTV.it"
+        },
+        {
+          "title": "Le cose che non ti ho detto film, trama, cast, finale, dove è girato - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Le cose che non ti ho detto film, trama, cast, finale, dove è girato Marida Caterini"
+        },
+        {
+          "title": "Killing Jesus film, trama, attori, cast, finale, dove è girato, location - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Killing Jesus film, trama, attori, cast, finale, dove è girato, location Marida Caterini"
+        }
+      ]
+    },
+    "Attentato_di_via_Rasella": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'attentato di via Rasella fu un'azione della Resistenza romana condotta il 23 marzo 1944 dai Gruppi di Azione Patriottica (GAP), unità partigiane del Partito Comunista Italiano, contro un reparto delle forze d'occupazione tedesche, l'11ª Compagnia del III Battaglione del Polizeiregiment \"Bozen\", appartenente alla Ordnungspolizei e composto da reclute altoatesine. Fu il più sanguinoso e clamoroso attentato urbano antitedesco in tutta l'Europa occidentale.",
+      "news": [
+        {
+          "title": "Le reazioni online alle dichiarazioni di La Russa su via Rasella - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Le reazioni online alle dichiarazioni di La Russa su via Rasella la Repubblica"
+        },
+        {
+          "title": "Per Meloni le parole di La Russa su via Rasella erano «una sgrammaticatura istituzionale» - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Per Meloni le parole di La Russa su via Rasella erano «una sgrammaticatura istituzionale» Il Post"
+        },
+        {
+          "title": "Via Rasella, la nuova opera di Laika intitolata \"Dimissioni!\" - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Via Rasella, la nuova opera di Laika intitolata \"Dimissioni!\" Sky TG24"
+        },
+        {
+          "title": "Via Rasella, così si svolsero i fatti - 24Emilia",
+          "source": "24Emilia",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Via Rasella, così si svolsero i fatti 24Emilia"
+        },
+        {
+          "title": "VIDEO | Via Rasella, il flash mob contro il revisionismo del presidente La Russa - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "VIDEO | Via Rasella, il flash mob contro il revisionismo del presidente La Russa RomaToday"
+        },
+        {
+          "title": "Via Rasella, flash mob dopo le parole shock di La Russa: \"Si dimetta. Onore ai Gap\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Via Rasella, flash mob dopo le parole shock di La Russa: \"Si dimetta. Onore ai Gap\" la Repubblica"
+        },
+        {
+          "title": "Via Rasella, anche i muri ora urlano: “Dimissioni!” - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Via Rasella, anche i muri ora urlano: “Dimissioni!” La Stampa"
+        },
+        {
+          "title": "\"Via Rasella anche alla Sapienza\": collettivi contro \"fasci\", alta tensione alla facoltà di Giurisprudenza - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "\"Via Rasella anche alla Sapienza\": collettivi contro \"fasci\", alta tensione alla facoltà di Giurisprudenza RomaToday"
+        },
+        {
+          "title": "Lo «sgrammaticato» La Russa e il terrorista nero - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Lo «sgrammaticato» La Russa e il terrorista nero il manifesto"
+        },
+        {
+          "title": "Via Tasso, record di ingressi al museo della Liberazione. \"È un pellegrinaggio civile\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Via Tasso, record di ingressi al museo della Liberazione. \"È un pellegrinaggio civile\" la Repubblica"
+        }
+      ]
+    },
+    "NATO": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La NATO, Organizzazione del Trattato dell'Atlantico del Nord è un'alleanza militare intergovernativa nel settore della difesa, che include trentadue Stati membri, di cui trenta europei e due nordamericani, e che è stata istituita all'indomani della Seconda guerra mondiale. Il trattato istitutivo della NATO, il Patto Atlantico, fu firmato a Washington il 4 aprile 1949 ed entrò in vigore il 24 agosto dello stesso anno.",
+      "news": [
+        {
+          "title": "NATO: l’unione fa la forza? - ISPI",
+          "source": "ISPI",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "NATO: l’unione fa la forza? ISPI"
+        },
+        {
+          "title": "La Finlandia entra nella Nato, Mosca reagisce: pronti a rafforzarci a Nordovest - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "La Finlandia entra nella Nato, Mosca reagisce: pronti a rafforzarci a Nordovest Il Sole 24 ORE"
+        },
+        {
+          "title": "Da oggi la Finlandia è il 31esimo Paese membro della Nato - Eunews",
+          "source": "Eunews",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Da oggi la Finlandia è il 31esimo Paese membro della Nato Eunews"
+        },
+        {
+          "title": "Nato, cos'è l'Alleanza Atlantica e quali sono i Paesi membri: la storia dal 1949 al 2023 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Nato, cos'è l'Alleanza Atlantica e quali sono i Paesi membri: la storia dal 1949 al 2023 Sky TG24"
+        },
+        {
+          "title": "74° anniversario della NATO - Ministero della Difesa",
+          "source": "Ministero della Difesa",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "74° anniversario della NATO Ministero della Difesa"
+        },
+        {
+          "title": "La Finlandia è entrata nella NATO - Il Post",
+          "source": "Il Post",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "La Finlandia è entrata nella NATO Il Post"
+        },
+        {
+          "title": "La Finlandia è appena entrata nella NATO, e nel nostro Occidente immaginario - Esquire",
+          "source": "Esquire",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "La Finlandia è appena entrata nella NATO, e nel nostro Occidente immaginario Esquire"
+        },
+        {
+          "title": "I Paesi della Nato sono diventati 31 con l'adesione della Finlandia - Truenumbers",
+          "source": "Truenumbers",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "I Paesi della Nato sono diventati 31 con l'adesione della Finlandia Truenumbers"
+        },
+        {
+          "title": "La NATO spiegata: nascita, scopi e implicazioni attuali - Wise Society",
+          "source": "Wise Society",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "La NATO spiegata: nascita, scopi e implicazioni attuali Wise Society"
+        },
+        {
+          "title": "Finlandia nella Nato, Stoltenberg: \"Helsinki più sicura, momento storico\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Finlandia nella Nato, Stoltenberg: \"Helsinki più sicura, momento storico\" RaiNews"
+        }
+      ]
+    },
+    "La_passione_di_Cristo_(film_2004)": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La passione di Cristo è un film del 2004 diretto da Mel Gibson.",
+      "news": [
+        {
+          "title": "Mel Gibson ricorda Christo Jivkov, star de La passione di Cristo - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Mel Gibson ricorda Christo Jivkov, star de La passione di Cristo Sky TG24"
+        },
+        {
+          "title": "«Dissi a Gibson che The Passion era violento. Lui: “Non quanto un peccato”» - Il Timone",
+          "source": "Il Timone",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "«Dissi a Gibson che The Passion era violento. Lui: “Non quanto un peccato”» Il Timone"
+        },
+        {
+          "title": "5 film sulla figura di Gesù Cristo [LISTA] - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "5 film sulla figura di Gesù Cristo [LISTA] LaScimmiaPensa.com"
+        },
+        {
+          "title": "Hristo Živkov, Mel Gibson ricorda l'attore di La passione di Cristo scomparso sabato - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Hristo Živkov, Mel Gibson ricorda l'attore di La passione di Cristo scomparso sabato Everyeye Cinema"
+        },
+        {
+          "title": "La Passione di Cristo: il film più discusso di Mel Gibson interamente girato in Italia - City&City Magazine",
+          "source": "City&City Magazine",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "La Passione di Cristo: il film più discusso di Mel Gibson interamente girato in Italia City&City Magazine"
+        },
+        {
+          "title": "I nostri 10 film musical preferiti – Prima parte - iCrewPlay Cinema",
+          "source": "iCrewPlay Cinema",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "I nostri 10 film musical preferiti – Prima parte iCrewPlay Cinema"
+        }
+      ]
+    },
+    "Cristiano_Ronaldo": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cristiano Ronaldo dos Santos Aveiro è un calciatore portoghese, attaccante dell'Al-Nassr, di cui è capitano. Con la nazionale portoghese, è diventato campione d'Europa nel 2016 e ha vinto la UEFA Nations League 2018-2019 e 2024-2025.",
+      "news": [
+        {
+          "title": "Cristiano Ronaldo ha concesso l'approvazione per costruire un pergolato sul tetto del suo attico di Lisbona del valore di 6,5 milioni di sterline - Idealista",
+          "source": "Idealista",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Cristiano Ronaldo ha concesso l'approvazione per costruire un pergolato sul tetto del suo attico di Lisbona del valore di 6,5 milioni di sterline Idealista"
+        },
+        {
+          "title": "Cristiano Ronaldo, il ritorno in Inghilterra è possibile - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Cristiano Ronaldo, il ritorno in Inghilterra è possibile Virgilio"
+        },
+        {
+          "title": "Cristiano Ronaldo, 5 anni fa la rovesciata contro la Juve - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Cristiano Ronaldo, 5 anni fa la rovesciata contro la Juve Il Messaggero"
+        },
+        {
+          "title": "Messi ya haura Ronaldo a cin kwallaye a lik a Turai - BBC",
+          "source": "BBC",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "Messi ya haura Ronaldo a cin kwallaye a lik a Turai BBC"
+        },
+        {
+          "title": "Nikita Pelizon, vincitrice del Gf Vip 7: chi è la regina dei reality che ama Cristiano Ronaldo - Affaritaliani",
+          "source": "Affaritaliani",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Nikita Pelizon, vincitrice del Gf Vip 7: chi è la regina dei reality che ama Cristiano Ronaldo Affaritaliani"
+        }
+      ]
+    },
+    "I_migliori_giorni": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I migliori giorni è un film commedia del 2023 diretto da Massimiliano Bruno ed Edoardo Leo.",
+      "news": [
+        {
+          "title": "Stasera in tv un film a episodi dove si ride e si piange: I Migliori Giorni - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Stasera in tv un film a episodi dove si ride e si piange: I Migliori Giorni Amica.it"
+        },
+        {
+          "title": "I Migliori Giorni su Netflix: il percorso di Massimiliano Bruno nella commedia di costume - Taxidrivers.it",
+          "source": "Taxidrivers.it",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "I Migliori Giorni su Netflix: il percorso di Massimiliano Bruno nella commedia di costume Taxidrivers.it"
+        },
+        {
+          "title": "La nuova Cinecittà, gli studi di Roma tra passato e futuro. VIDEO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "La nuova Cinecittà, gli studi di Roma tra passato e futuro. VIDEO Sky TG24"
+        },
+        {
+          "title": "Libri per bambini di 9 anni: quali sono i migliori - Nostrofiglio.it",
+          "source": "Nostrofiglio.it",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "Libri per bambini di 9 anni: quali sono i migliori Nostrofiglio.it"
+        },
+        {
+          "title": "Super Mario, D’Artagnan, Damon arruola Michael Jordan e altri 9 film da non perdere: Pasqua al cinema e in... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Super Mario, D’Artagnan, Damon arruola Michael Jordan e altri 9 film da non perdere: Pasqua al cinema e in... Corriere della Sera"
+        },
+        {
+          "title": "Le migliori borse tote del 2023 da indossare tutti i giorni - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Le migliori borse tote del 2023 da indossare tutti i giorni Vanity Fair Italia"
+        },
+        {
+          "title": "The Portable Door, su Sky da stasera il film targato Sky Original - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "The Portable Door, su Sky da stasera il film targato Sky Original Sky TG24"
+        },
+        {
+          "title": "I Predoni, il cast del film con Bruce Willis e Dave Bautista - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "I Predoni, il cast del film con Bruce Willis e Dave Bautista Sky TG24"
+        },
+        {
+          "title": "La Sirenetta, pubblicate foto esclusive del film - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "La Sirenetta, pubblicate foto esclusive del film Sky TG24"
+        },
+        {
+          "title": "Air, l'accento spagnolo di Ben Affleck nel promo diventa virale VIDEO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Air, l'accento spagnolo di Ben Affleck nel promo diventa virale VIDEO Sky TG24"
+        }
+      ]
+    },
+    "Air_-_La_storia_del_grande_salto": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Air - La storia del grande salto (Air) è un film del 2023 diretto e co-prodotto da Ben Affleck.",
+      "news": [
+        {
+          "title": "Air - La storia del grande salto - MYmovies",
+          "source": "MYmovies",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Air - La storia del grande salto MYmovies"
+        },
+        {
+          "title": "Air. La storia del grande salto. La recensione - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Air. La storia del grande salto. La recensione Sentieri selvaggi"
+        },
+        {
+          "title": "Il film «Air la storia del grande salto»: Michael Jordan e la scarpa Nike diventata icona - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Il film «Air la storia del grande salto»: Michael Jordan e la scarpa Nike diventata icona Corriere della Sera"
+        },
+        {
+          "title": "La recensione di Air - La storia del grande salto - Cineforum",
+          "source": "Cineforum",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "La recensione di Air - La storia del grande salto Cineforum"
+        },
+        {
+          "title": "Arriva al cinema Air, il film dedicato all’intuizione geniale che ha reso iconica una scarpa da basket - ELLE Decor",
+          "source": "ELLE Decor",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Arriva al cinema Air, il film dedicato all’intuizione geniale che ha reso iconica una scarpa da basket ELLE Decor"
+        },
+        {
+          "title": "In Air - La storia del grande salto Ben Affleck e Matt Damon ritrovano se stessi e il cinema migliore - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "In Air - La storia del grande salto Ben Affleck e Matt Damon ritrovano se stessi e il cinema migliore Wired Italia"
+        },
+        {
+          "title": "Air - La storia del grande salto, recensione di un monumento al potenziale umano - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Air - La storia del grande salto, recensione di un monumento al potenziale umano Movieplayer"
+        },
+        {
+          "title": "AIR – La storia del grande salto, Recensione – Infrangere le regole - HyNerd",
+          "source": "HyNerd",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "AIR – La storia del grande salto, Recensione – Infrangere le regole HyNerd"
+        },
+        {
+          "title": "‘AIR – La storia del grande salto’: Ben Affleck dirige Michael Jordan e la Nike - Cinecittà News",
+          "source": "Cinecittà News",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "‘AIR – La storia del grande salto’: Ben Affleck dirige Michael Jordan e la Nike Cinecittà News"
+        },
+        {
+          "title": "Ben Affleck è molto meglio di voi - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Ben Affleck è molto meglio di voi Rolling Stone Italia"
+        }
+      ]
+    },
+    "1917_(film)": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "1917 è un film del 2019 diretto da Sam Mendes.",
+      "news": [
+        {
+          "title": "1917 - Film - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 03 Apr 2023 07:00:00 GMT",
+          "description": "1917 - Film RaiPlay"
+        },
+        {
+          "title": "\"1917\", in prima visione - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "\"1917\", in prima visione Rai.it"
+        },
+        {
+          "title": "1917: una corsa disperata nell’orrore delle trincee per salvare il fratello - Famiglia Cristiana",
+          "source": "Famiglia Cristiana",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "1917: una corsa disperata nell’orrore delle trincee per salvare il fratello Famiglia Cristiana"
+        },
+        {
+          "title": "1917, il film di guerra stasera in tv: trama, cast e curiosità - Today",
+          "source": "Today",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "1917, il film di guerra stasera in tv: trama, cast e curiosità Today"
+        },
+        {
+          "title": "1917 - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 06 Apr 2023 20:28:47 GMT",
+          "description": "1917 RaiPlay"
+        },
+        {
+          "title": "Su Rai 2 \"1917\", il capolavoro bellico di Sam Mendes uscito nel 2020: 3 Oscar - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Su Rai 2 \"1917\", il capolavoro bellico di Sam Mendes uscito nel 2020: 3 Oscar iO Donna"
+        },
+        {
+          "title": "\"1917\" di Sam Mendes: trama, cast e trailer - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "\"1917\" di Sam Mendes: trama, cast e trailer TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "1917, la rivoluzione tecnica di Sam Mendes: ecco perché non è un film di guerra come tutti gli altri - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "1917, la rivoluzione tecnica di Sam Mendes: ecco perché non è un film di guerra come tutti gli altri il Giornale"
+        },
+        {
+          "title": "Hamnet, Chloé Zhao dirige il film tratto dal bestseller su Shakespeare - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Hamnet, Chloé Zhao dirige il film tratto dal bestseller su Shakespeare Sky TG24"
+        },
+        {
+          "title": "Grosso guaio all’Esquilino film, trama, cast, finale, dove è girato - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Grosso guaio all’Esquilino film, trama, cast, finale, dove è girato Marida Caterini"
+        }
+      ]
+    },
+    "John_Wick_3_-_Parabellum": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "John Wick 3 - Parabellum è un film del 2019 diretto da Chad Stahelski.",
+      "news": [
+        {
+          "title": "L'assurdo allenamento di Keanu Reeves per diventare John Wick [VIDEO] - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "L'assurdo allenamento di Keanu Reeves per diventare John Wick [VIDEO] LaScimmiaPensa.com"
+        },
+        {
+          "title": "Ballerina, la data di uscita dello spin-off di John Wick con protagonista Ana de Armas - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Ballerina, la data di uscita dello spin-off di John Wick con protagonista Ana de Armas Sky TG24"
+        },
+        {
+          "title": "John Wick 4 - Parigi Capitale (del cinema) Del XXIV Secolo - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "John Wick 4 - Parigi Capitale (del cinema) Del XXIV Secolo Sentieri selvaggi"
+        },
+        {
+          "title": "John Wick 4, la recensione del nuovo capitolo della saga - MovieMag",
+          "source": "MovieMag",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "John Wick 4, la recensione del nuovo capitolo della saga MovieMag"
+        },
+        {
+          "title": "Ballerina: il film spin-off di John Wick con Ana de Armas ha una data d'uscita - IGN Italia",
+          "source": "IGN Italia",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Ballerina: il film spin-off di John Wick con Ana de Armas ha una data d'uscita IGN Italia"
+        },
+        {
+          "title": "Beckett - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 10 Apr 2023 06:54:38 GMT",
+          "description": "Beckett RaiPlay"
+        },
+        {
+          "title": "John Wick e le arti marziali: ecco tutte le sue tecniche - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "John Wick e le arti marziali: ecco tutte le sue tecniche Sentieri selvaggi"
+        },
+        {
+          "title": "Halle Berry, Pasqua di fuoco su Instagram: gli auguri ai followers completamente nuda - Everyeye Cinema",
+          "source": "Everyeye Cinema",
+          "pubDate": "Sun, 09 Apr 2023 07:00:00 GMT",
+          "description": "Halle Berry, Pasqua di fuoco su Instagram: gli auguri ai followers completamente nuda Everyeye Cinema"
+        }
+      ]
+    },
+    "Venerdì_santo": {
+      "fetched_at": "2026-11-06T16:59:23+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Venerdì santo è il venerdì che precede la Pasqua cristiana. In questo giorno i cristiani commemorano la passione e la crocifissione di Gesù Cristo. Questa ricorrenza viene osservata con speciali pratiche e riti dai fedeli di molte confessioni cristiane.",
+      "news": [
+        {
+          "title": "Il Venerdì Santo e la preghiera per gli ebrei \"Fratelli Maggiori\" - La Voce e il Tempo",
+          "source": "La Voce e il Tempo",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Il Venerdì Santo e la preghiera per gli ebrei \"Fratelli Maggiori\" La Voce e il Tempo"
+        },
+        {
+          "title": "Venerdì Santo a Orte, una passione lunga 800 anni - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Venerdì Santo a Orte, una passione lunga 800 anni RaiNews"
+        },
+        {
+          "title": "Belfast. A 25 anni dalla firma dell’accordo del Venerdì Santo - Patria Indipendente",
+          "source": "Patria Indipendente",
+          "pubDate": "Mon, 10 Apr 2023 07:00:00 GMT",
+          "description": "Belfast. A 25 anni dalla firma dell’accordo del Venerdì Santo Patria Indipendente"
+        },
+        {
+          "title": "Il venerdì santo nella rilettura di Gregorio Vivaldelli, davanti ai 1200 del Palarotari - Diocesi di Trento",
+          "source": "Diocesi di Trento",
+          "pubDate": "Fri, 07 Apr 2023 07:00:00 GMT",
+          "description": "Il venerdì santo nella rilettura di Gregorio Vivaldelli, davanti ai 1200 del Palarotari Diocesi di Trento"
+        },
+        {
+          "title": "Cagli, Venerdì Santo: è tempo della solenne processione - Non solo Flaminia",
+          "source": "Non solo Flaminia",
+          "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT",
+          "description": "Cagli, Venerdì Santo: è tempo della solenne processione Non solo Flaminia"
+        },
+        {
+          "title": "Venerdì santo: la Via Crucis ricordando le vittime del 7 aprile 1944 e le sofferenze di oggi, ma anche i cirenei che aiutano gli altri a portare la croce - Diocesi di Treviso",
+          "source": "Diocesi di Treviso",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Venerdì santo: la Via Crucis ricordando le vittime del 7 aprile 1944 e le sofferenze di oggi, ma anche i cirenei che aiutano gli altri a portare la croce Diocesi di Treviso"
+        },
+        {
+          "title": "Venerdì santo, rischio neve in quota nel Levante. Occhio al fenomeno del “groupel” la neve tonda - Il Secolo XIX",
+          "source": "Il Secolo XIX",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Venerdì santo, rischio neve in quota nel Levante. Occhio al fenomeno del “groupel” la neve tonda Il Secolo XIX"
+        },
+        {
+          "title": "Porta a porta 2023 - Speciale Venerdì Santo - La croce di Odessa - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT",
+          "description": "Porta a porta 2023 - Speciale Venerdì Santo - La croce di Odessa - Video RaiPlay"
+        },
+        {
+          "title": "Più di 20 mila persone alla processione del Venerdì Santo a Savona - Primocanale",
+          "source": "Primocanale",
+          "pubDate": "Sat, 08 Apr 2023 07:00:00 GMT",
+          "description": "Più di 20 mila persone alla processione del Venerdì Santo a Savona Primocanale"
+        },
+        {
+          "title": "Venerdì Santo: «Guardiamo negli occhi la Passione di Cristo che è agnello, Signore e figlio» - DiocesidiCremona.it",
+          "source": "DiocesidiCremona.it",
+          "pubDate": "Tue, 04 Apr 2023 07:00:00 GMT",
+          "description": "Venerdì Santo: «Guardiamo negli occhi la Passione di Cristo che è agnello, Signore e figlio» DiocesidiCremona.it"
+        }
+      ]
+    }
+  }
+}
