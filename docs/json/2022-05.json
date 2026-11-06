@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Blanco%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Blanco_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Blanco_(cantante)",
-      "description": "cantautore italiano (2003-)",
+      "description": "Cantautore italiano, vince Sanremo con Mahmood e il brano Brividi nella notte tra il 5 e il 6 febbraio.",
       "image_filename": "Blanco_during_an_interview_for_Radio_Bruno_in_2022.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Blanco_during_an_interview_for_Radio_Bruno_in_2022.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Blanco_during_an_interview_for_Radio_Bruno_in_2022.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Monica%20Vitti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Monica_Vitti",
       "article_url": "https://it.wikipedia.org/wiki/Monica_Vitti",
-      "description": "attrice italiana (1931-2022)",
+      "description": "Attrice italiana, protagonista dei film di Michelangelo Antonioni e della commedia all'italiana, muore il 2 febbraio a 90 anni.",
       "image_filename": "Monica_Vitti.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Monica_Vitti.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Monica_Vitti.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Mahmood&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Mahmood",
       "article_url": "https://it.wikipedia.org/wiki/Mahmood",
-      "description": "cantautore e paroliere italiano (1992-)",
+      "description": "Cantautore italiano, vince Sanremo con Blanco e il brano Brividi nella notte tra il 5 e il 6 febbraio.",
       "image_filename": "Mahmood_(Feb_2024;_02)_(cropped).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Mahmood_%28Feb_2024%3B_02%29_%28cropped%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mahmood_(Feb_2024%3B_02)_(cropped).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Festival_di_Sanremo",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo",
-      "description": "festival musicale della canzone italiana",
+      "description": "Dal 1 al 5 febbraio va in onda su Rai 1 la 72ª edizione, vinta da Mahmood e Blanco con Brividi.",
       "image_filename": "Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Festival_di_Sanremo_16_febbraio_2013.JPG/1280px-Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo%202022&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Festival_di_Sanremo_2022",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo_2022",
-      "description": "72º Festival della canzone italiana",
+      "description": "Dal 1 al 5 febbraio va in onda su Rai 1 l'edizione condotta da Amadeus, vinta da Mahmood e Blanco con Brividi.",
       "image_filename": "Festival_di_Sanremo_2022_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/00/Festival_di_Sanremo_2022_logo.png/1280px-Festival_di_Sanremo_2022_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_2022_logo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20Rappresentante%20di%20Lista&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=La_Rappresentante_di_Lista",
       "article_url": "https://it.wikipedia.org/wiki/La_Rappresentante_di_Lista",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale italiano, partecipa al Festival di Sanremo dal 1 al 5 febbraio con il brano Ciao ciao.",
       "image_filename": "La_Rappresentante_di_Lista_Sherwood.it_2025.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/La_Rappresentante_di_Lista_Sherwood.it_2025.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_Rappresentante_di_Lista_Sherwood.it_2025.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Michele%20Bravi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Michele_Bravi",
       "article_url": "https://it.wikipedia.org/wiki/Michele_Bravi",
-      "description": "cantautore italiano (1994-)",
+      "description": "Cantautore italiano, partecipa al Festival di Sanremo dal 1 al 5 febbraio con il brano Inverno dei fiori.",
       "image_filename": "Michele_Bravi_RadioBruno_Sanremo_2022.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Michele_Bravi_RadioBruno_Sanremo_2022.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michele_Bravi_RadioBruno_Sanremo_2022.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Amadeus%20%28conduttore%20televisivo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Amadeus_(conduttore_televisivo)",
       "article_url": "https://it.wikipedia.org/wiki/Amadeus_(conduttore_televisivo)",
-      "description": "conduttore televisivo, conduttore radiofonico, showman e disc jockey italiano (1962-)",
+      "description": "Conduttore televisivo italiano, presenta il Festival di Sanremo dal 1 al 5 febbraio su Rai 1.",
       "image_filename": "Amadeus_2023.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Amadeus_2023.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amadeus_2023.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Gianluca%20Grignani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Gianluca_Grignani",
       "article_url": "https://it.wikipedia.org/wiki/Gianluca_Grignani",
-      "description": "cantautore, chitarrista e produttore discografico italiano (1972-)",
+      "description": "Cantautore italiano, il 4 febbraio canta La mia storia tra le dita con Irama nella serata delle cover di Sanremo.",
       "image_filename": "Gianluca_Grignani_-_Fonte_Nuova_31-05-08.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gianluca_Grignani_-_Fonte_Nuova_31-05-08.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gianluca_Grignani_-_Fonte_Nuova_31-05-08.JPG",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Ana%20Mena&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Ana_Mena",
       "article_url": "https://it.wikipedia.org/wiki/Ana_Mena",
-      "description": "cantautrice, attrice e modella spagnola (1997-)",
+      "description": "Cantautrice spagnola, partecipa al Festival di Sanremo dal 1 al 5 febbraio con il brano Duecentomila ore.",
       "image_filename": "Ana_Mena_en_2024_01.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ana_Mena_en_2024_01.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ana_Mena_en_2024_01.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Ornella%20Muti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Ornella_Muti",
       "article_url": "https://it.wikipedia.org/wiki/Ornella_Muti",
-      "description": "attrice italiana (1955-)",
+      "description": "Attrice italiana, il 1 febbraio affianca Amadeus nella conduzione della prima serata di Sanremo su Rai 1.",
       "image_filename": "2016-02-01_608_Ornella_Muti.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2016-02-01_608_Ornella_Muti.JPG/1280px-2016-02-01_608_Ornella_Muti.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2016-02-01_608_Ornella_Muti.JPG",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Dargen%20D%27Amico&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Dargen_D%27Amico",
       "article_url": "https://it.wikipedia.org/wiki/Dargen_D%27Amico",
-      "description": "rapper, cantautore, produttore discografico e disc jockey italiano (1980-)",
+      "description": "Rapper e cantautore italiano, partecipa al Festival di Sanremo dal 1 al 5 febbraio con Dove si balla.",
       "image_filename": "Dargen_D'Amico_2022.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dargen_D%27Amico_2022.jpg/1280px-Dargen_D%27Amico_2022.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dargen_D%27Amico_2022.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Irama&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Irama",
       "article_url": "https://it.wikipedia.org/wiki/Irama",
-      "description": "cantautore e rapper italiano (1995-)",
+      "description": "Cantautore italiano, partecipa a Sanremo con Ovunque sarai e il 4 febbraio canta con Gianluca Grignani nella serata delle cover.",
       "image_filename": "Irama_(Feb_2024)_(cropped).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Irama_%28Feb_2024%29_%28cropped%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Irama_(Feb_2024)_(cropped).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Donatella%20Rettore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Donatella_Rettore",
       "article_url": "https://it.wikipedia.org/wiki/Donatella_Rettore",
-      "description": "cantante, paroliera e attrice italiana (1955-)",
+      "description": "Cantautrice italiana, partecipa a Sanremo dal 1 al 5 febbraio con Ditonellapiaga e il brano Chimica.",
       "image_filename": "Donatella_Rettore.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Donatella_Rettore.jpg/1024px-Donatella_Rettore.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Donatella_Rettore.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisa%20%28cantante%201977%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Elisa_(cantante_1977)",
       "article_url": "https://it.wikipedia.org/wiki/Elisa_(cantante_1977)",
-      "description": "cantautrice e produttrice discografica italiana (1977-)",
+      "description": "Cantautrice italiana, si classifica seconda al Festival di Sanremo nella notte tra il 5 e il 6 febbraio con O forse sei tu.",
       "image_filename": "Elisa-5292-Adriana.Tedeschi.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elisa-5292-Adriana.Tedeschi.jpg/1024px-Elisa-5292-Adriana.Tedeschi.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elisa-5292-Adriana.Tedeschi.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Achille%20Lauro%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Achille_Lauro_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Achille_Lauro_(cantante)",
-      "description": "cantautore e rapper italiano (1990-)",
+      "description": "Cantautore italiano, partecipa a Sanremo con Domenica e il 6 febbraio è ospite di Domenica In su Rai 1.",
       "image_filename": "Achille_Lauro_(Feb_2025).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Achille_Lauro_%28Feb_2025%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Achille_Lauro_(Feb_2025).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Matteo%20Romano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Matteo_Romano",
       "article_url": "https://it.wikipedia.org/wiki/Matteo_Romano",
-      "description": "cantautore italiano (2002-)",
+      "description": "Cantautore italiano, partecipa al Festival di Sanremo dal 1 al 5 febbraio con il brano Virale.",
       "image_filename": "Matteo_Romano_Musica_e_Tv_2.0.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Matteo_Romano_Musica_e_Tv_2.0.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Romano_Musica_e_Tv_2.0.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Cesare%20Cremonini%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Cesare_Cremonini_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)",
-      "description": "cantautore italiano (1980-)",
+      "description": "Cantautore italiano, il 3 febbraio è ospite della terza serata del Festival di Sanremo su Rai 1.",
       "image_filename": "Cesare_Cremonini_m2o_2024_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cesare_Cremonini_m2o_2024_%28cropped%29.jpg/1280px-Cesare_Cremonini_m2o_2024_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Cesare_Cremonini_m2o_2024_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Ditonellapiaga&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Ditonellapiaga",
       "article_url": "https://it.wikipedia.org/wiki/Ditonellapiaga",
-      "description": "cantautrice italiana (1997-)",
+      "description": "Cantautrice italiana, partecipa a Sanremo dal 1 al 5 febbraio con Donatella Rettore e il brano Chimica.",
       "image_filename": "Ditonellapiaga_interviewed_by_Radio_Bruno_2025.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ditonellapiaga_interviewed_by_Radio_Bruno_2025.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ditonellapiaga_interviewed_by_Radio_Bruno_2025.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Maria%20Chiara%20Giannetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Maria_Chiara_Giannetta",
       "article_url": "https://it.wikipedia.org/wiki/Maria_Chiara_Giannetta",
-      "description": "attrice italiana (1992-)",
+      "description": "Attrice italiana, il 4 febbraio affianca Amadeus nella conduzione della quarta serata di Sanremo su Rai 1.",
       "image_filename": "Maria_Chiara_Giannetta_BIF&ST_2022_Cinemio_02.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Maria_Chiara_Giannetta_BIF%26ST_2022_Cinemio_02.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maria_Chiara_Giannetta_BIF%26ST_2022_Cinemio_02.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Iva%20Zanicchi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Iva_Zanicchi",
       "article_url": "https://it.wikipedia.org/wiki/Iva_Zanicchi",
-      "description": "cantante, conduttrice televisiva, attrice e politica italiana (1940-)",
+      "description": "Cantante italiana, il 2 febbraio presenta il brano Voglio amarti nella seconda serata del Festival di Sanremo.",
       "image_filename": "Iva_Zanicchi_-_anni_70.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/4/4e/Iva_Zanicchi_-_anni_70.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Iva_Zanicchi_-_anni_70.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Rkomi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Rkomi",
       "article_url": "https://it.wikipedia.org/wiki/Rkomi",
-      "description": "rapper e cantautore italiano (1994-)",
+      "description": "Rapper e cantautore italiano, partecipa a Sanremo con Insuperabile e il 4 febbraio si esibisce nella serata delle cover.",
       "image_filename": "Rkomi_(Feb_2025).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Rkomi_%28Feb_2025%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rkomi_(Feb_2025).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=M%C3%A5neskin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=M%C3%A5neskin",
       "article_url": "https://it.wikipedia.org/wiki/M%C3%A5neskin",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo rock italiano vincitore di Sanremo nel 2021, torna come ospite nella prima serata del Festival il 1 febbraio.",
       "image_filename": "Maneskin_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Maneskin_2018.jpg/1280px-Maneskin_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Maneskin_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo%202021&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Festival_di_Sanremo_2021",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo_2021",
-      "description": "71º Festival della canzone italiana",
+      "description": "Edizione vinta dai Måneskin, il picco è probabilmente legato al Festival di Sanremo 2022, in onda dal 1 al 5 febbraio su Rai 1.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Gianni%20Morandi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/31/2022,cd_max:02/06/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-31&end=2022-02-06&pages=Gianni_Morandi",
       "article_url": "https://it.wikipedia.org/wiki/Gianni_Morandi",
-      "description": "cantante, attore e conduttore televisivo italiano (1944-)",
+      "description": "Cantante italiano, si classifica terzo al Festival di Sanremo nella notte tra il 5 e il 6 febbraio con Apri tutte le porte.",
       "image_filename": "Gianni_Morandi_@_Wind_Music_Awards_2016_11_(cropped)_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Gianni_Morandi_%40_Wind_Music_Awards_2016_11_%28cropped%29_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Gianni_Morandi_%40_Wind_Music_Awards_2016_11_(cropped)_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

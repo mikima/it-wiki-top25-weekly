@@ -1,0 +1,1345 @@
+{
+  "week": "2022-10",
+  "start_date": "2022-03-07",
+  "end_date": "2022-03-13",
+  "articles": {
+    "Vladimir_Putin": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Vladimir Vladimirovič Putin è un politico ed ex militare russo, primo ministro e attuale presidente della Russia.",
+      "news": [
+        {
+          "title": "Vladimir Putin, i segreti del bambino che giocava col topo e ha incendiato il mondo - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Vladimir Putin, i segreti del bambino che giocava col topo e ha incendiato il mondo Corriere della Sera"
+        },
+        {
+          "title": "Vladimir Putin e le presunte origini italiane: ecco come stanno realmente le cose - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Vladimir Putin e le presunte origini italiane: ecco come stanno realmente le cose Il Fatto Quotidiano"
+        },
+        {
+          "title": "Il lato privato di Vladimir Putin - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Il lato privato di Vladimir Putin Vanity Fair Italia"
+        },
+        {
+          "title": "La guerra santa di Putin - Le Grand Continent",
+          "source": "Le Grand Continent",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "La guerra santa di Putin Le Grand Continent"
+        },
+        {
+          "title": "Il modello Putin - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Sat, 12 Mar 2022 08:00:00 GMT",
+          "description": "Il modello Putin Internazionale"
+        },
+        {
+          "title": "Guerra Ucraina, il profilo psicologico di Putin per Domenico Barrilà - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Guerra Ucraina, il profilo psicologico di Putin per Domenico Barrilà Sky TG24"
+        },
+        {
+          "title": "Crimini di guerra: Putin sarà processato? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Crimini di guerra: Putin sarà processato? Focus.it"
+        },
+        {
+          "title": "Tutte le morti e i crimini ordinati da Vladimir Putin dentro e fuori la Russia - Eunews",
+          "source": "Eunews",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Tutte le morti e i crimini ordinati da Vladimir Putin dentro e fuori la Russia Eunews"
+        },
+        {
+          "title": "Tutte le figlie di Vladimir Putin, anche quelle \"segrete\": dalla pediatra alla ballerina rock, ecco chi sono e cosa fanno - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Tutte le figlie di Vladimir Putin, anche quelle \"segrete\": dalla pediatra alla ballerina rock, ecco chi sono e cosa fanno Il Fatto Quotidiano"
+        },
+        {
+          "title": "Perché non abbiamo capito le vere intenzioni di Vladimir Putin - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Perché non abbiamo capito le vere intenzioni di Vladimir Putin Internazionale"
+        }
+      ]
+    },
+    "Guerra_del_Donbass": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La guerra del Donbass è un conflitto armato iniziato nel 2014 nell'Ucraina orientale, principalmente nelle regioni di Donetsk e Luhansk, tra le forze ucraine e gruppi armati separatisti sostenuti dalla Russia. I gruppi armati separatisti sono stati sostenuti dalla Russia, che ha fornito loro armi, mezzi corazzati, carri armati, artiglieria, finanziamenti e personale. Le truppe russe furono coinvolte direttamente nel conflitto, sebbene il governo russo negasse ufficialmente la presenza delle proprie forze armate e il loro coinvolgimento sul territorio comprendeva sia il sostegno logistico e militare ai gruppi separatisti sia la partecipazione diretta alle operazioni di combattimento.",
+      "news": [
+        {
+          "title": "Guerra Russia-Ucraina, dal Donbass alla Nato: i compromessi possibili - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Guerra Russia-Ucraina, dal Donbass alla Nato: i compromessi possibili Sky TG24"
+        },
+        {
+          "title": "Due settimane di guerra in Ucraina: a che punto siamo, gli scenari - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Due settimane di guerra in Ucraina: a che punto siamo, gli scenari Avvenire"
+        },
+        {
+          "title": "Chi sono i «nazisti ucraini» di cui parla Putin? Dal ruolo nella guerra del Donbass al battaglione Azov - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Chi sono i «nazisti ucraini» di cui parla Putin? Dal ruolo nella guerra del Donbass al battaglione Azov Il Messaggero"
+        },
+        {
+          "title": "A che punto è la guerra in Ucraina - InsideOver - Inside the news Over the world",
+          "source": "InsideOver - Inside the news Over the world",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "A che punto è la guerra in Ucraina InsideOver - Inside the news Over the world"
+        },
+        {
+          "title": "La guerra del fango, del sangue e dei... simboli - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "La guerra del fango, del sangue e dei... simboli La Gazzetta del Mezzogiorno"
+        }
+      ]
+    },
+    "Ucraina": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Ucraina è uno Stato dell'Europa orientale con una superficie di 603628 km² in cui risiedono 37 860 221 abitanti al 2024 e la cui capitale, nonché città maggiore, è Kiev. Ha uno sbocco sul Mar Nero e sul Mar d'Azov a sud e confina con la Russia a est, con la Bielorussia a nord, con Polonia, Slovacchia e Ungheria a ovest e con Romania e Moldavia a sudovest.",
+      "news": [
+        {
+          "title": "Info utili per l'ingresso dei profughi ucraini in Italia - Ministero dell‘Interno",
+          "source": "Ministero dell‘Interno",
+          "pubDate": "Fri, 11 Mar 2022 01:21:11 GMT",
+          "description": "Info utili per l'ingresso dei profughi ucraini in Italia Ministero dell‘Interno"
+        },
+        {
+          "title": "Speciale Ucraina: bombe sui civili - ISPI",
+          "source": "ISPI",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Speciale Ucraina: bombe sui civili ISPI"
+        },
+        {
+          "title": "Emergenza Ucraina: firmata l'ordinanza sulla gratuità dei trasporti per i cittadini ucraini in Italia - Dipartimento Protezione Civile",
+          "source": "Dipartimento Protezione Civile",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Emergenza Ucraina: firmata l'ordinanza sulla gratuità dei trasporti per i cittadini ucraini in Italia Dipartimento Protezione Civile"
+        },
+        {
+          "title": "Ucraina: 10 punti per capire come la guerra ha cambiato il mondo - ISPI",
+          "source": "ISPI",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Ucraina: 10 punti per capire come la guerra ha cambiato il mondo ISPI"
+        },
+        {
+          "title": "Quale neutralità per l’Ucraina - ISPI",
+          "source": "ISPI",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Quale neutralità per l’Ucraina ISPI"
+        }
+      ]
+    },
+    "NATO": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La NATO, Organizzazione del Trattato dell'Atlantico del Nord è un'alleanza militare intergovernativa nel settore della difesa, che include trentadue Stati membri, di cui trenta europei e due nordamericani, e che è stata istituita all'indomani della Seconda guerra mondiale. Il trattato istitutivo della NATO, il Patto Atlantico, fu firmato a Washington il 4 aprile 1949 ed entrò in vigore il 24 agosto dello stesso anno.",
+      "news": [
+        {
+          "title": "La storia della NATO: cos’è, chi ne fa parte, qual è il suo scopo e quando può intervenire - Geopop",
+          "source": "Geopop",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "La storia della NATO: cos’è, chi ne fa parte, qual è il suo scopo e quando può intervenire Geopop"
+        },
+        {
+          "title": "Perché la Nato non dichiara (ancora) guerra a Putin - Europa Today",
+          "source": "Europa Today",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Perché la Nato non dichiara (ancora) guerra a Putin Europa Today"
+        },
+        {
+          "title": "Romania, NATO Air Policing: decollo immediato per Eurofighter italiani e tedeschi per la Difesa dello Spazio Aereo dell'Alleanza - Ministero della Difesa",
+          "source": "Ministero della Difesa",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Romania, NATO Air Policing: decollo immediato per Eurofighter italiani e tedeschi per la Difesa dello Spazio Aereo dell'Alleanza Ministero della Difesa"
+        },
+        {
+          "title": "\"Le basi Nato in Europa sono ancora più importanti rispetto al passato\" - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "\"Le basi Nato in Europa sono ancora più importanti rispetto al passato\" AGI"
+        },
+        {
+          "title": "Il discorso di Biden al Consiglio atlantico del 1997: \"L'espansione Nato agli Stati Baltici provocherebbe una risposta ostile di Mosca\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Il discorso di Biden al Consiglio atlantico del 1997: \"L'espansione Nato agli Stati Baltici provocherebbe una risposta ostile di Mosca\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "La NATO. Storia di un’alleanza politica e militare - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "La NATO. Storia di un’alleanza politica e militare Focus.it"
+        },
+        {
+          "title": "La storia dell’espansione a est della Nato, spiegata - InsideOver - Inside the news Over the world",
+          "source": "InsideOver - Inside the news Over the world",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "La storia dell’espansione a est della Nato, spiegata InsideOver - Inside the news Over the world"
+        }
+      ]
+    },
+    "Giornata_internazionale_della_donna": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Giornata internazionale della donna è una ricorrenza internazionale che si celebra l'8 marzo di ogni anno e sottolinea l'importanza della lotta per i diritti delle donne, in particolare per la loro emancipazione, ricordando le conquiste sociali, economiche, politiche e portando l'attenzione su questioni come l'uguaglianza di genere, i diritti riproduttivi, le discriminazioni e le violenze contro le donne.",
+      "news": [
+        {
+          "title": "Perché l’8 marzo è la Giornata internazionale della donna - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Perché l’8 marzo è la Giornata internazionale della donna Il Post"
+        },
+        {
+          "title": "Giornata Internazionale della Donna 8 marzo 2022 - ONU Italia",
+          "source": "ONU Italia",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Giornata Internazionale della Donna 8 marzo 2022 ONU Italia"
+        },
+        {
+          "title": "8 marzo, Giornata Internazionale della Donna 2022: un uomo su tre mette in discussione i benefici del femminismo - Ipsos",
+          "source": "Ipsos",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "8 marzo, Giornata Internazionale della Donna 2022: un uomo su tre mette in discussione i benefici del femminismo Ipsos"
+        },
+        {
+          "title": "Giornata Internazionale della Donna 2022: Storia, marce, festeggiamenti, come insegnarla - Orizzonte Scuola Notizie",
+          "source": "Orizzonte Scuola Notizie",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Giornata Internazionale della Donna 2022: Storia, marce, festeggiamenti, come insegnarla Orizzonte Scuola Notizie"
+        },
+        {
+          "title": "Nel Paese della Teranga marzo è un mese ricco di eventi, con protagonisti donne, acqua e sviluppo - www.aics.gov.it",
+          "source": "www.aics.gov.it",
+          "pubDate": "Wed, 09 Mar 2022 02:54:30 GMT",
+          "description": "Nel Paese della Teranga marzo è un mese ricco di eventi, con protagonisti donne, acqua e sviluppo www.aics.gov.it"
+        },
+        {
+          "title": "Alle origini dell'8 marzo: tutti i come e i perché della giornata internazionale della donna - Collettiva",
+          "source": "Collettiva",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Alle origini dell'8 marzo: tutti i come e i perché della giornata internazionale della donna Collettiva"
+        },
+        {
+          "title": "Il Doodle di Google per la Giornata Internazionale della donna - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Il Doodle di Google per la Giornata Internazionale della donna RaiNews"
+        },
+        {
+          "title": "8 marzo 2022: biografie di donne incredibili per riflettere sulla Festa della donna - Studenti.it",
+          "source": "Studenti.it",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "8 marzo 2022: biografie di donne incredibili per riflettere sulla Festa della donna Studenti.it"
+        },
+        {
+          "title": "Giornata Internazionale della Donna: dare priorità alle ragazze nella ripresa dal COVID-19 - UNICEF Italia",
+          "source": "UNICEF Italia",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Giornata Internazionale della Donna: dare priorità alle ragazze nella ripresa dal COVID-19 UNICEF Italia"
+        },
+        {
+          "title": "Necessario intervenire contro il grave peggioramento dei diritti di donne e ragazze - amnesty.ch",
+          "source": "amnesty.ch",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Necessario intervenire contro il grave peggioramento dei diritti di donne e ragazze amnesty.ch"
+        }
+      ]
+    },
+    "Volodymyr_Zelens'kyj": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Volodymyr Oleksandrovyč Zelens'kyj è un politico ed ex attore ucraino, dal 20 maggio 2019 presidente dell'Ucraina.",
+      "news": [
+        {
+          "title": "Stasera Italia: Gli interessi privati di Volodymyr Zelens'kyj Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Stasera Italia: Gli interessi privati di Volodymyr Zelens'kyj Video Mediaset Infinity"
+        },
+        {
+          "title": "Tutti pazzi per la serie tv con Zelensky \"Servant of the people\" - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Tutti pazzi per la serie tv con Zelensky \"Servant of the people\" Il Sole 24 ORE"
+        },
+        {
+          "title": "«Non possiamo permetterci di mettere Putin nell’angolo» - Heraldo - magazine",
+          "source": "Heraldo - magazine",
+          "pubDate": "Sat, 12 Mar 2022 08:00:00 GMT",
+          "description": "«Non possiamo permetterci di mettere Putin nell’angolo» Heraldo - magazine"
+        },
+        {
+          "title": "Legione internazionale: l’Ucraina chiama e l’Europa si divide - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Legione internazionale: l’Ucraina chiama e l’Europa si divide il manifesto"
+        },
+        {
+          "title": "Manifestazioni pro Ucraina in molte piazze europee. Zelensky collegato con Firenze - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Sat, 12 Mar 2022 08:00:00 GMT",
+          "description": "Manifestazioni pro Ucraina in molte piazze europee. Zelensky collegato con Firenze Il Sole 24 ORE"
+        },
+        {
+          "title": "Perché la zeta è un simbolo a favore di Putin e dell’invasione dell’Ucraina - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Perché la zeta è un simbolo a favore di Putin e dell’invasione dell’Ucraina Internazionale"
+        },
+        {
+          "title": "Volodimyr Zelensky: un presidente (ebreo) nel mirino - Mosaico-cem.it",
+          "source": "Mosaico-cem.it",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Volodimyr Zelensky: un presidente (ebreo) nel mirino Mosaico-cem.it"
+        },
+        {
+          "title": "Ecco come la Nato potrebbe difendere l’Ucraina - Startmag",
+          "source": "Startmag",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Ecco come la Nato potrebbe difendere l’Ucraina Startmag"
+        },
+        {
+          "title": "Controcorrente: Che cosa nasconde lo sguardo di Putin? Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Controcorrente: Che cosa nasconde lo sguardo di Putin? Video Mediaset Infinity"
+        },
+        {
+          "title": "Controcorrente: Perché Putin parla di denazificazione? Video - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Controcorrente: Perché Putin parla di denazificazione? Video Mediaset Infinity"
+        }
+      ]
+    },
+    "Battaglione_Azov": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La 12ª Brigata operazioni speciali \"Azov\", nota anche con le precedenti denominazioni di Reggimento Azov e Battaglione Azov, è un'unità militare ucraina con compiti militari e di polizia, parte del Movimento Azov.",
+      "news": [
+        {
+          "title": "Che cos’è il battaglione Azov che combatte a Mariupol - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Che cos’è il battaglione Azov che combatte a Mariupol Fanpage"
+        },
+        {
+          "title": "No! Questo video non mostra dei soldati ucraini all'interno dell'ospedale pediatrico di Mariupol - Open",
+          "source": "Open",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "No! Questo video non mostra dei soldati ucraini all'interno dell'ospedale pediatrico di Mariupol Open"
+        },
+        {
+          "title": "Che cos'è il battaglione Azov - Today",
+          "source": "Today",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Che cos'è il battaglione Azov Today"
+        },
+        {
+          "title": "Guerra Russia-Ucraina: dal gruppo Wagner al battaglione Azov, ecco le milizie parallele di Mosca e Kiev. Il caso dei ceceni: gruppi schierati su entrambi i fronti - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Guerra Russia-Ucraina: dal gruppo Wagner al battaglione Azov, ecco le milizie parallele di Mosca e Kiev. Il caso dei ceceni: gruppi schierati su entrambi i fronti Il Fatto Quotidiano"
+        },
+        {
+          "title": "Cos’è il Battaglione Azov, la brigata neonazista ucraina usata da Putin nella propaganda sulla guerra - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Cos’è il Battaglione Azov, la brigata neonazista ucraina usata da Putin nella propaganda sulla guerra Il Riformista"
+        },
+        {
+          "title": "Chi sono i «nazisti ucraini» di cui parla Putin? Dal ruolo nella guerra del Donbass al battaglione Azov - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Chi sono i «nazisti ucraini» di cui parla Putin? Dal ruolo nella guerra del Donbass al battaglione Azov Il Messaggero"
+        },
+        {
+          "title": "Perché Mariupol. La spietata vendetta russa sulla città del Battaglione Azov (di M. Cilenti) - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Perché Mariupol. La spietata vendetta russa sulla città del Battaglione Azov (di M. Cilenti) HuffPost Italia"
+        },
+        {
+          "title": "Il camerata italiano sul fronte ucraino - Panorama",
+          "source": "Panorama",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Il camerata italiano sul fronte ucraino Panorama"
+        },
+        {
+          "title": "Mercenari e foreign fighters spietati: dai siriani arruolati dalla Russia al battaglione Azov al fianco di Kiev, ecco chi sta combattendo in Ucraina - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Mercenari e foreign fighters spietati: dai siriani arruolati dalla Russia al battaglione Azov al fianco di Kiev, ecco chi sta combattendo in Ucraina La Stampa"
+        },
+        {
+          "title": "Il simbolo Z sui carri armati russi in Ucraina: tutti i segni di guerra e terrore nella storia - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 12 Mar 2022 08:00:00 GMT",
+          "description": "Il simbolo Z sui carri armati russi in Ucraina: tutti i segni di guerra e terrore nella storia Corriere della Sera"
+        }
+      ]
+    },
+    "Russia": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Russia, ufficialmente Federazione Russa, è uno Stato transcontinentale, principalmente sito nell’Asia settentrionale, che si estende per un terzo in Europa. È il più vasto Stato del mondo, con una superficie di 17 098 246 km², ed a inizio 2024 conta circa 144 milioni di abitanti. La capitale è Mosca. La lingua ufficiale è il russo, ma le repubbliche autonome possono avere altre lingue ufficiali. L'attuale presidente della federazione è Vladimir Putin.",
+      "news": [
+        {
+          "title": "Speciale Russia-Ucraina: Blocco totale? - ISPI",
+          "source": "ISPI",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Speciale Russia-Ucraina: Blocco totale? ISPI"
+        },
+        {
+          "title": "L'Italia taglia ponti scientifici con la Russia e si prepara a ospitare ricercatori ucraini - Nature",
+          "source": "Nature",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "L'Italia taglia ponti scientifici con la Russia e si prepara a ospitare ricercatori ucraini Nature"
+        },
+        {
+          "title": "News dall'Europa: Russia, commissione UE sospende cooperazione scientifica - Ministero della cultura",
+          "source": "Ministero della cultura",
+          "pubDate": "Tue, 08 Mar 2022 01:23:51 GMT",
+          "description": "News dall'Europa: Russia, commissione UE sospende cooperazione scientifica Ministero della cultura"
+        },
+        {
+          "title": "\"La Russia cambia il mondo\", il numero 2/22 di Limes - Limes",
+          "source": "Limes",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "\"La Russia cambia il mondo\", il numero 2/22 di Limes Limes"
+        },
+        {
+          "title": "Ecco perché la Renault non vorrebbe lasciare la Russia - alVolante",
+          "source": "alVolante",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Ecco perché la Renault non vorrebbe lasciare la Russia alVolante"
+        },
+        {
+          "title": "Russia: continua la brutale repressione contro il giornalismo indipendente e il movimento contro la guerra - Amnesty International Italia",
+          "source": "Amnesty International Italia",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Russia: continua la brutale repressione contro il giornalismo indipendente e il movimento contro la guerra Amnesty International Italia"
+        },
+        {
+          "title": "Paolo Nori: \"Ecco la mia Russia, un paese da amare anche se fa paura\" - Il Foglio",
+          "source": "Il Foglio",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Paolo Nori: \"Ecco la mia Russia, un paese da amare anche se fa paura\" Il Foglio"
+        },
+        {
+          "title": "Russia, Gian Micalessin dalla Crimea: \"Le sanzioni non mordono per ora, pesa per i russi la sospensione dei servizi Apple o Facebook\" - La7",
+          "source": "La7",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Russia, Gian Micalessin dalla Crimea: \"Le sanzioni non mordono per ora, pesa per i russi la sospensione dei servizi Apple o Facebook\" La7"
+        },
+        {
+          "title": "Domande e risposte dell'Occidente mentre la Russia vince la guerra - Limes - Rivista Italiana di geopolitica",
+          "source": "Limes - Rivista Italiana di geopolitica",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Domande e risposte dell'Occidente mentre la Russia vince la guerra Limes - Rivista Italiana di geopolitica"
+        },
+        {
+          "title": "Aerei per Kiev, colpire il petrolio della Russia e altre notizie sulla guerra in Ucraina - Limes",
+          "source": "Limes",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Aerei per Kiev, colpire il petrolio della Russia e altre notizie sulla guerra in Ucraina Limes"
+        }
+      ]
+    },
+    "Amanda_Lear": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Amanda Lear, pseudonimo di Amanda Tapp o Tap, è una cantante, attrice, conduttrice televisiva e modella francese naturalizzata britannica.",
+      "news": [
+        {
+          "title": "David Bowie e Amanda Lear, storia della coppia più ambigua (e affascinante) degli Anni 70 - ELLE",
+          "source": "ELLE",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "David Bowie e Amanda Lear, storia della coppia più ambigua (e affascinante) degli Anni 70 ELLE"
+        },
+        {
+          "title": "Domenica In 2021/22 - Le mille vite di Amanda Lear - Domenica in 13/03/2022 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Domenica In 2021/22 - Le mille vite di Amanda Lear - Domenica in 13/03/2022 - Video RaiPlay"
+        },
+        {
+          "title": "Amanda Lear, rivelazione choc a Domenica In: «Sono una traditrice seriale» - Il Mattino",
+          "source": "Il Mattino",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Amanda Lear, rivelazione choc a Domenica In: «Sono una traditrice seriale» Il Mattino"
+        },
+        {
+          "title": "Amanda Lear, felice di invecchiare, ho cose nuove da fare - ANSA",
+          "source": "ANSA",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Amanda Lear, felice di invecchiare, ho cose nuove da fare ANSA"
+        },
+        {
+          "title": "Amanda Lear e la gaffe sulle donne ucraine a Domenica In, Mara Venier si scusa e chiude le polemiche - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Amanda Lear e la gaffe sulle donne ucraine a Domenica In, Mara Venier si scusa e chiude le polemiche Fanpage"
+        },
+        {
+          "title": "Amanda Lear, gaffe a Domenica In: «Sembra una mig**tta ucraina». Mara Venier furiosa - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Amanda Lear, gaffe a Domenica In: «Sembra una mig**tta ucraina». Mara Venier furiosa Leggo.it"
+        },
+        {
+          "title": "Amanda Lear a “Domenica In”: la battuta infelice nel momento sbagliato. La Venier si dissocia - DiLei",
+          "source": "DiLei",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Amanda Lear a “Domenica In”: la battuta infelice nel momento sbagliato. La Venier si dissocia DiLei"
+        },
+        {
+          "title": "Amanda Lear: \"Non sono nata uomo e sono stata con Dalì, basta palle che si raccontano dalla D'Urso\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Amanda Lear: \"Non sono nata uomo e sono stata con Dalì, basta palle che si raccontano dalla D'Urso\" Fanpage"
+        },
+        {
+          "title": "\"Mignottona ucraniana\", Amanda Lear chiede scusa: \"Battuta impulsiva, non volevo offendere\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "\"Mignottona ucraniana\", Amanda Lear chiede scusa: \"Battuta impulsiva, non volevo offendere\" Fanpage"
+        },
+        {
+          "title": "Domenica in 13 marzo, ospiti, maggioni, cocciante, amanda lear, bocelli - Marida Caterini",
+          "source": "Marida Caterini",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Domenica in 13 marzo, ospiti, maggioni, cocciante, amanda lear, bocelli Marida Caterini"
+        }
+      ]
+    },
+    "Crisi_russo-ucraina": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il conflitto russo-ucraino o guerra russo-ucraina è uno scontro politico, diplomatico e militare tra Russia e Ucraina iniziato de facto nella seconda metà di febbraio del 2014. Dal febbraio 2022, dopo l'invasione russa dell'Ucraina, le truppe regolari di entrambi i Paesi sono coinvolte in uno scontro diretto.",
+      "news": [
+        {
+          "title": "Ucraina: 10 punti per capire come la guerra ha cambiato il mondo - ISPI",
+          "source": "ISPI",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Ucraina: 10 punti per capire come la guerra ha cambiato il mondo ISPI"
+        },
+        {
+          "title": "La crisi russo-ucraina vista dalla pelletteria che vende a Mosca - La conceria.it",
+          "source": "La conceria.it",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "La crisi russo-ucraina vista dalla pelletteria che vende a Mosca La conceria.it"
+        },
+        {
+          "title": "Speciale Ucraina: bombe sui civili - ISPI",
+          "source": "ISPI",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Speciale Ucraina: bombe sui civili ISPI"
+        },
+        {
+          "title": "Speciale Russia-Ucraina: Dipendenza (in)finita? - ISPI",
+          "source": "ISPI",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Speciale Russia-Ucraina: Dipendenza (in)finita? ISPI"
+        },
+        {
+          "title": "Speciale Russia-Ucraina: Blocco totale? - ISPI",
+          "source": "ISPI",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Speciale Russia-Ucraina: Blocco totale? ISPI"
+        },
+        {
+          "title": "ONU: perché molti paesi non si sono opposti all’invasione? - ISPI",
+          "source": "ISPI",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "ONU: perché molti paesi non si sono opposti all’invasione? ISPI"
+        },
+        {
+          "title": "Speciale Ucraina: \"nessun progresso\" - ISPI",
+          "source": "ISPI",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Speciale Ucraina: \"nessun progresso\" ISPI"
+        },
+        {
+          "title": "Speciale Russia-Ucraina: Alla ricerca dell’oro nero - ISPI",
+          "source": "ISPI",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Speciale Russia-Ucraina: Alla ricerca dell’oro nero ISPI"
+        }
+      ]
+    },
+    "The_Batman_(film)": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "The Batman è un film del 2022 co-scritto, diretto e co-prodotto da Matt Reeves.",
+      "news": [
+        {
+          "title": "The Batman: la spiegazione del perché il film con Robert Pattinson è così straordinario [recensione] - Anonima Cinefili",
+          "source": "Anonima Cinefili",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "The Batman: la spiegazione del perché il film con Robert Pattinson è così straordinario [recensione] Anonima Cinefili"
+        },
+        {
+          "title": "Matt Reeves parla di quel personaggio alla fine di The Batman - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Matt Reeves parla di quel personaggio alla fine di The Batman Wired Italia"
+        },
+        {
+          "title": "The Batman: 10 cose the potreste non aver notato - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "The Batman: 10 cose the potreste non aver notato Movieplayer"
+        },
+        {
+          "title": "Bello The Batman, ma dov’è Bruce Wayne? - N3rdcore",
+          "source": "N3rdcore",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Bello The Batman, ma dov’è Bruce Wayne? N3rdcore"
+        },
+        {
+          "title": "The Batman non somiglia a nessun altro Batman. Per questo funziona. - La Balena Bianca",
+          "source": "La Balena Bianca",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "The Batman non somiglia a nessun altro Batman. Per questo funziona. La Balena Bianca"
+        },
+        {
+          "title": "The Batman, il sito dell'Enigmista è tornato attivo - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "The Batman, il sito dell'Enigmista è tornato attivo Sky TG24"
+        },
+        {
+          "title": "The Batman, l’epopea noir oltre il marcio di Gotham - NPC Magazine",
+          "source": "NPC Magazine",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "The Batman, l’epopea noir oltre il marcio di Gotham NPC Magazine"
+        },
+        {
+          "title": "\"The Batman\", il film di Matt Reeves con Robert Pattinson al Cinema Adriano di Firenze - Portale Giovani Comune di Firenze",
+          "source": "Portale Giovani Comune di Firenze",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "\"The Batman\", il film di Matt Reeves con Robert Pattinson al Cinema Adriano di Firenze Portale Giovani Comune di Firenze"
+        },
+        {
+          "title": "The Batman, superati 400 milioni di dollari di incassi - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "The Batman, superati 400 milioni di dollari di incassi Sky TG24"
+        }
+      ]
+    },
+    "Disastro_di_Černobyl'": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il disastro di Černobyl' è un incidente nucleare avvenuto nella centrale nucleare di Černobyl' all'ora locale 1:23 del 26 aprile 1986 in seguito all'esplosione del reattore 4.",
+      "news": []
+    },
+    "Karim_Benzema": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Karim Mostafa Benzema è un calciatore francese di origine algerina, attaccante svincolato. Con la nazionale francese è diventato vicecampione del mondo nel 2022 e ha vinto la UEFA Nations League 2020-2021.",
+      "news": [
+        {
+          "title": "Karim Benzema è un’opera d’arte - Rivista Contrasti",
+          "source": "Rivista Contrasti",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Karim Benzema è un’opera d’arte Rivista Contrasti"
+        },
+        {
+          "title": "Karim Benzema, un’altra notte da centravanti perfetto - Rivista Undici",
+          "source": "Rivista Undici",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Karim Benzema, un’altra notte da centravanti perfetto Rivista Undici"
+        },
+        {
+          "title": "Benzema visionario, sapeva già tutto: impressionante profezia su Whatsapp prima della partita - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Benzema visionario, sapeva già tutto: impressionante profezia su Whatsapp prima della partita Fanpage"
+        },
+        {
+          "title": "Real Madrid-Psg 3-1: una tripletta di Benzema liquida i «galacticos» francesi, spagnoli ai quarti - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Real Madrid-Psg 3-1: una tripletta di Benzema liquida i «galacticos» francesi, spagnoli ai quarti Corriere della Sera"
+        },
+        {
+          "title": "Real Madrid-Psg 3-1: Benzema show, Donnarumma da incubo - Radio Sportiva",
+          "source": "Radio Sportiva",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Real Madrid-Psg 3-1: Benzema show, Donnarumma da incubo Radio Sportiva"
+        },
+        {
+          "title": "Cassano esalta Benzema: \"Come 9, migliore di Cristiano Ronaldo\" - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Cassano esalta Benzema: \"Come 9, migliore di Cristiano Ronaldo\" Virgilio"
+        },
+        {
+          "title": "Cassano sentenzia: “Benzema più forte di CR7, ha l’istinto killer del 9 e la qualità di Zidane” - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Cassano sentenzia: “Benzema più forte di CR7, ha l’istinto killer del 9 e la qualità di Zidane” Fanpage"
+        },
+        {
+          "title": "Benzema, le auto di lusso: da Bugatti a McLaren e Ferrari, una collezione da 4 milioni - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Benzema, le auto di lusso: da Bugatti a McLaren e Ferrari, una collezione da 4 milioni Corriere della Sera"
+        },
+        {
+          "title": "Mbappé in una stanza riservata del Bernabeu per 15 minuti: cosa è successo dopo Real-PSG - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Mbappé in una stanza riservata del Bernabeu per 15 minuti: cosa è successo dopo Real-PSG Fanpage"
+        },
+        {
+          "title": "Karim Benzema, centravanti monstre che schianta il Psg e fa volare il Real Madrid - Tag43",
+          "source": "Tag43",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Karim Benzema, centravanti monstre che schianta il Psg e fa volare il Real Madrid Tag43"
+        }
+      ]
+    },
+    "Unione_Sovietica": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Unione delle Repubbliche Socialiste Sovietiche, acronimo URSS e in forma abbreviata Unione Sovietica, fu uno Stato federale che si estendeva tra Europa orientale e Asia settentrionale, sorto il 30 dicembre 1922 sulle ceneri dell'Impero russo. Era composta da 15 repubbliche socialiste, la più grande delle quali era la Russia, a sua volta suddivisa in repubbliche autonome federate.",
+      "news": [
+        {
+          "title": "Il dominio web dell'Unione Sovietica esiste ancora e la sua storia è un rompicapo - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Il dominio web dell'Unione Sovietica esiste ancora e la sua storia è un rompicapo Esquire"
+        },
+        {
+          "title": "Gli Stati dell'Asia centrale ex sovietica e la guerra russo-ucraina - Med-Or",
+          "source": "Med-Or",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Gli Stati dell'Asia centrale ex sovietica e la guerra russo-ucraina Med-Or"
+        },
+        {
+          "title": "Il primo storico McDonald’s in Russia - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Il primo storico McDonald’s in Russia Il Post"
+        },
+        {
+          "title": "Quali sono le repubbliche dell'ex Unione Sovietica contese ancora oggi - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Quali sono le repubbliche dell'ex Unione Sovietica contese ancora oggi Virgilio"
+        },
+        {
+          "title": "L’Ucraina? Sta nell’Unione sovietica. Il giallo del manuale (in uso nelle scuole italiane) che riscrive la storia - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "L’Ucraina? Sta nell’Unione sovietica. Il giallo del manuale (in uso nelle scuole italiane) che riscrive la storia Il Messaggero"
+        },
+        {
+          "title": "Dove i russi sono minoranza: la mappa dell'eredità dell'Urss - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Dove i russi sono minoranza: la mappa dell'eredità dell'Urss Avvenire"
+        },
+        {
+          "title": "Le guerre della Russia, dalla caduta dell’Urss a oggi - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Le guerre della Russia, dalla caduta dell’Urss a oggi Corriere della Sera"
+        },
+        {
+          "title": "Ennesimo allarme bomba all’istituto Primo Levi di corso Unione Sovietica a Torino - Quotidiano Piemontese",
+          "source": "Quotidiano Piemontese",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Ennesimo allarme bomba all’istituto Primo Levi di corso Unione Sovietica a Torino Quotidiano Piemontese"
+        },
+        {
+          "title": "Quando la Fiat sbarcò a Mosca e il fascismo «parlava» con il comunismo - Corriere Torino",
+          "source": "Corriere Torino",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Quando la Fiat sbarcò a Mosca e il fascismo «parlava» con il comunismo Corriere Torino"
+        }
+      ]
+    },
+    "Corrado_Guzzanti": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Corrado Guzzanti è un autore televisivo, comico, imitatore, attore, sceneggiatore e regista italiano.",
+      "news": [
+        {
+          "title": "Ecco perché Corrado Guzzanti è il Re assoluto della comicità italiana - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Ecco perché Corrado Guzzanti è il Re assoluto della comicità italiana LaScimmiaPensa.com"
+        },
+        {
+          "title": "Antonello Venditti: l’imitazione di Guzzanti, mai in gara a Sanremo, 15 (+1) segreti su di lui - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Antonello Venditti: l’imitazione di Guzzanti, mai in gara a Sanremo, 15 (+1) segreti su di lui Corriere della Sera"
+        },
+        {
+          "title": "LOL 2, è uscita la puntata extra - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "LOL 2, è uscita la puntata extra Sky TG24"
+        },
+        {
+          "title": "Corrado Guzzanti e Lillo: storia dell’amicizia tra i due re della comicità - www.lascimmiapensa.com",
+          "source": "www.lascimmiapensa.com",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Corrado Guzzanti e Lillo: storia dell’amicizia tra i due re della comicità www.lascimmiapensa.com"
+        },
+        {
+          "title": "LOL 2, cachet da record: ecco quanto hanno guadagnato comici e conduttori - Yahoo Finanza",
+          "source": "Yahoo Finanza",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "LOL 2, cachet da record: ecco quanto hanno guadagnato comici e conduttori Yahoo Finanza"
+        },
+        {
+          "title": "Lol 2: Forest, Guzzanti e Raffaele un trio di big che fa sparire gli altri - Il Gazzettino",
+          "source": "Il Gazzettino",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Lol 2: Forest, Guzzanti e Raffaele un trio di big che fa sparire gli altri Il Gazzettino"
+        },
+        {
+          "title": "I 5 momenti cult della puntata bonus di ‘LOL – Chi ride è fuori 2’ - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "I 5 momenti cult della puntata bonus di ‘LOL – Chi ride è fuori 2’ Rolling Stone Italia"
+        }
+      ]
+    },
+    "Bomba_a_vuoto": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La bomba termobarica, o impropriamente bomba a vuoto, è una particolare tipologia di arma convenzionale che usa l'ossigeno dell'aria circostante per generare un'esplosione ad alta temperatura.",
+      "news": [
+        {
+          "title": "Le bombe che tolgono l’aria dai polmoni - Corriere del Ticino",
+          "source": "Corriere del Ticino",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Le bombe che tolgono l’aria dai polmoni Corriere del Ticino"
+        },
+        {
+          "title": "La Russia è accusata di usare bombe termobariche in Ucraina - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "La Russia è accusata di usare bombe termobariche in Ucraina Wired Italia"
+        },
+        {
+          "title": "Guerra Russia-Ucraina: le armi termobariche e la minaccia nucleare - - Metropolitano.it",
+          "source": "Metropolitano.it",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Guerra Russia-Ucraina: le armi termobariche e la minaccia nucleare - Metropolitano.it"
+        },
+        {
+          "title": "Incidente a Toscolano Maderno, autobus sospeso nel vuoto - Corriere Brescia",
+          "source": "Corriere Brescia",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Incidente a Toscolano Maderno, autobus sospeso nel vuoto Corriere Brescia"
+        }
+      ]
+    },
+    "Oligarchi_russi": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Gli oligarchi russi sono magnati degli affari delle ex Repubbliche sovietiche che hanno rapidamente accumulato immense ricchezze durante il periodo della privatizzazione che è seguito allo scioglimento dell'Unione Sovietica negli anni '90. Il fallimento dello Stato sovietico rese controversa la proprietà di vari beni statali, il che consentì accordi informali con ex funzionari dell'URSS come un mezzo per acquisire proprietà statali. Lo storico Edward L. Keenan ha tracciato un paragone tra l'attuale fenomeno russo degli oligarchi e il sistema di potenti boiardi emersi nel Granducato di Mosca tardomedievale.",
+      "news": [
+        {
+          "title": "Ucraina, c'è anche Abramovich nella lista degli oligarchi russi sanzionati da Londra - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Ucraina, c'è anche Abramovich nella lista degli oligarchi russi sanzionati da Londra RaiNews"
+        },
+        {
+          "title": "Guerra Ucraina, nuove sanzioni a oligarchi russi: chi sono i miliardari vicini a Putin - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Guerra Ucraina, nuove sanzioni a oligarchi russi: chi sono i miliardari vicini a Putin Sky TG24"
+        },
+        {
+          "title": "Perché ha senso colpire gli oligarchi (e perché è un problema per Putin) - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Perché ha senso colpire gli oligarchi (e perché è un problema per Putin) Corriere della Sera"
+        },
+        {
+          "title": "Forte dei Marmi e gli oligarchi russi. Intervista a Umberto Buratti (10.03.2022) - Radio Radicale",
+          "source": "Radio Radicale",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Forte dei Marmi e gli oligarchi russi. Intervista a Umberto Buratti (10.03.2022) Radio Radicale"
+        },
+        {
+          "title": "Da Manhattan alla Costa Smeralda: ecco dove hanno casa i miliardari russi sanzionati - Forbes Italia",
+          "source": "Forbes Italia",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Da Manhattan alla Costa Smeralda: ecco dove hanno casa i miliardari russi sanzionati Forbes Italia"
+        },
+        {
+          "title": "Beni e immobili degli oligarchi russi sequestrati in Italia. Ecco quali sono - Immobiliare.it",
+          "source": "Immobiliare.it",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Beni e immobili degli oligarchi russi sequestrati in Italia. Ecco quali sono Immobiliare.it"
+        },
+        {
+          "title": "La caccia italiana al tesoro degli oligarchi russi - lavialibera",
+          "source": "lavialibera",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "La caccia italiana al tesoro degli oligarchi russi lavialibera"
+        },
+        {
+          "title": "Il patrimonio degli oligarchi russi tra ville e yacht di lusso sequestrato in Italia - Idealista",
+          "source": "Idealista",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Il patrimonio degli oligarchi russi tra ville e yacht di lusso sequestrato in Italia Idealista"
+        },
+        {
+          "title": "Oligarchi russi, chi sono e perché si chiamano così: molti ora portano i loro beni a Dubai - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Oligarchi russi, chi sono e perché si chiamano così: molti ora portano i loro beni a Dubai Il Messaggero"
+        },
+        {
+          "title": "Sofia Abramovich e le altre figlie degli oligarchi russi che hanno sfidato Putin sui social - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Sofia Abramovich e le altre figlie degli oligarchi russi che hanno sfidato Putin sui social Radio Deejay"
+        }
+      ]
+    },
+    "Storia_dell'Ucraina": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La storia dell'Ucraina si estende per migliaia di anni. Come parte della Scizia nell'antichità, l'Ucraina è stata ampiamente colonizzata da Greutungi, Geti, Goti e Unni nel periodo delle migrazioni, mentre le parti meridionali dell'Ucraina sono state precedentemente colonizzate dai Greci e poi dai Romani. Nell'Alto Medioevo fu il luogo della prima espansione slava.",
+      "news": [
+        {
+          "title": "Conoscere la storia dell’Ucraina aiuta a difendersi dalla propaganda e smontare le falsità di Putin - The Vision",
+          "source": "The Vision",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Conoscere la storia dell’Ucraina aiuta a difendersi dalla propaganda e smontare le falsità di Putin The Vision"
+        },
+        {
+          "title": "Ucraina e Russia: la storia e la guerra - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Ucraina e Russia: la storia e la guerra Il Bo Live"
+        },
+        {
+          "title": "La storia della frase che ha fatto diventare Zelensky una specie di eroe - Il Post",
+          "source": "Il Post",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "La storia della frase che ha fatto diventare Zelensky una specie di eroe Il Post"
+        },
+        {
+          "title": "La vera storia della bambina ucraina con fucile e lecca lecca: non è una combattente - Open",
+          "source": "Open",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "La vera storia della bambina ucraina con fucile e lecca lecca: non è una combattente Open"
+        }
+      ]
+    },
+    "Cristiano_Ronaldo": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Cristiano Ronaldo dos Santos Aveiro è un calciatore portoghese, attaccante dell'Al-Nassr, di cui è capitano. Con la nazionale portoghese, è diventato campione d'Europa nel 2016 e ha vinto la UEFA Nations League 2018-2019 e 2024-2025.",
+      "news": [
+        {
+          "title": "CR3: tutte le triplette di Ronaldo in carriera - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "CR3: tutte le triplette di Ronaldo in carriera Sky Sport"
+        },
+        {
+          "title": "Uragano Ronaldo su Conte: tripletta, è il miglior bomber della storia - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sat, 12 Mar 2022 08:00:00 GMT",
+          "description": "Uragano Ronaldo su Conte: tripletta, è il miglior bomber della storia La Gazzetta dello Sport"
+        },
+        {
+          "title": "Cristiano Ronaldo Jr sfoggia movenze impressionanti, ma ecco la sorpresa: non sta imitando il papà - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo Jr sfoggia movenze impressionanti, ma ecco la sorpresa: non sta imitando il papà Fanpage"
+        },
+        {
+          "title": "Ronaldo salta il derby di Manchester. Per Rangnick è infortunato, la sorella di CR7 lo smentisce: «È al 100%» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Ronaldo salta il derby di Manchester. Per Rangnick è infortunato, la sorella di CR7 lo smentisce: «È al 100%» Corriere della Sera"
+        },
+        {
+          "title": "United, ora CR7 è un caso: \"Salta il City e vola in Portogallo\" - www.eurosport.it",
+          "source": "www.eurosport.it",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "United, ora CR7 è un caso: \"Salta il City e vola in Portogallo\" www.eurosport.it"
+        },
+        {
+          "title": "Cristiano Ronaldo vola in Portogallo e lascia lo United da solo - Superscommesse",
+          "source": "Superscommesse",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo vola in Portogallo e lascia lo United da solo Superscommesse"
+        },
+        {
+          "title": "Premier League; riecco Cristiano Ronaldo, tripletta al Tottenham di Conte - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Sat, 12 Mar 2022 08:00:00 GMT",
+          "description": "Premier League; riecco Cristiano Ronaldo, tripletta al Tottenham di Conte Virgilio"
+        },
+        {
+          "title": "Ronaldo e Manchester United vicini alla rottura: il portoghese rifiuta la panchina - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Ronaldo e Manchester United vicini alla rottura: il portoghese rifiuta la panchina RaiNews"
+        },
+        {
+          "title": "Il finto infortunio di CR7: la conferma dal like della sorella - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Il finto infortunio di CR7: la conferma dal like della sorella il Giornale"
+        },
+        {
+          "title": "Cristiano Ronaldo si gode la rivincita e manda un messaggio su WhatsApp: solo tre parole - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Cristiano Ronaldo si gode la rivincita e manda un messaggio su WhatsApp: solo tre parole Fanpage"
+        }
+      ]
+    },
+    "Strage_di_Odessa": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Odessa attende l'assalto russo. Può cambiare il corso della guerra (di C. Renda) - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Odessa attende l'assalto russo. Può cambiare il corso della guerra (di C. Renda) HuffPost Italia"
+        },
+        {
+          "title": "Ebrei in Ucraina e l’arte: un legame indissolubile - Mosaico-cem.it",
+          "source": "Mosaico-cem.it",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Ebrei in Ucraina e l’arte: un legame indissolubile Mosaico-cem.it"
+        },
+        {
+          "title": "Bombardato l'ospedale pediatrico a Mariupol. Zelensky: sì a compromessi, ma non tradisco l'Ucraina - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Bombardato l'ospedale pediatrico a Mariupol. Zelensky: sì a compromessi, ma non tradisco l'Ucraina RaiNews"
+        },
+        {
+          "title": "Macron: Putin non vuole fermarsi. Media israeliani: sì di Mosca a negoziati a Gerusalemme - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "Macron: Putin non vuole fermarsi. Media israeliani: sì di Mosca a negoziati a Gerusalemme Il Sole 24 ORE"
+        },
+        {
+          "title": "Guerra Russia Ucraina, cos’è successo stanotte: ancora bombe su Irpin, russi puntano su Kiev - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Guerra Russia Ucraina, cos’è successo stanotte: ancora bombe su Irpin, russi puntano su Kiev Fanpage"
+        },
+        {
+          "title": "Guerra in Ucraina, i russi promettono una tregua anche oggi. La Banca Mondiale approva aiuti per 489 milioni … - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina, i russi promettono una tregua anche oggi. La Banca Mondiale approva aiuti per 489 milioni … La Stampa"
+        },
+        {
+          "title": "La narrazione monolitica sul conflitto tra Ucraina e Russia - www.lacittafutura.it",
+          "source": "www.lacittafutura.it",
+          "pubDate": "Fri, 11 Mar 2022 08:00:00 GMT",
+          "description": "La narrazione monolitica sul conflitto tra Ucraina e Russia www.lacittafutura.it"
+        }
+      ]
+    },
+    "William_Hurt": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "William McChord Hurt è stato un attore statunitense.\nFu protagonista di molti film soprattutto negli anni ottanta e novanta, vincendo un Premio Oscar per Il bacio della donna ragno (1985).",
+      "news": [
+        {
+          "title": "William Hurt era inconfondibile, e sempre diverso - Esquire",
+          "source": "Esquire",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "William Hurt era inconfondibile, e sempre diverso Esquire"
+        },
+        {
+          "title": "Cinema, è morto l'attore William Hurt - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Cinema, è morto l'attore William Hurt RaiNews"
+        },
+        {
+          "title": "Morto William Hurt, premio Oscar per Il bacio della donna ragno - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Morto William Hurt, premio Oscar per Il bacio della donna ragno Vanity Fair Italia"
+        },
+        {
+          "title": "Addio a William Hurt, l'attore premio Oscar è morto a 71 anni - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Addio a William Hurt, l'attore premio Oscar è morto a 71 anni Corriere della Sera"
+        },
+        {
+          "title": "Addio a William Hurt, grande premio Oscar per «Il bacio della donna ragno» - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Addio a William Hurt, grande premio Oscar per «Il bacio della donna ragno» Il Sole 24 ORE"
+        },
+        {
+          "title": "Addio a William Hurt: i suoi film più famosi. FOTOSTORIA - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Addio a William Hurt: i suoi film più famosi. FOTOSTORIA Sky TG24"
+        },
+        {
+          "title": "È morto William Hurt - Sentieri selvaggi",
+          "source": "Sentieri selvaggi",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "È morto William Hurt Sentieri selvaggi"
+        },
+        {
+          "title": "Addio a William Hurt, l'attore baciato dalla \"Donna Ragno\" - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Addio a William Hurt, l'attore baciato dalla \"Donna Ragno\" Euronews.com"
+        },
+        {
+          "title": "William Hurt: film memorabili e molti amori (finiti quasi tutti male) - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "William Hurt: film memorabili e molti amori (finiti quasi tutti male) iO Donna"
+        },
+        {
+          "title": "È morto l’attore William Hurt - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "È morto l’attore William Hurt Il Post"
+        }
+      ]
+    },
+    "Maccio_Capatonda": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Maccio Capatonda, pseudonimo di Marcello Macchia, è un comico, attore, sceneggiatore, regista e youtuber italiano.",
+      "news": [
+        {
+          "title": "Maccio Capatonda: l’intervista (che sta tra la prevista e la postvista) - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Maccio Capatonda: l’intervista (che sta tra la prevista e la postvista) Rolling Stone Italia"
+        },
+        {
+          "title": "LOL 2, Maccio Capatonda non è soddisfatto: \"Tornassi indietro farei tutto diversamente\" - www.lascimmiapensa.com",
+          "source": "www.lascimmiapensa.com",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "LOL 2, Maccio Capatonda non è soddisfatto: \"Tornassi indietro farei tutto diversamente\" www.lascimmiapensa.com"
+        },
+        {
+          "title": "Maccio Capatonda ed Elisabetta Canalis: come finì la storia - Il Digitale",
+          "source": "Il Digitale",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Maccio Capatonda ed Elisabetta Canalis: come finì la storia Il Digitale"
+        },
+        {
+          "title": "Maccio Capatonda, le due stagioni della serie Mario in streaming - Mediaset Infinity",
+          "source": "Mediaset Infinity",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Maccio Capatonda, le due stagioni della serie Mario in streaming Mediaset Infinity"
+        },
+        {
+          "title": "LOL 2: perché il finale della seconda stagione batte quello della prima - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "LOL 2: perché il finale della seconda stagione batte quello della prima Movieplayer"
+        },
+        {
+          "title": "LOL 2, cachet da record: ecco quanto hanno guadagnato comici e conduttori - Yahoo Finanza",
+          "source": "Yahoo Finanza",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "LOL 2, cachet da record: ecco quanto hanno guadagnato comici e conduttori Yahoo Finanza"
+        },
+        {
+          "title": "LOL 2, è uscita la puntata extra - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "LOL 2, è uscita la puntata extra Sky TG24"
+        },
+        {
+          "title": "LOL 2: dove trovare i gadget visti nelle puntate - Libero",
+          "source": "Libero",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "LOL 2: dove trovare i gadget visti nelle puntate Libero"
+        },
+        {
+          "title": "Maccio Capatonda: il commento di LOL2 durante l'invasione in Ucraina - Radio RDS",
+          "source": "Radio RDS",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Maccio Capatonda: il commento di LOL2 durante l'invasione in Ucraina Radio RDS"
+        },
+        {
+          "title": "La classifica dei 5 migliori personaggi di Maccio Capatonda - Hall of Series",
+          "source": "Hall of Series",
+          "pubDate": "Sat, 12 Mar 2022 08:00:00 GMT",
+          "description": "La classifica dei 5 migliori personaggi di Maccio Capatonda Hall of Series"
+        }
+      ]
+    },
+    "Virginia_Raffaele": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Virginia Raffaele è una comica, imitatrice e attrice italiana.",
+      "news": [
+        {
+          "title": "Ripercorriamo la carriera (di successo) di Virginia Raffaele, dall’infanzia nei luna park alla tv (e Sanremo 2026) - ELLE",
+          "source": "ELLE",
+          "pubDate": "Fri, 11 Mar 2022 17:05:36 GMT",
+          "description": "Ripercorriamo la carriera (di successo) di Virginia Raffaele, dall’infanzia nei luna park alla tv (e Sanremo 2026) ELLE"
+        },
+        {
+          "title": "Virginia Raffaele - Facciamo che io ero - Puntate - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 08 Mar 2022 21:06:55 GMT",
+          "description": "Virginia Raffaele - Facciamo che io ero - Puntate RaiPlay"
+        },
+        {
+          "title": "I Nuovi Mostri, Virginia Raffaele come non te l’aspetti - Striscia la notizia",
+          "source": "Striscia la notizia",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "I Nuovi Mostri, Virginia Raffaele come non te l’aspetti Striscia la notizia"
+        },
+        {
+          "title": "I 5 momenti cult della puntata bonus di ‘LOL – Chi ride è fuori 2’ - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "I 5 momenti cult della puntata bonus di ‘LOL – Chi ride è fuori 2’ Rolling Stone Italia"
+        },
+        {
+          "title": "Lol 2, Virginia Raffaele imita Belen: la reazione della showgirl argentina - Gossip Blog",
+          "source": "Gossip Blog",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Lol 2, Virginia Raffaele imita Belen: la reazione della showgirl argentina Gossip Blog"
+        },
+        {
+          "title": "Virginia Raffaele imita Belen a LOL 2: la reazione della Rodriguez - Novella 2000",
+          "source": "Novella 2000",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "Virginia Raffaele imita Belen a LOL 2: la reazione della Rodriguez Novella 2000"
+        }
+      ]
+    },
+    "Unione_europea": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Unione europea, abbreviata in UE, è un'unione politica ed economica a carattere sovranazionale, che comprende 27 Stati membri. Dal punto di vista geografico, l'UE include anche alcuni territori d'oltremare al di fuori del continente. La sua popolazione ammonta a circa 450 milioni di abitanti. Le lingue più parlate nell'Unione, sia come lingua madre (L1) sia come seconda lingua (L2), sono l'inglese, il francese, il tedesco, lo spagnolo e l'italiano.",
+      "news": [
+        {
+          "title": "Quali tempi per l’ingresso dell’Ucraina nell’Unione Europea? - Altalex",
+          "source": "Altalex",
+          "pubDate": "Tue, 08 Mar 2022 08:00:00 GMT",
+          "description": "Quali tempi per l’ingresso dell’Ucraina nell’Unione Europea? Altalex"
+        },
+        {
+          "title": "L’Unione Europea e i nuovi orizzonti della Tassonomia sociale - Deloitte",
+          "source": "Deloitte",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "L’Unione Europea e i nuovi orizzonti della Tassonomia sociale Deloitte"
+        },
+        {
+          "title": "Equilibrio di genere nei consigli di amministrazione delle società - Council, European Union",
+          "source": "Council, European Union",
+          "pubDate": "Mon, 14 Mar 2022 07:00:00 GMT",
+          "description": "Equilibrio di genere nei consigli di amministrazione delle società Council, European Union"
+        },
+        {
+          "title": "Dario Fabbri: \"L'Unione europea non è un soggetto geopolitico, è un soggetto economico che si finge geopolitico\" - La7",
+          "source": "La7",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Dario Fabbri: \"L'Unione europea non è un soggetto geopolitico, è un soggetto economico che si finge geopolitico\" La7"
+        }
+      ]
+    },
+    "Italia": {
+      "fetched_at": "2026-11-06T16:46:54+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Italia, ufficialmente Repubblica Italiana, è un paese dell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica; Stato membro dell'Unione europea, l'Italia conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione per numero di abitanti dopo Germania e Francia.",
+      "news": [
+        {
+          "title": "Info utili per l'ingresso dei profughi ucraini in Italia - Ministero dell‘Interno",
+          "source": "Ministero dell‘Interno",
+          "pubDate": "Fri, 11 Mar 2022 01:21:11 GMT",
+          "description": "Info utili per l'ingresso dei profughi ucraini in Italia Ministero dell‘Interno"
+        },
+        {
+          "title": "Brevi osservazioni sul caso Randstad Italia - Questione Giustizia",
+          "source": "Questione Giustizia",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Brevi osservazioni sul caso Randstad Italia Questione Giustizia"
+        },
+        {
+          "title": "L’inflazione in Italia e in Europa - Openpolis",
+          "source": "Openpolis",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "L’inflazione in Italia e in Europa Openpolis"
+        },
+        {
+          "title": "Cittadini ucraini: benvenuti in Italia - Polizia",
+          "source": "Polizia",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Cittadini ucraini: benvenuti in Italia Polizia"
+        },
+        {
+          "title": "Negli ultimi due anni in Italia sono state emesse 178 interdittive antimafia al mese - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Wed, 09 Mar 2022 08:00:00 GMT",
+          "description": "Negli ultimi due anni in Italia sono state emesse 178 interdittive antimafia al mese Il Bo Live"
+        },
+        {
+          "title": "L'Italia taglia ponti scientifici con la Russia e si prepara a ospitare ricercatori ucraini - Nature",
+          "source": "Nature",
+          "pubDate": "Mon, 07 Mar 2022 08:00:00 GMT",
+          "description": "L'Italia taglia ponti scientifici con la Russia e si prepara a ospitare ricercatori ucraini Nature"
+        },
+        {
+          "title": "Viaggio alla scoperta degli anfiteatri più belli d’Italia - SiViaggia",
+          "source": "SiViaggia",
+          "pubDate": "Sun, 13 Mar 2022 08:00:00 GMT",
+          "description": "Viaggio alla scoperta degli anfiteatri più belli d’Italia SiViaggia"
+        },
+        {
+          "title": "10 cose GRATIS da fare in Italia - LearnAmo",
+          "source": "LearnAmo",
+          "pubDate": "Wed, 09 Mar 2022 17:53:10 GMT",
+          "description": "10 cose GRATIS da fare in Italia LearnAmo"
+        },
+        {
+          "title": "Pnrr, Colao: \"Abbiamo messo le basi per il futuro\" - Sardiniapost.it",
+          "source": "Sardiniapost.it",
+          "pubDate": "Thu, 10 Mar 2022 08:00:00 GMT",
+          "description": "Pnrr, Colao: \"Abbiamo messo le basi per il futuro\" Sardiniapost.it"
+        }
+      ]
+    }
+  }
+}

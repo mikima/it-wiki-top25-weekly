@@ -121,8 +121,8 @@
       "image_copyrighted": "True",
       "description_source": "openai",
       "image_focus": {
-        "x": 51,
-        "y": 42
+        "x": 52,
+        "y": 50
       },
       "image_fit": "width"
     },
@@ -169,7 +169,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2026-08-23_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2026_STP_3010_(cropped2).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 64,
+        "y": 19
+      }
     },
     {
       "rank": 4,
@@ -310,8 +314,8 @@
       "image_copyrighted": "True",
       "description_source": "openai",
       "image_focus": {
-        "x": 45,
-        "y": 27
+        "x": 49,
+        "y": 21
       }
     },
     {
@@ -359,8 +363,8 @@
       "image_copyrighted": "True",
       "description_source": "openai",
       "image_focus": {
-        "x": 46,
-        "y": 19
+        "x": 51,
+        "y": 13
       }
     },
     {
@@ -645,8 +649,8 @@
       "image_copyrighted": "True",
       "description_source": "openai",
       "image_focus": {
-        "x": 44,
-        "y": 39
+        "x": 43,
+        "y": 33
       }
     },
     {
@@ -695,7 +699,7 @@
       "description_source": "openai",
       "image_focus": {
         "x": 48,
-        "y": 23
+        "y": 18
       }
     },
     {
@@ -1029,8 +1033,8 @@
       "image_copyrighted": "False",
       "description_source": "openai",
       "image_focus": {
-        "x": 57,
-        "y": 47
+        "x": 56,
+        "y": 48
       }
     },
     {
@@ -1166,11 +1170,7 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bianca_Balti_2010.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "openai",
-      "image_focus": {
-        "x": 35,
-        "y": 38
-      }
+      "description_source": "openai"
     },
     {
       "rank": 25,
@@ -1217,8 +1217,8 @@
       "image_copyrighted": "",
       "description_source": "openai",
       "image_focus": {
-        "x": 50,
-        "y": 46
+        "x": 51,
+        "y": 47
       }
     },
     {

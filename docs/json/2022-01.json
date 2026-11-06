@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Elisabetta%20di%20Baviera&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Elisabetta_di_Baviera",
       "article_url": "https://it.wikipedia.org/wiki/Elisabetta_di_Baviera",
-      "description": "imperatrice consorte d'Austria e regina consorte d'Ungheria (1837-1898)",
+      "description": "Imperatrice d'Austria nota come Sissi, è la protagonista della serie la cui seconda puntata va in onda il 4 gennaio su Canale 5.",
       "image_filename": "Elisabeth_of_Austria,_by_Franz_Xaver_Winterhalter.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Elisabeth_of_Austria%2C_by_Franz_Xaver_Winterhalter.jpg/1280px-Elisabeth_of_Austria%2C_by_Franz_Xaver_Winterhalter.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elisabeth_of_Austria%2C_by_Franz_Xaver_Winterhalter.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Sidney%20Poitier&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Sidney_Poitier",
       "article_url": "https://it.wikipedia.org/wiki/Sidney_Poitier",
-      "description": "attore e regista statunitense-bahamense (1927-2022)",
+      "description": "Attore statunitense-bahamense, primo afroamericano a vincere l'Oscar come protagonista, muore il 6 gennaio a 94 anni.",
       "image_filename": "Sidney_Poitier_1968.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sidney_Poitier_1968.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sidney_Poitier_1968.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Don%27t%20Look%20Up&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Don%27t_Look_Up",
       "article_url": "https://it.wikipedia.org/wiki/Don%27t_Look_Up",
-      "description": "film del 2021 diretto da Adam McKay",
+      "description": "Film di Adam McKay con Leonardo DiCaprio e Jennifer Lawrence, esce su Netflix il 24 dicembre 2021.",
       "image_filename": "DontLookUpimmagine.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/22/DontLookUpimmagine.png/1280px-DontLookUpimmagine.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:DontLookUpimmagine.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Franco%20Battiato&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Franco_Battiato",
       "article_url": "https://it.wikipedia.org/wiki/Franco_Battiato",
-      "description": "cantautore, compositore, scrittore, regista, pittore e politico italiano (1945-2021)",
+      "description": "Cantautore italiano morto nel 2021, è ricordato da Pif nella serata Caro Battiato, in onda il 5 gennaio su Rai 3.",
       "image_filename": "Franco_Battiato_at_the_Festival_Gaber_2010_press_conference_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Franco_Battiato_at_the_Festival_Gaber_2010_press_conference_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Franco_Battiato_at_the_Festival_Gaber_2010_press_conference_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Francesco%20Giuseppe%20I%20d%27Austria&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Francesco_Giuseppe_I_d%27Austria",
       "article_url": "https://it.wikipedia.org/wiki/Francesco_Giuseppe_I_d%27Austria",
-      "description": "imperatore d'Austria e re d'Ungheria (r. 1848-1916)",
+      "description": "Imperatore d'Austria e marito di Elisabetta di Baviera, compare nella serie Sissi, in onda il 4 gennaio su Canale 5.",
       "image_filename": "Emperor-Frans-Josef-I-of-Austria-142360744594.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Emperor-Frans-Josef-I-of-Austria-142360744594.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Emperor-Frans-Josef-I-of-Austria-142360744594.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Krzysztof%20Pi%C4%85tek&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Krzysztof_Pi%C4%85tek",
       "article_url": "https://it.wikipedia.org/wiki/Krzysztof_Pi%C4%85tek",
-      "description": "calciatore polacco (1995-)",
+      "description": "Attaccante polacco, l'8 gennaio passa dall'Hertha Berlino alla Fiorentina.",
       "image_filename": "Krzysztof_Piątek_2022.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Krzysztof_Pi%C4%85tek_2022.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Krzysztof_Pi%C4%85tek_2022.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Kabir%20Bedi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Kabir_Bedi",
       "article_url": "https://it.wikipedia.org/wiki/Kabir_Bedi",
-      "description": "attore indiano naturalizzato italiano (1946-)",
+      "description": "Attore indiano noto per Sandokan, il 3 gennaio entra nella casa del Grande Fratello VIP su Canale 5.",
       "image_filename": "Kabir_Bedi_poses_with_Blackberry-Porsche_Design_P'9981_mobile_04.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kabir_Bedi_poses_with_Blackberry-Porsche_Design_P%279981_mobile_04.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Kabir_Bedi_poses_with_Blackberry-Porsche_Design_P%279981_mobile_04.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -413,13 +420,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20ritorno%20di%20Mary%20Poppins&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Il_ritorno_di_Mary_Poppins",
       "article_url": "https://it.wikipedia.org/wiki/Il_ritorno_di_Mary_Poppins",
-      "description": "film del 2018 diretto da Rob Marshall",
+      "description": "Film del 2018 diretto da Rob Marshall, va in onda il 3 gennaio su Rai 1.",
       "image_filename": "Mary_Poppins_Returns_Logo_Black.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mary_Poppins_Returns_Logo_Black.svg/1280px-Mary_Poppins_Returns_Logo_Black.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mary_Poppins_Returns_Logo_Black.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +466,14 @@
       "google_news_url": "https://www.google.it/search?q=Lorenzo%20Insigne&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Lorenzo_Insigne",
       "article_url": "https://it.wikipedia.org/wiki/Lorenzo_Insigne",
-      "description": "calciatore italiano (1991-)",
+      "description": "Capitano del Napoli, l'8 gennaio è ufficializzato il suo trasferimento al Toronto FC a partire dal 1 luglio.",
       "image_filename": "Lorenzo_Insigne_2021.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lorenzo_Insigne_2021.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Insigne_2021.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +512,14 @@
       "google_news_url": "https://www.google.it/search?q=Manifest%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Manifest_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Manifest_(serie_televisiva)",
-      "description": "serie televisiva statunitense del 2018",
+      "description": "Serie televisiva statunitense disponibile su Netflix, il 10 gennaio è segnalata al primo posto tra i titoli più visti in Italia.",
       "image_filename": "Manifest_serie_TV.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/7/75/Manifest_serie_TV.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Manifest_serie_TV.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +558,14 @@
       "google_news_url": "https://www.google.it/search?q=Encanto%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Encanto_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Encanto_(film)",
-      "description": "film d'animazione del 2021 diretto da Jared Bush e Byron Howard",
+      "description": "Film d'animazione Disney, esce su Disney+ il 24 dicembre 2021 ed è in classifica per la terza settimana consecutiva.",
       "image_filename": "EncantoDisney.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/61/EncantoDisney.png/1280px-EncantoDisney.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:EncantoDisney.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +604,14 @@
       "google_news_url": "https://www.google.it/search?q=Paolo%20Calissano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Paolo_Calissano",
       "article_url": "https://it.wikipedia.org/wiki/Paolo_Calissano",
-      "description": "attore e conduttore televisivo italiano (1967-2021)",
+      "description": "Attore italiano noto per la fiction Vivere, viene trovato morto in casa a Roma il 30 dicembre 2021.",
       "image_filename": "Paolo_Calissano_(La_ragazza_di_Cortina_1994).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/3/35/Paolo_Calissano_%28La_ragazza_di_Cortina_1994%29.png/1280px-Paolo_Calissano_%28La_ragazza_di_Cortina_1994%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paolo_Calissano_(La_ragazza_di_Cortina_1994).png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +650,14 @@
       "google_news_url": "https://www.google.it/search?q=Stephen%20Hawking&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Stephen_Hawking",
       "article_url": "https://it.wikipedia.org/wiki/Stephen_Hawking",
-      "description": "matematico, fisico, astrofisico, cosmologo, divulgatore scientifico e accademico britannico (1942-2018)",
+      "description": "Fisico britannico noto per gli studi sui buchi neri, l'8 gennaio è ricordato da un Doodle di Google per gli 80 anni dalla nascita.",
       "image_filename": "Hawking.PNG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hawking.PNG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hawking.PNG",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +696,14 @@
       "google_news_url": "https://www.google.it/search?q=Dune%20%28film%202021%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Dune_(film_2021)",
       "article_url": "https://it.wikipedia.org/wiki/Dune_(film_2021)",
-      "description": "film del 2021 diretto da Denis Villeneuve",
+      "description": "Film del 2021 diretto da Denis Villeneuve, dall'8 gennaio è disponibile su Sky Cinema Uno e NOW.",
       "image_filename": "Dune2020verme.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/2/22/Dune2020verme.png/1280px-Dune2020verme.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dune2020verme.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +742,14 @@
       "google_news_url": "https://www.google.it/search?q=Spider-Man%3A%20No%20Way%20Home&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Spider-Man%3A_No_Way_Home",
       "article_url": "https://it.wikipedia.org/wiki/Spider-Man%3A_No_Way_Home",
-      "description": "film del 2021 diretto da Jon Watts",
+      "description": "Film di Jon Watts uscito al cinema il 15 dicembre 2021, è in classifica per la quarta settimana consecutiva.",
       "image_filename": "Spider-Man.NoWayHome.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a2/Spider-Man.NoWayHome.png/1280px-Spider-Man.NoWayHome.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Spider-Man.NoWayHome.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +788,14 @@
       "google_news_url": "https://www.google.it/search?q=Michael%20Jackson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Michael_Jackson",
       "article_url": "https://it.wikipedia.org/wiki/Michael_Jackson",
-      "description": "cantautore, ballerino, coreografo, compositore, produttore discografico e filantropo statunitense (1958–2009)",
+      "description": "Cantante statunitense morto nel 2009; difficile individuare il motivo del picco di visite.",
       "image_filename": "Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/1280px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +834,14 @@
       "google_news_url": "https://www.google.it/search?q=Epifania&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Epifania",
       "article_url": "https://it.wikipedia.org/wiki/Epifania",
-      "description": "festa cristiana",
+      "description": "Festa cristiana che celebra la manifestazione di Gesù, ricorre il 6 gennaio.",
       "image_filename": "Epifanía_Gentile_02.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Epifan%C3%ADa_Gentile_02.JPG/1280px-Epifan%C3%ADa_Gentile_02.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Epifan%C3%ADa_Gentile_02.JPG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +880,14 @@
       "google_news_url": "https://www.google.it/search?q=Patrizia%20Reggiani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Patrizia_Reggiani",
       "article_url": "https://it.wikipedia.org/wiki/Patrizia_Reggiani",
-      "description": "socialite e criminale italiana (1948-)",
+      "description": "Ex moglie di Maurizio Gucci, condannata per il suo omicidio; il picco è forse legato al film House of Gucci, uscito il 16 dicembre 2021.",
       "image_filename": "Patrizia_Reggiani_matrimonio.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Patrizia_Reggiani_matrimonio.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Patrizia_Reggiani_matrimonio.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +926,14 @@
       "google_news_url": "https://www.google.it/search?q=Befana&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Befana",
       "article_url": "https://it.wikipedia.org/wiki/Befana",
-      "description": "figura folcloristica italiana legata all'Epifania",
+      "description": "Figura del folclore italiano che porta doni ai bambini nella notte tra il 5 e il 6 gennaio, festa dell'Epifania.",
       "image_filename": "Befana1.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Befana1.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Befana1.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +972,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Witcher%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=The_Witcher_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Witcher_(serie_televisiva)",
-      "description": "serie televisiva polacco-statunitense del 2019",
+      "description": "La seconda stagione esce su Netflix il 17 dicembre 2021; la serie è in classifica per la quarta settimana consecutiva.",
       "image_filename": "The_Witcher_serie_TV.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/8/8a/The_Witcher_serie_TV.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:The_Witcher_serie_TV.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1018,14 @@
       "google_news_url": "https://www.google.it/search?q=Paolo%20Sorrentino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Paolo_Sorrentino",
       "article_url": "https://it.wikipedia.org/wiki/Paolo_Sorrentino",
-      "description": "regista italiano (1970-)",
+      "description": "Regista italiano, il suo film È stata la mano di Dio è uscito su Netflix il 15 dicembre 2021.",
       "image_filename": "Paolo_Sorrentino_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paolo_Sorrentino_2018.jpg/1280px-Paolo_Sorrentino_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paolo_Sorrentino_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1064,14 @@
       "google_news_url": "https://www.google.it/search?q=Sissi%20%28serie%20televisiva%202021%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Sissi_(serie_televisiva_2021)",
       "article_url": "https://it.wikipedia.org/wiki/Sissi_(serie_televisiva_2021)",
-      "description": "serie televisiva tedesca del 2021",
+      "description": "Il 4 gennaio va in onda su Canale 5 la seconda puntata della serie dedicata a Elisabetta di Baviera.",
       "image_filename": "Sissi2021.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fb/Sissi2021.png/1280px-Sissi2021.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sissi2021.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1110,14 @@
       "google_news_url": "https://www.google.it/search?q=Harry%20Potter%20%28serie%20di%20film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Harry_Potter_(serie_di_film)",
       "article_url": "https://it.wikipedia.org/wiki/Harry_Potter_(serie_di_film)",
-      "description": "saga cinematografica colossal fantasy",
+      "description": "Il 6 gennaio Harry Potter e la pietra filosofale va in onda su Canale 5, dando inizio alla trasmissione della saga.",
       "image_filename": "Harry_Potter_wordmark.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/1280px-Harry_Potter_wordmark.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Harry_Potter_wordmark.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1156,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:01/03/2022,cd_max:01/09/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-03&end=2022-01-09&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo, il numero di visite è nella media.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

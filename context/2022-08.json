@@ -1,0 +1,1399 @@
+{
+  "week": "2022-08",
+  "start_date": "2022-02-21",
+  "end_date": "2022-02-27",
+  "articles": {
+    "Vladimir_Putin": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Vladimir Vladimirovič Putin è un politico ed ex militare russo, primo ministro e attuale presidente della Russia.",
+      "news": [
+        {
+          "title": "La «pazzia» di zar Putin - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "La «pazzia» di zar Putin Vanity Fair Italia"
+        },
+        {
+          "title": "Anonymous ha dichiarato guerra a Vladimir Putin - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Anonymous ha dichiarato guerra a Vladimir Putin Wired Italia"
+        },
+        {
+          "title": "Il mistero della ricchezza di Putin: tre teorie su come il presidente russo ha costruito il suo patrimonio - Forbes Italia",
+          "source": "Forbes Italia",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Il mistero della ricchezza di Putin: tre teorie su come il presidente russo ha costruito il suo patrimonio Forbes Italia"
+        },
+        {
+          "title": "Vladimir Putin parla alla Russia e al mondo: \"L'Ucraina è parte della nostra storia\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Vladimir Putin parla alla Russia e al mondo: \"L'Ucraina è parte della nostra storia\" RaiNews"
+        },
+        {
+          "title": "Putin, lo zar «folle» che si crede onnipotente: «Nella sua mente una realtà parallela» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Putin, lo zar «folle» che si crede onnipotente: «Nella sua mente una realtà parallela» Corriere della Sera"
+        },
+        {
+          "title": "L'uomo che sconfisse Vladimir Putin: intervista a Felice Mariani (24.02.2022) - Radio Radicale",
+          "source": "Radio Radicale",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "L'uomo che sconfisse Vladimir Putin: intervista a Felice Mariani (24.02.2022) Radio Radicale"
+        },
+        {
+          "title": "Ucraina-Russia, Lucio Caracciolo spiega gli obiettivi di Vladimir Putin - LA7",
+          "source": "LA7",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina-Russia, Lucio Caracciolo spiega gli obiettivi di Vladimir Putin LA7"
+        },
+        {
+          "title": "Vladimir Putin: chi è l’uomo temuto da (quasi) tutto il mondo? - Corriere del Ticino",
+          "source": "Corriere del Ticino",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Vladimir Putin: chi è l’uomo temuto da (quasi) tutto il mondo? Corriere del Ticino"
+        },
+        {
+          "title": "Cosa ha in testa Vladimir Putin - Domani",
+          "source": "Domani",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Cosa ha in testa Vladimir Putin Domani"
+        },
+        {
+          "title": "Vladimir Putin Russia - Eunews",
+          "source": "Eunews",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Vladimir Putin Russia Eunews"
+        }
+      ]
+    },
+    "Ucraina": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Ucraina è uno Stato dell'Europa orientale con una superficie di 603628 km² in cui risiedono 37 860 221 abitanti al 2024 e la cui capitale, nonché città maggiore, è Kiev. Ha uno sbocco sul Mar Nero e sul Mar d'Azov a sud e confina con la Russia a est, con la Bielorussia a nord, con Polonia, Slovacchia e Ungheria a ovest e con Romania e Moldavia a sudovest.",
+      "news": [
+        {
+          "title": "Emergenza Ucraina - Croce Rossa Italiana",
+          "source": "Croce Rossa Italiana",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Emergenza Ucraina Croce Rossa Italiana"
+        },
+        {
+          "title": "La condanna dei sindaci italiani all’attacco russo in Ucraina - Anci.it",
+          "source": "Anci.it",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "La condanna dei sindaci italiani all’attacco russo in Ucraina Anci.it"
+        },
+        {
+          "title": "Ucraina: la guerra, i bambini e i rifugiati - UNICEF Italia",
+          "source": "UNICEF Italia",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina: la guerra, i bambini e i rifugiati UNICEF Italia"
+        },
+        {
+          "title": "Speciale Ucraina: lo strappo di Putin - ISPI",
+          "source": "ISPI",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Speciale Ucraina: lo strappo di Putin ISPI"
+        },
+        {
+          "title": "Passato e Presente 2021/22 - Russia-Ucraina. Le radici del conflitto - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Passato e Presente 2021/22 - Russia-Ucraina. Le radici del conflitto - Video RaiPlay"
+        },
+        {
+          "title": "L'Ucraina dal conflitto alla guerra aperta - La rivista il Mulino",
+          "source": "La rivista il Mulino",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "L'Ucraina dal conflitto alla guerra aperta La rivista il Mulino"
+        },
+        {
+          "title": "Ucraina, alle origini storiche della crisi con la Russia - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, alle origini storiche della crisi con la Russia Il Bo Live"
+        },
+        {
+          "title": "Guerra Russia-Ucraina, la testimonianza del diplomatico ucraino: \"Ci siamo svegliati sotto le bombe, le finestre tremavano\" - La7",
+          "source": "La7",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Guerra Russia-Ucraina, la testimonianza del diplomatico ucraino: \"Ci siamo svegliati sotto le bombe, le finestre tremavano\" La7"
+        },
+        {
+          "title": "La ricerca del casus belli in Ucraina e altre notizie interessanti - Limes - Rivista Italiana di geopolitica",
+          "source": "Limes - Rivista Italiana di geopolitica",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "La ricerca del casus belli in Ucraina e altre notizie interessanti Limes - Rivista Italiana di geopolitica"
+        },
+        {
+          "title": "Ucraina e Russia, la storia spezzata | Sergio Benvenuto - Doppiozero",
+          "source": "Doppiozero",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina e Russia, la storia spezzata | Sergio Benvenuto Doppiozero"
+        }
+      ]
+    },
+    "Volodymyr_Zelens'kyj": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Volodymyr Oleksandrovyč Zelens'kyj è un politico ed ex attore ucraino, dal 20 maggio 2019 presidente dell'Ucraina.",
+      "news": [
+        {
+          "title": "La resistenza di Zelensky, da presidente a soldato - ANSA",
+          "source": "ANSA",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "La resistenza di Zelensky, da presidente a soldato ANSA"
+        },
+        {
+          "title": "Guerra in Ucraina, i russi conquistano l'area di Chernobyl. Staff centrale sequestrato - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina, i russi conquistano l'area di Chernobyl. Staff centrale sequestrato Sky TG24"
+        },
+        {
+          "title": "Invasione Ucraina: Russia alle porte di Kiev, missili sulla città. Vittime tra militari e civili - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Invasione Ucraina: Russia alle porte di Kiev, missili sulla città. Vittime tra militari e civili Il Sole 24 ORE"
+        },
+        {
+          "title": "Da Woody Allen ad Allende: la metamorfosi di Zelensky - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Da Woody Allen ad Allende: la metamorfosi di Zelensky la Repubblica"
+        },
+        {
+          "title": "Zelensky a Ballando con le Stelle, quando il presidente ucraino era un volto della Tv - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Zelensky a Ballando con le Stelle, quando il presidente ucraino era un volto della Tv Fanpage"
+        },
+        {
+          "title": "Volodymyr Zelenskyy, chi è l’attore comico diventato Presidente che non riesce più a sorridere - Globalist.it",
+          "source": "Globalist.it",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Volodymyr Zelenskyy, chi è l’attore comico diventato Presidente che non riesce più a sorridere Globalist.it"
+        },
+        {
+          "title": "Chi è Volodymyr Zelensky, dal set alla presidenza in Ucraina - Donna Glamour",
+          "source": "Donna Glamour",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Chi è Volodymyr Zelensky, dal set alla presidenza in Ucraina Donna Glamour"
+        },
+        {
+          "title": "Ucraina: chi è il presidente Volodymyr Zelensky? Età, vita privata, attore, Putin, Twitter, Facebook, Instagram - DonnaPOP",
+          "source": "DonnaPOP",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina: chi è il presidente Volodymyr Zelensky? Età, vita privata, attore, Putin, Twitter, Facebook, Instagram DonnaPOP"
+        }
+      ]
+    },
+    "NATO": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La NATO, Organizzazione del Trattato dell'Atlantico del Nord è un'alleanza militare intergovernativa nel settore della difesa, che include trentadue Stati membri, di cui trenta europei e due nordamericani, e che è stata istituita all'indomani della Seconda guerra mondiale. Il trattato istitutivo della NATO, il Patto Atlantico, fu firmato a Washington il 4 aprile 1949 ed entrò in vigore il 24 agosto dello stesso anno.",
+      "news": [
+        {
+          "title": "La Russia e il timore antico dell'espansione Nato. Lo Spiegel: \"Atto dei Paesi occidentali prometteva di non estendere l'alleanza\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "La Russia e il timore antico dell'espansione Nato. Lo Spiegel: \"Atto dei Paesi occidentali prometteva di non estendere l'alleanza\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Guerra in Ucraina. Emiliano: \"Il nostro posto è al fianco della Nato ma è necessario uno sforzo per aprire un dialogo con la Federazione Russa\" - Regione Puglia",
+          "source": "Regione Puglia",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina. Emiliano: \"Il nostro posto è al fianco della Nato ma è necessario uno sforzo per aprire un dialogo con la Federazione Russa\" Regione Puglia"
+        },
+        {
+          "title": "L'invasione russa dell'Ucraina è dovuta all'espansione NATO in Europa? 8 FAQ per capire la guerra - Geopop",
+          "source": "Geopop",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "L'invasione russa dell'Ucraina è dovuta all'espansione NATO in Europa? 8 FAQ per capire la guerra Geopop"
+        },
+        {
+          "title": "Guerra in Ucraina, cosa dice l’articolo 4 della Nato? - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina, cosa dice l’articolo 4 della Nato? Corriere della Sera"
+        },
+        {
+          "title": "Che cos’è e perché è pericoloso l’allargamento a Est della Nato - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Che cos’è e perché è pericoloso l’allargamento a Est della Nato il manifesto"
+        },
+        {
+          "title": "Che cos'è la Nato e può intervenire o no nella guerra tra Ucraina e Russia? - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Che cos'è la Nato e può intervenire o no nella guerra tra Ucraina e Russia? la Repubblica"
+        },
+        {
+          "title": "Ucraina, Prof. Canfora: \"Portare la NATO fino in Ucraina è sembrato il contrario degli accordi di Minsk\" - La7",
+          "source": "La7",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, Prof. Canfora: \"Portare la NATO fino in Ucraina è sembrato il contrario degli accordi di Minsk\" La7"
+        },
+        {
+          "title": "La 'profezia' di Kennan sull'allargamento della Nato ai Paesi dell'Est - AGI",
+          "source": "AGI",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "La 'profezia' di Kennan sull'allargamento della Nato ai Paesi dell'Est AGI"
+        },
+        {
+          "title": "Ucraina: come cambia la strategia militare Nato - Affarinternazionali",
+          "source": "Affarinternazionali",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina: come cambia la strategia militare Nato Affarinternazionali"
+        },
+        {
+          "title": "Impegno Nato di non espandersi a Est, ecco il documento - Startmag",
+          "source": "Startmag",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Impegno Nato di non espandersi a Est, ecco il documento Startmag"
+        }
+      ]
+    },
+    "Guerra_del_Donbass": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La guerra del Donbass è un conflitto armato iniziato nel 2014 nell'Ucraina orientale, principalmente nelle regioni di Donetsk e Luhansk, tra le forze ucraine e gruppi armati separatisti sostenuti dalla Russia. I gruppi armati separatisti sono stati sostenuti dalla Russia, che ha fornito loro armi, mezzi corazzati, carri armati, artiglieria, finanziamenti e personale. Le truppe russe furono coinvolte direttamente nel conflitto, sebbene il governo russo negasse ufficialmente la presenza delle proprie forze armate e il loro coinvolgimento sul territorio comprendeva sia il sostegno logistico e militare ai gruppi separatisti sia la partecipazione diretta alle operazioni di combattimento.",
+      "news": [
+        {
+          "title": "Il difficile ruolo del Donbass - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Il difficile ruolo del Donbass Focus.it"
+        },
+        {
+          "title": "Il ruolo del Donbass nell’escalation in Ucraina - La rivista il Mulino",
+          "source": "La rivista il Mulino",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Il ruolo del Donbass nell’escalation in Ucraina La rivista il Mulino"
+        },
+        {
+          "title": "I motivi della guerra tra Ucraina e Russia, dall'annessione del Donbass al conflitto totale - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "I motivi della guerra tra Ucraina e Russia, dall'annessione del Donbass al conflitto totale la Repubblica"
+        },
+        {
+          "title": "Donetsk e Luhansk: le due repubbliche separatiste del Donbass che Putin ha riconosciuto - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Donetsk e Luhansk: le due repubbliche separatiste del Donbass che Putin ha riconosciuto RaiNews"
+        },
+        {
+          "title": "Il Donbass, la contesa regione del Donec - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Il Donbass, la contesa regione del Donec Vatican News"
+        },
+        {
+          "title": "La fragile economia russa e i rischi della guerra - Secondo Tempo",
+          "source": "Secondo Tempo",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "La fragile economia russa e i rischi della guerra Secondo Tempo"
+        },
+        {
+          "title": "Ucraina, perché il Donbass è così importante; cosa sono le Repubbliche di Donetsk e Lugansk - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, perché il Donbass è così importante; cosa sono le Repubbliche di Donetsk e Lugansk Virgilio"
+        },
+        {
+          "title": "Il Donbass, tolto il velo dell’ipocrisia - Osservatorio Balcani Caucaso Transeuropa",
+          "source": "Osservatorio Balcani Caucaso Transeuropa",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Il Donbass, tolto il velo dell’ipocrisia Osservatorio Balcani Caucaso Transeuropa"
+        },
+        {
+          "title": "Tra le strade del Donbass: dove la verità è sfuggente - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Tra le strade del Donbass: dove la verità è sfuggente La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Un nulla mafioso, ecco cosa sono le repubbliche separatiste del Donbass - East Journal",
+          "source": "East Journal",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Un nulla mafioso, ecco cosa sono le repubbliche separatiste del Donbass East Journal"
+        }
+      ]
+    },
+    "Organizzazione_del_Trattato_dell'Atlantico_del_Nord": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La NATO, Organizzazione del Trattato dell'Atlantico del Nord è un'alleanza militare intergovernativa nel settore della difesa, che include trentadue Stati membri, di cui trenta europei e due nordamericani, e che è stata istituita all'indomani della Seconda guerra mondiale. Il trattato istitutivo della NATO, il Patto Atlantico, fu firmato a Washington il 4 aprile 1949 ed entrò in vigore il 24 agosto dello stesso anno.",
+      "news": [
+        {
+          "title": "Consultazioni NATO per possibili aggressioni Russia ai vicini dell'Ucraina - Eunews",
+          "source": "Eunews",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Consultazioni NATO per possibili aggressioni Russia ai vicini dell'Ucraina Eunews"
+        },
+        {
+          "title": "L'invasione russa dell'Ucraina è dovuta all'espansione NATO in Europa? 8 FAQ per capire la guerra - Geopop",
+          "source": "Geopop",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "L'invasione russa dell'Ucraina è dovuta all'espansione NATO in Europa? 8 FAQ per capire la guerra Geopop"
+        },
+        {
+          "title": "Quel verbale Nato del 1991 che imbarazza Biden - InsideOver - Inside the news Over the world",
+          "source": "InsideOver - Inside the news Over the world",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Quel verbale Nato del 1991 che imbarazza Biden InsideOver - Inside the news Over the world"
+        },
+        {
+          "title": "Dopo l'Ucraina, Putin punta ai Paesi Baltici: invocato articolo 4 della Nato - Il Digitale",
+          "source": "Il Digitale",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Dopo l'Ucraina, Putin punta ai Paesi Baltici: invocato articolo 4 della Nato Il Digitale"
+        },
+        {
+          "title": "Il Venezuela ha ratificato il suo appoggio alla pace e alla Russia di fronte alla NATO - Granma",
+          "source": "Granma",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Il Venezuela ha ratificato il suo appoggio alla pace e alla Russia di fronte alla NATO Granma"
+        },
+        {
+          "title": "Guerra Russia - Ucraina: le foto che mostrano il caos e il dramma del conflitto in corso - National Geographic",
+          "source": "National Geographic",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Guerra Russia - Ucraina: le foto che mostrano il caos e il dramma del conflitto in corso National Geographic"
+        },
+        {
+          "title": "Guerra in Ucraina, i motivi del conflitto con la Russia e gli eventi dietro la crisi in corso - Geopop",
+          "source": "Geopop",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina, i motivi del conflitto con la Russia e gli eventi dietro la crisi in corso Geopop"
+        },
+        {
+          "title": "Accordo all’unanimità tra i 27 Paesi membri sulle sanzioni UE alla Russia: colpiti deputati, banche e separatisti ucraini - Eunews",
+          "source": "Eunews",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Accordo all’unanimità tra i 27 Paesi membri sulle sanzioni UE alla Russia: colpiti deputati, banche e separatisti ucraini Eunews"
+        }
+      ]
+    },
+    "Russia": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Russia, ufficialmente Federazione Russa, è uno Stato transcontinentale, principalmente sito nell’Asia settentrionale, che si estende per un terzo in Europa. È il più vasto Stato del mondo, con una superficie di 17 098 246 km², ed a inizio 2024 conta circa 144 milioni di abitanti. La capitale è Mosca. La lingua ufficiale è il russo, ma le repubbliche autonome possono avere altre lingue ufficiali. L'attuale presidente della federazione è Vladimir Putin.",
+      "news": [
+        {
+          "title": "Speciale Russia-Ucraina: sanzioni a salve? - ISPI",
+          "source": "ISPI",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "Speciale Russia-Ucraina: sanzioni a salve? ISPI"
+        },
+        {
+          "title": "Passato e Presente 2021/22 - Russia-Ucraina. Le radici del conflitto - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Passato e Presente 2021/22 - Russia-Ucraina. Le radici del conflitto - Video RaiPlay"
+        },
+        {
+          "title": "Ucraina, alle origini storiche della crisi con la Russia - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, alle origini storiche della crisi con la Russia Il Bo Live"
+        },
+        {
+          "title": "Ucraina: il presidio PD per dire Stop alla guerra della Russia, Sì alla pace - Partito democratico",
+          "source": "Partito democratico",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina: il presidio PD per dire Stop alla guerra della Russia, Sì alla pace Partito democratico"
+        },
+        {
+          "title": "Perché la Russia è di nuovo un nemico pubblico? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Perché la Russia è di nuovo un nemico pubblico? Focus.it"
+        },
+        {
+          "title": "La Russia invade l’Ucraina: avverati i peggiori timori. Enormi preoccupazioni per i diritti umani e le vite dei civili - Amnesty International Italia",
+          "source": "Amnesty International Italia",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "La Russia invade l’Ucraina: avverati i peggiori timori. Enormi preoccupazioni per i diritti umani e le vite dei civili Amnesty International Italia"
+        },
+        {
+          "title": "La storia che ha portato alla Russia di Vladimir Putin - Micromega",
+          "source": "Micromega",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "La storia che ha portato alla Russia di Vladimir Putin Micromega"
+        },
+        {
+          "title": "Ucraina e Russia, la storia spezzata | Sergio Benvenuto - Doppiozero",
+          "source": "Doppiozero",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina e Russia, la storia spezzata | Sergio Benvenuto Doppiozero"
+        },
+        {
+          "title": "Guerra Russia-Ucraina, la testimonianza del diplomatico ucraino: \"Ci siamo svegliati sotto le bombe, le finestre tremavano\" - La7",
+          "source": "La7",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Guerra Russia-Ucraina, la testimonianza del diplomatico ucraino: \"Ci siamo svegliati sotto le bombe, le finestre tremavano\" La7"
+        },
+        {
+          "title": "Speciale Russia-Ucraina: La Cina non si schiera - ISPI",
+          "source": "ISPI",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Speciale Russia-Ucraina: La Cina non si schiera ISPI"
+        }
+      ]
+    },
+    "Storia_dell'Ucraina": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La storia dell'Ucraina si estende per migliaia di anni. Come parte della Scizia nell'antichità, l'Ucraina è stata ampiamente colonizzata da Greutungi, Geti, Goti e Unni nel periodo delle migrazioni, mentre le parti meridionali dell'Ucraina sono state precedentemente colonizzate dai Greci e poi dai Romani. Nell'Alto Medioevo fu il luogo della prima espansione slava.",
+      "news": [
+        {
+          "title": "Ucraina, breve storia del Paese al centro del conflitto con Mosca - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, breve storia del Paese al centro del conflitto con Mosca Sky TG24"
+        },
+        {
+          "title": "Passato e Presente 2021/22 - Russia-Ucraina. Le radici del conflitto - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Passato e Presente 2021/22 - Russia-Ucraina. Le radici del conflitto - Video RaiPlay"
+        },
+        {
+          "title": "Storia dell'Ucraina, dalla \"Russia di Kiev\" al conflitto nel Donbass - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "Storia dell'Ucraina, dalla \"Russia di Kiev\" al conflitto nel Donbass la Repubblica"
+        },
+        {
+          "title": "La Russia dichiara guerra all'Ucraina: la tragica storia che collega, e divide, i due Paesi - National Geographic",
+          "source": "National Geographic",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "La Russia dichiara guerra all'Ucraina: la tragica storia che collega, e divide, i due Paesi National Geographic"
+        },
+        {
+          "title": "Ucraina e Russia: la storia. Di Andrea Romano - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina e Russia: la storia. Di Andrea Romano Focus.it"
+        },
+        {
+          "title": "Blog | L'Ucraina esiste da prima di Lenin, ma qui l'Urss non c'entra: Putin allude ad altro - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Blog | L'Ucraina esiste da prima di Lenin, ma qui l'Urss non c'entra: Putin allude ad altro Il Fatto Quotidiano"
+        },
+        {
+          "title": "Il Donbass, la contesa regione del Donec - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Il Donbass, la contesa regione del Donec Vatican News"
+        },
+        {
+          "title": "Zelensky era Presidente dell’Ucraina in una serie tv. Oggi lo è per davvero, in guerra - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Zelensky era Presidente dell’Ucraina in una serie tv. Oggi lo è per davvero, in guerra Radio Deejay"
+        },
+        {
+          "title": "Con un discorso di un'ora Putin ha cancellato l'Ucraina dalla storia - Micromega",
+          "source": "Micromega",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Con un discorso di un'ora Putin ha cancellato l'Ucraina dalla storia Micromega"
+        },
+        {
+          "title": "Putin ovvero Vladimir I nel solco di Ivan III. Così lo zar russo ha riscritto la storia per invadere Kiev (di Michela Cilenti) - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Putin ovvero Vladimir I nel solco di Ivan III. Così lo zar russo ha riscritto la storia per invadere Kiev (di Michela Cilenti) HuffPost Italia"
+        }
+      ]
+    },
+    "Crisi_russo-ucraina": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il conflitto russo-ucraino o guerra russo-ucraina è uno scontro politico, diplomatico e militare tra Russia e Ucraina iniziato de facto nella seconda metà di febbraio del 2014. Dal febbraio 2022, dopo l'invasione russa dell'Ucraina, le truppe regolari di entrambi i Paesi sono coinvolte in uno scontro diretto.",
+      "news": [
+        {
+          "title": "Erdogan equilibrista? La Turchia nella crisi russo-ucraina - ISPI",
+          "source": "ISPI",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Erdogan equilibrista? La Turchia nella crisi russo-ucraina ISPI"
+        },
+        {
+          "title": "Ucraina, alle origini storiche della crisi con la Russia - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, alle origini storiche della crisi con la Russia Il Bo Live"
+        },
+        {
+          "title": "Russia - Ucraina spiegazione semplice: cause e cosa succede oggi - Studenti.it",
+          "source": "Studenti.it",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Russia - Ucraina spiegazione semplice: cause e cosa succede oggi Studenti.it"
+        },
+        {
+          "title": "Guerra in Ucraina, i motivi del conflitto con la Russia e gli eventi dietro la crisi in corso - Geopop",
+          "source": "Geopop",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina, i motivi del conflitto con la Russia e gli eventi dietro la crisi in corso Geopop"
+        },
+        {
+          "title": "Da Verona, la testimonianza: la crisi russo-ucraina ha radici profonde - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Da Verona, la testimonianza: la crisi russo-ucraina ha radici profonde RaiNews"
+        },
+        {
+          "title": "Crisi Russia Ucraina, che succede? - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Crisi Russia Ucraina, che succede? FocusJunior.it"
+        },
+        {
+          "title": "Russia-Ucraina, la guerra è iniziata - AgroNotizie",
+          "source": "AgroNotizie",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Russia-Ucraina, la guerra è iniziata AgroNotizie"
+        },
+        {
+          "title": "Crisi Russia-Ucraina, i piani di Mosca per l'invasione: le ipotesi - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "Crisi Russia-Ucraina, i piani di Mosca per l'invasione: le ipotesi Sky TG24"
+        },
+        {
+          "title": "Speciale Ucraina: lo strappo di Putin - ISPI",
+          "source": "ISPI",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Speciale Ucraina: lo strappo di Putin ISPI"
+        },
+        {
+          "title": "Speciale Russia-Ucraina: Putin riconosce le repubbliche separatiste nel Donbass - ISPI",
+          "source": "ISPI",
+          "pubDate": "Mon, 21 Feb 2022 19:50:01 GMT",
+          "description": "Speciale Russia-Ucraina: Putin riconosce le repubbliche separatiste nel Donbass ISPI"
+        }
+      ]
+    },
+    "Legge_marziale": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La legge marziale è un sistema di governo in cui le leggi ordinariamente in vigore in uno Stato vengono temporaneamente sospese e i tribunali militari vengono investiti di un ampio potere giudiziario.",
+      "news": [
+        {
+          "title": "Legge marziale, cos’è e come funziona in Italia - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Legge marziale, cos’è e come funziona in Italia Virgilio"
+        },
+        {
+          "title": "L'Ucraina impone la legge marziale: cosa significa e cosa succede ora - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "L'Ucraina impone la legge marziale: cosa significa e cosa succede ora Il Messaggero"
+        },
+        {
+          "title": "Ucraina, Zelensky introduce la legge marziale: «Niente panico, state a casa, sconfiggeremo tutti - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, Zelensky introduce la legge marziale: «Niente panico, state a casa, sconfiggeremo tutti Corriere della Sera"
+        },
+        {
+          "title": "Kiev,l'inviato di Repubblica Paolo Brera: \"Dopo l'attacco, un silenzio surreale con sprazzi di normalità\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Kiev,l'inviato di Repubblica Paolo Brera: \"Dopo l'attacco, un silenzio surreale con sprazzi di normalità\" la Repubblica"
+        },
+        {
+          "title": "Guerra in Ucraina, la paura attraversa Kiev: gente in fuga, la metro come un bunker. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina, la paura attraversa Kiev: gente in fuga, la metro come un bunker. FOTO Sky TG24"
+        },
+        {
+          "title": "In Ucraina, gli uomini tra i 18 e i 60 anni devono restare per lottare - Aleteia IT",
+          "source": "Aleteia IT",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "In Ucraina, gli uomini tra i 18 e i 60 anni devono restare per lottare Aleteia IT"
+        },
+        {
+          "title": "La Banca centrale ucraina apre un conto per i donatori internazionali - Eunews",
+          "source": "Eunews",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "La Banca centrale ucraina apre un conto per i donatori internazionali Eunews"
+        },
+        {
+          "title": "Dal ring alla trincea, la storia dei fratelli Klitschko: \"Combatteremo per il nostro Paese\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Dal ring alla trincea, la storia dei fratelli Klitschko: \"Combatteremo per il nostro Paese\" Fanpage"
+        },
+        {
+          "title": "Ucraina Russia, a Kiev la grande fuga di civili: assalto a bancomat e benzinai, lunghe code di auto in uscita dalla città. Zelensky... - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina Russia, a Kiev la grande fuga di civili: assalto a bancomat e benzinai, lunghe code di auto in uscita dalla città. Zelensky... Il Messaggero"
+        },
+        {
+          "title": "L'Italia pronta a versare 110 milioni al governo di Kiev - Calcio e Finanza",
+          "source": "Calcio e Finanza",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "L'Italia pronta a versare 110 milioni al governo di Kiev Calcio e Finanza"
+        }
+      ]
+    },
+    "Unione_Sovietica": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Unione delle Repubbliche Socialiste Sovietiche, acronimo URSS e in forma abbreviata Unione Sovietica, fu uno Stato federale che si estendeva tra Europa orientale e Asia settentrionale, sorto il 30 dicembre 1922 sulle ceneri dell'Impero russo. Era composta da 15 repubbliche socialiste, la più grande delle quali era la Russia, a sua volta suddivisa in repubbliche autonome federate.",
+      "news": [
+        {
+          "title": "Passato e Presente 2021/22 - Unione Sovietica. Il sistema Gulag - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Passato e Presente 2021/22 - Unione Sovietica. Il sistema Gulag - Video RaiPlay"
+        },
+        {
+          "title": "Che rapporto ha Putin con l’epoca sovietica - Il Post",
+          "source": "Il Post",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Che rapporto ha Putin con l’epoca sovietica Il Post"
+        },
+        {
+          "title": "Cile-Unione Sovietica, la partita fantasma e il gol di Valdes - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Cile-Unione Sovietica, la partita fantasma e il gol di Valdes La Gazzetta dello Sport"
+        },
+        {
+          "title": "La bandiera rossa sul carro armato di Mosca, le immagini rimbalzano sui social - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "La bandiera rossa sul carro armato di Mosca, le immagini rimbalzano sui social RaiNews"
+        },
+        {
+          "title": "Ucraina, alle origini storiche della crisi con la Russia - Il Bo Live",
+          "source": "Il Bo Live",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, alle origini storiche della crisi con la Russia Il Bo Live"
+        },
+        {
+          "title": "Blog | Dalla nascita al crollo dell'Urss. Le mappe nella testa di Vladimir Putin. - Info Data - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Blog | Dalla nascita al crollo dell'Urss. Le mappe nella testa di Vladimir Putin. - Info Data Il Sole 24 ORE"
+        },
+        {
+          "title": "Perché la Russia è di nuovo un nemico pubblico? - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Perché la Russia è di nuovo un nemico pubblico? Focus.it"
+        },
+        {
+          "title": "Perché la Russia invade l'Ucraina, tutti i motivi dietro la guerra - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Perché la Russia invade l'Ucraina, tutti i motivi dietro la guerra Sky TG24"
+        },
+        {
+          "title": "La storia che ha portato alla Russia di Vladimir Putin - Micromega",
+          "source": "Micromega",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "La storia che ha portato alla Russia di Vladimir Putin Micromega"
+        },
+        {
+          "title": "Impegno Nato di non espandersi a Est, ecco il documento - Startmag",
+          "source": "Startmag",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Impegno Nato di non espandersi a Est, ecco il documento Startmag"
+        }
+      ]
+    },
+    "Anonymous": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Anonymous è un movimento decentralizzato di hacktivismo che agisce in modo coordinato per perseguire un obiettivo concordato. È ampiamente noto per diversi attacchi informatici contro varie società, istituzioni governative e Scientology.",
+      "news": [
+        {
+          "title": "Anonymous, chi è il collettivo di hacker schierato con l’Ucraina - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Anonymous, chi è il collettivo di hacker schierato con l’Ucraina Corriere della Sera"
+        },
+        {
+          "title": "Anonymous ha dichiarato guerra a Vladimir Putin - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Anonymous ha dichiarato guerra a Vladimir Putin Wired Italia"
+        },
+        {
+          "title": "Anonymous torna a colpire la Russia - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Anonymous torna a colpire la Russia RaiNews"
+        },
+        {
+          "title": "L'Ucraina chiede aiuto agli hacker e Anonymous risponde a modo suo - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "L'Ucraina chiede aiuto agli hacker e Anonymous risponde a modo suo Il Sole 24 ORE"
+        },
+        {
+          "title": "Anonymous e gli altri: la Resistenza in cyber-guerra - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Anonymous e gli altri: la Resistenza in cyber-guerra la Repubblica"
+        },
+        {
+          "title": "Anche Anonymous ha iniziato la sua lotta contro Putin - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Anche Anonymous ha iniziato la sua lotta contro Putin Rolling Stone Italia"
+        },
+        {
+          "title": "Anonymous twitta di star \"facendo il possibile per mantenere gli ucraini connessi a Internet\" - Mashable Italia",
+          "source": "Mashable Italia",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Anonymous twitta di star \"facendo il possibile per mantenere gli ucraini connessi a Internet\" Mashable Italia"
+        },
+        {
+          "title": "Anonymous: chi è e cosa fa - RSI",
+          "source": "RSI",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Anonymous: chi è e cosa fa RSI"
+        },
+        {
+          "title": "Guerra in Ucraina, la video minaccia di Anonymous a Putin: \"Contro di noi non puoi vincere, colpiremo le tue infrastrutture\" - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina, la video minaccia di Anonymous a Putin: \"Contro di noi non puoi vincere, colpiremo le tue infrastrutture\" La Stampa"
+        },
+        {
+          "title": "Anonymous dichiara cyberguerra alla Russia: attacco ai siti di governo - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Anonymous dichiara cyberguerra alla Russia: attacco ai siti di governo Corriere della Sera"
+        }
+      ]
+    },
+    "Stati_con_armi_nucleari": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Con l'espressione \"Stati con armi nucleari\" si indicano quegli Stati che hanno costruito, hanno testato e sono attualmente in possesso di armi nucleari di qualunque tipo; in termini colloquiali, spesso ci si riferisce a questi Stati con l'espressione \"potenze atomiche\", e al loro insieme come \"club nucleare\". In base ai termini del trattato di non proliferazione nucleare (TNP), entrato in vigore il 5 marzo 1970, sono considerati \"Stati con armi nucleari\" quegli Stati che hanno assemblato e testato ordigni nucleari prima del 1º gennaio 1967: Stati Uniti d'America, Russia, Regno Unito, Francia e Cina, ovvero i cinque membri permanenti del Consiglio di sicurezza delle Nazioni Unite.",
+      "news": [
+        {
+          "title": "Quante armi nucleari hanno Usa e Russia? La minaccia della base di Kaliningrad, nel cuore dell’Europa - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Quante armi nucleari hanno Usa e Russia? La minaccia della base di Kaliningrad, nel cuore dell’Europa Corriere della Sera"
+        },
+        {
+          "title": "Guerra in Ucraina, lo spettro delle armi nucleari: gli arsenali atomici di Russia e Usa - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina, lo spettro delle armi nucleari: gli arsenali atomici di Russia e Usa Sky TG24"
+        },
+        {
+          "title": "Putin non lancerà l'atomica - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Putin non lancerà l'atomica RaiNews"
+        },
+        {
+          "title": "Rete Pace Disarmo: “Si fermi la guerra in Ucraina e parta un vero processo di Pace” - Rete Italiana Pace e Disarmo",
+          "source": "Rete Italiana Pace e Disarmo",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Rete Pace Disarmo: “Si fermi la guerra in Ucraina e parta un vero processo di Pace” Rete Italiana Pace e Disarmo"
+        },
+        {
+          "title": "Quante armi nucleari ha la Russia: il formidabile arsenale nelle mani di Putin - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Quante armi nucleari ha la Russia: il formidabile arsenale nelle mani di Putin Fanpage"
+        },
+        {
+          "title": "Chi possiede armi nucleari, la minaccia atomica di Putin sulla guerra in Ucraina: gli arsenali nel mondo - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Chi possiede armi nucleari, la minaccia atomica di Putin sulla guerra in Ucraina: gli arsenali nel mondo Il Riformista"
+        },
+        {
+          "title": "Armi nucleari in Russia, in Ucraina, in Italia, in Europa e nel mondo - La Notizia",
+          "source": "La Notizia",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Armi nucleari in Russia, in Ucraina, in Italia, in Europa e nel mondo La Notizia"
+        }
+      ]
+    },
+    "Bacino_del_Donec": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Donbass o Donbas, contrazione di Doneckij bassejn, è una regione geografica dell'Europa orientale. Corrisponde grossomodo al territorio delle oblast' di Donec'k e Luhans'k, nell'Ucraina sud-orientale, estendendosi fino alle città minerarie più occidentali dell'oblast' di Rostov (Russia). Il territorio del Donbass è una steppa attraversata da ovest a est dal fiume Donec e caratterizzata dalla presenza delle omonime alture.",
+      "news": [
+        {
+          "title": "Il Donbass, la contesa regione del Donec - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Il Donbass, la contesa regione del Donec Vatican News"
+        },
+        {
+          "title": "Cos'è il Donbass e perché la Russia è già in Ucraina - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Cos'è il Donbass e perché la Russia è già in Ucraina Il Sole 24 ORE"
+        },
+        {
+          "title": "Donetsk e Luhansk: le due repubbliche separatiste del Donbass che Putin ha riconosciuto - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Donetsk e Luhansk: le due repubbliche separatiste del Donbass che Putin ha riconosciuto RaiNews"
+        },
+        {
+          "title": "Ucraina, perché il Donbass è così importante; cosa sono le Repubbliche di Donetsk e Lugansk - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, perché il Donbass è così importante; cosa sono le Repubbliche di Donetsk e Lugansk Virgilio"
+        },
+        {
+          "title": "Ma che cos’è questo Donbass - www.welfarenetwork.it",
+          "source": "www.welfarenetwork.it",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Ma che cos’è questo Donbass www.welfarenetwork.it"
+        },
+        {
+          "title": "Guerra in Ucraina: fronte, diplomazia e aiuti - Blasting News",
+          "source": "Blasting News",
+          "pubDate": "Thu, 24 Feb 2022 21:39:03 GMT",
+          "description": "Guerra in Ucraina: fronte, diplomazia e aiuti Blasting News"
+        }
+      ]
+    },
+    "Unione_europea": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "L'Unione europea, abbreviata in UE, è un'unione politica ed economica a carattere sovranazionale, che comprende 27 Stati membri. Dal punto di vista geografico, l'UE include anche alcuni territori d'oltremare al di fuori del continente. La sua popolazione ammonta a circa 450 milioni di abitanti. Le lingue più parlate nell'Unione, sia come lingua madre (L1) sia come seconda lingua (L2), sono l'inglese, il francese, il tedesco, lo spagnolo e l'italiano.",
+      "news": [
+        {
+          "title": "Il peso dell’Unione europea nella crisi ucraina - Affarinternazionali",
+          "source": "Affarinternazionali",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Il peso dell’Unione europea nella crisi ucraina Affarinternazionali"
+        }
+      ]
+    },
+    "Crimea": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Crimea è la più grande penisola affacciata sul Mar Nero ed è collegata alla terraferma dall'istmo di Perekop, che la unisce al resto dell'Ucraina; dal 2018 è collegata alla Russia dal ponte di Crimea, situato sullo stretto di Kerč'. Chiude a sud la sezione nord-orientale del Mar Nero, il mar d'Azov, sul quale si affaccia la striscia di Arabat che lo separa dal sistema di baie detto lago di Sivaš. La regione, internazionalmente riconosciuta come parte dell'Ucraina, è stata annessa nel 2014 dalla Russia con un referendum, il quale però è ritenuto illegale dalla comunità internazionale, che lo ha condannato con la Risoluzione 68/262 dell'Assemblea generale delle Nazioni Unite.",
+      "news": [
+        {
+          "title": "Quando Mosca si prese la Crimea - AGI",
+          "source": "AGI",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Quando Mosca si prese la Crimea AGI"
+        },
+        {
+          "title": "Guerra Ucraina-Russia, Putin chiede il riconoscimento della Crimea (annessa nel 2014) - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Guerra Ucraina-Russia, Putin chiede il riconoscimento della Crimea (annessa nel 2014) Sky TG24"
+        },
+        {
+          "title": "Quei pugliesi emigrati in Crimea, furono veri costruttori di pace - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Quei pugliesi emigrati in Crimea, furono veri costruttori di pace La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Andry Bilecky: “Ci riprenderemo Donbass e Crimea dalla Russia. Lotteremo fino alla fine, ma non siamo nazisti” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Andry Bilecky: “Ci riprenderemo Donbass e Crimea dalla Russia. Lotteremo fino alla fine, ma non siamo nazisti” la Repubblica"
+        },
+        {
+          "title": "Donato Iacubucci, docente di Univpm: ​«Affari dimezzati dopo la Crimea, solo la pelle è rublo-dipendente» - Corriere Adriatico",
+          "source": "Corriere Adriatico",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Donato Iacubucci, docente di Univpm: ​«Affari dimezzati dopo la Crimea, solo la pelle è rublo-dipendente» Corriere Adriatico"
+        },
+        {
+          "title": "La gaffe della cartina di Forza Italia che annette la Crimea alla Russia - nextQuotidiano",
+          "source": "nextQuotidiano",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "La gaffe della cartina di Forza Italia che annette la Crimea alla Russia nextQuotidiano"
+        },
+        {
+          "title": "I carri armati russi entrano in Ucraina dalla Crimea e dalla Bielorussia - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "I carri armati russi entrano in Ucraina dalla Crimea e dalla Bielorussia Corriere della Sera"
+        },
+        {
+          "title": "Crimea: Otto anni dopo la violenta e illegale annessione da parte della Russia, ancora alla disperata ricerca di riconoscimento - EUvsDisinfo",
+          "source": "EUvsDisinfo",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Crimea: Otto anni dopo la violenta e illegale annessione da parte della Russia, ancora alla disperata ricerca di riconoscimento EUvsDisinfo"
+        },
+        {
+          "title": "I migliori elogi di Salvini a Putin invecchiati proprio male - Pagella Politica",
+          "source": "Pagella Politica",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "I migliori elogi di Salvini a Putin invecchiati proprio male Pagella Politica"
+        },
+        {
+          "title": "Perché la Russia ha iniziato la guerra in Ucraina: breve ricostruzione - Micromega",
+          "source": "Micromega",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Perché la Russia ha iniziato la guerra in Ucraina: breve ricostruzione Micromega"
+        }
+      ]
+    },
+    "Protocollo_di_Minsk": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il protocollo di Minsk era un accordo finalizzato a raggiungere l'immediato cessate il fuoco e a porre fine al conflitto nel Donbass, raggiunto il 5 settembre 2014 dal Gruppo di contatto trilaterale sull'Ucraina, composto dai rappresentanti di Ucraina, Russia, senza riconoscimento del loro status da parte degli allora leader delle autoproclamate Repubblica Popolare di Doneck (DNR) e Repubblica Popolare di Lugansk (LNR). È stato firmato dopo estesi colloqui a Minsk, la capitale della Bielorussia, sotto l'egida della Organizzazione per la sicurezza e la cooperazione in Europa (OSCE).",
+      "news": [
+        {
+          "title": "Che cosa sono gli accordi di Minsk di cui tutti parlano? - La Fionda",
+          "source": "La Fionda",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Che cosa sono gli accordi di Minsk di cui tutti parlano? La Fionda"
+        },
+        {
+          "title": "Il Donbass, la contesa regione del Donec - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Il Donbass, la contesa regione del Donec Vatican News"
+        },
+        {
+          "title": "Il ruolo del Donbass nell’escalation in Ucraina - La rivista il Mulino",
+          "source": "La rivista il Mulino",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Il ruolo del Donbass nell’escalation in Ucraina La rivista il Mulino"
+        },
+        {
+          "title": "Perché una guerra in Ucraina riguarda anche te - greenMe",
+          "source": "greenMe",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Perché una guerra in Ucraina riguarda anche te greenMe"
+        },
+        {
+          "title": "Donbass: cos'è e com’è la situazione nella zona dell’Ucraina dove Putin ha inviato l’esercito - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Donbass: cos'è e com’è la situazione nella zona dell’Ucraina dove Putin ha inviato l’esercito Corriere della Sera"
+        },
+        {
+          "title": "L’importanza strategica del Donbass, al centro della crisi tra Russia e Ucraina - Geopop",
+          "source": "Geopop",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "L’importanza strategica del Donbass, al centro della crisi tra Russia e Ucraina Geopop"
+        },
+        {
+          "title": "Il Donbass, tolto il velo dell’ipocrisia - Osservatorio Balcani Caucaso Transeuropa",
+          "source": "Osservatorio Balcani Caucaso Transeuropa",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Il Donbass, tolto il velo dell’ipocrisia Osservatorio Balcani Caucaso Transeuropa"
+        },
+        {
+          "title": "La crisi dell'Ucraina sotto il profilo del diritto internazionale - Altalex",
+          "source": "Altalex",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "La crisi dell'Ucraina sotto il profilo del diritto internazionale Altalex"
+        },
+        {
+          "title": "L’aggressione dell’Ucraina e il diritto internazionale violato - Affarinternazionali",
+          "source": "Affarinternazionali",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "L’aggressione dell’Ucraina e il diritto internazionale violato Affarinternazionali"
+        },
+        {
+          "title": "Impegno Nato di non espandersi a Est, ecco il documento - Startmag",
+          "source": "Startmag",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Impegno Nato di non espandersi a Est, ecco il documento Startmag"
+        }
+      ]
+    },
+    "Battaglione_Azov": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La 12ª Brigata operazioni speciali \"Azov\", nota anche con le precedenti denominazioni di Reggimento Azov e Battaglione Azov, è un'unità militare ucraina con compiti militari e di polizia, parte del Movimento Azov.",
+      "news": [
+        {
+          "title": "Scontro tra Vauro e il diplomatico ucraino: \"Perché alcuni battaglioni ucraini hanno emblemi nazisti?\", \"Non dica bugie!\" - La7",
+          "source": "La7",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Scontro tra Vauro e il diplomatico ucraino: \"Perché alcuni battaglioni ucraini hanno emblemi nazisti?\", \"Non dica bugie!\" La7"
+        },
+        {
+          "title": "Foreign fighters nella guerra in Ucraina: i 60 italiani sul fronte del Donbass - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Foreign fighters nella guerra in Ucraina: i 60 italiani sul fronte del Donbass Corriere della Sera"
+        },
+        {
+          "title": "Andry Bilecky: “Ci riprenderemo Donbass e Crimea dalla Russia. Lotteremo fino alla fine, ma non siamo nazisti” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Andry Bilecky: “Ci riprenderemo Donbass e Crimea dalla Russia. Lotteremo fino alla fine, ma non siamo nazisti” la Repubblica"
+        },
+        {
+          "title": "Ucraina. Il Battaglione Azov: La legione straniera neonazista ucraina di cui tanti hanno perso memoria! - Notizie Geopolitiche",
+          "source": "Notizie Geopolitiche",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina. Il Battaglione Azov: La legione straniera neonazista ucraina di cui tanti hanno perso memoria! Notizie Geopolitiche"
+        }
+      ]
+    },
+    "Crisi_russo-ucraina_del_2021-2022": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il conflitto russo-ucraino o guerra russo-ucraina è uno scontro politico, diplomatico e militare tra Russia e Ucraina iniziato de facto nella seconda metà di febbraio del 2014. Dal febbraio 2022, dopo l'invasione russa dell'Ucraina, le truppe regolari di entrambi i Paesi sono coinvolte in uno scontro diretto.",
+      "news": [
+        {
+          "title": "Crisi Ucraina-Russia: Gazprom e le conseguenze sul mondo del calcio - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Crisi Ucraina-Russia: Gazprom e le conseguenze sul mondo del calcio Virgilio"
+        },
+        {
+          "title": "Guerra in Ucraina, Roberto De Zerbi bloccato a Kiev con il suo Shakhtar Donetsk - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Guerra in Ucraina, Roberto De Zerbi bloccato a Kiev con il suo Shakhtar Donetsk RaiNews"
+        },
+        {
+          "title": "Crisi energetica in Europa: i rischi della guerra in Ucraina - Infobuildenergia",
+          "source": "Infobuildenergia",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Crisi energetica in Europa: i rischi della guerra in Ucraina Infobuildenergia"
+        }
+      ]
+    },
+    "Cecenia": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Cecenia, ufficialmente Repubblica Cecena, è una repubblica della Federazione Russa.",
+      "news": [
+        {
+          "title": "Ucraina, il leader ceceno Kadirov a Zelensky: \"Chieda scusa a Putin\" - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, il leader ceceno Kadirov a Zelensky: \"Chieda scusa a Putin\" Sky TG24"
+        },
+        {
+          "title": "Ucraina, il dittatore Kadyrov annuncia l'ingresso della Cecenia in guerra con anfibi Prada da 1.500 dollari - Open",
+          "source": "Open",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, il dittatore Kadyrov annuncia l'ingresso della Cecenia in guerra con anfibi Prada da 1.500 dollari Open"
+        },
+        {
+          "title": "Dall'armata Wagner ai ceceni: chi sono i mercenari russi in Ucraina - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Dall'armata Wagner ai ceceni: chi sono i mercenari russi in Ucraina la Repubblica"
+        },
+        {
+          "title": "L’invasione sta andando peggio del previsto per Putin? - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "L’invasione sta andando peggio del previsto per Putin? Il Post"
+        },
+        {
+          "title": "Nella guerra in Ucraina la battaglia tra ceceni: uno filo russo, l’altro anti Putin. Il crudele Kadyrov contro il battaglione di Sheikh Mansour - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Nella guerra in Ucraina la battaglia tra ceceni: uno filo russo, l’altro anti Putin. Il crudele Kadyrov contro il battaglione di Sheikh Mansour La Stampa"
+        },
+        {
+          "title": "Ucraina, il leader ceceno Kadirov si rivolge a Zelensky: «Chieda scusa a Putin» – Il video - Open",
+          "source": "Open",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina, il leader ceceno Kadirov si rivolge a Zelensky: «Chieda scusa a Putin» – Il video Open"
+        },
+        {
+          "title": "Dai Balcani all'Ucraina, i conflitti scoppiati in Europa nel secondo dopoguerra - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Dai Balcani all'Ucraina, i conflitti scoppiati in Europa nel secondo dopoguerra Sky TG24"
+        }
+      ]
+    },
+    "Mark_Lanegan": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mark William Lanegan è stato un cantautore statunitense.",
+      "news": [
+        {
+          "title": "Mark Lanegan ci lascia la sua voce - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Mark Lanegan ci lascia la sua voce Esquire"
+        },
+        {
+          "title": "Nella voce di Mark Lanegan c’era l’inferno, nei suoi testi una sensibilità infinita - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "Nella voce di Mark Lanegan c’era l’inferno, nei suoi testi una sensibilità infinita Rolling Stone Italia"
+        },
+        {
+          "title": "Quella sera a Firenze con Mark Lanegan - FUL Magazine",
+          "source": "FUL Magazine",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "Quella sera a Firenze con Mark Lanegan FUL Magazine"
+        },
+        {
+          "title": "Perché tutti noi ci siamo rimasti sotto con Mark Lanegan - www.rockit.it",
+          "source": "www.rockit.it",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "Perché tutti noi ci siamo rimasti sotto con Mark Lanegan www.rockit.it"
+        },
+        {
+          "title": "È morto Mark Lanegan - Rumore",
+          "source": "Rumore",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "È morto Mark Lanegan Rumore"
+        },
+        {
+          "title": "Addio a Mark Lanegan - Rockol",
+          "source": "Rockol",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Addio a Mark Lanegan Rockol"
+        },
+        {
+          "title": "Mark Lanegan: i tributi di Eddie Vedder, Matt Cameron, Greg Dulli e tanti altri - PearlJamOnline.it",
+          "source": "PearlJamOnline.it",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "Mark Lanegan: i tributi di Eddie Vedder, Matt Cameron, Greg Dulli e tanti altri PearlJamOnline.it"
+        },
+        {
+          "title": "Mark Lanegan è morto a 57 anni: addio al fondatore degli Screaming Trees e membro dei Queens of the Stone Age - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "Mark Lanegan è morto a 57 anni: addio al fondatore degli Screaming Trees e membro dei Queens of the Stone Age Il Fatto Quotidiano"
+        },
+        {
+          "title": "Mark Lanegan - Blues Funeral :: Le pietre miliari di OndaRock - OndaRock",
+          "source": "OndaRock",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Mark Lanegan - Blues Funeral :: Le pietre miliari di OndaRock OndaRock"
+        },
+        {
+          "title": "Muore a 57 anni l'icona grunge Mark Lanegan, cantante degli Screaming Trees - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Muore a 57 anni l'icona grunge Mark Lanegan, cantante degli Screaming Trees RaiNews"
+        }
+      ]
+    },
+    "Kiev": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Kiev, in italiano chiamata storicamente con l'esonimo Chiovia, è una città a statuto speciale dell'Ucraina, capitale e città più popolosa del paese nonché capoluogo dell'omonima oblast', dalla quale è amministrativamente indipendente.",
+      "news": [
+        {
+          "title": "Invasione Ucraina: Russia alle porte di Kiev, missili sulla città. Vittime tra militari e civili - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Invasione Ucraina: Russia alle porte di Kiev, missili sulla città. Vittime tra militari e civili Il Sole 24 ORE"
+        },
+        {
+          "title": "Da dentro un bunker a Kiev mentre i russi entrano con i blindati ucraini - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Da dentro un bunker a Kiev mentre i russi entrano con i blindati ucraini Vatican News"
+        },
+        {
+          "title": "Come si sta organizzando a Kiev la resistenza all'invasione della Russia - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Come si sta organizzando a Kiev la resistenza all'invasione della Russia Wired Italia"
+        },
+        {
+          "title": "A sostegno di Kiev - Movimento 5 Stelle",
+          "source": "Movimento 5 Stelle",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "A sostegno di Kiev Movimento 5 Stelle"
+        },
+        {
+          "title": "Speciale Ucraina: verso la presa di Kiev - ISPI",
+          "source": "ISPI",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Speciale Ucraina: verso la presa di Kiev ISPI"
+        },
+        {
+          "title": "“Kiev” o “Kyiv”? - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "“Kiev” o “Kyiv”? Il Post"
+        },
+        {
+          "title": "La città di Kiev sotto attacco russo - Focus.it",
+          "source": "Focus.it",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "La città di Kiev sotto attacco russo Focus.it"
+        },
+        {
+          "title": "» Kiev, struttura evacuata d’urgenza: non fermiamo le cure per i bambini con il cancro - Fondazione il Fatto Quotidiano",
+          "source": "Fondazione il Fatto Quotidiano",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "» Kiev, struttura evacuata d’urgenza: non fermiamo le cure per i bambini con il cancro Fondazione il Fatto Quotidiano"
+        },
+        {
+          "title": "La città di Kiev è circondata: tutto il Paese è sotto assedio - www.lavitadelpopolo.it",
+          "source": "www.lavitadelpopolo.it",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "La città di Kiev è circondata: tutto il Paese è sotto assedio www.lavitadelpopolo.it"
+        },
+        {
+          "title": "Oggi è un altro giorno 2021/22 - Guerra a Kiev, l'ansia degli ucraini che vivono in Italia - 28/02/2022 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "Oggi è un altro giorno 2021/22 - Guerra a Kiev, l'ansia degli ucraini che vivono in Italia - 28/02/2022 - Video RaiPlay"
+        }
+      ]
+    },
+    "Corrado_Guzzanti": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Corrado Guzzanti è un autore televisivo, comico, imitatore, attore, sceneggiatore e regista italiano.",
+      "news": [
+        {
+          "title": "LOL 2: ecco quali sono i personaggi di Corrado Guzzanti “il Papa della comicità italiana” - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "LOL 2: ecco quali sono i personaggi di Corrado Guzzanti “il Papa della comicità italiana” Radio Deejay"
+        },
+        {
+          "title": "Lol 2 ha almeno un merito: averci ridato Corrado Guzzanti - L'Espresso",
+          "source": "L'Espresso",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Lol 2 ha almeno un merito: averci ridato Corrado Guzzanti L'Espresso"
+        },
+        {
+          "title": "I 10 migliori personaggi di Corrado Guzzanti: alla scoperta del Miglior comico italiano [VIDEO] - LaScimmiaPensa.com",
+          "source": "LaScimmiaPensa.com",
+          "pubDate": "Wed, 23 Feb 2022 08:00:00 GMT",
+          "description": "I 10 migliori personaggi di Corrado Guzzanti: alla scoperta del Miglior comico italiano [VIDEO] LaScimmiaPensa.com"
+        },
+        {
+          "title": "Max Angioni: «Non è mentalmente concepibile fare ridere Corrado Guzzanti» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Max Angioni: «Non è mentalmente concepibile fare ridere Corrado Guzzanti» Rolling Stone Italia"
+        },
+        {
+          "title": "LOL 2 recensione comedy show con Corrado Guzzanti Maccio Capatonda - MadMass.it",
+          "source": "MadMass.it",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "LOL 2 recensione comedy show con Corrado Guzzanti Maccio Capatonda MadMass.it"
+        },
+        {
+          "title": "Il mito Corrado Guzzanti, 5 momenti geniali \"minori\" della sua carriera - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Il mito Corrado Guzzanti, 5 momenti geniali \"minori\" della sua carriera Fanpage"
+        },
+        {
+          "title": "Guzzanti imita Prodi: \"Sono sempre qua, fermo come un semaforo\" - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Guzzanti imita Prodi: \"Sono sempre qua, fermo come un semaforo\" Il Sole 24 ORE"
+        },
+        {
+          "title": "Lol 2, la data di uscita della nuova stagione con Corrado Guzzanti e Virginia Raffaele - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Lol 2, la data di uscita della nuova stagione con Corrado Guzzanti e Virginia Raffaele Sky TG24"
+        },
+        {
+          "title": "Corrado Guzzanti: \"L'effetto dell'algoritmo dei social è micidiale: pensi che le tue idee siano l'opinione diffusa, le scambi per la realtà...\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Corrado Guzzanti: \"L'effetto dell'algoritmo dei social è micidiale: pensi che le tue idee siano l'opinione diffusa, le scambi per la realtà...\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Lol 2, Corrado Guzzanti e la gag sull’astrologia: «Che vor di’ avere Saturno contro?» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Lol 2, Corrado Guzzanti e la gag sull’astrologia: «Che vor di’ avere Saturno contro?» Corriere della Sera"
+        }
+      ]
+    },
+    "Patto_di_Varsavia": {
+      "fetched_at": "2026-11-06T16:46:05+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Patto di Varsavia del 1955, detto anche Trattato di Varsavia ed ufficialmente Trattato di amicizia, cooperazione e mutua assistenza, è stata un'alleanza militare composta dagli Stati socialisti del blocco orientale, nata come reazione al riarmo e all'entrata nella NATO della Repubblica Federale Tedesca nel maggio dello stesso anno.",
+      "news": [
+        {
+          "title": "Che cos’è e perché è pericoloso l’allargamento a Est della Nato - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Tue, 22 Feb 2022 08:00:00 GMT",
+          "description": "Che cos’è e perché è pericoloso l’allargamento a Est della Nato il manifesto"
+        },
+        {
+          "title": "La Russia e il timore antico dell'espansione Nato. Lo Spiegel: \"Atto dei Paesi occidentali prometteva di non estendere l'alleanza\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "La Russia e il timore antico dell'espansione Nato. Lo Spiegel: \"Atto dei Paesi occidentali prometteva di non estendere l'alleanza\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "L’appartenenza alla NATO - Il Post",
+          "source": "Il Post",
+          "pubDate": "Mon, 28 Feb 2022 08:00:00 GMT",
+          "description": "L’appartenenza alla NATO Il Post"
+        },
+        {
+          "title": "Ucraina: come cambia la strategia militare Nato - Affarinternazionali",
+          "source": "Affarinternazionali",
+          "pubDate": "Fri, 25 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina: come cambia la strategia militare Nato Affarinternazionali"
+        },
+        {
+          "title": "La crisi Ucraina: la Nato, un po’ di storia (e noi) - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "La crisi Ucraina: la Nato, un po’ di storia (e noi) Corriere della Sera"
+        },
+        {
+          "title": "L'Europa torni a coltivare la «politica di potenza» - La Gazzetta del Mezzogiorno",
+          "source": "La Gazzetta del Mezzogiorno",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "L'Europa torni a coltivare la «politica di potenza» La Gazzetta del Mezzogiorno"
+        },
+        {
+          "title": "Ucraina-Russia, Telese: \"Non sto con Putin, ma non accetto la semplificazione buoni o cattivi. L'Ucraina non può entrare nella NATO\" - La7",
+          "source": "La7",
+          "pubDate": "Sun, 27 Feb 2022 08:00:00 GMT",
+          "description": "Ucraina-Russia, Telese: \"Non sto con Putin, ma non accetto la semplificazione buoni o cattivi. L'Ucraina non può entrare nella NATO\" La7"
+        },
+        {
+          "title": "Impegno Nato di non espandersi a Est, ecco il documento - Startmag",
+          "source": "Startmag",
+          "pubDate": "Sat, 26 Feb 2022 08:00:00 GMT",
+          "description": "Impegno Nato di non espandersi a Est, ecco il documento Startmag"
+        },
+        {
+          "title": "Quel verbale Nato del 1991 che imbarazza Biden - InsideOver - Inside the news Over the world",
+          "source": "InsideOver - Inside the news Over the world",
+          "pubDate": "Mon, 21 Feb 2022 08:00:00 GMT",
+          "description": "Quel verbale Nato del 1991 che imbarazza Biden InsideOver - Inside the news Over the world"
+        },
+        {
+          "title": "Crisi russo-ucraina: gli interessi di Putin e gli errori dell’Occidente - Report Difesa",
+          "source": "Report Difesa",
+          "pubDate": "Thu, 24 Feb 2022 08:00:00 GMT",
+          "description": "Crisi russo-ucraina: gli interessi di Putin e gli errori dell’Occidente Report Difesa"
+        }
+      ]
+    }
+  }
+}

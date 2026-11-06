@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Bridgerton&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Bridgerton",
       "article_url": "https://it.wikipedia.org/wiki/Bridgerton",
-      "description": "serie televisiva statunitense del 2020",
+      "description": "Il 25 marzo esce su Netflix la seconda stagione della serie, in classifica per la terza settimana consecutiva.",
       "image_filename": "Bridgerton.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Bridgerton.png/1280px-Bridgerton.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bridgerton.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Karim%20Benzema&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Karim_Benzema",
       "article_url": "https://it.wikipedia.org/wiki/Karim_Benzema",
-      "description": "calciatore francese (1987-)",
+      "description": "Attaccante francese del Real Madrid, il 6 aprile segna una tripletta al Chelsea nei quarti di Champions League.",
       "image_filename": "Karim_Benzema_Pick.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Karim_Benzema_Pick.jpg/1157px-Karim_Benzema_Pick.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Karim_Benzema_Pick.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Morte%20di%20Stefano%20Cucchi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Morte_di_Stefano_Cucchi",
       "article_url": "https://it.wikipedia.org/wiki/Morte_di_Stefano_Cucchi",
-      "description": "",
+      "description": "Il 4 aprile la Cassazione conferma le condanne a 12 anni per due carabinieri responsabili della morte di Cucchi nel 2009.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Domenica%20delle%20palme&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Domenica_delle_palme",
       "article_url": "https://it.wikipedia.org/wiki/Domenica_delle_palme",
-      "description": "festività cristiana celebrata la domenica precedente la Pasqua",
+      "description": "Il 10 aprile si celebra la ricorrenza cristiana che precede la Pasqua e ricorda l'ingresso di Gesù a Gerusalemme.",
       "image_filename": "Giotto_di_Bondone_-_No._26_Scenes_from_the_Life_of_Christ_-_10._Entry_into_Jerusalem_-_WGA09206.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Giotto_di_Bondone_-_No._26_Scenes_from_the_Life_of_Christ_-_10._Entry_into_Jerusalem_-_WGA09206.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_No._26_Scenes_from_the_Life_of_Christ_-_10._Entry_into_Jerusalem_-_WGA09206.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20diritto%20di%20contare&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Il_diritto_di_contare",
       "article_url": "https://it.wikipedia.org/wiki/Il_diritto_di_contare",
-      "description": "film del 2016 diretto da Theodore Melfi",
+      "description": "Film del 2016 diretto da Theodore Melfi, va in onda il 6 aprile su Rai 1.",
       "image_filename": "Hidden_Figures.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/4/4b/Hidden_Figures.jpg/1225px-Hidden_Figures.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hidden_Figures.jpg",
       "image_license": "CC0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Ucraina&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Ucraina",
       "article_url": "https://it.wikipedia.org/wiki/Ucraina",
-      "description": "stato dell'Europa orientale",
+      "description": "Il 4 aprile emergono le immagini dei civili uccisi a Bucha, dopo il ritiro delle truppe russe dalla città.",
       "image_filename": "Flag_of_Ukraine.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1280px-Flag_of_Ukraine.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Moon%20Knight&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Moon_Knight",
       "article_url": "https://it.wikipedia.org/wiki/Moon_Knight",
-      "description": "personaggio dei fumetti della Marvel Comics",
+      "description": "Personaggio dei fumetti Marvel, è il protagonista della serie omonima, il cui secondo episodio esce il 6 aprile su Disney+.",
       "image_filename": "Moon_Knight_(Terry_Dodson).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d3/Moon_Knight_%28Terry_Dodson%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Moon_Knight_(Terry_Dodson).jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Italia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Italia",
       "article_url": "https://it.wikipedia.org/wiki/Italia",
-      "description": "stato dell'Europa meridionale, membro dell'Unione europea",
+      "description": "Nessun picco di rilievo nella settimana.",
       "image_filename": "Flag_of_Italy.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Guerra%20del%20Donbass&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Guerra_del_Donbass",
       "article_url": "https://it.wikipedia.org/wiki/Guerra_del_Donbass",
-      "description": "conflitto armato nella regione ucraina del Donbass",
+      "description": "Conflitto iniziato nel 2014 nell'Ucraina orientale, è in classifica da otto settimane; il 25 marzo la Russia indica il Donbass come obiettivo dell'offensiva.",
       "image_filename": "Map_of_the_war_in_Donbass_22_02_2022.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Map_of_the_war_in_Donbass_22_02_2022.svg/1280px-Map_of_the_war_in_Donbass_22_02_2022.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Map_of_the_war_in_Donbass_22_02_2022.svg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Charles%20Leclerc%20%28pilota%20automobilistico%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Charles_Leclerc_(pilota_automobilistico)",
       "article_url": "https://it.wikipedia.org/wiki/Charles_Leclerc_(pilota_automobilistico)",
-      "description": "",
+      "description": "Pilota monegasco della Ferrari, il 10 aprile vince il Gran Premio d'Australia di Formula 1.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Nathalie%20Guetta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Nathalie_Guetta",
       "article_url": "https://it.wikipedia.org/wiki/Nathalie_Guetta",
-      "description": "attrice e circense franco-italiana",
+      "description": "Attrice franco-italiana, interpreta Natalina in Don Matteo, la cui seconda puntata della tredicesima stagione va in onda il 7 aprile su Rai 1.",
       "image_filename": "Natalie_Guetta-ph_Mattia_Passeri.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Natalie_Guetta-ph_Mattia_Passeri.jpg/1280px-Natalie_Guetta-ph_Mattia_Passeri.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Natalie_Guetta-ph_Mattia_Passeri.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Volodymyr%20Zelens%27kyj&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Volodymyr_Zelens%27kyj",
       "article_url": "https://it.wikipedia.org/wiki/Volodymyr_Zelens%27kyj",
-      "description": "politico e attore ucraino, 6º e attuale presidente dell'Ucraina (dal 20 maggio 2019)",
+      "description": "Presidente ucraino ed ex attore, il 4 aprile visita Bucha; lo stesso giorno debutta su La7 la serie Servitore del popolo, di cui è protagonista.",
       "image_filename": "President_Volodymyr_Zelenskyy_attends_Coaltion_of_Willing_Meeting_press_conference.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Volodymyr_Zelenskyy_attends_Coaltion_of_Willing_Meeting_press_conference.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:President_Volodymyr_Zelenskyy_attends_Coaltion_of_Willing_Meeting_press_conference.jpg",
       "image_license": "OGL 3",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "Società radiotelevisiva pubblica italiana, senza un picco di rilievo nella settimana.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Moon%20Knight%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Moon_Knight_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Moon_Knight_(serie_televisiva)",
-      "description": "",
+      "description": "Il 6 aprile esce su Disney+ il secondo episodio della miniserie Marvel con Oscar Isaac.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=%C3%89lite%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=%C3%89lite_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/%C3%89lite_(serie_televisiva)",
-      "description": "serie televisiva spagnola (2018-2024)",
+      "description": "L'8 aprile esce su Netflix la quinta stagione della serie spagnola.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Vladimir%20Putin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Vladimir_Putin",
       "article_url": "https://it.wikipedia.org/wiki/Vladimir_Putin",
-      "description": "politico e agente segreto russo, funzionario del KGB e presidente della Federazione Russa (2000–2008, 2012–oggi)",
+      "description": "Presidente della Russia, il 6 aprile gli Stati Uniti annunciano nuove sanzioni contro il suo paese e le sue figlie per la guerra in Ucraina.",
       "image_filename": "Владимир_Путин_(2025-09-30).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%282025-09-30%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(2025-09-30).jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Jovanotti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Jovanotti",
       "article_url": "https://it.wikipedia.org/wiki/Jovanotti",
-      "description": "cantautore, rapper e disc jockey italiano (1966-)",
+      "description": "Cantautore italiano, il 10 aprile è ospite di Domenica In su Rai 1 e parla anche della malattia della figlia.",
       "image_filename": "Jovanotti_Aracataca.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jovanotti_Aracataca.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jovanotti_Aracataca.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=RMS%20Titanic&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=RMS_Titanic",
       "article_url": "https://it.wikipedia.org/wiki/RMS_Titanic",
-      "description": "transatlantico britannico, naufragato il 15 aprile del 1912 a causa di uno scontro con un iceberg",
+      "description": "Transatlantico britannico naufragato nel 1912, il picco potrebbe essere legato al 110° anniversario della partenza, il 10 aprile.",
       "image_filename": "RMS_Titanic_3.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1280px-RMS_Titanic_3.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Carlos%20T%C3%A9vez&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Carlos_T%C3%A9vez",
       "article_url": "https://it.wikipedia.org/wiki/Carlos_T%C3%A9vez",
-      "description": "allenatore di calcio e calciatore argentino (1984-)",
+      "description": "Calciatore argentino, già attaccante della Juventus. Difficile dire il motivo del picco di visite.",
       "image_filename": "Carlos_Tevez_with_Argentina_November_2014_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Carlos_Tevez_with_Argentina_November_2014_%28cropped%29.jpg/1280px-Carlos_Tevez_with_Argentina_November_2014_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carlos_Tevez_with_Argentina_November_2014_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=The%20Walking%20Dead%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=The_Walking_Dead_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/The_Walking_Dead_(serie_televisiva)",
-      "description": "serie televisiva statunitense (2010-2022)",
+      "description": "Il 4 aprile esce su Disney+ il quindicesimo episodio dell'undicesima stagione della serie.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Toni%20Capuozzo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Toni_Capuozzo",
       "article_url": "https://it.wikipedia.org/wiki/Toni_Capuozzo",
-      "description": "giornalista italiano (1948-)",
+      "description": "Giornalista italiano, il 5 aprile esprime dubbi sulla ricostruzione degli eventi di Bucha; il 7 esce su Mediaset Infinity il suo reportage su Sarajevo.",
       "image_filename": "Capuozzo_a_pattada.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Capuozzo_a_pattada.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Capuozzo_a_pattada.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Invasione%20russa%20dell%27Ucraina%20del%202022&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Invasione_russa_dell%27Ucraina_del_2022",
       "article_url": "https://it.wikipedia.org/wiki/Invasione_russa_dell%27Ucraina_del_2022",
-      "description": "invasione dell'Ucraina da parte della Russia iniziata il 24 febbraio 2022",
+      "description": "L'offensiva russa è iniziata il 24 febbraio; il 4 aprile emergono le immagini dei civili uccisi a Bucha dopo il ritiro russo.",
       "image_filename": "2022_Russian_invasion_of_Ukraine.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2022_Russian_invasion_of_Ukraine.svg/1280px-2022_Russian_invasion_of_Ukraine.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:2022_Russian_invasion_of_Ukraine.svg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Nero%20a%20met%C3%A0%20%28serie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Nero_a_met%C3%A0_(serie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Nero_a_met%C3%A0_(serie_televisiva)",
-      "description": "serie televisiva italiana",
+      "description": "Il 4 aprile va in onda su Rai 1 la prima puntata della terza stagione della serie con Claudio Amendola.",
       "image_filename": "NeroAmetà.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/4/44/NeroAmet%C3%A0.jpg/1280px-NeroAmet%C3%A0.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:NeroAmet%C3%A0.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Don%20Matteo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Don_Matteo",
       "article_url": "https://it.wikipedia.org/wiki/Don_Matteo",
-      "description": "serie televisiva italiana del 2000",
+      "description": "Il 7 aprile va in onda su Rai 1 la seconda puntata della tredicesima stagione.",
       "image_filename": "Logo_Don_Matteo_14.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Don_Matteo_14.svg/1280px-Logo_Don_Matteo_14.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Don_Matteo_14.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Battaglione%20Azov&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:04/04/2022,cd_max:04/10/2022&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-04-04&end=2022-04-10&pages=Battaglione_Azov",
       "article_url": "https://it.wikipedia.org/wiki/Battaglione_Azov",
-      "description": "",
+      "description": "Unità militare ucraina impegnata nella difesa di Mariupol; il 7 aprile un suo membro interviene in video al parlamento greco.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }
