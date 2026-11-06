@@ -269,6 +269,8 @@
       image: article.image_url || "",
       imageFocus: article.image_focus || null,
       imageFit: article.image_fit || "cover",
+      imageCrop: article.image_crop ?? null,
+      imageAspect: article.image_aspect || null,
     };
   }
 
@@ -483,13 +485,20 @@
     return parts.join(", ");
   }
 
-  // Framing set with editor.py: focus point and, for large views, fit mode.
-  // Same rules as frameStyle in editor/editor.js: keep them in sync.
+  // Framing set with editor.py: focus point and, for large views, crop
+  // (0 = whole height visible ... 100 = whole width, needs the aspect ratio)
+  // or the legacy fit modes. Same rules as frameStyle in editor/editor.js:
+  // keep them in sync. Frames use container-type: size (cqw/cqh units).
   function frameStyle(entry, large) {
     const focus = entry.imageFocus;
     const fit = large ? entry.imageFit : "cover";
     const x = focus ? focus.x : 50;
     const y = focus ? focus.y : 22;
+    if (large && entry.imageCrop !== null && entry.imageAspect) {
+      const t = entry.imageCrop / 100;
+      const w = `calc(${((1 - t) * entry.imageAspect).toFixed(4)} * 100cqh + ${t.toFixed(4)} * 100cqw)`;
+      return `position:absolute;max-width:none;height:auto;width:${w};left:${x}%;top:${y}%;transform:translate(-${x}%,-${y}%)`;
+    }
     if (fit === "width") {
       return `position:absolute;left:0;width:100%;height:auto;top:${y}%;transform:translateY(-${y}%)`;
     }
@@ -824,7 +833,7 @@
     const days = entry.daily.map((_, i) => `<div>${DAYS_SHORT[i] || ""}</div>`).join("");
     const trend = model.adjacent ? entry.trend : "n.d.";
     const trendColor = model.adjacent ? entry.trendColor : "#a2a9b1";
-    const license = raw.image_license || "vedi licenza";
+    const license = [raw.image_artist, raw.image_license || "vedi licenza"].filter(Boolean).join(" · ");
     const creditUrl = raw.image_commons_url || raw.image_url;
 
     return `

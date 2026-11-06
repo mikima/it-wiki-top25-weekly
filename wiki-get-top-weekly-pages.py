@@ -506,8 +506,9 @@ def resolve_raw_output_path(raw_json_dir: str, year: int, week: int) -> str:
 
 def preserve_manual_descriptions(data: Dict[str, object], output_path: str) -> None:
     """Keep hand-edited fields when an existing weekly JSON file is regenerated:
-    manual descriptions (description_source == "manual") and the image framing
-    set with editor.py (image_focus, image_fit)."""
+    manual descriptions (description_source == "manual"), images chosen by hand
+    (image_source == "manual") and the image framing set with editor.py
+    (image_focus, image_fit, image_crop, image_aspect)."""
     path = Path(output_path)
     if not path.exists():
         return
@@ -529,7 +530,13 @@ def preserve_manual_descriptions(data: Dict[str, object], output_path: str) -> N
         if before.get("description_source") == "manual":
             item["description"] = before.get("description", "")
             item["description_source"] = "manual"
-        for key in ("image_focus", "image_fit"):
+        if before.get("image_source") == "manual":
+            # image chosen by hand in editor.py: keep it with its license data
+            for key in ("image_filename", "image_url", "image_commons_url", "image_license",
+                        "image_license_url", "image_copyrighted", "image_artist", "image_source"):
+                if key in before:
+                    item[key] = before[key]
+        for key in ("image_focus", "image_fit", "image_crop", "image_aspect"):
             if key in before and before.get("image_filename") == item.get("image_filename"):
                 item[key] = before[key]
 
