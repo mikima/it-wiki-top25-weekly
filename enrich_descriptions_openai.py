@@ -22,7 +22,7 @@ from typing import Any, Dict, Iterable, List, Sequence, Tuple
 from urllib.parse import quote
 
 
-DEFAULT_MODEL = "gpt-5.6-terra"
+DEFAULT_MODEL = "gpt-6.1-terra"
 DEFAULT_JSON_DIR = Path("docs/json")
 DEFAULT_INSTRUCTIONS = Path("agent-instructions.md")
 DEFAULT_ENV_FILE = Path(".env")
@@ -34,6 +34,43 @@ USER_AGENT = (
     "(https://github.com/michelemauri/it-wiki-top25-weekly)"
 )
 WEEK_RE = re.compile(r"^(?P<year>\d{4})-(?P<week>\d{2})$")
+
+# USD per 1M tokens (input, cached input, output) at standard rates; flex and
+# batch cost half. Only used to print an estimate: check the OpenAI pricing page.
+MODEL_PRICES = {
+    "gpt-5.6-sol": (4.00, 0.40, 20.00),
+    "gpt-5.6-terra": (2.00, 0.20, 12.00),
+    "gpt-5.6-luna": (0.20, 0.02, 1.20),
+    "gpt-6.1-sol": (2.00, 0.20, 10.00),
+    "gpt-6-sol": (2.00, 0.20, 10.00),
+    "gpt-6.1-terra": (1.00, 0.10, 5.00),
+    "gpt-6-luna": (0.10, 0.01, 0.50),
+}
+# service tier requested ("flex" = batch prices, slower, may be refused when busy)
+SERVICE_TIER = {"value": "flex"}
+USAGE = {"calls": 0, "input": 0, "cached": 0, "output": 0, "cost": 0.0, "tiers": {}}
+
+
+def record_usage(model: str, payload: Dict[str, Any]) -> str:
+    usage = payload.get("usage") or {}
+    tokens_in = int(usage.get("input_tokens") or 0)
+    cached = int((usage.get("input_tokens_details") or {}).get("cached_tokens") or 0)
+    tokens_out = int(usage.get("output_tokens") or 0)
+    tier = str(payload.get("service_tier") or SERVICE_TIER["value"])
+    price = MODEL_PRICES.get(model)
+    cost = 0.0
+    if price:
+        cost = ((tokens_in - cached) * price[0] + cached * price[1] + tokens_out * price[2]) / 1_000_000
+        if tier in ("flex", "batch"):
+            cost /= 2
+    USAGE["calls"] += 1
+    USAGE["input"] += tokens_in
+    USAGE["cached"] += cached
+    USAGE["output"] += tokens_out
+    USAGE["cost"] += cost
+    USAGE["tiers"][tier] = USAGE["tiers"].get(tier, 0) + 1
+    return (f"{tokens_in} in ({cached} cached), {tokens_out} out, tier {tier}"
+            + (f", ~${cost:.4f}" if price else ""))
 
 
 def log(message: str) -> None:
@@ -78,7 +115,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--model",
-        default=os.environ.get("OPENAI_MODEL", DEFAULT_MODEL),
+        default=os.environ.get("OPENAI_MODEL") or DEFAULT_MODEL,
         help="OpenAI model. Can also be set with OPENAI_MODEL.",
     )
     parser.add_argument(
@@ -144,6 +181,16 @@ def parse_args() -> argparse.Namespace:
         "--force",
         action="store_true",
         help="Alias for --mode all.",
+    )
+    parser.add_argument(
+        "--service-tier",
+        choices=("flex", "auto", "default", "priority"),
+        default=os.environ.get("OPENAI_SERVICE_TIER") or "flex",
+        help=(
+            "OpenAI service tier. flex (default) costs about half, is slower and "
+            "may be refused when busy (the script retries, then falls back to the "
+            "standard tier). Can also be set with OPENAI_SERVICE_TIER."
+        ),
     )
     parser.add_argument(
         "--timeout",
@@ -626,19 +673,51 @@ def call_openai(
             }
         },
     }
-    response = requests.post(
-        OPENAI_RESPONSES_URL,
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-        },
-        json=body,
-        timeout=timeout,
-    )
-    if response.status_code >= 400:
+    tier = SERVICE_TIER["value"]
+    attempt = 0
+    while True:
+        if tier and tier != "auto":
+            body["service_tier"] = tier
+        else:
+            body.pop("service_tier", None)
+        try:
+            response = requests.post(
+                OPENAI_RESPONSES_URL,
+                headers={
+                    "Authorization": f"Bearer {api_key}",
+                    "Content-Type": "application/json",
+                },
+                json=body,
+                # flex requests can be slow: give them at least 15 minutes
+                timeout=max(timeout, 900.0) if tier == "flex" else timeout,
+            )
+        except requests.Timeout:
+            if tier == "flex" and attempt < 3:
+                attempt += 1
+                log(f"Flex request timed out, retry {attempt}/3")
+                continue
+            raise
         detail = response.text.strip().replace("\n", " ")
-        raise RuntimeError(f"OpenAI API error {response.status_code}: {detail[:1000]}")
+        if response.status_code == 429 and "credit" in detail.lower():
+            raise RuntimeError(f"OpenAI API error 429 (crediti esauriti): {detail[:300]}")
+        if tier == "flex" and response.status_code == 429 and attempt < 5:
+            # flex capacity not available right now: not billed, wait and retry
+            attempt += 1
+            wait = 30 * attempt
+            log(f"Flex busy (429), retry {attempt}/5 in {wait}s")
+            time.sleep(wait)
+            continue
+        if tier == "flex" and (response.status_code == 400 and "flex" in detail.lower()
+                               or response.status_code == 429):
+            log("Flex not available, falling back to the standard tier for this run")
+            SERVICE_TIER["value"] = tier = "auto"
+            attempt = 0
+            continue
+        if response.status_code >= 400:
+            raise RuntimeError(f"OpenAI API error {response.status_code}: {detail[:1000]}")
+        break
     payload = response.json()
+    log(f"Usage: {record_usage(model, payload)}")
     text = extract_output_text(payload)
     parsed = json.loads(text)
     descriptions = parsed.get("descriptions")
@@ -815,7 +894,8 @@ def process_file(
 def main() -> int:
     load_env_file()
     args = parse_args()
-    log(f"Using model: {args.model}")
+    SERVICE_TIER["value"] = args.service_tier
+    log(f"Using model: {args.model}, service tier: {args.service_tier}")
     instructions = read_instructions(args.instructions)
     paths = resolve_targets(args)
     log(f"Resolved {len(paths)} file(s) to process")
@@ -840,6 +920,12 @@ def main() -> int:
     print(
         f"Done. Selected {selected_total} article(s), updated {updated_total} description(s)."
     )
+    if USAGE["calls"]:
+        print(
+            f"OpenAI: {USAGE['calls']} call(s), {USAGE['input']} input tokens "
+            f"({USAGE['cached']} cached), {USAGE['output']} output tokens, "
+            f"tiers {USAGE['tiers']}, estimated cost ${USAGE['cost']:.4f}"
+        )
     return 0
 
 
