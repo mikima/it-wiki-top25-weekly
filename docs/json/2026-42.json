@@ -160,7 +160,13 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Emanuele_Tresoldi_-_Atalanta_BC.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 47,
+        "y": 15
+      },
+      "image_crop": 69,
+      "image_aspect": 0.8313
     },
     {
       "rank": 4,
@@ -250,7 +256,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Davide.iacopini.jpg",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 65,
+        "y": 32
+      }
     },
     {
       "rank": 6,
@@ -295,7 +305,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Estranea_Strippoli.jpeg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 52,
+        "y": 32
+      }
     },
     {
       "rank": 7,
@@ -340,7 +354,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Righeira.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 51,
+        "y": 14
+      }
     },
     {
       "rank": 8,
@@ -520,7 +538,13 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Silvia_Salis_2025.jpg",
       "image_license": "CC BY 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 50,
+        "y": 24
+      },
+      "image_crop": 70,
+      "image_aspect": 0.701
     },
     {
       "rank": 12,
@@ -610,7 +634,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Covent_Garden%2C_Corpus_Christi_Catholic_Church%2C_Carlo_Acutis_memorial.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 51,
+        "y": 41
+      }
     },
     {
       "rank": 14,
@@ -700,7 +728,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fiori_sopra_l%27inferno_-_I_casi_di_Teresa_Battaglia.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 50,
+        "y": 45
+      }
     },
     {
       "rank": 16,
@@ -745,7 +777,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Wilma_De_Angelis.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 55,
+        "y": 32
+      }
     },
     {
       "rank": 17,
@@ -790,7 +826,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leonardo_Del_Vecchio_giovane.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 50,
+        "y": 7
+      }
     },
     {
       "rank": 18,
@@ -835,7 +875,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 51,
+        "y": 47
+      }
     },
     {
       "rank": 19,
@@ -880,7 +924,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carrie2026.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 48,
+        "y": 25
+      }
     },
     {
       "rank": 20,
@@ -925,7 +973,13 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Leo_XIV_(13_October_2025).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 45,
+        "y": 20
+      },
+      "image_crop": 74,
+      "image_aspect": 0.7494
     },
     {
       "rank": 21,
@@ -970,7 +1024,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pino_Daniele_2009.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 60,
+        "y": 13
+      }
     },
     {
       "rank": 22,
@@ -1015,7 +1073,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Estranei.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 79,
+        "y": 26
+      }
     },
     {
       "rank": 23,

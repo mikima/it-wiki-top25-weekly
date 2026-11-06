@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Mango%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Mango_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Mango_(cantante)",
-      "description": "cantautore e musicista italiano (1954-2014)",
+      "description": "Cantautore italiano morto nel 2014, è il padre di Angelina Mango, che vince il Festival di Sanremo l'11 febbraio.",
       "image_filename": "Mango_a_Sanremo_1985.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/0/07/Mango_a_Sanremo_1985.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mango_a_Sanremo_1985.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Angelina%20Mango&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Angelina_Mango",
       "article_url": "https://it.wikipedia.org/wiki/Angelina_Mango",
-      "description": "cantautrice italiana (2001-)",
+      "description": "Cantautrice italiana, vince il Festival di Sanremo l'11 febbraio con La noia.",
       "image_filename": "Angelina_Mango_01_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Angelina_Mango_01_%28cropped%29.jpg/1049px-Angelina_Mango_01_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Angelina_Mango_01_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Ghali%20%28rapper%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Ghali_(rapper)",
       "article_url": "https://it.wikipedia.org/wiki/Ghali_(rapper)",
-      "description": "rapper e cantautore italo-tunisino (1993-)",
+      "description": "Rapper italiano di origini tunisine, partecipa al Festival di Sanremo dal 6 al 10 febbraio con Casa mia.",
       "image_filename": "Ghali_(Feb_2024)_(cropped).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ghali_%28Feb_2024%29_%28cropped%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ghali_(Feb_2024)_(cropped).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Giovanni%20Allevi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Giovanni_Allevi",
       "article_url": "https://it.wikipedia.org/wiki/Giovanni_Allevi",
-      "description": "pianista, compositore, scrittore e direttore d'orchestra italiano (1969-)",
+      "description": "Pianista e compositore italiano, il 7 febbraio suona a Sanremo e racconta la sua malattia, il mieloma multiplo.",
       "image_filename": "Giovanni_Allevi.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Giovanni_Allevi.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Allevi.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo%202024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Festival_di_Sanremo_2024",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo_2024",
-      "description": "74º Festival della canzone italiana",
+      "description": "La 74ª edizione va in onda su Rai 1 dal 6 al 10 febbraio, condotta da Amadeus. Vince Angelina Mango con La noia.",
       "image_filename": "Festival_di_Sanremo_2024_logo.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/c/c1/Festival_di_Sanremo_2024_logo.png/1200px-Festival_di_Sanremo_2024_logo.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_2024_logo.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Annalisa%20%28cantante%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Annalisa_(cantante)",
       "article_url": "https://it.wikipedia.org/wiki/Annalisa_(cantante)",
-      "description": "cantautrice italiana (1985-)",
+      "description": "Cantautrice italiana, arriva terza al Festival di Sanremo, concluso l'11 febbraio, con Sinceramente.",
       "image_filename": "Logo_Annalisa.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_Annalisa.svg/1280px-Logo_Annalisa.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_Annalisa.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Franco%20Califano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Franco_Califano",
       "article_url": "https://it.wikipedia.org/wiki/Franco_Califano",
-      "description": "cantautore, produttore discografico, attore, compositore e poeta italiano (1938-2013)",
+      "description": "Cantautore italiano morto nel 2013, è interpretato da Leo Gassmann nel film Califano, in onda l'11 febbraio su Rai 1.",
       "image_filename": "Franco_Califano_1973.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Franco_Califano_1973.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Franco_Califano_1973.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Laura%20Valente&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Laura_Valente",
       "article_url": "https://it.wikipedia.org/wiki/Laura_Valente",
-      "description": "cantautrice italiana (1963-)",
+      "description": "Cantante ed ex voce dei Matia Bazar, è la madre di Angelina Mango, vincitrice del Festival di Sanremo l'11 febbraio.",
       "image_filename": "Laura_Valente,_1993_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Laura_Valente%2C_1993_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Laura_Valente%2C_1993_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Mahmood&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Mahmood",
       "article_url": "https://it.wikipedia.org/wiki/Mahmood",
-      "description": "cantautore e paroliere italiano (1992-)",
+      "description": "Cantautore italiano, partecipa al Festival di Sanremo dal 6 al 10 febbraio con Tuta gold.",
       "image_filename": "Mahmood_(Feb_2024;_02)_(cropped).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Mahmood_%28Feb_2024%3B_02%29_%28cropped%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mahmood_(Feb_2024%3B_02)_(cropped).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Ricchi%20e%20Poveri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Ricchi_e_Poveri",
       "article_url": "https://it.wikipedia.org/wiki/Ricchi_e_Poveri",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale italiano, partecipa al Festival di Sanremo dal 6 al 10 febbraio con Ma non tutta la vita.",
       "image_filename": "71_Ricchi_e_Poveri.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/71_Ricchi_e_Poveri.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:71_Ricchi_e_Poveri.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Geolier&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Geolier",
       "article_url": "https://it.wikipedia.org/wiki/Geolier",
-      "description": "rapper italiano (2000-)",
+      "description": "Rapper napoletano, vince la serata delle cover il 9 febbraio e arriva secondo al Festival di Sanremo con I p' me, tu p' te.",
       "image_filename": "Geolier_RadioBruno_Sanremo_2024_(2).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Geolier_RadioBruno_Sanremo_2024_%282%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Geolier_RadioBruno_Sanremo_2024_(2).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Clara%20Soccini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Clara_Soccini",
       "article_url": "https://it.wikipedia.org/wiki/Clara_Soccini",
-      "description": "",
+      "description": "Cantautrice e attrice italiana nota per Mare fuori, partecipa a Sanremo dal 6 al 10 febbraio con Diamanti grezzi.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Festival%20di%20Sanremo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Festival_di_Sanremo",
       "article_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo",
-      "description": "festival musicale della canzone italiana",
+      "description": "La 74ª edizione va in onda su Rai 1 dal 6 al 10 febbraio e si conclude con la vittoria di Angelina Mango.",
       "image_filename": "Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Festival_di_Sanremo_16_febbraio_2013.JPG/1280px-Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Festival_di_Sanremo_16_febbraio_2013.JPG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Amadeus%20%28conduttore%20televisivo%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Amadeus_(conduttore_televisivo)",
       "article_url": "https://it.wikipedia.org/wiki/Amadeus_(conduttore_televisivo)",
-      "description": "conduttore televisivo, conduttore radiofonico, showman e disc jockey italiano (1962-)",
+      "description": "Conduttore televisivo italiano, dirige e presenta il Festival di Sanremo dal 6 al 10 febbraio su Rai 1.",
       "image_filename": "Amadeus_2023.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Amadeus_2023.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Amadeus_2023.jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Rose%20Villain&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Rose_Villain",
       "article_url": "https://it.wikipedia.org/wiki/Rose_Villain",
-      "description": "cantautrice e rapper italiana (1989-)",
+      "description": "Cantautrice e rapper italiana, partecipa al Festival di Sanremo dal 6 al 10 febbraio con Click boom!",
       "image_filename": "Rose_Villain_(Feb_2025).png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Rose_Villain_%28Feb_2025%29.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rose_Villain_(Feb_2025).png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=John%20Travolta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=John_Travolta",
       "article_url": "https://it.wikipedia.org/wiki/John_Travolta",
-      "description": "attore e cantante statunitense (1954-)",
+      "description": "Attore statunitense, è ospite della seconda serata del Festival di Sanremo il 7 febbraio su Rai 1.",
       "image_filename": "John_Travolta_Deauville_2013_2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/John_Travolta_Deauville_2013_2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:John_Travolta_Deauville_2013_2.jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Albo%20d%27oro%20del%20Festival%20di%20Sanremo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Albo_d%27oro_del_Festival_di_Sanremo",
       "article_url": "https://it.wikipedia.org/wiki/Albo_d%27oro_del_Festival_di_Sanremo",
-      "description": "",
+      "description": "L'11 febbraio Angelina Mango vince la 74ª edizione del Festival di Sanremo con La noia.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Loredana%20Bert%C3%A8&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Loredana_Bert%C3%A8",
       "article_url": "https://it.wikipedia.org/wiki/Loredana_Bert%C3%A8",
-      "description": "cantautrice, attrice e ballerina italiana (1950-)",
+      "description": "Cantautrice italiana, partecipa al Festival di Sanremo dal 6 al 10 febbraio con Pazza.",
       "image_filename": "Loredana_Bertè_Sanremo_1986.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Loredana_Bert%C3%A8_Sanremo_1986.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Loredana_Bert%C3%A8_Sanremo_1986.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=La%20Sad&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=La_Sad",
       "article_url": "https://it.wikipedia.org/wiki/La_Sad",
-      "description": "gruppo musicale italiano",
+      "description": "Gruppo musicale italiano, partecipa al Festival di Sanremo dal 6 al 10 febbraio con Autodistruttivo.",
       "image_filename": "La_Sad,_Trento,_2023.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/La_Sad%2C_Trento%2C_2023.jpg/1280px-La_Sad%2C_Trento%2C_2023.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:La_Sad%2C_Trento%2C_2023.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Pino%20D%27Angi%C3%B2&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Pino_D%27Angi%C3%B2",
       "article_url": "https://it.wikipedia.org/wiki/Pino_D%27Angi%C3%B2",
-      "description": "cantautore italiano (1952-2024)",
+      "description": "Cantautore italiano, il 9 febbraio canta Ma quale idea con i Bnkr44 nella serata delle cover di Sanremo.",
       "image_filename": "Pino_D'Angiò,_“Disco_Stupenda”,_Alcazar_Live,_Rome,_Italy_(06-01-2023)_·_©_Danilo_Samà.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pino_D%27Angi%C3%B2%2C_%E2%80%9CDisco_Stupenda%E2%80%9D%2C_Alcazar_Live%2C_Rome%2C_Italy_%2806-01-2023%29_%C2%B7_%C2%A9_Danilo_Sam%C3%A0.jpg/1280px-Pino_D%27Angi%C3%B2%2C_%E2%80%9CDisco_Stupenda%E2%80%9D%2C_Alcazar_Live%2C_Rome%2C_Italy_%2806-01-2023%29_%C2%B7_%C2%A9_Danilo_Sam%C3%A0.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pino_D%27Angi%C3%B2%2C_%E2%80%9CDisco_Stupenda%E2%80%9D%2C_Alcazar_Live%2C_Rome%2C_Italy_(06-01-2023)_%C2%B7_%C2%A9_Danilo_Sam%C3%A0.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Rai",
       "article_url": "https://it.wikipedia.org/wiki/Rai",
-      "description": "ente radiotelevisivo pubblico italiano",
+      "description": "La radiotelevisione pubblica trasmette su Rai 1 il Festival di Sanremo dal 6 al 10 febbraio.",
       "image_filename": "Logo_of_RAI_(2016).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=BigMama&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=BigMama",
       "article_url": "https://it.wikipedia.org/wiki/BigMama",
-      "description": "rapper e cantautrice italiana (2000-)",
+      "description": "Rapper e cantautrice italiana, partecipa al Festival di Sanremo dal 6 al 10 febbraio con La rabbia non ti basta.",
       "image_filename": "BigMama_Funweek.it_2024.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/BigMama_Funweek.it_2024.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:BigMama_Funweek.it_2024.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Lorella%20Cuccarini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Lorella_Cuccarini",
       "article_url": "https://it.wikipedia.org/wiki/Lorella_Cuccarini",
-      "description": "conduttrice televisiva, ballerina, cantante e attrice italiana (1965-)",
+      "description": "Conduttrice e ballerina italiana, affianca Amadeus nella quarta serata di Sanremo il 9 febbraio su Rai 1.",
       "image_filename": "Lorella_Cuccarini_2.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lorella_Cuccarini_2.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Lorella_Cuccarini_2.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Santi%20Francesi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Santi_Francesi",
       "article_url": "https://it.wikipedia.org/wiki/Santi_Francesi",
-      "description": "duo musicale italiano",
+      "description": "Duo musicale italiano, partecipa al Festival di Sanremo dal 6 al 10 febbraio con L'amore in bocca.",
       "image_filename": "Santi_Francesi_Sanremo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Santi_Francesi_Sanremo.jpg/1125px-Santi_Francesi_Sanremo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Santi_Francesi_Sanremo.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Paola%20%26%20Chiara&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:02/05/2024,cd_max:02/11/2024&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2024-02-05&end=2024-02-11&pages=Paola_%26_Chiara",
       "article_url": "https://it.wikipedia.org/wiki/Paola_%26_Chiara",
-      "description": "duo musicale italiano",
+      "description": "Duo formato dalle sorelle Paola e Chiara Iezzi, conduce PrimaFestival e il 9 febbraio canta a Sanremo con i Ricchi e Poveri.",
       "image_filename": "Paola_&_Chiara_-_Festival_di_Sanremo_1997.JPG",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a7/Paola_%26_Chiara_-_Festival_di_Sanremo_1997.JPG/1113px-Paola_%26_Chiara_-_Festival_di_Sanremo_1997.JPG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paola_%26_Chiara_-_Festival_di_Sanremo_1997.JPG",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

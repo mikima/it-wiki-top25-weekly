@@ -1,0 +1,1682 @@
+{
+  "week": "2024-06",
+  "start_date": "2024-02-05",
+  "end_date": "2024-02-11",
+  "articles": {
+    "Mango_(cantante)": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giuseppe Mango, detto Pino e noto semplicemente come Mango, è stato un cantautore italiano.",
+      "news": [
+        {
+          "title": "Angelina Mango, chi è la cantante in gara al Festival di Sanremo 2024 con «La noia» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Angelina Mango, chi è la cantante in gara al Festival di Sanremo 2024 con «La noia» Corriere della Sera"
+        },
+        {
+          "title": "Sanremo 2024, Angelina Mango sulle orme di papà Giuseppe: il compianto “Pino” ci lasciava dieci anni fa - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Angelina Mango sulle orme di papà Giuseppe: il compianto “Pino” ci lasciava dieci anni fa Radio Deejay"
+        },
+        {
+          "title": "Com’è morto Mango, il malore del cantante sul palco scusandosi con il pubblico e il dolore del fratello - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Com’è morto Mango, il malore del cantante sul palco scusandosi con il pubblico e il dolore del fratello L'Unità"
+        },
+        {
+          "title": "Angelina Mango, chi è la cantante che ha trionfato al Festival di Sanremo - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Angelina Mango, chi è la cantante che ha trionfato al Festival di Sanremo FocusJunior.it"
+        },
+        {
+          "title": "Mango, il malore sul palco durante un concerto. Come è morto il padre di Angelina - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Mango, il malore sul palco durante un concerto. Come è morto il padre di Angelina Il Messaggero"
+        },
+        {
+          "title": "«Siete matti!», a Sanremo vince Angelina Mango - Zeta Luiss",
+          "source": "Zeta Luiss",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "«Siete matti!», a Sanremo vince Angelina Mango Zeta Luiss"
+        },
+        {
+          "title": "Il trionfo di Angelina Mango - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Il trionfo di Angelina Mango RaiNews"
+        },
+        {
+          "title": "Chi è Angelina Mango, vincitrice del Festival di Sanremo 2024 con La noia. FOTOSTORIA - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Angelina Mango, vincitrice del Festival di Sanremo 2024 con La noia. FOTOSTORIA Sky TG24"
+        },
+        {
+          "title": "Chi è Laura Valente, la mamma di Angelina Mango e moglie di Pino Mango - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Laura Valente, la mamma di Angelina Mango e moglie di Pino Mango Fanpage"
+        },
+        {
+          "title": "Chi è Angelina Mango, la figlia del cantante in gara a Sanremo 2024 - ELLE",
+          "source": "ELLE",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Angelina Mango, la figlia del cantante in gara a Sanremo 2024 ELLE"
+        }
+      ]
+    },
+    "Angelina_Mango": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Angelina Mango è una cantautrice italiana.",
+      "news": [
+        {
+          "title": "Festival di Sanremo 2024 - Angelina Mango canta \"La noia\" - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Angelina Mango canta \"La noia\" - Video RaiPlay"
+        },
+        {
+          "title": "Angelina Mango, chi è la cantante in gara al Festival di Sanremo 2024 con «La noia» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Angelina Mango, chi è la cantante in gara al Festival di Sanremo 2024 con «La noia» Corriere della Sera"
+        },
+        {
+          "title": "Sanremo 2024, Angelina Mango può vincere? - Domani",
+          "source": "Domani",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Angelina Mango può vincere? Domani"
+        },
+        {
+          "title": "La vincitrice di Sanremo 2024 è Angelina Mango, emblema di una generazione “Gorgone” - Vogue",
+          "source": "Vogue",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "La vincitrice di Sanremo 2024 è Angelina Mango, emblema di una generazione “Gorgone” Vogue"
+        },
+        {
+          "title": "Angelina Mango inciampa nel vestito e cade senza interrompere il brano. La platea è tutta per lei - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Angelina Mango inciampa nel vestito e cade senza interrompere il brano. La platea è tutta per lei RaiNews"
+        },
+        {
+          "title": "Angelina Mango vince Sanremo 2024: tutti i prodotti usati per creare i make-up e le acconciature delle esibizioni - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Angelina Mango vince Sanremo 2024: tutti i prodotti usati per creare i make-up e le acconciature delle esibizioni Vanity Fair Italia"
+        },
+        {
+          "title": "Angelina Mango ha vinto il Festival di Sanremo - Il Post",
+          "source": "Il Post",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Angelina Mango ha vinto il Festival di Sanremo Il Post"
+        },
+        {
+          "title": "Chi è Angelina Mango, vincitrice del Festival di Sanremo 2024 con La noia. FOTOSTORIA - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Angelina Mango, vincitrice del Festival di Sanremo 2024 con La noia. FOTOSTORIA Sky TG24"
+        },
+        {
+          "title": "Angelina Mango vince il Festival di Sanremo 2024, le pagelle della finale - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Angelina Mango vince il Festival di Sanremo 2024, le pagelle della finale Euronews.com"
+        },
+        {
+          "title": "La gioia di Angelina Mango: \"Sono educata e gentile: mio padre sarebbe fiero di questo\" - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "La gioia di Angelina Mango: \"Sono educata e gentile: mio padre sarebbe fiero di questo\" la Repubblica"
+        }
+      ]
+    },
+    "Ghali_(rapper)": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Ghali, pseudonimo di Ghali Amdouni, è un rapper e cantautore italiano di origini tunisine.",
+      "news": [
+        {
+          "title": "Ghali a Sanremo 2024: chi è il rapper. Dall’infanzia difficile alla relazione con Mariacarla Boscono - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Ghali a Sanremo 2024: chi è il rapper. Dall’infanzia difficile alla relazione con Mariacarla Boscono Il Giorno"
+        },
+        {
+          "title": "Fiorello e Ghali remixano \"Fatti mandare dalla mamma\" in versione trap - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Fiorello e Ghali remixano \"Fatti mandare dalla mamma\" in versione trap RaiNews"
+        },
+        {
+          "title": "Ghali al Festival di Sanremo 2024, fotostoria del cantante di Casa mia - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Ghali al Festival di Sanremo 2024, fotostoria del cantante di Casa mia Sky TG24"
+        },
+        {
+          "title": "Dentro Casa Ghali: l'appartamento pop-up di Sanremo del rapper milanese - ELLE Decor",
+          "source": "ELLE Decor",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Dentro Casa Ghali: l'appartamento pop-up di Sanremo del rapper milanese ELLE Decor"
+        },
+        {
+          "title": "Ghali chi è: chi è la fidanzata di Ghali, la famiglia, la carriera del rapper in gara a Sanremo - Radio Zeta",
+          "source": "Radio Zeta",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Ghali chi è: chi è la fidanzata di Ghali, la famiglia, la carriera del rapper in gara a Sanremo Radio Zeta"
+        },
+        {
+          "title": "Ghali a Sanremo con \"Casa mia\", testo e significato della canzone: le origini del rapper e la fidanzata stilista - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Ghali a Sanremo con \"Casa mia\", testo e significato della canzone: le origini del rapper e la fidanzata stilista L'Unità"
+        },
+        {
+          "title": "«Dire la mia su certe cose è cruciale». Ghali e la guerra raccontata a un alieno - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Tue, 06 Feb 2024 23:06:44 GMT",
+          "description": "«Dire la mia su certe cose è cruciale». Ghali e la guerra raccontata a un alieno il manifesto"
+        },
+        {
+          "title": "Ghali a Sanremo 2024 con Casa mia - Sanremo Live & Love",
+          "source": "Sanremo Live & Love",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Ghali a Sanremo 2024 con Casa mia Sanremo Live & Love"
+        },
+        {
+          "title": "Ghali a Sanremo omaggia il suo quartiere Baggio: la periferia milanese è \"la nuova Italia\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Ghali a Sanremo omaggia il suo quartiere Baggio: la periferia milanese è \"la nuova Italia\" Fanpage"
+        },
+        {
+          "title": "Lo “stop al genocidio” di Ghali diventa caso politico - Avvenire",
+          "source": "Avvenire",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Lo “stop al genocidio” di Ghali diventa caso politico Avvenire"
+        }
+      ]
+    },
+    "Giovanni_Allevi": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Giovanni Allevi è un pianista, compositore, scrittore e direttore d'orchestra italiano.",
+      "news": [
+        {
+          "title": "Sanremo 2024: Giovanni Allevi parla del mieloma multiplo, il tumore che lo ha colpito - OMaR – Osservatorio Malattie Rare",
+          "source": "OMaR – Osservatorio Malattie Rare",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024: Giovanni Allevi parla del mieloma multiplo, il tumore che lo ha colpito OMaR – Osservatorio Malattie Rare"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - Giovanni Allevi a Sanremo 2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Giovanni Allevi a Sanremo 2024 - Video RaiPlay"
+        },
+        {
+          "title": "Sanremo2024, Giovanni Allevi racconta con lacrime e sorrisi il suo viaggio dentro la malattia - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo2024, Giovanni Allevi racconta con lacrime e sorrisi il suo viaggio dentro la malattia RaiNews"
+        },
+        {
+          "title": "Giovanni Allevi e il monologo a Sanremo 2024: «La malattia, il dolore, e i doni inaspettati» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Giovanni Allevi e il monologo a Sanremo 2024: «La malattia, il dolore, e i doni inaspettati» Vanity Fair Italia"
+        },
+        {
+          "title": "Mieloma multiplo, il tumore di Giovanni Allevi - Sanità Informazione",
+          "source": "Sanità Informazione",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Mieloma multiplo, il tumore di Giovanni Allevi Sanità Informazione"
+        },
+        {
+          "title": "Sanremo 2024, Giovanni Allevi: “La mia è una neoplasia cronica quindi non si vince mai questa battaglia, non sono qui per festeggiare nulla” - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Giovanni Allevi: “La mia è una neoplasia cronica quindi non si vince mai questa battaglia, non sono qui per festeggiare nulla” Il Fatto Quotidiano"
+        },
+        {
+          "title": "La malattia di Giovanni Allevi: cosa è il mieloma, i sintomi e le speranze di guarigione - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "La malattia di Giovanni Allevi: cosa è il mieloma, i sintomi e le speranze di guarigione Corriere della Sera"
+        },
+        {
+          "title": "Giovanni Allevi e quella «gioia immensa di vivere il presente», oltre la malattia - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Giovanni Allevi e quella «gioia immensa di vivere il presente», oltre la malattia Cosmopolitan"
+        },
+        {
+          "title": "Giovanni Allevi: studi, moglie, figli e carriera del pianista compositore ospite a Sanremo - Il Resto del Carlino",
+          "source": "Il Resto del Carlino",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Giovanni Allevi: studi, moglie, figli e carriera del pianista compositore ospite a Sanremo Il Resto del Carlino"
+        },
+        {
+          "title": "Giovanni Allevi in concerto al Teatro Sociale di Como - QuiComo",
+          "source": "QuiComo",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Giovanni Allevi in concerto al Teatro Sociale di Como QuiComo"
+        }
+      ]
+    },
+    "Festival_di_Sanremo_2024": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il settantaquattresimo Festival di Sanremo si è svolto al Teatro Ariston di Sanremo dal 6 al 10 febbraio 2024 con la conduzione e la direzione artistica di Amadeus; nel corso delle serate è stato affiancato da vari co-conduttori e co-conduttrici, tra cui Marco Mengoni nella prima serata, Giorgia nella seconda serata, Teresa Mannino nella terza serata, Lorella Cuccarini nella quarta serata e Fiorello nella serata finale. Per il quinto anno consecutivo, la regia e la fotografia sono state affidate rispettivamente a Stefano Vicario e a Mario Catapano mentre la scenografia è stata curata da Gaetano e Maria Chiara Castelli. Fiorello è stato ospite fisso delle serate come nell'edizione precedente.",
+      "news": [
+        {
+          "title": "Festival di Sanremo 2024 - Le 5 canzoni finaliste di Sanremo 2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Le 5 canzoni finaliste di Sanremo 2024 - Video RaiPlay"
+        },
+        {
+          "title": "I testi delle canzoni Sanremo 2024, tutte le parole dei 30 brani in gara - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "I testi delle canzoni Sanremo 2024, tutte le parole dei 30 brani in gara Sky TG24"
+        },
+        {
+          "title": "Festival di Sanremo 2024: i vincitori della 74esima edizione - Feltrinelli",
+          "source": "Feltrinelli",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024: i vincitori della 74esima edizione Feltrinelli"
+        },
+        {
+          "title": "Sanremo 2024: i cantanti e le canzoni, gli ospiti e i conduttori. Tutto sul Festival - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024: i cantanti e le canzoni, gli ospiti e i conduttori. Tutto sul Festival TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - Giovanni Allevi a Sanremo 2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Giovanni Allevi a Sanremo 2024 - Video RaiPlay"
+        },
+        {
+          "title": "La classifica finale di Sanremo 2024: vince Angelina Mango - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "La classifica finale di Sanremo 2024: vince Angelina Mango Sky TG24"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - L'importanza della prevenzione raccontata da Fiorello - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - L'importanza della prevenzione raccontata da Fiorello - Video RaiPlay"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - Il ritorno di Ibrahimovic all'Ariston - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Il ritorno di Ibrahimovic all'Ariston - Video RaiPlay"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - Il ritorno del cast di Mare Fuori a Sanremo - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Il ritorno del cast di Mare Fuori a Sanremo - Video RaiPlay"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - La classifica generale provvisoria - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - La classifica generale provvisoria - Video RaiPlay"
+        }
+      ]
+    },
+    "Annalisa_(cantante)": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Annalisa, pseudonimo di Annalisa Scarrone, è una cantautrice italiana.",
+      "news": [
+        {
+          "title": "Annalisa ieri e oggi, com’è cambiata la cantante dagli esordi ad Amici a Sanremo 2024 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Annalisa ieri e oggi, com’è cambiata la cantante dagli esordi ad Amici a Sanremo 2024 Fanpage"
+        },
+        {
+          "title": "#Goodhairday: Annalisa che a Sanremo 2024 fa venire voglia a tutti di farsi la frangia con le extension - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "#Goodhairday: Annalisa che a Sanremo 2024 fa venire voglia a tutti di farsi la frangia con le extension Vanity Fair Italia"
+        },
+        {
+          "title": "La vita privata di Annalisa: età, marito, figli, Amici, Instagram - Today",
+          "source": "Today",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "La vita privata di Annalisa: età, marito, figli, Amici, Instagram Today"
+        },
+        {
+          "title": "Annalisa, chi è il marito Francesco Muglia sposato nel 2023 - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Annalisa, chi è il marito Francesco Muglia sposato nel 2023 Sky TG24"
+        },
+        {
+          "title": "Sanremo 2024, Annalisa e il rapporto col calcio: il coro del Genoa e l'inno della Carcarese - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Annalisa e il rapporto col calcio: il coro del Genoa e l'inno della Carcarese Goal.com"
+        },
+        {
+          "title": "Annalisa, chi è il marito Francesco Muglia - ELLE",
+          "source": "ELLE",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Annalisa, chi è il marito Francesco Muglia ELLE"
+        },
+        {
+          "title": "Chi è Francesco Muglia, marito di Annalisa e manager di Costa Crociere - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Francesco Muglia, marito di Annalisa e manager di Costa Crociere Movieplayer"
+        },
+        {
+          "title": "Annalisa al terzo posto a Sanremo 2024 - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Annalisa al terzo posto a Sanremo 2024 FocusJunior.it"
+        },
+        {
+          "title": "Annalisa, terza al Festival: \"Rifarei tutto così\". Il suo Sanremo minuto per minuto - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Annalisa, terza al Festival: \"Rifarei tutto così\". Il suo Sanremo minuto per minuto RaiNews"
+        },
+        {
+          "title": "Annalisa: chi è il marito Francesco Muglia della cantante a Sanremo con “Sinceramente”, il testo della canzone - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Annalisa: chi è il marito Francesco Muglia della cantante a Sanremo con “Sinceramente”, il testo della canzone L'Unità"
+        }
+      ]
+    },
+    "Franco_Califano": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Francesco Califano, detto Franco, è stato un cantautore, produttore discografico, attore, compositore e poeta italiano.",
+      "news": [
+        {
+          "title": "Califano - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Feb 2024 12:58:39 GMT",
+          "description": "Califano RaiPlay"
+        },
+        {
+          "title": "Sanremo2024, Leo Gassmann nei panni di Franco Califano - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo2024, Leo Gassmann nei panni di Franco Califano RaiNews"
+        },
+        {
+          "title": "Franco Califano: quando la sinistra riabilitò \"Il Califfo\", esempio di autentica libertà e resistenza all'omologazione - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Franco Califano: quando la sinistra riabilitò \"Il Califfo\", esempio di autentica libertà e resistenza all'omologazione L'Unità"
+        },
+        {
+          "title": "Leo Gassmann è Franco Califano nel film tv Rai e stasera è ospite a Sanremo - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Leo Gassmann è Franco Califano nel film tv Rai e stasera è ospite a Sanremo La Gazzetta dello Sport"
+        },
+        {
+          "title": "Leo Gassmann è Franco Califano: il film in onda su Rai 1 - RomaToday",
+          "source": "RomaToday",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Leo Gassmann è Franco Califano: il film in onda su Rai 1 RomaToday"
+        },
+        {
+          "title": "Chi era Franco Califano: la nascita in aereo, le 1.500 donne, gli arresti per droga e l’amicizia con Craxi.... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Chi era Franco Califano: la nascita in aereo, le 1.500 donne, gli arresti per droga e l’amicizia con Craxi.... Corriere della Sera"
+        },
+        {
+          "title": "Leo Gassmann: \"Franco Califano mi ha insegnato a essere adulto e volermi più bene\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Leo Gassmann: \"Franco Califano mi ha insegnato a essere adulto e volermi più bene\" Fanpage"
+        },
+        {
+          "title": "Leo Gassmann è Franco Califano nel biopic di RaiUno sul Califfo: “Era un grande essere umano” - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Leo Gassmann è Franco Califano nel biopic di RaiUno sul Califfo: “Era un grande essere umano” Radio Deejay"
+        },
+        {
+          "title": "Califano, cosa sapere sul film con Leo Gassmann (che qui esordisce come attore) - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Califano, cosa sapere sul film con Leo Gassmann (che qui esordisce come attore) Sky TG24"
+        },
+        {
+          "title": "Califano, la recensione: Leo Gassmann rivede il poeta in un onesto (ma patinato) film tv - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Califano, la recensione: Leo Gassmann rivede il poeta in un onesto (ma patinato) film tv Movieplayer"
+        }
+      ]
+    },
+    "Laura_Valente": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Laura Valente, pseudonimo di Laura Bortolotti, è una cantautrice italiana.",
+      "news": [
+        {
+          "title": "Chi è Laura Valente, la mamma adorata di Angelina Mango che sposò il padre dopo esserne stata la corista - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Laura Valente, la mamma adorata di Angelina Mango che sposò il padre dopo esserne stata la corista Corriere della Sera"
+        },
+        {
+          "title": "Chi è Laura Valente, l'ex voce dei Matia Bazar che sposò Mango e ora è «felicissima e sconvolta» per il successo di Angelina - Il video - Open",
+          "source": "Open",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Laura Valente, l'ex voce dei Matia Bazar che sposò Mango e ora è «felicissima e sconvolta» per il successo di Angelina - Il video Open"
+        },
+        {
+          "title": "Chi è la moglie di Mango: la cantante Laura Valente, madre della cantante Angelina a Sanremo con \"La Noia\" - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Chi è la moglie di Mango: la cantante Laura Valente, madre della cantante Angelina a Sanremo con \"La Noia\" L'Unità"
+        },
+        {
+          "title": "Angelina Mango, chi è la mamma Laura Valente - Today",
+          "source": "Today",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Angelina Mango, chi è la mamma Laura Valente Today"
+        },
+        {
+          "title": "Chi è Laura Valente, la mamma di Angelina Mango e moglie di Pino Mango - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Laura Valente, la mamma di Angelina Mango e moglie di Pino Mango Fanpage"
+        },
+        {
+          "title": "Laura Valente, chi è la mamma di Angelina e moglie di Mango - Il Digitale",
+          "source": "Il Digitale",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Laura Valente, chi è la mamma di Angelina e moglie di Mango Il Digitale"
+        },
+        {
+          "title": "Laura Valente: da corista di Mango a madre della vincitrice di Sanremo 2024 - Il mattino di Foggia",
+          "source": "Il mattino di Foggia",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Laura Valente: da corista di Mango a madre della vincitrice di Sanremo 2024 Il mattino di Foggia"
+        },
+        {
+          "title": "Laura Valente, chi è la mamma di Angelina Mango - iO Donna",
+          "source": "iO Donna",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Laura Valente, chi è la mamma di Angelina Mango iO Donna"
+        },
+        {
+          "title": "Angelina Mango, chi è la mamma Laura Valente: era la corista di Mango, entrò nei Matia Bazar al posto di Antonella Ruggiero - Leggo.it",
+          "source": "Leggo.it",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Angelina Mango, chi è la mamma Laura Valente: era la corista di Mango, entrò nei Matia Bazar al posto di Antonella Ruggiero Leggo.it"
+        },
+        {
+          "title": "Angelina Mango, chi è la mamma Laura Valente: era la corista di Mango, entrò nei Matia Bazar al posto di Antonella Ruggiero - Il Gazzettino",
+          "source": "Il Gazzettino",
+          "pubDate": "Mon, 12 Feb 2024 07:00:20 GMT",
+          "description": "Angelina Mango, chi è la mamma Laura Valente: era la corista di Mango, entrò nei Matia Bazar al posto di Antonella Ruggiero Il Gazzettino"
+        }
+      ]
+    },
+    "Mahmood": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Mahmood, pseudonimo di Alessandro Mahmoud, è un cantautore e paroliere italiano.",
+      "news": [
+        {
+          "title": "Radio2 a Sanremo 2024 - Intervista a Mahmood - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Radio2 a Sanremo 2024 - Intervista a Mahmood - Video RaiPlay"
+        },
+        {
+          "title": "Come è profondo il mare, la cover di Mahmood con i Tenores di Bitti - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Come è profondo il mare, la cover di Mahmood con i Tenores di Bitti RaiNews"
+        },
+        {
+          "title": "Mahmood e l'amore per mamma Anna, che l'ha cresciuto da sola - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Mahmood e l'amore per mamma Anna, che l'ha cresciuto da sola Vanity Fair Italia"
+        },
+        {
+          "title": "Intervista esclusiva a Lisa Jarvis, la stylist di Mahmood a Sanremo 2024 - Vogue",
+          "source": "Vogue",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Intervista esclusiva a Lisa Jarvis, la stylist di Mahmood a Sanremo 2024 Vogue"
+        },
+        {
+          "title": "Mahmood torna a Sanremo 2024 con Tuta gold. FOTOSTORIA - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Mahmood torna a Sanremo 2024 con Tuta gold. FOTOSTORIA Sky TG24"
+        },
+        {
+          "title": "Mahmood e i tenores di Bitti che mangiano una seadas guardando un murales di Bansky - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Mahmood e i tenores di Bitti che mangiano una seadas guardando un murales di Bansky il manifesto"
+        },
+        {
+          "title": "\"Tuta Gold\" di Mahmood e l'architettura brutalista - ELLE Decor",
+          "source": "ELLE Decor",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "\"Tuta Gold\" di Mahmood e l'architettura brutalista ELLE Decor"
+        },
+        {
+          "title": "Sanremo, ho provato l'autotune di Mahmood: \"Tutti i segreti per non stonare\" - Today",
+          "source": "Today",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, ho provato l'autotune di Mahmood: \"Tutti i segreti per non stonare\" Today"
+        },
+        {
+          "title": "Mahmood sesto a Sanremo 2024 con “Tuta gold”: testo e significato della canzone - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Mahmood sesto a Sanremo 2024 con “Tuta gold”: testo e significato della canzone Radio Deejay"
+        },
+        {
+          "title": "La confessione di Mahmood: «Cinque telefoni nella Tuta Gold, ma ho un pessimo rapporto con lo smartphone - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "La confessione di Mahmood: «Cinque telefoni nella Tuta Gold, ma ho un pessimo rapporto con lo smartphone Corriere della Sera"
+        }
+      ]
+    },
+    "Ricchi_e_Poveri": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Ricchi e Poveri sono un gruppo musicale italiano, originario di Genova, formato nel 1967.",
+      "news": [
+        {
+          "title": "Sanremo 2024, i Ricchi e poveri con Ma non tutta la vita. Il testo - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, i Ricchi e poveri con Ma non tutta la vita. Il testo Sky TG24"
+        },
+        {
+          "title": "Sanremo 2024, i Ricchi e Poveri ritornano all'Ariston - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, i Ricchi e Poveri ritornano all'Ariston RaiNews"
+        },
+        {
+          "title": "I Ricchi e Poveri a Sanremo 2024: «Siamo amabili e un po’ paraculi» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "I Ricchi e Poveri a Sanremo 2024: «Siamo amabili e un po’ paraculi» Rolling Stone Italia"
+        },
+        {
+          "title": "I Ricchi e Poveri a Sanremo 2024: «Non bisogna sempre prendere la nota più alta per essere bravi» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "I Ricchi e Poveri a Sanremo 2024: «Non bisogna sempre prendere la nota più alta per essere bravi» Vanity Fair Italia"
+        },
+        {
+          "title": "Ricchi e Poveri: le emozioni della loro tredicesima partecipazione a Sanremo - Radio Italia",
+          "source": "Radio Italia",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Ricchi e Poveri: le emozioni della loro tredicesima partecipazione a Sanremo Radio Italia"
+        },
+        {
+          "title": "I Ricchi e Poveri a Sanremo 2024, la storia del gruppo: perché si chiamano così e come mai sono in due - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "I Ricchi e Poveri a Sanremo 2024, la storia del gruppo: perché si chiamano così e come mai sono in due Fanpage"
+        },
+        {
+          "title": "Chi sono i Ricchi e Poveri: perché si chiamano così, lo storico gruppo italiano, i grandi successi, i trionfi a Sanremo - Radio Zeta",
+          "source": "Radio Zeta",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Chi sono i Ricchi e Poveri: perché si chiamano così, lo storico gruppo italiano, i grandi successi, i trionfi a Sanremo Radio Zeta"
+        },
+        {
+          "title": "La volta buona 2023/24 - Ricchi e Poveri a Sanremo, prima volta senza Franco Gatti - 06/02/2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "La volta buona 2023/24 - Ricchi e Poveri a Sanremo, prima volta senza Franco Gatti - 06/02/2024 - Video RaiPlay"
+        },
+        {
+          "title": "Sanremo, Angelo Sotgiu de I Ricchi e Poveri: \"Qualcuno si e' dimenticato un po' la melodia\" - ANSA",
+          "source": "ANSA",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, Angelo Sotgiu de I Ricchi e Poveri: \"Qualcuno si e' dimenticato un po' la melodia\" ANSA"
+        },
+        {
+          "title": "Ricchi e Poveri a Sanremo 2024 con Ma non tutta la vitaRicchi e Poveri - Sanremo Live & Love",
+          "source": "Sanremo Live & Love",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Ricchi e Poveri a Sanremo 2024 con Ma non tutta la vitaRicchi e Poveri Sanremo Live & Love"
+        }
+      ]
+    },
+    "Geolier": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Geolier, pseudonimo di Emanuele Palumbo, è un rapper italiano.",
+      "news": [
+        {
+          "title": "Geolier per non napoletani (raccontato da uno del nord) - L'indiependente",
+          "source": "L'indiependente",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Geolier per non napoletani (raccontato da uno del nord) L'indiependente"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - Geolier con Guè, Luchè e Gigi D'Alessio canta un medley 'Strade' - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Geolier con Guè, Luchè e Gigi D'Alessio canta un medley 'Strade' - Video RaiPlay"
+        },
+        {
+          "title": "Pronti alla pizza di Geolier, il rapper di Sanremo? - La Cucina Italiana",
+          "source": "La Cucina Italiana",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Pronti alla pizza di Geolier, il rapper di Sanremo? La Cucina Italiana"
+        },
+        {
+          "title": "Sanremo 2024, le cover. Geolier con Guè, Luchè e Gigi D'Alessio in Strade, un medley di canzoni - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, le cover. Geolier con Guè, Luchè e Gigi D'Alessio in Strade, un medley di canzoni RaiNews"
+        },
+        {
+          "title": "Geolier, chi è il rapper di Secondigliano - FocusJunior.it",
+          "source": "FocusJunior.it",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Geolier, chi è il rapper di Secondigliano FocusJunior.it"
+        },
+        {
+          "title": "Il video di Geolier girato in una chiesa di Napoli è (anche) una corsa su un'auto in mostra a Scampia - ELLE Decor",
+          "source": "ELLE Decor",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Il video di Geolier girato in una chiesa di Napoli è (anche) una corsa su un'auto in mostra a Scampia ELLE Decor"
+        },
+        {
+          "title": "Sanremo 2024: Geolier, primo in classifica, a 12 anni faceva freestyle. Il video - La7",
+          "source": "La7",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024: Geolier, primo in classifica, a 12 anni faceva freestyle. Il video La7"
+        },
+        {
+          "title": "Ecco la traduzione di I p’ me, tu p’ te per chi canta la canzone di Geolier senza capirla - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Ecco la traduzione di I p’ me, tu p’ te per chi canta la canzone di Geolier senza capirla GQ Italia"
+        },
+        {
+          "title": "Sanremo 2024, come si pronuncia correttamente Geolier: la spiegazione definitiva – Video - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, come si pronuncia correttamente Geolier: la spiegazione definitiva – Video Il Fatto Quotidiano"
+        },
+        {
+          "title": "I p' me, tu p' te, testo del pezzo di Geolier arrivato 2° a Sanremo - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "I p' me, tu p' te, testo del pezzo di Geolier arrivato 2° a Sanremo Sky TG24"
+        }
+      ]
+    },
+    "Clara_Soccini": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Clara Soccini, nota semplicemente come Clara, è una cantautrice, attrice e modella italiana.",
+      "news": [
+        {
+          "title": "Clara Soccini, da Mare Fuori a Sanremo: chi è la cantante di \"Diamanti Grezzi\" - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Clara Soccini, da Mare Fuori a Sanremo: chi è la cantante di \"Diamanti Grezzi\" La Gazzetta dello Sport"
+        },
+        {
+          "title": "Chi è Clara Soccini, la prima cantante in gara a Sanremo 2024 già star della serie Mare Fuori - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Clara Soccini, la prima cantante in gara a Sanremo 2024 già star della serie Mare Fuori Il Riformista"
+        },
+        {
+          "title": "Clara a Sanremo 2024: chi è la giovane di Varese, la serie “Mare Fuori” e il fidanzato - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Clara a Sanremo 2024: chi è la giovane di Varese, la serie “Mare Fuori” e il fidanzato Il Giorno"
+        },
+        {
+          "title": "Chi è Clara Soccini a Sanremo 2024, Crazy J in Mare Fuori: il successo e il disco di platino per Origami all'alba - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Clara Soccini a Sanremo 2024, Crazy J in Mare Fuori: il successo e il disco di platino per Origami all'alba Fanpage"
+        },
+        {
+          "title": "Chi è Clara, da ‘Mare Fuori’ a Sanremo 2024. La recitazione, la moda e il primo album - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Clara, da ‘Mare Fuori’ a Sanremo 2024. La recitazione, la moda e il primo album Quotidiano Nazionale"
+        },
+        {
+          "title": "Clara Soccini: dopo Mare Fuori brilla a Sanremo - Grazia",
+          "source": "Grazia",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Clara Soccini: dopo Mare Fuori brilla a Sanremo Grazia"
+        },
+        {
+          "title": "La prima conferenza stampa di Clara: quasi più emozionata qui che sul palco - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "La prima conferenza stampa di Clara: quasi più emozionata qui che sul palco RaiNews"
+        },
+        {
+          "title": "Sanremo 2024, tra le news il balsamo labbra preferito di Clara Soccini - ELLE",
+          "source": "ELLE",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, tra le news il balsamo labbra preferito di Clara Soccini ELLE"
+        },
+        {
+          "title": "Clara Soccini, da ‘Mare fuori’ a Sanremo. Nella sua Travedona il festival trasmesso al cinema per una visione… - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Clara Soccini, da ‘Mare fuori’ a Sanremo. Nella sua Travedona il festival trasmesso al cinema per una visione… la Repubblica"
+        },
+        {
+          "title": "Festival di Sanremo, il debutto di Clara, il diamante grezzo uscito da Mare fuori - Domani",
+          "source": "Domani",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo, il debutto di Clara, il diamante grezzo uscito da Mare fuori Domani"
+        }
+      ]
+    },
+    "Festival_di_Sanremo": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il Festival di Sanremo, chiamato anche Festival della canzone italiana o più popolarmente noto come Sanremo, è un festival musicale che si svolge annualmente a Sanremo, in Italia, dal 1951. È considerato uno degli eventi musicali più prestigiosi e longevi della musica leggera italiana con un vasto seguito televisivo e radiofonico, inclusa la trasmissione in Eurovisione. Vi hanno partecipato come concorrenti, ospiti, compositori o musicisti molti dei più noti artisti della musica italiana.",
+      "news": [
+        {
+          "title": "Perché il Festival si fa proprio a Sanremo? - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Perché il Festival si fa proprio a Sanremo? Wired Italia"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - Le 5 canzoni finaliste di Sanremo 2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Le 5 canzoni finaliste di Sanremo 2024 - Video RaiPlay"
+        },
+        {
+          "title": "Sanremo, tutte le donne che hanno vinto il Festival. Ve le ricordate? - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, tutte le donne che hanno vinto il Festival. Ve le ricordate? Vanity Fair Italia"
+        },
+        {
+          "title": "I veri autori di Sanremo siamo noi - Lucy. Sulla cultura",
+          "source": "Lucy. Sulla cultura",
+          "pubDate": "Mon, 12 Feb 2024 08:00:00 GMT",
+          "description": "I veri autori di Sanremo siamo noi Lucy. Sulla cultura"
+        },
+        {
+          "title": "Caccia ai VIP del Festival di Sanremo: ecco dove scovarli… - La Mia Liguria",
+          "source": "La Mia Liguria",
+          "pubDate": "Wed, 07 Feb 2024 08:20:36 GMT",
+          "description": "Caccia ai VIP del Festival di Sanremo: ecco dove scovarli… La Mia Liguria"
+        },
+        {
+          "title": "16 curiosità sul Festival di Sanremo, tra Mina e Totò. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "16 curiosità sul Festival di Sanremo, tra Mina e Totò. FOTO Sky TG24"
+        },
+        {
+          "title": "Vince la 74ª edizione del Festival di Sanremo Angelina Mango con il brano \"La noia\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Vince la 74ª edizione del Festival di Sanremo Angelina Mango con il brano \"La noia\" RaiNews"
+        },
+        {
+          "title": "10 e più risposte a domande frequenti sul Festival di Sanremo - Le Rane",
+          "source": "Le Rane",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "10 e più risposte a domande frequenti sul Festival di Sanremo Le Rane"
+        },
+        {
+          "title": "Sanremo 2024: i cantanti e le canzoni, gli ospiti e i conduttori. Tutto sul Festival - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024: i cantanti e le canzoni, gli ospiti e i conduttori. Tutto sul Festival TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - Il ritorno del cast di Mare Fuori a Sanremo - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Il ritorno del cast di Mare Fuori a Sanremo - Video RaiPlay"
+        }
+      ]
+    },
+    "Amadeus_(conduttore_televisivo)": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Amadeus, pseudonimo di Amedeo Umberto Rita Sebastiani, è un conduttore televisivo, conduttore radiofonico, showman e disc jockey italiano.",
+      "news": [
+        {
+          "title": "Sottovoce 2024 - Amadeus - 06/02/2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sottovoce 2024 - Amadeus - 06/02/2024 - Video RaiPlay"
+        },
+        {
+          "title": "La storia di Amadeus, il veronese che conduce il Festival di Sanremo - VeronaSera",
+          "source": "VeronaSera",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "La storia di Amadeus, il veronese che conduce il Festival di Sanremo VeronaSera"
+        },
+        {
+          "title": "Amadeus: età, vero nome, l'annullamento delle nozze con l'ex moglie, l'incontro con Giovanna Civitillo, i figli, la malattia. Chi è il... - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Amadeus: età, vero nome, l'annullamento delle nozze con l'ex moglie, l'incontro con Giovanna Civitillo, i figli, la malattia. Chi è il... Il Messaggero"
+        },
+        {
+          "title": "Sanremo 2025: chi condurrà il Festival dopo Amadeus? Ecco le ipotesi - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2025: chi condurrà il Festival dopo Amadeus? Ecco le ipotesi Movieplayer"
+        },
+        {
+          "title": "Sanremo, pubblicità occulta di Ferragni e Amadeus: confermata la multa da 175mila euro alla Rai - QuiFinanza",
+          "source": "QuiFinanza",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, pubblicità occulta di Ferragni e Amadeus: confermata la multa da 175mila euro alla Rai QuiFinanza"
+        },
+        {
+          "title": "Amadeus, chi sono i figli Alice e José Alberto Sebastiani - DiLei",
+          "source": "DiLei",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Amadeus, chi sono i figli Alice e José Alberto Sebastiani DiLei"
+        },
+        {
+          "title": "La bomba di MOW: il prossimo conduttore di Sanremo 2025 è Gerry Scotti. Ci sono già trattative in corso. Ecco tutti gli indizi per il successore di Amadeus… - Mowmag.com",
+          "source": "Mowmag.com",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "La bomba di MOW: il prossimo conduttore di Sanremo 2025 è Gerry Scotti. Ci sono già trattative in corso. Ecco tutti gli indizi per il successore di Amadeus… Mowmag.com"
+        },
+        {
+          "title": "Cosa mangia Amadeus durante il Festival di Sanremo? Qual è la dieta del conduttore - Wineandfoodtour",
+          "source": "Wineandfoodtour",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Cosa mangia Amadeus durante il Festival di Sanremo? Qual è la dieta del conduttore Wineandfoodtour"
+        },
+        {
+          "title": "Giovanna Civitillo e Josè, moglie e figlio di Amadeus: chi sono ed ex - Blog Tivvù",
+          "source": "Blog Tivvù",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Giovanna Civitillo e Josè, moglie e figlio di Amadeus: chi sono ed ex Blog Tivvù"
+        },
+        {
+          "title": "Dove vive Amadeus: la casa da sogno del conduttore di Sanremo - Design Mag",
+          "source": "Design Mag",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Dove vive Amadeus: la casa da sogno del conduttore di Sanremo Design Mag"
+        }
+      ]
+    },
+    "Rose_Villain": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rose Villain, pseudonimo di Rosa Luini, è una cantautrice e rapper italiana.",
+      "news": [
+        {
+          "title": "Il Sanremo di Rose Villain, dal marito al papà: “Mi sento sexy sul palco” - Radio Italia",
+          "source": "Radio Italia",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Il Sanremo di Rose Villain, dal marito al papà: “Mi sento sexy sul palco” Radio Italia"
+        },
+        {
+          "title": "Rose Villain, il Festival minuto per minuto - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Rose Villain, il Festival minuto per minuto RaiNews"
+        },
+        {
+          "title": "Chi è Rose Villain, in gara al Festival di Sanremo 2024 con «Click Boom!» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Chi è Rose Villain, in gara al Festival di Sanremo 2024 con «Click Boom!» Corriere della Sera"
+        },
+        {
+          "title": "Rose Villain a Sanremo 2024 è «l’altra» fata turchina, dal trucco a cura di ClioMakeUp - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Rose Villain a Sanremo 2024 è «l’altra» fata turchina, dal trucco a cura di ClioMakeUp Vanity Fair Italia"
+        },
+        {
+          "title": "Rose Villain a Sanremo 2024: chi è, vero nome, carriera, marito e Instagram - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Rose Villain a Sanremo 2024: chi è, vero nome, carriera, marito e Instagram Il Giorno"
+        },
+        {
+          "title": "Sanremo 2024, Rose Villain con Click Boom!. Il testo della canzone - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Rose Villain con Click Boom!. Il testo della canzone Sky TG24"
+        },
+        {
+          "title": "Rose Villain a Sanremo: \"Dedico il festival a mia mamma che non c'è più\" - Today",
+          "source": "Today",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Rose Villain a Sanremo: \"Dedico il festival a mia mamma che non c'è più\" Today"
+        },
+        {
+          "title": "Radio2 a Sanremo 2024 - Intervista a Rose Villain - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Radio2 a Sanremo 2024 - Intervista a Rose Villain - Video RaiPlay"
+        },
+        {
+          "title": "Rose Villain a Sanremo 2024 tutti i look: dalle morso di GCDS al total Balenciaga - Vogue",
+          "source": "Vogue",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Rose Villain a Sanremo 2024 tutti i look: dalle morso di GCDS al total Balenciaga Vogue"
+        },
+        {
+          "title": "Sanremo 2024, Rose Villain e la dedica alla madre dal palco dell'Ariston: \"Non c'è più ma sono sicura che sta facendo un c***o di tifo per me\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Rose Villain e la dedica alla madre dal palco dell'Ariston: \"Non c'è più ma sono sicura che sta facendo un c***o di tifo per me\" Il Fatto Quotidiano"
+        }
+      ]
+    },
+    "John_Travolta": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "John Joseph Travolta è un attore e cantante statunitense.",
+      "news": [
+        {
+          "title": "John Travolta, Sanremo 2024 e quell'occasione mancata per parlare della salute dei bambini - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "John Travolta, Sanremo 2024 e quell'occasione mancata per parlare della salute dei bambini Vanity Fair Italia"
+        },
+        {
+          "title": "Sanremo, John Travolta e il Ballo del Qua Qua – per Fiorello è il momento di una pausa? - Lampoon Magazine",
+          "source": "Lampoon Magazine",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, John Travolta e il Ballo del Qua Qua – per Fiorello è il momento di una pausa? Lampoon Magazine"
+        },
+        {
+          "title": "Storia di U-Power, l'azienda delle scarpe indossate da John Travolta a Sanremo - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Storia di U-Power, l'azienda delle scarpe indossate da John Travolta a Sanremo Wired Italia"
+        },
+        {
+          "title": "Il Ballo del qua qua con John Travolta non è mai esistito - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Il Ballo del qua qua con John Travolta non è mai esistito Esquire"
+        },
+        {
+          "title": "John Travolta a Sanremo, cos’è successo: è stata pubblicità occulta? I video del ballo spariti e tutto quello... - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "John Travolta a Sanremo, cos’è successo: è stata pubblicità occulta? I video del ballo spariti e tutto quello... Corriere della Sera"
+        },
+        {
+          "title": "Sanremo 2024, Amadeus su John Travolta: 'Nessun tranello' - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Amadeus su John Travolta: 'Nessun tranello' Sky TG24"
+        },
+        {
+          "title": "John Travolta a Sanremo 2024: i film, il successo, l’amore per la famiglia. E il dolore per il figlio Jett e la moglie Kelly Preston - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "John Travolta a Sanremo 2024: i film, il successo, l’amore per la famiglia. E il dolore per il figlio Jett e la moglie Kelly Preston Quotidiano Nazionale"
+        },
+        {
+          "title": "Sanremo, sale la polemica per le scarpe di John Travolta. La Rai: «Un errore non oscurare il marchio» - Domani",
+          "source": "Domani",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, sale la polemica per le scarpe di John Travolta. La Rai: «Un errore non oscurare il marchio» Domani"
+        },
+        {
+          "title": "John Travolta arriva a Sanremo 2025: quello che non sapete di lui - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "John Travolta arriva a Sanremo 2025: quello che non sapete di lui Amica.it"
+        },
+        {
+          "title": "Incredibile ma vero, John Travolta fa il Ballo del Qua Qua con Fiore e Amadeus - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Incredibile ma vero, John Travolta fa il Ballo del Qua Qua con Fiore e Amadeus La Gazzetta dello Sport"
+        }
+      ]
+    },
+    "Albo_d'oro_del_Festival_di_Sanremo": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "",
+      "news": [
+        {
+          "title": "Sanremo 24: l'albo d'oro del Festival e le canzoni più significative di sempre - Libero",
+          "source": "Libero",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 24: l'albo d'oro del Festival e le canzoni più significative di sempre Libero"
+        },
+        {
+          "title": "L’albo d’oro del Premio della Critica a Sanremo - Spettakolo!",
+          "source": "Spettakolo!",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "L’albo d’oro del Premio della Critica a Sanremo Spettakolo!"
+        },
+        {
+          "title": "Sanremo 2024: i cantanti e le canzoni, gli ospiti e i conduttori. Tutto sul Festival - TV Sorrisi e Canzoni",
+          "source": "TV Sorrisi e Canzoni",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024: i cantanti e le canzoni, gli ospiti e i conduttori. Tutto sul Festival TV Sorrisi e Canzoni"
+        },
+        {
+          "title": "LIVE Pagelle Festival di Sanremo 2024 in DIRETTA: Negramaro e Diodato sontuosi, l’occasione mancata di Alessandra Amoroso e il pigiama party dei Bnkr44 - OA Sport",
+          "source": "OA Sport",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "LIVE Pagelle Festival di Sanremo 2024 in DIRETTA: Negramaro e Diodato sontuosi, l’occasione mancata di Alessandra Amoroso e il pigiama party dei Bnkr44 OA Sport"
+        },
+        {
+          "title": "Sanremo, Geolier solo secondo e Napoli si ribella: l'ha perso in albergo o è colpa del Var? - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, Geolier solo secondo e Napoli si ribella: l'ha perso in albergo o è colpa del Var? Virgilio"
+        },
+        {
+          "title": "LIVE Pagelle Festival di Sanremo 2024 in DIRETTA: Alfa sogna con Vecchioni, Mannoia battibecca col sorriso con Gabbani, Emma maglia nera - OA Sport",
+          "source": "OA Sport",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "LIVE Pagelle Festival di Sanremo 2024 in DIRETTA: Alfa sogna con Vecchioni, Mannoia battibecca col sorriso con Gabbani, Emma maglia nera OA Sport"
+        },
+        {
+          "title": "Festival di Sanremo, chi è Josè Sebastiani: il figlio di Amadeus tra Inter, il nome \"special\" e il boom social - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo, chi è Josè Sebastiani: il figlio di Amadeus tra Inter, il nome \"special\" e il boom social Virgilio"
+        },
+        {
+          "title": "LIVE Sanremo 2024, terza serata in DIRETTA: Angelina Mango in testa alla classifica! Sorprese Ghali e Il Tre - OA Sport",
+          "source": "OA Sport",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "LIVE Sanremo 2024, terza serata in DIRETTA: Angelina Mango in testa alla classifica! Sorprese Ghali e Il Tre OA Sport"
+        },
+        {
+          "title": "LIVE Sanremo 2024, quarta serata in DIRETTA: Geolier (con Guè, Luche e D’Alessio) trionfa nei duetti! Tante emozioni - OA Sport",
+          "source": "OA Sport",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "LIVE Sanremo 2024, quarta serata in DIRETTA: Geolier (con Guè, Luche e D’Alessio) trionfa nei duetti! Tante emozioni OA Sport"
+        },
+        {
+          "title": "LIVE Sanremo 2024, serata finale in DIRETTA: trionfa Angelina Mango! Geolier e Annalisa sul podio - OA Sport",
+          "source": "OA Sport",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "LIVE Sanremo 2024, serata finale in DIRETTA: trionfa Angelina Mango! Geolier e Annalisa sul podio OA Sport"
+        }
+      ]
+    },
+    "Loredana_Bertè": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Loredana Carmela Rosaria Bertè è una cantautrice, attrice e ballerina italiana.",
+      "news": [
+        {
+          "title": "Le 10 migliori esibizioni di Loredana Bertè a Sanremo - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Le 10 migliori esibizioni di Loredana Bertè a Sanremo Rolling Stone Italia"
+        },
+        {
+          "title": "Sanremo 2024, Loredana Bertè potrebbe vincere - Domani",
+          "source": "Domani",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Loredana Bertè potrebbe vincere Domani"
+        },
+        {
+          "title": "Loredana Bertè, 24 ore da prima in classifica: “A 73 anni scoprite le mie gambe?” - Radio Italia",
+          "source": "Radio Italia",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Loredana Bertè, 24 ore da prima in classifica: “A 73 anni scoprite le mie gambe?” Radio Italia"
+        },
+        {
+          "title": "Loredana Bertè e il suo Sanremo incazzato - Internazionale",
+          "source": "Internazionale",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Loredana Bertè e il suo Sanremo incazzato Internazionale"
+        },
+        {
+          "title": "Loredana Bertè, quella borsetta comprata al mercatino per Sanremo 2024 è il simbolo del suo stile anticonformista - Vogue",
+          "source": "Vogue",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Loredana Bertè, quella borsetta comprata al mercatino per Sanremo 2024 è il simbolo del suo stile anticonformista Vogue"
+        },
+        {
+          "title": "Vita in diretta 2023/24 - Sanremo 2024, Loredana Berté \"pazza\" per il Festival - 06/02/2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Vita in diretta 2023/24 - Sanremo 2024, Loredana Berté \"pazza\" per il Festival - 06/02/2024 - Video RaiPlay"
+        },
+        {
+          "title": "Problema tecnico e Loredana Bertè ferma la musica: \"Scusate, non ho il countdown\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Problema tecnico e Loredana Bertè ferma la musica: \"Scusate, non ho il countdown\" RaiNews"
+        },
+        {
+          "title": "Sanremo 2024, Loredana Bertè con Pazza. Il testo della canzone - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Loredana Bertè con Pazza. Il testo della canzone Sky TG24"
+        },
+        {
+          "title": "Loredana Bertè: l’evoluzione di stile di una rocker - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Loredana Bertè: l’evoluzione di stile di una rocker Amica.it"
+        },
+        {
+          "title": "Loredana Bertè: «Vorrei andare all’Eurovision, così rompo le scatole al mio ex Björn Borg» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Loredana Bertè: «Vorrei andare all’Eurovision, così rompo le scatole al mio ex Björn Borg» Vanity Fair Italia"
+        }
+      ]
+    },
+    "La_Sad": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Sad è un gruppo musicale italiano formatosi a Milano nel 2020, composto da Theø, Plant e Fiks.",
+      "news": [
+        {
+          "title": "La Sad a Sanremo 2024: chi sono, nomi veri, età, canzoni e fidanzate - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "La Sad a Sanremo 2024: chi sono, nomi veri, età, canzoni e fidanzate Il Giorno"
+        },
+        {
+          "title": "Sanremo 2024, Chi sono i La Sad, al Festival con Autodistruttivo. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Chi sono i La Sad, al Festival con Autodistruttivo. FOTO Sky TG24"
+        },
+        {
+          "title": "La prevenzione dei suicidi con La Sad sul palco di Sanremo 2024. Perché è così importante parlarne? - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "La prevenzione dei suicidi con La Sad sul palco di Sanremo 2024. Perché è così importante parlarne? Vanity Fair Italia"
+        },
+        {
+          "title": "Chi sono i La Sad, i componenti del gruppo a Sanremo 2024: qual è il significato del loro nome - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Chi sono i La Sad, i componenti del gruppo a Sanremo 2024: qual è il significato del loro nome Fanpage"
+        },
+        {
+          "title": "La Sad a Sanremo 2024, chi è la band che canta Autodistruttivo? Le polemiche, età e vita privata - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "La Sad a Sanremo 2024, chi è la band che canta Autodistruttivo? Le polemiche, età e vita privata Il Messaggero"
+        },
+        {
+          "title": "Radio2 a Sanremo 2024 - Intervista a La Sad e Donatella Rettore - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Radio2 a Sanremo 2024 - Intervista a La Sad e Donatella Rettore - Video RaiPlay"
+        },
+        {
+          "title": "La Sad a Sanremo, chi sono i tre componenti della band: le storie di Theø, Fiks e Plant - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "La Sad a Sanremo, chi sono i tre componenti della band: le storie di Theø, Fiks e Plant Radio Deejay"
+        },
+        {
+          "title": "Punk Orietta scatenata con i La Sad, canta \"L'amore è come l'ellera\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Punk Orietta scatenata con i La Sad, canta \"L'amore è come l'ellera\" RaiNews"
+        },
+        {
+          "title": "La Sad a Sanremo con la canzone di Riccardo Zanotti: quei cartelli con le frasi dei ragazzi che si sono uccisi - Corriere Bergamo",
+          "source": "Corriere Bergamo",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "La Sad a Sanremo con la canzone di Riccardo Zanotti: quei cartelli con le frasi dei ragazzi che si sono uccisi Corriere Bergamo"
+        },
+        {
+          "title": "Chi sono i La Sad, il gruppo punk-trap a Sanremo con “Autodistruttivo”: il testo della canzone e il significato - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Chi sono i La Sad, il gruppo punk-trap a Sanremo con “Autodistruttivo”: il testo della canzone e il significato L'Unità"
+        }
+      ]
+    },
+    "Pino_D'Angiò": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Pino D'Angiò, pseudonimo di Giuseppe Chierchia, è stato un cantautore italiano.",
+      "news": [
+        {
+          "title": "La leggenda/ \"Ma quale idea\" di Pino D'Angiò cantata dai BNKR44 - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "La leggenda/ \"Ma quale idea\" di Pino D'Angiò cantata dai BNKR44 RaiNews"
+        },
+        {
+          "title": "Pino D’Angiò a Sanremo dopo la malattia che gli ha danneggiato la voce: cos’è successo - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Pino D’Angiò a Sanremo dopo la malattia che gli ha danneggiato la voce: cos’è successo Radio Deejay"
+        },
+        {
+          "title": "Bnkr44 e Pino D’Angiò, la strana coppia: “Come ci siamo conosciuti…” - Radio Italia",
+          "source": "Radio Italia",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Bnkr44 e Pino D’Angiò, la strana coppia: “Come ci siamo conosciuti…” Radio Italia"
+        },
+        {
+          "title": "Testo e significato di Ma quale idea, Pino D’Angio virale su TikTok con il brano del 1981 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Testo e significato di Ma quale idea, Pino D’Angio virale su TikTok con il brano del 1981 Fanpage"
+        },
+        {
+          "title": "La volta buona 2023/24 - Serata dei duetti, I Bnkr44 cantano con Pino D'Angiò - 10/02/2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "La volta buona 2023/24 - Serata dei duetti, I Bnkr44 cantano con Pino D'Angiò - 10/02/2024 - Video RaiPlay"
+        },
+        {
+          "title": "Pino D'Angiò a Sanremo: «Dopo Mina e Marvin Gaye, torno sul palco grazie ai giovani» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Pino D'Angiò a Sanremo: «Dopo Mina e Marvin Gaye, torno sul palco grazie ai giovani» Corriere della Sera"
+        },
+        {
+          "title": "Pino D'Angiò chi è? Età, vita privata, il successo e il tumore: il cantautore ospite a Sanremo in duetto con i ​Bnkr44 - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Pino D'Angiò chi è? Età, vita privata, il successo e il tumore: il cantautore ospite a Sanremo in duetto con i ​Bnkr44 Il Messaggero"
+        },
+        {
+          "title": "Pino D’Angiò duetta con i Bnkr44: “Ma quale idea” a Sanremo 2024 - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Pino D’Angiò duetta con i Bnkr44: “Ma quale idea” a Sanremo 2024 la Repubblica"
+        },
+        {
+          "title": "I BNKR44 pubblicano \"MA CHE IDEA\" con PINO D’ANGIÒ sulle piattaforme digitali - Fattitaliani.it",
+          "source": "Fattitaliani.it",
+          "pubDate": "Sun, 11 Feb 2024 08:00:00 GMT",
+          "description": "I BNKR44 pubblicano \"MA CHE IDEA\" con PINO D’ANGIÒ sulle piattaforme digitali Fattitaliani.it"
+        },
+        {
+          "title": "Radio2 a Sanremo 2024 - Intervista a Bnkr44 e Pino D'Angiò - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Radio2 a Sanremo 2024 - Intervista a Bnkr44 e Pino D'Angiò - Video RaiPlay"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Mameli - Il ragazzo che sognò l'Italia - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Feb 2024 10:53:59 GMT",
+          "description": "Mameli - Il ragazzo che sognò l'Italia RaiPlay"
+        },
+        {
+          "title": "Califano - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Feb 2024 12:58:39 GMT",
+          "description": "Califano RaiPlay"
+        },
+        {
+          "title": "XXI Secolo 2023/24 - Rai Pubblica Utilità - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "XXI Secolo 2023/24 - Rai Pubblica Utilità - Video RaiPlay"
+        },
+        {
+          "title": "Ragazzi di stadio, quarant'anni dopo - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Feb 2024 15:55:09 GMT",
+          "description": "Ragazzi di stadio, quarant'anni dopo RaiPlay"
+        },
+        {
+          "title": "Shadows - Ombre - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 05 Feb 2024 20:33:51 GMT",
+          "description": "Shadows - Ombre RaiPlay"
+        },
+        {
+          "title": "Rai Valle d'Aosta - Vallée d'Aoste - I luoghi del primo '900 valdostano (prima parte) - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "Rai Valle d'Aosta - Vallée d'Aoste - I luoghi del primo '900 valdostano (prima parte) - Video RaiPlay"
+        },
+        {
+          "title": "XXI Secolo 2023/24 - L'intrattenimento della Rai - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "XXI Secolo 2023/24 - L'intrattenimento della Rai - Video RaiPlay"
+        },
+        {
+          "title": "XXI Secolo 2023/24 - Quiz e game show della Rai - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "XXI Secolo 2023/24 - Quiz e game show della Rai - Video RaiPlay"
+        },
+        {
+          "title": "Doc - Nelle tue mani - S3E9 - Evitarsi - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Doc - Nelle tue mani - S3E9 - Evitarsi - Video RaiPlay"
+        },
+        {
+          "title": "XXI Secolo 2023/24 - Le fiction della Rai - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "XXI Secolo 2023/24 - Le fiction della Rai - Video RaiPlay"
+        }
+      ]
+    },
+    "BigMama": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "BigMama, pseudonimo di Marianna Mammone, è una rapper e cantautrice italiana.",
+      "news": [
+        {
+          "title": "BigMama: le violenze, il tumore, gli insulti. Dentro la (complicata) vita della rapper di Sanremo 2024 - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "BigMama: le violenze, il tumore, gli insulti. Dentro la (complicata) vita della rapper di Sanremo 2024 Vanity Fair Italia"
+        },
+        {
+          "title": "L'esibizione 3/ BigMama scatenata sul palco, poi scoppia in lacrime - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "L'esibizione 3/ BigMama scatenata sul palco, poi scoppia in lacrime RaiNews"
+        },
+        {
+          "title": "Radio2 a Sanremo 2024 - Intervista a BigMama, Gaia, La Niña e Sissi - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Radio2 a Sanremo 2024 - Intervista a BigMama, Gaia, La Niña e Sissi - Video RaiPlay"
+        },
+        {
+          "title": "L’esordio di BigMama a Sanremo: “Sul palco dell’Ariston porto tutte le mie sfaccettature\" - Radio RTL 102.5",
+          "source": "Radio RTL 102.5",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "L’esordio di BigMama a Sanremo: “Sul palco dell’Ariston porto tutte le mie sfaccettature\" Radio RTL 102.5"
+        },
+        {
+          "title": "Chi è BigMama, intervista all'artista che debutterà a Sanremo (dov'era già stata l'anno scorso duettando con Elodie) - Vogue",
+          "source": "Vogue",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Chi è BigMama, intervista all'artista che debutterà a Sanremo (dov'era già stata l'anno scorso duettando con Elodie) Vogue"
+        },
+        {
+          "title": "Sanremo, BigMama in rosticceria: amo cucinare, il mio piano A - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, BigMama in rosticceria: amo cucinare, il mio piano A Il Sole 24 ORE"
+        },
+        {
+          "title": "Sanremo 2024, il testo e il significato di La rabbia non ti basta, la canzone di BigMama all’Ariston - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, il testo e il significato di La rabbia non ti basta, la canzone di BigMama all’Ariston Radio Deejay"
+        },
+        {
+          "title": "Sanremo 2024 BigMama tra queer revolution, il gesto femminista e la dedica alla comunità LGBTQ+: \"Amatevi liberamente, potete farlo\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024 BigMama tra queer revolution, il gesto femminista e la dedica alla comunità LGBTQ+: \"Amatevi liberamente, potete farlo\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "BigMama con Gaia, La Niña e Sissi alzano la temperatura di Sanremo - Radio Italia",
+          "source": "Radio Italia",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "BigMama con Gaia, La Niña e Sissi alzano la temperatura di Sanremo Radio Italia"
+        },
+        {
+          "title": "BigMama, troppo big per essere credibile - Vita.it",
+          "source": "Vita.it",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "BigMama, troppo big per essere credibile Vita.it"
+        }
+      ]
+    },
+    "Lorella_Cuccarini": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Lorella Cuccarini è una conduttrice televisiva, ballerina, cantante e attrice italiana.",
+      "news": [
+        {
+          "title": "Lorella Cuccarini a Sanremo 2024: «Sì, La notte vola ci sarà» - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Lorella Cuccarini a Sanremo 2024: «Sì, La notte vola ci sarà» Vanity Fair Italia"
+        },
+        {
+          "title": "Festival di Sanremo 2024 - Il medley di Lorella Cuccarini - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo 2024 - Il medley di Lorella Cuccarini - Video RaiPlay"
+        },
+        {
+          "title": "Lorella Cuccarini, dieta e allenamento per Sanremo 2024 - La Cucina Italiana",
+          "source": "La Cucina Italiana",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Lorella Cuccarini, dieta e allenamento per Sanremo 2024 La Cucina Italiana"
+        },
+        {
+          "title": "Lorella Cuccarini: «A Sanremo è successo qualcosa. Il fisico? Sbagliavo tutto: ecco la mia dieta» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Lorella Cuccarini: «A Sanremo è successo qualcosa. Il fisico? Sbagliavo tutto: ecco la mia dieta» Corriere della Sera"
+        },
+        {
+          "title": "Festival di Sanremo, arriva Lorella Cuccarini Chi è la co-conduttrice - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Festival di Sanremo, arriva Lorella Cuccarini Chi è la co-conduttrice Sky TG24"
+        },
+        {
+          "title": "Lorella Cuccarini conquista l'Ariston con un medley musicale \"fantastico\" e non solo - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Lorella Cuccarini conquista l'Ariston con un medley musicale \"fantastico\" e non solo RaiNews"
+        },
+        {
+          "title": "Lorella Cuccarini a Sanremo 2024: tutti i look d'archivio che celebrano la moda italiana - Vogue",
+          "source": "Vogue",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Lorella Cuccarini a Sanremo 2024: tutti i look d'archivio che celebrano la moda italiana Vogue"
+        },
+        {
+          "title": "La moda sostenibile a Sanremo: Lorella Cuccarini racconta a Forbes la sua scelta di abiti di seconda mano - Forbes Italia",
+          "source": "Forbes Italia",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "La moda sostenibile a Sanremo: Lorella Cuccarini racconta a Forbes la sua scelta di abiti di seconda mano Forbes Italia"
+        },
+        {
+          "title": "Sanremo 2024, Amadeus svela: \"Lorella Cuccarini fu la prima a chiamarmi in tv, a lei devo il mio debutto\". Lei: \"In Rai sono a casa, ma sto bene dove sto\" - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Amadeus svela: \"Lorella Cuccarini fu la prima a chiamarmi in tv, a lei devo il mio debutto\". Lei: \"In Rai sono a casa, ma sto bene dove sto\" Il Fatto Quotidiano"
+        },
+        {
+          "title": "Lorella Cuccarini, i quattro figli e il profondo legame con il marito: la famiglia della conduttrice lontana dai riflettori - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Lorella Cuccarini, i quattro figli e il profondo legame con il marito: la famiglia della conduttrice lontana dai riflettori Radio Deejay"
+        }
+      ]
+    },
+    "Santi_Francesi": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "I Santi Francesi, conosciuti fino al 2021 come The Jab, sono un duo musicale italiano composto da Alessandro De Santis e Mario Lorenzo Francese, vincitori della sedicesima edizione di X Factor.",
+      "news": [
+        {
+          "title": "Santi Francesi: la collaborazione con Skin e le \"chicche\" a Milano e Napoli - Radio Italia",
+          "source": "Radio Italia",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Santi Francesi: la collaborazione con Skin e le \"chicche\" a Milano e Napoli Radio Italia"
+        },
+        {
+          "title": "I Santi Francesi sul palco dell'Ariston con \"L'amore in bocca\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "I Santi Francesi sul palco dell'Ariston con \"L'amore in bocca\" RaiNews"
+        },
+        {
+          "title": "Santi Francesi sul palco di Sanremo 2024 con la canzone “L’amore in bocca”: il testo e il significato - Radio Deejay",
+          "source": "Radio Deejay",
+          "pubDate": "Sat, 10 Feb 2024 08:00:00 GMT",
+          "description": "Santi Francesi sul palco di Sanremo 2024 con la canzone “L’amore in bocca”: il testo e il significato Radio Deejay"
+        },
+        {
+          "title": "L’amore in bocca , la canzone dei Santi Francesi per Sanremo 2024, è nata da un errore del correttore automatico - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "L’amore in bocca , la canzone dei Santi Francesi per Sanremo 2024, è nata da un errore del correttore automatico GQ Italia"
+        },
+        {
+          "title": "Sanremo 2024, i Santi Francesi con L'amore in bocca. Il testo - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, i Santi Francesi con L'amore in bocca. Il testo Sky TG24"
+        },
+        {
+          "title": "Santi Francesi, chi sono i cantanti in gara al Festival di Sanremo 2024 con «L'amore in bocca» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Santi Francesi, chi sono i cantanti in gara al Festival di Sanremo 2024 con «L'amore in bocca» Corriere della Sera"
+        },
+        {
+          "title": "Sanremo, i Santi Francesi al TgLa7: 'Il titolo del nostro pezzo parte da un errore' - TGLA7",
+          "source": "TGLA7",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, i Santi Francesi al TgLa7: 'Il titolo del nostro pezzo parte da un errore' TGLA7"
+        },
+        {
+          "title": "Sanremo 2024, Matilda De Angelis in prima fila per tifare Alessandro dei Santi Francesi - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo 2024, Matilda De Angelis in prima fila per tifare Alessandro dei Santi Francesi Cosmopolitan"
+        },
+        {
+          "title": "Chi sono i Santi Francesi, protagonisti (sempre coordinati) di Sanremo 2024 - Vogue",
+          "source": "Vogue",
+          "pubDate": "Tue, 06 Feb 2024 08:00:00 GMT",
+          "description": "Chi sono i Santi Francesi, protagonisti (sempre coordinati) di Sanremo 2024 Vogue"
+        },
+        {
+          "title": "Radio2 a Sanremo 2024 - Intervista ai Santi Francesi - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Radio2 a Sanremo 2024 - Intervista ai Santi Francesi - Video RaiPlay"
+        }
+      ]
+    },
+    "Paola_&_Chiara": {
+      "fetched_at": "2026-11-06T17:06:11+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Paola & Chiara è un duo musicale italiano composto dalle sorelle milanesi Paola e Chiara Iezzi.",
+      "news": [
+        {
+          "title": "Sanremo, Paola e Chiara fanno \"Furore\" in piazza Colombo - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Sanremo, Paola e Chiara fanno \"Furore\" in piazza Colombo RaiNews"
+        },
+        {
+          "title": "PrimaFestival, le conduttrici Paola & Chiara a RTL 102.5: “Non avevamo intenzione di tornare a Sanremo quest'anno, ma quando Amadeus chiama accadono sempre cose meravigliose” - Radio RTL 102.5",
+          "source": "Radio RTL 102.5",
+          "pubDate": "Mon, 05 Feb 2024 08:00:00 GMT",
+          "description": "PrimaFestival, le conduttrici Paola & Chiara a RTL 102.5: “Non avevamo intenzione di tornare a Sanremo quest'anno, ma quando Amadeus chiama accadono sempre cose meravigliose” Radio RTL 102.5"
+        },
+        {
+          "title": "L'intervista a Paola e Chiara - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "L'intervista a Paola e Chiara Rai.it"
+        },
+        {
+          "title": "La volta buona 2023/24 - Sanremo 2024, Paola e Chiara stelle del \"Prima Festival\" - 07/02/2024 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "La volta buona 2023/24 - Sanremo 2024, Paola e Chiara stelle del \"Prima Festival\" - 07/02/2024 - Video RaiPlay"
+        },
+        {
+          "title": "Paola e Chiara al PrimaFestival di Sanremo 2024, chi sono le due sorelle e perché si erano lasciate - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Paola e Chiara al PrimaFestival di Sanremo 2024, chi sono le due sorelle e perché si erano lasciate L'Unità"
+        },
+        {
+          "title": "Paola & Chiara sul palco di Sanremo 2024 nella serata delle cover - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Paola & Chiara sul palco di Sanremo 2024 nella serata delle cover Cosmopolitan"
+        },
+        {
+          "title": "Paola & Chiara a Sanremo tra balletti, fragilità e successo - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Paola & Chiara a Sanremo tra balletti, fragilità e successo Corriere della Sera"
+        },
+        {
+          "title": "Paola & Chiara in concerto live a Sanremo - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Paola & Chiara in concerto live a Sanremo Sky TG24"
+        },
+        {
+          "title": "Paola e Chiara: età, sorelle, prima e dopo, canzoni e hit. Chi sono le artiste in duetto con i Ricchi e Poveri a Sanremo 2024 - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
+          "description": "Paola e Chiara: età, sorelle, prima e dopo, canzoni e hit. Chi sono le artiste in duetto con i Ricchi e Poveri a Sanremo 2024 Il Messaggero"
+        },
+        {
+          "title": "Paola&Chiara a Sanremo 2024 in total look Marella - Grazia",
+          "source": "Grazia",
+          "pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+          "description": "Paola&Chiara a Sanremo 2024 in total look Marella Grazia"
+        }
+      ]
+    }
+  }
+}

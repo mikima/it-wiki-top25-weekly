@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Atreju%20%28manifestazione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Atreju_(manifestazione)",
       "article_url": "https://it.wikipedia.org/wiki/Atreju_(manifestazione)",
-      "description": "manifestazione politica italiana",
+      "description": "La manifestazione politica di Fratelli d'Italia si svolge a Roma dal 14 al 17 dicembre, con Elon Musk tra gli ospiti.",
       "image_filename": "ATREJUMELONI17122023_258A.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ATREJUMELONI17122023_258A.jpg/1280px-ATREJUMELONI17122023_258A.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:ATREJUMELONI17122023_258A.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Il%20mondo%20dietro%20di%20te&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Il_mondo_dietro_di_te",
       "article_url": "https://it.wikipedia.org/wiki/Il_mondo_dietro_di_te",
-      "description": "film del 2023 diretto da Sam Esmail",
+      "description": "Film diretto da Sam Esmail con Julia Roberts, viene distribuito su Netflix l'8 dicembre.",
       "image_filename": "MondoDietroTe.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/d/df/MondoDietroTe.png/1280px-MondoDietroTe.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:MondoDietroTe.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Facebook&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Facebook",
       "article_url": "https://it.wikipedia.org/wiki/Facebook",
-      "description": "social network",
+      "description": "Il social network di Meta è in classifica per la quindicesima settimana consecutiva, senza picchi di rilievo.",
       "image_filename": "Screen_of_Facebook_(2).PNG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/1280px-Screen_of_Facebook_%282%29.PNG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screen_of_Facebook_(2).PNG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=Societ%C3%A0%20Sportiva%20Calcio%20Napoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Societ%C3%A0_Sportiva_Calcio_Napoli",
       "article_url": "https://it.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
-      "description": "club calcistico italiano di Napoli",
+      "description": "Il 16 dicembre batte il Cagliari 2-1 in Serie A; il 13 dicembre muore l'ex capitano Antonio Juliano.",
       "image_filename": "SSC_Napoli_2024_(deep_blue_navy).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/1280px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:SSC_Napoli_2024_(deep_blue_navy).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Pornhub&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Pornhub",
       "article_url": "https://it.wikipedia.org/wiki/Pornhub",
-      "description": "sito web di video sharing pornografico",
+      "description": "Sito di video pornografici, è in classifica per la quinta settimana consecutiva, senza un motivo riconoscibile.",
       "image_filename": "Pornhub-logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/1280px-Pornhub-logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pornhub-logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=Antonio%20Juliano&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Antonio_Juliano",
       "article_url": "https://it.wikipedia.org/wiki/Antonio_Juliano",
-      "description": "dirigente sportivo e calciatore italiano (1942-2023)",
+      "description": "Ex capitano e dirigente del Napoli, con cui porta Maradona in Italia, muore il 13 dicembre a 80 anni.",
       "image_filename": "Antonio_Juliano_-_SSC_Napoli_1965-66.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/3/30/Antonio_Juliano_-_SSC_Napoli_1965-66.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Antonio_Juliano_-_SSC_Napoli_1965-66.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Santa%20Lucia&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Santa_Lucia",
       "article_url": "https://it.wikipedia.org/wiki/Santa_Lucia",
-      "description": "santa e martire cristiana (283-304)",
+      "description": "Martire cristiana venerata come protettrice della vista, è celebrata il 13 dicembre.",
       "image_filename": "Santa_Lucia,_Jacopo_Palma_il_Giovane,_Chiesa_dei_SS._Geremia_e_Lucia,_Venezia.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Santa_Lucia%2C_Jacopo_Palma_il_Giovane%2C_Chiesa_dei_SS._Geremia_e_Lucia%2C_Venezia.jpg/1220px-Santa_Lucia%2C_Jacopo_Palma_il_Giovane%2C_Chiesa_dei_SS._Geremia_e_Lucia%2C_Venezia.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Santa_Lucia%2C_Jacopo_Palma_il_Giovane%2C_Chiesa_dei_SS._Geremia_e_Lucia%2C_Venezia.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Episodi%20de%20Un%20professore%20%28seconda%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Episodi_de_Un_professore_(seconda_stagione)",
       "article_url": "https://it.wikipedia.org/wiki/Episodi_de_Un_professore_(seconda_stagione)",
-      "description": "",
+      "description": "Il 12 e il 14 dicembre vanno in onda su Rai 1 la quarta e la quinta puntata della seconda stagione.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Toni%20Negri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Toni_Negri",
       "article_url": "https://it.wikipedia.org/wiki/Toni_Negri",
-      "description": "filosofo, politologo, attivista, saggista, accademico, e politico italiano (1933-2023)",
+      "description": "Filosofo e dirigente di Autonomia Operaia, muore a Parigi il 16 dicembre a 90 anni.",
       "image_filename": "Antonio_Negri_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Antonio_Negri_%28cropped%29.jpg/1280px-Antonio_Negri_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Antonio_Negri_(cropped).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Elon%20Musk&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Elon_Musk",
       "article_url": "https://it.wikipedia.org/wiki/Elon_Musk",
-      "description": "imprenditore e politico sudafricano, con cittadinanza canadese, naturalizzato statunitense (1971–)",
+      "description": "Imprenditore e proprietario di X, il 16 dicembre interviene ad Atreju, la manifestazione di Fratelli d'Italia a Roma.",
       "image_filename": "Elon_Musk_-_54820081119_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/1280px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_-_54820081119_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=Un%20professore&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Un_professore",
       "article_url": "https://it.wikipedia.org/wiki/Un_professore",
-      "description": "serie televisiva italiana del 2021",
+      "description": "Il 12 e il 14 dicembre vanno in onda su Rai 1 la quarta e la quinta puntata della seconda stagione della serie.",
       "image_filename": "Un_professore.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e7/Un_professore.png/1280px-Un_professore.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Un_professore.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Threads%20%28social%20network%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Threads_(social_network)",
       "article_url": "https://it.wikipedia.org/wiki/Threads_(social_network)",
-      "description": "social network di microblogging sviluppato da Meta",
+      "description": "Il social network di Meta dedicato al microblogging arriva in Italia il 14 dicembre.",
       "image_filename": "Threads.ing.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Threads.ing.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Threads.ing.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=XNXX&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=XNXX",
       "article_url": "https://it.wikipedia.org/wiki/XNXX",
-      "description": "",
+      "description": "Sito di video pornografici, è in classifica senza un motivo riconoscibile.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Istituto%20nazionale%20della%20previdenza%20sociale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Istituto_nazionale_della_previdenza_sociale",
       "article_url": "https://it.wikipedia.org/wiki/Istituto_nazionale_della_previdenza_sociale",
-      "description": "ente previdenziale italiano",
+      "description": "Principale ente previdenziale italiano, è in classifica senza un motivo riconoscibile.",
       "image_filename": "INPS_logo_2023.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/INPS_logo_2023.svg/1280px-INPS_logo_2023.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:INPS_logo_2023.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Wanda%20Nara&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Wanda_Nara",
       "article_url": "https://it.wikipedia.org/wiki/Wanda_Nara",
-      "description": "showgirl argentina (1986-)",
+      "description": "Showgirl argentina e concorrente di Ballando con le stelle, il 17 dicembre è ospite di Domenica In su Rai 1.",
       "image_filename": "Wanda_Nara_in_2025.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Wanda_Nara_in_2025.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Wanda_Nara_in_2025.png",
       "image_license": "CC BY 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Sara%20Ricci&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Sara_Ricci",
       "article_url": "https://it.wikipedia.org/wiki/Sara_Ricci",
-      "description": "attrice italiana",
+      "description": "Attrice italiana e concorrente del Grande Fratello, viene eliminata nella puntata del 16 dicembre su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Giorgio%20Chiellini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Giorgio_Chiellini",
       "article_url": "https://it.wikipedia.org/wiki/Giorgio_Chiellini",
-      "description": "dirigente sportivo e calciatore italiano (1984-)",
+      "description": "Difensore italiano, già capitano della Juventus, annuncia il ritiro dal calcio giocato il 12 dicembre.",
       "image_filename": "Sergio_Mattarella_meets_Italy_national_football_team_and_Matteo_Berrettini_(12_July_2021)_30_-_Chiellini_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sergio_Mattarella_meets_Italy_national_football_team_and_Matteo_Berrettini_%2812_July_2021%29_30_-_Chiellini_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Sergio_Mattarella_meets_Italy_national_football_team_and_Matteo_Berrettini_(12_July_2021)_30_-_Chiellini_(cropped).jpg",
       "image_license": "Attribution",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Associazione%20Calcio%20Milan&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Associazione_Calcio_Milan",
       "article_url": "https://it.wikipedia.org/wiki/Associazione_Calcio_Milan",
-      "description": "club calcistico italiano di Milano",
+      "description": "Il 13 dicembre batte il Newcastle 2-1, ma viene eliminato dalla Champions League e accede all'Europa League.",
       "image_filename": "Logo_of_AC_Milan.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1280px-Logo_of_AC_Milan.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_AC_Milan.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Andre%20Braugher&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Andre_Braugher",
       "article_url": "https://it.wikipedia.org/wiki/Andre_Braugher",
-      "description": "attore statunitense (1962-2023)",
+      "description": "Attore statunitense noto per Brooklyn Nine-Nine e Homicide, muore l'11 dicembre a 61 anni.",
       "image_filename": "Andre_Braugher_2011_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Andre_Braugher_2011_%28cropped%29.jpg/1015px-Andre_Braugher_2011_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Andre_Braugher_2011_(cropped).jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Adagio%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Adagio_(film)",
       "article_url": "https://it.wikipedia.org/wiki/Adagio_(film)",
-      "description": "film del 2023 diretto da Stefano Sollima",
+      "description": "Film diretto da Stefano Sollima con Pierfrancesco Favino e Toni Servillo, esce al cinema il 14 dicembre.",
       "image_filename": "Adagio_Favino_Sollima.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/9/9e/Adagio_Favino_Sollima.jpg/1280px-Adagio_Favino_Sollima.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Adagio_Favino_Sollima.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Beatrice%20Luzzi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Beatrice_Luzzi",
       "article_url": "https://it.wikipedia.org/wiki/Beatrice_Luzzi",
-      "description": "attrice e autrice televisiva italiana (1970-)",
+      "description": "Attrice italiana e concorrente del Grande Fratello, partecipa alla puntata dell'11 dicembre su Canale 5.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=C%27%C3%A8%20ancora%20domani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=C%27%C3%A8_ancora_domani",
       "article_url": "https://it.wikipedia.org/wiki/C%27%C3%A8_ancora_domani",
-      "description": "film del 2023 diretto da Paola Cortellesi",
+      "description": "Film diretto e interpretato da Paola Cortellesi, esce al cinema il 26 ottobre ed è in classifica per la settima settimana consecutiva.",
       "image_filename": "CeAncoraDomani.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/63/CeAncoraDomani.png/1280px-CeAncoraDomani.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:CeAncoraDomani.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Atreiu&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Atreiu",
       "article_url": "https://it.wikipedia.org/wiki/Atreiu",
-      "description": "personaggio del romanzo \"La storia infinita\" di Michael Ende",
+      "description": "Personaggio del romanzo La storia infinita, dà il nome ad Atreju, la manifestazione di Fratelli d'Italia dal 14 al 17 dicembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Noi%20siamo%20leggenda&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Noi_siamo_leggenda",
       "article_url": "https://it.wikipedia.org/wiki/Noi_siamo_leggenda",
-      "description": "serie televisiva italiana del 2023",
+      "description": "Il 13 dicembre va in onda su Rai 2 la quinta puntata della serie.",
       "image_filename": "Noi_siamo_leggenda.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8b/Noi_siamo_leggenda.png/1280px-Noi_siamo_leggenda.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Noi_siamo_leggenda.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Joshua%20Zirkzee&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:12/11/2023,cd_max:12/17/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-12-11&end=2023-12-17&pages=Joshua_Zirkzee",
       "article_url": "https://it.wikipedia.org/wiki/Joshua_Zirkzee",
-      "description": "calciatore olandese (2001-)",
+      "description": "Attaccante olandese del Bologna, il 17 dicembre gioca nella vittoria per 2-0 sulla Roma in Serie A.",
       "image_filename": "Joshua_Zirkzee_2019.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Joshua_Zirkzee_2019.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Joshua_Zirkzee_2019.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }

@@ -548,12 +548,16 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=Samuel_Mbangula",
       "article_url": "https://it.wikipedia.org/wiki/Samuel_Mbangula",
       "description": "Calciatore belga, realizza una tripletta contro il Milan il 28 ottobre 2026.",
-      "image_filename": "",
-      "image_url": "",
-      "image_commons_url": "",
-      "image_license": "",
-      "image_copyrighted": "",
-      "description_source": "openai"
+      "image_filename": "Football_pictogram.svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/1280px-Football_pictogram.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Football_pictogram.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False",
+      "description_source": "openai",
+      "image_artist": "Thadius856 (SVG conversion) & Parutakupiu (original image)",
+      "image_source": "manual",
+      "image_crop": 0,
+      "image_aspect": 1.0
     },
     {
       "rank": 12,
@@ -1170,7 +1174,9 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Bianca_Balti_2010.jpg",
       "image_license": "CC BY 2.0",
       "image_copyrighted": "True",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_crop": 14,
+      "image_aspect": 0.667
     },
     {
       "rank": 25,
@@ -1308,12 +1314,16 @@
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-10-26&end=2026-11-01&pages=YouTube",
       "article_url": "https://it.wikipedia.org/wiki/YouTube",
       "description": "Piattaforma web di condivisione video, citata il 28 e 29 ottobre 2026 nelle notizie sui test di Instagram per video fino a 90 minuti.",
-      "image_filename": "",
-      "image_url": "",
-      "image_commons_url": "",
-      "image_license": "",
-      "image_copyrighted": "",
-      "description_source": "openai"
+      "image_filename": "YouTube_2024.svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/YouTube_2024.svg/1280px-YouTube_2024.svg.png",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:YouTube_2024.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False",
+      "description_source": "openai",
+      "image_artist": "Google, Inc.",
+      "image_source": "manual",
+      "image_crop": 100,
+      "image_aspect": 4.6209
     },
     {
       "rank": 28,
@@ -1361,7 +1371,7 @@
       "description_source": "openai",
       "image_focus": {
         "x": 47,
-        "y": 20
+        "y": 11
       }
     },
     {
@@ -1407,7 +1417,11 @@
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzali_Repetto.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "openai"
+      "description_source": "openai",
+      "image_focus": {
+        "x": 50,
+        "y": 13
+      }
     },
     {
       "rank": 30,

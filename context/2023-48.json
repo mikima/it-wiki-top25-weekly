@@ -1,0 +1,1223 @@
+{
+  "week": "2023-48",
+  "start_date": "2023-11-27",
+  "end_date": "2023-12-03",
+  "articles": {
+    "Pornhub": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Pornhub.com è un sito web canadese di condivisione libera di materiale video pornografico della famiglia del Porn 2.0, simile nella disposizione a YouTube.",
+      "news": []
+    },
+    "Jannik_Sinner": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Jannik Sinner è un tennista italiano.",
+      "news": [
+        {
+          "title": "Jannik Sinner, l'intervista esclusiva. \"La prima cosa dopo la Coppa? Hamburger e patatine fritte\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Jannik Sinner, l'intervista esclusiva. \"La prima cosa dopo la Coppa? Hamburger e patatine fritte\" RaiNews"
+        },
+        {
+          "title": "Jannik Sinner è tornato a Sesto Pusteria: «Qui si riposa e ritrova gli amici» - Corriere del Trentino",
+          "source": "Corriere del Trentino",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Jannik Sinner è tornato a Sesto Pusteria: «Qui si riposa e ritrova gli amici» Corriere del Trentino"
+        },
+        {
+          "title": "Jannik Sinner e la (ex) fidanzata Maria Braccini a San Siro: è ancora amore? - ELLE",
+          "source": "ELLE",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Jannik Sinner e la (ex) fidanzata Maria Braccini a San Siro: è ancora amore? ELLE"
+        },
+        {
+          "title": "Jannik Sinner si è protetto dal freddo di San Siro con la giacca perfetta per l'inverno - GQ Italia",
+          "source": "GQ Italia",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Jannik Sinner si è protetto dal freddo di San Siro con la giacca perfetta per l'inverno GQ Italia"
+        },
+        {
+          "title": "Jannik Sinner è calabrese. Al campione la cittadinanza per il carattere coriaceo (di S. Renda) - HuffPost Italia",
+          "source": "HuffPost Italia",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Jannik Sinner è calabrese. Al campione la cittadinanza per il carattere coriaceo (di S. Renda) HuffPost Italia"
+        }
+      ]
+    },
+    "Henry_Kissinger": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Henry Kissinger, nato Heinz Alfred Kissinger, è stato un politico e diplomatico tedesco naturalizzato statunitense.",
+      "news": [
+        {
+          "title": "Henry Kissinger, la Realpolitik e l’ordine mondiale americano - ISPI",
+          "source": "ISPI",
+          "pubDate": "Thu, 30 Nov 2023 07:20:09 GMT",
+          "description": "Henry Kissinger, la Realpolitik e l’ordine mondiale americano ISPI"
+        },
+        {
+          "title": "Si è spento Henry Kissinger all'età di cent'anni e altre notizie interessanti - Limes",
+          "source": "Limes",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Si è spento Henry Kissinger all'età di cent'anni e altre notizie interessanti Limes"
+        },
+        {
+          "title": "È morto Henry Kissinger, uno dei più potenti politici degli Stati Uniti - Wired Italia",
+          "source": "Wired Italia",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "È morto Henry Kissinger, uno dei più potenti politici degli Stati Uniti Wired Italia"
+        },
+        {
+          "title": "È morto Henry Kissinger, da Segretario di Stato a Nobel per la pace: la sua storia. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "È morto Henry Kissinger, da Segretario di Stato a Nobel per la pace: la sua storia. FOTO Sky TG24"
+        },
+        {
+          "title": "Cose lette, viste, sentite: speciale Henry Kissinger - Appunti - di Stefano Feltri",
+          "source": "Appunti - di Stefano Feltri",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "Cose lette, viste, sentite: speciale Henry Kissinger Appunti - di Stefano Feltri"
+        },
+        {
+          "title": "E' morto a 100 anni Henry Kissinger, il Machiavelli d'America - ANSA",
+          "source": "ANSA",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "E' morto a 100 anni Henry Kissinger, il Machiavelli d'America ANSA"
+        },
+        {
+          "title": "Usa, è morto a 100 anni Henry Kissinger. Il cordoglio dalla Cina al resto del mondo. Putin: “Lungimirante” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Usa, è morto a 100 anni Henry Kissinger. Il cordoglio dalla Cina al resto del mondo. Putin: “Lungimirante” la Repubblica"
+        },
+        {
+          "title": "È morto Henry Kissinger - il manifesto",
+          "source": "il manifesto",
+          "pubDate": "Thu, 30 Nov 2023 09:30:46 GMT",
+          "description": "È morto Henry Kissinger il manifesto"
+        },
+        {
+          "title": "La morte di Kissinger, protagonista della politica mondiale a cavallo di due secoli - Vatican News",
+          "source": "Vatican News",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "La morte di Kissinger, protagonista della politica mondiale a cavallo di due secoli Vatican News"
+        },
+        {
+          "title": "Henry Kissinger, il maestro della realpolitik, è morto a 100 anni - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Henry Kissinger, il maestro della realpolitik, è morto a 100 anni Il Sole 24 ORE"
+        }
+      ]
+    },
+    "Società_Sportiva_Calcio_Napoli": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Società Sportiva Calcio Napoli, meglio nota come Napoli, è una società calcistica italiana della città di Napoli. Milita in Serie A, la massima serie del campionato italiano.",
+      "news": [
+        {
+          "title": "Stadio Maradona, De Laurentiis al Comune: \"Voglio comprarlo, no alla concessione\" - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Stadio Maradona, De Laurentiis al Comune: \"Voglio comprarlo, no alla concessione\" Fanpage"
+        }
+      ]
+    },
+    "Facebook": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Facebook è un social network statunitense, fondato il 4 febbraio 2004 da Mark Zuckerberg e altri studenti dell'Università di Harvard, inizialmente riservato alla comunità universitaria e successivamente aperto al pubblico. Il nome deriva dagli yearbooks, gli annuari statunitensi contenenti fotografie e informazioni sui membri delle istituzioni educative. È di proprietà di Meta Platforms, società precedentemente denominata Facebook Inc. fino al 2021.",
+      "news": [
+        {
+          "title": "Facebook e Instagram a pagamento e gratis: le differenze! - AostaSera -",
+          "source": "AostaSera -",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Facebook e Instagram a pagamento e gratis: le differenze! AostaSera -"
+        },
+        {
+          "title": "Come limitare l'uso di Facebook? L'opzione che non avete visto - Everyeye Tech",
+          "source": "Everyeye Tech",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "Come limitare l'uso di Facebook? L'opzione che non avete visto Everyeye Tech"
+        },
+        {
+          "title": "Sai come eliminare un profilo Facebook da cellulare e Pc? Ecco i passaggi - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Sai come eliminare un profilo Facebook da cellulare e Pc? Ecco i passaggi Corriere Style"
+        },
+        {
+          "title": "Facebook rimuove la pagina \"indipendente\" Ponte sullo Stretto: \"Non rispetta i nostri standard\" - MessinaToday",
+          "source": "MessinaToday",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Facebook rimuove la pagina \"indipendente\" Ponte sullo Stretto: \"Non rispetta i nostri standard\" MessinaToday"
+        },
+        {
+          "title": "Si può vedere chi ha visualizzato un video su Facebook? La spiegazione - Everyeye Tech",
+          "source": "Everyeye Tech",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Si può vedere chi ha visualizzato un video su Facebook? La spiegazione Everyeye Tech"
+        }
+      ]
+    },
+    "Coppa_Davis": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "La Coppa Davis è la massima competizione mondiale a squadre nazionali del tennis maschile, il cui equivalente femminile è la Billie Jean King Cup. Organizzata dalla Federazione Internazionale Tennis, si disputa con cadenza annuale; in passato, dal 2009 al 2015, ha assegnato punti validi per la classifica ATP.",
+      "news": [
+        {
+          "title": "La magica stagione di Coppa Davis del '76 in \"Una squadra\" - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "La magica stagione di Coppa Davis del '76 in \"Una squadra\" Rai.it"
+        },
+        {
+          "title": "Coppa Davis, quanto hanno guadagnato Sinner e compagni - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Coppa Davis, quanto hanno guadagnato Sinner e compagni Sky Sport"
+        },
+        {
+          "title": "La Davis dell’Italia: è la vittoria di un sistema sempre più virtuoso - FITP",
+          "source": "FITP",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "La Davis dell’Italia: è la vittoria di un sistema sempre più virtuoso FITP"
+        },
+        {
+          "title": "\"Forza Italia\", \"Che dolore per l'Australia\": la Davis azzurra sulla stampa estera - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "\"Forza Italia\", \"Che dolore per l'Australia\": la Davis azzurra sulla stampa estera La Gazzetta dello Sport"
+        },
+        {
+          "title": "Coppa Davis: Sinner e compagni riscrivono la storia del tennis italiano - Metropolitano.it",
+          "source": "Metropolitano.it",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Coppa Davis: Sinner e compagni riscrivono la storia del tennis italiano Metropolitano.it"
+        },
+        {
+          "title": "Coppa Davis, Binaghi apre il TG1: \"Davanti e noi 15 anni di grandi emozioni\". Il siparietto con Fiorello e l'invito a Sanremo - SuperTennis",
+          "source": "SuperTennis",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Coppa Davis, Binaghi apre il TG1: \"Davanti e noi 15 anni di grandi emozioni\". Il siparietto con Fiorello e l'invito a Sanremo SuperTennis"
+        },
+        {
+          "title": "Una 'firma' barese dietro il successo italiano in Coppa Davis, di Rutigliano il team manager Dell'Edera: \"Fieri di te\" - BariToday",
+          "source": "BariToday",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Una 'firma' barese dietro il successo italiano in Coppa Davis, di Rutigliano il team manager Dell'Edera: \"Fieri di te\" BariToday"
+        },
+        {
+          "title": "Sinner guida l'Italia, la Coppa Davis è azzurra 47 anni dopo - ANSA",
+          "source": "ANSA",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Sinner guida l'Italia, la Coppa Davis è azzurra 47 anni dopo ANSA"
+        },
+        {
+          "title": "Finale di Coppa Davis, l’Italia vince dopo 47 anni: 2-0 all’Australia con Arnaldi e Sinner - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Finale di Coppa Davis, l’Italia vince dopo 47 anni: 2-0 all’Australia con Arnaldi e Sinner Sky TG24"
+        }
+      ]
+    },
+    "Napoleone_Bonaparte": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Napoleone Bonaparte, spesso chiamato per antonomasia anche solo Napoleone, è stato un politico e generale francese, fondatore del Primo Impero francese e protagonista della prima fase della storia contemporanea europea, detta \"età napoleonica\".",
+      "news": [
+        {
+          "title": "Monza, città di Napoleone: sulle tracce di Bonaparte insieme ad altri 50 luoghi in Europa - Il Giorno",
+          "source": "Il Giorno",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Monza, città di Napoleone: sulle tracce di Bonaparte insieme ad altri 50 luoghi in Europa Il Giorno"
+        },
+        {
+          "title": "Non stamo a fa’ Kubbrick: la rece di Napoleon - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Non stamo a fa’ Kubbrick: la rece di Napoleon i400Calci"
+        },
+        {
+          "title": "Napoleon - CineCriticaWeb",
+          "source": "CineCriticaWeb",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Napoleon CineCriticaWeb"
+        },
+        {
+          "title": "Charles Bonaparte, erede di Napoleone: «Il saccheggio di Venezia? Era la logica della guerra. Il film di Ridley Scott a me è piaciuto» - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "Charles Bonaparte, erede di Napoleone: «Il saccheggio di Venezia? Era la logica della guerra. Il film di Ridley Scott a me è piaciuto» Corriere Milano"
+        },
+        {
+          "title": "Ecco perché il sindaco Pilotto incontrerà Charles Bonaparte, discendente di Napoleone - MonzaToday",
+          "source": "MonzaToday",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Ecco perché il sindaco Pilotto incontrerà Charles Bonaparte, discendente di Napoleone MonzaToday"
+        },
+        {
+          "title": "Ridley Scott: ‘Napoleon’, ‘Il gladiatore 2’ e l’IA: «Sarà una bomba atomica» - Rolling Stone Italia",
+          "source": "Rolling Stone Italia",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "Ridley Scott: ‘Napoleon’, ‘Il gladiatore 2’ e l’IA: «Sarà una bomba atomica» Rolling Stone Italia"
+        },
+        {
+          "title": "«Napoleon», amore e guerra nel kolossal di Ridley Scott - Bresciaoggi",
+          "source": "Bresciaoggi",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "«Napoleon», amore e guerra nel kolossal di Ridley Scott Bresciaoggi"
+        },
+        {
+          "title": "Le tre isole di Napoleone (prima di Sant'Elena) - Lonely Planet Italia",
+          "source": "Lonely Planet Italia",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Le tre isole di Napoleone (prima di Sant'Elena) Lonely Planet Italia"
+        },
+        {
+          "title": "Napoleon: gli storici odiano il film di Ridley Scott, ecco tutti gli errori che contiene - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Napoleon: gli storici odiano il film di Ridley Scott, ecco tutti gli errori che contiene Movieplayer"
+        },
+        {
+          "title": "“Napoleon” tra realtà e finzione: quanti errori storici nel kolossal di Ridley Scott… - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "“Napoleon” tra realtà e finzione: quanti errori storici nel kolossal di Ridley Scott… Amica.it"
+        }
+      ]
+    },
+    "Massacro_del_Circeo": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il massacro del Circeo è un caso di rapimento, stupro e omicidio avvenuto nel comune italiano di San Felice Circeo, provincia di Latina tra il 29 e il 30 settembre 1975.",
+      "news": [
+        {
+          "title": "Circeo, la serie su Rai 1: trama, cast e puntate della fiction sul massacro del 1975 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Circeo, la serie su Rai 1: trama, cast e puntate della fiction sul massacro del 1975 Fanpage"
+        },
+        {
+          "title": "Circeo, stasera in tv l’ultima puntata: il momento della verità - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Circeo, stasera in tv l’ultima puntata: il momento della verità Corriere Style"
+        }
+      ]
+    },
+    "C'è_ancora_domani": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "C'è ancora domani è un film del 2023 co-scritto, diretto e interpretato da Paola Cortellesi, al suo debutto alla regia.",
+      "news": [
+        {
+          "title": "Il tempo giusto: “C’è ancora domani” - Doppiozero",
+          "source": "Doppiozero",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Il tempo giusto: “C’è ancora domani” Doppiozero"
+        },
+        {
+          "title": "C'è ancora domani è tra i 10 film italiani con il maggior incasso di sempre - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "C'è ancora domani è tra i 10 film italiani con il maggior incasso di sempre Vanity Fair Italia"
+        },
+        {
+          "title": "C'è ancora domani - inGenere",
+          "source": "inGenere",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "C'è ancora domani inGenere"
+        },
+        {
+          "title": "\"C'è ancora domani\" nella top 10 dei film italiani di maggior incasso - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "\"C'è ancora domani\" nella top 10 dei film italiani di maggior incasso Il Sole 24 ORE"
+        },
+        {
+          "title": "“C’è ancora domani” di Cortellesi e “Bellissima” di Visconti – Il passato, il presente e il futuro - Giovani Reporter",
+          "source": "Giovani Reporter",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "“C’è ancora domani” di Cortellesi e “Bellissima” di Visconti – Il passato, il presente e il futuro Giovani Reporter"
+        },
+        {
+          "title": "C’è ancora domani, per chiunque. - ArteSettima",
+          "source": "ArteSettima",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "C’è ancora domani, per chiunque. ArteSettima"
+        }
+      ]
+    },
+    "Nicola_Pietrangeli": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Nicola Chirinsky Pietrangeli è stato un tennista italiano.",
+      "news": [
+        {
+          "title": "Nicola Pietrangeli astioso e sprezzante nel docufilm «Una squadra» - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "Nicola Pietrangeli astioso e sprezzante nel docufilm «Una squadra» Corriere della Sera"
+        },
+        {
+          "title": "Navratilova scoppia a piangere durante la premiazione della Coppa Davis: è per Pietrangeli - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Navratilova scoppia a piangere durante la premiazione della Coppa Davis: è per Pietrangeli Fanpage"
+        },
+        {
+          "title": "Coppa Davis, un passaggio di testimone tra orgoglio e frecciate - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Coppa Davis, un passaggio di testimone tra orgoglio e frecciate RaiNews"
+        },
+        {
+          "title": "La magica stagione di Coppa Davis del '76 in \"Una squadra\" - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "La magica stagione di Coppa Davis del '76 in \"Una squadra\" Rai.it"
+        },
+        {
+          "title": "Una Squadra, il ricordo della Coppa Davis del 1976 stasera su Rai 2 - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Una Squadra, il ricordo della Coppa Davis del 1976 stasera su Rai 2 La Gazzetta dello Sport"
+        },
+        {
+          "title": "Cosa fanno oggi Panatta, Bertolucci, Barazzutti, Zugarelli e Pietrangeli eroi della Coppa Davis 1976 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Cosa fanno oggi Panatta, Bertolucci, Barazzutti, Zugarelli e Pietrangeli eroi della Coppa Davis 1976 Fanpage"
+        },
+        {
+          "title": "Corrado Barazzutti: \"In questo momento, per come gioca, Sinner è già il numero uno\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Corrado Barazzutti: \"In questo momento, per come gioca, Sinner è già il numero uno\" RaiNews"
+        },
+        {
+          "title": "Sinner re del tennis mondiale porta in Italia il montepremi milionario della Coppa Davis - QuiFinanza",
+          "source": "QuiFinanza",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Sinner re del tennis mondiale porta in Italia il montepremi milionario della Coppa Davis QuiFinanza"
+        },
+        {
+          "title": "Davis, Sinner & C. vincono Il fisco italiano invece perde - PressReader",
+          "source": "PressReader",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Davis, Sinner & C. vincono Il fisco italiano invece perde PressReader"
+        },
+        {
+          "title": "Finale di Coppa Davis, l’Italia vince dopo 47 anni: 2-0 all’Australia con Arnaldi e Sinner - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Finale di Coppa Davis, l’Italia vince dopo 47 anni: 2-0 all’Australia con Arnaldi e Sinner Sky TG24"
+        }
+      ]
+    },
+    "Rose_Villain": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rose Villain, pseudonimo di Rosa Luini, è una cantautrice e rapper italiana.",
+      "news": [
+        {
+          "title": "Rose Villain: “Sono una madre badessa con l’anima metal e trap” - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Rose Villain: “Sono una madre badessa con l’anima metal e trap” la Repubblica"
+        },
+        {
+          "title": "Rose Villain, il primo concerto è un emozionante viaggio su una spider - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Rose Villain, il primo concerto è un emozionante viaggio su una spider Sky TG24"
+        },
+        {
+          "title": "Il concerto di Rose Villain ai Magazzini Generali è un inno alle sue due anime (quale porterà a Sanremo?) - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Il concerto di Rose Villain ai Magazzini Generali è un inno alle sue due anime (quale porterà a Sanremo?) Cosmopolitan"
+        },
+        {
+          "title": "Rose Villain: canzoni, marito, carriera e vita privata dell'artista - Libero",
+          "source": "Libero",
+          "pubDate": "Mon, 27 Nov 2023 18:11:29 GMT",
+          "description": "Rose Villain: canzoni, marito, carriera e vita privata dell'artista Libero"
+        },
+        {
+          "title": "Chi è Rose Villain, la cantante in gara tra i Big al Festival di Sanremo 2024 - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Chi è Rose Villain, la cantante in gara tra i Big al Festival di Sanremo 2024 Tgcom24"
+        },
+        {
+          "title": "Perché Rose Villain ha cantato ad Amici: il regolamento di Sanremo 2024 e la differenza col caso Mahmood-Fazio - Virgilio",
+          "source": "Virgilio",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Perché Rose Villain ha cantato ad Amici: il regolamento di Sanremo 2024 e la differenza col caso Mahmood-Fazio Virgilio"
+        },
+        {
+          "title": "Rose Villain, la rapper milanese ad «Amici» e la polemica: «Non può andare a Sanremo». La difesa: «Era registrato» - Corriere Milano",
+          "source": "Corriere Milano",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Rose Villain, la rapper milanese ad «Amici» e la polemica: «Non può andare a Sanremo». La difesa: «Era registrato» Corriere Milano"
+        },
+        {
+          "title": "Rose Villain io, me ed altri guai 3 dicembre - Amici Clip | Witty TV - Witty TV",
+          "source": "Witty TV",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "Rose Villain io, me ed altri guai 3 dicembre - Amici Clip | Witty TV Witty TV"
+        },
+        {
+          "title": "GialappaShow, Rose Villain affianca il Mago Forest alla conduzione - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "GialappaShow, Rose Villain affianca il Mago Forest alla conduzione Sky TG24"
+        },
+        {
+          "title": "Amici 23 le anticipazioni della puntata di domenica, ospite Rose Villain - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "Amici 23 le anticipazioni della puntata di domenica, ospite Rose Villain La Gazzetta dello Sport"
+        }
+      ]
+    },
+    "Napoleon_(film_2023)": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Napoleon è un film del 2023 diretto e co-prodotto da Ridley Scott.",
+      "news": [
+        {
+          "title": "Non stamo a fa’ Kubbrick: la rece di Napoleon - i400Calci",
+          "source": "i400Calci",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Non stamo a fa’ Kubbrick: la rece di Napoleon i400Calci"
+        },
+        {
+          "title": "“Napoleon” tra realtà e finzione: quanti errori storici nel kolossal di Ridley Scott… - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "“Napoleon” tra realtà e finzione: quanti errori storici nel kolossal di Ridley Scott… Amica.it"
+        },
+        {
+          "title": "Napoleon: gli storici odiano il film di Ridley Scott, ecco tutti gli errori che contiene - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Napoleon: gli storici odiano il film di Ridley Scott, ecco tutti gli errori che contiene Movieplayer"
+        },
+        {
+          "title": "Napoleon, il consulente di Scott replica alle critiche degli storici - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "Napoleon, il consulente di Scott replica alle critiche degli storici Sky TG24"
+        },
+        {
+          "title": "Napoleone, le 10 inesattezze storiche di Ridley Scott - Key4biz",
+          "source": "Key4biz",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Napoleone, le 10 inesattezze storiche di Ridley Scott Key4biz"
+        },
+        {
+          "title": "Napoleon - CineCriticaWeb",
+          "source": "CineCriticaWeb",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Napoleon CineCriticaWeb"
+        },
+        {
+          "title": "Blog | Napoleon è un gran film. Chi vuole la storia vera si cerchi le conferenze di Barbero - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Blog | Napoleon è un gran film. Chi vuole la storia vera si cerchi le conferenze di Barbero Il Fatto Quotidiano"
+        },
+        {
+          "title": "«Napoleon» di Ridley Scott: un kolossal vecchia scuola che fa i conti con la Storia (del cinema) - L'Eco di Bergamo",
+          "source": "L'Eco di Bergamo",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "«Napoleon» di Ridley Scott: un kolossal vecchia scuola che fa i conti con la Storia (del cinema) L'Eco di Bergamo"
+        },
+        {
+          "title": "Napoleon, Vanessa Kirby commenta le scene di sesso \"strane\": \"Volevamo che fossero divertenti\" - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Napoleon, Vanessa Kirby commenta le scene di sesso \"strane\": \"Volevamo che fossero divertenti\" Movieplayer"
+        }
+      ]
+    },
+    "Dove_Cameron": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Dove Olivia Cameron, nata Chloe Celeste Hosterman, è un'attrice e cantautrice statunitense.",
+      "news": [
+        {
+          "title": "Dove Cameron: dagli esordi al nuovo amore con Damiano dei Måneskin - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Dove Cameron: dagli esordi al nuovo amore con Damiano dei Måneskin Amica.it"
+        },
+        {
+          "title": "Dove Cameron, la star Disney fotografata con Damiano dei Maneskin - TGLA7",
+          "source": "TGLA7",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Dove Cameron, la star Disney fotografata con Damiano dei Maneskin TGLA7"
+        },
+        {
+          "title": "Damiano David bacia la star Disney Dove Cameron, la nuova coppia beccata a Sidney - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Damiano David bacia la star Disney Dove Cameron, la nuova coppia beccata a Sidney Fanpage"
+        },
+        {
+          "title": "Damiano David dei Maneskin bacia la star di Disney, Dove Cameron, sulla spiaggia di Sydney - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Damiano David dei Maneskin bacia la star di Disney, Dove Cameron, sulla spiaggia di Sydney Corriere della Sera"
+        },
+        {
+          "title": "Damiano David e Dove Cameron, c'è la conferma: le foto d'amore insieme - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Damiano David e Dove Cameron, c'è la conferma: le foto d'amore insieme Vanity Fair Italia"
+        },
+        {
+          "title": "Damiano David e la star Disney Dove Cameron: è nata una nuova coppia? - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Damiano David e la star Disney Dove Cameron: è nata una nuova coppia? La Gazzetta dello Sport"
+        },
+        {
+          "title": "Dove Cameron, chi è la nuova (presunta) fidanzata di Damiano dei Maneskin? Età, carriera e le foto insieme - Il Messaggero",
+          "source": "Il Messaggero",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Dove Cameron, chi è la nuova (presunta) fidanzata di Damiano dei Maneskin? Età, carriera e le foto insieme Il Messaggero"
+        },
+        {
+          "title": "Dove Cameron consacra l'eyeliner cat-eye per l'inverno 2023 - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Dove Cameron consacra l'eyeliner cat-eye per l'inverno 2023 Cosmopolitan"
+        },
+        {
+          "title": "Damiano dei Måneskin e Dove Cameron sono ufficialmente una coppia? - Billboard Italia",
+          "source": "Billboard Italia",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Damiano dei Måneskin e Dove Cameron sono ufficialmente una coppia? Billboard Italia"
+        },
+        {
+          "title": "Damiano David passione Disney: la nuova fiamma è Dove Cameron, lo scoop - Libero",
+          "source": "Libero",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Damiano David passione Disney: la nuova fiamma è Dove Cameron, lo scoop Libero"
+        }
+      ]
+    },
+    "XNXX": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "XNXX è un sito web ceco-francese per la condivisione e la visione di immagini e video pornografici, nonché di storie erotiche. I contenuti sono classificati con dei tag. Il sito ospita anche un forum.",
+      "news": []
+    },
+    "Francesco_Bagnaia": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Francesco Bagnaia è un pilota motociclistico italiano, vincitore di tre titoli mondiali.",
+      "news": [
+        {
+          "title": "Pecco Bagnaia campione del mondo, la sua esperienza a scuola: \"I docenti mi dicevano di smettere con le moto\" - Tecnica della Scuola",
+          "source": "Tecnica della Scuola",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Pecco Bagnaia campione del mondo, la sua esperienza a scuola: \"I docenti mi dicevano di smettere con le moto\" Tecnica della Scuola"
+        },
+        {
+          "title": "MotoGp, un super Bagnaia fa il bis mondiale. Grande festa in casa Ducati - Il Sole 24 ORE",
+          "source": "Il Sole 24 ORE",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "MotoGp, un super Bagnaia fa il bis mondiale. Grande festa in casa Ducati Il Sole 24 ORE"
+        },
+        {
+          "title": "Bagnaia, vita pesarese: il tifo per la Vuelle e la Benelli nel destino. \"È eccezionale, uno di noi\" - Il Resto del Carlino",
+          "source": "Il Resto del Carlino",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Bagnaia, vita pesarese: il tifo per la Vuelle e la Benelli nel destino. \"È eccezionale, uno di noi\" Il Resto del Carlino"
+        },
+        {
+          "title": "MotoGP | Statistiche: Bagnaia, il primo doppio campione Ducati - Motorsport.com",
+          "source": "Motorsport.com",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "MotoGP | Statistiche: Bagnaia, il primo doppio campione Ducati Motorsport.com"
+        },
+        {
+          "title": "MotoGP, Bagnaia Vs Martin: la sfida ai raggi X - Motosprint",
+          "source": "Motosprint",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "MotoGP, Bagnaia Vs Martin: la sfida ai raggi X Motosprint"
+        },
+        {
+          "title": "Le origini sarde di \"Pecco\" Bagnaia, il campione del mondo della moto Gp - L'Unione Sarda.it",
+          "source": "L'Unione Sarda.it",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Le origini sarde di \"Pecco\" Bagnaia, il campione del mondo della moto Gp L'Unione Sarda.it"
+        },
+        {
+          "title": "Sonego, Sinner, Bagnaia, i \"normal ones\" dello sport azzurro - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Sonego, Sinner, Bagnaia, i \"normal ones\" dello sport azzurro RaiNews"
+        },
+        {
+          "title": "Bagnaia campione, il VIDEO INEDITO di Meda e Sanchini è da brividi - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "Bagnaia campione, il VIDEO INEDITO di Meda e Sanchini è da brividi Sky Sport"
+        },
+        {
+          "title": "Domizia Castagnini, fidanzata di Bagnaia: \"Pecco ha la testa del campione\" - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Domizia Castagnini, fidanzata di Bagnaia: \"Pecco ha la testa del campione\" La Gazzetta dello Sport"
+        },
+        {
+          "title": "MotoGP 2024, test Valencia: Bagnaia promuove il nuovo motore Ducati - inSella",
+          "source": "inSella",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "MotoGP 2024, test Valencia: Bagnaia promuove il nuovo motore Ducati inSella"
+        }
+      ]
+    },
+    "Francesco_Camarda": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Francesco Camarda è un calciatore italiano, attaccante del Milan, della nazionale under 21 e della nazionale italiana.",
+      "news": [
+        {
+          "title": "Il primo contratto di Camarda col Milan: pronto un triennale - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Il primo contratto di Camarda col Milan: pronto un triennale Goal.com"
+        },
+        {
+          "title": "Perché Camarda non può giocare in Milan-Borussia Dortmund di Champions League: gli mancano due cose - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Perché Camarda non può giocare in Milan-Borussia Dortmund di Champions League: gli mancano due cose Fanpage"
+        },
+        {
+          "title": "La rovesciata di Francesco Camarda | Video | UEFA Youth League - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "La rovesciata di Francesco Camarda | Video | UEFA Youth League UEFA.com"
+        },
+        {
+          "title": "L'emozione dei genitori all'esordio di Camarda - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "L'emozione dei genitori all'esordio di Camarda Sky Sport"
+        },
+        {
+          "title": "Camarda, da San Siro all’ora di inglese il ritorno a scuola dell’esordiente prodigio del Milan - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Camarda, da San Siro all’ora di inglese il ritorno a scuola dell’esordiente prodigio del Milan la Repubblica"
+        },
+        {
+          "title": "La storia di Francesco Camarda, il più giovane esordiente in Serie A. Non dimentica l'impegno a scuola. Il preside: \"Ragazzo umile e appassionato\" - Orizzonte Scuola Notizie",
+          "source": "Orizzonte Scuola Notizie",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "La storia di Francesco Camarda, il più giovane esordiente in Serie A. Non dimentica l'impegno a scuola. Il preside: \"Ragazzo umile e appassionato\" Orizzonte Scuola Notizie"
+        },
+        {
+          "title": "Francesco Camarda come Rivera e Maldini, il Milan si gode il baby gioiellino 15enne - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Francesco Camarda come Rivera e Maldini, il Milan si gode il baby gioiellino 15enne Il Riformista"
+        },
+        {
+          "title": "Camarda, il 15enne giocatore del Milan, gli insegnanti: \"non ha mai utilizzato giustificazioni per i compiti non fatti\" - Tecnica della Scuola",
+          "source": "Tecnica della Scuola",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Camarda, il 15enne giocatore del Milan, gli insegnanti: \"non ha mai utilizzato giustificazioni per i compiti non fatti\" Tecnica della Scuola"
+        },
+        {
+          "title": "Camarda da record: promessa sul campo e nelle lingue. Non sarà un altro Gigio - il Giornale",
+          "source": "il Giornale",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Camarda da record: promessa sul campo e nelle lingue. Non sarà un altro Gigio il Giornale"
+        },
+        {
+          "title": "Francesco Camarda, il gioiello del Milan che a 15 anni sta già scrivendo la storia - Goal.com",
+          "source": "Goal.com",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Francesco Camarda, il gioiello del Milan che a 15 anni sta già scrivendo la storia Goal.com"
+        }
+      ]
+    },
+    "Macaulay_Culkin": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Macaulay Macaulay Culkin Culkin, nato Macaulay Carson Culkin è un attore statunitense, noto soprattutto come attore bambino per il suo ruolo più celebre di Kevin McCallister nei primi due film di Home Alone: Mamma, ho perso l'aereo (1990) e Mamma, ho riperso l'aereo - Mi sono smarrito a New York (1992).",
+      "news": [
+        {
+          "title": "Macaulay Culkin ha ottenuto la stella sulla Walk of Fame di Hollywood - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Macaulay Culkin ha ottenuto la stella sulla Walk of Fame di Hollywood La Gazzetta dello Sport"
+        },
+        {
+          "title": "Macaulay Culkin avrà una stella sulla Walk of Fame di Hollywood a 33 anni da Mamma ho perso l'aereo - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Macaulay Culkin avrà una stella sulla Walk of Fame di Hollywood a 33 anni da Mamma ho perso l'aereo Fanpage"
+        },
+        {
+          "title": "Macaulay Culkin, stella sulla Hollywood Walk of Fame per l'attore di Mamma ho perso l'aereo - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "Macaulay Culkin, stella sulla Hollywood Walk of Fame per l'attore di Mamma ho perso l'aereo RaiNews"
+        },
+        {
+          "title": "Macaulay Culkin ha una stella sulla Walk of Fame di Hollywood. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Macaulay Culkin ha una stella sulla Walk of Fame di Hollywood. FOTO Sky TG24"
+        },
+        {
+          "title": "Macaulay Culkin, una stella sulla Walk of Fame per il protagonista di \"Mamma ho perso l'aereo\" - Tgcom24",
+          "source": "Tgcom24",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "Macaulay Culkin, una stella sulla Walk of Fame per il protagonista di \"Mamma ho perso l'aereo\" Tgcom24"
+        },
+        {
+          "title": "Macaulay Culkin ottiene una stella sulla Walk of Fame e 33 anni dopo \"Mamma ho perso l'areo\" ritrova a Hollywood Catherine O'Hara - Il Fatto Quotidiano",
+          "source": "Il Fatto Quotidiano",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "Macaulay Culkin ottiene una stella sulla Walk of Fame e 33 anni dopo \"Mamma ho perso l'areo\" ritrova a Hollywood Catherine O'Hara Il Fatto Quotidiano"
+        },
+        {
+          "title": "Macaulay Culkin, come rinasce una stella - Cosmopolitan",
+          "source": "Cosmopolitan",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Macaulay Culkin, come rinasce una stella Cosmopolitan"
+        },
+        {
+          "title": "Macaulay Culkin, l’ex bimbo di ‘Mamma ho perso l’aereo’ ha la sua stella sulla Walk of fame - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Macaulay Culkin, l’ex bimbo di ‘Mamma ho perso l’aereo’ ha la sua stella sulla Walk of fame la Repubblica"
+        },
+        {
+          "title": "Macaulay Culkin riceve la stella sulla Walk of Fame di Hollywood - Quotidiano Nazionale",
+          "source": "Quotidiano Nazionale",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Macaulay Culkin riceve la stella sulla Walk of Fame di Hollywood Quotidiano Nazionale"
+        },
+        {
+          "title": "Hollywood, una stella per Macaulay Culkin 33 anni dopo \"Mamma, ho perso l'aereo\" - Euronews.com",
+          "source": "Euronews.com",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Hollywood, una stella per Macaulay Culkin 33 anni dopo \"Mamma, ho perso l'aereo\" Euronews.com"
+        }
+      ]
+    },
+    "Adriano_Panatta": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Adriano Panatta è un ex tennista, allenatore di tennis, imprenditore, ex pilota motonautico e opinionista sportivo italiano.",
+      "news": [
+        {
+          "title": "Tennis, Adriano Panatta: \"La Davis una nuova spinta per il movimento, come nel 1976\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Tennis, Adriano Panatta: \"La Davis una nuova spinta per il movimento, come nel 1976\" RaiNews"
+        },
+        {
+          "title": "Cosa fanno oggi Panatta, Bertolucci, Barazzutti, Zugarelli e Pietrangeli eroi della Coppa Davis 1976 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Cosa fanno oggi Panatta, Bertolucci, Barazzutti, Zugarelli e Pietrangeli eroi della Coppa Davis 1976 Fanpage"
+        },
+        {
+          "title": "Coppa Davis ’76, quando Panatta sfidò Pinochet - VareseNews",
+          "source": "VareseNews",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Coppa Davis ’76, quando Panatta sfidò Pinochet VareseNews"
+        },
+        {
+          "title": "La magica stagione di Coppa Davis del '76 in \"Una squadra\" - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "La magica stagione di Coppa Davis del '76 in \"Una squadra\" Rai.it"
+        },
+        {
+          "title": "Coppa Davis ’76: il significato della maglietta rossa di Panatta - DiLei",
+          "source": "DiLei",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "Coppa Davis ’76: il significato della maglietta rossa di Panatta DiLei"
+        },
+        {
+          "title": "Panatta: \"Alla politica italiana servirebbe un Sinner. Nel tennis di oggi nessuno mi somiglia. Roma? Non ci vivo più, sono completamente disincantato\" - Il Riformista",
+          "source": "Il Riformista",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Panatta: \"Alla politica italiana servirebbe un Sinner. Nel tennis di oggi nessuno mi somiglia. Roma? Non ci vivo più, sono completamente disincantato\" Il Riformista"
+        },
+        {
+          "title": "Una Squadra, il ricordo della Coppa Davis del 1976 stasera su Rai 2 - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Una Squadra, il ricordo della Coppa Davis del 1976 stasera su Rai 2 La Gazzetta dello Sport"
+        },
+        {
+          "title": "Panatta sulla coppa Davis: \"Troppo tempo dall'ultima vittoria, finalmente è arrivata\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Panatta sulla coppa Davis: \"Troppo tempo dall'ultima vittoria, finalmente è arrivata\" RaiNews"
+        },
+        {
+          "title": "Corrado Barazzutti: \"In questo momento, per come gioca, Sinner è già il numero uno\" - RaiNews",
+          "source": "RaiNews",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Corrado Barazzutti: \"In questo momento, per come gioca, Sinner è già il numero uno\" RaiNews"
+        },
+        {
+          "title": "Jannik Sinner e la politica, clamoroso Adriano Panatta: \"Vi dico che...\" | Libero Quotidiano.it - Libero Quotidiano",
+          "source": "Libero Quotidiano",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Jannik Sinner e la politica, clamoroso Adriano Panatta: \"Vi dico che...\" | Libero Quotidiano.it Libero Quotidiano"
+        }
+      ]
+    },
+    "XVideos": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "XVideos è un sito web di video sharing libero e gratuito a contenuto pornografico. Nel novembre 2010 è risultato essere il sito pornografico più popolare al mondo, avendo temporaneamente superato Pornhub. Nel gennaio 2012 ha inoltre sorpassato il sito per adulti di Videochat dal vivo LiveJasmin.",
+      "news": []
+    },
+    "Shane_MacGowan": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Shane Patrick Lysaght MacGowan è stato un cantante e musicista irlandese.\nEra il cantante e l'autore della maggior parte delle canzoni del gruppo The Pogues.",
+      "news": [
+        {
+          "title": "Salute Shane, 100 pinte a te. La morte del re, ubriaco, d’Irlanda - Mentinfuga",
+          "source": "Mentinfuga",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Salute Shane, 100 pinte a te. La morte del re, ubriaco, d’Irlanda Mentinfuga"
+        },
+        {
+          "title": "Fare thee well, there’s nothing left to say: Shane MacGowan [1957-2023] | - Metal Skunk",
+          "source": "Metal Skunk",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Fare thee well, there’s nothing left to say: Shane MacGowan [1957-2023] | Metal Skunk"
+        },
+        {
+          "title": "Addio a Shane MacGowan, ex-leader dei Pogues - OndaRock",
+          "source": "OndaRock",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Addio a Shane MacGowan, ex-leader dei Pogues OndaRock"
+        },
+        {
+          "title": "Shane MacGowan, frontman dei Pogues, è morto a 65 anni - AGI",
+          "source": "AGI",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Shane MacGowan, frontman dei Pogues, è morto a 65 anni AGI"
+        },
+        {
+          "title": "La vita, e la carriera, di Shane MacGowan, il frontman dei The Pogues - Corriere della Sera",
+          "source": "Corriere della Sera",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "La vita, e la carriera, di Shane MacGowan, il frontman dei The Pogues Corriere della Sera"
+        },
+        {
+          "title": "Morto Shane MacGowan, cantante dei The Pogues - RSI",
+          "source": "RSI",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Morto Shane MacGowan, cantante dei The Pogues RSI"
+        },
+        {
+          "title": "Shane MacGowan, il tributo dal vivo di Bono e degli U2 per il compianto leader dei Pogues - Virgin Radio",
+          "source": "Virgin Radio",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "Shane MacGowan, il tributo dal vivo di Bono e degli U2 per il compianto leader dei Pogues Virgin Radio"
+        },
+        {
+          "title": "È morto Shane MacGowan, frontman dei The Pogues - Esquire",
+          "source": "Esquire",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "È morto Shane MacGowan, frontman dei The Pogues Esquire"
+        },
+        {
+          "title": "L’Irlanda, i The Pogues e gli eccessi: addio a Shane MacGowan - Bad Literature Inc",
+          "source": "Bad Literature Inc",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "L’Irlanda, i The Pogues e gli eccessi: addio a Shane MacGowan Bad Literature Inc"
+        },
+        {
+          "title": "Addio a Shan MacGowan, il cantante icona e leader dei The Pogues - L'Unità",
+          "source": "L'Unità",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Addio a Shan MacGowan, il cantante icona e leader dei The Pogues L'Unità"
+        }
+      ]
+    },
+    "Campionato_europeo_di_calcio_2024": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Il campionato europeo maschile di calcio 2024 o UEFA EURO 2024, noto anche come Germania 2024, è stata la 17ª edizione dell'omonimo torneo, che si è disputato in Germania dal 14 giugno al 14 luglio 2024.",
+      "news": [
+        {
+          "title": "Il montepremi di EURO 2024 è di 331 milioni di euro, la squadra campione può incassare quasi 30 milioni - FIGC",
+          "source": "FIGC",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Il montepremi di EURO 2024 è di 331 milioni di euro, la squadra campione può incassare quasi 30 milioni FIGC"
+        },
+        {
+          "title": "Sorteggio gironi: cresce l'attesa, l'Italia è in quarta fascia - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "Sorteggio gironi: cresce l'attesa, l'Italia è in quarta fascia Eurosport.it"
+        },
+        {
+          "title": "Confermato il sistema di distribuzione dei premi in denaro di UEFA EURO 2024 - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Confermato il sistema di distribuzione dei premi in denaro di UEFA EURO 2024 UEFA.com"
+        },
+        {
+          "title": "Girone durissimo per l'Italia: azzurri con Spagna, Croazia e Albania - Eurosport.it",
+          "source": "Eurosport.it",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Girone durissimo per l'Italia: azzurri con Spagna, Croazia e Albania Eurosport.it"
+        },
+        {
+          "title": "Calendario del calcio europeo 2023: date delle partite e dei sorteggi di tutte le competizioni UEFA - UEFA.com",
+          "source": "UEFA.com",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "Calendario del calcio europeo 2023: date delle partite e dei sorteggi di tutte le competizioni UEFA UEFA.com"
+        },
+        {
+          "title": "Albania: la sorpresa delle qualificazioni con il fattore... Serie A - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Albania: la sorpresa delle qualificazioni con il fattore... Serie A La Gazzetta dello Sport"
+        },
+        {
+          "title": "Italia, il calendario delle partite a Euro 2024 - Sky Sport",
+          "source": "Sky Sport",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Italia, il calendario delle partite a Euro 2024 Sky Sport"
+        },
+        {
+          "title": "FSGC: Tura e Zafferani ai sorteggi di EURO 2024 - San Marino Rtv",
+          "source": "San Marino Rtv",
+          "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
+          "description": "FSGC: Tura e Zafferani ai sorteggi di EURO 2024 San Marino Rtv"
+        }
+      ]
+    },
+    "Noi_siamo_leggenda": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Noi siamo leggenda è una serie televisiva urban fantasy italiana, ispirata alla serie americana Heroes, trasmessa in prima serata su Rai 2 dal 22 novembre 2023, prodotta da Rai Fiction e Fabula Pictures con la collaborazione di Prime Video.",
+      "news": [
+        {
+          "title": "Noi siamo leggenda - S1E5 - Episodio 5 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Noi siamo leggenda - S1E5 - Episodio 5 - Video RaiPlay"
+        },
+        {
+          "title": "Chi è Emanuele Di Stefano, Massimo in Noi siamo leggenda. FOTO - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Chi è Emanuele Di Stefano, Massimo in Noi siamo leggenda. FOTO Sky TG24"
+        },
+        {
+          "title": "Noi siamo leggenda: stasera in tv la seconda puntata, e l’8 dicembre la presentazione del fan book - Style Magazine",
+          "source": "Style Magazine",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Noi siamo leggenda: stasera in tv la seconda puntata, e l’8 dicembre la presentazione del fan book Style Magazine"
+        },
+        {
+          "title": "Noi siamo leggenda stasera su Rai 2: la trama della seconda puntata - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Noi siamo leggenda stasera su Rai 2: la trama della seconda puntata Movieplayer"
+        },
+        {
+          "title": "Dov’è stata girata Noi siamo leggenda: le location della serie su Rai 2 - Fanpage",
+          "source": "Fanpage",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Dov’è stata girata Noi siamo leggenda: le location della serie su Rai 2 Fanpage"
+        },
+        {
+          "title": "Noi siamo leggenda, Recensione dei primi 2 episodi della serie tv Rai - HyNerd",
+          "source": "HyNerd",
+          "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+          "description": "Noi siamo leggenda, Recensione dei primi 2 episodi della serie tv Rai HyNerd"
+        },
+        {
+          "title": "‘Noi siamo leggenda’, i nuovi episodi: anticipazioni, trama e protagonisti - la Repubblica",
+          "source": "la Repubblica",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "‘Noi siamo leggenda’, i nuovi episodi: anticipazioni, trama e protagonisti la Repubblica"
+        },
+        {
+          "title": "Noi siamo leggenda, stasera in tv la seconda puntata: le anticipazioni - Today",
+          "source": "Today",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Noi siamo leggenda, stasera in tv la seconda puntata: le anticipazioni Today"
+        },
+        {
+          "title": "Noi siamo leggenda - S1E6 - Episodio 6 - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Noi siamo leggenda - S1E6 - Episodio 6 - Video RaiPlay"
+        },
+        {
+          "title": "Noi siamo leggenda: Emanuele Di Stefano, Margherita Aresti e Giulio Pranno interpreti di una serie coraggiosa - Movieplayer",
+          "source": "Movieplayer",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Noi siamo leggenda: Emanuele Di Stefano, Margherita Aresti e Giulio Pranno interpreti di una serie coraggiosa Movieplayer"
+        }
+      ]
+    },
+    "Paola_Cortellesi": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Paola Cortellesi è un'attrice, comica, sceneggiatrice e regista italiana.",
+      "news": [
+        {
+          "title": "Qualcosa di nuovo, trama e cast del film con Paola Cortellesi - Sky TG24",
+          "source": "Sky TG24",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Qualcosa di nuovo, trama e cast del film con Paola Cortellesi Sky TG24"
+        },
+        {
+          "title": "“C’è ancora domani” di Paola Cortellesi nella top ten dei film italiani. Ma Checco Zalone… - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Mon, 04 Dec 2023 08:00:00 GMT",
+          "description": "“C’è ancora domani” di Paola Cortellesi nella top ten dei film italiani. Ma Checco Zalone… Amica.it"
+        },
+        {
+          "title": "Riccardo Milani: “Mia moglie Paola Cortellesi e i segreti del suo successo” - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "Riccardo Milani: “Mia moglie Paola Cortellesi e i segreti del suo successo” La Stampa"
+        },
+        {
+          "title": "Giorgio Colangeli: “Io, suocero cattivo di Paola Cortellesi” - La Stampa",
+          "source": "La Stampa",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Giorgio Colangeli: “Io, suocero cattivo di Paola Cortellesi” La Stampa"
+        }
+      ]
+    },
+    "Un_professore": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Un professore è una serie televisiva italiana trasmessa in prima serata su Rai 1 dall'11 novembre 2021.",
+      "news": [
+        {
+          "title": "Un Professore - S2E5 - Montaigne: Chi siamo - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Un Professore - S2E5 - Montaigne: Chi siamo - Video RaiPlay"
+        },
+        {
+          "title": "Un Professore due nuove puntate stasera in tv su Rai 1, le anticipazioni - La Gazzetta dello Sport",
+          "source": "La Gazzetta dello Sport",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Un Professore due nuove puntate stasera in tv su Rai 1, le anticipazioni La Gazzetta dello Sport"
+        },
+        {
+          "title": "Un Professore 2: Manuel è geloso di Simone, ma la cosa più preoccupante è la salute di Dante - Vanity Fair Italia",
+          "source": "Vanity Fair Italia",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "Un Professore 2: Manuel è geloso di Simone, ma la cosa più preoccupante è la salute di Dante Vanity Fair Italia"
+        },
+        {
+          "title": "Tra Heidegger e Hume, stasera in tv c’è la seconda puntata di “Un professore” 2 - Amica.it",
+          "source": "Amica.it",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Tra Heidegger e Hume, stasera in tv c’è la seconda puntata di “Un professore” 2 Amica.it"
+        },
+        {
+          "title": "Un professore 2: trama, cast e filosofi della seconda puntata - Corriere Style",
+          "source": "Corriere Style",
+          "pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
+          "description": "Un professore 2: trama, cast e filosofi della seconda puntata Corriere Style"
+        },
+        {
+          "title": "Un Professore - S2E6 - Thoreau: Un pianeta da salvare - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
+          "description": "Un Professore - S2E6 - Thoreau: Un pianeta da salvare - Video RaiPlay"
+        }
+      ]
+    },
+    "Rai": {
+      "fetched_at": "2026-11-06T17:01:56+0100",
+      "model": "gpt-6.1-terra",
+      "wikipedia_summary": "Rai − Radiotelevisione Italiana S.p.A., meglio nota come Rai, è una società per azioni italiana a controllo pubblico, concessionaria del servizio pubblico radiofonico e televisivo nazionale.",
+      "news": [
+        {
+          "title": "Programmi in esclusiva - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Wed, 29 Nov 2023 18:25:35 GMT",
+          "description": "Programmi in esclusiva RaiPlay"
+        },
+        {
+          "title": "Disponibile il nuovo canale WhatsApp \"Rai\" - Rai.it",
+          "source": "Rai.it",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Disponibile il nuovo canale WhatsApp \"Rai\" Rai.it"
+        },
+        {
+          "title": "Viaggio in Sicilia - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 04 Dec 2023 00:33:35 GMT",
+          "description": "Viaggio in Sicilia RaiPlay"
+        },
+        {
+          "title": "Il metodo Fenoglio - L'estate fredda - S1E3 - Fratelli - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+          "description": "Il metodo Fenoglio - L'estate fredda - S1E3 - Fratelli - Video RaiPlay"
+        },
+        {
+          "title": "Callas, la dea della voce - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Fri, 01 Dec 2023 08:13:52 GMT",
+          "description": "Callas, la dea della voce RaiPlay"
+        },
+        {
+          "title": "Full contact - Notizie che colpiscono - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 02 Dec 2023 18:47:23 GMT",
+          "description": "Full contact - Notizie che colpiscono RaiPlay"
+        },
+        {
+          "title": "Il metodo Fenoglio - L'estate fredda - S1E5 - Padri - Video - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Sat, 02 Dec 2023 08:00:00 GMT",
+          "description": "Il metodo Fenoglio - L'estate fredda - S1E5 - Padri - Video RaiPlay"
+        },
+        {
+          "title": "Canone RAI: in quanti anni si prescrive? - Fisco e Tasse",
+          "source": "Fisco e Tasse",
+          "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+          "description": "Canone RAI: in quanti anni si prescrive? Fisco e Tasse"
+        },
+        {
+          "title": "Un posto al sole - Anticipazioni - RaiPlay",
+          "source": "RaiPlay",
+          "pubDate": "Mon, 27 Nov 2023 11:10:41 GMT",
+          "description": "Un posto al sole - Anticipazioni RaiPlay"
+        }
+      ]
+    }
+  }
+}

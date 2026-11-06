@@ -53,13 +53,14 @@
       "google_news_url": "https://www.google.it/search?q=Jannik%20Sinner&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Jannik_Sinner",
       "article_url": "https://it.wikipedia.org/wiki/Jannik_Sinner",
-      "description": "tennista italiano (2001-)",
+      "description": "Tennista italiano, il 19 novembre perde contro Novak Đoković la finale delle ATP Finals a Torino.",
       "image_filename": "Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jannik_Sinner_US_Open_2025_%28cropped%29.jpg/1204px-Jannik_Sinner_US_Open_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jannik_Sinner_US_Open_2025_(cropped).jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 2,
@@ -98,13 +99,14 @@
       "google_news_url": "https://www.google.it/search?q=Novak%20%C4%90okovi%C4%87&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Novak_%C4%90okovi%C4%87",
       "article_url": "https://it.wikipedia.org/wiki/Novak_%C4%90okovi%C4%87",
-      "description": "tennista serbo (1987-)",
+      "description": "Tennista serbo, il 19 novembre batte Jannik Sinner nella finale delle ATP Finals a Torino.",
       "image_filename": "Novak_Djokovic_at_2025_Miami_Open_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Novak_Djokovic_at_2025_Miami_Open_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Novak_Djokovic_at_2025_Miami_Open_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 3,
@@ -143,13 +145,14 @@
       "google_news_url": "https://www.google.it/search?q=Walter%20Mazzarri&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Walter_Mazzarri",
       "article_url": "https://it.wikipedia.org/wiki/Walter_Mazzarri",
-      "description": "allenatore di calcio e calciatore italiano (1961-)",
+      "description": "Allenatore italiano, il 14 novembre torna sulla panchina del Napoli al posto dell'esonerato Rudi Garcia.",
       "image_filename": "Walter_Mazzarri,_Metalist-Inter_(1).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Walter_Mazzarri%2C_Metalist-Inter_%281%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Walter_Mazzarri%2C_Metalist-Inter_(1).jpg",
       "image_license": "CC BY-SA 3.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 4,
@@ -188,13 +191,14 @@
       "google_news_url": "https://www.google.it/search?q=ATP%20Finals&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=ATP_Finals",
       "article_url": "https://it.wikipedia.org/wiki/ATP_Finals",
-      "description": "torneo di chiusura della stagione professionistica tennistica maschile",
+      "description": "Il 19 novembre Novak Đoković vince il torneo di Torino battendo Jannik Sinner in finale.",
       "image_filename": "Nitto_ATP_Finals_logo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nitto_ATP_Finals_logo.jpg/1280px-Nitto_ATP_Finals_logo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Nitto_ATP_Finals_logo.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 5,
@@ -233,13 +237,14 @@
       "google_news_url": "https://www.google.it/search?q=Massacro%20del%20Circeo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Massacro_del_Circeo",
       "article_url": "https://it.wikipedia.org/wiki/Massacro_del_Circeo",
-      "description": "caso di cronaca nera italiana del 1975",
+      "description": "Caso di stupro e omicidio del 1975, è raccontato nella miniserie Circeo, in onda dal 14 novembre su Rai 1.",
       "image_filename": "Donatella-rosaria_lopez.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/0/0e/Donatella-rosaria_lopez.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Donatella-rosaria_lopez.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 6,
@@ -278,13 +283,14 @@
       "google_news_url": "https://www.google.it/search?q=C%27%C3%A8%20ancora%20domani&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=C%27%C3%A8_ancora_domani",
       "article_url": "https://it.wikipedia.org/wiki/C%27%C3%A8_ancora_domani",
-      "description": "film del 2023 diretto da Paola Cortellesi",
+      "description": "Film diretto e interpretato da Paola Cortellesi, esce al cinema il 26 ottobre e riceve il Biglietto d'oro il 7 novembre.",
       "image_filename": "CeAncoraDomani.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/6/63/CeAncoraDomani.png/1280px-CeAncoraDomani.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:CeAncoraDomani.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 7,
@@ -323,13 +329,14 @@
       "google_news_url": "https://www.google.it/search?q=Suburr%C3%A6terna&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Suburr%C3%A6terna",
       "article_url": "https://it.wikipedia.org/wiki/Suburr%C3%A6terna",
-      "description": "serie televisiva italiana",
+      "description": "Serie italiana spin-off di Suburra - La serie, arriva su Netflix il 14 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 8,
@@ -368,13 +375,14 @@
       "google_news_url": "https://www.google.it/search?q=Igor%20Tudor&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Igor_Tudor",
       "article_url": "https://it.wikipedia.org/wiki/Igor_Tudor",
-      "description": "allenatore di calcio e calciatore croato (1978-)",
+      "description": "Allenatore croato, il 13 novembre è tra i candidati alla panchina del Napoli, che il 14 sceglie Walter Mazzarri.",
       "image_filename": "Igor_Tudor_2018.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Igor_Tudor_2018.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Igor_Tudor_2018.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 9,
@@ -413,13 +421,14 @@
       "google_news_url": "https://www.google.it/search?q=Facebook&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Facebook",
       "article_url": "https://it.wikipedia.org/wiki/Facebook",
-      "description": "social network",
+      "description": "Social network di Meta, è per l'undicesima settimana consecutiva in classifica, senza picchi di rilievo.",
       "image_filename": "Screen_of_Facebook_(2).PNG",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Screen_of_Facebook_%282%29.PNG/1280px-Screen_of_Facebook_%282%29.PNG",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Screen_of_Facebook_(2).PNG",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 10,
@@ -458,13 +467,14 @@
       "google_news_url": "https://www.google.it/search?q=Omicidio%20di%20Elisa%20Claps&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Omicidio_di_Elisa_Claps",
       "article_url": "https://it.wikipedia.org/wiki/Omicidio_di_Elisa_Claps",
-      "description": "caso di cronaca nera avvenuto a Potenza nel 1993",
+      "description": "Caso di cronaca del 1993 a Potenza, è raccontato nella miniserie Per Elisa - Il caso Claps, conclusa il 7 novembre su Rai 1.",
       "image_filename": "Elisa_Claps_1.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Elisa_Claps_1.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elisa_Claps_1.jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 11,
@@ -503,13 +513,14 @@
       "google_news_url": "https://www.google.it/search?q=San%20Candido&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=San_Candido",
       "article_url": "https://it.wikipedia.org/wiki/San_Candido",
-      "description": "comune italiano",
+      "description": "Comune altoatesino dove nasce Jannik Sinner, finalista alle ATP Finals il 19 novembre. Il 16 vi viene segnalata l'auto di Filippo Turetta.",
       "image_filename": "Dolomites_-_San_Candido_area_-_(11059285755).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dolomites_-_San_Candido_area_-_%2811059285755%29.jpg/1280px-Dolomites_-_San_Candido_area_-_%2811059285755%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dolomites_-_San_Candido_area_-_(11059285755).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 12,
@@ -548,13 +559,14 @@
       "google_news_url": "https://www.google.it/search?q=Carlos%20Alcaraz&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Carlos_Alcaraz",
       "article_url": "https://it.wikipedia.org/wiki/Carlos_Alcaraz",
-      "description": "tennista spagnolo (2003-)",
+      "description": "Tennista spagnolo, il 18 novembre perde contro Novak Đoković nella semifinale delle ATP Finals a Torino.",
       "image_filename": "Carlos_Alcaraz_Roland_Garros_2025_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Carlos_Alcaraz_Roland_Garros_2025_%28cropped%29.jpg/1280px-Carlos_Alcaraz_Roland_Garros_2025_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Carlos_Alcaraz_Roland_Garros_2025_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 13,
@@ -593,13 +605,14 @@
       "google_news_url": "https://www.google.it/search?q=Pornhub&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Pornhub",
       "article_url": "https://it.wikipedia.org/wiki/Pornhub",
-      "description": "sito web di video sharing pornografico",
+      "description": "Sito canadese di video pornografici, senza un motivo riconoscibile per la presenza in classifica.",
       "image_filename": "Pornhub-logo.svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/1280px-Pornhub-logo.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pornhub-logo.svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 14,
@@ -638,13 +651,14 @@
       "google_news_url": "https://www.google.it/search?q=Daniil%20Medvedev&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Daniil_Medvedev",
       "article_url": "https://it.wikipedia.org/wiki/Daniil_Medvedev",
-      "description": "tennista russo (1996-)",
+      "description": "Tennista russo, il 18 novembre perde contro Jannik Sinner nella semifinale delle ATP Finals a Torino.",
       "image_filename": "Medvedev_MCM23_(4)_(52882575332).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Medvedev_MCM23_%284%29_%2852882575332%29.jpg/1280px-Medvedev_MCM23_%284%29_%2852882575332%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Medvedev_MCM23_(4)_(52882575332).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 15,
@@ -683,13 +697,14 @@
       "google_news_url": "https://www.google.it/search?q=Qualificazioni%20al%20campionato%20europeo%20di%20calcio%202024&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Qualificazioni_al_campionato_europeo_di_calcio_2024",
       "article_url": "https://it.wikipedia.org/wiki/Qualificazioni_al_campionato_europeo_di_calcio_2024",
-      "description": "",
+      "description": "Il 17 novembre l'Italia batte la Macedonia del Nord 5-2 nelle qualificazioni agli Europei 2024.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 16,
@@ -728,13 +743,14 @@
       "google_news_url": "https://www.google.it/search?q=Angelo%20Izzo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Angelo_Izzo",
       "article_url": "https://it.wikipedia.org/wiki/Angelo_Izzo",
-      "description": "criminale italiano (1955-)",
+      "description": "Criminale italiano condannato per il massacro del Circeo, raccontato nella miniserie Circeo, in onda dal 14 novembre su Rai 1.",
       "image_filename": "Angelo_Izzo.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/b/b9/Angelo_Izzo.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Angelo_Izzo.jpg",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 17,
@@ -773,13 +789,14 @@
       "google_news_url": "https://www.google.it/search?q=Circeo%20%28miniserie%20televisiva%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Circeo_(miniserie_televisiva)",
       "article_url": "https://it.wikipedia.org/wiki/Circeo_(miniserie_televisiva)",
-      "description": "miniserie televisiva italiana del 2022",
+      "description": "Miniserie del 2022 ispirata al massacro del Circeo, va in onda dal 14 novembre su Rai 1.",
       "image_filename": "Circeo_-_miniserie_TV.png",
       "image_url": "https://upload.wikimedia.org/wikipedia/it/thumb/4/4a/Circeo_-_miniserie_TV.png/1280px-Circeo_-_miniserie_TV.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Circeo_-_miniserie_TV.png",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 18,
@@ -818,13 +835,14 @@
       "google_news_url": "https://www.google.it/search?q=Sesto%20%28Italia%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Sesto_(Italia)",
       "article_url": "https://it.wikipedia.org/wiki/Sesto_(Italia)",
-      "description": "",
+      "description": "Comune altoatesino dove cresce Jannik Sinner, il picco è probabilmente legato alla finale delle ATP Finals del 19 novembre.",
       "image_filename": "",
       "image_url": "",
       "image_commons_url": "",
       "image_license": "",
       "image_copyrighted": "",
-      "description_source": ""
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 19,
@@ -863,13 +881,14 @@
       "google_news_url": "https://www.google.it/search?q=Holger%20Rune&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Holger_Rune",
       "article_url": "https://it.wikipedia.org/wiki/Holger_Rune",
-      "description": "tennista danese (2003-)",
+      "description": "Tennista danese, il 16 novembre perde contro Jannik Sinner nella fase a gironi delle ATP Finals a Torino.",
       "image_filename": "Holger_Rune_(2023_US_Open)_02_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Holger_Rune_%282023_US_Open%29_02_%28cropped%29.jpg/1280px-Holger_Rune_%282023_US_Open%29_02_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Holger_Rune_(2023_US_Open)_02_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 20,
@@ -908,13 +927,14 @@
       "google_news_url": "https://www.google.it/search?q=Adriano%20Panatta&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Adriano_Panatta",
       "article_url": "https://it.wikipedia.org/wiki/Adriano_Panatta",
-      "description": "tennista, pilota motonautico, allenatore di tennis e telecronista italiano (1950-)",
+      "description": "Ex tennista italiano e commentatore, il 18 novembre commenta su Rai 2 la semifinale delle ATP Finals tra Sinner e Medvedev.",
       "image_filename": "Panatta_1976_Milano.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Panatta_1976_Milano.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Panatta_1976_Milano.jpg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 21,
@@ -953,13 +973,14 @@
       "google_news_url": "https://www.google.it/search?q=Paola%20Cortellesi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Paola_Cortellesi",
       "article_url": "https://it.wikipedia.org/wiki/Paola_Cortellesi",
-      "description": "attrice, comica, sceneggiatrice, regista e cantante italiana (1973-)",
+      "description": "Attrice e regista italiana, dirige e interpreta C'è ancora domani, uscito al cinema il 26 ottobre.",
       "image_filename": "Paola_Cortellesi_2_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Paola_Cortellesi_2_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Paola_Cortellesi_2_(cropped).jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 22,
@@ -998,13 +1019,14 @@
       "google_news_url": "https://www.google.it/search?q=Matteo%20Berrettini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Matteo_Berrettini",
       "article_url": "https://it.wikipedia.org/wiki/Matteo_Berrettini",
-      "description": "tennista italiano (1996-)",
+      "description": "Tennista italiano, il picco è probabilmente legato alla finale delle ATP Finals giocata da Jannik Sinner il 19 novembre.",
       "image_filename": "Matteo_Berrettini_at_2025_Miami_Open_01_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29.jpg/1280px-Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_01_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 23,
@@ -1043,13 +1065,14 @@
       "google_news_url": "https://www.google.it/search?q=Societ%C3%A0%20Sportiva%20Calcio%20Napoli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Societ%C3%A0_Sportiva_Calcio_Napoli",
       "article_url": "https://it.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
-      "description": "club calcistico italiano di Napoli",
+      "description": "Il 14 novembre esonera l'allenatore Rudi Garcia e affida la panchina a Walter Mazzarri.",
       "image_filename": "SSC_Napoli_2024_(deep_blue_navy).svg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/1280px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:SSC_Napoli_2024_(deep_blue_navy).svg",
       "image_license": "Public domain",
       "image_copyrighted": "False",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 24,
@@ -1088,13 +1111,14 @@
       "google_news_url": "https://www.google.it/search?q=Rafael%20Nadal&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Rafael_Nadal",
       "article_url": "https://it.wikipedia.org/wiki/Rafael_Nadal",
-      "description": "tennista spagnolo (1986-)",
+      "description": "Tennista spagnolo, il picco è probabilmente legato alla finale delle ATP Finals tra Novak Đoković e Jannik Sinner il 19 novembre.",
       "image_filename": "Rafael_Nadal_en_2024_(cropped).jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rafael_Nadal_en_2024_%28cropped%29.jpg/1006px-Rafael_Nadal_en_2024_%28cropped%29.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Rafael_Nadal_en_2024_(cropped).jpg",
       "image_license": "CC BY-SA 4.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     },
     {
       "rank": 25,
@@ -1133,13 +1157,14 @@
       "google_news_url": "https://www.google.it/search?q=Grande%20Slam%20%28tennis%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/13/2023,cd_max:11/19/2023&tbm=nws",
       "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2023-11-13&end=2023-11-19&pages=Grande_Slam_(tennis)",
       "article_url": "https://it.wikipedia.org/wiki/Grande_Slam_(tennis)",
-      "description": "circuito internazionale comprendente i quattro tornei di tennis più importanti al mondo",
+      "description": "Nel tennis indica la vittoria dei quattro tornei maggiori nello stesso anno. Il picco è probabilmente legato alla finale delle ATP Finals del 19 novembre.",
       "image_filename": "Steffi_Graf_in_Hamburg.jpg",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Steffi_Graf_in_Hamburg.jpg/1006px-Steffi_Graf_in_Hamburg.jpg",
       "image_commons_url": "https://commons.wikimedia.org/wiki/File:Steffi_Graf_in_Hamburg.jpg",
       "image_license": "CC BY-SA 2.0",
       "image_copyrighted": "True",
-      "description_source": "wikidata"
+      "description_source": "openai",
+      "description_model": "gpt-6.1-terra"
     }
   ]
 }
