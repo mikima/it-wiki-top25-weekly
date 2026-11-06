@@ -504,8 +504,33 @@ def resolve_raw_output_path(raw_json_dir: str, year: int, week: int) -> str:
     return str(output_dir / f"{year}-{week:02d}.json")
 
 
+def preserve_manual_descriptions(data: Dict[str, object], output_path: str) -> None:
+    """Keep hand-written descriptions (description_source == "manual") when an
+    existing weekly JSON file is regenerated."""
+    path = Path(output_path)
+    if not path.exists():
+        return
+    try:
+        old = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return
+    manual = {
+        item.get("article"): item
+        for item in old.get("articles", [])
+        if isinstance(item, dict) and item.get("description_source") == "manual"
+    }
+    if not manual:
+        return
+    for item in data.get("articles", []):  # type: ignore[union-attr]
+        previous = manual.get(item.get("article")) if isinstance(item, dict) else None
+        if previous:
+            item["description"] = previous.get("description", "")
+            item["description_source"] = "manual"
+
+
 def write_json(data: Dict[str, object], output_path: Optional[str]) -> None:
     if output_path:
+        preserve_manual_descriptions(data, output_path)
         with open(output_path, "w", encoding="utf-8") as handle:
             json.dump(data, handle, indent=2)
             handle.write("\n")

@@ -276,6 +276,8 @@ def selected_articles(
         if not isinstance(item, dict):
             continue
         article = str(item.get("article", ""))
+        if item.get("description_source") == "manual":
+            continue  # hand-written description: never rewrite
         if article_filter is not None and normalize_article_title(article) not in article_filter:
             continue
         description = item.get("description", "")
@@ -557,6 +559,9 @@ def apply_descriptions(
         target = by_article.get(article)
         if target is None:
             log(f"WARNING OpenAI returned an unknown article, not applied: {article}")
+            continue
+        if target.get("description_source") == "manual":
+            log(f"WARNING OpenAI returned a manual article, not applied: {article}")
             continue
         target["description"] = description
         updated += 1
