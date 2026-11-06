@@ -121,8 +121,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--batch-size",
         type=int,
-        default=10,
-        help="Number of articles per OpenAI request.",
+        default=30,
+        help=(
+            "Number of articles per OpenAI request. The default covers a whole "
+            "week; the full weekly list is sent as context in every batch anyway."
+        ),
     )
     parser.add_argument(
         "--sleep",
@@ -404,9 +407,82 @@ def collect_context(
     return contexts
 
 
+def peak_signals(item: Dict[str, Any]) -> Dict[str, Any]:
+    """Shape of the weekly curve, to help spot isolated spikes."""
+    daily = [d for d in item.get("daily_views", []) if isinstance(d, dict)]
+    views = [int(d.get("views") or 0) for d in daily]
+    total = sum(views)
+    if not views or not total:
+        return {}
+    peak_index = max(range(len(views)), key=lambda i: views[i])
+    peak = views[peak_index]
+    others = sorted(views[:peak_index] + views[peak_index + 1:])
+    median_others = others[len(others) // 2] if others else 0
+    return {
+        "giorno_picco": daily[peak_index].get("date"),
+        "visite_giorno_picco": peak,
+        "quota_picco_sulla_settimana": round(peak / total, 2),
+        "mediana_altri_giorni": median_others,
+        "giorni_a_zero": sum(1 for v in views if v == 0),
+        # most views in a single day; zero days may only mean the page was
+        # outside the daily top list, so this is a hint, not a verdict
+        "picco_isolato": peak / total >= 0.9,
+    }
+
+
+def neighbour_week_path(path: Path, delta_weeks: int) -> Path | None:
+    match = WEEK_RE.match(path.stem)
+    if not match:
+        return None
+    monday = date.fromisocalendar(int(match.group("year")), int(match.group("week")), 1)
+    year, week, _ = (monday + timedelta(weeks=delta_weeks)).isocalendar()
+    return path.with_name(f"{year:04d}-{week:02d}.json")
+
+
+def load_titles(path: Path | None) -> List[Dict[str, Any]]:
+    if path is None or not path.exists():
+        return []
+    try:
+        return load_json(path)["articles"]
+    except (OSError, ValueError):
+        return []
+
+
+def history_context(path: Path, max_weeks: int = 26) -> Tuple[List[Dict[str, Any]], Dict[str, int]]:
+    """Previous week's list and, per article, consecutive previous weeks in the list."""
+    previous = load_titles(neighbour_week_path(path, -1))
+    previous_list = [
+        {
+            "rank": item.get("rank"),
+            "article": item.get("article"),
+            "description": item.get("description", ""),
+        }
+        for item in previous
+        if isinstance(item, dict)
+    ]
+    streak: Dict[str, int] = {}
+    alive: set[str] | None = None
+    for delta in range(1, max_weeks + 1):
+        titles = {
+            normalize_article_title(str(item.get("article", "")))
+            for item in load_titles(neighbour_week_path(path, -delta))
+            if isinstance(item, dict)
+        }
+        if not titles:
+            break
+        alive = titles if alive is None else alive & titles
+        if not alive:
+            break
+        for title in alive:
+            streak[title] = delta
+    return previous_list, streak
+
+
 def compact_article_payload(
     item: Dict[str, Any],
     context_by_article: Dict[str, Dict[str, Any]],
+    previous_ranks: Dict[str, int],
+    streak: Dict[str, int],
 ) -> Dict[str, Any]:
     article = normalize_article_title(str(item.get("article", "")))
     return {
@@ -414,8 +490,9 @@ def compact_article_payload(
         "article": item.get("article"),
         "views": item.get("views"),
         "daily_views": item.get("daily_views", []),
-        "google_news_url": item.get("google_news_url", ""),
-        "pageviews_url": item.get("pageviews_url", ""),
+        "segnali_picco": peak_signals(item),
+        "posizione_settimana_precedente": previous_ranks.get(article),
+        "settimane_consecutive_precedenti_in_lista": streak.get(article, 0),
         "article_url": item.get("article_url", ""),
         "current_description": item.get("description", ""),
         "context": context_by_article.get(article, {}),
@@ -427,7 +504,24 @@ def build_prompt(
     week_data: Dict[str, Any],
     article_batch: Sequence[Dict[str, Any]],
     context_by_article: Dict[str, Dict[str, Any]],
+    path: Path | None = None,
 ) -> str:
+    previous_list, streak = history_context(path) if path is not None else ([], {})
+    previous_ranks = {
+        normalize_article_title(str(item.get("article", ""))): item.get("rank")
+        for item in previous_list
+    }
+    week_list = [
+        {
+            "rank": item.get("rank"),
+            "article": item.get("article"),
+            "views": item.get("views"),
+            "giorno_picco": peak_signals(item).get("giorno_picco"),
+            "description": item.get("description", ""),
+        }
+        for item in week_data.get("articles", [])
+        if isinstance(item, dict)
+    ]
     payload = {
         "week": {
             "year": week_data.get("year"),
@@ -435,13 +529,19 @@ def build_prompt(
             "start_date": week_data.get("start_date"),
             "end_date": week_data.get("end_date"),
         },
+        "classifica_della_settimana": week_list,
+        "classifica_settimana_precedente": previous_list,
         "articles": [
-            compact_article_payload(item, context_by_article) for item in article_batch
+            compact_article_payload(item, context_by_article, previous_ranks, streak)
+            for item in article_batch
         ],
     }
     return (
         "Segui queste istruzioni per scrivere descrizioni in italiano:\n\n"
         f"{instructions}\n\n"
+        "Scrivi una descrizione per ogni voce in \"articles\". Usa "
+        "\"classifica_della_settimana\" e \"classifica_settimana_precedente\" "
+        "solo come contesto per collegamenti e continuità.\n"
         "Restituisci solo JSON valido conforme allo schema richiesto. "
         "Non includere markdown.\n\n"
         "Dati da analizzare:\n"
@@ -601,7 +701,7 @@ def process_file(
         article_names = ", ".join(str(item.get("article", "")) for item in batch)
         log(f"Collecting context for {batch_label}: {article_names}")
         context_by_article = collect_context(batch, data, args=args)
-        prompt = build_prompt(instructions, data, batch, context_by_article)
+        prompt = build_prompt(instructions, data, batch, context_by_article, path)
         log(f"Sending {batch_label} to OpenAI ({len(batch)} article(s), model {args.model})")
         descriptions = call_openai(
             api_key=api_key,
@@ -610,6 +710,25 @@ def process_file(
             timeout=args.timeout,
         )
         log(f"Received OpenAI response for {batch_label}: {len(descriptions)} description(s)")
+        returned = {
+            normalize_article_title(str(result.get("article", "")))
+            for result in descriptions
+            if str(result.get("description", "")).strip()
+        }
+        missing = [
+            item for item in batch
+            if normalize_article_title(str(item.get("article", ""))) not in returned
+        ]
+        if missing:
+            log(f"Retrying {len(missing)} article(s) missing from {batch_label}: "
+                + ", ".join(str(item.get("article", "")) for item in missing))
+            retry_prompt = build_prompt(instructions, data, missing, context_by_article, path)
+            descriptions = list(descriptions) + call_openai(
+                api_key=api_key,
+                model=args.model,
+                prompt=retry_prompt,
+                timeout=args.timeout,
+            )
         updated = apply_descriptions(data, descriptions, args.model)
         total_updated += updated
         log(f"Applied {updated} description(s) from {batch_label}")
