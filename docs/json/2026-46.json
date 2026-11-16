@@ -1,0 +1,1411 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2026,
+  "week": 46,
+  "start_date": "2026-11-09",
+  "end_date": "2026-11-15",
+  "days": [
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-15"
+  ],
+  "available_days": [
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-15"
+  ],
+  "complete": true,
+  "missing_days": [],
+  "total_articles": 2817,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Toni_Capuozzo",
+      "views": 263385,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 0
+        },
+        {
+          "date": "2026-11-10",
+          "views": 0
+        },
+        {
+          "date": "2026-11-11",
+          "views": 0
+        },
+        {
+          "date": "2026-11-12",
+          "views": 170784
+        },
+        {
+          "date": "2026-11-13",
+          "views": 59240
+        },
+        {
+          "date": "2026-11-14",
+          "views": 20761
+        },
+        {
+          "date": "2026-11-15",
+          "views": 12600
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Toni%20Capuozzo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Toni_Capuozzo",
+      "article_url": "https://it.wikipedia.org/wiki/Toni_Capuozzo",
+      "description": "Giornalista e inviato di guerra per Mediaset, muore il 12 novembre a 77 anni.",
+      "description_source": "openai",
+      "image_filename": "Capuozzo_a_pattada.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Capuozzo_a_pattada.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Capuozzo_a_pattada.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 2,
+      "article": "Rosario_Livatino",
+      "views": 230687,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 71255
+        },
+        {
+          "date": "2026-11-10",
+          "views": 97061
+        },
+        {
+          "date": "2026-11-11",
+          "views": 33828
+        },
+        {
+          "date": "2026-11-12",
+          "views": 10928
+        },
+        {
+          "date": "2026-11-13",
+          "views": 6507
+        },
+        {
+          "date": "2026-11-14",
+          "views": 5642
+        },
+        {
+          "date": "2026-11-15",
+          "views": 5466
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rosario%20Livatino&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Rosario_Livatino",
+      "article_url": "https://it.wikipedia.org/wiki/Rosario_Livatino",
+      "description": "Magistrato ucciso dalla mafia nel 1990, è raccontato nella miniserie Livatino - Il giudice e i suoi assassini, su Rai 1 il 9 e il 10 novembre.",
+      "description_source": "openai",
+      "image_filename": "Giudice_Rosario_Livatino.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/3d/Giudice_Rosario_Livatino.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giudice_Rosario_Livatino.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 3,
+      "article": "Sequestro_di_Farouk_Kassam",
+      "views": 154309,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 11737
+        },
+        {
+          "date": "2026-11-10",
+          "views": 8442
+        },
+        {
+          "date": "2026-11-11",
+          "views": 13156
+        },
+        {
+          "date": "2026-11-12",
+          "views": 11699
+        },
+        {
+          "date": "2026-11-13",
+          "views": 8414
+        },
+        {
+          "date": "2026-11-14",
+          "views": 33890
+        },
+        {
+          "date": "2026-11-15",
+          "views": 66971
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sequestro%20di%20Farouk%20Kassam&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Sequestro_di_Farouk_Kassam",
+      "article_url": "https://it.wikipedia.org/wiki/Sequestro_di_Farouk_Kassam",
+      "description": "Rapito in Sardegna nel 1992 a sette anni, Farouk Kassam viene liberato dopo 177 giorni. Non è chiaro il motivo del picco.",
+      "description_source": "openai",
+      "image_filename": "2018_Porto_Cervo_1.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2018_Porto_Cervo_1.jpg/1280px-2018_Porto_Cervo_1.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2018_Porto_Cervo_1.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 4,
+      "article": "Pio_Esposito",
+      "views": 126310,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 4200
+        },
+        {
+          "date": "2026-11-10",
+          "views": 1582
+        },
+        {
+          "date": "2026-11-11",
+          "views": 1071
+        },
+        {
+          "date": "2026-11-12",
+          "views": 48196
+        },
+        {
+          "date": "2026-11-13",
+          "views": 42201
+        },
+        {
+          "date": "2026-11-14",
+          "views": 10386
+        },
+        {
+          "date": "2026-11-15",
+          "views": 18674
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pio%20Esposito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Pio_Esposito",
+      "article_url": "https://it.wikipedia.org/wiki/Pio_Esposito",
+      "description": "Attaccante dell'Inter e della nazionale, il 12 novembre segna due rigori nella vittoria dell'Italia per 3-1 sulla Francia.",
+      "description_source": "openai",
+      "image_filename": "Francesco_Pio_Esposito_a_La_Spezia.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Francesco_Pio_Esposito_a_La_Spezia.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Francesco_Pio_Esposito_a_La_Spezia.jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 5,
+      "article": "Ronaldinho",
+      "views": 112392,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 1537
+        },
+        {
+          "date": "2026-11-10",
+          "views": 2155
+        },
+        {
+          "date": "2026-11-11",
+          "views": 2915
+        },
+        {
+          "date": "2026-11-12",
+          "views": 4301
+        },
+        {
+          "date": "2026-11-13",
+          "views": 6206
+        },
+        {
+          "date": "2026-11-14",
+          "views": 22651
+        },
+        {
+          "date": "2026-11-15",
+          "views": 72627
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ronaldinho&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Ronaldinho",
+      "article_url": "https://it.wikipedia.org/wiki/Ronaldinho",
+      "description": "Calciatore brasiliano campione del mondo nel 2002, il 15 novembre torna in campo con il Ravenna contro il Forlì in Serie C.",
+      "description_source": "openai",
+      "image_filename": "Ronaldinho_in_2019.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ronaldinho_in_2019.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 6,
+      "article": "Livatino_-_Il_giudice_e_i_suoi_assassini",
+      "views": 101348,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 31823
+        },
+        {
+          "date": "2026-11-10",
+          "views": 37190
+        },
+        {
+          "date": "2026-11-11",
+          "views": 15203
+        },
+        {
+          "date": "2026-11-12",
+          "views": 6042
+        },
+        {
+          "date": "2026-11-13",
+          "views": 3951
+        },
+        {
+          "date": "2026-11-14",
+          "views": 3540
+        },
+        {
+          "date": "2026-11-15",
+          "views": 3599
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Livatino%20-%20Il%20giudice%20e%20i%20suoi%20assassini&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Livatino_-_Il_giudice_e_i_suoi_assassini",
+      "article_url": "https://it.wikipedia.org/wiki/Livatino_-_Il_giudice_e_i_suoi_assassini",
+      "description": "Miniserie sul magistrato Rosario Livatino, va in onda su Rai 1 il 9 e il 10 novembre.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 7,
+      "article": "Jen-Hsun_Huang",
+      "views": 90934,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 11236
+        },
+        {
+          "date": "2026-11-10",
+          "views": 13281
+        },
+        {
+          "date": "2026-11-11",
+          "views": 7685
+        },
+        {
+          "date": "2026-11-12",
+          "views": 27313
+        },
+        {
+          "date": "2026-11-13",
+          "views": 18347
+        },
+        {
+          "date": "2026-11-14",
+          "views": 7843
+        },
+        {
+          "date": "2026-11-15",
+          "views": 5229
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Jen-Hsun%20Huang&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Jen-Hsun_Huang",
+      "article_url": "https://it.wikipedia.org/wiki/Jen-Hsun_Huang",
+      "description": "Imprenditore e cofondatore di Nvidia, il 12 novembre si dimette da amministratore delegato dell'azienda.",
+      "description_source": "openai",
+      "image_filename": "Jensen_Huang_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jensen_Huang_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_(cropped).jpg",
+      "image_license": "GODL-India",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 8,
+      "article": "Luca_Koleosho",
+      "views": 83058,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 699
+        },
+        {
+          "date": "2026-11-10",
+          "views": 0
+        },
+        {
+          "date": "2026-11-11",
+          "views": 0
+        },
+        {
+          "date": "2026-11-12",
+          "views": 3891
+        },
+        {
+          "date": "2026-11-13",
+          "views": 1335
+        },
+        {
+          "date": "2026-11-14",
+          "views": 0
+        },
+        {
+          "date": "2026-11-15",
+          "views": 77133
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Luca%20Koleosho&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Luca_Koleosho",
+      "article_url": "https://it.wikipedia.org/wiki/Luca_Koleosho",
+      "description": "Attaccante del Paris FC e della nazionale italiana, il 15 novembre gioca da titolare contro il Belgio in Nations League.",
+      "description_source": "openai",
+      "image_filename": "Luca_Koleosho_26042025_(2)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Luca_Koleosho_26042025_%282%29_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Luca_Koleosho_26042025_(2)_(cropped).jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 9,
+      "article": "Mauro_Repetto",
+      "views": 79425,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 7268
+        },
+        {
+          "date": "2026-11-10",
+          "views": 7867
+        },
+        {
+          "date": "2026-11-11",
+          "views": 7081
+        },
+        {
+          "date": "2026-11-12",
+          "views": 5172
+        },
+        {
+          "date": "2026-11-13",
+          "views": 13650
+        },
+        {
+          "date": "2026-11-14",
+          "views": 18629
+        },
+        {
+          "date": "2026-11-15",
+          "views": 19758
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mauro%20Repetto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Mauro_Repetto",
+      "article_url": "https://it.wikipedia.org/wiki/Mauro_Repetto",
+      "description": "Musicista e cofondatore degli 883, è raccontato in Nord Sud Ovest Est, in onda su Sky Serie il 13 novembre.",
+      "description_source": "openai",
+      "image_filename": "Mauro_Repetto_Radio_Studio_Delta_2026.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mauro_Repetto_Radio_Studio_Delta_2026.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mauro_Repetto_Radio_Studio_Delta_2026.png",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 10,
+      "article": "Omicidio_di_Giulia_Cecchettin",
+      "views": 73006,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 8624
+        },
+        {
+          "date": "2026-11-10",
+          "views": 8203
+        },
+        {
+          "date": "2026-11-11",
+          "views": 14282
+        },
+        {
+          "date": "2026-11-12",
+          "views": 11697
+        },
+        {
+          "date": "2026-11-13",
+          "views": 9239
+        },
+        {
+          "date": "2026-11-14",
+          "views": 9934
+        },
+        {
+          "date": "2026-11-15",
+          "views": 11027
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Omicidio%20di%20Giulia%20Cecchettin&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Omicidio_di_Giulia_Cecchettin",
+      "article_url": "https://it.wikipedia.org/wiki/Omicidio_di_Giulia_Cecchettin",
+      "description": "L'11 novembre ricorre il terzo anniversario dell'omicidio. Il 5 novembre esce il film sulla sua storia, Se domani non torno.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 11,
+      "article": "883_(gruppo_musicale)",
+      "views": 66441,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 4577
+        },
+        {
+          "date": "2026-11-10",
+          "views": 6373
+        },
+        {
+          "date": "2026-11-11",
+          "views": 5640
+        },
+        {
+          "date": "2026-11-12",
+          "views": 4695
+        },
+        {
+          "date": "2026-11-13",
+          "views": 13578
+        },
+        {
+          "date": "2026-11-14",
+          "views": 16533
+        },
+        {
+          "date": "2026-11-15",
+          "views": 15045
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=883%20%28gruppo%20musicale%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=883_(gruppo_musicale)",
+      "article_url": "https://it.wikipedia.org/wiki/883_(gruppo_musicale)",
+      "description": "Gruppo fondato da Max Pezzali e Mauro Repetto, è raccontato in Nord Sud Ovest Est, su Sky Serie il 13 novembre.",
+      "description_source": "openai",
+      "image_filename": "Pezzali_Repetto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/93/Pezzali_Repetto.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzali_Repetto.jpg",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 12,
+      "article": "Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione)",
+      "views": 62856,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 6226
+        },
+        {
+          "date": "2026-11-10",
+          "views": 7068
+        },
+        {
+          "date": "2026-11-11",
+          "views": 6300
+        },
+        {
+          "date": "2026-11-12",
+          "views": 6070
+        },
+        {
+          "date": "2026-11-13",
+          "views": 14443
+        },
+        {
+          "date": "2026-11-14",
+          "views": 12560
+        },
+        {
+          "date": "2026-11-15",
+          "views": 10189
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20La%20leggendaria%20storia%20degli%20883%20%28seconda%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione)",
+      "description": "Il 13 novembre va in onda su Sky Serie il settimo episodio di Nord Sud Ovest Est, seconda stagione della serie sugli 883.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 13,
+      "article": "UEFA_Nations_League",
+      "views": 60736,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 908
+        },
+        {
+          "date": "2026-11-10",
+          "views": 1000
+        },
+        {
+          "date": "2026-11-11",
+          "views": 1232
+        },
+        {
+          "date": "2026-11-12",
+          "views": 15100
+        },
+        {
+          "date": "2026-11-13",
+          "views": 12477
+        },
+        {
+          "date": "2026-11-14",
+          "views": 6310
+        },
+        {
+          "date": "2026-11-15",
+          "views": 23709
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=UEFA%20Nations%20League&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=UEFA_Nations_League",
+      "article_url": "https://it.wikipedia.org/wiki/UEFA_Nations_League",
+      "description": "Il 12 novembre l'Italia batte la Francia 3-1; il 15 affronta il Belgio nella Nations League 2026/27.",
+      "description_source": "openai",
+      "image_filename": "UEFA_Nations_League.svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/8/80/UEFA_Nations_League.svg/1280px-UEFA_Nations_League.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:UEFA_Nations_League.svg",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 14,
+      "article": "NVIDIA",
+      "views": 60492,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 6545
+        },
+        {
+          "date": "2026-11-10",
+          "views": 8559
+        },
+        {
+          "date": "2026-11-11",
+          "views": 4518
+        },
+        {
+          "date": "2026-11-12",
+          "views": 17824
+        },
+        {
+          "date": "2026-11-13",
+          "views": 13612
+        },
+        {
+          "date": "2026-11-14",
+          "views": 5218
+        },
+        {
+          "date": "2026-11-15",
+          "views": 4216
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=NVIDIA&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=NVIDIA",
+      "article_url": "https://it.wikipedia.org/wiki/NVIDIA",
+      "description": "Azienda statunitense di semiconduttori, il 12 novembre riceve le dimissioni dell'amministratore delegato Jensen Huang.",
+      "description_source": "openai",
+      "image_filename": "2788-2888_San_Tomas_Expwy.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2788-2888_San_Tomas_Expwy.jpg/1280px-2788-2888_San_Tomas_Expwy.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2788-2888_San_Tomas_Expwy.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 15,
+      "article": "Nicolò_Cambiaghi",
+      "views": 56727,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 0
+        },
+        {
+          "date": "2026-11-10",
+          "views": 0
+        },
+        {
+          "date": "2026-11-11",
+          "views": 0
+        },
+        {
+          "date": "2026-11-12",
+          "views": 28372
+        },
+        {
+          "date": "2026-11-13",
+          "views": 20989
+        },
+        {
+          "date": "2026-11-14",
+          "views": 5200
+        },
+        {
+          "date": "2026-11-15",
+          "views": 2166
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Nicol%C3%B2%20Cambiaghi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Nicol%C3%B2_Cambiaghi",
+      "article_url": "https://it.wikipedia.org/wiki/Nicol%C3%B2_Cambiaghi",
+      "description": "Attaccante del Bologna e della nazionale, il 12 novembre gioca nella vittoria dell'Italia sulla Francia in Nations League.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 16,
+      "article": "Andrea_Kimi_Antonelli",
+      "views": 55995,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 8084
+        },
+        {
+          "date": "2026-11-10",
+          "views": 7537
+        },
+        {
+          "date": "2026-11-11",
+          "views": 5153
+        },
+        {
+          "date": "2026-11-12",
+          "views": 11189
+        },
+        {
+          "date": "2026-11-13",
+          "views": 9974
+        },
+        {
+          "date": "2026-11-14",
+          "views": 8926
+        },
+        {
+          "date": "2026-11-15",
+          "views": 5132
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andrea%20Kimi%20Antonelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Andrea_Kimi_Antonelli",
+      "article_url": "https://it.wikipedia.org/wiki/Andrea_Kimi_Antonelli",
+      "description": "Pilota italiano della Mercedes, il 1º novembre conquista il titolo mondiale di Formula 1.",
+      "description_source": "openai",
+      "image_filename": "2026-08-23_Motorsport,_Formel_1,_Großer_Preis_der_Niederlande_2026_STP_3010_(cropped2).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2026-08-23_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2026_STP_3010_%28cropped2%29.jpg/1280px-2026-08-23_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2026_STP_3010_%28cropped2%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2026-08-23_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2026_STP_3010_(cropped2).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 17,
+      "article": "Wild_Horse_Nine",
+      "views": 54615,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 8639
+        },
+        {
+          "date": "2026-11-10",
+          "views": 7193
+        },
+        {
+          "date": "2026-11-11",
+          "views": 7700
+        },
+        {
+          "date": "2026-11-12",
+          "views": 5447
+        },
+        {
+          "date": "2026-11-13",
+          "views": 5851
+        },
+        {
+          "date": "2026-11-14",
+          "views": 9333
+        },
+        {
+          "date": "2026-11-15",
+          "views": 10452
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Wild%20Horse%20Nine&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Wild_Horse_Nine",
+      "article_url": "https://it.wikipedia.org/wiki/Wild_Horse_Nine",
+      "description": "Film diretto da Martin McDonagh, è nelle sale italiane già nella settimana dal 2 all'8 novembre.",
+      "description_source": "openai",
+      "image_filename": "Wild_Horse_Nine.png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/5/54/Wild_Horse_Nine.png/1280px-Wild_Horse_Nine.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Wild_Horse_Nine.png",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 18,
+      "article": "Se_domani_non_torno",
+      "views": 51255,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 7294
+        },
+        {
+          "date": "2026-11-10",
+          "views": 7221
+        },
+        {
+          "date": "2026-11-11",
+          "views": 7643
+        },
+        {
+          "date": "2026-11-12",
+          "views": 6557
+        },
+        {
+          "date": "2026-11-13",
+          "views": 6593
+        },
+        {
+          "date": "2026-11-14",
+          "views": 7365
+        },
+        {
+          "date": "2026-11-15",
+          "views": 8582
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Se%20domani%20non%20torno&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Se_domani_non_torno",
+      "article_url": "https://it.wikipedia.org/wiki/Se_domani_non_torno",
+      "description": "Film di Paola Randi sulla storia di Giulia Cecchettin, esce nelle sale il 5 novembre.",
+      "description_source": "openai",
+      "image_filename": "Se_domani_non_torno_(film).png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/3/3a/Se_domani_non_torno_%28film%29.png/1280px-Se_domani_non_torno_%28film%29.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Se_domani_non_torno_(film).png",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 19,
+      "article": "Sebastiano_Esposito",
+      "views": 50218,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 0
+        },
+        {
+          "date": "2026-11-10",
+          "views": 0
+        },
+        {
+          "date": "2026-11-11",
+          "views": 683
+        },
+        {
+          "date": "2026-11-12",
+          "views": 22218
+        },
+        {
+          "date": "2026-11-13",
+          "views": 17800
+        },
+        {
+          "date": "2026-11-14",
+          "views": 4399
+        },
+        {
+          "date": "2026-11-15",
+          "views": 5118
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sebastiano%20Esposito&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Sebastiano_Esposito",
+      "article_url": "https://it.wikipedia.org/wiki/Sebastiano_Esposito",
+      "description": "Attaccante del Sassuolo e della nazionale, il 12 novembre sbaglia un rigore contro la Francia; suo fratello Pio ne segna due.",
+      "description_source": "openai",
+      "image_filename": "FC_Salzburg_gegen_Inter_Mailand_(Testspiel_2023-08-09)_93.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/FC_Salzburg_gegen_Inter_Mailand_%28Testspiel_2023-08-09%29_93.jpg/1280px-FC_Salzburg_gegen_Inter_Mailand_%28Testspiel_2023-08-09%29_93.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_Inter_Mailand_(Testspiel_2023-08-09)_93.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 20,
+      "article": "Mădălina_Diana_Ghenea",
+      "views": 50171,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 26665
+        },
+        {
+          "date": "2026-11-10",
+          "views": 11912
+        },
+        {
+          "date": "2026-11-11",
+          "views": 3543
+        },
+        {
+          "date": "2026-11-12",
+          "views": 1983
+        },
+        {
+          "date": "2026-11-13",
+          "views": 1682
+        },
+        {
+          "date": "2026-11-14",
+          "views": 2377
+        },
+        {
+          "date": "2026-11-15",
+          "views": 2009
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=M%C4%83d%C4%83lina%20Diana%20Ghenea&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=M%C4%83d%C4%83lina_Diana_Ghenea",
+      "article_url": "https://it.wikipedia.org/wiki/M%C4%83d%C4%83lina_Diana_Ghenea",
+      "description": "Modella e attrice rumena, il motivo del picco di visite non è chiaro.",
+      "description_source": "openai",
+      "image_filename": "Madalina_Ghenea_at_83rd_Venice_International_Film_Festival-2_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Madalina_Ghenea_at_83rd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Madalina_Ghenea_at_83rd_Venice_International_Film_Festival-2_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 21,
+      "article": "Rai",
+      "views": 48743,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 6559
+        },
+        {
+          "date": "2026-11-10",
+          "views": 7087
+        },
+        {
+          "date": "2026-11-11",
+          "views": 7119
+        },
+        {
+          "date": "2026-11-12",
+          "views": 6957
+        },
+        {
+          "date": "2026-11-13",
+          "views": 8661
+        },
+        {
+          "date": "2026-11-14",
+          "views": 5979
+        },
+        {
+          "date": "2026-11-15",
+          "views": 6381
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "Servizio radiotelevisivo pubblico italiano, è in classifica per la decima settimana consecutiva, senza picchi di rilievo.",
+      "description_source": "openai",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 22,
+      "article": "Il_rumore_delle_cose_nuove",
+      "views": 48589,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 2293
+        },
+        {
+          "date": "2026-11-10",
+          "views": 2357
+        },
+        {
+          "date": "2026-11-11",
+          "views": 4369
+        },
+        {
+          "date": "2026-11-12",
+          "views": 6944
+        },
+        {
+          "date": "2026-11-13",
+          "views": 8128
+        },
+        {
+          "date": "2026-11-14",
+          "views": 11413
+        },
+        {
+          "date": "2026-11-15",
+          "views": 13085
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20rumore%20delle%20cose%20nuove&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Il_rumore_delle_cose_nuove",
+      "article_url": "https://it.wikipedia.org/wiki/Il_rumore_delle_cose_nuove",
+      "description": "Film diretto da Paolo Genovese e tratto dal suo omonimo romanzo. Non è chiaro il motivo del picco.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 23,
+      "article": "Michael_Kayode",
+      "views": 47662,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 0
+        },
+        {
+          "date": "2026-11-10",
+          "views": 0
+        },
+        {
+          "date": "2026-11-11",
+          "views": 0
+        },
+        {
+          "date": "2026-11-12",
+          "views": 23501
+        },
+        {
+          "date": "2026-11-13",
+          "views": 7223
+        },
+        {
+          "date": "2026-11-14",
+          "views": 1852
+        },
+        {
+          "date": "2026-11-15",
+          "views": 15086
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Michael%20Kayode&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Michael_Kayode",
+      "article_url": "https://it.wikipedia.org/wiki/Michael_Kayode",
+      "description": "Difensore del Brentford e della nazionale italiana, il 12 novembre l'Italia affronta la Francia in Nations League.",
+      "description_source": "openai",
+      "image_filename": "Brentford_v_AFC_Bournemouth_27122025_(Kayode).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Brentford_v_AFC_Bournemouth_27122025_%28Kayode%29.jpg/1280px-Brentford_v_AFC_Bournemouth_27122025_%28Kayode%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Brentford_v_AFC_Bournemouth_27122025_(Kayode).jpg",
+      "image_license": "CC0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 24,
+      "article": "Robert_Enke",
+      "views": 46683,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 0
+        },
+        {
+          "date": "2026-11-10",
+          "views": 2614
+        },
+        {
+          "date": "2026-11-11",
+          "views": 1737
+        },
+        {
+          "date": "2026-11-12",
+          "views": 20407
+        },
+        {
+          "date": "2026-11-13",
+          "views": 15959
+        },
+        {
+          "date": "2026-11-14",
+          "views": 4111
+        },
+        {
+          "date": "2026-11-15",
+          "views": 1855
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Robert%20Enke&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Robert_Enke",
+      "article_url": "https://it.wikipedia.org/wiki/Robert_Enke",
+      "description": "Portiere della nazionale tedesca morto nel 2009, il 12 novembre viene riportata la notizia di un messaggio lasciato sulla tomba della figlia.",
+      "description_source": "openai",
+      "image_filename": "Robert_Enke_3.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Robert_Enke_3.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Robert_Enke_3.JPG",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 25,
+      "article": "Max_Pezzali",
+      "views": 46445,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 2885
+        },
+        {
+          "date": "2026-11-10",
+          "views": 3992
+        },
+        {
+          "date": "2026-11-11",
+          "views": 3624
+        },
+        {
+          "date": "2026-11-12",
+          "views": 3107
+        },
+        {
+          "date": "2026-11-13",
+          "views": 8073
+        },
+        {
+          "date": "2026-11-14",
+          "views": 13502
+        },
+        {
+          "date": "2026-11-15",
+          "views": 11262
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Max%20Pezzali&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Max_Pezzali",
+      "article_url": "https://it.wikipedia.org/wiki/Max_Pezzali",
+      "description": "Cantautore e cofondatore degli 883, compie 59 anni il 14 novembre; il giorno prima va in onda su Sky Serie Nord Sud Ovest Est.",
+      "description_source": "openai",
+      "image_filename": "Max_Pezzali_at_Cartoomics_2013-1_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Max_Pezzali_at_Cartoomics_2013-1_%28cropped%29.jpg/1280px-Max_Pezzali_at_Cartoomics_2013-1_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Max_Pezzali_at_Cartoomics_2013-1_(cropped).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 26,
+      "article": "Episodi_de_Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere_(terza_stagione)",
+      "views": 45579,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 0
+        },
+        {
+          "date": "2026-11-10",
+          "views": 0
+        },
+        {
+          "date": "2026-11-11",
+          "views": 10617
+        },
+        {
+          "date": "2026-11-12",
+          "views": 9215
+        },
+        {
+          "date": "2026-11-13",
+          "views": 8171
+        },
+        {
+          "date": "2026-11-14",
+          "views": 8021
+        },
+        {
+          "date": "2026-11-15",
+          "views": 9555
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20Il%20Signore%20degli%20Anelli%20-%20Gli%20Anelli%20del%20Potere%20%28terza%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Episodi_de_Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere_(terza_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere_(terza_stagione)",
+      "description": "L'11 novembre inizia su Prime Video la pubblicazione della terza stagione della serie.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 27,
+      "article": "Phil_Collins",
+      "views": 43390,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 5593
+        },
+        {
+          "date": "2026-11-10",
+          "views": 24518
+        },
+        {
+          "date": "2026-11-11",
+          "views": 3587
+        },
+        {
+          "date": "2026-11-12",
+          "views": 1985
+        },
+        {
+          "date": "2026-11-13",
+          "views": 1473
+        },
+        {
+          "date": "2026-11-14",
+          "views": 1907
+        },
+        {
+          "date": "2026-11-15",
+          "views": 4327
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Phil%20Collins&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Phil_Collins",
+      "article_url": "https://it.wikipedia.org/wiki/Phil_Collins",
+      "description": "Cantautore britannico ed ex membro dei Genesis, il 10 novembre circola una falsa notizia sulla sua morte.",
+      "description_source": "openai",
+      "image_filename": "Phil_Collins,_2025_for_\"Eras\"_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Phil_Collins%2C_2025_for_%22Eras%22_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Phil_Collins%2C_2025_for_%22Eras%22_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 28,
+      "article": "Scrooge_e_gli_spiriti_del_Natale",
+      "views": 42480,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 1471
+        },
+        {
+          "date": "2026-11-10",
+          "views": 3440
+        },
+        {
+          "date": "2026-11-11",
+          "views": 3404
+        },
+        {
+          "date": "2026-11-12",
+          "views": 5779
+        },
+        {
+          "date": "2026-11-13",
+          "views": 7490
+        },
+        {
+          "date": "2026-11-14",
+          "views": 9850
+        },
+        {
+          "date": "2026-11-15",
+          "views": 11046
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Scrooge%20e%20gli%20spiriti%20del%20Natale&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Scrooge_e_gli_spiriti_del_Natale",
+      "article_url": "https://it.wikipedia.org/wiki/Scrooge_e_gli_spiriti_del_Natale",
+      "description": "Film di Ti West con Johnny Depp, è nelle sale italiane nella settimana dal 9 al 15 novembre.",
+      "description_source": "openai",
+      "image_filename": "Scrooge_e_gli_spiriti_del_Natale.png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/e/e5/Scrooge_e_gli_spiriti_del_Natale.png/1280px-Scrooge_e_gli_spiriti_del_Natale.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Scrooge_e_gli_spiriti_del_Natale.png",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 29,
+      "article": "Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere",
+      "views": 42058,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 1350
+        },
+        {
+          "date": "2026-11-10",
+          "views": 2064
+        },
+        {
+          "date": "2026-11-11",
+          "views": 9103
+        },
+        {
+          "date": "2026-11-12",
+          "views": 7684
+        },
+        {
+          "date": "2026-11-13",
+          "views": 6758
+        },
+        {
+          "date": "2026-11-14",
+          "views": 7031
+        },
+        {
+          "date": "2026-11-15",
+          "views": 8068
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Il%20Signore%20degli%20Anelli%20-%20Gli%20Anelli%20del%20Potere&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere",
+      "article_url": "https://it.wikipedia.org/wiki/Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere",
+      "description": "L'11 novembre inizia su Prime Video la pubblicazione della terza stagione della serie.",
+      "description_source": "openai",
+      "image_filename": "Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere.png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere.png/1280px-Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere.png",
+      "image_license": "Public domain",
+      "image_copyrighted": "False",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 30,
+      "article": "Valentino_Rossi",
+      "views": 40749,
+      "daily_views": [
+        {
+          "date": "2026-11-09",
+          "views": 13868
+        },
+        {
+          "date": "2026-11-10",
+          "views": 8184
+        },
+        {
+          "date": "2026-11-11",
+          "views": 5201
+        },
+        {
+          "date": "2026-11-12",
+          "views": 4053
+        },
+        {
+          "date": "2026-11-13",
+          "views": 3164
+        },
+        {
+          "date": "2026-11-14",
+          "views": 3280
+        },
+        {
+          "date": "2026-11-15",
+          "views": 2999
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Valentino%20Rossi&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/09/2026,cd_max:11/15/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-09&end=2026-11-15&pages=Valentino_Rossi",
+      "article_url": "https://it.wikipedia.org/wiki/Valentino_Rossi",
+      "description": "Ex pilota motociclistico italiano, l'8 novembre è ospite di Che tempo che fa sul Nove.",
+      "description_source": "openai",
+      "image_filename": "Valentino_Rossi_2024_WEC_Fuji_6.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Valentino_Rossi_2024_WEC_Fuji_6.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Valentino_Rossi_2024_WEC_Fuji_6.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    }
+  ]
+}
