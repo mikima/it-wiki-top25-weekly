@@ -1,0 +1,1411 @@
+{
+  "project": "it.wikipedia",
+  "access": "all-access",
+  "year": 2026,
+  "week": 47,
+  "start_date": "2026-11-16",
+  "end_date": "2026-11-22",
+  "days": [
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-22"
+  ],
+  "available_days": [
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-22"
+  ],
+  "complete": true,
+  "missing_days": [],
+  "total_articles": 2843,
+  "articles": [
+    {
+      "rank": 1,
+      "article": "Sequestro_di_Farouk_Kassam",
+      "views": 468766,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 199805
+        },
+        {
+          "date": "2026-11-17",
+          "views": 167101
+        },
+        {
+          "date": "2026-11-18",
+          "views": 55742
+        },
+        {
+          "date": "2026-11-19",
+          "views": 18739
+        },
+        {
+          "date": "2026-11-20",
+          "views": 9932
+        },
+        {
+          "date": "2026-11-21",
+          "views": 8402
+        },
+        {
+          "date": "2026-11-22",
+          "views": 9045
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Sequestro%20di%20Farouk%20Kassam&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Sequestro_di_Farouk_Kassam",
+      "article_url": "https://it.wikipedia.org/wiki/Sequestro_di_Farouk_Kassam",
+      "description": "Il rapimento di Farouk Kassam nel 1992 è raccontato nella miniserie 177 giorni, su Rai 1 il 16 e il 17 novembre.",
+      "description_source": "openai",
+      "image_filename": "2018_Porto_Cervo_1.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2018_Porto_Cervo_1.jpg/1280px-2018_Porto_Cervo_1.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:2018_Porto_Cervo_1.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 2,
+      "article": "Corrado_Augias",
+      "views": 434337,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 0
+        },
+        {
+          "date": "2026-11-17",
+          "views": 0
+        },
+        {
+          "date": "2026-11-18",
+          "views": 0
+        },
+        {
+          "date": "2026-11-19",
+          "views": 284886
+        },
+        {
+          "date": "2026-11-20",
+          "views": 85721
+        },
+        {
+          "date": "2026-11-21",
+          "views": 43048
+        },
+        {
+          "date": "2026-11-22",
+          "views": 20682
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Corrado%20Augias&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Corrado_Augias",
+      "article_url": "https://it.wikipedia.org/wiki/Corrado_Augias",
+      "description": "Giornalista, scrittore e conduttore televisivo, muore il 19 novembre a 91 anni.",
+      "description_source": "openai",
+      "image_filename": "Corrado_Augias_MEP_1994.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Corrado_Augias_MEP_1994.jpg/1280px-Corrado_Augias_MEP_1994.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Corrado_Augias_MEP_1994.jpg",
+      "image_license": "European Parliament",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 3,
+      "article": "Gianni_De_Gennaro",
+      "views": 365463,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 12637
+        },
+        {
+          "date": "2026-11-17",
+          "views": 12331
+        },
+        {
+          "date": "2026-11-18",
+          "views": 3752
+        },
+        {
+          "date": "2026-11-19",
+          "views": 2677
+        },
+        {
+          "date": "2026-11-20",
+          "views": 983
+        },
+        {
+          "date": "2026-11-21",
+          "views": 238237
+        },
+        {
+          "date": "2026-11-22",
+          "views": 94846
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Gianni%20De%20Gennaro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Gianni_De_Gennaro",
+      "article_url": "https://it.wikipedia.org/wiki/Gianni_De_Gennaro",
+      "description": "Ex capo della Polizia, si uccide il 21 novembre; era indagato per depistaggio sulla strage di via D'Amelio.",
+      "description_source": "openai",
+      "image_filename": "Giovanni_De_Gennaro_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Giovanni_De_Gennaro_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giovanni_De_Gennaro_(cropped).jpg",
+      "image_license": "CC BY-SA 2.5",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 4,
+      "article": "Grand_Theft_Auto_VI",
+      "views": 121326,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 5145
+        },
+        {
+          "date": "2026-11-17",
+          "views": 9442
+        },
+        {
+          "date": "2026-11-18",
+          "views": 19578
+        },
+        {
+          "date": "2026-11-19",
+          "views": 33209
+        },
+        {
+          "date": "2026-11-20",
+          "views": 24118
+        },
+        {
+          "date": "2026-11-21",
+          "views": 16541
+        },
+        {
+          "date": "2026-11-22",
+          "views": 13293
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grand%20Theft%20Auto%20VI&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Grand_Theft_Auto_VI",
+      "article_url": "https://it.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "description": "Videogioco di Rockstar Games, il 19 novembre RaiNews ne riporta l'uscita.",
+      "description_source": "openai",
+      "image_filename": "Jason_e_Lucia_-_GTA_VI.png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/b/ba/Jason_e_Lucia_-_GTA_VI.png/1280px-Jason_e_Lucia_-_GTA_VI.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Jason_e_Lucia_-_GTA_VI.png",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 5,
+      "article": "Robert_Pattinson",
+      "views": 110820,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 45932
+        },
+        {
+          "date": "2026-11-17",
+          "views": 32016
+        },
+        {
+          "date": "2026-11-18",
+          "views": 13660
+        },
+        {
+          "date": "2026-11-19",
+          "views": 6475
+        },
+        {
+          "date": "2026-11-20",
+          "views": 4497
+        },
+        {
+          "date": "2026-11-21",
+          "views": 4269
+        },
+        {
+          "date": "2026-11-22",
+          "views": 3971
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Robert%20Pattinson&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Robert_Pattinson",
+      "article_url": "https://it.wikipedia.org/wiki/Robert_Pattinson",
+      "description": "Attore britannico, il 16 novembre viene annunciato come nuovo interprete di James Bond.",
+      "description_source": "openai",
+      "image_filename": "Robert_Pattinson_Venice_Film_Festival_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Robert_Pattinson_Venice_Film_Festival_%28cropped%29.jpg/1280px-Robert_Pattinson_Venice_Film_Festival_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 6,
+      "article": "Panini_(azienda)",
+      "views": 87124,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 0
+        },
+        {
+          "date": "2026-11-17",
+          "views": 860
+        },
+        {
+          "date": "2026-11-18",
+          "views": 959
+        },
+        {
+          "date": "2026-11-19",
+          "views": 1649
+        },
+        {
+          "date": "2026-11-20",
+          "views": 2735
+        },
+        {
+          "date": "2026-11-21",
+          "views": 3711
+        },
+        {
+          "date": "2026-11-22",
+          "views": 77210
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Panini%20%28azienda%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Panini_(azienda)",
+      "article_url": "https://it.wikipedia.org/wiki/Panini_(azienda)",
+      "description": "Casa editrice di figurine e fumetti, è raccontata nella fiction La famiglia Panini, su Rai 1 il 22 novembre.",
+      "description_source": "openai",
+      "image_filename": "Calciatori_panini_francobollo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/f/f5/Calciatori_panini_francobollo.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Calciatori_panini_francobollo.jpg",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 7,
+      "article": "Hunger_Games_-_L'alba_sulla_mietitura",
+      "views": 80890,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 2031
+        },
+        {
+          "date": "2026-11-17",
+          "views": 5392
+        },
+        {
+          "date": "2026-11-18",
+          "views": 6340
+        },
+        {
+          "date": "2026-11-19",
+          "views": 11590
+        },
+        {
+          "date": "2026-11-20",
+          "views": 15038
+        },
+        {
+          "date": "2026-11-21",
+          "views": 18735
+        },
+        {
+          "date": "2026-11-22",
+          "views": 21764
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Hunger%20Games%20-%20L%27alba%20sulla%20mietitura&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Hunger_Games_-_L%27alba_sulla_mietitura",
+      "article_url": "https://it.wikipedia.org/wiki/Hunger_Games_-_L%27alba_sulla_mietitura",
+      "description": "Film diretto da Francis Lawrence, è nelle sale italiane nella settimana dal 16 al 22 novembre.",
+      "description_source": "openai",
+      "image_filename": "Hunger_Games_L'Alba_sulla_Mietitura_Screenshot.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/3/3c/Hunger_Games_L%27Alba_sulla_Mietitura_Screenshot.jpg/1280px-Hunger_Games_L%27Alba_sulla_Mietitura_Screenshot.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Hunger_Games_L%27Alba_sulla_Mietitura_Screenshot.jpg",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 8,
+      "article": "Pierpaolo_Spollon",
+      "views": 80864,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 24799
+        },
+        {
+          "date": "2026-11-17",
+          "views": 12341
+        },
+        {
+          "date": "2026-11-18",
+          "views": 8837
+        },
+        {
+          "date": "2026-11-19",
+          "views": 9122
+        },
+        {
+          "date": "2026-11-20",
+          "views": 7563
+        },
+        {
+          "date": "2026-11-21",
+          "views": 8681
+        },
+        {
+          "date": "2026-11-22",
+          "views": 9521
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pierpaolo%20Spollon&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Pierpaolo_Spollon",
+      "article_url": "https://it.wikipedia.org/wiki/Pierpaolo_Spollon",
+      "description": "Attore italiano, il picco del 16 novembre è probabilmente legato alla sua partecipazione a GialappaShow.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 9,
+      "article": "Mauro_Repetto",
+      "views": 80087,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 10582
+        },
+        {
+          "date": "2026-11-17",
+          "views": 7700
+        },
+        {
+          "date": "2026-11-18",
+          "views": 6638
+        },
+        {
+          "date": "2026-11-19",
+          "views": 5206
+        },
+        {
+          "date": "2026-11-20",
+          "views": 13962
+        },
+        {
+          "date": "2026-11-21",
+          "views": 20058
+        },
+        {
+          "date": "2026-11-22",
+          "views": 15941
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Mauro%20Repetto&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Mauro_Repetto",
+      "article_url": "https://it.wikipedia.org/wiki/Mauro_Repetto",
+      "description": "Musicista e cofondatore degli 883, è raccontato in Nord Sud Ovest Est, il cui ultimo episodio va in onda il 20 novembre su Sky Serie.",
+      "description_source": "openai",
+      "image_filename": "Mauro_Repetto_Radio_Studio_Delta_2026.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mauro_Repetto_Radio_Studio_Delta_2026.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Mauro_Repetto_Radio_Studio_Delta_2026.png",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 10,
+      "article": "Matteo_Boe",
+      "views": 74284,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 17001
+        },
+        {
+          "date": "2026-11-17",
+          "views": 31937
+        },
+        {
+          "date": "2026-11-18",
+          "views": 13415
+        },
+        {
+          "date": "2026-11-19",
+          "views": 4757
+        },
+        {
+          "date": "2026-11-20",
+          "views": 2942
+        },
+        {
+          "date": "2026-11-21",
+          "views": 2256
+        },
+        {
+          "date": "2026-11-22",
+          "views": 1976
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Matteo%20Boe&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Matteo_Boe",
+      "article_url": "https://it.wikipedia.org/wiki/Matteo_Boe",
+      "description": "Esponente del banditismo sardo, è interpretato da Giacomo Fadda in 177 giorni, su Rai 1 il 16 e il 17 novembre.",
+      "description_source": "openai",
+      "image_filename": "Matteoboe.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d7/Matteoboe.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Matteoboe.jpg",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 11,
+      "article": "177_giorni._Il_rapimento_di_Farouk",
+      "views": 71080,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 16826
+        },
+        {
+          "date": "2026-11-17",
+          "views": 28537
+        },
+        {
+          "date": "2026-11-18",
+          "views": 12083
+        },
+        {
+          "date": "2026-11-19",
+          "views": 4763
+        },
+        {
+          "date": "2026-11-20",
+          "views": 2869
+        },
+        {
+          "date": "2026-11-21",
+          "views": 2744
+        },
+        {
+          "date": "2026-11-22",
+          "views": 3258
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=177%20giorni.%20Il%20rapimento%20di%20Farouk&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=177_giorni._Il_rapimento_di_Farouk",
+      "article_url": "https://it.wikipedia.org/wiki/177_giorni._Il_rapimento_di_Farouk",
+      "description": "Miniserie sul sequestro di Farouk Kassam, va in onda su Rai 1 il 16 e il 17 novembre con le prime due puntate.",
+      "description_source": "openai",
+      "image_filename": "177_Giorni_-_Il_rapimento_di_Farouk.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/d/de/177_Giorni_-_Il_rapimento_di_Farouk.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:177_Giorni_-_Il_rapimento_di_Farouk.png",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 12,
+      "article": "Dario_Amodei",
+      "views": 70830,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 984
+        },
+        {
+          "date": "2026-11-17",
+          "views": 1197
+        },
+        {
+          "date": "2026-11-18",
+          "views": 1838
+        },
+        {
+          "date": "2026-11-19",
+          "views": 20414
+        },
+        {
+          "date": "2026-11-20",
+          "views": 23714
+        },
+        {
+          "date": "2026-11-21",
+          "views": 12710
+        },
+        {
+          "date": "2026-11-22",
+          "views": 9973
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Dario%20Amodei&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Dario_Amodei",
+      "article_url": "https://it.wikipedia.org/wiki/Dario_Amodei",
+      "description": "Imprenditore statunitense e amministratore delegato di Anthropic, il 20 novembre arriva in Puglia.",
+      "description_source": "openai",
+      "image_filename": "Dario_Amodei_at_TechCrunch_Disrupt_2023_01_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Dario_Amodei_at_TechCrunch_Disrupt_2023_01_%28cropped%29.jpg/1280px-Dario_Amodei_at_TechCrunch_Disrupt_2023_01_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_01_(cropped).jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 13,
+      "article": "Clemente_Russo",
+      "views": 65393,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 2276
+        },
+        {
+          "date": "2026-11-17",
+          "views": 1983
+        },
+        {
+          "date": "2026-11-18",
+          "views": 2204
+        },
+        {
+          "date": "2026-11-19",
+          "views": 3031
+        },
+        {
+          "date": "2026-11-20",
+          "views": 5488
+        },
+        {
+          "date": "2026-11-21",
+          "views": 21970
+        },
+        {
+          "date": "2026-11-22",
+          "views": 28441
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Clemente%20Russo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Clemente_Russo",
+      "article_url": "https://it.wikipedia.org/wiki/Clemente_Russo",
+      "description": "Pugile italiano, il 21 novembre perde per ko tecnico contro Momo Elmaghraby al suo esordio da professionista.",
+      "description_source": "openai",
+      "image_filename": "Clemente_Russo_Rio2016d.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Clemente_Russo_Rio2016d.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Clemente_Russo_Rio2016d.jpg",
+      "image_license": "CC BY-SA 2.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 14,
+      "article": "883_(gruppo_musicale)",
+      "views": 65301,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 9011
+        },
+        {
+          "date": "2026-11-17",
+          "views": 6840
+        },
+        {
+          "date": "2026-11-18",
+          "views": 5811
+        },
+        {
+          "date": "2026-11-19",
+          "views": 5087
+        },
+        {
+          "date": "2026-11-20",
+          "views": 11011
+        },
+        {
+          "date": "2026-11-21",
+          "views": 14943
+        },
+        {
+          "date": "2026-11-22",
+          "views": 12598
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=883%20%28gruppo%20musicale%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=883_(gruppo_musicale)",
+      "article_url": "https://it.wikipedia.org/wiki/883_(gruppo_musicale)",
+      "description": "Gruppo fondato da Max Pezzali e Mauro Repetto, è raccontato in Nord Sud Ovest Est, che si conclude il 20 novembre su Sky Serie.",
+      "description_source": "openai",
+      "image_filename": "Pezzali_Repetto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/9/93/Pezzali_Repetto.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Pezzali_Repetto.jpg",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 15,
+      "article": "Grand_Theft_Auto_(serie)",
+      "views": 59108,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 2108
+        },
+        {
+          "date": "2026-11-17",
+          "views": 4452
+        },
+        {
+          "date": "2026-11-18",
+          "views": 8467
+        },
+        {
+          "date": "2026-11-19",
+          "views": 15704
+        },
+        {
+          "date": "2026-11-20",
+          "views": 13295
+        },
+        {
+          "date": "2026-11-21",
+          "views": 8424
+        },
+        {
+          "date": "2026-11-22",
+          "views": 6658
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Grand%20Theft%20Auto%20%28serie%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Grand_Theft_Auto_(serie)",
+      "article_url": "https://it.wikipedia.org/wiki/Grand_Theft_Auto_(serie)",
+      "description": "Serie di videogiochi di Rockstar Games, il 19 novembre RaiNews riporta l'uscita del nuovo capitolo, Grand Theft Auto VI.",
+      "description_source": "openai",
+      "image_filename": "Grand_Theft_Auto_logo_series.svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Grand_Theft_Auto_logo_series.svg/1280px-Grand_Theft_Auto_logo_series.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Grand_Theft_Auto_logo_series.svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 16,
+      "article": "Ronaldinho",
+      "views": 59044,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 31273
+        },
+        {
+          "date": "2026-11-17",
+          "views": 11014
+        },
+        {
+          "date": "2026-11-18",
+          "views": 5273
+        },
+        {
+          "date": "2026-11-19",
+          "views": 3556
+        },
+        {
+          "date": "2026-11-20",
+          "views": 2664
+        },
+        {
+          "date": "2026-11-21",
+          "views": 2728
+        },
+        {
+          "date": "2026-11-22",
+          "views": 2536
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Ronaldinho&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Ronaldinho",
+      "article_url": "https://it.wikipedia.org/wiki/Ronaldinho",
+      "description": "Calciatore brasiliano campione del mondo nel 2002, il 15 novembre torna in campo con il Ravenna, che batte il Forlì 2-0.",
+      "description_source": "openai",
+      "image_filename": "Ronaldinho_in_2019.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ronaldinho_in_2019.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg",
+      "image_license": "CC BY 2.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 17,
+      "article": "Strage_di_via_D'Amelio",
+      "views": 57457,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 1527
+        },
+        {
+          "date": "2026-11-17",
+          "views": 1700
+        },
+        {
+          "date": "2026-11-18",
+          "views": 636
+        },
+        {
+          "date": "2026-11-19",
+          "views": 0
+        },
+        {
+          "date": "2026-11-20",
+          "views": 0
+        },
+        {
+          "date": "2026-11-21",
+          "views": 37383
+        },
+        {
+          "date": "2026-11-22",
+          "views": 16211
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Strage%20di%20via%20D%27Amelio&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Strage_di_via_D%27Amelio",
+      "article_url": "https://it.wikipedia.org/wiki/Strage_di_via_D%27Amelio",
+      "description": "Nell'attentato mafioso del 1992 muoiono Paolo Borsellino e cinque agenti. Il 21 novembre si uccide Gianni De Gennaro, indagato per depistaggio.",
+      "description_source": "openai",
+      "image_filename": "ViaD'Amelio_strage.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/c/cd/ViaD%27Amelio_strage.jpg/1280px-ViaD%27Amelio_strage.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:ViaD%27Amelio_strage.jpg",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 18,
+      "article": "Episodi_di_Doc_-_Nelle_tue_mani_(quarta_stagione)",
+      "views": 57390,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 4271
+        },
+        {
+          "date": "2026-11-17",
+          "views": 4046
+        },
+        {
+          "date": "2026-11-18",
+          "views": 4087
+        },
+        {
+          "date": "2026-11-19",
+          "views": 17799
+        },
+        {
+          "date": "2026-11-20",
+          "views": 14668
+        },
+        {
+          "date": "2026-11-21",
+          "views": 7059
+        },
+        {
+          "date": "2026-11-22",
+          "views": 5460
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20di%20Doc%20-%20Nelle%20tue%20mani%20%28quarta%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Episodi_di_Doc_-_Nelle_tue_mani_(quarta_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_di_Doc_-_Nelle_tue_mani_(quarta_stagione)",
+      "description": "Il 19 novembre vanno in onda su Rai 1 il tredicesimo e il quattordicesimo episodio della quarta stagione.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 19,
+      "article": "Giovanni_Gentile",
+      "views": 56805,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 0
+        },
+        {
+          "date": "2026-11-17",
+          "views": 4334
+        },
+        {
+          "date": "2026-11-18",
+          "views": 24816
+        },
+        {
+          "date": "2026-11-19",
+          "views": 11336
+        },
+        {
+          "date": "2026-11-20",
+          "views": 8704
+        },
+        {
+          "date": "2026-11-21",
+          "views": 4381
+        },
+        {
+          "date": "2026-11-22",
+          "views": 3234
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Giovanni%20Gentile&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Giovanni_Gentile",
+      "article_url": "https://it.wikipedia.org/wiki/Giovanni_Gentile",
+      "description": "Filosofo e politico fascista ucciso nel 1944, è ricordato il 17 novembre alla Camera durante il dibattito sulla legge sull'antisemitismo.",
+      "description_source": "openai",
+      "image_filename": "Giovanni_Gentile_sgr.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Giovanni_Gentile_sgr.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Gentile_sgr.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 20,
+      "article": "Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione)",
+      "views": 54403,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 7162
+        },
+        {
+          "date": "2026-11-17",
+          "views": 6040
+        },
+        {
+          "date": "2026-11-18",
+          "views": 5405
+        },
+        {
+          "date": "2026-11-19",
+          "views": 5048
+        },
+        {
+          "date": "2026-11-20",
+          "views": 12702
+        },
+        {
+          "date": "2026-11-21",
+          "views": 10849
+        },
+        {
+          "date": "2026-11-22",
+          "views": 7197
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20La%20leggendaria%20storia%20degli%20883%20%28seconda%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_La_leggendaria_storia_degli_883_(seconda_stagione)",
+      "description": "Il 20 novembre va in onda su Sky Serie l'ottavo e ultimo episodio di Nord Sud Ovest Est, seconda stagione della serie sugli 883.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 21,
+      "article": "Elisabetta_di_Baviera",
+      "views": 54095,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 9059
+        },
+        {
+          "date": "2026-11-17",
+          "views": 8777
+        },
+        {
+          "date": "2026-11-18",
+          "views": 7916
+        },
+        {
+          "date": "2026-11-19",
+          "views": 7149
+        },
+        {
+          "date": "2026-11-20",
+          "views": 6350
+        },
+        {
+          "date": "2026-11-21",
+          "views": 6736
+        },
+        {
+          "date": "2026-11-22",
+          "views": 8108
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Elisabetta%20di%20Baviera&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Elisabetta_di_Baviera",
+      "article_url": "https://it.wikipedia.org/wiki/Elisabetta_di_Baviera",
+      "description": "Imperatrice d'Austria nota come Sissi, è in classifica senza un picco di rilievo.",
+      "description_source": "openai",
+      "image_filename": "Elisabeth_of_Austria,_by_Franz_Xaver_Winterhalter.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Elisabeth_of_Austria%2C_by_Franz_Xaver_Winterhalter.jpg/1280px-Elisabeth_of_Austria%2C_by_Franz_Xaver_Winterhalter.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Elisabeth_of_Austria%2C_by_Franz_Xaver_Winterhalter.jpg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 22,
+      "article": "Max_Pezzali",
+      "views": 52463,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 6528
+        },
+        {
+          "date": "2026-11-17",
+          "views": 5428
+        },
+        {
+          "date": "2026-11-18",
+          "views": 4648
+        },
+        {
+          "date": "2026-11-19",
+          "views": 4012
+        },
+        {
+          "date": "2026-11-20",
+          "views": 8250
+        },
+        {
+          "date": "2026-11-21",
+          "views": 12299
+        },
+        {
+          "date": "2026-11-22",
+          "views": 11298
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Max%20Pezzali&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Max_Pezzali",
+      "article_url": "https://it.wikipedia.org/wiki/Max_Pezzali",
+      "description": "Cantautore e cofondatore degli 883, è raccontato in Nord Sud Ovest Est, che si conclude il 20 novembre su Sky Serie.",
+      "description_source": "openai",
+      "image_filename": "Max_Pezzali_at_Cartoomics_2013-1_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Max_Pezzali_at_Cartoomics_2013-1_%28cropped%29.jpg/1280px-Max_Pezzali_at_Cartoomics_2013-1_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Max_Pezzali_at_Cartoomics_2013-1_(cropped).jpg",
+      "image_license": "CC BY-SA 3.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 23,
+      "article": "Alexander_Zverev",
+      "views": 52222,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 3838
+        },
+        {
+          "date": "2026-11-17",
+          "views": 8214
+        },
+        {
+          "date": "2026-11-18",
+          "views": 2755
+        },
+        {
+          "date": "2026-11-19",
+          "views": 7375
+        },
+        {
+          "date": "2026-11-20",
+          "views": 2781
+        },
+        {
+          "date": "2026-11-21",
+          "views": 5395
+        },
+        {
+          "date": "2026-11-22",
+          "views": 21864
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Alexander%20Zverev&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Alexander_Zverev",
+      "article_url": "https://it.wikipedia.org/wiki/Alexander_Zverev",
+      "description": "Tennista tedesco, il 22 novembre affronta Carlos Alcaraz nella finale delle ATP Finals a Torino.",
+      "description_source": "openai",
+      "image_filename": "Alexander_Zverev.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Zverev.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Alexander_Zverev.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 24,
+      "article": "Andrea_De_Gennaro",
+      "views": 51392,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 1329
+        },
+        {
+          "date": "2026-11-17",
+          "views": 1588
+        },
+        {
+          "date": "2026-11-18",
+          "views": 1426
+        },
+        {
+          "date": "2026-11-19",
+          "views": 1265
+        },
+        {
+          "date": "2026-11-20",
+          "views": 0
+        },
+        {
+          "date": "2026-11-21",
+          "views": 31605
+        },
+        {
+          "date": "2026-11-22",
+          "views": 14179
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Andrea%20De%20Gennaro&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Andrea_De_Gennaro",
+      "article_url": "https://it.wikipedia.org/wiki/Andrea_De_Gennaro",
+      "description": "Comandante della Guardia di Finanza, il 21 novembre perde il fratello Gianni, ex capo della Polizia morto suicida.",
+      "description_source": "openai",
+      "image_filename": "Generale_Andrea_De_Gennaro.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Generale_Andrea_De_Gennaro.jpg/1280px-Generale_Andrea_De_Gennaro.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Generale_Andrea_De_Gennaro.jpg",
+      "image_license": "CC BY 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 25,
+      "article": "Rai",
+      "views": 49085,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 8074
+        },
+        {
+          "date": "2026-11-17",
+          "views": 8245
+        },
+        {
+          "date": "2026-11-18",
+          "views": 7301
+        },
+        {
+          "date": "2026-11-19",
+          "views": 7614
+        },
+        {
+          "date": "2026-11-20",
+          "views": 6614
+        },
+        {
+          "date": "2026-11-21",
+          "views": 5321
+        },
+        {
+          "date": "2026-11-22",
+          "views": 5916
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Rai&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Rai",
+      "article_url": "https://it.wikipedia.org/wiki/Rai",
+      "description": "Servizio radiotelevisivo pubblico italiano, è in classifica per l'undicesima settimana consecutiva, senza picchi di rilievo.",
+      "description_source": "openai",
+      "image_filename": "Logo_of_RAI_(2016).svg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1280px-Logo_of_RAI_%282016%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Logo_of_RAI_(2016).svg",
+      "image_license": "Public domain",
+      "image_copyrighted": "False",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 26,
+      "article": "Episodi_de_Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere_(terza_stagione)",
+      "views": 49003,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 8560
+        },
+        {
+          "date": "2026-11-17",
+          "views": 8001
+        },
+        {
+          "date": "2026-11-18",
+          "views": 9117
+        },
+        {
+          "date": "2026-11-19",
+          "views": 6669
+        },
+        {
+          "date": "2026-11-20",
+          "views": 4940
+        },
+        {
+          "date": "2026-11-21",
+          "views": 5134
+        },
+        {
+          "date": "2026-11-22",
+          "views": 6582
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Episodi%20de%20Il%20Signore%20degli%20Anelli%20-%20Gli%20Anelli%20del%20Potere%20%28terza%20stagione%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Episodi_de_Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere_(terza_stagione)",
+      "article_url": "https://it.wikipedia.org/wiki/Episodi_de_Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere_(terza_stagione)",
+      "description": "Il 18 novembre escono su Prime Video il quinto e il sesto episodio della terza stagione.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 27,
+      "article": "Piero_Vigorelli",
+      "views": 43857,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 0
+        },
+        {
+          "date": "2026-11-17",
+          "views": 0
+        },
+        {
+          "date": "2026-11-18",
+          "views": 0
+        },
+        {
+          "date": "2026-11-19",
+          "views": 32143
+        },
+        {
+          "date": "2026-11-20",
+          "views": 6445
+        },
+        {
+          "date": "2026-11-21",
+          "views": 3832
+        },
+        {
+          "date": "2026-11-22",
+          "views": 1437
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Piero%20Vigorelli&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Piero_Vigorelli",
+      "article_url": "https://it.wikipedia.org/wiki/Piero_Vigorelli",
+      "description": "Giornalista e conduttore televisivo, ideatore di La vita in diretta, muore il 19 novembre a 82 anni.",
+      "description_source": "openai",
+      "image_filename": "",
+      "image_url": "",
+      "image_commons_url": "",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 28,
+      "article": "Toni_Capuozzo",
+      "views": 43356,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 29071
+        },
+        {
+          "date": "2026-11-17",
+          "views": 6592
+        },
+        {
+          "date": "2026-11-18",
+          "views": 1871
+        },
+        {
+          "date": "2026-11-19",
+          "views": 2132
+        },
+        {
+          "date": "2026-11-20",
+          "views": 1528
+        },
+        {
+          "date": "2026-11-21",
+          "views": 1207
+        },
+        {
+          "date": "2026-11-22",
+          "views": 955
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Toni%20Capuozzo&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Toni_Capuozzo",
+      "article_url": "https://it.wikipedia.org/wiki/Toni_Capuozzo",
+      "description": "Giornalista e inviato di guerra, morto il 12 novembre, viene salutato il 16 novembre ai funerali nel duomo di Udine.",
+      "description_source": "openai",
+      "image_filename": "Capuozzo_a_pattada.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Capuozzo_a_pattada.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Capuozzo_a_pattada.jpg",
+      "image_license": "CC BY-SA 4.0",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 29,
+      "article": "Pino_Rauti",
+      "views": 42835,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 5268
+        },
+        {
+          "date": "2026-11-17",
+          "views": 8077
+        },
+        {
+          "date": "2026-11-18",
+          "views": 11215
+        },
+        {
+          "date": "2026-11-19",
+          "views": 9182
+        },
+        {
+          "date": "2026-11-20",
+          "views": 4375
+        },
+        {
+          "date": "2026-11-21",
+          "views": 2569
+        },
+        {
+          "date": "2026-11-22",
+          "views": 2149
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Pino%20Rauti&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Pino_Rauti",
+      "article_url": "https://it.wikipedia.org/wiki/Pino_Rauti",
+      "description": "Politico ed ex segretario del MSI, è ricordato in una mostra alla Camera: il 17 novembre viene chiesta la rimozione dei simboli fascisti.",
+      "description_source": "openai",
+      "image_filename": "Giuseppe_Rauti_MEP_(cropped).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Giuseppe_Rauti_MEP_%28cropped%29.jpg/1280px-Giuseppe_Rauti_MEP_%28cropped%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Rauti_MEP_(cropped).jpg",
+      "image_license": "European Parliament",
+      "image_copyrighted": "True",
+      "description_model": "gpt-6.1-terra"
+    },
+    {
+      "rank": 30,
+      "article": "Fjord_(film)",
+      "views": 42808,
+      "daily_views": [
+        {
+          "date": "2026-11-16",
+          "views": 2272
+        },
+        {
+          "date": "2026-11-17",
+          "views": 2868
+        },
+        {
+          "date": "2026-11-18",
+          "views": 3799
+        },
+        {
+          "date": "2026-11-19",
+          "views": 6583
+        },
+        {
+          "date": "2026-11-20",
+          "views": 7160
+        },
+        {
+          "date": "2026-11-21",
+          "views": 9143
+        },
+        {
+          "date": "2026-11-22",
+          "views": 10983
+        }
+      ],
+      "google_news_url": "https://www.google.it/search?q=Fjord%20%28film%29&hl=it&gl=it&authuser=0&source=lnt&tbs=cdr:1,cd_min:11/16/2026,cd_max:11/22/2026&tbm=nws",
+      "pageviews_url": "https://pageviews.wmcloud.org/?project=it.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2026-11-16&end=2026-11-22&pages=Fjord_(film)",
+      "article_url": "https://it.wikipedia.org/wiki/Fjord_(film)",
+      "description": "Film di Cristian Mungiu vincitore della Palma d'oro a Cannes, esce nelle sale italiane il 19 novembre.",
+      "description_source": "openai",
+      "image_filename": "Fjord_(film).scene.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/d/d0/Fjord_%28film%29.scene.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_commons_url": "https://commons.wikimedia.org/wiki/File:Fjord_(film).scene.jpg",
+      "image_license": "",
+      "image_copyrighted": "",
+      "description_model": "gpt-6.1-terra"
+    }
+  ]
+}
